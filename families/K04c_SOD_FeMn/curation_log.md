@@ -30,6 +30,6 @@ Status: **done** (decoy/merge-test family; no orthology asserted inside). Time: 
   empty (COG membership is not a declared genome-wide exhaustive search for each form).
 
 ## Problems / caveats
-- panels/K not yet available: validated against literature/raw/C/trees/panel_K_ncbi_topology.nwk (internal nodes
-  auto-named); no levels used by these families, so nothing depends on level names. Re-run validation once panels/K exists.
+- Validated (validate_panel with all K families: 0 errors) on panels/K/species_tree.nwk and species_tree_alt.nwk;
+  rebuild with panels/K/proteomes gives byte-identical members/trees. No levels are used by these families.
 - The same five decoy pairs can be re-declared in panel E (eukaryotic members) later.
