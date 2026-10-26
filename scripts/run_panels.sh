@@ -48,7 +48,7 @@ lane_of() {
 }
 
 lane_fo() {
-  for p in $PANELS; do wait_panel "$p"; run fastoma "$p" default --threads 6 --mem-gb 30 --wait-hogmaps 180; done
+  for p in $PANELS; do wait_panel "$p"; run fastoma "$p" default --threads 6 --mem-gb 30 --wait-hogmaps ${WAIT_HOGMAPS:-180}; done
 }
 
 lane_of > logs/wrapper_${MODE}_$(echo $PANELS|tr -d " ")_of.log 2>&1 &

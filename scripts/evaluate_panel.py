@@ -134,7 +134,7 @@ def load_run(run: Path, st, kw, cache: Path, placements):
                                    tool_species_tree=run / "species_tree_checked.nwk", dup_placement=dp, **kw)
             res.append((tool, f"{variant}_{dp}", pred, run / "FastOMA_HOGs.orthoxml.gz", man))
     elif tool == "of_flat":
-        res.append((tool, variant, read_prediction("tsv", run / "hogs.tsv.gz", st, **kw), run / "hogs.tsv.gz", man))
+        res.append((tool, variant, read_prediction("tsv", run / "hogs.tsv.gz", st, flat=True, **kw), run / "hogs.tsv.gz", man))
     elif tool == "orthofinder":
         d = cache / run.parent.parent.name / run.parent.name / run.name
         if not (d / "Phylogenetic_Hierarchical_Orthogroups").exists():

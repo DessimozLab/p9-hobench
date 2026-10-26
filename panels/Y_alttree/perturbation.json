@@ -1,0 +1,147 @@
+{
+ "perturbation": "alttree",
+ "parent_panel": "Y",
+ "seed": 20261026,
+ "created": "2026-10-27T00:40:58+0100",
+ "git_commit": "e0f02f4f6f79bcee4304a0306999a4a59f21c3df",
+ "argv": [
+  "/scratch/nromashc/agentic-ai/workspaces/mywork/wrapper/perturb.py",
+  "alttree",
+  "--panel",
+  "Y"
+ ],
+ "parent_tree_sha256": "35f3d1c80fe1ee4fa800fe0bb21e1d14dbdd92f59426b098e329c765c881a8be",
+ "parent_proteomes": {
+  "YEAST": "c49db6bd876d19153623b9bed283c3f98b1346cf4ff33f79d69cb46189e83f7b",
+  "CANGA": "18e7f62dd85e30abdedde880567cc9c00bc71587b45650be5157de26e4bddfd9",
+  "NAUCC": "fdf197c7bc143a3fd170b8761ab1ca2c8ca98d0aca6391c9a1c4e4edac80aba5",
+  "NAUDC": "ddd26b6a6e833748c0373ac9ee26d6e9efe05e6a77f5e943c3418b06d7b6282e",
+  "KAZAF": "4f75554dbb7c17408cb7d44b97d9674a5035290b103a3ccfe8911bbcc18c1698",
+  "VANPO": "ee5233df19eceffbe8e9265b5d862ca459c5f59614429a39d1afed1efd338ae6",
+  "TETPH": "a68c57cb84a1890fd892a247daacf787ace7a3b90bf58e99746c11486df2bc84",
+  "ZYGRC": "405d12b44951ce4525e0113b6a55e0f253bcadbb353824d8e20d8fbee08beb31",
+  "TORDC": "41510b70e9524f909521ccf10e2fe96dfb28b780a7856ac30fba2e315d5fdd66",
+  "LACTH": "ba12569bf4cdfff4fe50ce1ce9563e22a2ceee7ba72cb8dfee222095d1cb2665",
+  "KLULA": "496e43947d708e767574fbb6a4c8d72ed3d7876cba65a897d5a1528337ab2495",
+  "ASHGO": "d557574d6b44d7548b510d340603e9e311bdd906251e8792aed500455c1f1d7f",
+  "ERECY": "329c0e2f3c6789afb6eebae8253efde003f7180d0e0e69d868203366a9af9fa6",
+  "CANAL": "1d7da6232b6c70c2e1ca7a0ddaec7b406be3dfa1f58f8889f5784ee43de9d692",
+  "YARLI": "aae963947acb8abb74568eda1139a13dbd18bd41cc6e6f39723138c7835b4208",
+  "SCHPO": "06c9bd5a09be5c76f9305141a34df73befd435a470e20609ae47df8088b80884"
+ },
+ "alt_tree": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/species_tree_alt.nwk",
+ "alt_tree_sha256": "fd06c910a5084d753bcff9aad648fba33ed0ae219b42980e05b61f6ad32881c7",
+ "clades": {
+  "shared": [
+   [
+    "Ascomycota",
+    "Ascomycota"
+   ],
+   [
+    "CUG_Saccharomycetaceae",
+    "CUG_Saccharomycetaceae"
+   ],
+   [
+    "Eremothecium",
+    "Eremothecium"
+   ],
+   [
+    "KLE_clade",
+    "KLE_clade"
+   ],
+   [
+    "Kluyveromyces_Eremothecium",
+    "Kluyveromyces_Eremothecium"
+   ],
+   [
+    "Naumovozyma",
+    "Naumovozyma"
+   ],
+   [
+    "Naumovozyma_Kazachstania",
+    "Naumovozyma_Kazachstania"
+   ],
+   [
+    "PostWGD",
+    "PostWGD"
+   ],
+   [
+    "PostWGD_crown",
+    "PostWGD_crown"
+   ],
+   [
+    "Saccharomyces_Nakaseomyces",
+    "Saccharomyces_Nakaseomyces"
+   ],
+   [
+    "Saccharomycetaceae",
+    "Saccharomycetaceae"
+   ],
+   [
+    "Saccharomycotina",
+    "Saccharomycotina"
+   ],
+   [
+    "Vanderwaltozyma_Tetrapisispora",
+    "Vanderwaltozyma_Tetrapisispora"
+   ],
+   [
+    "ZT_clade",
+    "ZT_clade"
+   ]
+  ],
+  "only_parent": [
+   [
+    "ZT_PostWGD",
+    [
+     "CANGA",
+     "KAZAF",
+     "NAUCC",
+     "NAUDC",
+     "TETPH",
+     "TORDC",
+     "VANPO",
+     "YEAST",
+     "ZYGRC"
+    ]
+   ]
+  ],
+  "only_new": [
+   [
+    "KLE_PostWGD",
+    [
+     "ASHGO",
+     "CANGA",
+     "ERECY",
+     "KAZAF",
+     "KLULA",
+     "LACTH",
+     "NAUCC",
+     "NAUDC",
+     "TETPH",
+     "VANPO",
+     "YEAST"
+    ]
+   ]
+  ]
+ },
+ "proteomes": {
+  "ASHGO": "d557574d6b44d7548b510d340603e9e311bdd906251e8792aed500455c1f1d7f",
+  "CANAL": "1d7da6232b6c70c2e1ca7a0ddaec7b406be3dfa1f58f8889f5784ee43de9d692",
+  "CANGA": "18e7f62dd85e30abdedde880567cc9c00bc71587b45650be5157de26e4bddfd9",
+  "ERECY": "329c0e2f3c6789afb6eebae8253efde003f7180d0e0e69d868203366a9af9fa6",
+  "KAZAF": "4f75554dbb7c17408cb7d44b97d9674a5035290b103a3ccfe8911bbcc18c1698",
+  "KLULA": "496e43947d708e767574fbb6a4c8d72ed3d7876cba65a897d5a1528337ab2495",
+  "LACTH": "ba12569bf4cdfff4fe50ce1ce9563e22a2ceee7ba72cb8dfee222095d1cb2665",
+  "NAUCC": "fdf197c7bc143a3fd170b8761ab1ca2c8ca98d0aca6391c9a1c4e4edac80aba5",
+  "NAUDC": "ddd26b6a6e833748c0373ac9ee26d6e9efe05e6a77f5e943c3418b06d7b6282e",
+  "SCHPO": "06c9bd5a09be5c76f9305141a34df73befd435a470e20609ae47df8088b80884",
+  "TETPH": "a68c57cb84a1890fd892a247daacf787ace7a3b90bf58e99746c11486df2bc84",
+  "TORDC": "41510b70e9524f909521ccf10e2fe96dfb28b780a7856ac30fba2e315d5fdd66",
+  "VANPO": "ee5233df19eceffbe8e9265b5d862ca459c5f59614429a39d1afed1efd338ae6",
+  "YARLI": "aae963947acb8abb74568eda1139a13dbd18bd41cc6e6f39723138c7835b4208",
+  "YEAST": "c49db6bd876d19153623b9bed283c3f98b1346cf4ff33f79d69cb46189e83f7b",
+  "ZYGRC": "405d12b44951ce4525e0113b6a55e0f253bcadbb353824d8e20d8fbee08beb31"
+ },
+ "species_tree_sha256": "fd06c910a5084d753bcff9aad648fba33ed0ae219b42980e05b61f6ad32881c7"
+}

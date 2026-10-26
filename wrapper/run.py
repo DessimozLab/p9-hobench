@@ -28,7 +28,7 @@ from hobench.newick import read_newick
 
 # Variants (SYNTHESIS E7). Each maps to extra command-line arguments.
 VARIANTS = {
-    "orthofinder": {"default": [], "dendroblast": ["-M", "dendroblast"]},
+    "orthofinder": {"default": [], "dendroblast": ["-M", "dendroblast"], "rep2": []},  # rep2 = clean replicate (noise floor)
     "fastoma": {"default": []},
     "of_flat": {"default": [], "dendroblast": []},  # derived from orthofinder_<variant>
 }
