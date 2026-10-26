@@ -5,6 +5,20 @@ Start: see START.txt (2026-10-26T13:17:42Z). Budget 24 h → hard stop 2026-10-2
 
 ## Status summary (latest milestone first)
 
+### M4 — References frozen (T+10h35, 23:52 UTC)
+Frozen: 26 curated families/collections across 5 panels (headline: Y01 YGOB [1,976 units], Y03 URA1-HGT, K02, K04a–j
+decoys, K01 r-proteins [control], E01 kinesins, E02 ARF, E03 Rab, E04 tubulins, E05 MCM [control], E07c, V02 opsins,
+V03 Hox, V07 X. laevis L/S [500 units], P02 bHLH, P03 GID1/CXE, P04 MIPs; secondary: E06, E07a/b, P01, V01, V04).
+Blind verification: 21/22 pass (V01 fails → secondary). Source audit: 0 violations. Human delivered ~45/50 requested
+items (globins, Xenopus, Manning kinome...); used where IDs existed. Round-2 review accepted (testable events, baselines
+shown with skill, controls track, pooled confirmatory test).
+
+Vertical slice (Y, K full) scored: positive control perfect; negative controls exposed (and we fixed, logged in
+results/ERRATA.md) untestable WGD events and a flat-baseline projection bug. First signal: on YGOB, FastOMA beats
+OrthoFinder on merge accuracy (0.94 vs 0.88) and membership F1 (0.92 vs 0.83); testable WGD events are rarely recovered
+by either (hidden paralogy is hard). Running: E/P/V/Y/K subset runs, then Y robustness (alt tree, fragmentation,
+contamination, taxon removal). Next: score all panels, equivalence test, confirmatory test, difficulty analysis, report.
+
 ### M3 — Curation wave 1 + Y/K runs (T+10h10, 23:27 UTC)
 Second account-limit outage (~20:20→23:10 UTC). Done before it: hobench v1 (88 tests; interval merge levels, two-sided
 events, membership F1, OrthoBench measures, paired/two-stage stats; YGOB positive control perfect in 17 s), panels Y/K/E/V/P
@@ -54,7 +68,7 @@ Git repo initialised. Next: parallel literature survey (benchmarks/metrics; cand
   - [x] 1c. Genome/proteome sources, species panels, species trees, licenses
 - [~] 2. DESIGN.md v1 after review round 1 (reviews/round1/SYNTHESIS.md); round 2 pending
 - [ ] 3. Data: species panels + proteomes (DATA.md)
-- [ ] 4. Curation: literature extraction → reference families (assertions with provenance)
+- [x] 4. Curation (frozen refs-frozen-v1; families/VERIFICATION.md, families/AUDIT.md): literature extraction → reference families (assertions with provenance)
 - [~] 5. Metrics library + toy/positive/negative controls (hobench core: 53 tests pass)
 - [ ] 6. Tool wrapper (OrthoFinder, FastOMA, baselines) + runs
 - [ ] 7. Analysis: difficulty, method agreement, perturbation robustness
@@ -76,3 +90,5 @@ Git repo initialised. Next: parallel literature survey (benchmarks/metrics; cand
 - D6 (T+5h50): Protocol v1.1 domain-only mapping (≥250 aa, ≥90% qcov, ≥98% id, RBH, margin). Why: kinesin/myosin sources give only motor domains; same-species identity over a long domain identifies the gene.
 - D7 (T+6h): E06 myosins (73%) and P01 homeobox (62%) stay non-headline: 80% rule pre-registered; not relaxed.
 - D8 (T+10h): Cut salmonid 4R/chemokines/KRAB/MADS/SwissTree/PolB; ≤4 concurrent agents, Sonnet for evaluation. Why: second account-limit outage; budget is the bottleneck.
+- D9 (T+10h30): Freeze now (earlier than T+12) because all launched curation finished; V01 FAIL → secondary (no re-curation; budget).
+- D10 (T+10h30): Keep compressed tool outputs in git (≤20 MB/run) despite audit suggestion — brief requires results in git; metrics reproducible without re-running tools.
