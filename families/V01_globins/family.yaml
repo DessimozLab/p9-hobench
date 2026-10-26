@@ -1,0 +1,73 @@
+id: V01_globins
+name: Chordate globins (Ngb, GbX, Cygb, Mb, GbE, GbY, alpha/beta-Hb, cyclostome Hb)
+panel: V
+phenomena:
+- WGD
+- TAND
+- LOSS
+- CONV
+- DEEP
+descriptors:
+  n_members: 43
+  n_species: 8
+  mapping: 43/56 in-panel Table S1 rows mapped (77%)
+  per_species_mapped:
+    BRAFL: 12/15
+    CHICK: 6/6
+    CIOIN: 1/4
+    DANRE: 6/7
+    HUMAN: 5/5
+    ORYLA: 5/7
+    PETMA: 3/6
+    XENTR: 5/6
+sources:
+- id: Hoffmann2012b
+  doi: 10.1093/molbev/mss018
+  pmid: '22319164'
+  title: 'Evolution of the globin gene family in deuterostomes: lineage-specific patterns of diversification and attrition'
+  year: 2012
+  source_method: phylogeny
+  table: Supplementary Table S1
+  locator: Table S1; Results (four globin clades)
+  quote: Relationships among these four clades are well resolved, with the Ngb-containing clade 4 sister to the remaining
+    three clades.
+  files:
+    literature/papers/PMID22319164/raw/received/supp/Deuterostome_globins_Supp_Tables.pdf: 2f7a5221d2f0ff881620eeba0158420de98a2dbf37db28c0db315f711bd2f44e
+    literature/papers/PMID22319164/raw/received/supp/Deuterostome_globins_Supp_Tables.txt: 4c01a54b0801caa082c463a41e2a56ee6c5357ffd52a4c4e74b582b8a34be486
+    literature/papers/PMID22319164/raw/received/supp/Sequence_alignment.txt: 6019e7a97752876985079cbe2da22c1bf47c4c655e32904a3e25470b1b576c68
+    literature/papers/PMID22319164/raw/fulltext.txt: 58547a7ab4f8a9ebf9ae8745636a59ce304b0164a7758300ede1ac6ee9c5752e
+    literature/papers/PMID22319164/raw/received/04_supplement.zip: f854c06e532920a0deb29853f2b4a8c504b4c826c6adfbfe2caad745d636184e
+- id: Hoffmann2012a
+  doi: 10.1093/molbev/msr207
+  pmid: '21965344'
+  title: Whole-genome duplications spurred the functional diversification of the globin gene superfamily in vertebrates
+  year: 2012
+  source_method: synteny
+  locator: Discussion
+  quote: The first round of WGD produced a proto “Mb/GbE/Cygb” paralogon and a proto “α/β-Hb + GbY” paralogon
+  files:
+    literature/papers/PMID21965344/raw/fulltext.txt: 3972cf50db48ccb15bf842c5193ba725aff61787722aa052282a9e028ef75970
+- id: Hoffmann2010
+  doi: 10.1073/pnas.1006756107
+  pmid: '20660759'
+  title: Gene cooption and convergent evolution of oxygen transport hemoglobins in jawed and jawless vertebrates
+  year: 2010
+  source_method: phylogeny
+  locator: Results/Discussion
+  quote: Results of this analysis revealed that the erythroid Hbs of cyclostomes and gnathostomes are not orthologous proteins.
+  files:
+    literature/papers/PMID20660759/raw/fulltext.txt: 122c7806fabd5817a8a2474ce094edbe8cc46201337c0ccbe6833e04483ff682
+root_level: Chordata
+root_single_copy: false
+complete_species: []
+decoys: []
+distinct_from: []
+tier_summary:
+  T1_events: 14
+protocol_version: 1
+notes: 'Members are the representative sequences of Hoffmann 2012b Table S1 (one alpha- and one beta-Hb per gnathostome species,
+  not the full clusters) -> no complete_species. Hb cluster tandem copies, Opazo 2008 embryonic genes and teleost 3R Hb clusters
+  (Opazo 2013) are not encoded. Lamprey Hbs (Table S1 sea-lamprey entries) placed under U with the Cygb/Mb/GbE subtree because
+  their orthology to Cygb (Hoffmann 2010) vs co-orthology to Cygb+Mb+GbE depends on the contested 2R timing; the scored claim
+  is lamprey Hb vs gnathostome alpha/beta-Hb/GbY = paralogs (1R, Vertebrata). Hoffmann 2012a Table S1 and Hoffmann 2010 sd01
+  were not received; the received item #04 is Hoffmann 2012b.'

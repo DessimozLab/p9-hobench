@@ -358,8 +358,8 @@ def resolve_by_sequence(cache: JsonCache, code: str, recs: list[dict], strict_fa
     if not todo:
         return
     accs = sorted({a for r in todo for a in r["candidates"]})
-    seqs = fetch_uniprot_seqs(cache, [a for a in accs if not a.startswith("ens:")])
-    seqs.update({a: cache.data.get("seq|" + a, "") for a in accs if a.startswith("ens:")})
+    seqs = fetch_uniprot_seqs(cache, [a for a in accs if ":" not in a])
+    seqs.update({a: cache.data.get("seq|" + a, "") for a in accs if ":" in a})  # local keys (ens:, aln:)
     key = "seqmap|" + code + "|" + ",".join(accs)
     def run():
         from curation_tools.map_by_sequence import map_sequences

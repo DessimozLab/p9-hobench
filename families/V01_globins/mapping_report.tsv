@@ -1,0 +1,71 @@
+original_id	species	label	status	gene_id	reason	locator
+CBL51550	BRAFL	Amphioxus Gb1	mapped	A0A9J7MNB9	UniProt hit(s) ['F2Q9W6'] not in panel proteome (non-canonical/other entries); sequence of F2Q9W6 -> A0A9J7MNB9 (unique)	Table S1 line 28
+CBL51559	BRAFL	Amphioxus Gb10	mapped	A0A9J7KXK8	UniProt hit(s) ['F2Q9X5'] not in panel proteome (non-canonical/other entries); sequence of aln:Amphioxus_Gb10 -> A0A9J7KXK8 (exact)	Table S1 line 29
+CBL51560	BRAFL	Amphioxus Gb11	unmapped		UniProt hit(s) ['F2Q9X6'] not in panel proteome (non-canonical/other entries); sequence fallback failed (0 distinct qualifying targets)	Table S1 line 30
+CBL51561	BRAFL	Amphioxus Gb12	unmapped		UniProt hit(s) ['F2Q9X7'] not in panel proteome (non-canonical/other entries); sequence fallback failed (0 distinct qualifying targets)	Table S1 line 31
+CBL51562	BRAFL	Amphioxus Gb13	mapped	C3YZ50	UniProt hit(s) ['F2Q9X8'] not in panel proteome (non-canonical/other entries); sequence of aln:Amphioxus_Gb13 -> C3YZ50 (exact)	Table S1 line 37
+CBL51563	BRAFL	Amphioxus Gb14	mapped	C3Y097	UniProt hit(s) ['F2Q9X9'] not in panel proteome (non-canonical/other entries); sequence of F2Q9X9 -> C3Y097 (exact)	Table S1 line 38
+CBL51564	BRAFL	Amphioxus Gb15	mapped	A0A9J7MNG5	UniProt hit(s) ['F2Q9Y0'] not in panel proteome (non-canonical/other entries); sequence of aln:Amphioxus_Gb15 -> A0A9J7MNG5 (exact)	Table S1 line 39
+CBL51551	BRAFL	Amphioxus Gb2	mapped	A0A9J7L0D0	UniProt hit(s) ['F2Q9W7'] not in panel proteome (non-canonical/other entries); sequence of F2Q9W7 -> A0A9J7L0D0 (unique)	Table S1 line 40
+CBL51552	BRAFL	Amphioxus Gb3	mapped	A0A9J7M9S1	UniProt hit(s) ['F2Q9W8'] not in panel proteome (non-canonical/other entries); sequence of aln:Amphioxus_Gb3 -> A0A9J7M9S1 (unique)	Table S1 line 41
+CBL51553	BRAFL	Amphioxus Gb4	mapped	A0A9J7KGQ7	UniProt hit(s) ['F2Q9W9'] not in panel proteome (non-canonical/other entries); sequence of aln:Amphioxus_Gb4 -> A0A9J7KGQ7 (unique)	Table S1 line 42
+CBL51554	BRAFL	Amphioxus Gb5	unmapped		UniProt hit(s) ['F2Q9X0'] not in panel proteome (non-canonical/other entries); sequence fallback failed (0 distinct qualifying targets)	Table S1 line 43
+CBL51555	BRAFL	Amphioxus Gb6	mapped	A0A9J7HJB7	UniProt hit(s) ['F2Q9X1'] not in panel proteome (non-canonical/other entries); sequence of aln:Amphioxus_Gb6 -> A0A9J7HJB7 (exact)	Table S1 line 44
+CBL51556	BRAFL	Amphioxus Gb7	mapped	A0A9J7KWT8	UniProt hit(s) ['F2Q9X2'] not in panel proteome (non-canonical/other entries); sequence of F2Q9X2 -> A0A9J7KWT8 (unique)	Table S1 line 45
+CBL51557	BRAFL	Amphioxus Gb8	mapped	A0A9J7L058	UniProt hit(s) ['F2Q9X3'] not in panel proteome (non-canonical/other entries); sequence of aln:Amphioxus_Gb8 -> A0A9J7L058 (exact)	Table S1 line 46
+CBL51558	BRAFL	Amphioxus Gb9	mapped	C3YSB7	UniProt hit(s) ['F2Q9X4'] not in panel proteome (non-canonical/other entries); sequence of aln:Amphioxus_Gb9 -> C3YSB7 (exact)	Table S1 line 47
+XP_002589215	BRAFL	Amphioxus_Gb_XP_002589215	excluded		amphioxus gene model not in the authors' pruned set (removed as redundant, Methods) - the '+' Gb1-15 set represents the repertoire	Table S1 line 48
+XP_002596037	BRAFL	Amphioxus_Gb_XP_002596037	excluded		amphioxus gene model not in the authors' pruned set (removed as redundant, Methods) - the '+' Gb1-15 set represents the repertoire	Table S1 line 49
+XP_002598546	BRAFL	Amphioxus_Gb_XP_002598546	excluded		amphioxus gene model not in the authors' pruned set (removed as redundant, Methods) - the '+' Gb1-15 set represents the repertoire	Table S1 line 50
+XP_002601010	BRAFL	Amphioxus_Gb_XP_002601010	excluded		amphioxus gene model not in the authors' pruned set (removed as redundant, Methods) - the '+' Gb1-15 set represents the repertoire	Table S1 line 51
+XP_002601012	BRAFL	Amphioxus_Gb_XP_002601012	excluded		amphioxus gene model not in the authors' pruned set (removed as redundant, Methods) - the '+' Gb1-15 set represents the repertoire	Table S1 line 52
+XP_002605405	BRAFL	Amphioxus_Gb_XP_002605405	excluded		amphioxus gene model not in the authors' pruned set (removed as redundant, Methods) - the '+' Gb1-15 set represents the repertoire	Table S1 line 53
+XP_002605450	BRAFL	Amphioxus_Gb_XP_002605450	excluded		amphioxus gene model not in the authors' pruned set (removed as redundant, Methods) - the '+' Gb1-15 set represents the repertoire	Table S1 line 54
+XP_002608200	BRAFL	Amphioxus_Gb_XP_002608200	excluded		amphioxus gene model not in the authors' pruned set (removed as redundant, Methods) - the '+' Gb1-15 set represents the repertoire	Table S1 line 55
+XP_002608525	BRAFL	Amphioxus_Gb_XP_002608525	excluded		amphioxus gene model not in the authors' pruned set (removed as redundant, Methods) - the '+' Gb1-15 set represents the repertoire	Table S1 line 56
+XP_002608548	BRAFL	Amphioxus_Gb_XP_002608548	excluded		amphioxus gene model not in the authors' pruned set (removed as redundant, Methods) - the '+' Gb1-15 set represents the repertoire	Table S1 line 57
+XP_002608549	BRAFL	Amphioxus_Gb_XP_002608549	excluded		amphioxus gene model not in the authors' pruned set (removed as redundant, Methods) - the '+' Gb1-15 set represents the repertoire	Table S1 line 58
+XP_002610016	BRAFL	Amphioxus_Gb_XP_002610016	excluded		amphioxus gene model not in the authors' pruned set (removed as redundant, Methods) - the '+' Gb1-15 set represents the repertoire	Table S1 line 59
+XP_002610160	BRAFL	Amphioxus_Gb_XP_002610160	excluded		amphioxus gene model not in the authors' pruned set (removed as redundant, Methods) - the '+' Gb1-15 set represents the repertoire	Table S1 line 60
+XP_002610875	BRAFL	Amphioxus_Gb_XP_002610875	excluded		amphioxus gene model not in the authors' pruned set (removed as redundant, Methods) - the '+' Gb1-15 set represents the repertoire	Table S1 line 61
+NP_001008789	CHICK	Chicken_Cygb	mapped	A0A8V1ACS2	2 UniProt hit(s), 1 in panel proteome	Table S1 line 75
+NP_001008786	CHICK	Chicken_GbE	mapped	A0A8V0YHC7	2 UniProt hit(s), 1 in panel proteome	Table S1 line 76
+NP_001004376	CHICK	Chicken_Hba	mapped	P01994	1 UniProt hit(s), 1 in panel proteome	Table S1 line 77
+NP_001075173	CHICK	Chicken_Hbb	mapped	P02128	1 UniProt hit(s), 1 in panel proteome	Table S1 line 78
+NP_001161224	CHICK	Chicken_Mb	mapped	P02197	1 UniProt hit(s), 1 in panel proteome	Table S1 line 79
+NP_001026722	CHICK	Chicken_Ngb	mapped	A0A8V0XQ36	2 UniProt hit(s), 1 in panel proteome	Table S1 line 80
+NP_001006870	XENTR	Frog Cygb	mapped	A0A8J0PE97	1 UniProt hit(s), 1 in panel proteome	Table S1 line 84
+NP_001011196	XENTR	Frog GbX	mapped	A0A8J0PFH6	1 UniProt hit(s), 1 in panel proteome	Table S1 line 85
+BC158411	XENTR	Frog GbY	mapped	A0A8J0QUY2	EMBL BC158411: no UniProt match; sequence of aln:Frog_GbY -> A0A8J0QUY2 (exact)	Table S1 line 86
+NP_988860	XENTR	Frog Hba	mapped	P07428	1 UniProt hit(s), 1 in panel proteome	Table S1 line 87
+NP_988859	XENTR	Frog Hbb	mapped	P07429	1 UniProt hit(s), 1 in panel proteome	Table S1 line 88
+ENSXETG00000027106	XENTR	Frog Ngb	unmapped		no UniProt match; retired Ensembl ID (0 archive replacements); sequence fallback failed (0 distinct qualifying targets)	Table S1 line 89
+NP_599030	HUMAN	Human_Cygb	mapped	Q8WWM9	1 UniProt hit(s), 1 in panel proteome	Table S1 line 102
+NP_000549	HUMAN	Human_Hba	mapped	P69905	2 UniProt hit(s), 1 in panel proteome	Table S1 line 103
+NP_000509	HUMAN	Human_Hbb	mapped	P68871	2 UniProt hit(s), 1 in panel proteome	Table S1 line 104
+NP_976311	HUMAN	Human_Mb	mapped	P02144	1 UniProt hit(s), 1 in panel proteome	Table S1 line 105
+NP_067080	HUMAN	Human_Ngb	mapped	Q9NPG2	2 UniProt hit(s), 1 in panel proteome	Table S1 line 106
+NP_001098237	ORYLA	Medaka_Cygb1	mapped	Q575T0	1 UniProt hit(s), 1 in panel proteome	Table S1 line 107
+NP_001098238	ORYLA	Medaka_Cygb2	mapped	Q575S9	1 UniProt hit(s), 1 in panel proteome	Table S1 line 108
+ENSORLG00000017054	ORYLA	Medaka_GbX	mapped	H2MRF9	1 UniProt hit(s), 1 in panel proteome	Table S1 line 109
+ENSORLG00000005267	ORYLA	Medaka_Hba	mapped	H2LKT8	1 UniProt hit(s), 1 in panel proteome	Table S1 line 110
+ENSORLG00000003020	ORYLA	Medaka_Hbb	mapped	H2LCY1	1 UniProt hit(s), 1 in panel proteome	Table S1 line 111
+ENSORLG00000004130	ORYLA	Medaka_Mb	unmapped		no UniProt match; retired Ensembl ID (0 archive replacements)	Table S1 line 112
+ENSORLT00000020359	ORYLA	Medaka_Ngb	unmapped		no UniProt match; retired Ensembl ID (0 archive replacements)	Table S1 line 113
+CAD68145	CIOIN	Sea squirt (C. intestinalis) Gb1	unmapped		UniProt hit(s) ['Q70T64'] not in panel proteome (non-canonical/other entries); sequence fallback failed (0 distinct qualifying targets)	Table S1 line 146
+CAD68146	CIOIN	Sea squirt (C. intestinalis) Gb2	unmapped		UniProt hit(s) ['Q70T63'] not in panel proteome (non-canonical/other entries); sequence fallback failed (0 distinct qualifying targets)	Table S1 line 147
+CAD68147	CIOIN	Sea squirt (C. intestinalis) Gb3	unmapped		UniProt hit(s) ['Q70T62'] not in panel proteome (non-canonical/other entries); sequence fallback failed (0 distinct qualifying targets)	Table S1 line 148
+CAD89600	CIOIN	Sea squirt (C. intestinalis) Gb4	mapped	F6SP24	UniProt hit(s) ['Q70PH6'] not in panel proteome (non-canonical/other entries); sequence of Q70PH6 -> F6SP24 (unique)	Table S1 line 149
+P02208	PETMA	Sea_lamprey_Hb_PMII	mapped	P02208	1 UniProt hit(s), 1 in panel proteome	Table S1 line 154
+AF248645	PETMA	Sea_lamprey_Hb1a	ambiguous		Q9I9I3 assigned to ['Sea_lamprey_Hb1a', 'Sea_lamprey_Hb3']	Table S1 line 155
+P09967	PETMA	Sea_lamprey_Hb1b	mapped	P09967	1 UniProt hit(s), 1 in panel proteome	Table S1 line 161
+P21197	PETMA	Sea_lamprey_Hb2	unmapped		UniProt hit(s) ['P21197'] not in panel proteome (non-canonical/other entries); sequence fallback failed (0 distinct qualifying targets)	Table S1 line 162
+Q9I9I3	PETMA	Sea_lamprey_Hb3	ambiguous		Q9I9I3 assigned to ['Sea_lamprey_Hb1a', 'Sea_lamprey_Hb3']	Table S1 line 163
+P09968	PETMA	Sea_lamprey_Hb5	mapped	P09968	1 UniProt hit(s), 1 in panel proteome	Table S1 line 164
+NP_694484	DANRE	Zebrafish Cygb1	mapped	Q8UUR3	1 UniProt hit(s), 1 in panel proteome	Table S1 line 184
+NP_001019395	DANRE	Zebrafish Cygb2	mapped	Q575S8	3 UniProt hit(s), 1 in panel proteome	Table S1 line 185
+12261	DANRE	Zebrafish GbX	unmapped		accession '12261' is not a resolvable sequence identifier; sequence fallback failed (0 distinct qualifying targets)	Table S1 line 186
+NP_571332	DANRE	Zebrafish Hba	mapped	Q90487	UniProt hit(s) ['A0ACK5Z285'] not in panel proteome (non-canonical/other entries); sequence of A0ACK5Z285 -> Q90487 (exact)	Table S1 line 192
+NP_571095	DANRE	Zebrafish Hbb	mapped	Q90486	2 UniProt hit(s), 1 in panel proteome	Table S1 line 193
+NP_956880	DANRE	Zebrafish Mb	mapped	Q6VN46	2 UniProt hit(s), 1 in panel proteome	Table S1 line 194
+NP_571928	DANRE	Zebrafish Ngb	mapped	Q90YJ2	2 UniProt hit(s), 1 in panel proteome	Table S1 line 195
