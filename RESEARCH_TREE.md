@@ -5,6 +5,17 @@ Start: see START.txt (2026-10-26T13:17:42Z). Budget 24 h → hard stop 2026-10-2
 
 ## Status summary (latest milestone first)
 
+### M2 — Design v1 + rate-limit recovery (T+5h00, 18:17 UTC)
+Review round 1 (7 independent reviewers + synthesis) found real defects: point-valued reference merge levels mis-score
+correct WGD predictions (fixed by interval-valued references), trivial predictors scored well on event recovery and F1
+(two-sided recovery, F1 never drops families), β-lactamase classes wrongly called non-homologous (replaced by analogous-
+enzyme decoys), FastOMA levels silently renamed. DESIGN.md v1 applies all accepted items; CURATION_PROTOCOL.md makes
+provenance mechanical (parsers, verified quotes, blind 30-item re-derivation, freeze by hash).
+
+At T+1h05 13 concurrent agents exhausted the account session limit; all died; work resumed at T+4h55 with ≤5 agents.
+Running now: hobench v1 metrics, panels/trees/hogmaps, wrapper + Y/K full runs, curation Y01 (YGOB) and K01/K02.
+Remaining curation waves (E, V, P, SwissTree) start as slots free. Freeze target T+12.
+
 ### M1 — Literature survey + design v0 (T+0h55)
 Four parallel surveys produced LITERATURE.md (+ literature/A,B1,B2,C): no existing benchmark scores HOGs per level or
 literature events, so per-level/event-aware metrics fill a real gap. ~85 candidate families screened; ~30 have
@@ -28,7 +39,7 @@ Git repo initialised. Next: parallel literature survey (benchmarks/metrics; cand
   - [x] 1a. Existing benchmarks & hierarchical-orthology metrics
   - [x] 1b. Candidate gene families with literature-resolved histories (phenomenon-tagged)
   - [x] 1c. Genome/proteome sources, species panels, species trees, licenses
-- [~] 2. DESIGN.md draft (v0 done) → review rounds (≤3): round 1 running
+- [~] 2. DESIGN.md v1 after review round 1 (reviews/round1/SYNTHESIS.md); round 2 pending
 - [ ] 3. Data: species panels + proteomes (DATA.md)
 - [ ] 4. Curation: literature extraction → reference families (assertions with provenance)
 - [~] 5. Metrics library + toy/positive/negative controls (hobench core: 53 tests pass)
@@ -47,3 +58,5 @@ Git repo initialised. Next: parallel literature survey (benchmarks/metrics; cand
 - D1 (T+0h50): Reference = per-family reconciled tree with S/D/U/H nodes + assertion tiers (T1 text, T2 classification, T3 tree-derived); unifying quantity = pair merge level. Why: covers orthology, paralogy, event timing and per-level HOGs with one formalism; unresolved parts are simply not asserted.
 - D2 (T+0h50): Full proteomes for Y,K; family-neighbourhood subsets for V,P,E (full runs ≈4–8 h each); validate subset≈full on Y,K. Why: 24 h budget, 12 cores.
 - D3 (T+0h50): Curators blind to tool outputs; references frozen (git tag) before scoring. Why: prevent metric/label tuning.
+- D4 (T+5h): Accept round-1 synthesis recommendations in full (see DESIGN §12). Why: independent convergence of several reviewers on the same defects; toy tests reproduced them.
+- D5 (T+5h): Concurrency cap ≤5 agents; resume interrupted agents rather than relaunching. Why: account session limit killed all 13 agents.
