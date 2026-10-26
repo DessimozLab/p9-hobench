@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<orthoXML xmlns="http://orthoXML.org/2011/" origin="FastOMA 0.5.0" originVersion="2026-10-26 14:42:33" version="0.5">
+  <species name="ASHGO" taxonId="7" NCBITaxId="0">
+    <database name="database" version="2023">
+      <genes>
+        <gene id="1000001744" protId="tr|Q75A29|Q75A29_EREGS"/>
+      </genes>
+    </database>
+  </species>
+  <species name="CANGA" taxonId="4" NCBITaxId="0">
+    <database name="database" version="2023">
+      <genes>
+        <gene id="1001000572" protId="tr|Q6FNU3|Q6FNU3_CANGA"/>
+        <gene id="1001002431" protId="tr|Q6FQS7|Q6FQS7_CANGA"/>
+      </genes>
+    </database>
+  </species>
+  <species name="KLULA" taxonId="6" NCBITaxId="0">
+    <database name="database" version="2023">
+      <genes>
+        <gene id="1002001014" protId="tr|Q6CL74|Q6CL74_KLULA"/>
+        <gene id="1002001585" protId="tr|Q6CR14|Q6CR14_KLULA"/>
+        <gene id="1002002141" protId="tr|Q6CVW9|Q6CVW9_KLULA"/>
+      </genes>
+    </database>
+  </species>
+  <species name="YEAST" taxonId="3" NCBITaxId="0">
+    <database name="database" version="2023">
+      <genes>
+        <gene id="1003000315" protId="sp|P10870|SNF3_YEAST"/>
+        <gene id="1003003047" protId="sp|Q12300|RGT2_YEAST"/>
+        <gene id="1003005170" protId="sp|P22580|AMDY_YEAST"/>
+      </genes>
+    </database>
+  </species>
+  <taxonomy>
+    <taxon id="1" name="Saccharomycetaceae">
+      <taxon id="2" name="Saccharomycetaceae_WGD">
+        <taxon id="3" name="YEAST"/>
+        <taxon id="4" name="CANGA"/>
+      </taxon>
+      <taxon id="5" name="internal_0">
+        <taxon id="6" name="KLULA"/>
+        <taxon id="7" name="ASHGO"/>
+      </taxon>
+    </taxon>
+  </taxonomy>
+  <groups>
+    <orthologGroup id="HOG:0001948_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0"/>
+      <property name="OMAmerRootHOG" value="HOG:F0412060"/>
+      <property name="TaxRange" value="Saccharomycetaceae"/>
+      <paralogGroup>
+        <orthologGroup id="HOG:0001948.1a_2" taxonId="2">
+          <score id="CompletenessScore" value="1.0"/>
+          <property name="TaxRange" value="Saccharomycetaceae_WGD"/>
+          <geneRef id="1001002431"/>
+          <geneRef id="1003003047"/>
+        </orthologGroup>
+        <orthologGroup id="HOG:0001948.1b_2" taxonId="2">
+          <score id="CompletenessScore" value="1.0"/>
+          <property name="TaxRange" value="Saccharomycetaceae_WGD"/>
+          <geneRef id="1001000572"/>
+          <geneRef id="1003000315"/>
+        </orthologGroup>
+      </paralogGroup>
+      <orthologGroup id="HOG:0001948_5" taxonId="5">
+        <score id="CompletenessScore" value="1.0"/>
+        <property name="TaxRange" value="internal_0"/>
+        <geneRef id="1000001744"/>
+        <geneRef id="1002001014"/>
+      </orthologGroup>
+    </orthologGroup>
+    <orthologGroup id="HOG:0000317_1" taxonId="1">
+      <score id="CompletenessScore" value="0.5"/>
+      <property name="OMAmerRootHOG" value="HOG:F0849274"/>
+      <property name="TaxRange" value="Saccharomycetaceae"/>
+      <paralogGroup>
+        <geneRef id="1002001585"/>
+        <geneRef id="1002002141"/>
+      </paralogGroup>
+      <geneRef id="1003005170"/>
+    </orthologGroup>
+  </groups>
+</orthoXML>
