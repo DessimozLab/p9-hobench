@@ -1,9 +1,7 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
-I2GW76	HENBL	TBLA0A05850	YGOB_Anc_1_128	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 32
-J7S256	KAZNA	KNAG0I00560	YGOB_Anc_1_128	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 32
-H2AWJ5	KAZAF	KAFR0F01490	YGOB_Anc_1_128	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 32
-Q6FUL5	CANGA	CAGL0F02519g	YGOB_Anc_1_128	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 32
-P39529	YEAST	YJL206C	YGOB_Anc_1_128	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 32
-C5DUM9	ZYGRC	ZYRO0C18150g	YGOB_Anc_1_128	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 32
-G8ZSG5	TORDC	TDEL0C05680	YGOB_Anc_1_128	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 32
-Q6CUP9	KLULA	KLLA0C03201g	YGOB_Anc_1_128	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 32
+H2AWJ5	KAZAF	KAFR0F01490	YGOB_Anc_1_128	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 32
+Q6FUL5	CANGA	CAGL0F02519g	YGOB_Anc_1_128	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 32
+P39529	YEAST	YJL206C	YGOB_Anc_1_128	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 32
+C5DUM9	ZYGRC	ZYRO0C18150g	YGOB_Anc_1_128	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 32
+G8ZSG5	TORDC	TDEL0C05680	YGOB_Anc_1_128	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 32
+Q6CUP9	KLULA	KLLA0C03201g	YGOB_Anc_1_128	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 32

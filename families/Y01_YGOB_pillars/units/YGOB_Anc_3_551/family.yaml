@@ -1,11 +1,8 @@
-id: YGOB_Anc_2_244
-name: YGOB pillar Anc_2.244
+id: YGOB_Anc_3_551
+name: YGOB pillar Anc_3.551
 panel: Y
 collection: YGOB
-phenomena:
-- LOSS
-- WGD
-- ALLO
+phenomena: []
 sources:
 - id: YGOBv7
   pmid: 16169922
@@ -65,9 +62,10 @@ sources:
   quote: We used phylogenomics to study the ancient genome duplication occurred in
     the yeast Saccharomyces cerevisiae lineage and found compelling evidence for the
     existence of a contemporaneous interspecies hybridization.
+root_level: Saccharomycetaceae
 root_single_copy: false
 complete_species: []
 protocol_version: 1
-notes: Pillar Pillars.TRUNCATED_wayback_20210728.tab line 3450 (ancestral locus Anc_2.244).
+notes: Pillar Pillars.TRUNCATED_wayback_20210728.tab line 2102 (ancestral locus Anc_3.551).
   No robust consistent YGOB v1 track data; cross-species post-WGD pairs unasserted
   (U).

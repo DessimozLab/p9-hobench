@@ -1,9 +1,9 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
-A7TTH6	VANPO	Kpol_234.2	YGOB_L03406	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3406
-P00724	YEAST	YIL162W	YGOB_L03406	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3406
-C5DS29	ZYGRC	ZYRO0B13376g	YGOB_L03406	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3406
-G8ZW25	TORDC	TDEL0E05760	YGOB_L03406	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3406
-Q9Y746	KLULA	KLLA0A10417g	YGOB_L03406	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3406
-Q752P4	ASHGO	AFR529W	YGOB_L03406	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3406
-G8JMI2	ERECY	Ecym_1473	YGOB_L03406	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3406
-C5DDR9	LACTH	KLTH0C03278g	YGOB_L03406	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3406
+A7TTH6	VANPO	Kpol_234.2	YGOB_L03406	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3406
+P00724	YEAST	YIL162W	YGOB_L03406	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3406
+C5DS29	ZYGRC	ZYRO0B13376g	YGOB_L03406	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3406
+G8ZW25	TORDC	TDEL0E05760	YGOB_L03406	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3406
+Q9Y746	KLULA	KLLA0A10417g	YGOB_L03406	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3406
+Q752P4	ASHGO	AFR529W	YGOB_L03406	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3406
+G8JMI2	ERECY	Ecym_1473	YGOB_L03406	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3406
+C5DDR9	LACTH	KLTH0C03278g	YGOB_L03406	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3406

@@ -1,0 +1,15 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
+A7TK56	VANPO	Kpol_1060.59	YGOB_Anc_1_213	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3676
+G8BPP6	TETPH	TPHA0B03050	YGOB_Anc_1_213	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3676
+G0W714	NAUDC	NDAI0B05420	YGOB_Anc_1_213	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3676
+H2AWP4	KAZAF	KAFR0F01970	YGOB_Anc_1_213	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3676
+Q6FMF8	CANGA	CAGL0K08382g	YGOB_Anc_1_213	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3676
+Q3E754	YEAST	YJL136C	YGOB_Anc_1_213	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3676
+C5DV15	ZYGRC	ZYRO0D03102g	YGOB_Anc_1_213	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3676
+G8ZZB0	TORDC	TDEL0H00950	YGOB_Anc_1_213	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3676
+Q6CXT6	KLULA	KLLA0A05700g	YGOB_Anc_1_213	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3676
+Q75BL6	ASHGO	ACR255C	YGOB_Anc_1_213	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3676
+I6ND27	ERECY	Ecym_5198	YGOB_Anc_1_213	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3676
+C5DKL3	LACTH	KLTH0F05654g	YGOB_Anc_1_213	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3676
+P0C0V8	YEAST	YKR057W	YGOB_Anc_1_213	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3676
+J7S4S0	NAUDC	NDAI0G06230	YGOB_Anc_1_213	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3676

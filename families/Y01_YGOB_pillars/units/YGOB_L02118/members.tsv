@@ -1,5 +1,5 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
-C5DSI4	ZYGRC	ZYRO0C00374g	YGOB_L02118	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2118
-G9A0B3	TORDC	TDEL0H04480	YGOB_L02118	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2118
-F2Z6G6	KLULA	KLLA0E09021g	YGOB_L02118	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2118
-C5DMS0	LACTH	KLTH0G11154g	YGOB_L02118	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2118
+C5DSI4	ZYGRC	ZYRO0C00374g	YGOB_L02118	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2118
+G9A0B3	TORDC	TDEL0H04480	YGOB_L02118	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2118
+F2Z6G6	KLULA	KLLA0E09021g	YGOB_L02118	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2118
+C5DMS0	LACTH	KLTH0G11154g	YGOB_L02118	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2118

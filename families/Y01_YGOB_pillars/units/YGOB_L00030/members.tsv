@@ -1,5 +1,5 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
-Q6CSQ6	KLULA	KLLA0C18700g	YGOB_L00030	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 30
-Q75DB0	ASHGO	ABR114C	YGOB_L00030	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 30
-G8JUW0	ERECY	Ecym_6035	YGOB_L00030	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 30
-C5DH12	LACTH	KLTH0E00484g	YGOB_L00030	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 30
+Q6CSQ6	KLULA	KLLA0C18700g	YGOB_L00030	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 30
+Q75DB0	ASHGO	ABR114C	YGOB_L00030	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 30
+G8JUW0	ERECY	Ecym_6035	YGOB_L00030	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 30
+C5DH12	LACTH	KLTH0E00484g	YGOB_L00030	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 30

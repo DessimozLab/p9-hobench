@@ -10,7 +10,7 @@ phenomena:
 - ALLO
 levels:
   PostWGD: PostWGD
-  ZT_WGD: ZT_WGD
+  ZT_WGD: ZT_PostWGD
   Saccharomycetaceae: Saccharomycetaceae
 sources:
 - id: YGOBv7
@@ -23,7 +23,7 @@ sources:
   files:
   - path: literature/raw/B1/ygob/Pillars.TRUNCATED_wayback_20210728.tab
     sha256: e8e12eda53a87cdd36963b951a718ffdfa86b0d989e8c06ea2c12611ecbe48c7
-  - path: literature/raw/B1/ygob/README
+  - path: literature/raw/B1/ygob/README.txt
     sha256: 162fb37cf0f7a50b44fae47f0d2c2f9b126b728660b65d9bee8d3175af8317f6
   quote: Each slot either is vacant or contains a gene from that genome homologous
     to the other genes in the pillar.
@@ -35,7 +35,7 @@ sources:
   source_method: synteny
   locator: Synteny_<outgroup>.tab line = outgroup locus
   files:
-  - path: literature/raw/B1/ygob/wayback/v1_README
+  - path: literature/raw/B1/ygob/wayback/v1_README.txt
     sha256: aae82fe677820a582ab99331be919176828c98e37408188fa61b9e0f7eea435c
   - path: literature/raw/B1/ygob/wayback/v1_Synteny_Klactis.tab
     sha256: e7d6f07ed49aa8dbf57080be9642181342c8edd728503dfb43d74c8c2b9392e3
@@ -56,7 +56,7 @@ sources:
   source_method: synteny
   locator: README section (4)
   files:
-  - path: literature/raw/B1/ygob/wayback/v1_README
+  - path: literature/raw/B1/ygob/wayback/v1_README.txt
     sha256: aae82fe677820a582ab99331be919176828c98e37408188fa61b9e0f7eea435c
   quote: Similarly genes on Track A in one species and Track B in another are paralogs.
 - id: YGOB2005
@@ -105,19 +105,19 @@ truncation:
   complete_lines: 5173
   dropped_partial_line: "Kpol_1032.86\tTPHA0N01030\t"
 stats:
-  node:event:D_WGD_ohnolog_pair: 1773
+  node:event:D_WGD_ohnolog_pair: 1341
   node:event:D_WGD_pseudoortholog: 49
-  node:event:D_WGD_tracks: 194
-  node:event:S_Saccharomycetaceae: 1949
-  node:event:S_preWGD: 3818
-  node:event:S_same_track: 1181
-  tag:LOSS: 543
-  tag:WGD: 573
-  track_resolved: 1112
-  unit_skipped:<4: 2700
-  unit_skipped:mapping: 41
-  unit_skipped:no_asserted_pair: 12
-  units: 1964
+  node:event:D_WGD_tracks: 201
+  node:event:S_Saccharomycetaceae: 1963
+  node:event:S_preWGD: 3835
+  node:event:S_same_track: 1189
+  tag:LOSS: 486
+  tag:WGD: 538
+  track_resolved: 1120
+  unit_skipped:<4: 2337
+  unit_skipped:mapping: 26
+  unit_skipped:no_asserted_pair: 10
+  units: 1977
 mapping:
 - ASHGO:mapped=1908
 - ASHGO:unmapped=20
@@ -125,12 +125,10 @@ mapping:
 - CANGA:mapped=2188
 - CANGA:unmapped=14
 - ERECY:mapped=1784
-- HENBL:excluded=2
-- HENBL:mapped=2224
+- HENBL:not_in_panel=2226
 - KAZAF:excluded=23
 - KAZAF:mapped=2450
-- KAZNA:excluded=22
-- KAZNA:mapped=2415
+- KAZNA:not_in_panel=2437
 - KLULA:excluded=2
 - KLULA:mapped=1923
 - KLULA:unmapped=103
@@ -144,7 +142,7 @@ mapping:
 - NAUCC:unmapped=28
 - NAUDC:excluded=24
 - NAUDC:mapped=2568
-- SACUV:unmapped=2388
+- SACUV:not_in_panel=2388
 - Skud:not_in_panel=2385
 - Smik:not_in_panel=2380
 - TETPH:excluded=10

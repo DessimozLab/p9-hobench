@@ -1,0 +1,7 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
+G0WGH1	NAUDC	NDAI0I03140	YGOB_Anc_3_551	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2102
+G0VF41	NAUCC	NCAS0E00360	YGOB_Anc_3_551	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2102
+C5E4W0	ZYGRC	ZYRO0E09174g	YGOB_Anc_3_551	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2102
+G8ZUA9	TORDC	TDEL0D06190	YGOB_Anc_3_551	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2102
+C5DLI9	LACTH	KLTH0G01078g	YGOB_Anc_3_551	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2102
+P53074	YEAST	YGL230C	YGOB_Anc_3_551	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2102

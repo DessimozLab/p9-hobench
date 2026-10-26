@@ -1,0 +1,9 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
+G8C0G6	TETPH	TPHA0M01065	YGOB_Anc_3_267	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 64
+G0W4J1	NAUDC	NDAI0A05740	YGOB_Anc_3_267	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 64
+G0VJZ8	NAUCC	NCAS0I01640	YGOB_Anc_3_267	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 64
+H2AME0	KAZAF	KAFR0A01015	YGOB_Anc_3_267	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 64
+Q6Q5X2	YEAST	YDR034W-B	YGOB_Anc_3_267	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 64
+G8ZTJ8	TORDC	TDEL0D03580	YGOB_Anc_3_267	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 64
+Q6CJG8	KLULA	KLLA0F18766g	YGOB_Anc_3_267	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 64
+I2HB52	YEAST	YBR056W-A	YGOB_Anc_3_267	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 64

@@ -1,8 +1,8 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
-G0W8W8	NAUDC	NDAI0C05700	YGOB_L03607	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3607
-G0VIK0	NAUCC	NCAS0H00150	YGOB_L03607	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3607
-Q6FM47	CANGA	CAGL0K11066g	YGOB_L03607	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3607
-P40892	YEAST	YJL218W	YGOB_L03607	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3607
-G8ZYA5	TORDC	TDEL0G00130	YGOB_L03607	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3607
-Q6CRI4	KLULA	KLLA0D08811g	YGOB_L03607	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3607
-C5DDR6	LACTH	KLTH0C03212g	YGOB_L03607	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3607
+G0W8W8	NAUDC	NDAI0C05700	YGOB_L03607	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3607
+G0VIK0	NAUCC	NCAS0H00150	YGOB_L03607	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3607
+Q6FM47	CANGA	CAGL0K11066g	YGOB_L03607	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3607
+P40892	YEAST	YJL218W	YGOB_L03607	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3607
+G8ZYA5	TORDC	TDEL0G00130	YGOB_L03607	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3607
+Q6CRI4	KLULA	KLLA0D08811g	YGOB_L03607	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3607
+C5DDR6	LACTH	KLTH0C03212g	YGOB_L03607	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3607

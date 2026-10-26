@@ -1,6 +1,0 @@
-gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
-I2H0L9	HENBL	TBLA0C01060	YGOB_L01130	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 1130
-J7S1R9	KAZNA	KNAG0H01830	YGOB_L01130	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 1130
-H2AZF4	KAZAF	KAFR0H03000	YGOB_L01130	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 1130
-C5E4A0	ZYGRC	ZYRO0E04158g	YGOB_L01130	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 1130
-G8ZQ13	TORDC	TDEL0B05780	YGOB_L01130	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 1130

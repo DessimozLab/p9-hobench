@@ -1,0 +1,7 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
+A7TLW9	VANPO	Kpol_1003.11	YGOB_Anc_2_241	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3449
+G8BRT7	TETPH	TPHA0C03100	YGOB_Anc_2_241	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3449
+G0V9W5	NAUCC	NCAS0B06480	YGOB_Anc_2_241	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3449
+P40474	YEAST	YIL121W	YGOB_Anc_2_241	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3449
+G8ZS55	TORDC	TDEL0C04580	YGOB_Anc_2_241	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3449
+C5DMJ0	LACTH	KLTH0G09350g	YGOB_Anc_2_241	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3449

@@ -1,6 +1,6 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
-G0WEH7	NAUDC	NDAI0H00140	YGOB_L03087	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3087
-G0VJJ9	NAUCC	NCAS0I00110	YGOB_L03087	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3087
-Q6FV79	CANGA	CAGL0E04092g	YGOB_L03087	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3087
-P38731	YEAST	YHL040C	YGOB_L03087	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3087
-C5DLF7	LACTH	KLTH0G00198g	YGOB_L03087	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3087
+G0WEH7	NAUDC	NDAI0H00140	YGOB_L03087	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3087
+G0VJJ9	NAUCC	NCAS0I00110	YGOB_L03087	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3087
+Q6FV79	CANGA	CAGL0E04092g	YGOB_L03087	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3087
+P38731	YEAST	YHL040C	YGOB_L03087	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3087
+C5DLF7	LACTH	KLTH0G00198g	YGOB_L03087	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3087

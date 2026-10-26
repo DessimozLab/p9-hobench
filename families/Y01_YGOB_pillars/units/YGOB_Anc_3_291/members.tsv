@@ -1,8 +1,7 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
-G0W4H6	NAUDC	NDAI0A05590	YGOB_Anc_3_291	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3616
-G0V831	NAUCC	NCAS0A10710	YGOB_Anc_3_291	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3616
-J7R9J4	KAZNA	KNAG0H01120	YGOB_Anc_3_291	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3616
-H2AYY8	KAZAF	KAFR0H01340	YGOB_Anc_3_291	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3616
-P15992	YEAST	YBR072W	YGOB_Anc_3_291	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3616
-G8ZTH5	TORDC	TDEL0D03350	YGOB_Anc_3_291	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3616
-Q6CJG1	KLULA	KLLA0F18909g	YGOB_Anc_3_291	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3616
+G0W4H6	NAUDC	NDAI0A05590	YGOB_Anc_3_291	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3616
+G0V831	NAUCC	NCAS0A10710	YGOB_Anc_3_291	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3616
+H2AYY8	KAZAF	KAFR0H01340	YGOB_Anc_3_291	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3616
+P15992	YEAST	YBR072W	YGOB_Anc_3_291	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3616
+G8ZTH5	TORDC	TDEL0D03350	YGOB_Anc_3_291	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3616
+Q6CJG1	KLULA	KLLA0F18909g	YGOB_Anc_3_291	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3616

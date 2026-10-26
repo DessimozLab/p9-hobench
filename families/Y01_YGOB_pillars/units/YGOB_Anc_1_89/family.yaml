@@ -2,10 +2,7 @@ id: YGOB_Anc_1_89
 name: YGOB pillar Anc_1.89
 panel: Y
 collection: YGOB
-phenomena:
-- LOSS
-- WGD
-- ALLO
+phenomena: []
 sources:
 - id: YGOBv7
   pmid: 16169922

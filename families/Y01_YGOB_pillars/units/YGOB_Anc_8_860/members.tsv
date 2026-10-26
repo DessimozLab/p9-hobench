@@ -1,7 +1,7 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
-A7TSW9	VANPO	Kpol_309.3	YGOB_Anc_8_860	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 823
-G8BX96	TETPH	TPHA0I00170	YGOB_Anc_8_860	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 823
-G0WHF4	NAUDC	NDAI0K00260	YGOB_Anc_8_860	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 823
-H2AXH5	KAZAF	KAFR0G00420	YGOB_Anc_8_860	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 823
-C5DP68	ZYGRC	ZYRO0A00858g	YGOB_Anc_8_860	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 823
-G8ZNG4	TORDC	TDEL0B00290	YGOB_Anc_8_860	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 823
+A7TSW9	VANPO	Kpol_309.3	YGOB_Anc_8_860	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 823
+G8BX96	TETPH	TPHA0I00170	YGOB_Anc_8_860	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 823
+G0WHF4	NAUDC	NDAI0K00260	YGOB_Anc_8_860	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 823
+H2AXH5	KAZAF	KAFR0G00420	YGOB_Anc_8_860	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 823
+C5DP68	ZYGRC	ZYRO0A00858g	YGOB_Anc_8_860	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 823
+G8ZNG4	TORDC	TDEL0B00290	YGOB_Anc_8_860	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 823

@@ -1,8 +1,11 @@
-id: YGOB_L01130
-name: YGOB pillar line 1130
+id: YGOB_Anc_5_118
+name: YGOB pillar Anc_5.118
 panel: Y
 collection: YGOB
-phenomena: []
+phenomena:
+- LOSS
+- WGD
+- ALLO
 sources:
 - id: YGOBv7
   pmid: 16169922
@@ -65,6 +68,6 @@ sources:
 root_single_copy: false
 complete_species: []
 protocol_version: 1
-notes: Pillar Pillars.TRUNCATED_wayback_20210728.tab line 1130 (ancestral locus none).
+notes: Pillar Pillars.TRUNCATED_wayback_20210728.tab line 2995 (ancestral locus Anc_5.118).
   No robust consistent YGOB v1 track data; cross-species post-WGD pairs unasserted
   (U).

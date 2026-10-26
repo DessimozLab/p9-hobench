@@ -45,8 +45,8 @@ COLLECTION = "YGOB"
 CACHE = FAM / "source_cache"
 YG = ROOT / "literature/raw/B1/ygob"
 V7 = YG / "Pillars.TRUNCATED_wayback_20210728.tab"
-V7_README = YG / "README"
-V1_README = YG / "wayback/v1_README"
+V7_README = YG / "README.txt"  # verbatim copy of README
+V1_README = YG / "wayback/v1_README.txt"  # verbatim copy of v1_README (.txt so text tools search it)
 V1_SYN = {o: YG / f"wayback/v1_Synteny_{o}.tab" for o in ("Klactis", "Agossypii", "Kwaltii", "Skluyveri")}
 PAPER_YGOB = ROOT / "literature/papers/PMID16169922/raw/fulltext.txt"
 PAPER_SC07 = ROOT / "literature/papers/PMID17494770/raw/fulltext.txt"
@@ -234,10 +234,10 @@ def main():
         prim, fb, _ = idx[code]
         k = ygob_key(code, name)
         hits = prim.get(k, set())
-        meth = "uniprot_locus_name"
+        meth = "gene_name_exact"  # UniProt ordered-locus/ORF name, unique within species
         if not hits:
             hits = fb.get(k, set())
-            meth = "uniprot_gene_name"
+            meth = "gene_name_unique"  # UniProt gene name/synonym, unique within species
         if len(hits) == 1:
             return next(iter(hits)), meth, ""
         if not hits:
@@ -370,7 +370,7 @@ def main():
         w = csv.DictWriter(fh, cols, delimiter="\t", extrasaction="ignore")
         w.writeheader()
         for k, (sid, lc, q) in QUOTES.items():
-            w.writerow(dict(assertion_id=f"RULE_{k}", type="rule", target="collection", genes="", tier="T1",
+            w.writerow(dict(assertion_id=f"RULE_{k}", type="tag", what="compilation_rule", target="collection", genes="", tier="T1",
                             source_id=sid, locator=lc, quote_key=k, quote=q))
         for nd in assertions:
             w.writerow(nd)
@@ -467,7 +467,8 @@ def build_unit(uid, ln, anc, mem, st, L_POST, L_ZTW, L_SAC, v1_by_outgene, entri
             post_children.append(d)
             genes = [x for t in track_nodes for x in (t["kids"] if isinstance(t, dict) else [t])]
             nodes.append(dict(assertion_id=f"{uid}_wgdYC", type="event", target=f"{uid}_wgdYC",
-                              genes=",".join(genes), tier="T2", source_id="YGOBv1",
+                              genes=",".join(genes), tier="T2",
+                              source_id="YGOBv1;Scannell2007" if cross_sp else "YGOBv1",
                               what="D_WGD_pseudoortholog" if cross_sp else "D_WGD_tracks",
                               locator="; ".join(tr["locs"]) + f"; {V7.name}:line {ln}",
                               quote_key="pseudo_orthologs" if cross_sp else "track_paralogs",

@@ -1,0 +1,5 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
+G8BZP8	TETPH	TPHA0L00190	YGOB_Anc_4_371	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 997
+Q3E7Y6	YEAST	YHR199C-A	YGOB_Anc_4_371	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 997
+C5DRI4	ZYGRC	ZYRO0B08690g	YGOB_Anc_4_371	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 997
+B5RSJ0	KLULA	KLLA0B03927g	YGOB_Anc_4_371	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 997

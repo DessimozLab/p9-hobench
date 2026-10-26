@@ -1,7 +1,7 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
-C5E406	ZYGRC	ZYRO0E01738g	YGOB_L03569	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3569
-G8ZXU3	TORDC	TDEL0G03430	YGOB_L03569	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3569
-Q6CKL6	KLULA	KLLA0F09757g	YGOB_L03569	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3569
-Q75EA3	ASHGO	AAR174W	YGOB_L03569	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3569
-G8JR02	ERECY	Ecym_3059	YGOB_L03569	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3569
-C5E2N1	LACTH	KLTH0H06314g	YGOB_L03569	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3569
+C5E406	ZYGRC	ZYRO0E01738g	YGOB_L03569	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3569
+G8ZXU3	TORDC	TDEL0G03430	YGOB_L03569	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3569
+Q6CKL6	KLULA	KLLA0F09757g	YGOB_L03569	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3569
+Q75EA3	ASHGO	AAR174W	YGOB_L03569	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3569
+G8JR02	ERECY	Ecym_3059	YGOB_L03569	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3569
+C5E2N1	LACTH	KLTH0H06314g	YGOB_L03569	gene_name_exact		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3569

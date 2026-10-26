@@ -3,7 +3,6 @@ name: YGOB pillar Anc_7.115
 panel: Y
 collection: YGOB
 phenomena:
-- LOSS
 - WGD
 - ALLO
 sources:

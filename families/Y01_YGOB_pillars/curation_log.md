@@ -1,8 +1,6 @@
 # Y01_YGOB_pillars — curation log (collection YGOB, panel Y)
 
-Status: **v1 built and validated (0 errors / 0 warnings on all units)** against a *provisional* panel-Y species tree
-(panels/Y not yet published; level roles are derived by LCA in build.py, so a rebuild with
-`--species-tree panels/Y/species_tree.nwk` only renames levels). Rebuild: `python families/Y01_YGOB_pillars/build.py`.
+Status: **v1 built and validated against the final panel Y (panels/Y/species_tree.nwk): 1,977 units, 0 errors / 0 warnings.**
 
 ## Sources read (sha256 in collection.yaml)
 - YGOB v7 (Aug 2012) `Pillars.tab`, Wayback 2021-07-28 = 2025-02-14 capture, both truncated by the archive at 1,048,576 B
@@ -55,3 +53,16 @@ asserted node with file:line locators), build.py.
 
 ## Time
 ~2 h (incl. discovering the complete YGOB v1 track tables on Wayback).
+
+## Verification (final panel Y)
+- hobench validate_family: 1,977/1,977 units OK (0 errors, 0 warnings) on panels/Y/species_tree.nwk; also valid on a
+  tree with non-monophyletic KLE (build derives level roles by LCA; WGD lvl_hi = child of the youngest
+  post-WGD/KLE ancestor present in the unit).
+- scripts/verify_provenance.py: **PASS (0 errors, 0 warnings; checks a–f)** on an assembled single-family view
+  (family.yaml from collection.yaml + all unit trees under one root U node). The script requires family.yaml at
+  families/<ID>/, which this collection layout deliberately omits so that hobench load_families does not load 26k genes
+  as one family; PI to decide how collections are routed. README quotes are matched in `README.txt` / `v1_README.txt`
+  (verbatim copies of the Wayback README files, created because the verifier only searches known text suffixes).
+- Panel Y has no HENBL, KAZNA, SACUV (YGOB columns → not_in_panel). Final: 26,173 members, 13 species, 1,591 WGD D
+  nodes (1,341 single-species ohnolog pairs, 201 YEAST/CANGA track-resolved, 49 pseudo-ortholog D tagged LOSS),
+  1,189 same-track YEAST–CANGA S nodes, unique mapping 98.8 %.
