@@ -5,6 +5,19 @@ Start: see START.txt (2026-10-26T13:17:42Z). Budget 24 h → hard stop 2026-10-2
 
 ## Status summary (latest milestone first)
 
+### M3 — Curation wave 1 + Y/K runs (T+10h10, 23:27 UTC)
+Second account-limit outage (~20:20→23:10 UTC). Done before it: hobench v1 (88 tests; interval merge levels, two-sided
+events, membership F1, OrthoBench measures, paired/two-stage stats; YGOB positive control perfect in 17 s), panels Y/K/E/V/P
+(binary named trees from Shen 2018, Coleman 2021, Burki 2020 etc.; levels.tsv with citations; DATA.md), 272 OMAmer hogmaps,
+full runs for Y and K (OF default/dendroblast, FastOMA; Y: OF 24 min, FastOMA 84 min), and families: Y01 YGOB (1,976
+pillar units, allopolyploid WGD interval), Y03 URA1 HGT, K01 r-proteins (40 units), K02 trGTPases, K04 5 analogous-enzyme
+decoy pairs, E01 kinesins, E02 ARF, E03 Rab, E04 tubulins, E05 MCM, E06 myosins (non-headline, 73% mapped), P01 homeobox
+(non-headline 62%), P02 bHLH, P03 GID1/CXE, V02 opsins, V03 Hox, V04 Sox. Abandoned with reasons: K03, Y02 (kept as
+cross-check, 141/141 agree with Y01), Y04.
+
+Now: scoring Y/K vertical slice; E/P subsets + runs; V05 teleost 3R + V07 X. laevis collections; V01 globins. Scope cut
+(budget): salmonid 4R, chemokines, KRAB-ZNF, MADS, SwissTree, PolB deferred. Freeze target moved to T+13.
+
 ### M2 — Design v1 + rate-limit recovery (T+5h00, 18:17 UTC)
 Review round 1 (7 independent reviewers + synthesis) found real defects: point-valued reference merge levels mis-score
 correct WGD predictions (fixed by interval-valued references), trivial predictors scored well on event recovery and F1
@@ -60,3 +73,6 @@ Git repo initialised. Next: parallel literature survey (benchmarks/metrics; cand
 - D3 (T+0h50): Curators blind to tool outputs; references frozen (git tag) before scoring. Why: prevent metric/label tuning.
 - D4 (T+5h): Accept round-1 synthesis recommendations in full (see DESIGN §12). Why: independent convergence of several reviewers on the same defects; toy tests reproduced them.
 - D5 (T+5h): Concurrency cap ≤5 agents; resume interrupted agents rather than relaunching. Why: account session limit killed all 13 agents.
+- D6 (T+5h50): Protocol v1.1 domain-only mapping (≥250 aa, ≥90% qcov, ≥98% id, RBH, margin). Why: kinesin/myosin sources give only motor domains; same-species identity over a long domain identifies the gene.
+- D7 (T+6h): E06 myosins (73%) and P01 homeobox (62%) stay non-headline: 80% rule pre-registered; not relaxed.
+- D8 (T+10h): Cut salmonid 4R/chemokines/KRAB/MADS/SwissTree/PolB; ≤4 concurrent agents, Sonnet for evaluation. Why: second account-limit outage; budget is the bottleneck.
