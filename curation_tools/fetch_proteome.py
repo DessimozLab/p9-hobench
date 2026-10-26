@@ -219,6 +219,23 @@ def fetch(up: str, out_root: str | Path = "data/proteomes", source: str = "auto"
         check_release(release["release"], expect_release, f"{up} REST stream")
         if info["protein_count_reported"] and m["x_total_results"] and int(m["x_total_results"]) != info["protein_count_reported"]:
             notes.append(f"REST returned {m['x_total_results']} entries but proteome reports {info['protein_count_reported']}")
+        if source == "auto" and not any(True for _ in common.read_fasta(dest)):
+            notes.append("UniProtKB has no entries for this proteome (non-reference proteomes live only in "
+                         "UniParc); falling back to UniParc")
+            log.warning(notes[-1])
+            downloads.pop()
+            parts.pop()
+            chosen = "uniparc"
+    if chosen == "uniparc":
+        # one record per distinct sequence (UPI); identical sequences of different genes collapse into one UPI
+        dest = raw / f"{up}_uniparc.fasta"
+        m = _download(f"{REST}/uniparc/stream?format=fasta&query=upid:{up}", dest)
+        downloads.append(m)
+        parts.append((dest, "uniparc_upi"))
+        release = {"release": m["x_uniprot_release"], "release_date": m["x_uniprot_release_date"]}
+        check_release(release["release"], expect_release, f"{up} UniParc stream")
+        notes.append(f"UniParc: headers are UPIs; proteome reports {info['protein_count_reported']} proteins "
+                     "(difference = identical sequences collapsed into one UPI); no gene-level (canonical) collapsing")
     # rewrite
     fa_out, map_out = outdir / "proteome.fasta", outdir / "header_map.tsv"
     if len(parts) == 1:
@@ -276,7 +293,7 @@ def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("proteome", nargs="+", help="UniProt proteome ids, e.g. UP000002311")
     ap.add_argument("--out", default="data/proteomes")
-    ap.add_argument("--source", choices=["auto", "ftp", "rest"], default="auto")
+    ap.add_argument("--source", choices=["auto", "ftp", "rest", "uniparc"], default="auto")
     ap.add_argument("--include-isoforms", action="store_true")
     ap.add_argument("--markdown", action="store_true", help="print a DATA.md table row")
     ap.add_argument("--release", default=PINNED_RELEASE,

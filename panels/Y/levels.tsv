@@ -1,0 +1,17 @@
+level_id	tree	ncbi_taxid	ncbi_name	ncbi_exact	literature_name	children	n_species	contested	alternative	citation	note
+Ascomycota	main	4890	Ascomycota	y	Ascomycota (Taphrinomycotina + Saccharomycotina)	SCHPO,Saccharomycotina	16	n		Shen2018 doi:10.1016/j.cell.2018.10.023	root; SCHPO outgroup
+Saccharomycotina	main	147537	Saccharomycotina	y	Saccharomycotina	YARLI,CUG_Saccharomycetaceae	15	n		Shen2018 doi:10.1016/j.cell.2018.10.023; Shen2016 doi:10.1534/g3.116.034744	
+CUG_Saccharomycetaceae	main	147537	Saccharomycotina	n	CUG-Ser1 clade + Saccharomycetaceae (Shen 2018 major clades)	CANAL,Saccharomycetaceae	14	n		Shen2018 doi:10.1016/j.cell.2018.10.023	Yarrowia (Dipodascaceae/Trigonopsidaceae) branches outside
+Saccharomycetaceae	main	4893	Saccharomycetaceae	y	Saccharomycetaceae	KLE_clade,ZT_PostWGD	13	n		Shen2018 doi:10.1016/j.cell.2018.10.023	
+KLE_clade	main	4893	Saccharomycetaceae	n	KLE clade (Kluyveromyces, Lachancea, Eremothecium)	Kluyveromyces_Eremothecium,LACTH	4	y	Lachancea outside KLE / KLE paraphyletic in some analyses; KLE-like parent of the WGD hybrid	Shen2018 doi:10.1016/j.cell.2018.10.023; MarcetHouben2015 doi:10.1371/journal.pbio.1002220	BS 100 in Shen 2018; treat as soft for WGD-gene scoring
+Kluyveromyces_Eremothecium	main	4893	Saccharomycetaceae	n	Kluyveromyces + Eremothecium	Eremothecium,KLULA	3	y	(Lachancea,Kluyveromyces) sister to Eremothecium	Shen2018 doi:10.1016/j.cell.2018.10.023	Lachancea is the unstable member (survey C 4.2)
+Eremothecium	main	33170	Eremothecium	y	Eremothecium	ERECY,ASHGO	2	n		Shen2018 doi:10.1016/j.cell.2018.10.023	
+ZT_PostWGD	main	4893	Saccharomycetaceae	n	ZT clade + post-WGD clade	ZT_clade,PostWGD	9	y	post-WGD sister to KLE (species_tree_alt.nwk); ~30% of post-WGD genes cluster with KLE because the WGD followed an interspecies hybridization	Shen2018 doi:10.1016/j.cell.2018.10.023; MarcetHouben2015 doi:10.1371/journal.pbio.1002220; Wolfe2015 doi:10.1371/journal.pbio.1002221	species tree = ZT parent signal
+ZT_clade	main	4893	Saccharomycetaceae	n	ZT clade (Zygosaccharomyces, Torulaspora)	TORDC,ZYGRC	2	n		Shen2018 doi:10.1016/j.cell.2018.10.023	
+PostWGD	main	4893	Saccharomycetaceae	n	post-WGD clade	PostWGD_crown,Vanderwaltozyma_Tetrapisispora	7	n		Shen2018 doi:10.1016/j.cell.2018.10.023; WolfeShields1997 doi:10.1038/42711	WGD on the branch into this level
+PostWGD_crown	main	4893	Saccharomycetaceae	n	Saccharomyces/Nakaseomyces + Naumovozyma/Kazachstania	Naumovozyma_Kazachstania,Saccharomyces_Nakaseomyces	5	y	(Vanderwaltozyma,Tetrapisispora) sister to Naumovozyma/Kazachstania	Shen2018 doi:10.1016/j.cell.2018.10.023	bootstrap 52 in the pruned Shen 2018 ML tree
+Naumovozyma_Kazachstania	main	4893	Saccharomycetaceae	n	Naumovozyma + Kazachstania	Naumovozyma,KAZAF	3	n		Shen2018 doi:10.1016/j.cell.2018.10.023	
+Naumovozyma	main	278028	Naumovozyma	y	Naumovozyma	NAUDC,NAUCC	2	n		Shen2018 doi:10.1016/j.cell.2018.10.023	
+Saccharomyces_Nakaseomyces	main	4893	Saccharomycetaceae	n	Saccharomyces + Nakaseomyces	YEAST,CANGA	2	n		Shen2018 doi:10.1016/j.cell.2018.10.023	
+Vanderwaltozyma_Tetrapisispora	main	4893	Saccharomycetaceae	n	Vanderwaltozyma + Tetrapisispora	VANPO,TETPH	2	n		Shen2018 doi:10.1016/j.cell.2018.10.023	
+KLE_PostWGD	alt_only	4893	Saccharomycetaceae	n	KLE + post-WGD (alternative tree only)	KLE_clade,PostWGD	11	y	alt only	MarcetHouben2015 doi:10.1371/journal.pbio.1002220	
