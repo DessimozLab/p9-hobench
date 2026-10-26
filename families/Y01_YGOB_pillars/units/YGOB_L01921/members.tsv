@@ -1,0 +1,5 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
+C5DR34	ZYGRC	ZYRO0B05214g	YGOB_L01921	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 1921
+G8ZTW4	TORDC	TDEL0D04740	YGOB_L01921	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 1921
+I6NDA1	ERECY	Ecym_5281	YGOB_L01921	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 1921
+C5DEE9	LACTH	KLTH0C08624g	YGOB_L01921	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 1921

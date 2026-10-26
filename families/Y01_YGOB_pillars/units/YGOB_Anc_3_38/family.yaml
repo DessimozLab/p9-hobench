@@ -1,0 +1,73 @@
+id: YGOB_Anc_3_38
+name: YGOB pillar Anc_3.38
+panel: Y
+collection: YGOB
+phenomena:
+- LOSS
+- WGD
+- ALLO
+sources:
+- id: YGOBv7
+  pmid: 16169922
+  doi: 10.1101/gr.3672305
+  title: YGOB v7 (Aug 2012) Pillars.tab (Wayback 2021-07-28, truncated at 1 MiB)
+  year: 2012
+  source_method: synteny
+  locator: Pillars.tab line = pillar
+  quote: Each slot either is vacant or contains a gene from that genome homologous
+    to the other genes in the pillar.
+- id: YGOBv1
+  pmid: 16169922
+  doi: 10.1101/gr.3672305
+  title: YGOB v1 (Sep 2005) Synteny_*.tab track tables (Wayback)
+  year: 2005
+  source_method: synteny
+  locator: Synteny_<outgroup>.tab line = outgroup locus
+  quote: Genes from two post-WGD species that are both on the same Track in this file
+    can be considered orthologs if the synteny score is robust (1 or 0) at all the
+    positions of interest.
+- id: YGOBv1README
+  pmid: 16169922
+  doi: 10.1101/gr.3672305
+  title: YGOB v1 README
+  year: 2005
+  source_method: synteny
+  locator: README section (4)
+  quote: Similarly genes on Track A in one species and Track B in another are paralogs.
+- id: YGOB2005
+  pmid: 16169922
+  doi: 10.1101/gr.3672305
+  title: 'The Yeast Gene Order Browser: combining curated homology and syntenic context
+    reveals gene fate in polyploid species'
+  year: 2005
+  source_method: synteny
+  locator: Results; Discussion
+  quote: Thus, in a pillar, the two slots for genes from a post-WGD species are not
+    preassigned to particular tracks.
+- id: Scannell2007
+  pmid: 17494770
+  doi: 10.1073/pnas.0608218104
+  title: Independent sorting-out of thousands of duplicated gene pairs in two yeast
+    species descended from a whole-genome duplication
+  year: 2007
+  source_method: synteny
+  locator: Abstract; Results
+  quote: the remaining 44% are paralogs (these genes became duplicated in the WGD,
+    and after speciation the two species reciprocally lost different copies)
+- id: MH2015
+  pmid: 26252497
+  doi: 10.1371/journal.pbio.1002220
+  title: 'Beyond the Whole-Genome Duplication: Phylogenetic Evidence for an Ancient
+    Interspecies Hybridization in the Baker''s Yeast Lineage'
+  year: 2015
+  source_method: phylogeny
+  locator: Abstract; Results
+  quote: We used phylogenomics to study the ancient genome duplication occurred in
+    the yeast Saccharomyces cerevisiae lineage and found compelling evidence for the
+    existence of a contemporaneous interspecies hybridization.
+root_level: Saccharomycetaceae
+root_single_copy: false
+complete_species: []
+protocol_version: 1
+notes: 'Pillar Pillars.TRUNCATED_wayback_20210728.tab line 2423 (ancestral locus Anc_3.38).
+  YEAST/CANGA tracks from YGOB v1 synteny tables: v1_Synteny_Agossypii.tab:1568 score=111010'

@@ -1,0 +1,8 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
+P38227	YEAST	YBR043C	YGOB_Anc_3_245	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3298
+C5DPI1	ZYGRC	ZYRO0A03564g	YGOB_Anc_3_245	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3298
+G8ZTM0	TORDC	TDEL0D03800	YGOB_Anc_3_245	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3298
+Q6CW54	KLULA	KLLA0B06798g	YGOB_Anc_3_245	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3298
+Q75CU1	ASHGO	ACL172C	YGOB_Anc_3_245	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3298
+G8JU40	ERECY	Ecym_4506	YGOB_Anc_3_245	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3298
+C5DEC5	LACTH	KLTH0C08074g	YGOB_Anc_3_245	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 3298

@@ -1,0 +1,16 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
+A7TJL4	VANPO	Kpol_534.38	YGOB_Anc_6_132	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2675
+G8BPK1	TETPH	TPHA0B02590	YGOB_Anc_6_132	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2675
+I2H5Z7	HENBL	TBLA0F02600	YGOB_Anc_6_132	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2675
+G0WG15	NAUDC	NDAI0I01570	YGOB_Anc_6_132	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2675
+G0VEC0	NAUCC	NCAS0D03300	YGOB_Anc_6_132	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2675
+J7R7Q9	KAZNA	KNAG0F02450	YGOB_Anc_6_132	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2675
+H2ANE3	KAZAF	KAFR0A04580	YGOB_Anc_6_132	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2675
+Q6FU15	CANGA	CAGL0F07139g	YGOB_Anc_6_132	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2675
+P53131	YEAST	YGL120C	YGOB_Anc_6_132	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2675
+C5E400	ZYGRC	ZYRO0E01606g	YGOB_Anc_6_132	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2675
+G8ZLL4	TORDC	TDEL0A01760	YGOB_Anc_6_132	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2675
+Q6CWY4	KLULA	KLLA0B00561g	YGOB_Anc_6_132	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2675
+Q75E97	ASHGO	AAR180C	YGOB_Anc_6_132	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2675
+G8JQZ6	ERECY	Ecym_3053	YGOB_Anc_6_132	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2675
+C5E2M6	LACTH	KLTH0H06204g	YGOB_Anc_6_132	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 2675

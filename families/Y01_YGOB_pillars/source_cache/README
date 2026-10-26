@@ -1,0 +1,3 @@
+uniprot_oln_<UPID>.tsv.gz: UniProt REST stream, release 2026_03 (X-UniProt-Release header), retrieved 2026-10-26:
+  https://rest.uniprot.org/uniprotkb/stream?query=proteome:<UPID>&fields=accession,gene_primary,gene_oln,gene_orf,gene_synonym,xref_embl&format=tsv
+Used only to map YGOB locus names to panel accessions (restricted to accessions in the panel proteome FASTA).

@@ -1,0 +1,6 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	source	locator
+G8BWA5	TETPH	TPHA0G03430	YGOB_Anc_2_519	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 1320
+C5DQN2	ZYGRC	ZYRO0B01672g	YGOB_Anc_2_519	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 1320
+G8ZLY2	TORDC	TDEL0A02940	YGOB_Anc_2_519	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 1320
+Q6CNB3	KLULA	KLLA0E13861g	YGOB_Anc_2_519	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 1320
+A7TS48	VANPO	Kpol_348.2	YGOB_Anc_2_519	uniprot_locus_name		YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 1320
