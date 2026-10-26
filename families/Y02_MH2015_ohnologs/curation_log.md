@@ -20,8 +20,8 @@ Why no family:
 
 Cross-check with Y01 (`build.py` → `crosscheck.tsv`):
 - 245/245 MH2015 pairs are S. cerevisiae ohnolog pairs in the complete YGOB v1 Pillars.tab.
-- 135/245 fall in the truncated v7 pillars used by Y01: **135/135 are encoded as the same YEAST ohnolog pair (D[WGD])
-  in Y01; 0 discordant.** The other 110 are outside the truncated part of the v7 file.
+- 141/245 fall in Y01 units (final panel Y): **141/141 are encoded as the same YEAST ohnolog pair (D[WGD])
+  in Y01; 0 discordant.** The other 104 are outside the truncated part of the v7 file (or in pillars that are not units).
 - Caveat for the A2 encoding: 85/245 pairs (35 %) carry 'A - AB', i.e. MH2015's trees place the split of these
   ohnologs *before* the KLE divergence ("more ancestral duplications are prominent with >50% of the duplications being
   mapped to the two nodes preceding the WGD (pre-ZT and pre-KLE)"). Y01's interval [ZT+WGD, Saccharomycetaceae]
