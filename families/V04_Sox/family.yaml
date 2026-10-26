@@ -1,0 +1,54 @@
+id: V04_Sox
+name: Sox transcription factors (groups B1, B2, C, D, E, F, H; SRY excluded)
+panel: V
+phenomena:
+- WGD
+- SSD
+- LOSS
+- DEEP
+descriptors:
+  n_members: 113
+  n_species: 6
+  mapping: 113/247 in-panel paper entries mapped (46%); 113/120 of gene-level identifiers
+  per_species_mapped:
+    CALMI: 0/18
+    DANRE: 25/27
+    HUMAN: 19/19
+    LATCH: 18/19
+    LEPOC: 17/19
+    MOUSE: 18/19
+    ONCMY: 0/51
+    ORYLA: 16/22
+    SALSA: 0/53
+sources:
+- id: Voldoire2017
+  doi: 10.1371/journal.pone.0180936
+  pmid: '28738066'
+  title: Expansion by whole genome duplication and evolution of the sox gene family in teleost fish
+  year: 2017
+  source_method: synteny
+  table: S6 Table (pone.0180936.s006.xls)
+  locator: S6 Table; Results; Fig 1-3; S2 Fig
+  quote: On the 10 sox genes duplicated through the teleost-specific WGD (sox1, 4, 6, 8, 9, 10, 11, 14, 19 and 21, Fig 1)
+  files:
+    literature/raw/B1/supp/sox_Voldoire2017__PMC5524304/pone.0180936.s006.xls: f38f516f581033707193da6d78fabe919e28d58247489f90eaadfa86e0c51441
+    literature/papers/PMID28738066/fulltext.txt: 334076bdd6f4bf6327bf79f7709f796e2fd1998b56a5f0f8e535a67ff8385a15
+root_level: Chordata
+root_single_copy: false
+complete_species:
+- HUMAN
+- MOUSE
+- LATCH
+- DANRE
+decoys: []
+distinct_from: []
+tier_summary:
+  T1_events: 27
+  T2: gene-level S polytomies (S6 columns; synteny-curated a/b ohnologs)
+protocol_version: 1
+notes: 2R placement is an interval (lvl_lo=Gnathostomata, lvl_hi=Vertebrata) because the paper says 'probable consequence
+  of the two rounds of WGD'; no lamprey in source. Salmonid (salmon, trout) and elephant-shark entries of S6 are genomic scaffold/contig
+  IDs from pre-2016 assemblies and cannot be mapped by exact ID; they are listed as unmapped (so Ss4R copies are absent from
+  the tree). S6 header for SOXE reads 'sox8/sox8a' but non-teleost sox8 sits in the 'sox8b' column; irrelevant to the tree
+  (non-teleosts are pre-3R), labels follow the column header. Group splits are placed at the panel root (Chordata) with lvl_hi=ABOVE_RANGE
+  (present in all bilaterians).

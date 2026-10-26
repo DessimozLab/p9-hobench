@@ -1,0 +1,62 @@
+id: V02_opsins
+name: Vertebrate visual opsins (LWS, SWS1, SWS2, RH2, RH1)
+panel: V
+phenomena:
+- WGD
+- TAND
+- LOSS
+- RETRO
+descriptors:
+  n_members: 41
+  n_species: 8
+  mapping: 41/46 in-panel S1 rows mapped (89%)
+  per_species_mapped:
+    CHICK: 5/5
+    DANRE: 11/11
+    HUMAN: 3/3
+    LATCH: 3/3
+    LEPOC: 7/7
+    MOUSE: 3/3
+    ORYLA: 5/10
+    XENTR: 4/4
+sources:
+- id: Lagman2013
+  doi: 10.1186/1471-2148-13-238
+  pmid: '24180662'
+  title: The vertebrate ancestral repertoire of visual opsins, transducin alpha subunits and oxytocin/vasopressin receptors
+    was established by duplication of their shared genomic region in the two rounds of early vertebrate genome duplications
+  year: 2013
+  source_method: synteny
+  table: Additional file 1 (S1.xlsx), sheet OPN; Table 1
+  locator: S1 OPN; Results; Discussion
+  quote: These genes later duplicated in 2R as part of a larger chromosomal block so that the ancestral SWS gene gave rise
+    to the types SWS1, SWS2, RH1 and RH2 and the ancestral LWS gave rise to four copies out of which only one has been retained,
+    namely the LWS type (Figure 5).
+  files:
+    literature/raw/B1/supp/opsin_Lagman2013__PMC3826523/1471-2148-13-238-S1.xlsx: a926fc2d049399f6c6bc3fbf38ebf472f0c47ab4bf82f18c6f5bd814299803f3
+    literature/papers/PMID24180662/fulltext.txt: 91855b0b69078703ed66c67bb885f0b257769b40cfe6727cce8bdb9e9f8d2c08
+- id: Ramirez2016
+  doi: 10.1093/gbe/evw248
+  pmid: '28007952'
+  title: The last common ancestor of most bilaterian animals possessed at least 9 opsins
+  year: 2016
+  source_method: phylogeny
+  locator: Supplemental Table T1 (not used for members)
+  quote: ''
+  files:
+    literature/raw/B1/supp/opsin_Ramirez2016__PMC5521729/evw248_Supp.zip: d89453e7ecd5e870c15e95ea610282b3ce1833cf02c0dadf6b63c7e1659abadf
+root_level: Vertebrata
+root_single_copy: false
+complete_species: []
+decoys: []
+distinct_from: []
+tier_summary:
+  T1_events: 9
+  T2: subtype S polytomies (S1 subtype column)
+protocol_version: 1
+notes: 'Scope = visual opsins only (Lagman S1 ''OPN'' main section). complete_species empty: Lagman searched Ensembl assemblies
+  of 2013 (chicken lacked 3 of 5 genes in WASHUC2; frog RH2 possibly assembly gap). Gar members mapped by Ensembl locus overlap
+  at the S1 gene-start coordinate (LepOcu1, still the Ensembl gar assembly); gar IDs printed in S1 are the query proteins
+  of other species. Ramirez 2016 Table T1 lists database protein names only (no per-sequence classification) and was not used
+  for membership; non-visual opsins therefore not covered. Root level Vertebrata with lvl_hi=ABOVE_RANGE: the SWS/LWS split
+  predates 2R; Ciona/amphioxus visual-opsin relatives not classified by the source.'

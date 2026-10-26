@@ -1,0 +1,90 @@
+original_id	species_label	species	label	status	gene_id	reason	locator
+ENSG00000102076	Human	HUMAN	LWS Hsa X OPN1LW	mapped	P04000	2 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 3
+ENSG00000128617	Human	HUMAN	SWS1 Hsa 7 OPN1SW	mapped	P03999	1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 4
+ENSG00000166160	Human	HUMAN	LWS Hsa X OPN1MW2	excluded		identical copies in panel proteome (protocol 6): via S1 alternative ID ENST00000369929; ambiguous: 3 panel accessions ['P04001', 'P0DN77', 'P0DN78']; via Ensembl ENSG00000166160: ambiguous: 3 panel accessions ['P04001', 'P0DN77', 'P0DN78']; sequence for ENST00000369929 from Ensembl REST ENST00000369929 (release current); sequence fallback failed (0 distinct qualifying targets)	S1 sheet OPN row 5
+ENSG00000147380	Human	HUMAN	LWS Hsa X OPN1MW	excluded		identical copies in panel proteome (protocol 6): no UniProt match; via Ensembl ENSG00000268221: ambiguous: 3 panel accessions ['P04001', 'P0DN77', 'P0DN78']	S1 sheet OPN row 6
+ENSG00000163914	Human	HUMAN	RH1 Hsa 3 RHO	mapped	P08100	1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 7
+ENSG00000054277	Human	HUMAN	OPN3 	excluded		not a visual opsin member (OPN3 outgroup / pinopsin / V/A / Ci-opsin rows of the 'additional' section)	S1 sheet OPN row 8
+ENSMUSG00000058831	Mouse	MOUSE	SWS1 Mmu 6 Opn1sw	mapped	P51491	3 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 9
+ENSMUSG00000031394	Mouse	MOUSE	LWS Mmu X Opn1lw	mapped	O35599	3 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 10
+ENSMUSG00000030324	Mouse	MOUSE	RH1 Mmu 6 Rho	mapped	P15409	4 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 11
+ENSMODG00000015071	Opossum		SWS1 Mdo 8 SWS1	not_in_panel		Opossum not in panel V	S1 sheet OPN row 12
+ENSMODG00000025355	Opossum		LWS Mdo X LWS	not_in_panel		Opossum not in panel V	S1 sheet OPN row 13
+ENSMODG00000006488	Opossum		RH1 Mdo 6 RH1	not_in_panel		Opossum not in panel V	S1 sheet OPN row 14
+ENSGALG00000002848	Chicken	CHICK	RH2 Gga 26 RH2	mapped	P28683	via S1 alternative ID ENSGALT00000004492; no UniProt match; via Ensembl ENSGALG00000002848: no UniProt match; sequence for ENSGALT00000004492 from Ensembl REST ENSGALT00000004492 (release current); sequence of ens:ENSGALG00000002848 -> P28683 (exact)	S1 sheet OPN row 15
+ENSGALG00000020745	Chicken	CHICK	RH1 Gga 12 RH1	mapped	F1P3Y2	via S1 alternative ID ENSGALT00000033236; no UniProt match; via Ensembl ENSGALG00000020745: no UniProt match; sequence for ENSGALT00000033236 from Ensembl REST ENSGALT00000033236 (release current); sequence of ens:ENSGALG00000020745 -> F1P3Y2 (exact)	S1 sheet OPN row 16
+NP_990769.1	Chicken	CHICK	SWS1 Gga SWS1	mapped	P28684	1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 17
+P22329.1	Chicken	CHICK	LWS Gga LWS	mapped	P22329	1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 18
+P28682.1	Chicken	CHICK	SWS2 Gga SWS2	mapped	P28682	1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 19
+ENSACAG00000016065	Anole lizard		RH2 Aca 4 RH2	not_in_panel		Anole lizard not in panel V	S1 sheet OPN row 20
+ENSACAG00000012537	Anole lizard		SWS2 Aca 2 SWS2	not_in_panel		Anole lizard not in panel V	S1 sheet OPN row 21
+ENSACAG00000008827	Anole lizard		SWS1 Aca SWS1	not_in_panel		Anole lizard not in panel V	S1 sheet OPN row 22
+ENSACAG00000012605	Anole lizard		LWS Aca 2 LWS	not_in_panel		Anole lizard not in panel V	S1 sheet OPN row 23
+ENSACAG00000014258	Anole lizard		RH1 Aca RH1	not_in_panel		Anole lizard not in panel V	S1 sheet OPN row 24
+ENSXETG00000023057	Western clawed frog	XENTR	SWS1 Xtr opn1sw	mapped	F6RHJ8	via S1 alternative ID ENSXETT00000049850; no UniProt match; via Ensembl ENSXETG00000023057: no UniProt match; sequence for ENSXETT00000049850 from Ensembl REST ENSXETT00000049850 (release current); sequence of ens:ENSXETG00000023057 -> F6RHJ8 (exact)	S1 sheet OPN row 25
+ENSXETG00000025579	Western clawed frog	XENTR	SWS2 Xtr SWS2	mapped	A0A7D9NMG7	via S1 alternative ID ENSXETT00000031174; no UniProt match; via Ensembl ENSXETG00000025579: no UniProt match; sequence for ENSXETT00000031174 from Ensembl REST ENSXETT00000031174 (release current); sequence of ens:ENSXETG00000025579 -> A0A7D9NMG7 (exact)	S1 sheet OPN row 26
+ENSXETG00000014236	Western clawed frog	XENTR	LWS Xtr opn1lw	mapped	A0A8J0Q6E1	via S1 alternative ID ENSXETT00000031163; no UniProt match; via Ensembl ENSXETG00000014236: no UniProt match; sequence for ENSXETT00000031163 from Ensembl REST ENSXETT00000031163 (release current); sequence of ens:ENSXETG00000014236 -> A0A8J0Q6E1 (exact)	S1 sheet OPN row 27
+ENSXETG00000001465	Western clawed frog	XENTR	RH1 Xtr rho	mapped	A8WGF4	via S1 alternative ID ENSXETT00000003083; ENSXETT00000003083 -> Ensembl ENSXETG00000001463; 1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 28
+ENSLACG00000010843	Coelacanth	LATCH	SWS2 Lch SWS2	mapped	H3ARP3	1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 29
+ENSLACG00000016590	Coelacanth	LATCH	RH2 Lch RH2	mapped	H3BAC8	1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 30
+ENSLACG00000013050	Coelacanth	LATCH	RH1 Lch RH1	mapped	Q9W6I4	1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 31
+Loc LG1 LWS (LG1:2606021)	Spotted gar	LEPOC	LWS Loc LG1 LWS	mapped	W5NBV9	Ensembl gene ENSLOCG00000014714; 1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 32
+Loc LG1 SWS2 (LG1:2621104)	Spotted gar	LEPOC	SWS2 Loc LG1 SWS2	mapped	W5NBW6	Ensembl gene ENSLOCG00000014721; 1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 33
+Loc LG3 RH2 (LG3:36554419)	Spotted gar	LEPOC	RH2 Loc LG3 RH2	mapped	W5N3R3	Ensembl gene ENSLOCG00000012404; 1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 34
+Loc LG5 RH1 2 (LG5:23736048)	Spotted gar	LEPOC	RH1 Loc LG5 RH1 2	mapped	W5NNY8	Ensembl gene ENSLOCG00000018246; 1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 35
+Loc LG5 RH1 1 (LG5:40451366)	Spotted gar	LEPOC	RH1 Loc LG5 RH1 1	mapped	W5N608	Ensembl gene ENSLOCG00000013037; 2 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 36
+Loc LG8 SWS1 1 (LG8:10387217)	Spotted gar	LEPOC	SWS1 Loc LG8 SWS1 1	mapped	W5NET5	Ensembl gene ENSLOCG00000015552; 1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 37
+Loc LG8 SWS1 2 (LG8:10395996)	Spotted gar	LEPOC	SWS1 Loc LG8 SWS1 2	mapped	W5NET8	Ensembl gene ENSLOCG00000015553; 1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 38
+ENSDARG00000044862	Zebrafish	DANRE	LWS Dre 11 opn1lw1	mapped	Q9W6A7	1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 39
+ENSDARG00000017274	Zebrafish	DANRE	SWS2 Dre 11 opn1sw2	mapped	Q9W6A8	1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 40
+ENSDARG00000002193	Zebrafish	DANRE	RH1 Dre 8 rho	mapped	P35359	1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 41
+ENSDARG00000000638	Zebrafish	DANRE	RH2 Dre 6 opn1mw4	mapped	Q9W6A6	1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 42
+ENSDARG00000044279	Zebrafish	DANRE	RH2 Dre 6 opn1mw3	mapped	Q8AYM7	1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 43
+ENSDARG00000044280	Zebrafish	DANRE	RH2 Dre 6 opn1mw1	mapped	Q9W6A5	via S1 alternative ID ENSDART00000002046; 1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 44
+ENSDARG00000044861	Zebrafish	DANRE	LWS Dre 11 opn1lw2	mapped	Q8AYN0	1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 45
+ENSDARG00000094617	Zebrafish	DANRE	RH2 Dre 6 opn1mw2	mapped	Q8AYM8	via S1 alternative ID ENSDART00000025241; no UniProt match; via Ensembl ENSDARG00000044280: no UniProt match; sequence for ENSDART00000025241 from Ensembl REST ENSDART00000025241 (release current); sequence of ens:ENSDART00000025241 -> Q8AYM8 (unique)	S1 sheet OPN row 46
+ENSDARG00000045677	Zebrafish	DANRE	SWS1 Dre 4 opn1sw1	mapped	Q9W6A9	via S1 alternative ID ENSDART00000067160; no UniProt match; via Ensembl ENSDARG00000045677: no UniProt match; sequence for ENSDART00000067160 from Ensembl REST ENSDART00000067160 (release current); sequence of ens:ENSDARG00000045677 -> Q9W6A9 (unique)	S1 sheet OPN row 47
+ENSDARG00000070666	Zebrafish	DANRE	RH1 Dre 11 rhol	mapped	A0AC58GQV7	via S1 alternative ID ENSDART00000103973; no UniProt match; via Ensembl ENSDARG00000070666: no UniProt match; sequence for ENSDART00000103973 from Ensembl REST ENSDART00000103973 (release current); sequence of ens:ENSDARG00000070666 -> A0AC58GQV7 (unique)	S1 sheet OPN row 48
+ENSDARG00000088603	Zebrafish	DANRE	RH1 Dre exorh	mapped	A0A8N7UZH6	via S1 alternative ID NP_571287.1; 1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 49
+ENSGACG00000010287	Three-spined stickleback		LWS Gac XVII LWS	not_in_panel		Three-spined stickleback not in panel V	S1 sheet OPN row 50
+ENSGACG00000010229	Three-spined stickleback		SWS2 Gac XVII SWS2	not_in_panel		Three-spined stickleback not in panel V	S1 sheet OPN row 51
+ENSGACG00000001398	Three-spined stickleback		RH2 Gac RH2 1	not_in_panel		Three-spined stickleback not in panel V	S1 sheet OPN row 52
+ENSGACG00000001434	Three-spined stickleback		RH2 Gac RH2 2	not_in_panel		Three-spined stickleback not in panel V	S1 sheet OPN row 53
+ENSGACG00000000716	Three-spined stickleback		SWS1 Gac SWS1	not_in_panel		Three-spined stickleback not in panel V	S1 sheet OPN row 54
+-	Three-spined stickleback		RH1 Gac XII RH1 1	not_in_panel		Three-spined stickleback not in panel V	S1 sheet OPN row 55
+GENSCAN00000019138	Three-spined stickleback		RH1 Gac XII RH1 2	not_in_panel		Three-spined stickleback not in panel V	S1 sheet OPN row 56
+ENSORLG00000014088	Medaka	ORYLA	LWS Ola 5 LWS 1	mapped	Q2L6A7	1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 57
+ENSORLG00000014058	Medaka	ORYLA	LWS Ola 5 LWS 2	ambiguous		2 S1 rows map to H2MGD1 (same gene ID in S1 or identical copies)	S1 sheet OPN row 58
+ENSORLG00000014058	Medaka	ORYLA	SWS2 Ola 5 SWS2 1	ambiguous		2 S1 rows map to H2MGD1 (same gene ID in S1 or identical copies)	S1 sheet OPN row 59
+-	Medaka	ORYLA	SWS2 Ola 5 SWS2 2	unmapped		no gene-model identifier (genomic contig/scaffold/EST/manual prediction)	S1 sheet OPN row 60
+ENSORLG00000020100	Medaka	ORYLA	RH2 Ola RH2 1	mapped	P87366	2 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 61
+ENSORLG00000020133	Medaka	ORYLA	RH2 Ola RH2 2	ambiguous		2 S1 rows map to A0A3B3IDD9 (same gene ID in S1 or identical copies)	S1 sheet OPN row 62
+ENSORLG00000020133	Medaka	ORYLA	RH2 Ola RH2 3	ambiguous		2 S1 rows map to A0A3B3IDD9 (same gene ID in S1 or identical copies)	S1 sheet OPN row 63
+ENSORLG00000010979	Medaka	ORYLA	RH1 Ola 7 RH1 1	mapped	H2M5N5	1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 64
+ENSORLG00000010599	Medaka	ORYLA	RH1 Ola 7 RH1 2	mapped	H2M4C4	1 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 65
+ENSORLG00000019293	Medaka	ORYLA	SWS1 Ola SWS1	mapped	Q2L6A1	2 UniProt hit(s), 1 in panel proteome	S1 sheet OPN row 66
+ENSTNIG00000007322	Green spoted pufferfish		LWS Tni 11 LWS	not_in_panel		Green spoted pufferfish not in panel V	S1 sheet OPN row 67
+ENSTNIG00000007321	Green spoted pufferfish		SWS2 Tni 11 SWS2	not_in_panel		Green spoted pufferfish not in panel V	S1 sheet OPN row 68
+ENSTNIG00000014726	Green spoted pufferfish		RH2 Tni 11 RH2	not_in_panel		Green spoted pufferfish not in panel V	S1 sheet OPN row 69
+ENSTNIG00000017925	Green spoted pufferfish		RH1 Tni 9 RH1 1	not_in_panel		Green spoted pufferfish not in panel V	S1 sheet OPN row 70
+ENSTNIG00000017909	Green spoted pufferfish		RH1 Tni 9 RH1 2	not_in_panel		Green spoted pufferfish not in panel V	S1 sheet OPN row 71
+AAR14682.1	Pouched lamprey		RH1 Gau RhA	not_in_panel		Pouched lamprey not in panel V	S1 sheet OPN row 72
+AAR14683.1	Pouched lamprey		RH2 Gau RhB	not_in_panel		Pouched lamprey not in panel V	S1 sheet OPN row 73
+AAR14681.1	Pouched lamprey		SWS2 Gau Sws2	not_in_panel		Pouched lamprey not in panel V	S1 sheet OPN row 74
+AAR14684.1	Pouched lamprey		SWS1 Gau Sws1	not_in_panel		Pouched lamprey not in panel V	S1 sheet OPN row 75
+AAR14680.1	Pouched lamprey		LWS Gau Lws	not_in_panel		Pouched lamprey not in panel V	S1 sheet OPN row 76
+ENSGALG00000010513	Chicken	CHICK	V/A opsin Gga 6 VA	excluded		not a visual opsin member (OPN3 outgroup / pinopsin / V/A / Ci-opsin rows of the 'additional' section)	S1 sheet OPN row 81
+ENSGALG00000004924	Chicken	CHICK	Pinopsin Gga 19 Pinops	excluded		not a visual opsin member (OPN3 outgroup / pinopsin / V/A / Ci-opsin rows of the 'additional' section)	S1 sheet OPN row 82
+AAD32622.1	Anole lizard		Pinopsin Aca Pinops	not_in_panel		Anole lizard not in panel V	S1 sheet OPN row 83
+ENSACAG00000005789	Anole lizard		V/A opsin Aca 3 VA	not_in_panel		Anole lizard not in panel V	S1 sheet OPN row 84
+ENSXETG00000014777	Western clawed frog	XENTR	V/A opsin Xtr VA	excluded		not a visual opsin member (OPN3 outgroup / pinopsin / V/A / Ci-opsin rows of the 'additional' section)	S1 sheet OPN row 85
+ENSXETG00000001124	Western clawed frog	XENTR	Pinopsin Xtr Pinops	excluded		not a visual opsin member (OPN3 outgroup / pinopsin / V/A / Ci-opsin rows of the 'additional' section)	S1 sheet OPN row 86
+ENSLACG00000003557	Coelacanth	LATCH	Pinopsin Lch Pinops	excluded		not a visual opsin member (OPN3 outgroup / pinopsin / V/A / Ci-opsin rows of the 'additional' section)	S1 sheet OPN row 87
+ENSLACP00000003994_1	Spotted gar	LEPOC	Pinopsin Loc LG22 Pinops	excluded		not a visual opsin member (OPN3 outgroup / pinopsin / V/A / Ci-opsin rows of the 'additional' section)	S1 sheet OPN row 88
+ENSGACP00000003708_1	Spotted gar	LEPOC	V/A opsin Loc LG5 VA	excluded		not a visual opsin member (OPN3 outgroup / pinopsin / V/A / Ci-opsin rows of the 'additional' section)	S1 sheet OPN row 89
+ENSDARG00000021150	Zebrafish	DANRE	V/A opsin Dre 13 VA	excluded		not a visual opsin member (OPN3 outgroup / pinopsin / V/A / Ci-opsin rows of the 'additional' section)	S1 sheet OPN row 90
+ENSDARG00000054181	Zebrafish	DANRE	V/A opsin Dre 12 VA	excluded		not a visual opsin member (OPN3 outgroup / pinopsin / V/A / Ci-opsin rows of the 'additional' section)	S1 sheet OPN row 91
+ENSGACG00000002828	Three-spined stickleback		V/A opsin Gac VI VA	not_in_panel		Three-spined stickleback not in panel V	S1 sheet OPN row 92
+ENSORLG00000000556	Medaka	ORYLA	V/A opsin Ola 15 VA	excluded		not a visual opsin member (OPN3 outgroup / pinopsin / V/A / Ci-opsin rows of the 'additional' section)	S1 sheet OPN row 93
+ENSCING00000001146	Ciona intestinalis	CIOIN	Ci-opsin2 Cin sHT000120.1	excluded		not a visual opsin member (OPN3 outgroup / pinopsin / V/A / Ci-opsin rows of the 'additional' section)	S1 sheet OPN row 94
+ENSCING00000001265	Ciona intestinalis	CIOIN	Ci-opsin1 Cin sHT000095.1	excluded		not a visual opsin member (OPN3 outgroup / pinopsin / V/A / Ci-opsin rows of the 'additional' section)	S1 sheet OPN row 95

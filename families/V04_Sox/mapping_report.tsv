@@ -1,0 +1,428 @@
+original_id	species_label	species	label	status	gene_id	reason	locator
+AAVX01006547.1	Elephant shark	CALMI	sox1a	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 3 col 2
+AAVX01362969.1	Elephant shark	CALMI	sox2	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 3 col 4
+AAVX01472991.1	Elephant shark	CALMI	sox3	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 3 col 5
+ENSMUSG00000096014	Mouse	MOUSE	sox1a	mapped	P53783	1 UniProt hit(s), 1 in panel proteome	S6 row 4 col 2
+ENSMUSG00000074637	Mouse	MOUSE	sox2	unmapped		UniProt hit(s) ['F6PWX2'] not in panel proteome (non-canonical/other entries); sequence for ENSMUSG00000074637 from Ensembl REST ENSMUST00000099151 (release current); sequence fallback failed (0 distinct qualifying targets)	S6 row 4 col 4
+ENSMUSG00000045179	Mouse	MOUSE	sox3	mapped	P53784	UniProt hit(s) ['A2AM37'] not in panel proteome (non-canonical/other entries); sequence for ENSMUSG00000045179 from Ensembl REST ENSMUST00000135107 (release current); sequence of A2AM37 -> P53784 (unique)	S6 row 4 col 5
+ENSMUSG00000041287	Mouse	MOUSE	sox19a	mapped	P43267	1 UniProt hit(s), 1 in panel proteome	S6 row 4 col 6
+ENSG00000182968	Human	HUMAN	sox1a	mapped	O00570	1 UniProt hit(s), 1 in panel proteome	S6 row 5 col 2
+ENSG00000181449	Human	HUMAN	sox2	mapped	P48431	1 UniProt hit(s), 1 in panel proteome	S6 row 5 col 4
+ENSG00000134595	Human	HUMAN	sox3	mapped	P41225	1 UniProt hit(s), 1 in panel proteome	S6 row 5 col 5
+ENSG00000129194	Human	HUMAN	sox19a	mapped	O60248	1 UniProt hit(s), 1 in panel proteome	S6 row 5 col 6
+ENSLACG00000005331	Coelacanth	LATCH	sox1a	mapped	H3A8N4	1 UniProt hit(s), 1 in panel proteome	S6 row 6 col 2
+ENSLACG00000006560	Coelacanth	LATCH	sox2	mapped	H3ACM9	1 UniProt hit(s), 1 in panel proteome	S6 row 6 col 4
+ENSLACG00000006644	Coelacanth	LATCH	sox3	mapped	H3ACX2	1 UniProt hit(s), 1 in panel proteome	S6 row 6 col 5
+ENSLACG00000004841	Coelacanth	LATCH	sox19a	mapped	H3A721	1 UniProt hit(s), 1 in panel proteome	S6 row 6 col 6
+Chr:LG17:24500578:24500778	Spotted gar	LEPOC	sox1a	mapped	W5NMP4	Ensembl gene ENSLOCG00000017799; 1 UniProt hit(s), 1 in panel proteome	S6 row 7 col 2
+Chr:LG14:176045:176245	Spotted gar	LEPOC	sox2	mapped	W5NLE2	Ensembl gene ENSLOCG00000017346; 1 UniProt hit(s), 1 in panel proteome	S6 row 7 col 4
+Chr:LG7:46761732:46761932	Spotted gar	LEPOC	sox3	mapped	W5NLT9	Ensembl gene ENSLOCG00000017493; 1 UniProt hit(s), 1 in panel proteome	S6 row 7 col 5
+Chr:LG2:63676502:63676702	Spotted gar	LEPOC	sox19a	mapped	W5NAZ1	Ensembl gene ENSLOCG00000014463; 1 UniProt hit(s), 1 in panel proteome	S6 row 7 col 6
+ENSDARP00000092797	Zebrafish	DANRE	sox1a	mapped	Q6DGL6	1 UniProt hit(s), 1 in panel proteome	S6 row 8 col 2
+ENSDARP00000026510	Zebrafish	DANRE	sox1b	mapped	Q2Z1R2	1 UniProt hit(s), 1 in panel proteome	S6 row 8 col 3
+ENSDARP00000095266	Zebrafish	DANRE	sox2	mapped	Q6P0E1	1 UniProt hit(s), 1 in panel proteome	S6 row 8 col 4
+ENSDARP00000070099	Zebrafish	DANRE	sox3	mapped	Q6EJB7	1 UniProt hit(s), 1 in panel proteome	S6 row 8 col 5
+ENSDARP00000019070	Zebrafish	DANRE	sox19a	mapped	P47792	ENSDARP00000019070 -> Ensembl ENSDARG00000110497; 1 UniProt hit(s), 1 in panel proteome	S6 row 8 col 6
+ENSDARP00000058909	Zebrafish	DANRE	sox19b	mapped	Q9DDD7	no UniProt match; via Ensembl ENSDARG00000040266: no UniProt match; sequence for ENSDARP00000058909 from Ensembl REST ENSDARP00000058909 (release current); sequence of ens:ENSDARP00000058909 -> Q9DDD7 (unique)	S6 row 8 col 7
+KB882203	Cavefish		sox1a	not_in_panel		Cavefish not in panel V	S6 row 9 col 2
+KB882168	Cavefish		sox1b	not_in_panel		Cavefish not in panel V	S6 row 9 col 3
+KB882223	Cavefish		sox2	not_in_panel		Cavefish not in panel V	S6 row 9 col 4
+KB882186	Cavefish		sox3	not_in_panel		Cavefish not in panel V	S6 row 9 col 5
+KB872808	Cavefish		sox19a	not_in_panel		Cavefish not in panel V	S6 row 9 col 6
+KB882114	Cavefish		sox19b	not_in_panel		Cavefish not in panel V	S6 row 9 col 7
+scf14275287	Salmon	SALSA	sox1a(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 10 col 2
+contig_252717	Salmon	SALSA	sox1a(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 10 col 2
+scf14267310	Salmon	SALSA	sox1b(b1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 10 col 3
+scf14200112	Salmon	SALSA	sox1b(b2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 10 col 3
+scf14247969	Salmon	SALSA	sox2(a)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 10 col 4
+scf14211573	Salmon	SALSA	sox2(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 10 col 4
+scf14191709	Salmon	SALSA	sox3(a)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 10 col 5
+scf14205036	Salmon	SALSA	sox3(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 10 col 5
+scf14288259	Salmon	SALSA	sox19a(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 10 col 6
+scf14287399	Salmon	SALSA	sox19a(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 10 col 6
+scf14284928	Salmon	SALSA	sox19b(b1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 10 col 7
+scf14254422	Salmon	SALSA	sox19b(b2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 10 col 7
+scaffold02755	Trout	ONCMY	sox1a(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 11 col 2
+scaffold06980	Trout	ONCMY	sox1a(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 11 col 2
+scaffold07772	Trout	ONCMY	sox1b(b1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 11 col 3
+scaffold11194	Trout	ONCMY	sox1b(b2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 11 col 3
+scaffold00113	Trout	ONCMY	sox2(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 11 col 4
+scaffold00295	Trout	ONCMY	sox2(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 11 col 4
+scaffold01043	Trout	ONCMY	sox3(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 11 col 5
+scaffold00439	Trout	ONCMY	sox3(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 11 col 5
+scaffold00162	Trout	ONCMY	sox19a(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 11 col 6
+scaffold00043	Trout	ONCMY	sox19a(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 11 col 6
+scaffold00182	Trout	ONCMY	sox19b(b1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 11 col 7
+scaffold04270	Trout	ONCMY	sox19b(b2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 11 col 7
+ENSGMOT00000022611	Cod		sox1a	not_in_panel		Cod not in panel V	S6 row 12 col 2
+ENSGMOG00000020606	Cod		sox1b	not_in_panel		Cod not in panel V	S6 row 12 col 3
+ENSGMOG00000019777	Cod		sox2	not_in_panel		Cod not in panel V	S6 row 12 col 4
+ENSGMOG00000020190	Cod		sox3	not_in_panel		Cod not in panel V	S6 row 12 col 5
+ENSGMOG00000018365	Cod		sox19a	not_in_panel		Cod not in panel V	S6 row 12 col 6
+ENSONIG00000020427	Tilapia		sox1a	not_in_panel		Tilapia not in panel V	S6 row 13 col 2
+GL831144	Tilapia		sox1b	not_in_panel		Tilapia not in panel V	S6 row 13 col 3
+ENSONIG00000021317	Tilapia		sox2	not_in_panel		Tilapia not in panel V	S6 row 13 col 4
+ENSONIG00000020861	Tilapia		sox3	not_in_panel		Tilapia not in panel V	S6 row 13 col 5
+ENSONIG00000000602	Tilapia		sox19a	not_in_panel		Tilapia not in panel V	S6 row 13 col 6
+ENSORLG00000012110	Medaka	ORYLA	sox1a	mapped	H2M9H2	1 UniProt hit(s), 1 in panel proteome	S6 row 14 col 2
+ENSORLG00000011685	Medaka	ORYLA	sox2	mapped	H2M836	1 UniProt hit(s), 1 in panel proteome	S6 row 14 col 4
+NM_001104764	Medaka	ORYLA	sox3	mapped	H2L8N3	2 UniProt hit(s), 1 in panel proteome	S6 row 14 col 5
+TC130241	Medaka	ORYLA	sox19a	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 14 col 6
+ENSXMAG00000019932	Platy		sox1a	not_in_panel		Platy not in panel V	S6 row 15 col 2
+JH556871.1	Platy		sox1b	not_in_panel		Platy not in panel V	S6 row 15 col 3
+ENSXMAG00000020128	Platy		sox2	not_in_panel		Platy not in panel V	S6 row 15 col 4
+ENSXMAG00000019515	Platy		sox3	not_in_panel		Platy not in panel V	S6 row 15 col 5
+ENSXMAG00000008210	Platy		sox19a	not_in_panel		Platy not in panel V	S6 row 15 col 6
+ENSTNIP00000016871	Tetraodon		sox1a	not_in_panel		Tetraodon not in panel V	S6 row 16 col 2
+ENSTNIG00000013867	Tetraodon		sox1b	not_in_panel		Tetraodon not in panel V	S6 row 16 col 3
+ENSTNIG00000003970	Tetraodon		sox2	not_in_panel		Tetraodon not in panel V	S6 row 16 col 4
+Chr1:8752342	Tetraodon		sox3	not_in_panel		Tetraodon not in panel V	S6 row 16 col 5
+chrUn_random:103542540	Tetraodon		sox19a	not_in_panel		Tetraodon not in panel V	S6 row 16 col 6
+Q6WNU3_FUGRU	Fugu		sox1a	not_in_panel		Fugu not in panel V	S6 row 17 col 2
+Q6WNU2_FUGRU	Fugu		sox1b	not_in_panel		Fugu not in panel V	S6 row 17 col 3
+ENSTRUG00000004861	Fugu		sox2	not_in_panel		Fugu not in panel V	S6 row 17 col 4
+Q6WNU0_FUGRU	Fugu		sox3	not_in_panel		Fugu not in panel V	S6 row 17 col 5
+ENSTRUG00000005238	Fugu		sox19a	not_in_panel		Fugu not in panel V	S6 row 17 col 6
+ENSGACG00000003790	Stickleback		sox1a	not_in_panel		Stickleback not in panel V	S6 row 18 col 2
+ENSGACG00000002889	Stickleback		sox1b	not_in_panel		Stickleback not in panel V	S6 row 18 col 3
+ENSGACG00000006100	Stickleback		sox2	not_in_panel		Stickleback not in panel V	S6 row 18 col 4
+ENSGACG00000017181	Stickleback		sox3	not_in_panel		Stickleback not in panel V	S6 row 18 col 5
+ENSGACG00000020077	Stickleback		sox19a	not_in_panel		Stickleback not in panel V	S6 row 18 col 6
+AAVX01160848.1	Elephant shark	CALMI	sox14a	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 21 col 2
+AAVX01355518.1	Elephant shark	CALMI	sox21b	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 21 col 5
+AAVX01367158.1	Elephant shark	CALMI	sox4b	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 21 col 8
+AAVX01291955.1	Elephant shark	CALMI	sox11a	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 21 col 9
+AAVX01196259.1	Elephant shark	CALMI	sox12	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 21 col 11
+ENSMUSG00000053747	Mouse	MOUSE	sox14a	mapped	Q04892	2 UniProt hit(s), 1 in panel proteome	S6 row 22 col 2
+ENSMUSG00000061517	Mouse	MOUSE	sox21b	mapped	Q811W0	1 UniProt hit(s), 1 in panel proteome	S6 row 22 col 5
+ENSMUSG00000076431	Mouse	MOUSE	sox4b	mapped	Q06831	1 UniProt hit(s), 1 in panel proteome	S6 row 22 col 8
+ENSMUSG00000063632	Mouse	MOUSE	sox11a	mapped	Q7M6Y2	1 UniProt hit(s), 1 in panel proteome	S6 row 22 col 9
+ENSMUSG00000051817	Mouse	MOUSE	sox12	mapped	Q04890	1 UniProt hit(s), 1 in panel proteome	S6 row 22 col 11
+ENSG00000168875	Human	HUMAN	sox14a	mapped	O95416	1 UniProt hit(s), 1 in panel proteome	S6 row 23 col 2
+ENSG00000125285	Human	HUMAN	sox21b	mapped	Q9Y651	1 UniProt hit(s), 1 in panel proteome	S6 row 23 col 5
+ENSG00000124766	Human	HUMAN	sox4b	mapped	Q06945	1 UniProt hit(s), 1 in panel proteome	S6 row 23 col 8
+ENSG00000176887	Human	HUMAN	sox11a	mapped	P35716	1 UniProt hit(s), 1 in panel proteome	S6 row 23 col 9
+ENSG00000177732	Human	HUMAN	sox12	mapped	O15370	1 UniProt hit(s), 1 in panel proteome	S6 row 23 col 11
+ENSLACG00000012047	Coelacanth	LATCH	sox14a	mapped	H3AVL8	1 UniProt hit(s), 1 in panel proteome	S6 row 24 col 2
+ENSLACG00000006585	Coelacanth	LATCH	sox21b	mapped	H3ACQ6	1 UniProt hit(s), 1 in panel proteome	S6 row 24 col 5
+ENSLACG00000003899	Coelacanth	LATCH	sox4b	mapped	H3A415	1 UniProt hit(s), 1 in panel proteome	S6 row 24 col 8
+ENSLACG00000014788	Coelacanth	LATCH	sox11a	mapped	H3B4G9	1 UniProt hit(s), 1 in panel proteome	S6 row 24 col 9
+ENSLACG00000007378	Coelacanth	LATCH	sox12	mapped	H3AFB5	1 UniProt hit(s), 1 in panel proteome	S6 row 24 col 11
+Chr:LG14:11801117:11801317	Spotted gar	LEPOC	sox14a	mapped	W5NLJ8	Ensembl gene ENSLOCG00000017402; 1 UniProt hit(s), 1 in panel proteome	S6 row 25 col 2
+Chr:LG17:13232880:13233080	Spotted gar	LEPOC	sox21b	mapped	W5NMM8	Ensembl gene ENSLOCG00000017783; 1 UniProt hit(s), 1 in panel proteome	S6 row 25 col 5
+Chr:LG11:29196951:29197190	Spotted gar	LEPOC	sox4b	mapped	W5NP80	Ensembl gene ENSLOCG00000018338; 1 UniProt hit(s), 1 in panel proteome	S6 row 25 col 8
+Chr:LG1:47946704:47946943	Spotted gar	LEPOC	sox11a	mapped	W5NNA0	Ensembl gene ENSLOCG00000018008; 1 UniProt hit(s), 1 in panel proteome	S6 row 25 col 9
+Chr:LG18:13258496:13258735	Spotted gar	LEPOC	sox12	mapped	W5NPA7	Ensembl gene ENSLOCG00000018365; 1 UniProt hit(s), 1 in panel proteome	S6 row 25 col 11
+ENSDARP00000095305	Zebrafish	DANRE	sox14a	mapped	Q32PP9	1 UniProt hit(s), 1 in panel proteome	S6 row 26 col 2
+ENSDARP00000014591	Zebrafish	DANRE	sox14b	mapped	A0A8M3B7P4	no UniProt match; retired Ensembl ID (0 archive replacements); sequence for ENSDARP00000014591 from UniParc UPI000019D9AC,UPI000056994C,UPI00015A79AB; sequence of ens:ENSDARP00000014591#0 -> A0A8M3B7P4 (unique)	S6 row 26 col 3
+ENSDARP00000049338	Zebrafish	DANRE	sox21a	mapped	Q7SZS1	no UniProt match; via Ensembl ENSDARG00000031664: no UniProt match; sequence for ENSDARP00000049338 from Ensembl REST ENSDARP00000049338 (release current); sequence of ens:ENSDARP00000049338 -> Q7SZS1 (unique)	S6 row 26 col 4
+ENSDARP00000023480	Zebrafish	DANRE	sox21b	mapped	Q6RVD7	1 UniProt hit(s), 1 in panel proteome	S6 row 26 col 5
+ENSDARP00000002932	Zebrafish	DANRE	sox4a	mapped	A0A8M1PEK7	no UniProt match; via Ensembl ENSDARG00000004588: no UniProt match; sequence for ENSDARP00000002932 from Ensembl REST ENSDARP00000002932 (release current); sequence of ens:ENSDARP00000002932 -> A0A8M1PEK7 (exact)	S6 row 26 col 7
+ENSDARP00000063475	Zebrafish	DANRE	sox4b	unmapped		no UniProt match; retired Ensembl ID (0 archive replacements); sequence for ENSDARP00000063475 from UniParc UPI0000249135,UPI00015A6411; sequence fallback failed (0 distinct qualifying targets)	S6 row 26 col 8
+ENSDARP00000105811	Zebrafish	DANRE	sox11a	mapped	A0A8M1P7L6	no UniProt match; via Ensembl ENSDARG00000077811: no UniProt match; sequence for ENSDARP00000105811 from Ensembl REST ENSDARP00000105811 (release current); sequence of ens:ENSDARP00000105811 -> A0A8M1P7L6 (exact)	S6 row 26 col 9
+ENSDARP00000122216	Zebrafish	DANRE	sox11b	mapped	A0A8M1PBV5	no UniProt match; via Ensembl ENSDARG00000095743: no UniProt match; sequence for ENSDARP00000122216 from Ensembl REST ENSDARP00000122216 (release current); sequence of ens:ENSDARP00000122216 -> A0A8M1PBV5 (unique)	S6 row 26 col 10
+ENSDARP00000065971	Zebrafish	DANRE	sox12	mapped	A0AB40EAE6	no UniProt match; retired Ensembl ID (0 archive replacements); sequence for ENSDARP00000065971 from UniParc UPI00001B6626,UPI000056B2AE; sequence of ens:ENSDARP00000065971#0 -> A0AB40EAE6 (unique)	S6 row 26 col 11
+KB882176	Cavefish		sox14a	not_in_panel		Cavefish not in panel V	S6 row 27 col 2
+KB882088	Cavefish		sox14b	not_in_panel		Cavefish not in panel V	S6 row 27 col 3
+KB882082	Cavefish		sox21a	not_in_panel		Cavefish not in panel V	S6 row 27 col 4
+KB871578	Cavefish		sox21b	not_in_panel		Cavefish not in panel V	S6 row 27 col 5
+KB882124	Cavefish		sox4a	not_in_panel		Cavefish not in panel V	S6 row 27 col 7
+KB882232	Cavefish		sox4b	not_in_panel		Cavefish not in panel V	S6 row 27 col 8
+KB882153	Cavefish		sox11a	not_in_panel		Cavefish not in panel V	S6 row 27 col 9
+KB882308	Cavefish		sox11b	not_in_panel		Cavefish not in panel V	S6 row 27 col 10
+KB871584	Cavefish		sox12	not_in_panel		Cavefish not in panel V	S6 row 27 col 11
+scf14199216	Salmon	SALSA	sox14a(a)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 28 col 2
+scf14235948	Salmon	SALSA	sox14b(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 28 col 3
+scf14286722	Salmon	SALSA	sox21b(b1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 28 col 5
+scf14187168	Salmon	SALSA	sox21b(b2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 28 col 5
+scf14281463	Salmon	SALSA	sox4a(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 28 col 7
+scf14240583	Salmon	SALSA	sox4a(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 28 col 7
+scf14197995	Salmon	SALSA	sox4b(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 28 col 8
+scf14224857	Salmon	SALSA	sox11a(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 28 col 9
+scf14220182	Salmon	SALSA	sox11a(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 28 col 9
+scf14220182	Salmon	SALSA	sox11b(b1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 28 col 10
+scf14220182	Salmon	SALSA	sox11b(b2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 28 col 10
+scf14220182	Salmon	SALSA	sox12(a)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 28 col 11
+scf14220182	Salmon	SALSA	sox12(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 28 col 11
+scaffold_3180	Trout	ONCMY	sox14a(a)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 29 col 2
+scaffold373	Trout	ONCMY	sox14b(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 29 col 3
+scaffold_354	Trout	ONCMY	sox21b(b1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 29 col 5
+scaffold_31431	Trout	ONCMY	sox21b(b2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 29 col 5
+scaffold27058	Trout	ONCMY	sox4a(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 29 col 7
+scaffold26284	Trout	ONCMY	sox4a(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 29 col 7
+scaffold 44499	Trout	ONCMY	sox4b(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 29 col 8
+scaffold00305	Trout	ONCMY	sox11a(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 29 col 9
+scaffold 01705	Trout	ONCMY	sox11a(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 29 col 9
+scaffold 02386	Trout	ONCMY	sox11b(b1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 29 col 10
+scaffold 02846	Trout	ONCMY	sox11b(b2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 29 col 10
+scaffold 21730	Trout	ONCMY	sox12(1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 29 col 11
+scaffold 68648	Trout	ONCMY	sox12(2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 29 col 11
+GeneScaffold995	Cod		sox14a	not_in_panel		Cod not in panel V	S6 row 30 col 2
+ENSGMOG00000019808	Cod		sox14b	not_in_panel		Cod not in panel V	S6 row 30 col 3
+ENSGMOG00000019987	Cod		sox21b	not_in_panel		Cod not in panel V	S6 row 30 col 5
+GeneScaffold 1727	Cod		sox4a	not_in_panel		Cod not in panel V	S6 row 30 col 7
+ENSGMOG00000001228	Cod		sox4b	not_in_panel		Cod not in panel V	S6 row 30 col 8
+GeneScaffold 2007	Cod		sox11a	not_in_panel		Cod not in panel V	S6 row 30 col 9
+GeneScaffold 4574	Cod		sox11b	not_in_panel		Cod not in panel V	S6 row 30 col 10
+GL831162	Tilapia		sox14a	not_in_panel		Tilapia not in panel V	S6 row 31 col 2
+ENSONIG00000021438	Tilapia		sox14b	not_in_panel		Tilapia not in panel V	S6 row 31 col 3
+ENSONIG00000021103	Tilapia		sox21b	not_in_panel		Tilapia not in panel V	S6 row 31 col 5
+ENSONIG00000020780	Tilapia		sox4a	not_in_panel		Tilapia not in panel V	S6 row 31 col 7
+ENSONIG00000020748	Tilapia		sox4b	not_in_panel		Tilapia not in panel V	S6 row 31 col 8
+ENSONIG00000020631	Tilapia		sox11a	not_in_panel		Tilapia not in panel V	S6 row 31 col 9
+ENSONIG00000018824	Tilapia		sox11b	not_in_panel		Tilapia not in panel V	S6 row 31 col 10
+ENSORLG00000018867	Medaka	ORYLA	sox14a	mapped	H2MX99	1 UniProt hit(s), 1 in panel proteome	S6 row 32 col 2
+ENSORLG00000017755	Medaka	ORYLA	sox21b	mapped	A0ACM8QJI6	1 UniProt hit(s), 1 in panel proteome	S6 row 32 col 5
+TC117822	Medaka	ORYLA	sox4a	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 32 col 7
+ENSORLG00000005001	Medaka	ORYLA	sox4b	mapped	H2LJV9	1 UniProt hit(s), 1 in panel proteome	S6 row 32 col 8
+ENSORLG00000014996	Medaka	ORYLA	sox11a	mapped	H2MJF0	1 UniProt hit(s), 1 in panel proteome	S6 row 32 col 9
+ENSXMAG00000019624	Platy		sox14a	not_in_panel		Platy not in panel V	S6 row 33 col 2
+JH559964	Platy		sox14b	not_in_panel		Platy not in panel V	S6 row 33 col 3
+ENSXMAG00000019573	Platy		sox21b	not_in_panel		Platy not in panel V	S6 row 33 col 5
+ENSXMAG00000019759	Platy		sox4a	not_in_panel		Platy not in panel V	S6 row 33 col 7
+ENSXMAG00000009656	Platy		sox4b	not_in_panel		Platy not in panel V	S6 row 33 col 8
+ENSXMAT00000008039	Platy		sox11a	not_in_panel		Platy not in panel V	S6 row 33 col 9
+ENSXMAG00000020179	Platy		sox11b	not_in_panel		Platy not in panel V	S6 row 33 col 10
+ENSTNIG00000006369	Tetraodon		sox14a	not_in_panel		Tetraodon not in panel V	S6 row 34 col 2
+CAAE01014781	Tetraodon		sox21b	not_in_panel		Tetraodon not in panel V	S6 row 34 col 5
+ENSTNIG00000009265	Tetraodon		sox4a	not_in_panel		Tetraodon not in panel V	S6 row 34 col 7
+ENSTNIG00000009619	Tetraodon		sox4b	not_in_panel		Tetraodon not in panel V	S6 row 34 col 8
+ENSTNIG00000017304	Tetraodon		sox11a	not_in_panel		Tetraodon not in panel V	S6 row 34 col 9
+ENSTRUG00000012630	Fugu		sox14a	not_in_panel		Fugu not in panel V	S6 row 35 col 2
+ENSTRUG00000013197	Fugu		sox14b	not_in_panel		Fugu not in panel V	S6 row 35 col 3
+TC6853	Fugu		sox21b	not_in_panel		Fugu not in panel V	S6 row 35 col 5
+ENSTRUG00000011266	Fugu		sox4a	not_in_panel		Fugu not in panel V	S6 row 35 col 7
+TC6611	Fugu		sox4b	not_in_panel		Fugu not in panel V	S6 row 35 col 8
+ENSTRUG00000003243	Fugu		sox11a	not_in_panel		Fugu not in panel V	S6 row 35 col 9
+groupVIII:3003760:3003320:-1	Stickleback		sox14a	not_in_panel		Stickleback not in panel V	S6 row 36 col 2
+groupIII:8983863:8984233:-1	Stickleback		sox14b	not_in_panel		Stickleback not in panel V	S6 row 36 col 3
+ENSGACG00000004124	Stickleback		sox21b	not_in_panel		Stickleback not in panel V	S6 row 36 col 5
+ENSGACG00000009053	Stickleback		sox4a	not_in_panel		Stickleback not in panel V	S6 row 36 col 7
+ENSGACG00000006620	Stickleback		sox4b	not_in_panel		Stickleback not in panel V	S6 row 36 col 8
+ENSGACG00000009065	Stickleback		sox11a	not_in_panel		Stickleback not in panel V	S6 row 36 col 9
+AAVX01639209.1	Elephant shark	CALMI	sox5	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 39 col 2
+AAVX01030624.1	Elephant shark	CALMI	sox6a	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 39 col 3
+AAVX01286937.1	Elephant shark	CALMI	sox13	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 39 col 5
+AAVX01066759.1	Elephant shark	CALMI	sox8b	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 39 col 8
+AAVX01537475.1	Elephant shark	CALMI	sox9b	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 39 col 10
+AAVX01358794.1	Elephant shark	CALMI	sox10b	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 39 col 12
+ENSMUSG00000041540	Mouse	MOUSE	sox5	mapped	P35710	7 UniProt hit(s), 1 in panel proteome	S6 row 40 col 2
+ENSMUSG00000051910	Mouse	MOUSE	sox6a	mapped	P40645	7 UniProt hit(s), 1 in panel proteome	S6 row 40 col 3
+ENSMUSG00000070643	Mouse	MOUSE	sox13	mapped	Q04891	2 UniProt hit(s), 1 in panel proteome	S6 row 40 col 5
+ENSMUSG00000024176	Mouse	MOUSE	sox8b	mapped	Q04886	2 UniProt hit(s), 1 in panel proteome	S6 row 40 col 8
+ENSMUSG00000000567	Mouse	MOUSE	sox9b	mapped	Q04887	1 UniProt hit(s), 1 in panel proteome	S6 row 40 col 10
+ENSMUSG00000033006	Mouse	MOUSE	sox10b	mapped	Q04888	2 UniProt hit(s), 1 in panel proteome	S6 row 40 col 12
+ENSG00000134532	Human	HUMAN	sox5	mapped	P35711	12 UniProt hit(s), 1 in panel proteome	S6 row 41 col 2
+ENSG00000110693	Human	HUMAN	sox6a	mapped	P35712	11 UniProt hit(s), 1 in panel proteome	S6 row 41 col 3
+ENSG00000143842	Human	HUMAN	sox13	mapped	Q9UN79	11 UniProt hit(s), 1 in panel proteome	S6 row 41 col 5
+ENSG00000005513	Human	HUMAN	sox8b	mapped	P57073	4 UniProt hit(s), 1 in panel proteome	S6 row 41 col 8
+ENSG00000125398	Human	HUMAN	sox9b	mapped	P48436	2 UniProt hit(s), 1 in panel proteome	S6 row 41 col 10
+ENSG00000100146	Human	HUMAN	sox10b	mapped	P56693	6 UniProt hit(s), 1 in panel proteome	S6 row 41 col 12
+ENSLACG00000012837	Coelacanth	LATCH	sox5	mapped	M3XHT0	2 UniProt hit(s), 1 in panel proteome	S6 row 42 col 2
+ENSLACG00000017676	Coelacanth	LATCH	sox6a	mapped	H3BDZ0	2 UniProt hit(s), 1 in panel proteome	S6 row 42 col 3
+JH126665.1	Coelacanth	LATCH	sox13	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 42 col 5
+ENSLACG00000016616	Coelacanth	LATCH	sox8b	mapped	H3BAG2	1 UniProt hit(s), 1 in panel proteome	S6 row 42 col 8
+ENSLACG00000018754	Coelacanth	LATCH	sox9b	mapped	H3BHH2	1 UniProt hit(s), 1 in panel proteome	S6 row 42 col 10
+ENSLACG00000004437	Coelacanth	LATCH	sox10b	mapped	H3A5R9	1 UniProt hit(s), 1 in panel proteome	S6 row 42 col 12
+Chr:LG8:5396252:5396368	Spotted gar	LEPOC	sox5	mapped	W5NE28	Ensembl gene ENSLOCG00000015347; 1 UniProt hit(s), 1 in panel proteome	S6 row 43 col 2
+Chr:LG27:6643845:6643961	Spotted gar	LEPOC	sox6a	mapped	W5M5G6	Ensembl gene ENSLOCG00000003065; 1 UniProt hit(s), 1 in panel proteome	S6 row 43 col 3
+AHAT01043378.1:9975:10112	Spotted gar	LEPOC	sox13	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 43 col 5
+Chr:LG13:2431274:2431399	Spotted gar	LEPOC	sox8b	mapped	W5M149	Ensembl gene ENSLOCG00000001820; 1 UniProt hit(s), 1 in panel proteome	S6 row 43 col 8
+Chr:LG10:35247623:35247748	Spotted gar	LEPOC	sox9b	mapped	W5N425	Ensembl gene ENSLOCG00000012498; 1 UniProt hit(s), 1 in panel proteome	S6 row 43 col 10
+Chr:LG12:35402506:35402583	Spotted gar	LEPOC	sox10b	mapped	W5N1P2	Ensembl gene ENSLOCG00000011834; 1 UniProt hit(s), 1 in panel proteome	S6 row 43 col 12
+ENSDARG00000011582	Zebrafish	DANRE	sox5	mapped	A0A8M9Q0N4	no UniProt match; sequence for ENSDARG00000011582 from Ensembl REST ENSDART00000162945 (release current); sequence of ens:ENSDARG00000011582 -> A0A8M9Q0N4 (unique)	S6 row 44 col 2
+ENSDARP00000091770	Zebrafish	DANRE	sox6a	unmapped		no UniProt match; via Ensembl ENSDARG00000015536: no UniProt match; sequence for ENSDARP00000091770 from Ensembl REST ENSDARP00000091770 (release current); sequence fallback failed (0 distinct qualifying targets)	S6 row 44 col 3
+ENSDARG00000030297	Zebrafish	DANRE	sox13	mapped	A0AC58GQI6	no UniProt match; sequence for ENSDARG00000030297 from Ensembl REST ENSDART00000166886 (release current); sequence of ens:ENSDARG00000030297 -> A0AC58GQI6 (unique)	S6 row 44 col 5
+ENSDARP00000088889	Zebrafish	DANRE	sox8a	mapped	A0A0R4ITJ3	no UniProt match; retired Ensembl ID (0 archive replacements); sequence for ENSDARP00000088889 from UniParc UPI00001A1327,UPI00015A3F5A,UPI0001E8FD8B; sequence of ens:ENSDARP00000088889#1 -> A0A0R4ITJ3 (unique)	S6 row 44 col 7
+ENSDARP00000055054	Zebrafish	DANRE	sox8b	mapped	A0A8M1N736	no UniProt match; via Ensembl ENSDARG00000037782: no UniProt match; sequence for ENSDARP00000055054 from Ensembl REST ENSDARP00000055054 (release current); sequence of ens:ENSDARP00000055054 -> A0A8M1N736 (exact)	S6 row 44 col 8
+ENSDARP00000006945	Zebrafish	DANRE	sox9a	mapped	Q9DFH2	no UniProt match; via Ensembl ENSDARG00000003293: no UniProt match; sequence for ENSDARP00000006945 from Ensembl REST ENSDARP00000006945 (release current); sequence of ens:ENSDARP00000006945 -> Q9DFH2 (exact)	S6 row 44 col 9
+ENSDARP00000064499	Zebrafish	DANRE	sox9b	mapped	A0ACM8PZN8	no UniProt match; via Ensembl ENSDARG00000043923: no UniProt match; sequence for ENSDARP00000064499 from Ensembl REST ENSDARP00000064499 (release current); sequence of ens:ENSDARP00000064499 -> A0ACM8PZN8 (exact)	S6 row 44 col 10
+ENSDARP00000100237	Zebrafish	DANRE	sox10b	mapped	A0A8N1TWH7	no UniProt match; via Ensembl ENSDARG00000077467: no UniProt match; sequence for ENSDARP00000100237 from Ensembl REST ENSDARP00000100237 (release current); sequence of ens:ENSDARP00000100237 -> A0A8N1TWH7 (exact)	S6 row 44 col 12
+KB871646	Cavefish		sox5	not_in_panel		Cavefish not in panel V	S6 row 45 col 2
+KB871757	Cavefish		sox6a	not_in_panel		Cavefish not in panel V	S6 row 45 col 3
+KB882145	Cavefish		sox13	not_in_panel		Cavefish not in panel V	S6 row 45 col 5
+KB872106	Cavefish		sox8a	not_in_panel		Cavefish not in panel V	S6 row 45 col 7
+KB871702	Cavefish		sox8b	not_in_panel		Cavefish not in panel V	S6 row 45 col 8
+KB872313	Cavefish		sox9a	not_in_panel		Cavefish not in panel V	S6 row 45 col 9
+KB872423	Cavefish		sox9b	not_in_panel		Cavefish not in panel V	S6 row 45 col 10
+contig_239344	Salmon	SALSA	sox5(a)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 2
+contig_268461	Salmon	SALSA	sox5(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 2
+contig_482810	Salmon	SALSA	sox6a(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 3
+contig_64812	Salmon	SALSA	sox6a(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 3
+contig_239344	Salmon	SALSA	sox6b(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 4
+scf14254894	Salmon	SALSA	sox13(a)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 5
+scf14233014	Salmon	SALSA	sox13(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 5
+scf14186667	Salmon	SALSA	sox8a(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 7
+scf14186667	Salmon	SALSA	sox8a(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 7
+scf14262695	Salmon	SALSA	sox8b(b1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 8
+scf14190582	Salmon	SALSA	sox8b(b2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 8
+contig_70123	Salmon	SALSA	sox9a(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 9
+contig_247505	Salmon	SALSA	sox9a(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 9
+contig_269418	Salmon	SALSA	sox9b(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 10
+scf14289001	Salmon	SALSA	sox10a(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 11
+scf14208266	Salmon	SALSA	sox10a(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 11
+scf14288362	Salmon	SALSA	sox10b(b1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 12
+scf14269129	Salmon	SALSA	sox10b(b2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 46 col 12
+scaffold_10557	Trout	ONCMY	sox5(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 47 col 2
+scaffold_82	Trout	ONCMY	sox5(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 47 col 2
+scaffold_20465	Trout	ONCMY	sox6a(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 47 col 3
+scaffold_48513	Trout	ONCMY	sox6a(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 47 col 3
+scaffold_10557	Trout	ONCMY	sox6b(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 47 col 4
+scaffold_5882	Trout	ONCMY	sox13(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 47 col 5
+scaffold_854	Trout	ONCMY	sox13(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 47 col 5
+scaffold00115	Trout	ONCMY	sox8a(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 47 col 7
+scaffold02394	Trout	ONCMY	sox8a(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 47 col 7
+scaffold14300	Trout	ONCMY	sox8b(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 47 col 8
+scaffold19555	Trout	ONCMY	sox9a(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 47 col 9
+scaffold01758	Trout	ONCMY	sox9a(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 47 col 9
+scaffold31661	Trout	ONCMY	sox9b(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 47 col 10
+scaffold_56480	Trout	ONCMY	sox10a(a1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 47 col 11
+scaffold_55679	Trout	ONCMY	sox10a(a2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 47 col 11
+scaffold_696	Trout	ONCMY	sox10b(b2)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 47 col 12
+scaffold_754	Trout	ONCMY	sox10b(b1)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 47 col 12
+ENSGMOG00000005493	Cod		sox5	not_in_panel		Cod not in panel V	S6 row 48 col 2
+ENSGMOG00000009040	Cod		sox6a	not_in_panel		Cod not in panel V	S6 row 48 col 3
+ENSGMOG00000000658	Cod		sox6b	not_in_panel		Cod not in panel V	S6 row 48 col 4
+ENSGMOG00000004316	Cod		sox13	not_in_panel		Cod not in panel V	S6 row 48 col 5
+ENSGMOG00000009227	Cod		sox8b	not_in_panel		Cod not in panel V	S6 row 48 col 8
+ENSGMOG00000009261	Cod		sox9a	not_in_panel		Cod not in panel V	S6 row 48 col 9
+ENSGMOG00000015623	Cod		sox9b	not_in_panel		Cod not in panel V	S6 row 48 col 10
+ENSGMOG00000005629	Cod		sox10a	not_in_panel		Cod not in panel V	S6 row 48 col 11
+GeneScaffold1506	Cod		sox10b	not_in_panel		Cod not in panel V	S6 row 48 col 12
+ENSONIG00000009878	Tilapia		sox5	not_in_panel		Tilapia not in panel V	S6 row 49 col 2
+ENSONIG00000006148	Tilapia		sox6a	not_in_panel		Tilapia not in panel V	S6 row 49 col 3
+GL831310	Tilapia		sox6b	not_in_panel		Tilapia not in panel V	S6 row 49 col 4
+ENSONIG00000020233	Tilapia		sox13	not_in_panel		Tilapia not in panel V	S6 row 49 col 5
+Scaffold GL831136	Tilapia		sox8a	not_in_panel		Tilapia not in panel V	S6 row 49 col 7
+ENSONIG00000005262	Tilapia		sox8b	not_in_panel		Tilapia not in panel V	S6 row 49 col 8
+ENSONIG00000005267	Tilapia		sox9a	not_in_panel		Tilapia not in panel V	S6 row 49 col 9
+ENSONIG00000019626	Tilapia		sox9b	not_in_panel		Tilapia not in panel V	S6 row 49 col 10
+ENSONIG00000018032	Tilapia		sox10a	not_in_panel		Tilapia not in panel V	S6 row 49 col 11
+ENSONIG00000008392	Tilapia		sox10b	not_in_panel		Tilapia not in panel V	S6 row 49 col 12
+ENSORLG00000008803	Medaka	ORYLA	sox5	mapped	A0A3B3HQR8	4 UniProt hit(s), 1 in panel proteome	S6 row 50 col 2
+ENSORLG00000006705	Medaka	ORYLA	sox6a	mapped	H2LQS4	5 UniProt hit(s), 1 in panel proteome	S6 row 50 col 3
+ENSORLG00000001260	Medaka	ORYLA	sox6b	mapped	H2L6U4	5 UniProt hit(s), 1 in panel proteome	S6 row 50 col 4
+ENSORLG00000012066	Medaka	ORYLA	sox13	mapped	H2M9C3	1 UniProt hit(s), 1 in panel proteome	S6 row 50 col 5
+ENSORLG00000007994	Medaka	ORYLA	sox8b	mapped	A0ACM8QJI5	1 UniProt hit(s), 1 in panel proteome	S6 row 50 col 8
+ENSORLG00000018597	Medaka	ORYLA	sox9a	unmapped		no UniProt match; retired Ensembl ID (0 archive replacements)	S6 row 50 col 9
+ENSORLG00000007960	Medaka	ORYLA	sox9b	mapped	H2LV56	1 UniProt hit(s), 1 in panel proteome	S6 row 50 col 10
+DK151799 and scaffold729	Medaka	ORYLA	sox10a	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 50 col 11
+ENSORLG00000014587	Medaka	ORYLA	sox10b	mapped	A0A3B3HRN1	2 UniProt hit(s), 1 in panel proteome	S6 row 50 col 12
+ENSXMAG00000006550	Platy		sox5	not_in_panel		Platy not in panel V	S6 row 51 col 2
+ENSXMAG00000007070	Platy		sox6a	not_in_panel		Platy not in panel V	S6 row 51 col 3
+ENSXMAG00000012894	Platy		sox6b	not_in_panel		Platy not in panel V	S6 row 51 col 4
+ENSXMAG00000008855	Platy		sox13	not_in_panel		Platy not in panel V	S6 row 51 col 5
+ENSXMAG00000017288	Platy		sox8a	not_in_panel		Platy not in panel V	S6 row 51 col 7
+ENSXMAG00000004858	Platy		sox8b	not_in_panel		Platy not in panel V	S6 row 51 col 8
+ENSXMAG00000012137	Platy		sox9a	not_in_panel		Platy not in panel V	S6 row 51 col 9
+ENSXMAG00000017338	Platy		sox9b	not_in_panel		Platy not in panel V	S6 row 51 col 10
+ENSXMAG00000006949	Platy		sox10a	not_in_panel		Platy not in panel V	S6 row 51 col 11
+ENSXMAG00000001603	Platy		sox10b	not_in_panel		Platy not in panel V	S6 row 51 col 12
+ENSTNIG00000006928	Tetraodon		sox5	not_in_panel		Tetraodon not in panel V	S6 row 52 col 2
+ENSTNIG00000009384	Tetraodon		sox6a	not_in_panel		Tetraodon not in panel V	S6 row 52 col 3
+ENSTNIG00000004906	Tetraodon		sox6b	not_in_panel		Tetraodon not in panel V	S6 row 52 col 4
+ENSTNIG00000007374	Tetraodon		sox13	not_in_panel		Tetraodon not in panel V	S6 row 52 col 5
+ENSTNIG00000009756	Tetraodon		sox8a	not_in_panel		Tetraodon not in panel V	S6 row 52 col 7
+ENSTNIG00000009756	Tetraodon		sox8b	not_in_panel		Tetraodon not in panel V	S6 row 52 col 8
+ENSTNIG00000007413	Tetraodon		sox9a	not_in_panel		Tetraodon not in panel V	S6 row 52 col 9
+ENSTNIG00000009759	Tetraodon		sox9b	not_in_panel		Tetraodon not in panel V	S6 row 52 col 10
+ENSTNIG00000004532	Tetraodon		sox10a	not_in_panel		Tetraodon not in panel V	S6 row 52 col 11
+ENSTNIG00000010828	Tetraodon		sox10b	not_in_panel		Tetraodon not in panel V	S6 row 52 col 12
+ENSTRUG00000002282	Fugu		sox5	not_in_panel		Fugu not in panel V	S6 row 53 col 2
+ENSTRUG00000017299	Fugu		sox6a	not_in_panel		Fugu not in panel V	S6 row 53 col 3
+ENSTRUG00000014656	Fugu		sox6b	not_in_panel		Fugu not in panel V	S6 row 53 col 4
+ENSTRUG00000000156	Fugu		sox13	not_in_panel		Fugu not in panel V	S6 row 53 col 5
+ENSTRUT00000044119	Fugu		sox8a	not_in_panel		Fugu not in panel V	S6 row 53 col 7
+ENSTRUG00000009225	Fugu		sox8b	not_in_panel		Fugu not in panel V	S6 row 53 col 8
+ENSTRUG00000017157	Fugu		sox9a	not_in_panel		Fugu not in panel V	S6 row 53 col 9
+ENSTRUG00000018587	Fugu		sox9b	not_in_panel		Fugu not in panel V	S6 row 53 col 10
+ENSTRUG00000000047	Fugu		sox10a	not_in_panel		Fugu not in panel V	S6 row 53 col 11
+ENSTRUG00000008350	Fugu		sox10b	not_in_panel		Fugu not in panel V	S6 row 53 col 12
+ENSGACG00000019075	Stickleback		sox5	not_in_panel		Stickleback not in panel V	S6 row 54 col 2
+ENSGACG00000015635	Stickleback		sox6a	not_in_panel		Stickleback not in panel V	S6 row 54 col 3
+ENSGACG00000006649	Stickleback		sox6b	not_in_panel		Stickleback not in panel V	S6 row 54 col 4
+ENSGACG00000010931	Stickleback		sox13	not_in_panel		Stickleback not in panel V	S6 row 54 col 5
+ENSGACG00000005620	Stickleback		sox8a	not_in_panel		Stickleback not in panel V	S6 row 54 col 7
+ENSGACG00000011207	Stickleback		sox8b	not_in_panel		Stickleback not in panel V	S6 row 54 col 8
+ENSGACG00000011185	Stickleback		sox9a	not_in_panel		Stickleback not in panel V	S6 row 54 col 9
+ENSGACG00000005675	Stickleback		sox9b	not_in_panel		Stickleback not in panel V	S6 row 54 col 10
+ENSGACG00000016017	Stickleback		sox10a	not_in_panel		Stickleback not in panel V	S6 row 54 col 11
+ENSGACG00000007318	Stickleback		sox10b	not_in_panel		Stickleback not in panel V	S6 row 54 col 12
+AAVX01089658.1	Elephant shark	CALMI	sox7	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 57 col 2
+AAVX01191433.1	Elephant shark	CALMI	sox17	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 57 col 3
+AAVX01340744.1	Elephant shark	CALMI	sox18	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 57 col 4
+AAVX01221771.1	Elephant shark	CALMI	sox30	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 57 col 7
+ENSMUSG00000063060	Mouse	MOUSE	sox7	mapped	P40646	1 UniProt hit(s), 1 in panel proteome	S6 row 58 col 2
+ENSMUSG00000025902	Mouse	MOUSE	sox17	mapped	Q61473	5 UniProt hit(s), 1 in panel proteome	S6 row 58 col 3
+ENSMUSG00000046470	Mouse	MOUSE	sox18	mapped	P43680	1 UniProt hit(s), 1 in panel proteome	S6 row 58 col 4
+ENSMUSG00000040489	Mouse	MOUSE	sox30	mapped	Q8CGW4	1 UniProt hit(s), 1 in panel proteome	S6 row 58 col 7
+ENSG00000171056	Human	HUMAN	sox7	mapped	Q9BT81	1 UniProt hit(s), 1 in panel proteome	S6 row 59 col 2
+ENSG00000164736	Human	HUMAN	sox17	mapped	Q9H6I2	1 UniProt hit(s), 1 in panel proteome	S6 row 59 col 3
+ENSG00000203883	Human	HUMAN	sox18	mapped	P35713	1 UniProt hit(s), 1 in panel proteome	S6 row 59 col 4
+ENSG00000039600	Human	HUMAN	sox30	mapped	O94993	4 UniProt hit(s), 1 in panel proteome	S6 row 59 col 7
+ENSLACG00000015284	Coelacanth	LATCH	sox7	mapped	H3B631	1 UniProt hit(s), 1 in panel proteome	S6 row 60 col 2
+ENSLACG00000007620	Coelacanth	LATCH	sox17	mapped	H3AG48	1 UniProt hit(s), 1 in panel proteome	S6 row 60 col 3
+ENSLACG00000005072	Coelacanth	LATCH	sox18	mapped	H3A7T7	1 UniProt hit(s), 1 in panel proteome	S6 row 60 col 4
+ENSLACG00000015447	Coelacanth	LATCH	sox30	mapped	H3B6L6	1 UniProt hit(s), 1 in panel proteome	S6 row 60 col 7
+Chr:LG1:45728253:45728378	Spotted gar	LEPOC	sox7	mapped	W5NJA6	Ensembl gene ENSLOCG00000016760; 1 UniProt hit(s), 1 in panel proteome	S6 row 61 col 2
+Chr:LG9:9172216:9172332	Spotted gar	LEPOC	sox17	mapped	W5MEL1	Ensembl gene ENSLOCG00000005646; 1 UniProt hit(s), 1 in panel proteome	S6 row 61 col 3
+Chr:LG18:11118883:11118999	Spotted gar	LEPOC	sox18	mapped	W5MDQ1	Ensembl gene ENSLOCG00000005401; 1 UniProt hit(s), 1 in panel proteome	S6 row 61 col 4
+Chr:LG6:21087960:21088151	Spotted gar	LEPOC	sox30	unmapped		0 protein-coding Ensembl genes at LG6:21087960-21088151	S6 row 61 col 7
+ENSDARP00000044223	Zebrafish	DANRE	sox7	mapped	A0A8M1ND44	no UniProt match; retired Ensembl ID (0 archive replacements); sequence for ENSDARP00000044223 from UniParc UPI00001D9A50; sequence of ens:ENSDARP00000044223 -> A0A8M1ND44 (exact)	S6 row 62 col 2
+ENSDARP00000007443	Zebrafish	DANRE	sox17	mapped	A0ACM8Q6E2	no UniProt match; retired Ensembl ID (0 archive replacements); sequence for ENSDARP00000007443 from UniParc UPI000019E48D,UPI00002481CF,UPI00004966EA; sequence of ens:ENSDARP00000007443#2 -> A0ACM8Q6E2 (exact)	S6 row 62 col 3
+ENSDARP00000064495	Zebrafish	DANRE	sox18	mapped	E7F9I2	no UniProt match; retired Ensembl ID (0 archive replacements); sequence for ENSDARP00000064495 from UniParc UPI0000568C54,UPI000056C987,UPI0000D8C8A2,UPI0000F21131,UPI0001A2C173; sequence of ens:ENSDARP00000064495#3 -> E7F9I2 (exact)	S6 row 62 col 4
+ENSDARP00000060596	Zebrafish	DANRE	sox32	mapped	A0A8M1P725	no UniProt match; retired Ensembl ID (0 archive replacements); sequence for ENSDARP00000060596 from UniParc UPI000024A380; sequence of ens:ENSDARP00000060596 -> A0A8M1P725 (unique)	S6 row 62 col 5
+KB992221	Cavefish		sox7	not_in_panel		Cavefish not in panel V	S6 row 63 col 2
+KB871658	Cavefish		sox17	not_in_panel		Cavefish not in panel V	S6 row 63 col 3
+KB882138	Cavefish		sox18	not_in_panel		Cavefish not in panel V	S6 row 63 col 4
+KB871658	Cavefish		sox32	not_in_panel		Cavefish not in panel V	S6 row 63 col 5
+contig_255163	Salmon	SALSA	sox7(a)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 64 col 2
+contig_434023	Salmon	SALSA	sox7(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 64 col 2
+contig_648467	Salmon	SALSA	sox17(a)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 64 col 3
+contig_45981	Salmon	SALSA	sox17(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 64 col 3
+contig_49041	Salmon	SALSA	sox18(a)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 64 col 4
+contig_446671	Salmon	SALSA	sox18(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 64 col 4
+scf14288674	Salmon	SALSA	sox32(a)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 64 col 5
+scf14268649	Salmon	SALSA	sox32(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 64 col 5
+scf14238322	Salmon	SALSA	sox30(a)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 64 col 7
+scaffold_8152	Salmon	SALSA	sox30(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 64 col 7
+scaffold07626	Trout	ONCMY	sox7(a)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 65 col 2
+scaffold13	Trout	ONCMY	sox17(a)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 65 col 3
+scaffold120	Trout	ONCMY	sox17(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 65 col 3
+scaffold18681	Trout	ONCMY	sox18(a)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 65 col 4
+scaffold5424	Trout	ONCMY	sox18(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 65 col 4
+scaffold_120	Trout	ONCMY	sox32(a)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 65 col 5
+scaffold_79928	Trout	ONCMY	sox32(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 65 col 5
+scaffold_646	Trout	ONCMY	sox30(a)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 65 col 7
+scaffold_8152	Trout	ONCMY	sox30(b)	unmapped		identifier is a genomic contig/scaffold/EST/TIGR-TC, not a gene model; no exact mapping possible (sequence mapping would fail the coverage rule)	S6 row 65 col 7
+ENSGMOG00000009990	Cod		sox7	not_in_panel		Cod not in panel V	S6 row 66 col 2
+ENSGMOG00000005913	Cod		sox17	not_in_panel		Cod not in panel V	S6 row 66 col 3
+ENSGMOG00000003535	Cod		sox18	not_in_panel		Cod not in panel V	S6 row 66 col 4
+ENSGMOG00000005898	Cod		sox32	not_in_panel		Cod not in panel V	S6 row 66 col 5
+GeneScaffold 4321	Cod		sox30	not_in_panel		Cod not in panel V	S6 row 66 col 7
+ENSONIG00000015337	Tilapia		sox7	not_in_panel		Tilapia not in panel V	S6 row 67 col 2
+ENSONIG00000006141	Tilapia		sox17	not_in_panel		Tilapia not in panel V	S6 row 67 col 3
+ENSONIG00000000364	Tilapia		sox18	not_in_panel		Tilapia not in panel V	S6 row 67 col 4
+ENSONIG00000006139	Tilapia		sox32	not_in_panel		Tilapia not in panel V	S6 row 67 col 5
+ENSONIG00000008664	Tilapia		sox30	not_in_panel		Tilapia not in panel V	S6 row 67 col 7
+ENSORLG00000016365	Medaka	ORYLA	sox7	unmapped		no UniProt match; retired Ensembl ID (0 archive replacements)	S6 row 68 col 2
+ENSORLG00000011542	Medaka	ORYLA	sox17	mapped	H2M7K4	1 UniProt hit(s), 1 in panel proteome	S6 row 68 col 3
+ENSORLG00000016736	Medaka	ORYLA	sox18	unmapped		no UniProt match; retired Ensembl ID (0 archive replacements)	S6 row 68 col 4
+ENSORLG00000011529	Medaka	ORYLA	sox32	mapped	H2M7I6	1 UniProt hit(s), 1 in panel proteome	S6 row 68 col 5
+ENSXMAG00000004225	Platy		sox7	not_in_panel		Platy not in panel V	S6 row 69 col 2
+ENSXMAG00000002084	Platy		sox17	not_in_panel		Platy not in panel V	S6 row 69 col 3
+ENSXMAG00000009334	Platy		sox18	not_in_panel		Platy not in panel V	S6 row 69 col 4
+ENSXMAG00000002086	Platy		sox32	not_in_panel		Platy not in panel V	S6 row 69 col 5
+JH556812.1	Platy		sox30	not_in_panel		Platy not in panel V	S6 row 69 col 7
+ENSTNIG00000016335	Tetraodon		sox7	not_in_panel		Tetraodon not in panel V	S6 row 70 col 2
+ENSTNIG00000017129	Tetraodon		sox17	not_in_panel		Tetraodon not in panel V	S6 row 70 col 3
+ENSTNIG00000011338	Tetraodon		sox18	not_in_panel		Tetraodon not in panel V	S6 row 70 col 4
+ENSTNIG00000017128	Tetraodon		sox32	not_in_panel		Tetraodon not in panel V	S6 row 70 col 5
+ENSTRUG00000006389	Fugu		sox7	not_in_panel		Fugu not in panel V	S6 row 71 col 2
+ENSTRUG00000007618	Fugu		sox17	not_in_panel		Fugu not in panel V	S6 row 71 col 3
+ENSTRUG00000000777	Fugu		sox18	not_in_panel		Fugu not in panel V	S6 row 71 col 4
+ENSTRUG00000007604	Fugu		sox32	not_in_panel		Fugu not in panel V	S6 row 71 col 5
+ENSGACG00000010806	Stickleback		sox7	not_in_panel		Stickleback not in panel V	S6 row 72 col 2
+ENSGACG00000004347	Stickleback		sox17	not_in_panel		Stickleback not in panel V	S6 row 72 col 3
+ENSGACG00000010505	Stickleback		sox18	not_in_panel		Stickleback not in panel V	S6 row 72 col 4
+ENSGACG00000004344	Stickleback		sox32	not_in_panel		Stickleback not in panel V	S6 row 72 col 5

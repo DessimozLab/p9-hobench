@@ -1,0 +1,42 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_detail	mapping_identity	mapping_coverage	source	locator
+P04000	HUMAN	ENSG00000102076	LWS:OPN1LW [Hsa X OPN1LW]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 3
+P03999	HUMAN	ENSG00000128617	SWS1:OPN1SW [Hsa 7 OPN1SW]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 4
+P08100	HUMAN	ENSG00000163914	RH1:RHO [Hsa 3 RHO]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 7
+P51491	MOUSE	ENSMUSG00000058831	SWS1:Opn1sw [Mmu 6 Opn1sw]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 9
+O35599	MOUSE	ENSMUSG00000031394	LWS:Opn1lw [Mmu X Opn1lw]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 10
+P15409	MOUSE	ENSMUSG00000030324	RH1:Rho [Mmu 6 Rho]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 11
+P28683	CHICK	ENSGALG00000002848	RH2:OPNG [Gga 26 RH2]	seq_same_species	same-species exact_sha256 exact (candidate ens:ENSGALG00000002848, min_id 99)	100.0	1.000	Lagman2013	S1 sheet OPN row 15
+F1P3Y2	CHICK	ENSGALG00000020745	RH1:RHO [Gga 12 RH1]	seq_same_species	same-species exact_sha256 exact (candidate ens:ENSGALG00000020745, min_id 99)	100.0	1.000	Lagman2013	S1 sheet OPN row 16
+P28684	CHICK	NP_990769.1	SWS1:OPN1SW [Gga SWS1]	exact_id	UniProt ID mapping (RefSeq_Protein)	100	1.0	Lagman2013	S1 sheet OPN row 17
+P22329	CHICK	P22329.1	LWS:OPN1LW [Gga LWS]	exact_id	UniProt ID mapping (UniProtKB_AC-ID)	100	1.0	Lagman2013	S1 sheet OPN row 18
+P28682	CHICK	P28682.1	SWS2 [Gga SWS2]	exact_id	UniProt ID mapping (UniProtKB_AC-ID)	100	1.0	Lagman2013	S1 sheet OPN row 19
+F6RHJ8	XENTR	ENSXETG00000023057	SWS1:opn1sw [Xtr opn1sw]	seq_same_species	same-species exact_sha256 exact (candidate ens:ENSXETG00000023057, min_id 99)	100.0	1.000	Lagman2013	S1 sheet OPN row 25
+A0A7D9NMG7	XENTR	ENSXETG00000025579	SWS2 [Xtr SWS2]	seq_same_species	same-species exact_sha256 exact (candidate ens:ENSXETG00000025579, min_id 99)	100.0	1.000	Lagman2013	S1 sheet OPN row 26
+A0A8J0Q6E1	XENTR	ENSXETG00000014236	LWS:opn1lw [Xtr opn1lw]	seq_same_species	same-species exact_sha256 exact (candidate ens:ENSXETG00000014236, min_id 99)	100.0	1.000	Lagman2013	S1 sheet OPN row 27
+A8WGF4	XENTR	ENSXETG00000001465	RH1:rho [Xtr rho]	exact_id	UniProt ID mapping (unmapped)	100	1.0	Lagman2013	S1 sheet OPN row 28
+H3ARP3	LATCH	ENSLACG00000010843	SWS2 [Lch SWS2]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 29
+H3BAC8	LATCH	ENSLACG00000016590	RH2 [Lch RH2]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 30
+Q9W6I4	LATCH	ENSLACG00000013050	RH1 [Lch RH1]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 31
+W5NBV9	LEPOC	Loc LG1 LWS (LG1:2606021)	LWS [Loc LG1 LWS]	exact_id	Ensembl locus LG1:2606021-2606022 -> ENSLOCG00000014714 -> UniProt ID mapping	100	1.0	Lagman2013	S1 sheet OPN row 32
+W5NBW6	LEPOC	Loc LG1 SWS2 (LG1:2621104)	SWS2 [Loc LG1 SWS2]	exact_id	Ensembl locus LG1:2621104-2621105 -> ENSLOCG00000014721 -> UniProt ID mapping	100	1.0	Lagman2013	S1 sheet OPN row 33
+W5N3R3	LEPOC	Loc LG3 RH2 (LG3:36554419)	RH2 [Loc LG3 RH2]	exact_id	Ensembl locus LG3:36554419-36554420 -> ENSLOCG00000012404 -> UniProt ID mapping	100	1.0	Lagman2013	S1 sheet OPN row 34
+W5NNY8	LEPOC	Loc LG5 RH1 2 (LG5:23736048)	RH1 [Loc LG5 RH1 2]	exact_id	Ensembl locus LG5:23736048-23736049 -> ENSLOCG00000018246 -> UniProt ID mapping	100	1.0	Lagman2013	S1 sheet OPN row 35
+W5N608	LEPOC	Loc LG5 RH1 1 (LG5:40451366)	RH1 [Loc LG5 RH1 1]	exact_id	Ensembl locus LG5:40451366-40451367 -> ENSLOCG00000013037 -> UniProt ID mapping	100	1.0	Lagman2013	S1 sheet OPN row 36
+W5NET5	LEPOC	Loc LG8 SWS1 1 (LG8:10387217)	SWS1 [Loc LG8 SWS1 1]	exact_id	Ensembl locus LG8:10387217-10387218 -> ENSLOCG00000015552 -> UniProt ID mapping	100	1.0	Lagman2013	S1 sheet OPN row 37
+W5NET8	LEPOC	Loc LG8 SWS1 2 (LG8:10395996)	SWS1 [Loc LG8 SWS1 2]	exact_id	Ensembl locus LG8:10395996-10395997 -> ENSLOCG00000015553 -> UniProt ID mapping	100	1.0	Lagman2013	S1 sheet OPN row 38
+Q9W6A7	DANRE	ENSDARG00000044862	LWS:opn1lw1 [Dre 11 opn1lw1]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 39
+Q9W6A8	DANRE	ENSDARG00000017274	SWS2:opn1sw2 [Dre 11 opn1sw2]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 40
+P35359	DANRE	ENSDARG00000002193	RH1:rho [Dre 8 rho]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 41
+Q9W6A6	DANRE	ENSDARG00000000638	RH2:opn1mw4 [Dre 6 opn1mw4]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 42
+Q8AYM7	DANRE	ENSDARG00000044279	RH2:opn1mw3 [Dre 6 opn1mw3]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 43
+Q9W6A5	DANRE	ENSDARG00000044280	RH2:opn1mw1 [Dre 6 opn1mw1]	exact_id	UniProt ID mapping (Ensembl_Transcript[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 44
+Q8AYN0	DANRE	ENSDARG00000044861	LWS:opn1lw2 [Dre 11 opn1lw2]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 45
+Q8AYM8	DANRE	ENSDARG00000094617	RH2:opn1mw2 [Dre 6 opn1mw2]	seq_same_species	same-species diamond unique (candidate ens:ENSDART00000025241, min_id 99)	99.7	1.000	Lagman2013	S1 sheet OPN row 46
+Q9W6A9	DANRE	ENSDARG00000045677	SWS1:opn1sw1 [Dre 4 opn1sw1]	seq_same_species	same-species diamond unique (candidate ens:ENSDARG00000045677, min_id 99)	99.7	1.000	Lagman2013	S1 sheet OPN row 47
+A0AC58GQV7	DANRE	ENSDARG00000070666	RH1:rhol [Dre 11 rhol]	seq_same_species	same-species diamond unique (candidate ens:ENSDARG00000070666, min_id 99)	100.0	0.807	Lagman2013	S1 sheet OPN row 48
+A0A8N7UZH6	DANRE	ENSDARG00000088603	RH1:exorh [Dre exorh]	exact_id	UniProt ID mapping (RefSeq_Protein)	100	1.0	Lagman2013	S1 sheet OPN row 49
+Q2L6A7	ORYLA	ENSORLG00000014088	LWS [Ola 5 LWS 1]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 57
+P87366	ORYLA	ENSORLG00000020100	RH2 [Ola RH2 1]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 61
+H2M5N5	ORYLA	ENSORLG00000010979	RH1 [Ola 7 RH1 1]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 64
+H2M4C4	ORYLA	ENSORLG00000010599	RH1 [Ola 7 RH1 2]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 65
+Q2L6A1	ORYLA	ENSORLG00000019293	SWS1 [Ola SWS1]	exact_id	UniProt ID mapping (Ensembl[unversioned])	100	1.0	Lagman2013	S1 sheet OPN row 66

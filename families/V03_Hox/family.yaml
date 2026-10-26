@@ -1,0 +1,149 @@
+id: V03_Hox
+name: Hox genes (clusters A-D, paralog groups 1-13)
+panel: V
+phenomena:
+- WGD
+- TAND
+- LOSS
+- ALLO
+- DEEP
+descriptors:
+  n_members: 237
+  n_species: 5
+  mapping: 237/241 nomenclature entries mapped (98%)
+  per_species_mapped:
+    DANRE: 49/49
+    HUMAN: 39/39
+    MOUSE: 39/39
+    XENLA: 72/76
+    XENTR: 38/38
+sources:
+- id: HGNC
+  doi: 10.1093/nar/gkac888
+  pmid: '36243972'
+  title: HGNC complete set (downloaded 2026-10-26)
+  year: 2026
+  source_method: nomenclature
+  table: hgnc_complete_set.txt
+  locator: symbol HOXA1..HOXD13
+  quote: "HOXA1\thomeobox A1"
+  files:
+    literature/papers/NOMEN_HGNC/raw/hgnc_complete_set.txt: 12363916be36f8f6f91879b0faade4eeaac973722de7136ec61329b77f2c2f91
+- id: MGI
+  doi: 10.1093/genetics/iyad031
+  pmid: '36869748'
+  title: MGI MRK_SwissProt_TrEMBL.rpt (2026-10-26)
+  year: 2026
+  source_method: nomenclature
+  table: MRK_SwissProt_TrEMBL.rpt
+  locator: Hoxa1..Hoxd13
+  quote: "Hoxa1\tO\thomeobox A1"
+  files:
+    literature/papers/NOMEN_MGI/raw/MRK_SwissProt_TrEMBL.rpt: 8e09d2698f077d513e98b54622c36a302a7750e4c127a6c2fc4f52b1d06a59ae
+- id: ZFIN
+  doi: 10.1093/genetics/iyad032
+  pmid: '36864651'
+  title: ZFIN gene.txt / uniprot.txt (2026-10-26); hox a/b cluster nomenclature (Amores et al. 1998)
+  year: 2026
+  source_method: nomenclature
+  table: gene.txt, uniprot.txt
+  locator: hoxa1a..hoxd13a
+  quote: hoxa9b
+  files:
+    literature/papers/NOMEN_ZFIN/raw/gene.txt: 09110143d993c2d9814d8ce02cdd230355b00af6569094b8a85826c9474b4c32
+    literature/papers/NOMEN_ZFIN/raw/uniprot.txt: 007c3b19b5288100cc0b88e5c64d4e68f1b0bdbaede247bc1308bb3e0a555534
+- id: Xenbase
+  doi: 10.1093/genetics/iyad018
+  pmid: '36755307'
+  title: Xenbase GeneExternalRef.txt (2026-10-26); .L/.S subgenome nomenclature
+  year: 2026
+  source_method: nomenclature
+  table: GeneExternalRef.txt
+  locator: hoxa1, hoxa1.L, hoxa1.S ...
+  quote: "hoxa1.L\thomeobox A1"
+  files:
+    literature/papers/NOMEN_Xenbase/raw/GeneExternalRef.txt: 6ca4c43cf5409ba67cfd9180ca29da285aed8139f5f13acbdc459059f0e9219f
+- id: Holland2007
+  doi: 10.1186/1741-7007-5-47
+  pmid: '17963489'
+  title: Classification and nomenclature of all human homeobox genes
+  year: 2007
+  source_method: expert_classification
+  table: Table 2
+  locator: Results, ANTP class
+  quote: 'The human genome has 39 HOX genes, arranged into four Hox clusters. Here we divide the HOX genes into seven gene
+    families: Hox1, Hox2, Hox3, Hox4, Hox5, Hox6-8 and Hox9-13.'
+  files:
+    literature/papers/PMID17963489/fulltext.txt: fe0e93c46006d33da772f3a67e3261c590257554fb3ec43f2a5b6faccff49cab
+- id: Kumar2024
+  doi: 10.1007/s00427-024-00720-6
+  pmid: '39079985'
+  title: 'Zebrafish: unraveling genetic complexity through duplicated genes'
+  year: 2024
+  source_method: synteny
+  locator: section on gene clusters
+  quote: In early vertebrates, two rounds of genome duplication events (2R) produced the four paralogous Hox clusters (HoxA,
+    HoxB, HoxC, and HoxD)
+  files:
+    literature/papers/PMID39079985/fulltext.txt: b991b674c2d420b169561d58f378c2849e93188ccf72834a65c5d4c6ab4adcfb
+- id: PascualAnaya2012
+  doi: 10.1186/2041-9139-3-28
+  pmid: '23198682'
+  title: Broken colinearity of the amphioxus Hox cluster
+  year: 2012
+  source_method: phylogeny
+  locator: Discussion
+  quote: Posterior Hox genes of cephalochordates, urochordates, echinoderms, and hemichordates do not have clear orthologous
+    relationships to the posterior paralogy groups of vertebrates
+  files:
+    literature/papers/PMID23198682/fulltext.txt: bc16c7d1a805b9ad92597849344e817ab95707a208fd4eaaaaa08243a0aad3ec
+- id: Session2016
+  doi: 10.1038/nature19840
+  pmid: '27762356'
+  title: Genome evolution in the allotetraploid frog Xenopus laevis
+  year: 2016
+  source_method: synteny
+  locator: Results 'Subgenome identity'
+  quote: The L and S chromosome sets therefore represent the descendants of two distinct diploid progenitors, confirming the
+    allotetraploid hypothesis even in the absence of extant progenitor species.
+  files:
+    literature/papers/PMID27762356/fulltext.txt: ed23357be2905f2c93006d28b631aa7e993619ecc6300d5ee84eadb0eef71ede
+- id: nomenclature
+  doi: 10.1186/1741-7007-5-47
+  pmid: '17963489'
+  title: (alias) S polytomies compiled from the nomenclature sources above
+  year: 2026
+  source_method: nomenclature
+  locator: members.tsv quote column
+  quote: 'The human genome has 39 HOX genes, arranged into four Hox clusters. Here we divide the HOX genes into seven gene
+    families: Hox1, Hox2, Hox3, Hox4, Hox5, Hox6-8 and Hox9-13.'
+  files:
+    literature/papers/PMID17963489/fulltext.txt: fe0e93c46006d33da772f3a67e3261c590257554fb3ec43f2a5b6faccff49cab
+- id: Kikuchi2025
+  doi: 10.7554/elife.105889
+  pmid: '41268905'
+  title: HoxB-derived hoxba and hoxbb clusters are essential for the anterior-posterior positioning of zebrafish pectoral
+    fins
+  year: 2025
+  source_method: nomenclature
+  locator: Figure 5 legend
+  quote: Schematic representation of the 49 hox genes organized into seven hox clusters in zebrafish.
+  files:
+    literature/papers/PMID41268905/fulltext.txt: f08a41c20356d347e708dcb4312ed4e091d3a2cc92c0faba5649e388ddaa95cc
+root_level: Chordata
+root_single_copy: false
+complete_species:
+- DANRE
+- HUMAN
+decoys: []
+distinct_from: []
+tier_summary:
+  T1_events: 15
+  T2_events: 49
+protocol_version: 1
+notes: 'Scope v1: species with an expert nomenclature authority (HGNC, MGI, ZFIN, Xenbase); gar, medaka, salmon, coelacanth,
+  shark, lamprey and amphioxus Hox lack machine-readable OA expert tables (Braasch 2016 gar-teleost tables use Ensembl Compara
+  GeneTrees -> denylisted; Amores 1998, Kuraku & Meyer 2009, Mungpakdee 2008 not OA/not retrieved). The 2R interval and the
+  pre-2R paralog-group splits lie above the members'' LCA (Euteleostomi), so cross-cluster and cross-PG pairs have merge level
+  ''never within range''. complete_species = species with >=90% of authority Hox symbols mapped (authority lists are genome-wide
+  nomenclature sets).'

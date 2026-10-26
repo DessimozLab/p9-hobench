@@ -1,0 +1,242 @@
+original_id	species	label	status	gene_id	reason	locator
+HGNC:5099	HUMAN	HOXA1	mapped	P49639	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5014
+HGNC:5103	HUMAN	HOXA2	mapped	O43364	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5015
+HGNC:5104	HUMAN	HOXA3	mapped	O43365	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5016
+HGNC:5105	HUMAN	HOXA4	mapped	Q00056	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5017
+HGNC:5106	HUMAN	HOXA5	mapped	P20719	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5018
+HGNC:5107	HUMAN	HOXA6	mapped	P31267	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5019
+HGNC:5108	HUMAN	HOXA7	mapped	P31268	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5020
+HGNC:5109	HUMAN	HOXA9	mapped	P31269	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5021
+HGNC:5100	HUMAN	HOXA10	mapped	P31260	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5022
+HGNC:5101	HUMAN	HOXA11	mapped	P31270	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5025
+HGNC:5102	HUMAN	HOXA13	mapped	P31271	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5027
+HGNC:5111	HUMAN	HOXB1	mapped	P14653	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5033
+HGNC:5113	HUMAN	HOXB2	mapped	P14652	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5034
+HGNC:5114	HUMAN	HOXB3	mapped	P14651	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5035
+HGNC:5115	HUMAN	HOXB4	mapped	P17483	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5036
+HGNC:5116	HUMAN	HOXB5	mapped	P09067	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5037
+HGNC:5117	HUMAN	HOXB6	mapped	P17509	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5038
+HGNC:5118	HUMAN	HOXB7	mapped	P09629	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5039
+HGNC:5119	HUMAN	HOXB8	mapped	P17481	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5040
+HGNC:5120	HUMAN	HOXB9	mapped	P17482	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5041
+HGNC:5112	HUMAN	HOXB13	mapped	Q92826	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5042
+HGNC:5126	HUMAN	HOXC4	mapped	P09017	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5047
+HGNC:5127	HUMAN	HOXC5	mapped	Q00444	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5048
+HGNC:5128	HUMAN	HOXC6	mapped	P09630	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5049
+HGNC:5129	HUMAN	HOXC8	mapped	P31273	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5050
+HGNC:5130	HUMAN	HOXC9	mapped	P31274	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5051
+HGNC:5122	HUMAN	HOXC10	mapped	Q9NYD6	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5052
+HGNC:5123	HUMAN	HOXC11	mapped	O43248	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5053
+HGNC:5124	HUMAN	HOXC12	mapped	P31275	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5054
+HGNC:5125	HUMAN	HOXC13	mapped	P31276	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5055
+HGNC:5132	HUMAN	HOXD1	mapped	Q9GZZ0	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5059
+HGNC:5137	HUMAN	HOXD3	mapped	P31249	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5060
+HGNC:5138	HUMAN	HOXD4	mapped	P09016	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5061
+HGNC:5139	HUMAN	HOXD8	mapped	P13378	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5062
+HGNC:5140	HUMAN	HOXD9	mapped	P28356	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5063
+HGNC:5133	HUMAN	HOXD10	mapped	P28358	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5064
+HGNC:5134	HUMAN	HOXD11	mapped	P31277	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5065
+HGNC:5135	HUMAN	HOXD12	mapped	P35452	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5066
+HGNC:5136	HUMAN	HOXD13	mapped	P35453	1 xref(s), 1 in proteome	hgnc_complete_set.txt row 5067
+MGI:96170	MOUSE	Hoxa1	mapped	P09022	6 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9774
+MGI:96171	MOUSE	Hoxa10	mapped	P31310	1 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9775
+MGI:96172	MOUSE	Hoxa11	mapped	P31311	1 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9776
+MGI:96173	MOUSE	Hoxa13	mapped	Q62424	5 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9777
+MGI:96174	MOUSE	Hoxa2	mapped	P31245	2 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9778
+MGI:96175	MOUSE	Hoxa3	mapped	P02831	3 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9779
+MGI:96176	MOUSE	Hoxa4	mapped	P06798	3 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9780
+MGI:96177	MOUSE	Hoxa5	mapped	P09021	2 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9781
+MGI:96178	MOUSE	Hoxa6	mapped	P09092	2 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9782
+MGI:96179	MOUSE	Hoxa7	mapped	P02830	6 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9783
+MGI:96180	MOUSE	Hoxa9	mapped	P09631	1 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9784
+MGI:96182	MOUSE	Hoxb1	mapped	P17919	2 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9786
+MGI:107730	MOUSE	Hoxb13	mapped	P70321	1 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9787
+MGI:96183	MOUSE	Hoxb2	mapped	P0C1T1	1 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9788
+MGI:96184	MOUSE	Hoxb3	mapped	P09026	2 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9789
+MGI:96185	MOUSE	Hoxb4	mapped	P10284	1 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9790
+MGI:96186	MOUSE	Hoxb5	mapped	P09079	2 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9791
+MGI:96187	MOUSE	Hoxb6	mapped	P09023	1 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9792
+MGI:96188	MOUSE	Hoxb7	mapped	P09024	1 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9793
+MGI:96189	MOUSE	Hoxb8	mapped	P09632	3 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9794
+MGI:96190	MOUSE	Hoxb9	mapped	P20615	4 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9795
+MGI:96192	MOUSE	Hoxc10	mapped	P31257	2 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9796
+MGI:96193	MOUSE	Hoxc11	mapped	P31313	1 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9797
+MGI:96194	MOUSE	Hoxc12	mapped	Q8K5B8	1 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9798
+MGI:99560	MOUSE	Hoxc13	mapped	P50207	1 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9799
+MGI:96195	MOUSE	Hoxc4	mapped	Q08624	3 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9800
+MGI:96196	MOUSE	Hoxc5	mapped	P32043	1 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9801
+MGI:96197	MOUSE	Hoxc6	mapped	P10629	3 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9802
+MGI:96198	MOUSE	Hoxc8	mapped	P09025	4 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9803
+MGI:96199	MOUSE	Hoxc9	mapped	P09633	1 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9804
+MGI:96201	MOUSE	Hoxd1	mapped	Q01822	1 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9805
+MGI:96202	MOUSE	Hoxd10	mapped	P28359	1 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9806
+MGI:96203	MOUSE	Hoxd11	mapped	P23813	3 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9807
+MGI:96204	MOUSE	Hoxd12	mapped	P23812	2 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9808
+MGI:96205	MOUSE	Hoxd13	mapped	P70217	1 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9809
+MGI:96207	MOUSE	Hoxd3	mapped	P09027	4 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9810
+MGI:96208	MOUSE	Hoxd4	mapped	P10628	2 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9812
+MGI:96209	MOUSE	Hoxd8	mapped	P23463	5 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9813
+MGI:96210	MOUSE	Hoxd9	mapped	P28357	1 xref(s), 1 in proteome	MRK_SwissProt_TrEMBL.rpt line 9814
+ZDB-GENE-000328-2	DANRE	hoxb10a	mapped	Q9PWL7	2 xref(s), 1 in proteome	ZFIN gene.txt line 51; uniprot.txt line 177
+ZDB-GENE-000328-5	DANRE	hoxc9a	mapped	Q9YGS6	2 xref(s), 1 in proteome	ZFIN gene.txt line 54; uniprot.txt line 181
+ZDB-GENE-000329-17	DANRE	hoxc12b	mapped	Q9YGT0	1 xref(s), 1 in proteome	ZFIN gene.txt line 62; uniprot.txt line 192
+ZDB-GENE-000329-2	DANRE	hoxb7a	mapped	Q8AWY9	3 xref(s), 1 in proteome	ZFIN gene.txt line 63; uniprot.txt line 193
+ZDB-GENE-000822-1	DANRE	hoxc6b	mapped	Q9PWM5	5 xref(s), 1 in proteome	ZFIN gene.txt line 176; uniprot.txt line 829
+ZDB-GENE-000822-2	DANRE	hoxc1a	mapped	Q98SH9	2 xref(s), 1 in proteome	ZFIN gene.txt line 177; uniprot.txt line 834
+ZDB-GENE-000822-3	DANRE	hoxc11b	mapped	A0A8M3ARL6	2 xref(s), 1 in proteome	ZFIN gene.txt line 178; uniprot.txt line 836
+ZDB-GENE-000822-4	DANRE	hoxc13a	mapped	Q6JIY5	1 xref(s), 1 in proteome	ZFIN gene.txt line 179; uniprot.txt line 838
+ZDB-GENE-000822-5	DANRE	hoxc13b	mapped	Q6JIY4	2 xref(s), 1 in proteome	ZFIN gene.txt line 180; uniprot.txt line 839
+ZDB-GENE-000822-6	DANRE	hoxc12a	mapped	A0A8M1NGL7	authority UniProt xrefs not in proteome; NCBI GeneID mapping	ZFIN gene.txt line 181; uniprot.txt line 841
+ZDB-GENE-000823-1	DANRE	hoxa9a	mapped	Q9PWL6	3 xref(s), 1 in proteome	ZFIN gene.txt line 182; uniprot.txt line 842
+ZDB-GENE-000823-2	DANRE	hoxa9b	mapped	Q9YGT5	2 xref(s), 1 in proteome	ZFIN gene.txt line 183; uniprot.txt line 845
+ZDB-GENE-000823-3	DANRE	hoxa3a	mapped	Q8AWZ2	7 xref(s), 1 in proteome	ZFIN gene.txt line 184; uniprot.txt line 847
+ZDB-GENE-000823-4	DANRE	hoxa4a	mapped	Q9PWL5	4 xref(s), 1 in proteome	ZFIN gene.txt line 185; uniprot.txt line 854
+ZDB-GENE-000823-5	DANRE	hoxa1a	mapped	Q98SI1	2 xref(s), 1 in proteome	ZFIN gene.txt line 186; uniprot.txt line 858
+ZDB-GENE-000823-6	DANRE	hoxb5b	mapped	P09013	2 xref(s), 1 in proteome	ZFIN gene.txt line 187; uniprot.txt line 860
+ZDB-GENE-000823-7	DANRE	hoxb6b	mapped	Q9YGT4	2 xref(s), 1 in proteome	ZFIN gene.txt line 188; uniprot.txt line 862
+ZDB-GENE-000823-8	DANRE	hoxa11a	mapped	Q9DDU0	2 xref(s), 1 in proteome	ZFIN gene.txt line 189; uniprot.txt line 864
+ZDB-GENE-000823-9	DANRE	hoxa5a	mapped	Q9YGT6	3 xref(s), 1 in proteome	ZFIN gene.txt line 190; uniprot.txt line 866
+ZDB-GENE-050812-1	DANRE	hoxb13a	mapped	Q1ECY2	1 xref(s), 1 in proteome	ZFIN gene.txt line 13153; uniprot.txt line 40874
+ZDB-GENE-980526-214	DANRE	hoxd4a	mapped	O57374	2 xref(s), 1 in proteome	ZFIN gene.txt line 23074; uniprot.txt line 87941
+ZDB-GENE-980526-290	DANRE	hoxb1b	mapped	Q90423	5 xref(s), 1 in proteome	ZFIN gene.txt line 23098; uniprot.txt line 88031
+ZDB-GENE-980526-291	DANRE	hoxb8b	mapped	Q8JH55	2 xref(s), 1 in proteome	ZFIN gene.txt line 23099; uniprot.txt line 88036
+ZDB-GENE-980526-365	DANRE	hoxa13b	mapped	P79724	1 xref(s), 1 in proteome	ZFIN gene.txt line 23121; uniprot.txt line 88113
+ZDB-GENE-980526-532	DANRE	hoxc3a	mapped	P28174	3 xref(s), 1 in proteome	ZFIN gene.txt line 23178; uniprot.txt line 88348
+ZDB-GENE-980526-533	DANRE	hoxc5a	mapped	P09074	4 xref(s), 1 in proteome	ZFIN gene.txt line 23179; uniprot.txt line 88351
+ZDB-GENE-980526-70	DANRE	hoxb5a	mapped	P09014	1 xref(s), 1 in proteome	ZFIN gene.txt line 23189; uniprot.txt line 88382
+ZDB-GENE-990415-101	DANRE	hoxb1a	mapped	O42366	2 xref(s), 1 in proteome	ZFIN gene.txt line 23210; uniprot.txt line 88426
+ZDB-GENE-990415-103	DANRE	hoxb2a	mapped	O42367	1 xref(s), 1 in proteome	ZFIN gene.txt line 23211; uniprot.txt line 88428
+ZDB-GENE-990415-104	DANRE	hoxb3a	mapped	O42368	3 xref(s), 1 in proteome	ZFIN gene.txt line 23212; uniprot.txt line 88429
+ZDB-GENE-990415-105	DANRE	hoxb4a	mapped	P22574	2 xref(s), 1 in proteome	ZFIN gene.txt line 23213; uniprot.txt line 88432
+ZDB-GENE-990415-106	DANRE	hoxb6a	mapped	P15861	1 xref(s), 1 in proteome	ZFIN gene.txt line 23214; uniprot.txt line 88434
+ZDB-GENE-990415-108	DANRE	hoxb8a	mapped	Q8AWZ0	2 xref(s), 1 in proteome	ZFIN gene.txt line 23215; uniprot.txt line 88435
+ZDB-GENE-990415-109	DANRE	hoxb9a	mapped	Q9PWM2	1 xref(s), 1 in proteome	ZFIN gene.txt line 23216; uniprot.txt line 88437
+ZDB-GENE-990415-110	DANRE	hoxc10a	mapped	F6NI81	4 xref(s), 1 in proteome	ZFIN gene.txt line 23217; uniprot.txt line 88438
+ZDB-GENE-990415-111	DANRE	hoxc11a	mapped	Q58EL0	2 xref(s), 1 in proteome	ZFIN gene.txt line 23218; uniprot.txt line 88442
+ZDB-GENE-990415-112	DANRE	hoxc4a	mapped	Q9PWM3	3 xref(s), 1 in proteome	ZFIN gene.txt line 23219; uniprot.txt line 88444
+ZDB-GENE-990415-113	DANRE	hoxc6a	mapped	P15862	1 xref(s), 1 in proteome	ZFIN gene.txt line 23220; uniprot.txt line 88447
+ZDB-GENE-990415-114	DANRE	hoxc8a	mapped	Q68EH7	2 xref(s), 1 in proteome	ZFIN gene.txt line 23221; uniprot.txt line 88448
+ZDB-GENE-990415-116	DANRE	hoxd10a	mapped	Q90469	1 xref(s), 1 in proteome	ZFIN gene.txt line 23222; uniprot.txt line 88450
+ZDB-GENE-990415-117	DANRE	hoxd11a	mapped	Q90470	1 xref(s), 1 in proteome	ZFIN gene.txt line 23223; uniprot.txt line 88451
+ZDB-GENE-990415-118	DANRE	hoxd12a	mapped	Q90471	2 xref(s), 1 in proteome	ZFIN gene.txt line 23224; uniprot.txt line 88452
+ZDB-GENE-990415-119	DANRE	hoxd13a	mapped	Q90472	2 xref(s), 1 in proteome	ZFIN gene.txt line 23225; uniprot.txt line 88454
+ZDB-GENE-990415-120	DANRE	hoxd3a	mapped	O42370	3 xref(s), 1 in proteome	ZFIN gene.txt line 23226; uniprot.txt line 88456
+ZDB-GENE-990415-121	DANRE	hoxd9a	mapped	Q9PWM6	1 xref(s), 1 in proteome	ZFIN gene.txt line 23227; uniprot.txt line 88459
+ZDB-GENE-990415-4	DANRE	hoxa11b	mapped	Q9DDU1	2 xref(s), 1 in proteome	ZFIN gene.txt line 23357; uniprot.txt line 89052
+ZDB-GENE-990415-5	DANRE	hoxa13a	mapped	Q6W990	2 xref(s), 1 in proteome	ZFIN gene.txt line 23366; uniprot.txt line 89089
+ZDB-GENE-990415-97	DANRE	hoxa10b	mapped	Q8AWY2	3 xref(s), 1 in proteome	ZFIN gene.txt line 23409; uniprot.txt line 89322
+ZDB-GENE-990415-98	DANRE	hoxa2b	mapped	O42365	3 xref(s), 1 in proteome	ZFIN gene.txt line 23410; uniprot.txt line 89325
+XB-GENE-478131	XENTR	hoxc6	mapped	A0A803J8M7	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 11
+XB-GENE-478462	XENTR	hoxd3	mapped	A0A6I8RM12	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 50
+XB-GENE-478525	XENTR	hoxb2	mapped	A0A6I8PJW3	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 58
+XB-GENE-478530	XENLA	hoxb2.S	mapped	A0A1L8EKW1	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 59
+XB-GENE-478832	XENTR	hoxc13	mapped	A0A8J0QSN6	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 98
+XB-GENE-478888	XENTR	hoxa10	mapped	A0A8J0QIT0	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 107
+XB-GENE-478962	XENTR	hoxd4	mapped	F6VY66	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 117
+XB-GENE-479980	XENTR	hoxa13	mapped	A0A803J783	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 252
+XB-GENE-480737	XENTR	hoxa1	mapped	F7D5S1	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 347
+XB-GENE-480741	XENLA	hoxa1.L	mapped	A0A8J0PNB8	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 348
+XB-GENE-480999	XENTR	hoxc8	mapped	A0A8J0PEJ1	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 380
+XB-GENE-481964	XENTR	hoxa6	mapped	A0A6I8QY84	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 504
+XB-GENE-481973	XENTR	hoxa9	mapped	F7D5I9	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 505
+XB-GENE-482267	XENTR	hoxa3	mapped	A0A8J0SQD4	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 547
+XB-GENE-482320	XENTR	hoxd13	mapped	F6PXR2	2 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 553
+XB-GENE-482324	XENLA	hoxd13.S	mapped	A0A8J0PU64	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 554
+XB-GENE-482330	XENTR	hoxc9	mapped	A0A8J0PJC4	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 555
+XB-GENE-482576	XENTR	hoxb3	mapped	A0A803KGW3	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 589
+XB-GENE-482731	XENTR	hoxd1	mapped	Q28IU6	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 608
+XB-GENE-482735	XENLA	hoxd1.S	ambiguous		2 authority UniProt xrefs in panel proteome: ['A0A1L8EP93', 'Q08820']; GeneID -> ['A0A1L8EP93', 'Q08820']	Xenbase GeneExternalRef.txt line 609
+XB-GENE-483242	XENTR	hoxa11	mapped	A0A8J0R4C4	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 677
+XB-GENE-483246	XENLA	hoxa11.S	mapped	A0A1L8FR88	GeneID disambiguation	Xenbase GeneExternalRef.txt line 678
+XB-GENE-483655	XENTR	hoxa7	mapped	F7D5P6	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 735
+XB-GENE-485204	XENTR	hoxd10	mapped	A0A8J0QRJ5	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 936
+XB-GENE-485208	XENLA	hoxd10.L	mapped	A0A8J0PT67	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 937
+XB-GENE-485672	XENTR	hoxc5	mapped	F7BDW3	3 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 1000
+XB-GENE-485772	XENTR	hoxb1	mapped	A0A803JG60	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 1012
+XB-GENE-485791	XENTR	hoxd9	mapped	A0A803K0R1	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 1015
+XB-GENE-485796	XENLA	hoxd9.S	mapped	A0A8J0QFY1	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 1016
+XB-GENE-485844	XENTR	hoxd11	mapped	A0A6I8PNI1	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 1023
+XB-GENE-486061	XENTR	hoxa5	mapped	A0A8J0PFY9	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 1049
+XB-GENE-486585	XENTR	hoxc11	mapped	A0A8J0QSF9	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 1115
+XB-GENE-486676	XENTR	hoxa4	mapped	A0A6I8PMV0	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 1125
+XB-GENE-486915	XENTR	hoxc10	mapped	F7BEF0	2 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 1155
+XB-GENE-486919	XENLA	hoxc10.L	mapped	A0A8J0PTL8	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 1156
+XB-GENE-488087	XENTR	hoxa2	mapped	F7D5R4	2 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 1310
+XB-GENE-488091	XENLA	hoxa2.L	mapped	A0A8J0PN95	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 1311
+XB-GENE-853677	XENTR	hoxc12	mapped	F7BEI0	2 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 2308
+XB-GENE-864813	XENLA	hoxa9.S	mapped	A0A8J0Q7D4	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 2508
+XB-GENE-864849	XENLA	hoxa3.S	mapped	A0A9B5Q0C5	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 2529
+XB-GENE-864885	XENLA	hoxb3.S	mapped	P31247	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 2547
+XB-GENE-865003	XENLA	hoxa7.L	mapped	P09071	2 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 2617
+XB-GENE-865143	XENLA	hoxc6.S	mapped	P02832	3 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 2707
+XB-GENE-865180	XENLA	hoxd3.L	mapped	A1L2P5	2 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 2723
+XB-GENE-865329	XENLA	hoxa13.S	mapped	A0A8J0PNC5	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 2812
+XB-GENE-865431	XENLA	hoxc8.S	mapped	A0A8J0QCW0	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 2873
+XB-GENE-865541	XENLA	hoxc5.L	mapped	P09020	2 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 2944
+XB-GENE-865554	XENLA	hoxd11.L	mapped	A0A8J1LR09	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 2950
+XB-GENE-865635	XENLA	hoxa4.S	mapped	A0A1L8FRB4	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 2994
+XB-GENE-920113	XENTR	hoxd8	mapped	A0A8J0SXN2	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 3864
+XB-GENE-920126	XENLA	hoxd8.L	mapped	A0A8J0PTQ7	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 3865
+XB-GENE-963094	XENTR	hoxb9	mapped	A0A8J0QGY7	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 7934
+XB-GENE-967141	XENTR	hoxc4	mapped	F6WP27	2 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 8450
+XB-GENE-990961	XENTR	hoxb8	mapped	A0A6I8Q024	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 12183
+XB-GENE-1005991	XENTR	hoxb5	mapped	F6Q943	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 14580
+XB-GENE-1006005	XENTR	hoxb6	mapped	F6Q890	2 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 14581
+XB-GENE-1006009	XENLA	hoxb6.S	mapped	P31256	2 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 14582
+XB-GENE-1033882	XENTR	hoxb4	mapped	A0A8J0QB84	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 16458
+XB-GENE-5959293	XENTR	hoxb7	mapped	A0A8J0QR76	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 21033
+XB-GENE-5959297	XENLA	hoxb7.S	mapped	Q91771	3 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 21034
+XB-GENE-5997986	XENTR	hoxc3	mapped	F7BJA1	2 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 21330
+XB-GENE-6078784	XENLA	hoxb4.S	mapped	P09070	3 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 22719
+XB-GENE-6252179	XENLA	hoxa1.S	mapped	A0A1L8FRB8	GeneID disambiguation	Xenbase GeneExternalRef.txt line 23255
+XB-GENE-6252388	XENLA	hoxc12.L	mapped	A0A1L8HIF9	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 23344
+XB-GENE-6252645	XENLA	hoxb5.S	mapped	A0A1L8EL08	GeneID disambiguation	Xenbase GeneExternalRef.txt line 23455
+XB-GENE-6254051	XENLA	hoxb7.L	mapped	P04476	2 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 23982
+XB-GENE-6254401	XENLA	hoxa2.S	mapped	A0A8J0PU47	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 24169
+XB-GENE-6448209	XENLA	hoxb1.L	mapped	A0A1L8ES13	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 25319
+XB-GENE-6466551	XENLA	hoxc9.S	mapped	A0A1L8HA41	2 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 25919
+XB-GENE-6466680	XENLA	hoxd4.L	mapped	A0A1L8EWI5	3 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 25921
+XB-GENE-6485721	XENLA	hoxc4.L	mapped	A0A1L8HIE5	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 26143
+XB-GENE-6486002	XENLA	hoxa10.L	mapped	A0A8J0VJ17	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 26421
+XB-GENE-6486133	XENLA	hoxb8.L	unmapped		GeneID 108700806 -> 0 panel accessions; xrefs [] not in proteome	Xenbase GeneExternalRef.txt line 26550
+XB-GENE-6487634	XENLA	hoxc3.L	mapped	A0A1L8HIF6	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 28003
+XB-GENE-6488471	XENLA	hoxa5.S	mapped	A0A1L8FR89	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 28815
+XB-GENE-6488550	XENLA	hoxc13.S	mapped	A0A1L8HAD3	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 28893
+XB-GENE-17330027	XENLA	hoxc3.S	mapped	A0A1L8HAB6	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 30049
+XB-GENE-17330378	XENLA	hoxc5.S	mapped	A0A1L8HA24	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 30400
+XB-GENE-17330600	XENLA	hoxc9.L	mapped	A0A1L8HIG4	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 30620
+XB-GENE-17331109	XENLA	hoxa9.L	mapped	A0A1L8FW54	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 31127
+XB-GENE-17331257	XENLA	hoxd9.L	mapped	A0A1L8EWC8	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 31275
+XB-GENE-17331531	XENLA	hoxa4.L	mapped	A0A1L8FW30	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 31548
+XB-GENE-17332403	XENLA	hoxd1.L	mapped	A0A1L8EWB8	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 32414
+XB-GENE-17332686	XENLA	hoxa7.S	mapped	A0A1L8FRB9	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 32697
+XB-GENE-17333057	XENLA	hoxc13.L	mapped	A0A1L8HIH2	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 33067
+XB-GENE-17333606	XENLA	hoxb5.L	mapped	A0A8J0TSU4	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 33614
+XB-GENE-17335034	XENLA	hoxb2.L	unmapped		GeneID 108700803 -> 0 panel accessions; xrefs [] not in proteome	Xenbase GeneExternalRef.txt line 35040
+XB-GENE-17335207	XENLA	hoxc10.S	mapped	A0A8J0ULU9	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 35213
+XB-GENE-17335312	XENLA	hoxa13.L	mapped	A0A9B5TL95	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 35318
+XB-GENE-17335484	XENLA	hoxa5.L	mapped	A0A1L8FW27	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 35490
+XB-GENE-17335561	XENLA	hoxd4.S	mapped	A0A1L8EPB5	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 35565
+XB-GENE-17337038	XENLA	hoxc11.L	mapped	A0A1L8HIF1	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 37040
+XB-GENE-17337039	XENLA	hoxc11.S	mapped	A0A1L8HA36	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 37041
+XB-GENE-17337550	XENLA	hoxd8.S	mapped	A0A1L8EPA7	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 37551
+XB-GENE-17337706	XENLA	hoxc6.L	mapped	A0A1L8HIE1	2 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 37705
+XB-GENE-17337881	XENLA	hoxb4.L	mapped	A0A1L8ES43	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 37879
+XB-GENE-17338339	XENLA	hoxa11.L	mapped	A0A1L8FW43	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 38335
+XB-GENE-17338445	XENLA	hoxc8.L	unmapped		xrefs [] not in proteome; no GeneID	Xenbase GeneExternalRef.txt line 38441
+XB-GENE-17338861	XENLA	hoxa10.S	mapped	A0A1L8FRD1	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 38857
+XB-GENE-17338958	XENLA	hoxd3.S	mapped	A0A1L8EPE6	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 38953
+XB-GENE-17339227	XENLA	hoxd11.S	mapped	A0A1L8EPB4	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 39222
+XB-GENE-17339339	XENLA	hoxa6.L	mapped	A0A1L8FW71	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 39334
+XB-GENE-17339340	XENLA	hoxa6.S	mapped	A0A1L8FR85	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 39335
+XB-GENE-17339466	XENLA	hoxd13.L	mapped	A0A1L8EWB9	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 39461
+XB-GENE-17340184	XENLA	hoxb3.L	mapped	A0A1L8ES19	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 40171
+XB-GENE-17341674	XENLA	hoxa3.L	mapped	A0A1L8FW45	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 41656
+XB-GENE-17342281	XENLA	hoxb9.S	mapped	P31272	2 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 42263
+XB-GENE-17342554	XENLA	hoxd10.S	mapped	A0A1L8EP98	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 42534
+XB-GENE-17343670	XENLA	hoxc12.S	mapped	A0A1L8HA51	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 43646
+XB-GENE-17344104	XENLA	hoxc4.S	mapped	A0A1L8HA31	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 44078
+XB-GENE-17345259	XENLA	hoxb1.S	mapped	A0A1L8EKV4	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 45230
+XB-GENE-17345409	XENLA	hoxb8.S	mapped	A0A1L8EKY7	authority UniProt xrefs not in proteome; NCBI GeneID mapping	Xenbase GeneExternalRef.txt line 45380
+XB-GENE-17346524	XENLA	hoxb6.L	mapped	A0A1L8ES26	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 46484
+XB-GENE-18034119	XENLA	hoxb9.L	mapped	A0A1L8ES24	1 xref(s), 1 in proteome	Xenbase GeneExternalRef.txt line 47461
