@@ -10,3 +10,6 @@ __pycache__/
 requested/*.pdf
 literature/raw/B1/**/*.pdf
 literature/raw/B1/supp/
+requested/*
+!requested/REQUESTED.md
+!requested/RECEIVED.tsv
