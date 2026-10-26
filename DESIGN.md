@@ -1,6 +1,6 @@
 # DESIGN — HOBench: a literature-based benchmark for hierarchical orthology inference
 
-Version: v0 (PI draft, T+0h50). Review rounds: see `reviews/`. Changes after review are logged in §12.
+Version: v1 (after review round 1, T+1h05). Review rounds: see `reviews/`. Changes are logged in §12 with review ids.
 
 ## 1. Goal and scope (fixed by the brief)
 Build (i) a curated compendium of reference gene families whose evolutionary histories are resolved in publications,
@@ -9,122 +9,162 @@ reconciled gene trees), (iv) a Python wrapper that runs HOG-producing tools (Ort
 computes the metrics, and (v) an analysis of data difficulty (method performance + agreement + phenomenon tags).
 
 ## 2. Core concepts and formal definitions
-- **Panel**: species set + rooted reference species tree T with named internal nodes = *levels*.
+- **Panel**: species set + rooted, binary reference species tree T with named internal nodes = *levels*
+  (`panels/<P>/species_tree.nwk`, `levels.tsv` with NCBI/literature names and citations; ids `^[A-Za-z0-9_-]{3,}$`).
 - **HOG at level L**: set of genes descending from one ancestral gene in the last common ancestor of the species under L.
-- **Reference family F**: members M_F (UniProt accessions in panel proteomes) + a rooted, possibly multifurcating
-  reference tree R_F with node events S (speciation), D (duplication, optional explicit level, tags WGD/TAND/…),
-  U (unresolved; no assertion), H (HGT acquisition edge; see §2.2). Each node carries provenance (source id).
-- **Merge level** m(a,b): the youngest level at which a and b are in the same HOG (reference: S → species LCA S0;
-  D at level D → parent_T(D); prediction: lowest level where they share a HOG). Levels older than the family's
-  taxonomic range (LCA of member species) collapse to ∞ ("never together within range"). This single quantity encodes
-  orthology (m = S0), paralogy, and duplication timing.
+- **Reference family F**: members M_F (UniProt accessions in pinned panel proteomes) + rooted, possibly multifurcating
+  reference tree R_F with node events S, D, U (unresolved; no assertion), H (HGT acquisition) and provenance per node.
+- **Merge level** m(a,b): youngest level at which a and b are in the same HOG. **Reference merge levels are intervals**
+  [lo, hi] (hi may be ∞) [A1]: S node → [S0, S0] (S0 = species LCA); D node with `lvl` → [parent(lvl)]; with
+  `lvl_lo`/`lvl_hi` → [parent(lvl_lo), parent(lvl_hi)]; default for D without level = [parent(LCA mapping), tightest
+  ancestor bound]; cross-copy pairs of a duplication at the family root → [parent(X), ∞] unless `root_single_copy: true`.
+  A prediction (point value, lowest level where both share a HOG, ∞ if never) is correct iff it lies in the interval;
+  signed error = distance to the nearest bound (+ = too old = over-split; − = too young = over-merged). Exact-level and
+  interval pairs are reported separately.
+- **Theory**: the matrix of merge levels of a reconciled tree is a symbolic ultrametric; orthology relations of a
+  reconciled tree are cographs (Hellmuth et al. 2013; Lafond & El-Mabrouk 2014). This is why consistency checks on the
+  reference (validator) are necessary and why per-level HOG partitions and merge levels are equivalent views [A8].
 
 ### 2.1 Assertion tiers (every scored relation traces to one)
-- **T1 — text-asserted**: an explicit statement/figure in the paper ("X and Y are ohnologs from the TGD", "Kinesin-2 present in LECA").
-- **T2 — classification-derived**: the paper's curated labels/nomenclature (subfamily tables, YGOB pillars, gene names in
-  curated nomenclatures) compiled into S/D/U structure by a documented rule (e.g. members of one labelled orthology group
-  with ≤1 gene per species → S polytomy; labelled subfamilies known to pre-date level L → D at L).
-- **T3 — tree-derived**: published tree topology, only clades with support ≥70% BS / ≥0.95 PP, events labelled by
-  species-overlap rule; flagged as weaker (our reconciliation of their tree).
-Headline numbers use T1+T2; T3 reported separately.
+- **T1 — text-asserted**: explicit statement in the paper, quote stored and machine-verified.
+- **T2 — classification-derived**: curated labels compiled by the rules of `design/CURATION_PROTOCOL.md` §3. The rule
+  "≤1 gene per species ⇒ S" is **not** applied across WGD-descended lineages unless the set is synteny-curated
+  (YGOB, Xenbase L/S, Hox clusters) — reciprocal ohnolog loss creates pseudo-orthologs [A3].
+- **T3 — tree-derived** (published topology, support ≥70% BS / ≥0.95 PP); **T3fig** — read from figures, double extraction.
+Headline = T1+T2; T3/T3fig reported separately.
 
-### 2.2 HGT
-HGT families are encoded as two reference sub-trees (donor-lineage, recipient-lineage) joined by an `H` node; pairs across
-an H node are asserted as "not orthologous at the recipient's level" (xenologs) and scored by a dedicated metric
-(xenolog separation) rather than by merge level, because HOG semantics do not define a correct level for xenologs.
+### 2.2 Special histories
+- **Allopolyploid WGD (yeast)** [A2]: hybrid origin (Marcet-Houben & Gabaldón 2015) ⇒ ohnolog pairs apart at PostWGD and
+  below, merge ∈ [ZT+WGD ancestor, Saccharomycetaceae]; post-WGD vs KLE copies: orthologs at Saccharomycetaceae;
+  post-WGD vs ZT: unasserted unless placed by a source. YGOB pseudo-orthologs are scored as paralogs.
+- **Delayed rediploidisation (salmonid LORe)** [A5]: one D per salmonid lineage; requires *Coregonus* + salmon + trout + pike.
+- **Homeologs (*X. laevis*)** [A6]: D on the XENLA leaf branch, tag ALLO.
+- **HGT/EGT** [A4]: HOG semantics define xenolog levels: apart at every recipient-lineage level; merge at LCA(donor,
+  recipient) if the donor lineage is in the panel, else ∞. Encoded as an `H` node (interval semantics); U as fallback.
+- **Gene conversion** [A7]: tag CONV (yeast RP ohnologs, tufA/tufB, OPN1LW/MW); excluded from the headline; identical
+  copies excluded as unmappable.
+- **Contested event timing** (2R vs cyclostomes, plant ζ/ε/ρ/α/β) [A6]: events placed by panel branch with intervals.
 
-## 3. Species panels (survey C; UniProt reference proteomes 2026_03 / QfO 2026_02; CC BY 4.0)
-| Panel | Scope | Spp | Proteins | Key events covered |
+## 3. Species panels (UniProt Reference Proteomes, release **2026_03 pinned**; canonical one-protein-per-gene FTP files; CC BY 4.0) [D1, D2]
+| Panel | Scope | Spp | Key events covered | Data mode |
 |---|---|---|---|---|
-| Y | Saccharomycetaceae + outgroups | 16 | 85k | yeast WGD (hybrid origin), reciprocal loss, HGT (URA1) |
-| V | Vertebrata (+amphioxus, Ciona) | 14 (+2: trout, pike for salmonid 4R) | ~370k | 1R/2R, 3R, 4R, *X. laevis* allotetraploidy |
-| P | Viridiplantae | 13 | 389k | ζ/ε, γ, ρ, α/β, Brassica triplication, soybean, maize |
-| E | Eukaryota-wide + 5 archaea + 4 bacteria | 34 | 340k | LECA paralogs, long branches (Microsporidia, Giardia), archaeal origins |
-| K | Prokaryotes | 21 | 68k | LUCA paralogs, HGT, single-copy controls |
-| D (stretch) | 12 *Drosophila* + outgroup | 13 | ~190k | recent LSE/tandem P450s, ILS-prone short internodes |
-Species trees: NCBI topology, polytomies resolved from cited phylogenomic studies; contested nodes recorded and used in the
-species-tree perturbation experiment (§7). **Rule:** panel species are chosen to maximise overlap with the species sampled
-by the source papers (genome-wide surveys), because reference completeness is only known for sampled species.
+| Y | Saccharomycetaceae + outgroups | 16 | yeast WGD (hybrid origin), reciprocal loss, HGT (URA1, GAL) | full |
+| K | Prokaryotes (14 bacteria, 7 archaea) | 21 | LUCA paralogs, HGT, single-copy controls, analogous-enzyme decoys | full |
+| E | Eukaryota-wide + 5 archaea + 4 bacteria | 34 | LECA paralogs, long branches (Microsporidia, Giardia), EGT | subset |
+| V | Vertebrata (+amphioxus, Ciona; + trout, pike, *Coregonus*) | 17 | 1R/2R, 3R, 4R (AORe/LORe), *X. laevis* allotetraploidy | subset |
+| P | Viridiplantae (+ *Phaseolus* if compute allows) | 13–14 | ζ/ε, γ, ρ, α/β, Brassica triplication, soybean, maize | subset |
+Panel D (Drosophila) dropped [D8]. Per panel: `panels/<P>/species.tsv` (code, UP id, taxid, release, sha256, n proteins),
+`levels.tsv` (level id, NCBI taxid/name or literature name, contested flag, citation), binary named `species_tree.nwk`
+(identical input to both tools and to scoring) and `species_tree_alt.nwk` (alternative at a contested node), generated by
+`scripts/build_panels.py`. Validation: tree leaves = species codes = FASTA basenames = member species.
+Rule: panel species are chosen to maximise overlap with species sampled by the source papers.
 
-## 4. Reference families (initial target ≈ 30, ≥4 per panel, chosen for diversity)
-Selection criteria: machine-readable literature data; curated (not tool-derived; OMA/OrthoFinder/Compara/PANTHER-derived
-sources excluded for orthology truth); diversity across clade × depth × rate × complexity × phenomenon.
-- **Y**: YGOB pillars (WGD ohnologs + single-copy pillars; genome-scale collection) [T2]; Marcet-Houben 2015 ohnolog pairs
-  [T1/T3]; URA1 HGT (Hall 2005) [T1]; GAL1/GAL3 [T1].
-- **V**: globins [T1/T2]; opsins [T2]; Hox clusters [T2 nomenclature]; Sox (Voldoire 2017) [T2]; teleost 3R ohnologs
-  (Braasch 2016) [T2, genome-scale]; salmonid 4R AORe/LORe (Robertson 2017) [T1/T3]; KRAB-ZNF [T2, merging stress];
-  chemokines (Nomiyama 2013) [T2]; *X. laevis* L/S homeologs (nomenclature .L/.S) [T2].
-- **P**: plant homeobox classes (Mukherjee 2009) [T2]; NLR (RefPlantNLR) [T2/T3]; bHLH (Pires & Dolan 2010) [T2];
-  GID1 within CXE (Yoshida 2018) [T2]; MIPs (Danielson & Johanson 2008) [T3]; MADS-box [T2, if curatable].
-- **E**: kinesins (Wickstead 2010) [T2]; myosins [T2]; ARF/Arl/Sar (Vargová 2021) [T2]; Rab (Klöpper 2012) [T2]; tubulins
-  (Findeisen 2014) [T2]; MCM2–9 (Liu 2009) [T2/T3, control]; dynein HCs [T3]; adaptins/COPI (Hirst 2014) [T2];
-  B-family DNA pol (Tahirov 2009) [T3]; kinome (KinBase) [T2].
-- **K**: ribosomal proteins (Yutin 2012; single-copy negative control) [T2]; EF-Tu/EF-G (LUCA paralogs) [T1];
-  nitrogenase Nif/Anf/Vnf/Bch (Garcia 2020) [T2]; β-lactamase classes A/B/C/D (non-homologous classes ⇒ merge decoys) [T2].
-Each family gets phenomenon tags {WGD, TAND, LSE, LOSS/hidden-paralogy, HGT, FAST, PROM (promiscuous domains), FUS,
-DEEP, CONTROL} and descriptors (depth of oldest/youngest asserted event, size, mean pairwise identity, #duplications).
+## 4. Reference families (≈25–30 target; ≥3 per panel; diversity over count)
+Selection: machine-readable literature data; curated sources only (**denylist** [C3]: OMA, OrthoFinder, Ensembl
+Compara/HCOP, Compara-seeded names (VGNC), OHNOLOGS, PANTHER, TreeFam, eggNOG, OrthoDB, PLAZA, LOC names, KRAB-ZNF ages);
+diversity across clade × depth × rate × complexity × phenomenon. Each source records `source_method`.
+- **Y**: YGOB pillars [collection, T2, synteny]; Marcet-Houben & Gabaldón 2015 ohnologs [collection, T1/T3]; URA1 HGT
+  (Hall 2005) [T1]; *S. pombe* GAL-cluster HGT (Slot & Rokas 2010) [T1] [D9].
+- **K**: ribosomal proteins restricted to proteins single-copy in every panel species [C2]; translation GTPases
+  (EF-Tu/EF-G and other trGTPases; LUCA paralogs) [T1]; nitrogenase Nif/Anf/Vnf/Bch (if ≥4 panel species) [T2];
+  **non-homologous isofunctional enzymes** as merge decoys (Omelchenko 2010: LysRS I vs II, FBP aldolase I vs II, SOD
+  Cu/Zn vs Fe/Mn) [C1] (β-lactamase A/C/D are homologous — removed).
+- **E**: kinesins, myosins, tubulins, ARF/Arl/Sar, Rab, adaptins/COPI/TSET, MCM2–9 (control), B-family DNA pol (FUS),
+  GAPDH EGT (GapA/B vs GapC) [D9; dynein dropped].
+- **V**: globins, opsins, Hox, Sox; teleost 3R ohnologs (Braasch 2016) [collection]; salmonid 4R AORe/LORe [collection];
+  *X. laevis* L/S [collection, ≤500 units]; KRAB-ZNF (integrity metrics only); chemokines (if time).
+- **P**: plant homeobox, bHLH, GID1/CXE, MIPs, NLR restricted to RNL/ZAR1/TNL loss [D9], MADS (if quotable).
+- **Cross-panel**: SwissTree reconciled trees mapped onto panels with ≥4 panel species (T1-equivalent) [D10].
+Homology declarations [B6]: Rab/Arf, kinesin/myosin, EF-Tu/EF-G, tubulin/FtsZ, MCM are homologous — merges at or above
+their documented split are not penalised; contamination counts only declared decoys or `distinct_from` relations.
+Fusion families declare an anchor domain; pairs with the second parent family are unasserted.
+**Genome-scale collections** (YGOB, Braasch 3R, MH2015, *X. laevis* L/S, ribosomal proteins) are scored as a separate
+track with two-stage aggregation (unit → collection) [B10].
 
-## 5. Curation pipeline (agents; blind to tool outputs)
-1. `curation_tools.fetch_paper` → OA full text + supplements (Europe PMC), checksums in `literature/papers/<id>/meta.json`.
-2. Extract identifiers + labels (supplement tables/trees/text) → `families/<ID>/raw_members.tsv` with provenance (file, row, quote).
-3. Map to panel proteomes: UniProt ID mapping; else same-species sequence match (exact, or ≥95% identity & ≥80% coverage,
-   unambiguous). Unmapped members are recorded, never silently dropped.
-4. Compile reference tree (S/D/U/H) with explicit level placement of literature events; `hobench` validator must pass.
-5. **Independent verification**: a different agent re-derives a random 10% of assertions + all T1 events from the source and
-   reports discrepancies; families with >5% discrepancy are fixed or demoted.
-6. Curators never see OrthoFinder/FastOMA results (curation frozen — git tag `refs-frozen-v1` — before any scoring).
+## 5. Curation pipeline (binding protocol: `design/CURATION_PROTOCOL.md`) [C4–C9]
+Agents curate blind to tool outputs; members come from committed per-family `build.py` parsers (no typed IDs); every
+label/event/tag/decoy has a stored, machine-verified quote; mapping thresholds ≥98% identity (≥99% XENLA, salmonids, TAND),
+≥80% coverage of both, reciprocal best hit, ≥2-point margin, same species only [D3]; ≥80% unique mapping for headline;
+`scripts/verify_provenance.py` must pass; blind verifier re-derives min(all, 30) seeded assertions + all D-levels and decoys
+(kill rule ≥2/30) [C6]; pre-freeze within-family DIAMOND QC (members with no in-family hit / best hit in another family
+flagged) [C8]; freeze at T+12 h by `families/MANIFEST.sha256` + git tag `refs-frozen-v1`; metrics frozen by tag
+`metrics-frozen-v1`; post-freeze fixes only via `families/ERRATA.md` with before/after numbers [C9].
 
-## 6. Metrics (implemented in `hobench/metrics.py`; see design/core_spec.md)
-Primary (per family, per level):
-1. **Per-level HOG pair P/R/F1** over asserted pairs (depth profile).
-2. **Merge-level accuracy** + signed level error (over-split vs over-merge rates).
-3. **Event recovery** for every literature duplication (recovered / misplaced by k levels / missed); WGD events aggregated.
-4. **Orthology P/R** (QfO-comparable, derived from merge levels) and three-class relation accuracy (ortholog / in-paralog / out-paralog).
-5. **Family integrity**: split excess (predicted top-level HOGs minus reference-implied), contamination by members of other
-   reference families or declared non-homologous decoys (merge), coverage (members placed in any HOG).
-6. **Per-gene / per-species correctness** (fraction of a gene's asserted relations correct).
-7. **Xenolog separation** for HGT families.
-Robustness metrics (§7): Δ of metrics 1–5 under controlled perturbation.
-Aggregation: macro over families; per tag, per panel, per depth bin; 95% CI by bootstrap over families (fixed seeds in
-`hobench/seeds.py`); paired method comparisons by paired bootstrap on family scores. No single composite score.
-Difficulty: per-family mean error across methods; inter-method agreement (ARI/VI of HOG partitions per level on family genes).
+## 6. Metrics (implemented in `hobench/`)
+**Four primary endpoints** (pre-registered; Holm correction across OF-vs-FastOMA comparisons) [B8]:
+1. **Per-level HOG F1, gene-balanced (B-cubed)** — depth profile + mean over levels [B2].
+2. **Node-balanced merge-level accuracy** — mean over asserted reference nodes of the fraction of their pairs whose
+   predicted merge level falls in the reference interval [A1, B2].
+3. **Two-sided event recovery** per literature duplication: copies apart at the event level AND ≥θ of each copy's
+   reference-together pairs together (θ ∈ {0.5, 0.8}); plus spurious-duplication count inside reference S clades [B3].
+4. **Family-membership F1** over declared-complete (family, species) cells [B5].
+Secondary/exploratory: pair-pooled versions; signed level error, also as fraction of family depth, and a ±1-level
+tolerance variant [B12]; within-family orthology P/R (from merge levels and from OF `Orthologues/`; not QfO-comparable)
+[B13]; root-level OrthoBench/OF3 measures (P/R/F, % fission, % fusion, % exact, dispersion entropy) [B7];
+contamination = decoy genes /(own + decoy) with unlabelled homologs reported separately [B5, B6]; xenolog separation;
+per-gene/per-species correctness; baseline-normalised skill (s−b)/(1−b), b = max(singletons, one-HOG, mean relabel) [B4].
+Statistics [B9, B11]: unit = family (collections = one unit after cluster bootstrap); macro averages; paired family
+bootstrap (same resampled IDs across methods, stratified by panel; seeds in `hobench/seeds.py`) + Wilcoxon signed-rank;
+no CI when n < 5; n reported everywhere; phenomenon effects estimated within families (e.g. WGD-tagged D vs S nodes)
+with cluster bootstrap. No composite score. Difficulty = 1 − mean skill across methods; agreement = AMI per level.
 
 ## 7. Experiments
-- **E1 Main**: OrthoFinder 3.1.5 and FastOMA 0.5.0 on each panel with the same reference species tree; baselines:
-  OrthoFinder flat orthogroups (no hierarchy), all-singletons, one-HOG-per-family-at-root, random (positive/negative controls).
-- **Data mode**: full proteomes for Y and K; *family-neighbourhood subsets* (all panel proteins with DIAMOND e ≤ 1e-5 to any
-  reference member, plus a fixed random background of 1,000 proteins/species, seed 20261026) for V, P, E (compute: full V/P/E
-  ≈ 4–8 h per tool-run). Validation control: run both modes on Y and K and compare metrics (must agree within CI; else
-  report the bias).
-- **E2 Robustness** (on subsets): (a) annotation fragmentation — split 10% of family members into two fragments;
-  (b) gene fusion — fuse 5% of members with a random non-family protein; (c) contamination — insert 20 proteins from a
-  distant species into one proteome; (d) species-tree error — swap a contested node / collapse to NCBI polytomies;
-  (e) taxon sampling — remove pre-WGD outgroups (Y) / gar (V). Metric deltas vs clean run on unaffected + affected genes.
-- **E3 OMAmer leakage check**: FastOMA with a reduced OMAmer database (clade-level or LUCA minus panel species, if feasible).
+- **E1 Main**: OrthoFinder 3.1.5 (`-s` binary panel tree) and FastOMA 0.5.0 (same tree; precomputed OMAmer hogmaps) per
+  panel; variants: OF `-M dendroblast`, FastOMA without user tree (if supported) [E7]; baselines: OF flat orthogroups,
+  all-singletons, one-HOG-per-family, random relabel; positive control (reference → perfect). FastOMA OrthoXML read with
+  duplications at the enclosing group's declared level (primary) and pyHam-late placement (sensitivity) [E1]; levels
+  mapped by clade species set, hard error on unknown levels [E2, E3].
+- **Data modes** [D5, D6]: full proteomes for Y and K; family-neighbourhood subsets for E, V, P: DIAMOND `--more-sensitive`
+  e ≤ 1e-5, fixed `--dbsize`, from raw paper member sequences (frozen before runs); + capped seeded sample of
+  domain-only hits (promiscuous decoys) + seeded background fraction; ≤70k proteins per panel; `mode` column in every
+  result row, never pooled. **Validation (pre-registered)**: per tool on Y and K, subset vs full: paired per-family Δ of
+  primary endpoints within ±0.05 (TOST, 90% paired CI) AND per-pair merge-level identity; otherwise E/V/P results are
+  reported as conditional on subset mode.
+- **E2 Robustness** (Y, full mode, seed 1; contamination seeds 2–3 if on schedule) [E5]: (a) fragmentation of 10% of
+  family members; (c) contamination (20 proteins of a distant species into one proteome); (d) alternative species tree at
+  a contested node; (e) taxon removal (pre-WGD outgroups); (b) fusion = COULD. One clean replicate per tool as noise floor.
+  Δ on matched pairs, split affected/unaffected genes, paired CI. Fragment scoring rule fixed before running: fragments
+  inherit the parent's relations; the parent is credited if either fragment is placed correctly (also report both).
+- **OMAmer leakage experiment dropped** (infeasible in budget) [E6]; circularity handled by the denylist; reported as a
+  limitation (FastOMA's OMAmer database is built from OMA HOGs, which may include our panel species).
 
 ## 8. Software deliverables
-`hobench/` (formats, parsers, metrics, controls, CLI), `curation_tools/`, `wrapper/` (`hobench run --tool orthofinder|fastoma
---panel V --mode subset` → normalized predictions + metrics), `families/` (reference data), `panels/` (species lists, trees,
-manifests), `scripts/` (build steps), `tests/` (toy truths, controls). Work dirs on local NVMe /tmp; RAM cap 46 GB.
+`hobench/` (formats, parsers, metrics, controls, freeze, CLI), `curation_tools/`, `wrapper/` (tool runs with manifests,
+subset builder, perturbations), `families/`, `panels/`, `scripts/` (build steps, verification, audit), `tests/`.
+Release "HOBench-core" [F2]: exact input FASTAs (full + subset), trees and manifests with checksums (archive, not git);
+references exported as per-level OrthoXML (U marked) and flattened pairs [F3]; family cards from family.yaml; coverage
+table HOBench vs OrthoBench vs SwissTree (clade × depth × phenomenon) [F4].
 
 ## 9. Reproducibility
-Git-tracked code, references, results tables; DATA.md (source, version, checksum, licence per dataset); fixed seeds; one
-`make`-style driver script per stage; no restricted data committed (PDFs, Phytozome). Every metric validated on toy data
-with hand-derived answers before use.
+Git-tracked code, references, result tables; DATA.md (source, version, checksum, licence, redistribution, script); seeds
+fixed (`hobench/seeds.py`, dataset seed 20261026); run manifests (commands, versions, input/DB/tree checksums) asserted at
+scoring; every REPORT.md number generated by a script into `results/` with commit hash and checked by a fresh agent [C11];
+metric tests reviewed/extended by a different agent incl. mutation checks [C10].
 
 ## 10. Risks and mitigations
 | Risk | Mitigation |
 |---|---|
-| Reference incompleteness (no negative set) | Score only asserted relations; precision penalties only within declared-complete species |
-| Identifier drift / mis-mapping | sequence-based mapping with identity/coverage thresholds; mapping report per family |
-| Agent hallucination of labels/IDs | provenance per assertion; independent 10% re-derivation; validator |
-| Circularity (tool-derived "truth") | exclude OMA/OF/Compara-derived sources; OMAmer leakage experiment |
-| Bias toward well-studied families | report per-tag/per-panel with n; do not over-generalize |
-| Compute | subsets + validation; /tmp workdirs; omamer ≤2 parallel |
+| Reference incompleteness (no negative set) | score only asserted relations; membership FPs only in declared-complete cells |
+| Identifier drift / mis-mapping | strict sequence mapping, per-family mapping report, ≥80% unique mapping for headline |
+| Agent hallucination of labels/IDs/quotes | parsers not typing; mechanical quote/ID verification; blind 30-item re-derivation |
+| Circularity (tool-derived truth) | denylist + `scripts/audit_sources.py`; OMAmer leakage stated as limitation |
+| Bias toward well-studied families | per-tag/per-panel reporting with n; within-family phenomenon contrasts |
+| Subset-mode bias | pre-registered equivalence test on Y and K |
+| Compute / account limits | full mode only Y,K; ≤5 concurrent agents; /tmp workdirs; omamer ≤2 parallel |
 
-## 11. Timeline (T = hours since START)
-T1–2.5 design reviews; T2–8 curation (parallel) + proteome download + subset building; T4–14 tool runs; T8–16 scoring,
-verification, robustness; T16–21 analysis, follow-ups; T21–23 REPORT.md.
+## 11. Timeline (revised after losing T+1h05→T+4h55 to an account rate limit)
+T+5–7: hobench v1 metrics, panels/trees/hogmaps, wrapper; Y/K full runs start. T+5–12: curation in waves of ≤4 agents
+(Y, K first: vertical slice of ≥2 frozen families in Y and K scored end-to-end by T+9). T+12: freeze. T+9–15: subsets +
+E/V/P runs. T+12–17: scoring, verification, robustness (Y). T+17–21: analysis, follow-ups, review of results.
+T+21–23: REPORT.md.
 
 ## 12. Change log
 - v0 — initial draft.
+- v1 — round-1 review (reviews/round1/SYNTHESIS.md): interval reference merge levels (A1); hybrid yeast WGD (A2); T2
+  WGD restriction (A3); HGT semantics (A4); salmonid LORe + *Coregonus* (A5); branch-placed contested events (A6); CONV
+  stratum (A7); theory grounding (A8); metric fixes and four primary endpoints (B1–B13); β-lactamase decoys replaced by
+  analogous enzymes (C1); single-copy r-proteins only (C2); denylist (C3); mechanical provenance + blind verification +
+  freeze (C4–C9); pinned release, strict mapping, panel tables, DATA.md (D1–D4); subset design + pre-registered validation
+  (D5, D6); OMArk covariate (D7); panel D dropped (D8); family list changes (D9); SwissTree (D10); FastOMA level reading
+  and level mapping (E1–E3); critical-path runs (E4); narrowed robustness (E5); E3 leakage dropped (E6); method variants
+  (E7); release/export/coverage table (F2–F4); literature corrections (F5).
