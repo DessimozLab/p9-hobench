@@ -80,3 +80,6 @@ Re-validated: 1,977 units, 0 errors; verify_provenance (assembled view) PASS, 0 
 
 ## PI decision: URA1 pillar excluded
 Unit YGOB_L04856 (YKL216W/URA1, DHOD acquired by HGT) is dropped via EXCLUDED_UNITS in build.py; it is encoded with its HGT history in families/Y03_URA1_HGT. Now 1,976 units; validate 0 errors; verify_provenance PASS.
+
+## Scannell et al. 2006 (Nature, PMID16421571) delivered — no extension possible
+Files (requested/02_*, sha256 in requested/RECEIVED.tsv) copied to literature/papers/PMID16421571/raw/ (git-ignored; text extracted with pypdf). Supp1.xls = GO-category table only; supp2–5 = notes (phylogeny, timing, model, GO); main text gives class counts, no per-locus lists (0 Scas_/CAGL0 identifiers in any file). Its Methods describe exactly the YGOB track scoring already used here (v1 Synteny_*.tab: "scored up to 18 times: on tracks A and B in each of the three post-WGD species"). The only S. castellii track data (YGOB v1, Scas_ contig names of Cliften 2003) cannot be mapped to NAUCC (no sequences: v1 Proteins.fsa archive truncated, S. cerevisiae only). Hidden-paralogy assertions therefore remain YEAST–CANGA only; no change to units.
