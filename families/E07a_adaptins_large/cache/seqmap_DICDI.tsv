@@ -1,0 +1,6 @@
+query_id	query_len	target_id	target_len	mapping_identity	identity_over_query	query_cov	target_cov	evalue	bitscore	method	status	flags	n_exact_targets	ambiguous_with
+XP_629998.1	563										unmapped		0	
+XP_637150.1	1122	P14197	478	27.700	0.035	0.105	0.289	3.54e-07	53.100	diamond	partial	low_query_cov;low_target_cov	0	
+XP_639969.1	1408										unmapped		0	
+XP_640471.1	877										unmapped		0	
+XP_642289.1	1340	Q54Y96	530	23.000	0.031	0.131	0.325	2.44e-06	50.800	diamond	partial	low_query_cov;low_target_cov	0	

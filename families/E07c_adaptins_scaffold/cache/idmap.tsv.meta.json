@@ -1,0 +1,56 @@
+{
+  "uniprot_release": "2026_03",
+  "date": "2026-10-26T19:13:48Z",
+  "jobs": [
+    {
+      "from": "RefSeq_Protein",
+      "n_ids": 113,
+      "n_rows": 106,
+      "taxon": null
+    },
+    {
+      "from": "RefSeq_Protein",
+      "n_ids": 21,
+      "n_rows": 6,
+      "taxon": null
+    },
+    {
+      "from": "UniProtKB_AC-ID",
+      "n_ids": 15,
+      "n_rows": 0,
+      "taxon": null
+    },
+    {
+      "from": "UniProtKB_AC-ID",
+      "n_ids": 14,
+      "n_rows": 14,
+      "taxon": null
+    },
+    {
+      "from": "EMBL-GenBank-DDBJ_CDS",
+      "n_ids": 4,
+      "n_rows": 1,
+      "taxon": null
+    },
+    {
+      "from": "EMBL-GenBank-DDBJ_CDS",
+      "n_ids": 3,
+      "n_rows": 0,
+      "taxon": null
+    },
+    {
+      "from": "RefSeq_Protein",
+      "n_ids": 3,
+      "n_rows": 0,
+      "taxon": null
+    },
+    {
+      "from": "SGD",
+      "n_ids": 6,
+      "n_rows": 6,
+      "taxon": null
+    }
+  ],
+  "n_input": 137,
+  "n_unmapped": 18
+}

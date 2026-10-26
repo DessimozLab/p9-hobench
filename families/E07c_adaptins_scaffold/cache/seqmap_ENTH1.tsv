@@ -1,0 +1,4 @@
+query_id	query_len	target_id	target_len	mapping_identity	identity_over_query	query_cov	target_cov	evalue	bitscore	method	status	flags	n_exact_targets	ambiguous_with
+BAE94785.1	837	C4LVA7	837	99.900	0.999	1.000	1.000	0	1543.000	diamond	unique		0	
+BAE94790.1	1017	C4M1X4	1030	98.300	0.996	1.000	1.000	0	1840.000	diamond	unique		0	
+BAE94791.1	767	C4LUG0	735	95.700	0.957	1.000	1.000	0	1350.000	diamond	unique		0	

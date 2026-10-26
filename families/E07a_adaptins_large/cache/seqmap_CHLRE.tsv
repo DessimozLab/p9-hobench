@@ -1,0 +1,2 @@
+query_id	query_len	target_id	target_len	mapping_identity	identity_over_query	query_cov	target_cov	evalue	bitscore	method	status	flags	n_exact_targets	ambiguous_with
+XP_001701255.1	959	A0A2K3DTG4	966	97.800	0.985	1.000	1.000	0	1755.000	diamond	unique		0	

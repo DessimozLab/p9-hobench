@@ -1,0 +1,91 @@
+id: E07a_adaptins_large
+name: Adaptor-complex large subunits (AP-1..5 beta and gamma/alpha/delta/epsilon/zeta, beta-/gamma-COP, TPLATE, TSAUCER)
+panel: E
+collection: E_adaptor_complexes
+phenomena:
+- DEEP
+- LOSS
+descriptors:
+  n_members: 105
+  n_species: 20
+  mapped_fraction: 0.719
+  n_rows_panel_species: 146
+  status_counts:
+    mapped: 105
+    unmapped: 41
+  per_species_mapped_fraction:
+    ARATH: 1.0
+    BATDJ: 0.125
+    CAPO3: 1.0
+    CHLRE: 0.333
+    CYAME: 1.0
+    DICDI: 0.786
+    DROME: 1.0
+    ENCCU: 1.0
+    ENTH1: 0.846
+    GIAIC: 1.0
+    HUMAN: 0.875
+    MONBE: 1.0
+    NAEGR: 0.583
+    NEMVE: 0.545
+    NEUCR: 1.0
+    PLAF7: 0.25
+    THAPS: 0.556
+    THETR: 1.0
+    TRYB2: 0.5
+    YEAST: 1.0
+  groups:
+    AP1-gamma: 8
+    AP1/2-beta: 18
+    AP2-alpha: 6
+    AP3-beta: 9
+    AP3-delta: 6
+    AP4-beta: 5
+    AP4-epsilon: 4
+    AP5-beta: 6
+    AP5-zeta: 6
+    COPI-BETA: 9
+    COPI-GAMMA: 20
+    TPLATE: 4
+    TSAUCER: 4
+sources:
+- id: Hirst2014
+  doi: 10.7554/eLife.02866
+  pmid: '24867644'
+  title: Characterization of TSET, an ancient and widespread membrane trafficking complex
+  year: 2014
+  journal: eLife
+  source_method: phylogeny
+  table: Figure 3-source data 1
+  locator: Results; Figure 1, 3, 4; Figure 1-source data 1-2; Figure 3-source data 1
+  quote: our most recent analyses indicate that, contrary to previous reports (Hirst et al., 2011), AP-5 diverged basally
+    within the adaptin clade, followed by AP-3, AP-4, and APs 1 and 2, all prior to the LECA.
+  files:
+  - path: literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx
+    sha256: 569524adfc383e586a7cfde113bd9dfa0f1f253cd70172792438951ed740f573
+  - path: literature/papers/PMID24867644/raw/supp/elife-02866-fig1-data1.xlsx
+    sha256: 901ef17a490248ff6697781d6ef149881b7771f8ae7d6c3a5723e5023ad015a9
+  - path: literature/papers/PMID24867644/raw/supp/elife-02866-fig1-data2.xlsx
+    sha256: d6b139b84f0995566295c27eb8165e701e23ac79fdc14fa17233a95e13407bab
+  - path: literature/papers/PMID24867644/fulltext.txt
+    sha256: 4426f2ab85a2285c1bd17c4cfa35409974d12bae0dc95b20c9a588fdc912cd06
+root_level: Eukaryota
+root_single_copy: false
+complete_species: []
+decoys: []
+distinct_from: []
+tier_summary:
+  D_T1: 1
+  S_T2: 12
+  U_T2: 4
+protocol_version: 1
+notes: 'One of three E07 families split from Hirst et al. 2014 by subunit homology class (large; medium+small; COPI/TSET scaffold),
+  because the classes are not asserted homologous to each other. Tree: root = T1 D (lvl_lo=Eukaryota, lvl_hi=ABOVE_RANGE)
+  over subunit groups (section of Figure 3-source data 1; AP subunits from the annotation code <complex><B|M|S|G|A|D|E|Z>),
+  all pre-LECA paralogs per the quoted AP-1..5 / COPI / TSET statements. AP-1 and AP-2 beta labels (1B/2B) pooled into one
+  U group: the paper does not resolve a beta1/beta2 split. Groups: <=1 gene/species -> S, else U. Rows whose annotation does
+  not parse consistently with its section are loose under a U root. Table lists sequences used for phylogenies (not exhaustive
+  for AP/COPI; opisthokont AP/COPI sampling sparse) -> complete_species empty. Mapping: RefSeq/GenBank/UniProt/SGD -> UniProt
+  ID mapping; else exact gene-model name in the panel header map (AGI, DDB_G, BDEG_, CAOG_, Cre, NCU, CYME_, GL50803_); else
+  NCBI sequence of the RefSeq id with an exact (or unique >=99.5%, cov >=0.8 both) same-species match. JGI numeric/EST ids
+  are unmapped. DICDI TSET genes (XP_639969, XP_640471, XP_629998) are absent from the panel proteome.'

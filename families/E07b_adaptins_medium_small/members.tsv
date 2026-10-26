@@ -1,0 +1,124 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	source	locator
+Q9SAC9	ARATH	Atha1Mi1	(AP Mu:Atha1Mi1)	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1031: section AP Mu; Atha1Mi1; AT1G10730.1
+B1N4M5	ENTH1	Ehis1Mi1	(AP Mu:Ehis1Mi1)	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 995: section AP Mu; Ehis1Mi1; EHI_089880
+A0A8U0WQ23	ENTH1	Ehis2Mi1	(AP Mu:Ehis2Mi1)	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 997: section AP Mu; Ehis2Mi1; EHI_135430
+O22715	ARATH	Atha1M1	AP1-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1030: section AP Mu; Atha1M1; AT1G60780.1
+Q54HS9	DICDI	Ddis1M1	AP1-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 988: section AP Mu; Ddis1M1; DDB_G0289247
+A0A8U0WP62	ENTH1	Ehis1M2	AP1-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 994: section AP Mu; Ehis1M2; EHI_124460
+E2RU50	GIAIC	Gint1M2	AP1-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1012: section AP Mu; Gint1M2; GL50803_89622
+Q9BXS5	HUMAN	Hsap1M1	AP1-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 944: section AP Mu; Hsap1M1; NP_115882.1
+Q9Y6Q5	HUMAN	Hsap1M2	AP1-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 945: section AP Mu; Hsap1M2; NP_005489.2
+B8CCW2	THAPS	Tpse1M1	AP1-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1079: section AP Mu; Tpse1M1; 37264
+Q00776	YEAST	Scer1M1	AP1-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 972: section AP Mu; Scer1M1; NP_015064.1
+O23685	ARATH	Atha1S2	AP1-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1345: section AP Sigma; Atha1S2; AT4G35410.2
+Q8LEZ8	ARATH	Atha1S21	AP1-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1346: section AP Sigma; Atha1S21; AT2G17380.1
+B0G185	DICDI	Ddis1S2	AP1-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1303: section AP Sigma; Ddis1S2; DDB_G0295711
+Q54WW3	DICDI	Ddis1S21	AP1-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1304: section AP Sigma; Ddis1S21; DDB_G0279359
+A0A8U0WPL9	ENTH1	Ehis1S1	AP1-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1310: section AP Sigma; Ehis1S1; EHI_178740
+E2RTX7	GIAIC	Gint1S3	AP1-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1329: section AP Sigma; Gint1S3; GL50803_91198
+P56377	HUMAN	Hsap1S2	AP1-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1244: section AP Sigma; Hsap1S2; P56377
+P61966	HUMAN	Hsap1S1	AP1-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1243: section AP Sigma; Hsap1S1; P61966
+Q96PC3	HUMAN	Hsap1S3	AP1-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1245: section AP Sigma; Hsap1S3; Q96PC3
+A9UVC4	MONBE	Mbre1S2	AP1-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1281: section AP Sigma; Mbre1S2; 18290
+D2UXP0	NAEGR	Ngru1S3	AP1-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1340: section AP Sigma; Ngru1S3; 29136
+A7RTE2	NEMVE	Nvec1S2	AP1-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1266: section AP Sigma; Nvec1S2; 92832
+B8C1H0	THAPS	Tpse1S2	AP1-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1394: section AP Sigma; Tpse1S2; 33667
+P35181	YEAST	Scer1S2	AP1-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1288: section AP Sigma; Scer1S2; SGDID:S000004160
+O23140	ARATH	Atha2M	AP2-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1032: section AP Mu; Atha2M; AT5G46630.2
+P54672	DICDI	Ddis2M	AP2-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 989: section AP Mu; Ddis2M; DDB_G0277139
+B1N355	ENTH1	Ehis2M	AP2-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 996: section AP Mu; Ehis2M; EHI_124560
+E2RTN5	GIAIC	Gint2M	AP2-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1013: section AP Mu; Gint2M; GL50803_8917
+Q96CW1	HUMAN	Hsap2M	AP2-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 946: section AP Mu; Hsap2M; NP_004059.2
+B8BXI4	THAPS	Tpse2M	AP2-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1080: section AP Mu; Tpse2M; 39847
+Q99186	YEAST	Scer2M	AP2-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 973: section AP Mu; Scer2M; NP_014579.1
+Q84WL9	ARATH	Atha2S	AP2-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1347: section AP Sigma; Atha2S; AT1G47830.1
+F4NV93	BATDJ	Bden2S	AP2-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1275: section AP Sigma; Bden2S; 8507
+Q54H39	DICDI	Ddis2S	AP2-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1305: section AP Sigma; Ddis2S; DDB_G0289721
+A0A8U0WPX6	ENTH1	Ehis2S	AP2-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1311: section AP Sigma; Ehis2S; EHI_009940
+E2RTT5	GIAIC	Gint2S	AP2-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1330: section AP Sigma; Gint2S; GL50803_5328
+P53680	HUMAN	Hsap2S	AP2-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1246: section AP Sigma; Hsap2S; P53680
+A9USE4	MONBE	Mbre2S	AP2-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1282: section AP Sigma; Mbre2S; 19605
+D2UXT4	NAEGR	Ngru2S	AP2-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1341: section AP Sigma; Ngru2S; 60123
+A7S269	NEMVE	Nvec2S	AP2-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1267: section AP Sigma; Nvec2S; 101531
+B8C940	THAPS	Tpse2S	AP2-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1395: section AP Sigma; Tpse2S; 36490
+Q00381	YEAST	Scer2S	AP2-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1289: section AP Sigma; Scer2S; SGDID:S000003819
+F4I562	ARATH	Atha3M1	AP3-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1033: section AP Mu; Atha3M1; AT1G56590.1
+Q9GPF1	DICDI	Ddis3M1	AP3-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 990: section AP Mu; Ddis3M1; DDB_G0277901
+A0A8U0WPK8	ENTH1	Ehis3M1	AP3-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 998: section AP Mu; Ehis3M1; EHI_099240
+P53677	HUMAN	Hsap3M2	AP3-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 943: section AP Mu; Hsap3M2; NP_006794.1
+Q9Y2T2	HUMAN	Hsap3M1	AP3-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 942: section AP Mu; Hsap3M1; NP_036227.1
+B8BW02	THAPS	Tpse3M1	AP3-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1081: section AP Mu; Tpse3M1; 39741
+P38153	YEAST	Scer3M2	AP3-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 974: section AP Mu; Scer3M2; NP_009847.1
+Q8VZ37	ARATH	Atha3S2	AP3-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1348: section AP Sigma; Atha3S2; AT3G50860.1
+Q553S2	DICDI	Ddis3S1	AP3-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1306: section AP Sigma; Ddis3S1; DDB_G0275405
+A0A8U0WPQ7	ENTH1	Ehis3S2	AP3-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1312: section AP Sigma; Ehis3S2; EHI_103550
+P59780	HUMAN	Hsap3S2	AP3-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1248: section AP Sigma; Hsap3S2; P59780
+Q92572	HUMAN	Hsap3S1	AP3-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1247: section AP Sigma; Hsap3S1; Q92572
+A9VC88	MONBE	Mbre3S2	AP3-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1283: section AP Sigma; Mbre3S2; 34516
+D2VB79	NAEGR	Ngru3S2	AP3-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1342: section AP Sigma; Ngru3S2; 60520
+A7S1Q2	NEMVE	Nvec3S1	AP3-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1268: section AP Sigma; Nvec3S1; 101020
+B5YNE9	THAPS	Tpse3S2	AP3-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1396: section AP Sigma; Tpse3S2; 28984
+P47064	YEAST	Scer3S1	AP3-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1290: section AP Sigma; Scer3S1; SGDID:S000003561
+Q9SB50	ARATH	Atha4M1	AP4-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1034: section AP Mu; Atha4M1; AT4G24550.2
+Q9GPF0	DICDI	Ddis4M1	AP4-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 991: section AP Mu; Ddis4M1; DDB_G0276945
+O00189	HUMAN	Hsap4M1	AP4-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 947: section AP Mu; Hsap4M1; NP_004713.2
+B8BS51	THAPS	Tpse4M1	AP4-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1082: section AP Mu; Tpse4M1; 31014
+O82201	ARATH	Atha4S1	AP4-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1349: section AP Sigma; Atha4S1; AT2G19790.1
+Q54NZ4	DICDI	Ddis4S1	AP4-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1307: section AP Sigma; Ddis4S1; DDB_G0284905
+A0A8U0WPY2	ENTH1	Ehis4S1	AP4-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1313: section AP Sigma; Ehis4S1; EHI_045190
+Q9Y587	HUMAN	Hsap4S1	AP4-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1249: section AP Sigma; Hsap4S1; Q9Y587
+A9V6Y0	MONBE	Mbre4S1	AP4-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1284: section AP Sigma; Mbre4S1; 10687
+D2UYK1	NAEGR	Ngru4S1	AP4-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1343: section AP Sigma; Ngru4S1; 60160
+A7SDU6	NEMVE	Nvec4S1	AP4-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1269: section AP Sigma; Nvec4S1; 114561
+B8C3G2	THAPS	Tpse4S1	AP4-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1397: section AP Sigma; Tpse4S1; 5631
+Q8W0Z6	ARATH	Atha5M	AP5-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1035: section AP Mu; Atha5M; AT2G20790.1
+Q54NP5	DICDI	Ddis5M	AP5-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 992: section AP Mu; Ddis5M; DDB_G0285113
+C4M721	ENTH1	Ehis5M	AP5-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 999: section AP Mu; Ehis5M; EHI_189900
+Q9H0R1	HUMAN	Hsap5M	AP5-mu	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 948: section AP Mu; Hsap5M; NP_060699.3
+Q55BN5	DICDI	Ddis5S1	AP5-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1308: section AP Sigma; Ddis5S1; XP_646796.1
+B1N497	ENTH1	Ehis5S1	AP5-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1314: section AP Sigma; Ehis5S1; XP_001914013.1
+Q9NUS5	HUMAN	Hsapi5S1	AP5-sigma	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 1250: section AP Sigma; Hsapi5S1; NP_060817.1
+Q93Y22	ARATH	AthaCOPD	COPI-DELTA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 757: section COPI DELTA; AthaCOPD; AAK96849.1
+A8I901	CHLRE	CreiCOPD	COPI-DELTA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 761: section COPI DELTA; CreiCOPD; XP_001701763.1
+Q55EZ6	DICDI	DdisCOPD	COPI-DELTA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 747: section COPI DELTA; DdisCOPD; XP_646874.1
+P48444	HUMAN	HsapCOPD	COPI-DELTA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 729: section COPI DELTA; HsapCOPD; NP_001646.2
+A9UYP4	MONBE	MbreCOPD	COPI-DELTA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 737: section COPI DELTA; MbreCOPD; XP_001745669.1
+D2V8N2	NAEGR	NgruCOPD	COPI-DELTA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 755: section COPI DELTA; NgruCOPD; XP_002679463.1
+A7SRJ1	NEMVE	NvecCOPD	COPI-DELTA	sequence	100.000	1.00	Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 733: section COPI DELTA; NvecCOPD; XP_001625768.1
+B8BV63	THAPS	TpseCOPD	COPI-DELTA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 771: section COPI DELTA; TpseCOPD; XP_002287438.1
+Q57UJ7	TRYB2	TbruCOPD	COPI-DELTA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 751: section COPI DELTA; TbruCOPD; XP_847355.1
+P43621	YEAST	ScerCOPD	COPI-DELTA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 739: section COPI DELTA; ScerCOPD; NP_116709.1
+Q84LG4	ARATH	AthaCOPZ1	COPI-ZETA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 446: section COPI ZETA; AthaCOPZ1; NP_566358.3
+Q8H1F4	ARATH	AthaCOPZ3	COPI-ZETA	sequence	100.000	1.00	Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 448: section COPI ZETA; AthaCOPZ3; NP_567337.1
+Q940S5	ARATH	AthaCOPZ2	COPI-ZETA	sequence	100.000	1.00	Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 447: section COPI ZETA; AthaCOPZ2; NP_564767.1
+F4P026	BATDJ	BdenCOPZ	COPI-ZETA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 452: section COPI ZETA; BdenCOPZ; jgi|Batde5|23976|fgenesh1_pg.C_scaffold_4000215
+A0A0D2WY73	CAPO3	CowcCOPZ	COPI-ZETA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 456: section COPI ZETA; CowcCOPZ; CAOG_07917T0
+A0A2K3DH79	CHLRE	CreiCOPZ	COPI-ZETA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 464: section COPI ZETA; CreiCOPZ; Cre08.g371450.t2.1
+M1VEL3	CYAME	CmerCOPZ	COPI-ZETA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 458: section COPI ZETA; CmerCOPZ; gnl|CMER|CMN247C
+Q9VV89	DROME	DmelCOPZ	COPI-ZETA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 466: section COPI ZETA; DmelCOPZ; NP_648910.1
+C4M5L6	ENTH1	EhisCOPZ	COPI-ZETA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 475: section COPI ZETA; EhisCOPZ; EHI_122850
+P61923	HUMAN	HsaCOPZ1	COPI-ZETA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 436: section COPI ZETA; HsaCOPZ1; NP_001258665.1
+Q9P299	HUMAN	HsaCOPZ2	COPI-ZETA	sequence	100.000	0.82	Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 437: section COPI ZETA; HsaCOPZ2; XP_005257487.1
+A9V0U3	MONBE	MbreCOPZ	COPI-ZETA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 485: section COPI ZETA; MbreCOPZ; jgi|Monbr1|37291|estExt_fgenesh1_pg.C_120057
+Q7SHS6	NEUCR	NceCOPZ	COPI-ZETA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 491: section COPI ZETA; NceCOPZ; jgi|Neucr1|2220|NCU02538T0
+Q8I1T3	PLAF7	PfalCOPZ	COPI-ZETA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 497: section COPI ZETA; PfalCOPZ; PF3D7_0415400
+B8C5G1	THAPS	TpseCOPZ	COPI-ZETA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 527: section COPI ZETA; TpseCOPZ; jgi|Thaps3|23050|estExt_fgenesh1_pg.C_chr_60215
+A0A0L0D2A9	THETR	TtraCOPZ	COPI-ZETA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 525: section COPI ZETA; TtraCOPZ; AMSG_02723T0
+P53600	YEAST	ScerCOPZ	COPI-ZETA	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 513: section COPI ZETA; ScerCOPZ; NP_015315.1
+Q9FKM4	ARATH	AtTCUP	TCUP	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 91: section TCUP; AtTCUP; NP_200555.1
+F4P6T8	BATDJ	BdTCUP	TCUP	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 136: section TCUP; BdTCUP; jgi|Batde5|90049|GP3.056080
+A0A0D2U0J5	CAPO3	CoTCUP	TCUP	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 114: section TCUP; CoTCUP; CAOG_00351T0
+A0A2K3E6J9	CHLRE	CrTCUP	TCUP	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 97: section TCUP; CrTCUP; Cre01.g028500.t1.2
+A0ACM8Q597	DROME	DmTCUP	TCUP	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 117: section TCUP; DmTCUP; NP_001097723.1
+O14526	HUMAN	HsTCUPb	TCUP	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 107: section TCUP; HsTCUPb; NP_001154829.1
+Q0JRZ9	HUMAN	HsTCUPc	TCUP	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 108: section TCUP; HsTCUPc; NP_620137.2
+Q9BQI5	HUMAN	HsTCUPa	TCUP	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 106: section TCUP; HsTCUPa; NP_115667.2
+A9UXD6	MONBE	MbTCUP	TCUP	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 139: section TCUP; MbTCUP; jgi|Monbr1|32093|estExt_fgenesh2_pg.C_70300
+D2VX87	NAEGR	NgTCUP	TCUP	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 88: section TCUP; NgTCUP; XP_002671328.1
+Q7RZ47	NEUCR	NcTCUP	TCUP	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 126: section TCUP; NcTCUP; jgi|Neucr1|3877|NCU04427T0
+B5YM56	THAPS	TpTCUP	TCUP	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 154: section TCUP; TpTCUP; jgi|Thaps3|25419|estExt_fgenesh1_pg.C_chr_180255
+A0A0L0DP08	THETR	TtrTCUP	TCUP	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 103: section TCUP; TtrTCUP; AMSG_09219T0
+P25623	YEAST	ScerTCUP	TCUP	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 166: section TCUP; ScerTCUP; NP_009959.2
+Q9XI32	ARATH	AtTSPOON	TSPOON	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 176: section TSPOON; AtTSPOON; NP_172989.1
+A8JHN4	CHLRE	CrTSPOON	TSPOON	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 194: section TSPOON; CrTSPOON; Cre12.g561200.t1.1|PACid:27582536
+D2VSA4	NAEGR	NgTSPOON	TSPOON	id_mapping			Hirst2014	literature/papers/PMID24867644/raw/supp/elife-02866-fig3-data1.xlsx (Figure 3-source data 1) row 179: section TSPOON; NgTSPOON; XP_002673133.1
