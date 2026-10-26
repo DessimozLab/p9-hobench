@@ -571,6 +571,29 @@ def write_levels(panel: str, t: Tree, alt: Tree, taxid_of: dict, ncbi, cits: dic
         w.writerows(rows)
 
 
+SHEN2018 = ROOT / "literature" / "raw" / "C" / "shen2018_343taxa_2408OGs_unpartitioned_ML.newick"
+SHEN2018_NAMES = {"Saccharomyces_cerevisiae": "YEAST", "Candida_glabrata": "CANGA", "Naumovozyma_castellii": "NAUCC",
+                  "Naumovozyma_dairenensis": "NAUDC", "Kazachstania_africana": "KAZAF",
+                  "Vanderwaltozyma_polyspora": "VANPO", "Tetrapisispora_phaffii": "TETPH",
+                  "Zygosaccharomyces_rouxii": "ZYGRC", "Torulaspora_delbrueckii": "TORDC",
+                  "Lachancea_thermotolerans": "LACTH", "Kluyveromyces_lactis": "KLULA",
+                  "Eremothecium_gossypii": "ASHGO", "Eremothecium_cymbalariae": "ERECY",
+                  "Candida_albicans": "CANAL", "Yarrowia_lipolytica": "YARLI", "Schizosaccharomyces_pombe": "SCHPO"}
+
+
+def check_y_against_shen2018(t: Tree) -> None:
+    """The hand-written Y tree must equal the Shen 2018 ML tree pruned to the panel (rooted on S. pombe)."""
+    s = Tree(SHEN2018.read_text(), format=1)
+    s.set_outgroup("Schizosaccharomyces_pombe")
+    s.prune(list(SHEN2018_NAMES))
+    for lf in s.iter_leaves():
+        lf.name = SHEN2018_NAMES[lf.name]
+    rf = t.robinson_foulds(s, unrooted_trees=False)[0]
+    if rf != 0:
+        raise SystemExit(f"ERROR: panel Y tree differs from pruned Shen 2018 tree (RF={rf})")
+    print("panel Y: identical (RF=0) to Shen 2018 343-taxon ML tree pruned to the panel")
+
+
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--panels", nargs="+", default=list(TREES))
@@ -594,6 +617,8 @@ def main(argv=None) -> int:
         assert fa_codes == codes, (p, fa_codes ^ codes)
         t = validate_tree(TREES[p], codes, f"{p} species_tree")
         alt = validate_tree(ALT_TREES[p], codes, f"{p} species_tree_alt")
+        if p == "Y":
+            check_y_against_shen2018(t)
         harmonise_alt(t, alt)
         if t.robinson_foulds(alt, unrooted_trees=False)[0] == 0:
             raise SystemExit(f"ERROR: {p} alt tree identical to main tree")

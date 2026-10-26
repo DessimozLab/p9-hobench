@@ -24,3 +24,9 @@ runs/timing/
 panels/*/subset/*.fa
 panels/*_*/proteomes/
 data/hogmaps/
+# NCBI taxonomy dump and third-party database files that must not be redistributed (SYNTHESIS D4)
+taxdump.tar.gz
+literature/raw/B1/kinbase/
+literature/raw/B1/ygob/
+literature/raw/B1/hgnc/
+literature/raw/B1/ohnologs/

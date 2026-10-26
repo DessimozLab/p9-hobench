@@ -1,0 +1,13 @@
+{
+ "dataset": "Shen et al. 2018 Cell, 343-taxon ML species tree (2,408 OGs, unpartitioned)",
+ "source_url": "https://ndownloader.figshare.com/files/12977468",
+ "archive": "data_in_Figure2.zip",
+ "member": "data_in_Figure2/343_2408OGs_unpartitioned_ML_species-names_updated.newick",
+ "figshare_doi": "10.6084/m9.figshare.5854692",
+ "paper_doi": "10.1016/j.cell.2018.10.023",
+ "license": "CC BY 4.0",
+ "archive_sha256": "cbaf6f5863604372df34589e0db5c0c7d1476a08adf9760ce1fa7176e7ca942b",
+ "sha256": "fc94f35d5a9bef0100fb33301e728790508c74fd709bda278b5efae2f3a9f0e7",
+ "retrieval_date": "2026-10-26",
+ "used_by": "scripts/build_panels.py (panel Y tree, pruned by hand-checked ete3 prune)"
+}
