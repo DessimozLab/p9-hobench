@@ -12,8 +12,20 @@ export NXF_HOME=$ROOT/tools/nxf_home
 PANELS=${PANELS:-"Y K"}
 mkdir -p logs
 
-wait_panel() {
-  until [ -s "panels/$1/species_tree.nwk" ] && [ -s "panels/$1/species.tsv" ]; do sleep 60; done
+wait_panel() {  # tree + species.tsv + every proteome present, nothing modified for 3 min
+  until python - "$1" <<'EOF2'
+import sys, time
+from pathlib import Path
+from wrapper.common import load_panel
+try:
+    p = load_panel(sys.argv[1], "full")
+except Exception:
+    sys.exit(1)
+files = [p.tree_path, p.dir / "species.tsv"] + list(p.fastas.values())
+sys.exit(0 if time.time() - max(f.stat().st_mtime for f in files) > 180 else 1)
+EOF2
+  do sleep 60; done
+  echo "[$(date -u +%FT%TZ)] panel $1 ready"
 }
 
 done_already() { python - "$1" <<'EOF'
