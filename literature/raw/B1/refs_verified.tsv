@@ -1,0 +1,132 @@
+tag	doi	status	pmid	pmcid	first_author	year	journal	isOpenAccess	inPMC	title
+ygob	10.1101/gr.3672305	OK	16169922	PMC1240090	Byrne	2005	Genome Res	N	Y	The Yeast Gene Order Browser: combining curated homology and syntenic context reveals gene fate in polyploid species.
+ygob	10.1038/nature04562	OK	16541074		Scannell	2006	Nature	N	N	Multiple rounds of speciation associated with reciprocal gene loss in polyploid yeasts.
+ygob	10.1073/pnas.0608218104	OK	17494770	PMC1895961	Scannell	2007	Proc Natl Acad Sci U S A	N	Y	Independent sorting-out of thousands of duplicated gene pairs in two yeast species descended from a whole-genome duplication.
+ygob	10.1371/journal.pbio.1002220	OK	26252497	PMC4529251	Marcet-Houben	2015	PLoS Biol	Y	Y	Beyond the Whole-Genome Duplication: Phylogenetic Evidence for an Ancient Interspecies Hybridization in the Baker's Yeast Lineage.
+fungHGT	10.1016/j.tig.2009.11.007	OK	19969385		Marcet-Houben	2010	Trends Genet	N	N	Acquisition of prokaryotic genes by fungal genomes.
+fungHGT	10.1128/EC.4.6.1102-1115.2005	OK	15947202	PMC1151995	Hall	2005	Eukaryot Cell	N	Y	Contribution of horizontal gene transfer to the evolution of Saccharomyces cerevisiae.
+fungHGT	10.1016/j.cub.2010.12.020	OK	21194949		Slot	2011	Curr Biol	N	N	Horizontal transfer of a large and highly toxic secondary metabolic gene cluster between fungi.
+fungHGT	10.1073/pnas.0914418107	OK	20479238	PMC2890473	Slot	2010	Proc Natl Acad Sci U S A	N	Y	Multiple GAL pathway gene clusters evolved independently and by different mechanisms in fungi.
+fungHGT	10.1016/j.cell.2019.01.034	OK	30799038	PMC7295392	Kominek	2019	Cell	N	Y	Eukaryotic Acquisition of a Bacterial Operon.
+fungHGT	10.7554/eLife.33034	OK	29648535	PMC5897096	Gonçalves	2018	Elife	Y	Y	Evidence for loss and reacquisition of alcoholic fermentation in a fructophilic yeast lineage.
+yeastspp	10.1016/j.cell.2018.10.023	OK	30415838	PMC6291210	Shen	2018	Cell	N	Y	Tempo and Mode of Genome Evolution in the Budding Yeast Subphylum.
+micro	10.1093/gbe/evt184	OK	24259309	PMC3879972	Nakjang	2013	Genome Biol Evol	Y	Y	Reduction and expansion in microsporidian genome evolution: new insights from comparative genomics.
+fungP450	10.1186/1471-2164-13-525	OK	23033934	PMC3505482	Moktali	2012	BMC Genomics	Y	Y	Systematic and searchable classification of cytochrome P450 proteins encoded by fungal and oomycete genomes.
+subtel	10.1016/j.cub.2010.04.027	OK	20471265	PMC2877759	Brown	2010	Curr Biol	N	Y	Rapid expansion and functional divergence of subtelomeric gene families in yeasts.
+fusion	10.1371/journal.pcbi.1000200	OK	18949021	PMC2557144	Durrens	2008	PLoS Comput Biol	Y	Y	Fusion and fission of genes define a metric between fungal genomes.
+fusion	10.1073/pnas.1210909110	OK	23236161	PMC3535628	Leonard	2012	Proc Natl Acad Sci U S A	N	Y	Genome-scale comparative analysis of gene fusions, gene fissions, and the fungal tree of life.
+GAL	10.1073/pnas.0404319101	OK	15381776	PMC521130	Hittinger	2004	Proc Natl Acad Sci U S A	N	Y	Parallel inactivation of multiple GAL pathway genes and ecological diversification in yeasts.
+hox	10.1111/j.1525-142X.2008.00266.x	OK	18803769		Zhong	2008	Evol Dev	N	N	HomeoDB: a database of homeobox gene diversity.
+hox	10.1111/j.1525-142X.2011.00513.x	OK	23016940	PMC3399086	Zhong	2011	Evol Dev	Y	Y	HomeoDB2: functional expansion of a comparative homeobox gene database for evolutionary developmental biology.
+hox	10.1186/1741-7007-5-47	OK	17963489	PMC2211742	Holland	2007	BMC Biol	Y	Y	Classification and nomenclature of all human homeobox genes.
+hox	10.1126/science.282.5394.1711	OK	9831563		Amores	1998	Science	N	N	Zebrafish hox clusters and vertebrate genome evolution.
+hox	10.1186/gb-2006-7-7-r64	OK	16867185	PMC1779571	Ryan	2006	Genome Biol	Y	Y	The cnidarian-bilaterian ancestor possessed at least 56 homeoboxes: evidence from the starlet sea anemone, Nematostella vectensis.
+hox	10.1186/2041-9139-1-9	OK	20920347		Ryan	2010	Evodevo	N	N	The homeodomain complement of the ctenophore Mnemiopsis leidyi suggests that Ctenophora and Porifera diverged prior to the ParaHoxozoa.
+hox	10.1038/31933	OK	9582071		Brooke	1998	Nature	N	N	The ParaHox gene cluster is an evolutionary sister of the Hox gene cluster.
+hox	10.1387/ijdb.072533km	OK	19557682		Kuraku	2009	Int J Dev Biol	N	N	The evolution and maintenance of Hox gene clusters in vertebrates and the teleost-specific genome duplication.
+kinase	10.1126/science.1075762	OK	12471243		Manning	2002	Science	N	N	The protein kinase complement of the human genome.
+kinase	10.1073/pnas.0801314105	OK	18621719	PMC2453073	Manning	2008	Proc Natl Acad Sci U S A	N	Y	The protist, Monosiga brevicollis, has a tyrosine kinase signaling network more elaborate and diverse than found in any known metazoan.
+kinase	10.1016/S0968-0004(02)02179-5	OK	12368087		Manning	2002	Trends Biochem Sci	N	N	Evolution of protein kinase signaling from yeast to man.
+kinase	10.1073/pnas.0803161105	OK	18599463	PMC2443182	Pincus	2008	Proc Natl Acad Sci U S A	N	Y	Evolution of the phospho-tyrosine signaling machinery in premetazoan lineages.
+kinase	10.1126/scisignal.2002733	OK	22550341		Suga	2012	Sci Signal	N	N	Genomic survey of premetazoans shows deep conservation of cytoplasmic tyrosine kinases and multiple radiations of receptor tyrosine kinases.
+myosin	10.1186/gb-2007-8-9-r196	OK	17877792	PMC2375034	Odronitz	2007	Genome Biol	Y	Y	Drawing the tree of eukaryotic life based on the analysis of 2,269 manually annotated myosins from 328 species.
+myosin	10.1093/gbe/evu013	OK	24443438	PMC3942036	Sebé-Pedrós	2014	Genome Biol Evol	Y	Y	Evolution and classification of myosins, a paneukaryotic whole-genome approach.
+myosin	10.1186/s12862-017-1056-2	OK	28870165	PMC5583752	Kollmar	2017	BMC Evol Biol	Y	Y	Myosin repertoire expansion coincides with eukaryotic diversification in the Mesoproterozoic era.
+kinesin	10.1186/1471-2148-10-110	OK	20423470	PMC2867816	Wickstead	2010	BMC Evol Biol	Y	Y	Patterns of kinesin evolution reveal a complex ancestral eukaryote with a multifunctional cytoskeleton.
+kinesin	10.1083/jcb.200408113	OK	15479732	PMC2041940	Lawrence	2004	J Cell Biol	Y	Y	A standardized kinesin nomenclature.
+dynein	10.1111/j.1600-0854.2007.00646.x	OK	17897317	PMC2239267	Wickstead	2007	Traffic	Y	Y	Dyneins across eukaryotes: a comparative genomic analysis.
+dynein	10.1093/molbev/msw213	OK	27880711	PMC5100056	Kollmar	2016	Mol Biol Evol	Y	Y	Fine-Tuning Motile Cilia and Flagella: Evolution of the Dynein Motor Proteins from Plants to Humans at High Resolution.
+globin	10.1093/molbev/msr207	OK	21965344	PMC3245541	Hoffmann	2012	Mol Biol Evol	N	Y	Whole-genome duplications spurred the functional diversification of the globin gene superfamily in vertebrates.
+globin	10.1073/pnas.1006756107	OK	20660759	PMC2922537	Hoffmann	2010	Proc Natl Acad Sci U S A	N	Y	Gene cooption and convergent evolution of oxygen transport hemoglobins in jawed and jawless vertebrates.
+globin	10.1073/pnas.0804392105	OK	18755893	PMC2529089	Opazo	2008	Proc Natl Acad Sci U S A	N	Y	Differential loss of embryonic globin genes during the radiation of placental mammals.
+globin	10.1002/iub.482	OK	21557448	PMC4399706	Storz	2011	IUBMB Life	N	Y	Phylogenetic diversification of the globin gene superfamily in chordates.
+opsin	10.1093/gbe/evw248	OK	28172965	PMC5521729	Ramirez	2016	Genome Biol Evol	Y	Y	The Last Common Ancestor of Most Bilaterian Animals Possessed at Least Nine Opsins.
+opsin	10.1073/pnas.1204609109	OK	23112152	PMC3503164	Feuda	2012	Proc Natl Acad Sci U S A	N	Y	Metazoan opsin evolution reveals a simple route to animal vision.
+opsin	10.1111/j.1365-294X.2012.05617.x	OK	22650357		Davies	2012	Mol Ecol	N	N	Molecular ecology and adaptation of visual photopigments in craniates.
+opsin	10.1186/1471-2148-13-238	OK	24180662	PMC3826523	Lagman	2013	BMC Evol Biol	Y	Y	The vertebrate ancestral repertoire of visual opsins, transducin alpha subunits and oxytocin/vasopressin receptors was established by duplication of their shared genomic region in the two rounds of early vertebrate genome duplications.
+opsin	10.1126/science.aav4632	OK	31073066	PMC6628886	Musilova	2019	Science	N	Y	Vision using multiple distinct rod opsins in deep-sea fishes.
+NR	10.1093/molbev/msh200	OK	15229292		Bertrand	2004	Mol Biol Evol	N	N	Evolutionary genomics of nuclear receptors: from twenty-five ancestral genes to derived endocrine systems.
+NR	10.1016/S0092-8674(00)80726-6	OK	10219237			1999	Cell	N	N	A unified nomenclature system for the nuclear receptor superfamily.
+NR	10.1007/s00239-004-0175-8	OK	15983867		Robinson-Rechavi	2005	J Mol Evol	N	N	Explosive lineage-specific expansion of the orphan nuclear receptor HNF4 in nematodes.
+wnt	10.1038/nature03158	OK	15650739		Kusserow	2005	Nature	N	N	Unexpected complexity of the Wnt gene family in a sea anemone.
+wnt	10.1093/molbev/msq052	OK	20176615	PMC2912473	Cho	2010	Mol Biol Evol	N	Y	Evolutionary dynamics of the wnt gene family: a lophotrochozoan perspective.
+wnt	10.1186/1471-2148-10-374	OK	21122121	PMC3003278	Janssen	2010	BMC Evol Biol	Y	Y	Conservation, loss, and redeployment of Wnt ligands in protostomes: implications for understanding the evolution of segment formation.
+tgfb	10.1186/1471-2148-9-28	OK	19192293	PMC2657120	Huminiecki	2009	BMC Evol Biol	Y	Y	Emergence, development and diversification of the TGF-beta signalling pathway within the animal kingdom.
+sox	10.1006/dbio.2000.9883	OK	11071752		Bowles	2000	Dev Biol	N	N	Phylogeny of the SOX family of developmental transcription factors based on sequence and structural indicators.
+sox	10.1371/journal.pone.0180936	OK	28738066	PMC5524304	Voldoire	2017	PLoS One	Y	Y	Expansion by whole genome duplication and evolution of the sox gene family in teleost fish.
+TF	10.1093/molbev/msn047	OK	18296413		Larroux	2008	Mol Biol Evol	N	N	Genesis and expansion of metazoan transcription factor gene classes.
+fox	10.1016/j.ygeno.2009.08.002	OK	19679177		Shimeld	2010	Genomics	N	N	Evolutionary genomics of the Fox genes: origin of gene families and the ancestry of gene clusters.
+tbox	10.1073/pnas.1309748110	OK	24043797	PMC3791752	Sebé-Pedrós	2013	Proc Natl Acad Sci U S A	N	Y	Early evolution of the T-box transcription factor family.
+bhlh	10.1186/1471-2148-7-33	OK	17335570	PMC1828162	Simionato	2007	BMC Evol Biol	Y	Y	Origin and diversification of the basic helix-loop-helix gene family in metazoans: insights from comparative genomics.
+bhlh	10.1101/gr.177001	OK	11337472	PMC311049	Ledent	2001	Genome Res	N	Y	The basic helix-loop-helix protein family: comparative genomics and phylogenetic analysis.
+TF	10.1073/pnas.1311818110	OK	24277850	PMC3864300	de Mendoza	2013	Proc Natl Acad Sci U S A	N	Y	Transcription factor evolution in eukaryotes and the assembly of the regulatory toolkit in multicellular lineages.
+tlr	10.1073/pnas.0502272102	OK	15976025		Roach	2005	Proc Natl Acad Sci U S A	N	N	The evolution of vertebrate Toll-like receptors.
+mhc	10.1007/s00251-004-0717-7	OK	15605248		Kelley	2005	Immunogenetics	N	N	Comparative genomics of major histocompatibility complexes.
+ifn	10.3389/fimmu.2017.00209	OK	28303139	PMC5332411	Secombes	2017	Front Immunol	Y	Y	Evolution of Interferons and Interferon Receptors.
+krab	10.1038/nature21683	OK	28273063		Imbeault	2017	Nature	N	N	KRAB zinc-finger proteins contribute to the evolution of gene regulatory networks.
+krab	10.1371/journal.pgen.1000325	OK	19119423	PMC2604467	Emerson	2009	PLoS Genet	Y	Y	Adaptive evolution in zinc finger transcription factors.
+krab	10.1101/gr.4842106	OK	16606702	PMC1457042	Huntley	2006	Genome Res	N	Y	A comprehensive catalog of human KRAB-associated zinc finger genes: insights into the evolutionary history of a large family of transcriptional repressors.
+krab	10.1101/gr.277722.123	OK	37730438	PMC10547255	de Tribolet-Hardy	2023	Genome Res	Y	Y	Genetic features and genomic targets of human KRAB-zinc finger proteins.
+OR	10.1371/journal.pone.0000708	OK	17684554	PMC1933591	Niimura	2007	PLoS One	Y	Y	Extensive gains and losses of olfactory receptor genes in mammalian evolution.
+OR	10.1101/gr.169532.113	OK	25053675	PMC4158756	Niimura	2014	Genome Res	Y	Y	Extreme expansion of the olfactory receptor gene repertoire in African elephants and evolutionary dynamics of orthologous gene groups in 13 placental mammals.
+P450	10.1016/j.ibmb.2020.103490	OK	33169702		Dermauw	2020	Insect Biochem Mol Biol	N	N	Diversity and evolution of the P450 family in arthropods.
+P450	10.1097/00008571-200401000-00001	OK	15128046		Nelson	2004	Pharmacogenetics	N	N	Comparison of cytochrome P450 (CYP) genes from the mouse and human genomes, including nomenclature recommendations for genes, pseudogenes and alternative-splice variants.
+P450	10.1093/gbe/evu083	OK	24751979	PMC4040991	Good	2014	Genome Biol Evol	Y	Y	The molecular evolution of cytochrome P450 genes within and between drosophila species.
+keratin	10.1093/molbev/msr269	OK	22046002		Vandebergh	2012	Mol Biol Evol	N	N	Radiation and functional diversification of alpha keratins during early vertebrate evolution.
+tubulin	10.1093/gbe/evu187	OK	25169981	PMC4202323	Findeisen	2014	Genome Biol Evol	Y	Y	Six subgroups and extensive recent duplications characterize the evolution of the eukaryotic tubulin protein family.
+rab	10.1242/jcs.101378	OK	22366452	PMC3383260	Elias	2012	J Cell Sci	N	Y	Sculpting the endomembrane system in deep time: high resolution phylogenetics of Rab GTPases.
+rab	10.1186/1741-7007-10-71	OK	22873208	PMC3425129	Klöpper	2012	BMC Biol	Y	Y	Untangling the evolution of Rab G proteins: implications of a comprehensive genomic analysis.
+rab	10.1371/journal.pcbi.1002217	OK	22022256	PMC3192815	Diekmann	2011	PLoS Comput Biol	Y	Y	Thousands of rab GTPases for the cell biologist.
+smc	10.1093/molbev/msh023	OK	14660695		Cobbe	2004	Mol Biol Evol	N	N	The evolution of SMC proteins: phylogenetic analysis and structural implications.
+mcm	10.1186/1471-2148-9-60	OK	19292915	PMC2667178	Liu	2009	BMC Evol Biol	Y	Y	Ancient diversification of eukaryotic MCM DNA replication proteins.
+aqp	10.1371/journal.pone.0113686	OK	25426855	PMC4245216	Finn	2014	PLoS One	Y	Y	The lineage-specific evolution of aquaporin gene clusters facilitated tetrapod terrestrial adaptation.
+aqp	10.1186/1471-2148-10-38	OK	20149227	PMC2829555	Tingaud-Sequeira	2010	BMC Evol Biol	Y	Y	The zebrafish genome encodes the largest vertebrate repertoire of functional aquaporins with dual paralogy and substrate specificities similar to mammals.
+nav	10.1073/pnas.1201884109	OK	22723361	PMC3386883	Zakon	2012	Proc Natl Acad Sci U S A	N	Y	Adaptive evolution of voltage-gated sodium channels: the first 800 million years.
+nav	10.1093/molbev/msq257	OK	20924084		Widmark	2011	Mol Biol Evol	N	N	Differential evolution of voltage-gated sodium channels in tetrapods and teleost fishes.
+epd	10.1186/1471-2148-7-23	OK	17302986	PMC1805737	Suárez-Castillo	2007	BMC Evol Biol	Y	Y	Molecular evolution of the ependymin protein family: a necessary update.
+bdelloid	10.1126/science.1156407	OK	18511688		Gladyshev	2008	Science	N	N	Massive horizontal gene transfer in bdelloid rotifers.
+bdelloid	10.1371/journal.pgen.1003035	OK	23166508	PMC3499245	Boschetti	2012	PLoS Genet	Y	Y	Biochemical diversification through foreign gene expression in bdelloid rotifers.
+bdelloid	10.1038/nature12326	OK	23873043		Flot	2013	Nature	N	N	Genomic evidence for ameiotic evolution in the bdelloid rotifer Adineta vaga.
+bdelloid	10.1186/s12915-015-0202-9	OK	26537913	PMC4632278	Eyres	2015	BMC Biol	Y	Y	Horizontal gene transfer in bdelloid rotifers is ancient, ongoing and more frequent in species from desiccating habitats.
+nemHGT	10.1073/pnas.1008486107	OK	20876108	PMC2955110	Danchin	2010	Proc Natl Acad Sci U S A	N	Y	Multiple lateral gene transfers and duplications have promoted plant parasitism ability in nematodes.
+nemHGT	10.1094/MPMI-03-11-0055	OK	21539433		Haegeman	2011	Mol Plant Microbe Interact	N	N	Horizontal gene transfer in nematodes: a catalyst for plant parasitism?
+nemHGT	10.1186/1471-2148-11-13	OK	21232122	PMC3032686	Mayer	2011	BMC Evol Biol	Y	Y	Horizontal gene transfer of microbial cellulases into nematode genomes is associated with functional assimilation and gene turnover.
+insHGT	10.1126/science.1187113	OK	20431015		Moran	2010	Science	N	N	Lateral transfer of genes from fungi underlies carotenoid production in aphids.
+insHGT	10.1016/j.cell.2021.02.014	OK	33770502		Xia	2021	Cell	N	N	Whitefly hijacks a plant detoxification gene that neutralizes plant toxins.
+neuropep	10.1073/pnas.1219956110	OK	23671109	PMC3670399	Mirabeau	2013	Proc Natl Acad Sci U S A	N	Y	Molecular evolution of peptidergic signaling systems in bilaterians.
+neuropep	10.1073/pnas.1221833110	OK	23637342	PMC3666674	Jékely	2013	Proc Natl Acad Sci U S A	N	Y	Global view of the evolution and diversity of metazoan neuropeptide signaling.
+salmon	10.1038/nature17164	OK	27088604	PMC8127823	Lien	2016	Nature	Y	Y	The Atlantic salmon genome provides insights into rediploidization.
+salmon	10.1038/ncomms4657	OK	24755649	PMC4071752	Berthelot	2014	Nat Commun	Y	Y	The rainbow trout genome provides novel insights into evolution after whole-genome duplication in vertebrates.
+salmon	10.1186/s13059-017-1241-z	OK	28615063	PMC5470254	Robertson	2017	Genome Biol	Y	Y	Lineage-specific rediploidization is a mechanism to explain time-lags between genome duplication and evolutionary diversification.
+xenopus	10.1038/nature19840	OK	27762356	PMC5313049	Session	2016	Nature	Y	Y	Genome evolution in the allotetraploid frog Xenopus laevis.
+ohno	10.1371/journal.pcbi.1004394	OK	26181593	PMC4504502	Singh	2015	PLoS Comput Biol	Y	Y	Identification of Ohnolog Genes Originating from Whole Genome Duplication in Early Vertebrates, Based on Synteny Comparison across Multiple Genomes.
+ohno	10.1093/nar/gkz909	OK	31612943	PMC7145513	Singh	2020	Nucleic Acids Res	Y	Y	OHNOLOGS v2: a comprehensive resource for the genes retained from whole genome duplication in vertebrates.
+ohno	10.1038/s41559-020-1156-z	OK	32313176	PMC7269912	Simakov	2020	Nat Ecol Evol	Y	Y	Deeply conserved synteny resolves early events in vertebrate evolution.
+ohno	10.1038/s41467-021-24573-z	OK	34301952	PMC8302630	Nakatani	2021	Nat Commun	Y	Y	Reconstruction of proto-vertebrate, proto-cyclostome and proto-gnathostome genomes provides new insights into early vertebrate evolution.
+gar	10.1038/ng.3526	OK	26950095	PMC4817229	Braasch	2016	Nat Genet	Y	Y	The spotted gar genome illuminates vertebrate evolution and facilitates human-teleost comparisons.
+chemo	10.1534/genetics.107.078683	OK	18039874	PMC2147975	McBride	2007	Genetics	N	Y	Five Drosophila genomes reveal nonneutral evolution and the signature of host specialization in the chemoreceptor superfamily.
+chemo	10.1093/gbe/evr033	OK	21527792	PMC3134979	Vieira	2011	Genome Biol Evol	Y	Y	Comparative genomics of the odorant-binding and chemosensory protein gene families across the Arthropoda: origin and evolutionary history of the chemosensory system.
+chemo	10.1186/1741-7007-6-42	OK	18837995	PMC2576165	Thomas	2008	BMC Biol	Y	Y	The Caenorhabditis chemoreceptor gene families.
+apobec	10.1128/jvi.01976-08	OK	18987154	PMC2612408	LaRue	2009	J Virol	N	Y	Guidelines for naming nonprimate APOBEC3 genes and proteins.
+apobec	10.1186/1471-2148-12-71	OK	22640020	PMC3495650	Münk	2012	BMC Evol Biol	Y	Y	An ancient history of gene duplications, fusions and losses in the evolution of APOBEC3 mutators in mammals.
+histone	10.1093/database/baw014	OK	26989147	PMC4795928	Draizen	2016	Database (Oxford)	Y	Y	HistoneDB 2.0: a histone database with variants--an integrated resource to explore histones and their variants.
+abc	10.1146/annurev.genom.6.080604.162122	OK	16124856		Dean	2005	Annu Rev Genomics Hum Genet	N	N	Evolution of the ATP-binding cassette (ABC) transporter superfamily in vertebrates.
+gj	10.1016/j.bbamem.2012.02.007	OK	22366062		Abascal	2013	Biochim Biophys Acta	N	N	Evolutionary analyses of gap junction protein families.
+fungkin	10.1186/1471-2164-11-133	OK	20178650	PMC2838846	Kosti	2010	BMC Genomics	Y	Y	Comparative analysis of fungal protein kinases and associated domains.
+capsa	10.1038/ncomms3325	OK	23942320	PMC3753549	Suga	2013	Nat Commun	Y	Y	The Capsaspora genome reveals a complex unicellular prehistory of animals.
+candida	10.1038/nature08064	OK	19465905	PMC2834264	Butler	2009	Nature	Y	Y	Evolution of pathogenicity and sexual reproduction in eight Candida genomes.
+cgob	10.1093/molbev/mst042	OK	23486613	PMC3649674	Maguire	2013	Mol Biol Evol	Y	Y	Comparative genome analysis and gene finding in Candida species using CGOB.
+ils	10.1101/gr.123901.111	OK	22271778	PMC3317157	Rasmussen	2012	Genome Res	N	Y	Unified modeling of gene duplication, loss, and coalescence using a locus tree.
+dmel_imm	10.1038/ng.2007.60	OK	17987029		Sackton	2007	Nat Genet	N	N	Dynamic evolution of the innate immune system in Drosophila.
+chemokine	10.1111/gtc.12013	OK	23145839	PMC3568907	Nomiyama	2013	Genes Cells	Y	Y	Systematic classification of vertebrate chemokines based on conserved synteny and evolutionary history.
+sh2	10.1016/j.molcel.2006.06.001	OK	16793553		Liu	2006	Mol Cell	N	N	The human and mouse complement of SH2 domain proteins-establishing the boundaries of phosphotyrosine signaling.
+nemubq	10.1101/gr.5089806	OK	16825662	PMC1524861	Thomas	2006	Genome Res	N	Y	Adaptive evolution in two large families of ubiquitin-ligase adapters in nematodes and plants.
+fungHGT	10.1111/j.1574-6968.2011.02465.x	OK	22112233		Fitzpatrick	2012	FEMS Microbiol Lett	N	N	Horizontal gene transfer in fungi.
+GAL	10.1038/nature06151	OK	17928853		Hittinger	2007	Nature	N	N	Gene duplication and the adaptive evolution of a classic genetic switch.
+salmon	10.1093/molbev/msab310	OK	34718723	PMC8760942	Gundappa	2022	Mol Biol Evol	Y	Y	Genome-Wide Reconstruction of Rediploidization Following Autopolyploidization across One Hundred Million Years of Salmonid Evolution.
+opsin	10.1016/j.visres.2023.108204	OK	36868011		Musilova	2023	Vision Res	N	N	The evolution of the green-light-sensitive visual opsin genes (RH2) in teleost fishes.
+sox	10.1016/j.gene.2015.09.013	OK	26361847		Heenan	2016	Gene	N	N	Evolution of the Sox gene family within the chordate phylum.
+micro	10.1093/molbev/msh130	OK	15034136		Inagaki	2004	Mol Biol Evol	N	N	Covarion shifts cause a long-branch attraction artifact that unites microsporidia and archaebacteria in EF-1alpha phylogenies.
+ils	10.1371/journal.pgen.0020173	OK	17132051	PMC1626107	Pollard	2006	PLoS Genet	Y	Y	Widespread discordance of gene trees with species tree in Drosophila: evidence for incomplete lineage sorting.
+ils	10.1038/nature10842	OK	22398555	PMC3303130	Scally	2012	Nature	Y	Y	Insights into hominid evolution from the gorilla genome sequence.
+hydrophobin	10.1101/2022.08.19.504535	OK			Lovett	2022		N	N	Ecology drives the observed spectrum of hydrophobin protein diversity across Kingdom Fungi

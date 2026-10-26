@@ -8,3 +8,5 @@ runs/*/work/
 __pycache__/
 .nextflow*
 requested/*.pdf
+literature/raw/B1/**/*.pdf
+literature/raw/B1/supp/
