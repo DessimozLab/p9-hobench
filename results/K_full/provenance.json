@@ -1,6 +1,6 @@
 {
  "hobench_git": {
-  "commit": "86b9ad7ec5a43062d6e8014d9e0616d04ba96de7",
+  "commit": "7149dd29c62807006298ecae4d76857457ec4af3",
   "dirty": true
  },
  "script": "scripts/evaluate_panel.py",
@@ -8,11 +8,12 @@
  "mode": "full",
  "panel_tree_sha256": "7c58fe825de5951ee839f92d7d1aa99510265d56d8259b8d356bd43d2ed1c6ad",
  "panel_species_tsv_sha256": "58f0358bf34a2c9f00be1b36de7062233082a6631ac766a743c45031c9e49d43",
- "families_tree_hash": "a62dac6b19893a431ee0df2c61c1bcb423d3f77fcc4800fcdb76a3e8b735ed64",
+ "families_tree_hash": "aeea5fbf3546856326c6dc01fb3ccf187c1eac7374685eecfe7e7be3703a3353",
  "families_manifest_present": false,
  "families_manifest_differences": null,
  "n_families": 51,
  "n_non_headline": 4,
+ "n_control_track": 41,
  "seeds_relabel": [
   20261026,
   314159,
@@ -76,7 +77,8 @@
    "manifest_git_commit": "2bbcc702b5650af8fe4a266562bd97b0e3b99928",
    "prediction_meta": {
     "format": "tsv",
-    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/K/full/of_flat_default/hogs.tsv.gz"
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/K/full/of_flat_default/hogs.tsv.gz",
+    "flat": true
    },
    "n_warnings": 0,
    "nesting_problems": 0,
@@ -89,7 +91,8 @@
    "manifest_git_commit": "2bbcc702b5650af8fe4a266562bd97b0e3b99928",
    "prediction_meta": {
     "format": "tsv",
-    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/K/full/of_flat_dendroblast/hogs.tsv.gz"
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/K/full/of_flat_dendroblast/hogs.tsv.gz",
+    "flat": true
    },
    "n_warnings": 0,
    "nesting_problems": 0,

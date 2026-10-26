@@ -184,8 +184,22 @@ Every module docstring states its semantics.
   - "Collapsed duplications" in the dose-response control.
   - Myr-based tolerance (B12). This is COULD.
 
+### Errata after the Y/K vertical slice (v0.2.1; numbers in results/ERRATA.md)
+- **E1 — event testability.** On YGOB, all-singletons and random relabelling scored 0.86 event recovery, higher
+  than both tools. The cause: many WGD events have an unbounded cross-copy interval (root duplication, upper bound ∞)
+  *and* single-gene copies, so cohesion is vacuous and never-merging trivially "recovers" them. The new rule depends
+  on the reference only: an event is *testable* iff its merge upper bound is finite and within the family level, or
+  at least one copy has a reference-together pair at the duplication level. Recovery rates (`recovery_rate_*`,
+  `events_by_tag`) use testable events only. `events_untestable` counts the rest. Per-event rows carry `testable`.
+- **E2 — flat baseline projection.** A flat partition (OrthoFinder orthogroups at the root, "of_flat") was read as
+  HOGs at the root level only, so it behaved like singletons below the root. `read_tsv(flat=True)` (CLI `--flat`,
+  used for of_flat in `scripts/evaluate_panel.py`) now projects each group to every level ≤ its row level. The
+  projection is the group restricted to that clade's species, with ids `<hog>@<level>`. This reading assumes no
+  duplications.
+
 ### Change log
 - v0.1: initial package. It used pyHam-late duplication placement, name-based level mapping, lenient parsers, exact
   merge levels with a ∞ collapse at the family root, `split_excess`, and an unpaired bootstrap.
 - v0.2: review round 1, as described above. The signed-error labels in core_spec.md were corrected: + means
   over-split.
+- v0.2.1: errata E1 (testable events) and E2 (flat projection).
