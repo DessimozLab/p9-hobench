@@ -317,6 +317,11 @@ def norm_seq(s: str) -> str:
     return re.sub(r"[^A-Za-z]", "", str(s)).upper().rstrip("*")
 
 
+def _qid(q: str) -> str:
+    """FASTA-safe query id (DIAMOND truncates at whitespace)."""
+    return re.sub(r"\s+", "_", q)
+
+
 def seqmap(code: str, queries: dict[str, str], cache_tsv: Path, min_id: float = 98.0, min_cov: float = 0.8,
            margin: float = 2.0) -> dict[str, dict]:
     """Same-species sequence cross-reference of {qid: seq} onto panel proteome ``code``.
@@ -347,7 +352,7 @@ def seqmap(code: str, queries: dict[str, str], cache_tsv: Path, min_id: float = 
         import tempfile
         with tempfile.TemporaryDirectory() as td:
             qf = Path(td) / "q.fa"
-            qf.write_text("".join(f">{q}\n{s}\n" for q, s in todo.items()))
+            qf.write_text("".join(f">{_qid(q)}\n{s}\n" for q, s in todo.items()))
             tf = ROOT / species_table()[code]["fasta_path"]
             db = Path(td) / "t"
             _sp.run([DIAMOND, "makedb", "--in", str(tf), "-d", str(db), "--quiet"], check=True)
@@ -357,11 +362,12 @@ def seqmap(code: str, queries: dict[str, str], cache_tsv: Path, min_id: float = 
                      "-k", "10", "--quiet", "--outfmt", *fmt], check=True)
             # reciprocal: best target -> query set
             _os.replace(str(cache_tsv) + ".tmp", cache_tsv)
+    back = {_qid(q): q for q in todo}
     hits: dict[str, list] = {}
     with open(cache_tsv) as fh:
         for line in fh:
             f = line.rstrip("\n").split("\t")
-            q, t = f[0], f[1]
+            q, t = back.get(f[0], f[0]), f[1]
             pid, qlen, slen = float(f[2]), int(f[4]), int(f[5])
             qcov = (int(f[7]) - int(f[6]) + 1) / qlen
             tcov = (int(f[9]) - int(f[8]) + 1) / slen

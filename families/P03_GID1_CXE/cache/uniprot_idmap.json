@@ -1,0 +1,34 @@
+{
+ "uniprot|XP_002972972": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "XP_002972972",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|XP_002978838": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "XP_002978838",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ]
+}

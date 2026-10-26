@@ -1,0 +1,6 @@
+assertion_id	type	target	tier	source_id	locator	quote
+P03_A1	event	D_GID1_origin	T1	Yoshida2018	Introduction	Previous studies have indicated that GID1 appeared after the divergence of vascular plants from the moss lineage as no GID1 homologs are found in Physcomitrella mosses or the liverwort Marchantia polymorpha
+P03_A2	event	D_GID1_origin	T1	Yoshida2018	Results, Establishment of GID1 from CXEs	confirming that GID1 was derived from one specific CXE group
+P03_A3	event	D_GID1_AB	T1	Yoshida2018	Discussion	Core eudicots, with a few exceptions, generally contain a set of A- and B-type GIDs, indicating that diversification of GID1 into A- and B-types occurred just before or after the establishment of core eudicots.
+P03_A4	event	S_GID1_Magnoliopsida	T2	Yoshida2018	Results, Diversification of GID1 in Angiosperms	all gymnosperms studied and Amborella trichopoda, the earliest angiosperm, have one gene copy
+P03_A5	event	S_GID1_Mesangiospermae	T2	Yoshida2018	Results, Diversification of GID1 in Angiosperms	Thus, the default copy number in the early stage of seed plants might have been one.

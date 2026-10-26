@@ -1,0 +1,260 @@
+original_id	species	label	gene_id	status	reason	locator	source
+EcCXE1	Escherichia coli	CXE		not_in_panel	species not in panel P	Dataset S2 row 3	Yoshida2018
+EcCXE2	Escherichia coli	CXE		not_in_panel	species not in panel P	Dataset S2 row 4	Yoshida2018
+Actinidia_chinensis_GID1a	Actinidia chinensis	GID1		not_in_panel	species not in panel P	Dataset S2 row 93	Yoshida2018
+Actinidia_chinensis_GID1b	Actinidia chinensis	GID1		not_in_panel	species not in panel P	Dataset S2 row 94	Yoshida2018
+Aquilegia coerulea_GID1a	Aquilegia coerulea	GID1		not_in_panel	species not in panel P	Dataset S2 row 95	Yoshida2018
+Arabidopsis lyrata_GID1a-1	Arabidopsis lyrata	GID1		not_in_panel	species not in panel P	Dataset S2 row 96	Yoshida2018
+Arabidopsis lyrata_GID1a-2	Arabidopsis lyrata	GID1		not_in_panel	species not in panel P	Dataset S2 row 97	Yoshida2018
+Arabidopsis lyrata_GID1b-1	Arabidopsis lyrata	GID1		not_in_panel	species not in panel P	Dataset S2 row 98	Yoshida2018
+Beta_vulgaris_GID1a	Beta vulgaris	GID1		not_in_panel	species not in panel P	Dataset S2 row 102	Yoshida2018
+Beta_vulgaris_GID1b	Beta vulgaris	GID1		not_in_panel	species not in panel P	Dataset S2 row 103	Yoshida2018
+Boechera stricta_GID1a-1	Boechera stricta	GID1		not_in_panel	species not in panel P	Dataset S2 row 104	Yoshida2018
+Boechera stricta_GID1a-2	Boechera stricta	GID1		not_in_panel	species not in panel P	Dataset S2 row 105	Yoshida2018
+Boechera stricta_GID1b	Boechera stricta	GID1		not_in_panel	species not in panel P	Dataset S2 row 106	Yoshida2018
+Brassica_napus_GID1a-1	Brassica napus	GID1		not_in_panel	species not in panel P	Dataset S2 row 107	Yoshida2018
+Brassica_napus_GID1a-2	Brassica napus	GID1		not_in_panel	species not in panel P	Dataset S2 row 108	Yoshida2018
+Brassica_napus_GID1a-3	Brassica napus	GID1		not_in_panel	species not in panel P	Dataset S2 row 109	Yoshida2018
+Brassica_napus_GID1a-4	Brassica napus	GID1		not_in_panel	species not in panel P	Dataset S2 row 110	Yoshida2018
+Brassica_napus_GID1b-1	Brassica napus	GID1		not_in_panel	species not in panel P	Dataset S2 row 111	Yoshida2018
+Brassica_napus_GID1b-2	Brassica napus	GID1		not_in_panel	species not in panel P	Dataset S2 row 112	Yoshida2018
+Brassica_napus_GID1b-3	Brassica napus	GID1		not_in_panel	species not in panel P	Dataset S2 row 113	Yoshida2018
+Brassica_napus_GID1b-4	Brassica napus	GID1		not_in_panel	species not in panel P	Dataset S2 row 114	Yoshida2018
+Brassica_napus_GID1b-5	Brassica napus	GID1		not_in_panel	species not in panel P	Dataset S2 row 115	Yoshida2018
+Brassica_napus_GID1b-6	Brassica napus	GID1		not_in_panel	species not in panel P	Dataset S2 row 116	Yoshida2018
+Cannabis_sativa_GID1a	Cannabis sativa	GID1		not_in_panel	species not in panel P	Dataset S2 row 117	Yoshida2018
+Cannabis_sativa_GID1b	Cannabis sativa	GID1		not_in_panel	species not in panel P	Dataset S2 row 118	Yoshida2018
+Capsella grandiflora_GID1a	Capsella grandiflora	GID1		not_in_panel	species not in panel P	Dataset S2 row 119	Yoshida2018
+Capsella grandiflora_GID1b	Capsella grandiflora	GID1		not_in_panel	species not in panel P	Dataset S2 row 120	Yoshida2018
+Capsella rubella_GID1a	Capsella rubella	GID1		not_in_panel	species not in panel P	Dataset S2 row 121	Yoshida2018
+Capsella rubella_GID1b	Capsella rubella	GID1		not_in_panel	species not in panel P	Dataset S2 row 122	Yoshida2018
+Carica papaya_GID1a	Carica papaya	GID1		not_in_panel	species not in panel P	Dataset S2 row 123	Yoshida2018
+Carica papaya_GID1b	Carica papaya	GID1		not_in_panel	species not in panel P	Dataset S2 row 124	Yoshida2018
+Citrus sinensis_GID1a	Citrus sinensis	GID1		not_in_panel	species not in panel P	Dataset S2 row 125	Yoshida2018
+Citrus sinensis_GID1b	Citrus sinensis	GID1		not_in_panel	species not in panel P	Dataset S2 row 126	Yoshida2018
+Coffea_canephora_GID1a	Coffea canephora	GID1		not_in_panel	species not in panel P	Dataset S2 row 127	Yoshida2018
+Coffea_canephora_GID1b	Coffea canephora	GID1		not_in_panel	species not in panel P	Dataset S2 row 128	Yoshida2018
+Cucumis sativus_GID1a	Cucumis sativus	GID1		not_in_panel	species not in panel P	Dataset S2 row 129	Yoshida2018
+Cucumis sativus_GID1b	Cucumis sativus	GID1		not_in_panel	species not in panel P	Dataset S2 row 130	Yoshida2018
+Eucalyptus grandis_GID1a	Eucalyptus grandis	GID1		not_in_panel	species not in panel P	Dataset S2 row 131	Yoshida2018
+Eucalyptus grandis_GID1b-1	Eucalyptus grandis	GID1		not_in_panel	species not in panel P	Dataset S2 row 132	Yoshida2018
+Eucalyptus grandis_GID1b-2	Eucalyptus grandis	GID1		not_in_panel	species not in panel P	Dataset S2 row 133	Yoshida2018
+Eutrema salsugineum_GID1a-1	Eutrema salsugineum	GID1		not_in_panel	species not in panel P	Dataset S2 row 134	Yoshida2018
+Eutrema salsugineum_GID1a-2	Eutrema salsugineum	GID1		not_in_panel	species not in panel P	Dataset S2 row 135	Yoshida2018
+Eutrema salsugineum_GID1b	Eutrema salsugineum	GID1		not_in_panel	species not in panel P	Dataset S2 row 136	Yoshida2018
+Fraxinus_excelsior_GID1b-1	Fraxinus excelsior	GID1		not_in_panel	species not in panel P	Dataset S2 row 137	Yoshida2018
+Fraxinus_excelsior_GID1b-2	Fraxinus excelsior	GID1		not_in_panel	species not in panel P	Dataset S2 row 138	Yoshida2018
+Fraxinus_excelsior_GID1b-3	Fraxinus excelsior	GID1		not_in_panel	species not in panel P	Dataset S2 row 139	Yoshida2018
+Fraxinus_excelsior_GID1b-4	Fraxinus excelsior	GID1		not_in_panel	species not in panel P	Dataset S2 row 140	Yoshida2018
+Fraxinus_excelsior_GID1b-5	Fraxinus excelsior	GID1		not_in_panel	species not in panel P	Dataset S2 row 141	Yoshida2018
+Fragaria vesca_GID1a	Fragaria vesca	GID1		not_in_panel	species not in panel P	Dataset S2 row 142	Yoshida2018
+Fragaria vesca_GID1b-1	Fragaria vesca	GID1		not_in_panel	species not in panel P	Dataset S2 row 143	Yoshida2018
+Fragaria vesca_GID1b-2	Fragaria vesca	GID1		not_in_panel	species not in panel P	Dataset S2 row 144	Yoshida2018
+Genlisea_aurea_GID1b-1	Genlisea aurea	GID1		not_in_panel	species not in panel P	Dataset S2 row 145	Yoshida2018
+Genlisea_aurea_GID1b-2	Genlisea aurea	GID1		not_in_panel	species not in panel P	Dataset S2 row 146	Yoshida2018
+Gossypium hirsutum_GID1a-1	Gossypium hirsutum	GID1		not_in_panel	species not in panel P	Dataset S2 row 152	Yoshida2018
+Gossypium hirsutum_GID1a-2	Gossypium hirsutum	GID1		not_in_panel	species not in panel P	Dataset S2 row 153	Yoshida2018
+Gossypium hirsutum_GID1a-3	Gossypium hirsutum	GID1		not_in_panel	species not in panel P	Dataset S2 row 154	Yoshida2018
+Gossypium hirsutum_GID1b-1	Gossypium hirsutum	GID1		not_in_panel	species not in panel P	Dataset S2 row 155	Yoshida2018
+Gossypium hirsutum_GID1b-2	Gossypium hirsutum	GID1		not_in_panel	species not in panel P	Dataset S2 row 156	Yoshida2018
+Gossypium hirsutum_GID1b-3	Gossypium hirsutum	GID1		not_in_panel	species not in panel P	Dataset S2 row 157	Yoshida2018
+Helianthus_annuus_GID1a	Helianthus annuus	GID1		not_in_panel	species not in panel P	Dataset S2 row 158	Yoshida2018
+Helianthus_annuus_GID1b-1	Helianthus annuus	GID1		not_in_panel	species not in panel P	Dataset S2 row 159	Yoshida2018
+Helianthus_annuus_GID1b-2	Helianthus annuus	GID1		not_in_panel	species not in panel P	Dataset S2 row 160	Yoshida2018
+Humulus_lupulus_GID1a	Humulus lupulus	GID1		not_in_panel	species not in panel P	Dataset S2 row 161	Yoshida2018
+Humulus_lupulus_GID1b	Humulus lupulus	GID1		not_in_panel	species not in panel P	Dataset S2 row 162	Yoshida2018
+Kalanchoe_laxiflora_GID1b-1	Kalanchoe laxiflora	GID1		not_in_panel	species not in panel P	Dataset S2 row 163	Yoshida2018
+Kalanchoe_laxiflora_GID1b-2	Kalanchoe laxiflora	GID1		not_in_panel	species not in panel P	Dataset S2 row 164	Yoshida2018
+Kalanchoe_laxiflora_GID1b-3	Kalanchoe laxiflora	GID1		not_in_panel	species not in panel P	Dataset S2 row 165	Yoshida2018
+Kalanchoe_laxiflora_GID1b-4	Kalanchoe laxiflora	GID1		not_in_panel	species not in panel P	Dataset S2 row 166	Yoshida2018
+Kalanchoe_laxiflora_GID1b-5	Kalanchoe laxiflora	GID1		not_in_panel	species not in panel P	Dataset S2 row 167	Yoshida2018
+Kalanchoe_laxiflora_GID1b-6	Kalanchoe laxiflora	GID1		not_in_panel	species not in panel P	Dataset S2 row 168	Yoshida2018
+Lactuca sativa_GID1a	Lactuca sativa	GID1		not_in_panel	species not in panel P	Dataset S2 row 169	Yoshida2018
+Lactuca sativa_GID1b-1	Lactuca sativa	GID1		not_in_panel	species not in panel P	Dataset S2 row 170	Yoshida2018
+Lactuca sativa_GID1b-2	Lactuca sativa	GID1		not_in_panel	species not in panel P	Dataset S2 row 171	Yoshida2018
+Linum usitatissimum_GID1a-1	Linum usitatissimum	GID1		not_in_panel	species not in panel P	Dataset S2 row 172	Yoshida2018
+Linum usitatissimum_GID1a-2	Linum usitatissimum	GID1		not_in_panel	species not in panel P	Dataset S2 row 173	Yoshida2018
+Linum usitatissimum_GID1b	Linum usitatissimum	GID1		not_in_panel	species not in panel P	Dataset S2 row 174	Yoshida2018
+Lotus_japonicus_GID1a	Lotus japonicus	GID1		not_in_panel	species not in panel P	Dataset S2 row 175	Yoshida2018
+Lotus_japonicus_GID1b-1	Lotus japonicus	GID1		not_in_panel	species not in panel P	Dataset S2 row 176	Yoshida2018
+Lotus_japonicus_GID1b-2	Lotus japonicus	GID1		not_in_panel	species not in panel P	Dataset S2 row 177	Yoshida2018
+Malus domestica_GID1a-1	Malus domestica	GID1		not_in_panel	species not in panel P	Dataset S2 row 178	Yoshida2018
+Malus domestica_GID1a-2	Malus domestica	GID1		not_in_panel	species not in panel P	Dataset S2 row 179	Yoshida2018
+Malus domestica_GID1b-1	Malus domestica	GID1		not_in_panel	species not in panel P	Dataset S2 row 180	Yoshida2018
+Malus domestica_GID1b-2	Malus domestica	GID1		not_in_panel	species not in panel P	Dataset S2 row 181	Yoshida2018
+Manihot esculenta_GID1a-1	Manihot esculenta	GID1		not_in_panel	species not in panel P	Dataset S2 row 182	Yoshida2018
+Manihot esculenta_GID1a-2	Manihot esculenta	GID1		not_in_panel	species not in panel P	Dataset S2 row 183	Yoshida2018
+Manihot esculenta_GID1b-1	Manihot esculenta	GID1		not_in_panel	species not in panel P	Dataset S2 row 184	Yoshida2018
+Manihot esculenta_GID1b-2	Manihot esculenta	GID1		not_in_panel	species not in panel P	Dataset S2 row 185	Yoshida2018
+Medicago truncatula_GID1a	Medicago truncatula	GID1		not_in_panel	species not in panel P	Dataset S2 row 186	Yoshida2018
+Medicago truncatula_GID1b-1	Medicago truncatula	GID1		not_in_panel	species not in panel P	Dataset S2 row 187	Yoshida2018
+Medicago truncatula_GID1b-2	Medicago truncatula	GID1		not_in_panel	species not in panel P	Dataset S2 row 188	Yoshida2018
+Mimulus guttatus_GID1b-1	Mimulus guttatus	GID1		not_in_panel	species not in panel P	Dataset S2 row 189	Yoshida2018
+Mimulus guttatus_GID1b-2	Mimulus guttatus	GID1		not_in_panel	species not in panel P	Dataset S2 row 190	Yoshida2018
+Nelumbo_nucifera_GID1a-1	Nelumbo nucifera	GID1		not_in_panel	species not in panel P	Dataset S2 row 191	Yoshida2018
+Nelumbo_nucifera_GID1a-2	Nelumbo nucifera	GID1		not_in_panel	species not in panel P	Dataset S2 row 192	Yoshida2018
+Ocimum_basilicum_GID1b_1	Ocimum basilicum	GID1		not_in_panel	species not in panel P	Dataset S2 row 193	Yoshida2018
+Ocimum_basilicum_GID1b_2	Ocimum basilicum	GID1		not_in_panel	species not in panel P	Dataset S2 row 194	Yoshida2018
+Ocimum_basilicum_GID1b_3	Ocimum basilicum	GID1		not_in_panel	species not in panel P	Dataset S2 row 195	Yoshida2018
+Ocimum_basilicum_GID1b_4	Ocimum basilicum	GID1		not_in_panel	species not in panel P	Dataset S2 row 196	Yoshida2018
+Ocimum_basilicum_GID1b_5	Ocimum basilicum	GID1		not_in_panel	species not in panel P	Dataset S2 row 197	Yoshida2018
+Pisum_sativum_GID1a	Pisum sativum	GID1		not_in_panel	species not in panel P	Dataset S2 row 201	Yoshida2018
+Pisum_sativum_GID1b	Pisum sativum	GID1		not_in_panel	species not in panel P	Dataset S2 row 202	Yoshida2018
+Populus_trichocarpa_GID1a-1	Populus trichocarpa	GID1		not_in_panel	species not in panel P	Dataset S2 row 203	Yoshida2018
+Populus_trichocarpa_GID1a-2	Populus trichocarpa	GID1		not_in_panel	species not in panel P	Dataset S2 row 204	Yoshida2018
+Populus_trichocarpa_GID1b-1	Populus trichocarpa	GID1		not_in_panel	species not in panel P	Dataset S2 row 205	Yoshida2018
+Populus_trichocarpa_GID1b-2	Populus trichocarpa	GID1		not_in_panel	species not in panel P	Dataset S2 row 206	Yoshida2018
+Prunus_persica_GID1a	Prunus persica	GID1		not_in_panel	species not in panel P	Dataset S2 row 207	Yoshida2018
+Prunus persica_GID1b-1	Prunus persica	GID1		not_in_panel	species not in panel P	Dataset S2 row 208	Yoshida2018
+Ricinus_communis_GID1a	Ricinus communis	GID1		not_in_panel	species not in panel P	Dataset S2 row 209	Yoshida2018
+Ricinus communis_GID1b	Ricinus communis	GID1		not_in_panel	species not in panel P	Dataset S2 row 210	Yoshida2018
+Sesamum_indicum_GID1b-1	Sesamum indicum	GID1		not_in_panel	species not in panel P	Dataset S2 row 211	Yoshida2018
+Sesamum_indicum_GID1b-2	Sesamum indicum	GID1		not_in_panel	species not in panel P	Dataset S2 row 212	Yoshida2018
+Solanum_lycopersicum _GID1a	Solanum lycopersicum	GID1		not_in_panel	species not in panel P	Dataset S2 row 213	Yoshida2018
+Solanum_lycopersicum _GID1b-1	Solanum lycopersicum	GID1		not_in_panel	species not in panel P	Dataset S2 row 214	Yoshida2018
+Solanum_lycopersicum _GID1b-2	Solanum lycopersicum	GID1		not_in_panel	species not in panel P	Dataset S2 row 215	Yoshida2018
+Solanum_tuberosum_GID1a	Solanum tuberosum	GID1		not_in_panel	species not in panel P	Dataset S2 row 216	Yoshida2018
+Solanum tuberosum_GID1b-1	Solanum tuberosum	GID1		not_in_panel	species not in panel P	Dataset S2 row 217	Yoshida2018
+Solanum tuberosum_GID1b-2	Solanum tuberosum	GID1		not_in_panel	species not in panel P	Dataset S2 row 218	Yoshida2018
+Theobroma_cacao_GID1a	Theobroma cacao	GID1		not_in_panel	species not in panel P	Dataset S2 row 219	Yoshida2018
+Theobroma_cacao_GID1b	Theobroma cacao	GID1		not_in_panel	species not in panel P	Dataset S2 row 220	Yoshida2018
+Utricularia_gibba_GID1b-1	Utricularia gibba	GID1		not_in_panel	species not in panel P	Dataset S2 row 221	Yoshida2018
+Utricularia_gibba_GID1b-2	Utricularia gibba	GID1		not_in_panel	species not in panel P	Dataset S2 row 222	Yoshida2018
+Utricularia_gibba_GID1b-3	Utricularia gibba	GID1		not_in_panel	species not in panel P	Dataset S2 row 223	Yoshida2018
+Vaccinium_macrocarpon_GID1a	Vaccinium macrocarpon	GID1		not_in_panel	species not in panel P	Dataset S2 row 224	Yoshida2018
+Vaccinium_macrocarpon_GID1b	Vaccinium macrocarpon	GID1		not_in_panel	species not in panel P	Dataset S2 row 225	Yoshida2018
+Brachypodium distachyon_GID1	Brachypodium distachyon	GID1		not_in_panel	species not in panel P	Dataset S2 row 228	Yoshida2018
+Hordeum vulgare_GID1	Hordeum vulgare	GID1		not_in_panel	species not in panel P	Dataset S2 row 229	Yoshida2018
+Musa_acuminata_GID1-1	Musa acuminata	GID1		not_in_panel	species not in panel P	Dataset S2 row 230	Yoshida2018
+Musa_acuminata_GID1-2	Musa acuminata	GID1		not_in_panel	species not in panel P	Dataset S2 row 231	Yoshida2018
+Musa_acuminata_GID1-3	Musa acuminata	GID1		not_in_panel	species not in panel P	Dataset S2 row 232	Yoshida2018
+Musa_acuminata_GID1-4	Musa acuminata	GID1		not_in_panel	species not in panel P	Dataset S2 row 233	Yoshida2018
+Musa_acuminata_GID1-5	Musa acuminata	GID1		not_in_panel	species not in panel P	Dataset S2 row 234	Yoshida2018
+Musa_acuminata_GID1-6	Musa acuminata	GID1		not_in_panel	species not in panel P	Dataset S2 row 235	Yoshida2018
+Panicum hallii_GID1	Panicum hallii	GID1		not_in_panel	species not in panel P	Dataset S2 row 237	Yoshida2018
+Panicum virgatum_GID1	Panicum virgatum	GID1		not_in_panel	species not in panel P	Dataset S2 row 238	Yoshida2018
+Phalaenopsis_aphrodite_GID1-1	Phalaenopsis aphrodite	GID1		not_in_panel	species not in panel P	Dataset S2 row 239	Yoshida2018
+Phalaenopsis_aphrodite_GID1-2	Phalaenopsis aphrodite	GID1		not_in_panel	species not in panel P	Dataset S2 row 240	Yoshida2018
+Phoenix_dactylifera_GID1-1	Phoenix dactylifera	GID1		not_in_panel	species not in panel P	Dataset S2 row 241	Yoshida2018
+Phoenix_dactylifera_GID1-2	Phoenix dactylifera	GID1		not_in_panel	species not in panel P	Dataset S2 row 242	Yoshida2018
+Setaria italica_GID1	Setaria italica	GID1		not_in_panel	species not in panel P	Dataset S2 row 243	Yoshida2018
+Sorghum bicolor_GID1	Sorghum bicolor	GID1		not_in_panel	species not in panel P	Dataset S2 row 244	Yoshida2018
+Spirodela polyrhiza_GID1	Spirodela polyrhiza	GID1		not_in_panel	species not in panel P	Dataset S2 row 245	Yoshida2018
+Triticum aestivum_GID1_1	Triticum aestivum	GID1		not_in_panel	species not in panel P	Dataset S2 row 246	Yoshida2018
+Triticum aestivum_GID1_2	Triticum aestivum	GID1		not_in_panel	species not in panel P	Dataset S2 row 247	Yoshida2018
+Triticum aestivum_GID1_3	Triticum aestivum	GID1		not_in_panel	species not in panel P	Dataset S2 row 248	Yoshida2018
+Triticum aestivum_GID1_4	Triticum aestivum	GID1		not_in_panel	species not in panel P	Dataset S2 row 249	Yoshida2018
+Picea abies_GID1	Picea abies	GID1		not_in_panel	species not in panel P	Dataset S2 row 253	Yoshida2018
+Picea sitchensis_GID1	Picea sitchensis	GID1		not_in_panel	species not in panel P	Dataset S2 row 254	Yoshida2018
+Pinus taeda_GID1	Pinus taeda	GID1		not_in_panel	species not in panel P	Dataset S2 row 255	Yoshida2018
+Pteridium aquilinum_GID1	Pteridium aquilinum	GID1		not_in_panel	species not in panel P	Dataset S2 row 256	Yoshida2018
+Lygodium japonicum_GID1-1	Lygodium japonicum	GID1		not_in_panel	species not in panel P	Dataset S2 row 257	Yoshida2018
+Lygodium japonicum_GID1-2	Lygodium japonicum	GID1		not_in_panel	species not in panel P	Dataset S2 row 258	Yoshida2018
+Selaginella kraussiana_GID1	Selaginella kraussiana	GID1		not_in_panel	species not in panel P	Dataset S2 row 261	Yoshida2018
+PpGID1L-1	PHYPA	CXE_GID1-like	A0A7I4D8E6	mapped	sequence_exact: identical sequence	Dataset S2 row 5	Yoshida2018
+PpGID1L-2	PHYPA	CXE_GID1-like	A0A7I4ALL0	mapped	sequence_unique: RBH, thresholds met; margin 26.4	Dataset S2 row 6	Yoshida2018
+PpCXE1	PHYPA	CXE	A0A7I4F162	mapped	sequence_unique: RBH, thresholds met; margin 25.3	Dataset S2 row 7	Yoshida2018
+PpCXE2	PHYPA	CXE		unmapped	sequence: unmapped (identity 90.3<98.0); locus 'Pp3c18_20160V3.3' ([]) gives no panel hit 	Dataset S2 row 8	Yoshida2018
+PpCXE3	PHYPA	CXE	A0A7I4DPU3	mapped	sequence_exact: identical sequence	Dataset S2 row 9	Yoshida2018
+PpCXE4	PHYPA	CXE	A9U4V6	mapped	sequence_exact: identical sequence	Dataset S2 row 10	Yoshida2018
+SmGID1L-1	SELMO	CXE_GID1-like	D8SBA2	mapped	sequence_unique: RBH, thresholds met; margin 60.5	Dataset S2 row 11	Yoshida2018
+SmCXE1	SELMO	CXE	D8RB57	mapped	sequence_exact: identical sequence	Dataset S2 row 12	Yoshida2018
+SmCXE2	SELMO	CXE	D8RWM4	mapped	sequence_exact: identical sequence	Dataset S2 row 13	Yoshida2018
+SmCXE3	SELMO	CXE	D8RB62	mapped	sequence_exact: identical sequence	Dataset S2 row 14	Yoshida2018
+SmCXE4	SELMO	CXE	D8SVY3	mapped	exact_id: exact identifier mapping 126328 via ['SELMODRAFT_126328'] -> D8SVY3 (single panel hit) ; sequence: ambiguous (margin 1.0<2.0 over runner-up)	Dataset S2 row 15	Yoshida2018
+SmCXE5	SELMO	CXE	D8RAV6	mapped	sequence_exact: identical sequence	Dataset S2 row 16	Yoshida2018
+SmCXE6	SELMO	CXE	D8R003	mapped	sequence_exact: identical sequence	Dataset S2 row 17	Yoshida2018
+SmCXE7	SELMO	CXE	D8RB67	mapped	sequence_exact: identical sequence	Dataset S2 row 18	Yoshida2018
+SmCXE8	SELMO	CXE	D8RTA2	mapped	sequence_exact: identical sequence	Dataset S2 row 19	Yoshida2018
+SmCXE9	SELMO	CXE	D8TAV1	mapped	sequence_exact: identical sequence	Dataset S2 row 20	Yoshida2018
+SmCXE10	SELMO	CXE	D8RB66	mapped	exact_id: exact identifier mapping 89834 via ['SELMODRAFT_89834'] -> D8RB66 (single panel hit) ; sequence: ambiguous (margin 0.4<2.0 over runner-up)	Dataset S2 row 21	Yoshida2018
+SmCXE11	SELMO	CXE	D8RYH1	mapped	sequence_exact: identical sequence	Dataset S2 row 22	Yoshida2018
+SmCXE12	SELMO	CXE	D8RB59	mapped	sequence_exact: identical sequence	Dataset S2 row 23	Yoshida2018
+SmCXE13	SELMO	CXE	D8R4F8	mapped	sequence_exact: identical sequence	Dataset S2 row 24	Yoshida2018
+SmCXE14	SELMO	CXE	D8TG78	mapped	sequence_exact: identical sequence	Dataset S2 row 25	Yoshida2018
+SmCXE15	SELMO	CXE	D8S362	mapped	sequence_exact: identical sequence	Dataset S2 row 26	Yoshida2018
+SmCXE16	SELMO	CXE	D8S6D4	mapped	sequence_exact: identical sequence	Dataset S2 row 27	Yoshida2018
+SmCXE17	SELMO	CXE	D8SSL6	mapped	sequence_exact: identical sequence	Dataset S2 row 28	Yoshida2018
+OsCXE1	ORYSJ	CXE	Q93VD4	mapped	sequence_unique: RBH, thresholds met; margin 38.3	Dataset S2 row 29	Yoshida2018
+OsCXE2	ORYSJ	CXE		unmapped	sequence: unmapped (identity 76.9<98.0; not reciprocal best (target best-matched by OsCXE4)); locus 'LOC_Os01g06210.1' ([]) gives no panel hit LOC_Os01g06210 Chr1:2954514-2955504-: 0 RAP genes overlap ([])	Dataset S2 row 30	Yoshida2018
+OsCXE3	ORYSJ	CXE		unmapped	sequence: unmapped (identity 65.2<98.0); locus 'LOC_Os04g37680.1' ([]) gives no panel hit LOC_Os04g37680 Chr4:22411902-22412993+: 0 RAP genes overlap ([])	Dataset S2 row 31	Yoshida2018
+OsCXE4	ORYSJ	CXE	A0A0P0UYF3	mapped	sequence_unique: RBH, thresholds met; margin 37.9	Dataset S2 row 32	Yoshida2018
+OsCXE5	ORYSJ	CXE	Q8RZ79	mapped	sequence_unique: RBH, thresholds met; margin 36.0	Dataset S2 row 33	Yoshida2018
+OsCXE6	ORYSJ	CXE	Q10C96	mapped	sequence_unique: RBH, thresholds met; margin 35.6	Dataset S2 row 34	Yoshida2018
+OsCXE7	ORYSJ	CXE	A0A0P0WMA5	mapped	sequence_exact: identical sequence	Dataset S2 row 35	Yoshida2018
+OsCXE9	ORYSJ	CXE	Q8GSJ3	mapped	sequence_exact: identical sequence	Dataset S2 row 36	Yoshida2018
+OsCXE10	ORYSJ	CXE	Q8GSE8	mapped	sequence_exact: identical sequence	Dataset S2 row 37	Yoshida2018
+OsCXE11	ORYSJ	CXE	Q8GRZ3	mapped	sequence_exact: identical sequence	Dataset S2 row 38	Yoshida2018
+OsCXE12	ORYSJ	CXE	A0A0P0X9D4	mapped	sequence_unique: RBH, thresholds met; margin 26.2	Dataset S2 row 39	Yoshida2018
+OsCXE13	ORYSJ	CXE	Q8H5P9	mapped	sequence_unique: RBH, thresholds met; margin 26.2	Dataset S2 row 40	Yoshida2018
+OsCXE14	ORYSJ	CXE	Q8H5P5	mapped	exact_id: exact identifier mapping LOC_Os07g44890.1 via ['Os07g0643400'] -> Q8H5P5 (single panel hit) LOC_Os07g44890 Chr7:26790785-26792117- -> RAP Os07g0643400 (unique same-strand overlap >=50 %); sequence: not in Datasets S1/S3	Dataset S2 row 41	Yoshida2018
+OsCXE15	ORYSJ	CXE		unmapped	sequence: unmapped (identity 75.4<98.0); locus 'LOC_Os07g44900.1' ([]) gives no panel hit LOC_Os07g44900 Chr7:26793452-26794492-: 0 RAP genes overlap ([])	Dataset S2 row 42	Yoshida2018
+OsCXE16	ORYSJ	CXE	Q0D8F9	mapped	sequence_unique: RBH, thresholds met; margin 40.5	Dataset S2 row 43	Yoshida2018
+OsCXE17	ORYSJ	CXE	A0A0P0X2H6	mapped	sequence_unique: RBH, thresholds met; margin 40.5	Dataset S2 row 44	Yoshida2018
+OsCXE18	ORYSJ	CXE	Q7F1Y5	mapped	sequence_unique: RBH, thresholds met; margin 42.0	Dataset S2 row 45	Yoshida2018
+OsCXE19	ORYSJ	CXE	Q6ZIJ0	mapped	sequence_exact: identical sequence	Dataset S2 row 46	Yoshida2018
+OsCXE20	ORYSJ	CXE		unmapped	sequence: unmapped (identity 62.0<98.0; not reciprocal best (target best-matched by OsCXE21)); locus 'LOC_Os07g34370.1' ([]) gives no panel hit LOC_Os07g34370 Chr7:20596752-20600204-: 0 RAP genes overlap ([])	Dataset S2 row 47	Yoshida2018
+OsCXE21	ORYSJ	CXE		unmapped	sequence: unmapped (identity 68.8<98.0); locus 'LOC_Os07g34240.1' ([]) gives no panel hit LOC_Os07g34240 Chr7:20485027-20486346+: 0 RAP genes overlap ([])	Dataset S2 row 48	Yoshida2018
+OsCXE22	ORYSJ	CXE	Q0J520	mapped	sequence_unique: RBH, thresholds met; margin 41.5	Dataset S2 row 49	Yoshida2018
+OsCXE23	ORYSJ	CXE	A0A0P0XH29	mapped	sequence_unique: RBH, thresholds met; margin 41.5	Dataset S2 row 50	Yoshida2018
+OsCXE24	ORYSJ	CXE	Q6ZDG5	mapped	sequence_exact: identical sequence	Dataset S2 row 51	Yoshida2018
+OsCXE25	ORYSJ	CXE		unmapped	sequence: unmapped (identity 49.2<98.0; margin 0.2<2.0 over runner-up; not reciprocal best (target best-matched by OsCXE40)); locus 'LOC_Os08g37050.1' ([]) gives no panel hit LOC_Os08g37050 Chr8:23417173-23418135+: 0 RAP genes overlap ([])	Dataset S2 row 52	Yoshida2018
+OsCXE26	ORYSJ	CXE	Q6ZDG3	mapped	sequence_exact: identical sequence	Dataset S2 row 53	Yoshida2018
+OsCXE27	ORYSJ	CXE	Q6YSZ8	mapped	sequence_exact: identical sequence	Dataset S2 row 54	Yoshida2018
+OsCXE28	ORYSJ	CXE	Q6YTH5	mapped	sequence_exact: identical sequence	Dataset S2 row 55	Yoshida2018
+OsCXE29	ORYSJ	CXE		unmapped	sequence: unmapped (identity 85.2<98.0; coverage q=0.86/t=0.73<0.8); locus 'LOC_Os02g53960.1' ([]) gives no panel hit LOC_Os02g53960 Chr2:33037678-33038763-: 0 RAP genes overlap ([])	Dataset S2 row 56	Yoshida2018
+OsCXE30	ORYSJ	CXE		unmapped	sequence: unmapped (identity 67.2<98.0; coverage q=0.95/t=0.67<0.8; not reciprocal best (target best-matched by OsCXE21)); locus 'LOC_Os07g34170.1' ([]) gives no panel hit LOC_Os07g34170 Chr7:20449001-20450344+: 0 RAP genes overlap ([])	Dataset S2 row 57	Yoshida2018
+OsCXE31	ORYSJ	CXE	Q69J38	mapped	sequence_unique: RBH, thresholds met; margin 50.9	Dataset S2 row 58	Yoshida2018
+OsCXE32	ORYSJ	CXE	Q69Y21	mapped	sequence_exact: identical sequence	Dataset S2 row 59	Yoshida2018
+OsCXE33	ORYSJ	CXE	Q69Y18	mapped	sequence_exact: identical sequence	Dataset S2 row 60	Yoshida2018
+OsCXE34	ORYSJ	CXE	A0A0P0WTX9	mapped	sequence_unique: RBH, thresholds met; margin 49.4	Dataset S2 row 61	Yoshida2018
+OsCXE35	ORYSJ	CXE		unmapped	sequence: unmapped (identity 73.6<98.0; coverage q=0.84/t=0.70<0.8; not reciprocal best (target best-matched by OsCXE29)); locus 'LOC_Os09g26490.1' ([]) gives no panel hit LOC_Os09g26490 Chr9:16009646-16010893+: 0 RAP genes overlap ([])	Dataset S2 row 62	Yoshida2018
+OsCXE36	ORYSJ	CXE	Q67TR6	mapped	sequence_exact: identical sequence	Dataset S2 row 63	Yoshida2018
+OsCXE37	ORYSJ	CXE	Q67TQ8	mapped	sequence_exact: identical sequence	Dataset S2 row 64	Yoshida2018
+OsCXE38	ORYSJ	CXE	Q67J10	mapped	sequence_exact: identical sequence	Dataset S2 row 65	Yoshida2018
+OsCXE39	ORYSJ	CXE	Q67J09	mapped	sequence_unique: RBH, thresholds met; margin 24.5	Dataset S2 row 66	Yoshida2018
+OsCXE40	ORYSJ	CXE	A0A0P0XNK8	mapped	sequence_unique: RBH, thresholds met; margin 9.3	Dataset S2 row 67	Yoshida2018
+OsCXE41	ORYSJ	CXE	Q67J05	mapped	sequence_exact: identical sequence	Dataset S2 row 68	Yoshida2018
+OsCXE42	ORYSJ	CXE		unmapped	sequence: unmapped (identity 67.6<98.0; coverage q=0.99/t=0.80<0.8; margin -3.1<2.0 over runner-up; not reciprocal best (target best-matched by OsCXE39)); locus 'LOC_Os09g28660.1' ([]) gives no panel hit LOC_Os09g28660 Chr9:17427503-17428693+: 0 RAP genes overlap ([])	Dataset S2 row 69	Yoshida2018
+OsCXE43	ORYSJ	CXE	Q67J02	mapped	sequence_exact: identical sequence	Dataset S2 row 70	Yoshida2018
+OsCXE44	ORYSJ	CXE	Q67IZ8	mapped	sequence_exact: identical sequence	Dataset S2 row 71	Yoshida2018
+OsCXE45	ORYSJ	CXE	Q67IZ7	mapped	sequence_exact: identical sequence	Dataset S2 row 72	Yoshida2018
+OsCXE46	ORYSJ	CXE	Q67IZ5	mapped	sequence_exact: identical sequence	Dataset S2 row 73	Yoshida2018
+OsCXE47	ORYSJ	CXE	A0A0P0XP65	mapped	sequence_unique: RBH, thresholds met; margin 39.4	Dataset S2 row 74	Yoshida2018
+OsCXE48	ORYSJ	CXE		unmapped	sequence: unmapped (identity 54.1<98.0; margin -1.2<2.0 over runner-up; not reciprocal best (target best-matched by OsCXE47)); locus 'LOC_Os09g28760.1' ([]) gives no panel hit LOC_Os09g28760 Chr9:17473042-17473491+: 0 RAP genes overlap ([])	Dataset S2 row 75	Yoshida2018
+AtCXE1	ARATH	CXE	Q9LMA7	mapped	sequence_exact: identical sequence	Dataset S2 row 76	Yoshida2018
+AtCXE2	ARATH	CXE	Q9SX78	mapped	sequence_exact: identical sequence	Dataset S2 row 77	Yoshida2018
+AtCXE3	ARATH	CXE	Q9FX92	mapped	sequence_exact: identical sequence	Dataset S2 row 78	Yoshida2018
+AtCXE4	ARATH	CXE	Q9FX93	mapped	exact_id: exact identifier mapping At1g49650 via ['AT1G49650'] -> Q9FX93 (single panel hit) ; sequence: not in Datasets S1/S3	Dataset S2 row 79	Yoshida2018
+AtCXE5	ARATH	CXE	Q9FX94	mapped	sequence_exact: identical sequence	Dataset S2 row 80	Yoshida2018
+AtCXE6	ARATH	CXE	Q9SX25	mapped	sequence_exact: identical sequence	Dataset S2 row 81	Yoshida2018
+AtCXE7	ARATH	CXE	Q9ZQ91	mapped	sequence_exact: identical sequence	Dataset S2 row 82	Yoshida2018
+AtCXE8	ARATH	CXE	O64640	mapped	sequence_exact: identical sequence	Dataset S2 row 83	Yoshida2018
+AtCXE9	ARATH	CXE	O64641	mapped	sequence_unique: RBH, thresholds met; margin 55.2	Dataset S2 row 84	Yoshida2018
+AtCXE11	ARATH	CXE	Q9LK21	mapped	exact_id: exact identifier mapping At3g27320 via ['AT3G27320'] -> Q9LK21 (single panel hit) ; sequence: not in Datasets S1/S3	Dataset S2 row 85	Yoshida2018
+AtCXE12	ARATH	CXE	Q9SMN0	mapped	sequence_exact: identical sequence	Dataset S2 row 86	Yoshida2018
+AtCXE13	ARATH	CXE	Q9SMM9	mapped	sequence_exact: identical sequence	Dataset S2 row 87	Yoshida2018
+AtCXE15	ARATH	CXE	Q9FG13	mapped	sequence_exact: identical sequence	Dataset S2 row 88	Yoshida2018
+AtCXE16	ARATH	CXE	Q8LED9	mapped	sequence_exact: identical sequence	Dataset S2 row 89	Yoshida2018
+AtCXE17	ARATH	CXE	Q9LFR7	mapped	sequence_exact: identical sequence	Dataset S2 row 90	Yoshida2018
+AtCXE18	ARATH	CXE	Q9LT10	mapped	exact_id: exact identifier mapping At5g23530 via ['AT5G23530'] -> Q9LT10 (single panel hit) ; sequence: not in Datasets S1/S3	Dataset S2 row 91	Yoshida2018
+AtCXE20	ARATH	CXE	Q9LVB8	mapped	sequence_exact: identical sequence	Dataset S2 row 92	Yoshida2018
+Arabidopsis thaliana_GID1a	ARATH	GID1_A	Q9MAA7	mapped	sequence_exact: identical sequence	Dataset S2 row 99	Yoshida2018
+Arabidopsis thaliana_GID1c	ARATH	GID1_A	Q940G6	mapped	sequence_exact: identical sequence	Dataset S2 row 100	Yoshida2018
+Arabidopsis thaliana_GID1b	ARATH	GID1_B	Q9LYC1	mapped	sequence_exact: identical sequence	Dataset S2 row 101	Yoshida2018
+Glycine max_GID1a-1	SOYBN	GID1_A	I1LBF7	mapped	sequence_exact: identical sequence	Dataset S2 row 147	Yoshida2018
+Glycine max_GID1a-2	SOYBN	GID1_A	K7N568	mapped	sequence_exact: identical sequence	Dataset S2 row 148	Yoshida2018
+Glycine max_GID1b-1	SOYBN	GID1_B	I1JNP5	mapped	sequence_exact: identical sequence	Dataset S2 row 149	Yoshida2018
+Glycine max_GID1b-2	SOYBN	GID1_B	I1L7Z8	mapped	sequence_unique: RBH, thresholds met; margin 3.6	Dataset S2 row 150	Yoshida2018
+Glycine max_GID1b-3	SOYBN	GID1_B	I1JFE7	mapped	sequence_exact: identical sequence	Dataset S2 row 151	Yoshida2018
+Phaseolus vulgaris_GID1a	PHAVU	GID1_A	V7BGX3	mapped	sequence_exact: identical sequence	Dataset S2 row 198	Yoshida2018
+Phaseolus vulgaris_GID1b-1	PHAVU	GID1_B	V7CW67	mapped	sequence_exact: identical sequence	Dataset S2 row 199	Yoshida2018
+Phaseolus vulgaris_GID1b-2	PHAVU	GID1_B	V7BI43	mapped	sequence_exact: identical sequence	Dataset S2 row 200	Yoshida2018
+Vitis vinifera_GID1a	VITVI	GID1_A	F6HTZ8	mapped	sequence_unique: RBH, thresholds met; margin 19.7	Dataset S2 row 226	Yoshida2018
+Vitis vinifera_GID1b	VITVI	GID1_B	A0A1X9T4C9	mapped	sequence_exact: identical sequence	Dataset S2 row 227	Yoshida2018
+Oryza sativa_GID1	ORYSJ	GID1_M	Q6L545	mapped	sequence_exact: identical sequence	Dataset S2 row 236	Yoshida2018
+Zea mays_GID1-1	MAIZE	GID1_M	A0A1D6M449	mapped	sequence_exact: identical sequence	Dataset S2 row 250	Yoshida2018
+Zea mays_GID1-2	MAIZE	GID1_M		unmapped	sequence: unmapped (identity 88.1<98.0); locus 'GRMZM2G016605_T02' ([]) gives no panel hit 	Dataset S2 row 251	Yoshida2018
+Amborella trichopoda_GID1	AMBTC	GID1_BA	U5D7P6	mapped	sequence_unique: RBH, thresholds met; margin 61.9	Dataset S2 row 252	Yoshida2018
+Selaginella moellendorffii_GID1-1	SELMO	GID1_L	D8S651	mapped	sequence_exact: identical sequence	Dataset S2 row 259	Yoshida2018
+Selaginella moellendorffii_GID1-2	SELMO	GID1_L	D8RP41	mapped	sequence_exact: identical sequence	Dataset S2 row 260	Yoshida2018

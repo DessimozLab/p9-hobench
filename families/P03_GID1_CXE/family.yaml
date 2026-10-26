@@ -1,0 +1,67 @@
+id: P03_GID1_CXE
+name: Gibberellin receptor GID1 nested within the plant carboxylesterase (CXE) family
+panel: P
+phenomena:
+- NESTED
+- NEOF
+descriptors:
+  n_members: 94
+  n_species: 9
+  n_in_panel_paper_members: 107
+  mapped_fraction: 0.879
+  mapped_fraction_by_species:
+    AMBTC: 1.0
+    ARATH: 1.0
+    MAIZE: 0.5
+    ORYSJ: 0.771
+    PHAVU: 1.0
+    PHYPA: 0.833
+    SELMO: 1.0
+    SOYBN: 1.0
+    VITVI: 1.0
+  labels:
+    CXE: 73
+    GID1_B: 7
+    GID1_A: 6
+    CXE_GID1-like: 3
+    GID1_M: 2
+    GID1_L: 2
+    GID1_BA: 1
+sources:
+- id: Yoshida2018
+  doi: 10.1073/pnas.1806040115
+  pmid: '30068603'
+  pmcid: PMC6099883
+  title: Evolution and diversification of the plant gibberellin receptor GID1
+  year: 2018
+  source_method: phylogeny
+  locator: Dataset S2 (gene list), Datasets S1/S3 (alignments), Fig. 3, Results, Discussion
+  quote: confirming that GID1 was derived from one specific CXE group
+  files:
+  - path: literature/raw/B2/supp/PMC6099883/pnas.1806040115.sd01.xlsx
+    sha256: a38933da21d9c448683192bfd5363ebe386376cc9a65495c8f7d6a14a293d871
+  - path: literature/raw/B2/supp/PMC6099883/pnas.1806040115.sd02.xlsx
+    sha256: c4a564eff4f52a2dce6214965f65735d7a9ffcdf47a247d1b944b514792185e8
+  - path: literature/raw/B2/supp/PMC6099883/pnas.1806040115.sd03.xlsx
+    sha256: 6d79c622c1dcfb77bca08471f66f3da6dc12e981bbc7627725508e9f59964cb0
+  - path: literature/papers/PMID30068603/fulltext.txt
+    sha256: 53b6afbb56863f539a7f0c88f170d0b79fbc90f05d9be7b464cba9f2652b61be
+  - path: literature/raw/P_shared/all.locus_brief_info.7.0
+    sha256: c8c546993cf583e80e1782df07e7f429663f7a89a22165c32bd2bca0e0b3a4dc
+root_level: Embryophyta
+root_single_copy: false
+complete_species: []
+decoys: []
+distinct_from: []
+tier_summary:
+  U_T2: 6
+  D_T1: 2
+  S_T2: 2
+protocol_version: 1
+notes: 'CXE members are those listed in Dataset S2 (Marshall et al. 2003 sets for At/Os/Sm/Pp, partial; not a complete CXE
+  inventory -> no complete_species). GID1 types (A/B eudicot, M monocot, BA Amborella, L lycophyte) follow the gene names/Fig.
+  3. D_GID1_origin separates GID1 from the tracheophyte CXEs listed (lo=Tracheophyta, hi=ABOVE_RANGE: the progenitor CXE lineage
+  is not identified, so only ''separate at Tracheophyta and below'' is asserted); moss CXEs and the lycophyte GID1s vs seed-plant
+  GID1s are U. D_GID1_AB at the panel branch into Rosids (no basal eudicot in panel P; the gamma hexaploidy is on the same
+  branch but the paper does not attribute the split to it, so no WGD tag). Within types: U (Glycine/Phaseolus/Brassicaceae
+  copies; WGD lineages).'

@@ -1,0 +1,78 @@
+{
+ "overlap|oryza_sativa|1:2954514-2955504": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os01t0154950-01.",
+   "description": null,
+   "end": 2956849,
+   "feature_type": "gene",
+   "gene_id": "Os01g0154950",
+   "id": "Os01g0154950",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "1",
+   "source": "RAP2022-09-01",
+   "start": 2954510,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|2:33037678-33038763": [],
+ "overlap|oryza_sativa|4:22411902-22412993": [],
+ "overlap|oryza_sativa|7:20449001-20450344": [],
+ "overlap|oryza_sativa|7:20485027-20486346": [],
+ "overlap|oryza_sativa|7:20596752-20600204": [],
+ "overlap|oryza_sativa|7:26790785-26792117": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os07t0643500-01.",
+   "description": null,
+   "end": 26792114,
+   "feature_type": "gene",
+   "gene_id": "Os07g0643500",
+   "id": "Os07g0643500",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "7",
+   "source": "RAP2022-09-01",
+   "start": 26790976,
+   "strand": 1
+  },
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os07t0643400-01.",
+   "description": null,
+   "end": 26792040,
+   "external_name": "OJ1003_C06.126",
+   "feature_type": "gene",
+   "gene_id": "Os07g0643400",
+   "id": "Os07g0643400",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "7",
+   "source": "RAP2022-09-01",
+   "start": 26790870,
+   "strand": -1
+  }
+ ],
+ "overlap|oryza_sativa|7:26793452-26794492": [],
+ "overlap|oryza_sativa|8:23417173-23418135": [],
+ "overlap|oryza_sativa|9:16009646-16010893": [],
+ "overlap|oryza_sativa|9:17427503-17428693": [],
+ "overlap|oryza_sativa|9:17473042-17473491": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os09t0462301-01.",
+   "description": null,
+   "end": 17473664,
+   "feature_type": "gene",
+   "gene_id": "Os09g0462301",
+   "id": "Os09g0462301",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "9",
+   "source": "RAP2022-09-01",
+   "start": 17472458,
+   "strand": -1
+  }
+ ]
+}

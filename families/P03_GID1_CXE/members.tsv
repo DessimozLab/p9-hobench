@@ -1,0 +1,95 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	source	locator
+A0A7I4D8E6	PHYPA	PpGID1L-1	CXE_GID1-like	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 5
+A0A7I4ALL0	PHYPA	PpGID1L-2	CXE_GID1-like	sequence_unique	100.0	1.0/0.977	Yoshida2018	Dataset S2 row 6
+A0A7I4F162	PHYPA	PpCXE1	CXE	sequence_unique	99.4	1.0/0.933	Yoshida2018	Dataset S2 row 7
+A0A7I4DPU3	PHYPA	PpCXE3	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 9
+A9U4V6	PHYPA	PpCXE4	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 10
+D8SBA2	SELMO	SmGID1L-1	CXE_GID1-like	sequence_unique	100.0	0.951/1.0	Yoshida2018	Dataset S2 row 11
+D8RB57	SELMO	SmCXE1	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 12
+D8RWM4	SELMO	SmCXE2	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 13
+D8RB62	SELMO	SmCXE3	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 14
+D8SVY3	SELMO	SmCXE4	CXE	exact_id			Yoshida2018	Dataset S2 row 15
+D8RAV6	SELMO	SmCXE5	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 16
+D8R003	SELMO	SmCXE6	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 17
+D8RB67	SELMO	SmCXE7	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 18
+D8RTA2	SELMO	SmCXE8	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 19
+D8TAV1	SELMO	SmCXE9	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 20
+D8RB66	SELMO	SmCXE10	CXE	exact_id			Yoshida2018	Dataset S2 row 21
+D8RYH1	SELMO	SmCXE11	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 22
+D8RB59	SELMO	SmCXE12	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 23
+D8R4F8	SELMO	SmCXE13	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 24
+D8TG78	SELMO	SmCXE14	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 25
+D8S362	SELMO	SmCXE15	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 26
+D8S6D4	SELMO	SmCXE16	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 27
+D8SSL6	SELMO	SmCXE17	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 28
+Q93VD4	ORYSJ	OsCXE1	CXE	sequence_unique	99.7	1.0/1.0	Yoshida2018	Dataset S2 row 29
+A0A0P0UYF3	ORYSJ	OsCXE4	CXE	sequence_unique	99.4	0.969/0.954	Yoshida2018	Dataset S2 row 32
+Q8RZ79	ORYSJ	OsCXE5	CXE	sequence_unique	99.8	1.0/1.0	Yoshida2018	Dataset S2 row 33
+Q10C96	ORYSJ	OsCXE6	CXE	sequence_unique	99.4	1.0/0.95	Yoshida2018	Dataset S2 row 34
+A0A0P0WMA5	ORYSJ	OsCXE7	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 35
+Q8GSJ3	ORYSJ	OsCXE9	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 36
+Q8GSE8	ORYSJ	OsCXE10	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 37
+Q8GRZ3	ORYSJ	OsCXE11	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 38
+A0A0P0X9D4	ORYSJ	OsCXE12	CXE	sequence_unique	100.0	1.0/0.989	Yoshida2018	Dataset S2 row 39
+Q8H5P9	ORYSJ	OsCXE13	CXE	sequence_unique	99.7	1.0/1.0	Yoshida2018	Dataset S2 row 40
+Q8H5P5	ORYSJ	OsCXE14	CXE	exact_id			Yoshida2018	Dataset S2 row 41
+Q0D8F9	ORYSJ	OsCXE16	CXE	sequence_unique	100.0	1.0/0.991	Yoshida2018	Dataset S2 row 43
+A0A0P0X2H6	ORYSJ	OsCXE17	CXE	sequence_unique	100.0	1.0/0.827	Yoshida2018	Dataset S2 row 44
+Q7F1Y5	ORYSJ	OsCXE18	CXE	sequence_unique	99.7	1.0/1.0	Yoshida2018	Dataset S2 row 45
+Q6ZIJ0	ORYSJ	OsCXE19	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 46
+Q0J520	ORYSJ	OsCXE22	CXE	sequence_unique	99.7	1.0/0.962	Yoshida2018	Dataset S2 row 49
+A0A0P0XH29	ORYSJ	OsCXE23	CXE	sequence_unique	100.0	1.0/0.959	Yoshida2018	Dataset S2 row 50
+Q6ZDG5	ORYSJ	OsCXE24	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 51
+Q6ZDG3	ORYSJ	OsCXE26	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 53
+Q6YSZ8	ORYSJ	OsCXE27	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 54
+Q6YTH5	ORYSJ	OsCXE28	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 55
+Q69J38	ORYSJ	OsCXE31	CXE	sequence_unique	99.7	1.0/1.0	Yoshida2018	Dataset S2 row 58
+Q69Y21	ORYSJ	OsCXE32	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 59
+Q69Y18	ORYSJ	OsCXE33	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 60
+A0A0P0WTX9	ORYSJ	OsCXE34	CXE	sequence_unique	100.0	1.0/0.906	Yoshida2018	Dataset S2 row 61
+Q67TR6	ORYSJ	OsCXE36	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 63
+Q67TQ8	ORYSJ	OsCXE37	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 64
+Q67J10	ORYSJ	OsCXE38	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 65
+Q67J09	ORYSJ	OsCXE39	CXE	sequence_unique	99.7	1.0/1.0	Yoshida2018	Dataset S2 row 66
+A0A0P0XNK8	ORYSJ	OsCXE40	CXE	sequence_unique	100.0	1.0/0.997	Yoshida2018	Dataset S2 row 67
+Q67J05	ORYSJ	OsCXE41	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 68
+Q67J02	ORYSJ	OsCXE43	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 70
+Q67IZ8	ORYSJ	OsCXE44	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 71
+Q67IZ7	ORYSJ	OsCXE45	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 72
+Q67IZ5	ORYSJ	OsCXE46	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 73
+A0A0P0XP65	ORYSJ	OsCXE47	CXE	sequence_unique	100.0	1.0/0.964	Yoshida2018	Dataset S2 row 74
+Q9LMA7	ARATH	AtCXE1	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 76
+Q9SX78	ARATH	AtCXE2	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 77
+Q9FX92	ARATH	AtCXE3	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 78
+Q9FX93	ARATH	AtCXE4	CXE	exact_id			Yoshida2018	Dataset S2 row 79
+Q9FX94	ARATH	AtCXE5	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 80
+Q9SX25	ARATH	AtCXE6	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 81
+Q9ZQ91	ARATH	AtCXE7	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 82
+O64640	ARATH	AtCXE8	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 83
+O64641	ARATH	AtCXE9	CXE	sequence_unique	99.7	1.0/1.0	Yoshida2018	Dataset S2 row 84
+Q9LK21	ARATH	AtCXE11	CXE	exact_id			Yoshida2018	Dataset S2 row 85
+Q9SMN0	ARATH	AtCXE12	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 86
+Q9SMM9	ARATH	AtCXE13	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 87
+Q9FG13	ARATH	AtCXE15	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 88
+Q8LED9	ARATH	AtCXE16	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 89
+Q9LFR7	ARATH	AtCXE17	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 90
+Q9LT10	ARATH	AtCXE18	CXE	exact_id			Yoshida2018	Dataset S2 row 91
+Q9LVB8	ARATH	AtCXE20	CXE	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 92
+Q9MAA7	ARATH	Arabidopsis thaliana_GID1a	GID1_A	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 99
+Q940G6	ARATH	Arabidopsis thaliana_GID1c	GID1_A	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 100
+Q9LYC1	ARATH	Arabidopsis thaliana_GID1b	GID1_B	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 101
+I1LBF7	SOYBN	Glycine max_GID1a-1	GID1_A	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 147
+K7N568	SOYBN	Glycine max_GID1a-2	GID1_A	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 148
+I1JNP5	SOYBN	Glycine max_GID1b-1	GID1_B	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 149
+I1L7Z8	SOYBN	Glycine max_GID1b-2	GID1_B	sequence_unique	100.0	1.0/0.997	Yoshida2018	Dataset S2 row 150
+I1JFE7	SOYBN	Glycine max_GID1b-3	GID1_B	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 151
+V7BGX3	PHAVU	Phaseolus vulgaris_GID1a	GID1_A	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 198
+V7CW67	PHAVU	Phaseolus vulgaris_GID1b-1	GID1_B	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 199
+V7BI43	PHAVU	Phaseolus vulgaris_GID1b-2	GID1_B	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 200
+F6HTZ8	VITVI	Vitis vinifera_GID1a	GID1_A	sequence_unique	100.0	0.997/0.91	Yoshida2018	Dataset S2 row 226
+A0A1X9T4C9	VITVI	Vitis vinifera_GID1b	GID1_B	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 227
+Q6L545	ORYSJ	Oryza sativa_GID1	GID1_M	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 236
+A0A1D6M449	MAIZE	Zea mays_GID1-1	GID1_M	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 250
+U5D7P6	AMBTC	Amborella trichopoda_GID1	GID1_BA	sequence_unique	100.0	0.986/0.942	Yoshida2018	Dataset S2 row 252
+D8S651	SELMO	Selaginella moellendorffii_GID1-1	GID1_L	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 259
+D8RP41	SELMO	Selaginella moellendorffii_GID1-2	GID1_L	sequence_exact	100.0	1.0/1.0	Yoshida2018	Dataset S2 row 260
