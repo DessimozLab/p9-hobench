@@ -13,3 +13,7 @@ literature/raw/B1/supp/
 requested/*
 !requested/REQUESTED.md
 !requested/RECEIVED.tsv
+# curation toolkit: large/binary downloads and non-redistributable text live under raw/
+literature/papers/*/raw/
+curation_tools/**/.pytest_cache/
+.pytest_cache/

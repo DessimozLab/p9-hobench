@@ -1,0 +1,58 @@
+{
+  "dataset": "UniProt proteome",
+  "proteome_id": "UP000005640",
+  "taxid": 9606,
+  "organism": "Homo sapiens",
+  "common_name": "Human",
+  "proteome_type": "Reference proteome",
+  "is_reference_or_representative": true,
+  "genome_assembly": "GCA_000001405.29",
+  "protein_count_reported": 147520,
+  "gene_count_reported": 20652,
+  "proteome_modified": "2026-04-22",
+  "source": "ftp",
+  "include_isoforms": false,
+  "uniprot_release": "2026_03",
+  "uniprot_release_date": "02-Sep-2026",
+  "retrieval_date": "2026-10-26T14:09:28Z",
+  "downloads": [
+    {
+      "url": "https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/Eukaryota/UP000005640/UP000005640_9606.fasta.gz",
+      "file": "UP000005640_9606.fasta.gz",
+      "bytes": 7728297,
+      "sha256": "64299d01e8f41fb6ef03cdf7ec051d3d4e5f041003b6b0fa75b09d439af79dce",
+      "x_uniprot_release": null,
+      "x_uniprot_release_date": null,
+      "x_total_results": null
+    },
+    {
+      "url": "https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/Eukaryota/UP000005640/UP000005640_9606.gene2acc.gz",
+      "file": "UP000005640_9606.gene2acc.gz",
+      "bytes": 922460,
+      "sha256": "0e091cecfad9e20179318d7845ac97d29b3e47fb3125c14b7caaab17ef75006b",
+      "x_uniprot_release": null,
+      "x_uniprot_release_date": null,
+      "x_total_results": null
+    }
+  ],
+  "outputs": {
+    "proteome_fasta": {
+      "file": "proteome.fasta",
+      "sha256": "cba78f1201ebd63decc2a1620d08dc73a16d25291a4f2a6073504556edfcafcc"
+    },
+    "header_map": {
+      "file": "header_map.tsv",
+      "sha256": "79b2dc7587fd0dca67ba1fba270e8ccf8e443adeba26fefc662dfb3701e33936"
+    }
+  },
+  "n_proteins": 20652,
+  "n_canonical": 20652,
+  "n_residues": 11456418,
+  "n_distinct_gene_names": 20394,
+  "header_format": ">ACCESSION (isoforms >ACCESSION-N); original headers in header_map.tsv",
+  "license": "CC BY 4.0 (UniProt)",
+  "citation": "The UniProt Consortium, Nucleic Acids Res. (UniProt release 2026_03)",
+  "notes": [
+    "source=auto -> ftp (proteome type: Reference proteome)"
+  ]
+}

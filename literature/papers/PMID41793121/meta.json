@@ -1,0 +1,109 @@
+{
+  "pmid": "41793121",
+  "pmcid": "PMC13012417",
+  "doi": "10.1093/gbe/evag062",
+  "source": "MED",
+  "title": "The Road so Far: Tracing the Molecular Evolution of Hexokinase Family in Metazoa",
+  "authors": [
+    "Jardim-Messeder D",
+    "de Souza-Vieira Y",
+    "Oliveira GAP",
+    "Margis R",
+    "Mello B",
+    "Sachetto-Martins G"
+  ],
+  "year": 2026,
+  "journal": "Genome biology and evolution",
+  "is_open_access": true,
+  "license": "cc by-nc",
+  "redistributable": true,
+  "cited_by_count": 0,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "Hexokinases (HXKs) are key enzymes in glucose metabolism and play essential roles in energy homeostasis. In vertebrates, the HXK family has undergone extensive expansion and diversification, giving rise to multiple paralogs with distinct structural and regulatory features. Here, we present a comprehensive evolutionary analysis of the HXK gene family across Metazoa, integrating phylogenetic reconstruction, molecular dating, synteny analysis, structural comparisons, and selection pressure inference. Our results indicate that the 100 kDa hexokinase paralogs originated from domain duplication and fusion events in early vertebrates, followed by lineage-specific duplications giving rise to HXK1, HXK2, HXK3, HXK4, and HXK5. Structural analysis revealed that only HXK2 retains catalytic activity in both N- and C-terminal domains, while the other paralogs exhibit divergence and loss of N-terminal catalytic function. Selection analyses across 470 mammalian genomes revealed paralog- and lineage-specific signatures of episodic positive selection, particularly in HXK3, suggesting adaptive evolution in response to distinct metabolic demands. These findings provide new insights into the functional evolution and specialization of HXKs in vertebrate metabolism and highlight the interplay between gene duplication, structural adaptation, and selective pressures in shaping metabolic diversity.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1093/gbe/evag062"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC13012417"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC13012417?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmcid",
+    "value": "PMC13012417"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC13012417&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID41793121",
+  "retrieval_date": "2026-10-26T14:06:23Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 114117,
+    "n_figures": 6,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/evag062_supplementary_data.zip"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 175147,
+      "sha256": "315542910a6b53754a40b6329baeccc233f20e02a737766c92cbc9b10a078ee9",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13012417/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 114480,
+      "sha256": "61227fb1a8c9f4cf50d4ec91d3134ed5916e3c845cde1f6cbea98ee7c118c4fb",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 45409321,
+      "sha256": "d03637a1e93f95da0cd757b72d3088b09df2073ac2d5185281c36758f2bb2dbe",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13012417/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/evag062_supplementary_data.zip",
+      "role": "supplement",
+      "bytes": 44359320,
+      "sha256": "a73c203d8664d8766bdeecd5cf0268f2bcab285f9685401580cdd9d107196668",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13012417/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13012417/fullTextXML",
+      "detail": "114117 chars, 6 figures, 0 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13012417/supplementaryFiles",
+      "detail": "1 files extracted to raw/supp/; 12 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

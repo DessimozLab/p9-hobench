@@ -1,0 +1,89 @@
+id	id_type	subtype	confidence	file	location	column	col_header	context
+YOL091W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 41			Gene 1 Gene 2 Syntenic support BLASTP E-value // SPO21 (YOL091W) YSW1 (YBR148W) Pre-WGD >1^a // YJR039W YEL025C Pre-WGD >1^a
+YBR148W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 41			Gene 1 Gene 2 Syntenic support BLASTP E-value // SPO21 (YOL091W) YSW1 (YBR148W) Pre-WGD >1^a // YJR039W YEL025C Pre-WGD >1^a
+YJR039W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 42			SPO21 (YOL091W) YSW1 (YBR148W) Pre-WGD >1^a // YJR039W YEL025C Pre-WGD >1^a // ORC4 (YPR162C) RIF2 (YLR453C) Pre-WGD >1^a
+YEL025C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 42			SPO21 (YOL091W) YSW1 (YBR148W) Pre-WGD >1^a // YJR039W YEL025C Pre-WGD >1^a // ORC4 (YPR162C) RIF2 (YLR453C) Pre-WGD >1^a
+YPR162C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 43			YJR039W YEL025C Pre-WGD >1^a // ORC4 (YPR162C) RIF2 (YLR453C) Pre-WGD >1^a // YNL195C HBT1 (YDL223C) Pre-WGD >1^a
+YLR453C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 43			YJR039W YEL025C Pre-WGD >1^a // ORC4 (YPR162C) RIF2 (YLR453C) Pre-WGD >1^a // YNL195C HBT1 (YDL223C) Pre-WGD >1^a
+YNL195C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 44			ORC4 (YPR162C) RIF2 (YLR453C) Pre-WGD >1^a // YNL195C HBT1 (YDL223C) Pre-WGD >1^a // REG1 (YDR028C) REG2 (YBR050C) Pre-WGD 6.2
+YDL223C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 44			ORC4 (YPR162C) RIF2 (YLR453C) Pre-WGD >1^a // YNL195C HBT1 (YDL223C) Pre-WGD >1^a // REG1 (YDR028C) REG2 (YBR050C) Pre-WGD 6.2
+YDR028C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 45			YNL195C HBT1 (YDL223C) Pre-WGD >1^a // REG1 (YDR028C) REG2 (YBR050C) Pre-WGD 6.2 // STB1 (YNL309W) YOL131W Pre-WGD 0.67
+YBR050C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 45			YNL195C HBT1 (YDL223C) Pre-WGD >1^a // REG1 (YDR028C) REG2 (YBR050C) Pre-WGD 6.2 // STB1 (YNL309W) YOL131W Pre-WGD 0.67
+YNL309W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 46			REG1 (YDR028C) REG2 (YBR050C) Pre-WGD 6.2 // STB1 (YNL309W) YOL131W Pre-WGD 0.67 // SIP18 (YMR175W) GRE1 (YPL223C) Pre-WGD 0.05
+YOL131W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 46			REG1 (YDR028C) REG2 (YBR050C) Pre-WGD 6.2 // STB1 (YNL309W) YOL131W Pre-WGD 0.67 // SIP18 (YMR175W) GRE1 (YPL223C) Pre-WGD 0.05
+YMR175W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 47			STB1 (YNL309W) YOL131W Pre-WGD 0.67 // SIP18 (YMR175W) GRE1 (YPL223C) Pre-WGD 0.05 // SPO19 (YPL130W) YOR214C Post-WGD 0.027
+YPL223C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 47			STB1 (YNL309W) YOL131W Pre-WGD 0.67 // SIP18 (YMR175W) GRE1 (YPL223C) Pre-WGD 0.05 // SPO19 (YPL130W) YOR214C Post-WGD 0.027
+YPL130W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 48			SIP18 (YMR175W) GRE1 (YPL223C) Pre-WGD 0.05 // SPO19 (YPL130W) YOR214C Post-WGD 0.027 // YFR017C YOL024W Pre-WGD 0.008
+YOR214C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 48			SIP18 (YMR175W) GRE1 (YPL223C) Pre-WGD 0.05 // SPO19 (YPL130W) YOR214C Post-WGD 0.027 // YFR017C YOL024W Pre-WGD 0.008
+YFR017C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 49			SPO19 (YPL130W) YOR214C Post-WGD 0.027 // YFR017C YOL024W Pre-WGD 0.008 // YGR035C YLR346C Post-WGD 0.002
+YOL024W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 49			SPO19 (YPL130W) YOR214C Post-WGD 0.027 // YFR017C YOL024W Pre-WGD 0.008 // YGR035C YLR346C Post-WGD 0.002
+YGR035C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 50			YFR017C YOL024W Pre-WGD 0.008 // YGR035C YLR346C Post-WGD 0.002 // ECM13 (YBL043W) YJR115W Pre-WGD 2.00E-06
+YLR346C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 50			YFR017C YOL024W Pre-WGD 0.008 // YGR035C YLR346C Post-WGD 0.002 // ECM13 (YBL043W) YJR115W Pre-WGD 2.00E-06
+YBL043W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 51			YGR035C YLR346C Post-WGD 0.002 // ECM13 (YBL043W) YJR115W Pre-WGD 2.00E-06 // PEX25 (YPL112C) PEX27 (YOR193W) Pre-WGD 1.00E-08
+YJR115W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 51			YGR035C YLR346C Post-WGD 0.002 // ECM13 (YBL043W) YJR115W Pre-WGD 2.00E-06 // PEX25 (YPL112C) PEX27 (YOR193W) Pre-WGD 1.00E-08
+YPL112C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 52			ECM13 (YBL043W) YJR115W Pre-WGD 2.00E-06 // PEX25 (YPL112C) PEX27 (YOR193W) Pre-WGD 1.00E-08 // YAP5 (YIR018W) YAP7 (YOL028C) Post-WGD 6.00E-14
+YOR193W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 52			ECM13 (YBL043W) YJR115W Pre-WGD 2.00E-06 // PEX25 (YPL112C) PEX27 (YOR193W) Pre-WGD 1.00E-08 // YAP5 (YIR018W) YAP7 (YOL028C) Post-WGD 6.00E-14
+YIR018W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 53			PEX25 (YPL112C) PEX27 (YOR193W) Pre-WGD 1.00E-08 // YAP5 (YIR018W) YAP7 (YOL028C) Post-WGD 6.00E-14 // ASI1 (YMR119W) ASI3 (YNL008C) Inferred^b 4.00E-24
+YOL028C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 53			PEX25 (YPL112C) PEX27 (YOR193W) Pre-WGD 1.00E-08 // YAP5 (YIR018W) YAP7 (YOL028C) Post-WGD 6.00E-14 // ASI1 (YMR119W) ASI3 (YNL008C) Inferred^b 4.00E-24
+YMR119W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 54			YAP5 (YIR018W) YAP7 (YOL028C) Post-WGD 6.00E-14 // ASI1 (YMR119W) ASI3 (YNL008C) Inferred^b 4.00E-24 // YJL181W YJR030C Inferred^b 2.00E-31
+YNL008C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 54			YAP5 (YIR018W) YAP7 (YOL028C) Post-WGD 6.00E-14 // ASI1 (YMR119W) ASI3 (YNL008C) Inferred^b 4.00E-24 // YJL181W YJR030C Inferred^b 2.00E-31
+YJL181W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 55			ASI1 (YMR119W) ASI3 (YNL008C) Inferred^b 4.00E-24 // YJL181W YJR030C Inferred^b 2.00E-31 // YEL007W YHR177W Inferred^b 4.00E-38
+YJR030C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 55			ASI1 (YMR119W) ASI3 (YNL008C) Inferred^b 4.00E-24 // YJL181W YJR030C Inferred^b 2.00E-31 // YEL007W YHR177W Inferred^b 4.00E-38
+YEL007W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 56			YJL181W YJR030C Inferred^b 2.00E-31 // YEL007W YHR177W Inferred^b 4.00E-38 // HYR1 (YIR037W) GPX1 (YKL026C) Post-WGD 6.00E-55
+YHR177W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 56			YJL181W YJR030C Inferred^b 2.00E-31 // YEL007W YHR177W Inferred^b 4.00E-38 // HYR1 (YIR037W) GPX1 (YKL026C) Post-WGD 6.00E-55
+YIR037W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 57			YEL007W YHR177W Inferred^b 4.00E-38 // HYR1 (YIR037W) GPX1 (YKL026C) Post-WGD 6.00E-55 // SNO3 (YFL060C) SNO2 (YNL334C) Pre-WGD 1.00E-117
+YKL026C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 57			YEL007W YHR177W Inferred^b 4.00E-38 // HYR1 (YIR037W) GPX1 (YKL026C) Post-WGD 6.00E-55 // SNO3 (YFL060C) SNO2 (YNL334C) Pre-WGD 1.00E-117
+YFL060C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 58			HYR1 (YIR037W) GPX1 (YKL026C) Post-WGD 6.00E-55 // SNO3 (YFL060C) SNO2 (YNL334C) Pre-WGD 1.00E-117 // YFR022W ROD1 (YOR018W) Inferred^b 1.00E-118
+YNL334C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 58			HYR1 (YIR037W) GPX1 (YKL026C) Post-WGD 6.00E-55 // SNO3 (YFL060C) SNO2 (YNL334C) Pre-WGD 1.00E-117 // YFR022W ROD1 (YOR018W) Inferred^b 1.00E-118
+YFR022W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 59			SNO3 (YFL060C) SNO2 (YNL334C) Pre-WGD 1.00E-117 // YFR022W ROD1 (YOR018W) Inferred^b 1.00E-118 // SAM4 (YPL273W) MHT1 (YLL062C) Post-WGD 1.00E-124
+YOR018W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 59			SNO3 (YFL060C) SNO2 (YNL334C) Pre-WGD 1.00E-117 // YFR022W ROD1 (YOR018W) Inferred^b 1.00E-118 // SAM4 (YPL273W) MHT1 (YLL062C) Post-WGD 1.00E-124
+YPL273W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 60			YFR022W ROD1 (YOR018W) Inferred^b 1.00E-118 // SAM4 (YPL273W) MHT1 (YLL062C) Post-WGD 1.00E-124 // SNZ3 (YFL059W) SNZ2 (YNL333W) Pre-WGD 1.00E-159
+YLL062C	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 60			YFR022W ROD1 (YOR018W) Inferred^b 1.00E-118 // SAM4 (YPL273W) MHT1 (YLL062C) Post-WGD 1.00E-124 // SNZ3 (YFL059W) SNZ2 (YNL333W) Pre-WGD 1.00E-159
+YFL059W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 61			SAM4 (YPL273W) MHT1 (YLL062C) Post-WGD 1.00E-124 // SNZ3 (YFL059W) SNZ2 (YNL333W) Pre-WGD 1.00E-159 // MMP1 (YLL061W) SAM3 (YPL274W) Post-WGD 0
+YNL333W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 61			SAM4 (YPL273W) MHT1 (YLL062C) Post-WGD 1.00E-124 // SNZ3 (YFL059W) SNZ2 (YNL333W) Pre-WGD 1.00E-159 // MMP1 (YLL061W) SAM3 (YPL274W) Post-WGD 0
+YLL061W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 62			SNZ3 (YFL059W) SNZ2 (YNL333W) Pre-WGD 1.00E-159 // MMP1 (YLL061W) SAM3 (YPL274W) Post-WGD 0 // [table note] ^aSequences do not hit each other in a BLASTP search, but there is indirect BLASTP support for these ohnologs via a mutual homolog
+YPL274W	sgd_systematic		high	literature/papers/PMID16169922/raw/fulltext.txt	line 62			SNZ3 (YFL059W) SNZ2 (YNL333W) Pre-WGD 1.00E-159 // MMP1 (YLL061W) SAM3 (YPL274W) Post-WGD 0 // [table note] ^aSequences do not hit each other in a BLASTP search, but there is indirect BLASTP support for these ohnologs via a mutual homolog
+YOL091W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 2	A	Gene 1	SPO21 (YOL091W) | YSW1 (YBR148W) | Pre-WGD | >1^a
+YBR148W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 2	B	Gene 2	SPO21 (YOL091W) | YSW1 (YBR148W) | Pre-WGD | >1^a
+YJR039W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 3	A	Gene 1	YJR039W | YEL025C | Pre-WGD | >1^a
+YEL025C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 3	B	Gene 2	YJR039W | YEL025C | Pre-WGD | >1^a
+YPR162C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 4	A	Gene 1	ORC4 (YPR162C) | RIF2 (YLR453C) | Pre-WGD | >1^a
+YLR453C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 4	B	Gene 2	ORC4 (YPR162C) | RIF2 (YLR453C) | Pre-WGD | >1^a
+YNL195C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 5	A	Gene 1	YNL195C | HBT1 (YDL223C) | Pre-WGD | >1^a
+YDL223C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 5	B	Gene 2	YNL195C | HBT1 (YDL223C) | Pre-WGD | >1^a
+YDR028C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 6	A	Gene 1	REG1 (YDR028C) | REG2 (YBR050C) | Pre-WGD | 6.2
+YBR050C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 6	B	Gene 2	REG1 (YDR028C) | REG2 (YBR050C) | Pre-WGD | 6.2
+YNL309W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 7	A	Gene 1	STB1 (YNL309W) | YOL131W | Pre-WGD | 0.67
+YOL131W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 7	B	Gene 2	STB1 (YNL309W) | YOL131W | Pre-WGD | 0.67
+YMR175W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 8	A	Gene 1	SIP18 (YMR175W) | GRE1 (YPL223C) | Pre-WGD | 0.05
+YPL223C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 8	B	Gene 2	SIP18 (YMR175W) | GRE1 (YPL223C) | Pre-WGD | 0.05
+YPL130W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 9	A	Gene 1	SPO19 (YPL130W) | YOR214C | Post-WGD | 0.027
+YOR214C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 9	B	Gene 2	SPO19 (YPL130W) | YOR214C | Post-WGD | 0.027
+YFR017C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 10	A	Gene 1	YFR017C | YOL024W | Pre-WGD | 0.008
+YOL024W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 10	B	Gene 2	YFR017C | YOL024W | Pre-WGD | 0.008
+YGR035C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 11	A	Gene 1	YGR035C | YLR346C | Post-WGD | 0.002
+YLR346C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 11	B	Gene 2	YGR035C | YLR346C | Post-WGD | 0.002
+YBL043W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 12	A	Gene 1	ECM13 (YBL043W) | YJR115W | Pre-WGD | 2.00E-06
+YJR115W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 12	B	Gene 2	ECM13 (YBL043W) | YJR115W | Pre-WGD | 2.00E-06
+YPL112C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 13	A	Gene 1	PEX25 (YPL112C) | PEX27 (YOR193W) | Pre-WGD | 1.00E-08
+YOR193W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 13	B	Gene 2	PEX25 (YPL112C) | PEX27 (YOR193W) | Pre-WGD | 1.00E-08
+YIR018W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 14	A	Gene 1	YAP5 (YIR018W) | YAP7 (YOL028C) | Post-WGD | 6.00E-14
+YOL028C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 14	B	Gene 2	YAP5 (YIR018W) | YAP7 (YOL028C) | Post-WGD | 6.00E-14
+YMR119W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 15	A	Gene 1	ASI1 (YMR119W) | ASI3 (YNL008C) | Inferred^b | 4.00E-24
+YNL008C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 15	B	Gene 2	ASI1 (YMR119W) | ASI3 (YNL008C) | Inferred^b | 4.00E-24
+YJL181W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 16	A	Gene 1	YJL181W | YJR030C | Inferred^b | 2.00E-31
+YJR030C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 16	B	Gene 2	YJL181W | YJR030C | Inferred^b | 2.00E-31
+YEL007W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 17	A	Gene 1	YEL007W | YHR177W | Inferred^b | 4.00E-38
+YHR177W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 17	B	Gene 2	YEL007W | YHR177W | Inferred^b | 4.00E-38
+YIR037W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 18	A	Gene 1	HYR1 (YIR037W) | GPX1 (YKL026C) | Post-WGD | 6.00E-55
+YKL026C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 18	B	Gene 2	HYR1 (YIR037W) | GPX1 (YKL026C) | Post-WGD | 6.00E-55
+YFL060C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 19	A	Gene 1	SNO3 (YFL060C) | SNO2 (YNL334C) | Pre-WGD | 1.00E-117
+YNL334C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 19	B	Gene 2	SNO3 (YFL060C) | SNO2 (YNL334C) | Pre-WGD | 1.00E-117
+YFR022W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 20	A	Gene 1	YFR022W | ROD1 (YOR018W) | Inferred^b | 1.00E-118
+YOR018W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 20	B	Gene 2	YFR022W | ROD1 (YOR018W) | Inferred^b | 1.00E-118
+YPL273W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 21	A	Gene 1	SAM4 (YPL273W) | MHT1 (YLL062C) | Post-WGD | 1.00E-124
+YLL062C	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 21	B	Gene 2	SAM4 (YPL273W) | MHT1 (YLL062C) | Post-WGD | 1.00E-124
+YFL059W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 22	A	Gene 1	SNZ3 (YFL059W) | SNZ2 (YNL333W) | Pre-WGD | 1.00E-159
+YNL333W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 22	B	Gene 2	SNZ3 (YFL059W) | SNZ2 (YNL333W) | Pre-WGD | 1.00E-159
+YLL061W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 23	A	Gene 1	MMP1 (YLL061W) | SAM3 (YPL274W) | Post-WGD | 0
+YPL274W	sgd_systematic		high	literature/papers/PMID16169922/raw/tables/tbl1.tsv	row 23	B	Gene 2	MMP1 (YLL061W) | SAM3 (YPL274W) | Post-WGD | 0

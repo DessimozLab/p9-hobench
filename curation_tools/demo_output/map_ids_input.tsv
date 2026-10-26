@@ -1,0 +1,27 @@
+id	id_type	taxon
+NP_014368.1	refseq_protein	
+NP_001234.1	refseq_protein	
+XP_001234567.1	refseq_protein	
+ENSMUSP00000000001	ensembl_protein	
+ENSDARP00000052337	ensembl_protein	
+FBgn0000008	flybase_gene	
+AT1G01010.1	arabidopsis_agi	
+AAA34695.1	genbank_protein	
+Q9Y3G6	uniprot	
+P12345	uniprot	
+YOL091W	sgd_systematic	559292
+YBR148W	sgd_systematic	559292
+YJR039W	sgd_systematic	559292
+YEL025C	sgd_systematic	559292
+YPR162C	sgd_systematic	559292
+YLR453C	sgd_systematic	559292
+YNL195C	sgd_systematic	559292
+YDL223C	sgd_systematic	559292
+NP_000179.2	refseq_protein	
+NP_000180.2	refseq_protein	
+NP_002106.2	refseq_protein	
+NP_000153.1	refseq_protein	
+NP_079406.4	refseq_protein	
+NP_001139572.1	refseq_protein	
+NP_038848.1	refseq_protein	
+NP_001028417.1	refseq_protein	

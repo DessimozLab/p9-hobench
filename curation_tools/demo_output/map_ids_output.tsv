@@ -1,0 +1,36 @@
+original_id	id_type	uniprot_acc	taxid	gene_name	reviewed	length	entry_name	mapping_method	n_hits	note	uniparc
+NP_014368.1	refseq_protein	P02309	559292	HHF1; HHF2	yes	103	H4_YEAST	RefSeq_Protein	1		
+NP_001234.1	refseq_protein	P28908	9606	TNFRSF8	yes	595	TNR8_HUMAN	RefSeq_Protein[unversioned]	2		
+NP_001234.1	refseq_protein	A5D8T4	9606	TNFRSF8	no	187	A5D8T4_HUMAN	RefSeq_Protein[unversioned]	2		
+XP_001234567.1	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+ENSMUSP00000000001	ensembl_protein	Q9DC51	10090	Gnai3	yes	354	GNAI3_MOUSE	Ensembl_Protein[unversioned]	1		
+ENSDARP00000052337	ensembl_protein							unmapped	0	no UniProtKB match via Ensembl_Protein,Ensembl_Genomes_Protein	
+FBgn0000008	flybase_gene	Q0E8Y7	7227	a	no	1329	Q0E8Y7_DROME	FlyBase	3		
+FBgn0000008	flybase_gene	Q9W283	7227	a	no	1329	Q9W283_DROME	FlyBase	3		
+FBgn0000008	flybase_gene	A0A0B4LG21	7227	a	no	1087	A0A0B4LG21_DROME	FlyBase	3		
+AT1G01010.1	arabidopsis_agi	Q0WV96	3702	NAC001	yes	429	NAC1_ARATH	Araport[agi]	1		
+AAA34695.1	genbank_protein	P07263	559292	HTS1	yes	546	SYH_YEAST	EMBL-GenBank-DDBJ_CDS	1		
+Q9Y3G6	uniprot							UniParc_fallback	0	accession obsolete/deleted in UniProtKB; sequence archived in UniParc	UPI000006D6F7
+P12345	uniprot	P12345	9986	GOT2	yes	430	AATM_RABIT	UniProtKB_AC-ID	1		
+YOL091W	sgd_systematic	Q12411	559292	SPO21	yes	609	MPC70_YEAST	Gene_Name+taxon=559292	1		
+YBR148W	sgd_systematic	P38280	559292	YSW1	yes	609	YSW1_YEAST	Gene_Name+taxon=559292	1		
+YJR039W	sgd_systematic	P47107	559292		yes	1121	YJ09_YEAST	Gene_Name+taxon=559292	1		
+YEL025C	sgd_systematic	P39991	559292		yes	1188	YEC5_YEAST	Gene_Name+taxon=559292	1		
+YPR162C	sgd_systematic	P54791	559292	ORC4	yes	529	ORC4_YEAST	Gene_Name+taxon=559292	1		
+YLR453C	sgd_systematic	Q06208	559292	RIF2	yes	395	RIF2_YEAST	Gene_Name+taxon=559292	1		
+YNL195C	sgd_systematic	P40168	559292		yes	261	YNT5_YEAST	Gene_Name+taxon=559292	1		
+YDL223C	sgd_systematic	Q07653	559292	HBT1	yes	1046	HBT1_YEAST	Gene_Name+taxon=559292	1		
+NP_000179.2	refseq_protein	P19367	9606	HK1	yes	917	HXK1_HUMAN	RefSeq_Protein	4		
+NP_000179.2	refseq_protein	B3KXY9	9606		no	952	B3KXY9_HUMAN	RefSeq_Protein	4		
+NP_000179.2	refseq_protein	Q59FD4	9606		no	949	Q59FD4_HUMAN	RefSeq_Protein	4		
+NP_000179.2	refseq_protein	A8K7J7	9606		no	917	A8K7J7_HUMAN	RefSeq_Protein	4		
+NP_000180.2	refseq_protein	P52789	9606	HK2	yes	917	HXK2_HUMAN	RefSeq_Protein	1		
+NP_002106.2	refseq_protein	P52790	9606	HK3	yes	923	HXK3_HUMAN	RefSeq_Protein	1		
+NP_000153.1	refseq_protein	P35557	9606	GCK	yes	465	HXK4_HUMAN	RefSeq_Protein	2		
+NP_000153.1	refseq_protein	Q53Y25	9606	GCK	no	465	Q53Y25_HUMAN	RefSeq_Protein	2		
+NP_079406.4	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+NP_001139572.1	refseq_protein	P17710	10090	Hk1	yes	974	HXK1_MOUSE	RefSeq_Protein	3		
+NP_001139572.1	refseq_protein	Q6GQU1	10090	Hk1	no	918	Q6GQU1_MOUSE	RefSeq_Protein	3		
+NP_001139572.1	refseq_protein	Q3TTB4	10090	Hk1	no	670	Q3TTB4_MOUSE	RefSeq_Protein	3		
+NP_038848.1	refseq_protein	O08528	10090	Hk2	yes	917	HXK2_MOUSE	RefSeq_Protein	1		
+NP_001028417.1	refseq_protein	Q3TRM8	10090	Hk3	yes	922	HXK3_MOUSE	RefSeq_Protein	1		

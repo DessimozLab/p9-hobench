@@ -1,0 +1,153 @@
+{
+  "pmid": "16169922",
+  "pmcid": "PMC1240090",
+  "doi": "10.1101/gr.3672305",
+  "source": "MED",
+  "title": "The Yeast Gene Order Browser: combining curated homology and syntenic context reveals gene fate in polyploid species",
+  "authors": [
+    "Byrne KP",
+    "Wolfe KH"
+  ],
+  "year": 2005,
+  "journal": "Genome research",
+  "is_open_access": false,
+  "license": null,
+  "redistributable": false,
+  "cited_by_count": 604,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "We developed the Yeast Gene Order Browser (YGOB; http://wolfe.gen.tcd.ie/ygob) to facilitate visual comparisons and computational analysis of synteny relationships in yeasts. The data presented in YGOB, currently covering seven species, are based on sets of homologous genes that have been intensively manually curated based on both sequence similarity and genomic context (synteny). We reconciled different laboratories' lists of paralogous Saccharomyces cerevisiae gene pairs formed by genome duplication (ohnologs), and present near-exhaustive lists of the ohnolog pairs retained in S. cerevisiae (551, including 22 previously unidentified), Saccharomyces castellii (599), and Candida glabrata (404).",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1101/gr.3672305"
+    },
+    {
+      "style": "html",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC1240090"
+    },
+    {
+      "style": "pdf",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC1240090?pdf=render"
+    },
+    {
+      "style": "doi",
+      "availability": "Free",
+      "site": "DOI",
+      "url": "https://doi.org/10.1101/gr.3672305"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "16169922"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A16169922+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID16169922",
+  "retrieval_date": "2026-10-26T14:06:20Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [
+    "supplementary files: Europe PMC flags supplements / XML lists ['/articles/instance/1240090/bin/genores_gr.3672305_index.html', '/articles/instance/1240090/bin/genores_gr.3672305_1.pdf', '/articles/instance/1240090/bin/genores_gr.3672305_2.pdf', '/articles/instance/1240090/bin/genores_gr.3672305_Byrne_Supp_Table2.xls'] but none could be downloaded; get them from the publisher site"
+  ],
+  "fulltext": {
+    "source": "pmc_html",
+    "text_file": "raw/fulltext.txt",
+    "chars": 29303,
+    "n_figures": 3,
+    "n_tables": 2,
+    "warnings": []
+  },
+  "supplements": [],
+  "files": [
+    {
+      "path": "raw/article.html",
+      "role": "html",
+      "bytes": 157206,
+      "sha256": "51c11ca6aa18ad41ea305f9bb7bb5bc32ea81d48a061bfdf4eb2a47845d0940a",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1240090/"
+    },
+    {
+      "path": "raw/tables/tbl1.tsv",
+      "role": "table_tsv",
+      "bytes": 958,
+      "sha256": "36785c7697a733b9bc03fed9e6c3a5a5dc78130b0017cfbfcbfdcf5df6b0d773",
+      "url": ""
+    },
+    {
+      "path": "raw/tables/tbl2.tsv",
+      "role": "table_tsv",
+      "bytes": 358,
+      "sha256": "4d30b0aeea66b6373eaf4c31cd8472e27666affe48ddc2de632efa68837693f1",
+      "url": ""
+    },
+    {
+      "path": "raw/fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 29342,
+      "sha256": "b81e4f0187b5bef18bcbd801199b355f7620845f5baccd3a5f9136e849d9a06d",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "license",
+      "ok": true,
+      "url": "",
+      "detail": "not in the Europe PMC open-access subset: derived text stored under raw/ (not for redistribution); check publisher terms"
+    },
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC1240090/fullTextXML",
+      "detail": "500 https://www.ebi.ac.uk/europepmc/webservices/rest/PMC1240090/fullTextXML server error (persistent)"
+    },
+    {
+      "step": "pmc_s3_opendata",
+      "ok": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/?list-type=2&prefix=PMC1240090.",
+      "detail": "article not in PMC OA open-data bucket (not in OA subset)"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC1240090",
+      "detail": "404 https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC1240090 NCBI/xpmc21 - WWW Error 404 Diagnostic h1.error {color: red; font-size: 40pt} div.diags {text-indent: 0.5in } Can't find"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC1240090",
+      "detail": "404 https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC1240090 <script type=\"module\" crossorigin=\"\" src=\"https://cdn.ncbi.nl"
+    },
+    {
+      "step": "ncbi_efetch_pmc",
+      "ok": false,
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC1240090&rettype=xml",
+      "detail": "no usable body (972 chars); ['no <body> in XML (publisher may not allow full text)']"
+    },
+    {
+      "step": "pmc_html_page",
+      "ok": true,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1240090/",
+      "detail": "29303 chars (free-to-read page; not necessarily re-usable)"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC1240090/supplementaryFiles",
+      "detail": "0 Article with id PMC1240090 is not open access one"
+    },
+    {
+      "step": "pmc_page_supplements",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/1240090/bin/genores_gr.3672305_1.pdf",
+      "detail": "PMC served an interactive proof-of-work page instead of the file; automated bypass deliberately NOT attempted - download manually (requested/)"
+    }
+  ]
+}

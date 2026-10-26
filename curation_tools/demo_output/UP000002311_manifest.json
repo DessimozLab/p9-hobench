@@ -1,0 +1,58 @@
+{
+  "dataset": "UniProt proteome",
+  "proteome_id": "UP000002311",
+  "taxid": 559292,
+  "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+  "common_name": "Baker's yeast",
+  "proteome_type": "Reference proteome",
+  "is_reference_or_representative": true,
+  "genome_assembly": "GCA_000146045.2",
+  "protein_count_reported": 6067,
+  "gene_count_reported": 6066,
+  "proteome_modified": "2026-03-26",
+  "source": "ftp",
+  "include_isoforms": false,
+  "uniprot_release": "2026_03",
+  "uniprot_release_date": "02-Sep-2026",
+  "retrieval_date": "2026-10-26T14:09:21Z",
+  "downloads": [
+    {
+      "url": "https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/Eukaryota/UP000002311/UP000002311_559292.fasta.gz",
+      "file": "UP000002311_559292.fasta.gz",
+      "bytes": 2014850,
+      "sha256": "8ed21b6c6ce28bc0b74eac295aab65ec2136286616769757b39758427642f768",
+      "x_uniprot_release": null,
+      "x_uniprot_release_date": null,
+      "x_total_results": null
+    },
+    {
+      "url": "https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/Eukaryota/UP000002311/UP000002311_559292.gene2acc.gz",
+      "file": "UP000002311_559292.gene2acc.gz",
+      "bytes": 48796,
+      "sha256": "2120ddf3f5db5527ba696a7f6eb3214de0d4d012f037e1f00b92a8cc3610d65d",
+      "x_uniprot_release": null,
+      "x_uniprot_release_date": null,
+      "x_total_results": null
+    }
+  ],
+  "outputs": {
+    "proteome_fasta": {
+      "file": "proteome.fasta",
+      "sha256": "c49db6bd876d19153623b9bed283c3f98b1346cf4ff33f79d69cb46189e83f7b"
+    },
+    "header_map": {
+      "file": "header_map.tsv",
+      "sha256": "66eadaa6d19bc291c812c9005ea4ac937baf23f28168ee2a072e9511236a6230"
+    }
+  },
+  "n_proteins": 6066,
+  "n_canonical": 6066,
+  "n_residues": 2938023,
+  "n_distinct_gene_names": 6066,
+  "header_format": ">ACCESSION (isoforms >ACCESSION-N); original headers in header_map.tsv",
+  "license": "CC BY 4.0 (UniProt)",
+  "citation": "The UniProt Consortium, Nucleic Acids Res. (UniProt release 2026_03)",
+  "notes": [
+    "source=auto -> ftp (proteome type: Reference proteome)"
+  ]
+}

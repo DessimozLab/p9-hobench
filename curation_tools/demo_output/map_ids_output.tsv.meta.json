@@ -1,0 +1,74 @@
+{
+  "uniprot_release": "2026_03",
+  "date": "2026-10-26T14:09:19Z",
+  "jobs": [
+    {
+      "from": "RefSeq_Protein",
+      "n_ids": 11,
+      "n_rows": 14,
+      "taxon": null
+    },
+    {
+      "from": "RefSeq_Protein",
+      "n_ids": 3,
+      "n_rows": 2,
+      "taxon": null
+    },
+    {
+      "from": "UniProtKB_AC-ID",
+      "n_ids": 2,
+      "n_rows": 0,
+      "taxon": null
+    },
+    {
+      "from": "Ensembl_Protein",
+      "n_ids": 2,
+      "n_rows": 1,
+      "taxon": null
+    },
+    {
+      "from": "Ensembl_Genomes_Protein",
+      "n_ids": 1,
+      "n_rows": 0,
+      "taxon": null
+    },
+    {
+      "from": "FlyBase",
+      "n_ids": 1,
+      "n_rows": 3,
+      "taxon": null
+    },
+    {
+      "from": "Araport",
+      "n_ids": 1,
+      "n_rows": 1,
+      "taxon": null
+    },
+    {
+      "from": "EMBL-GenBank-DDBJ_CDS",
+      "n_ids": 1,
+      "n_rows": 1,
+      "taxon": null
+    },
+    {
+      "from": "UniProtKB_AC-ID",
+      "n_ids": 2,
+      "n_rows": 2,
+      "taxon": null
+    },
+    {
+      "from": "SGD",
+      "n_ids": 8,
+      "n_rows": 0,
+      "taxon": null
+    },
+    {
+      "from": "Gene_Name",
+      "n_ids": 8,
+      "n_rows": 8,
+      "taxon": "559292"
+    }
+  ],
+  "n_input": 26,
+  "n_unmapped": 3
+}
