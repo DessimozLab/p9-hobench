@@ -1,0 +1,164 @@
+{
+  "pmid": "20479238",
+  "pmcid": "PMC2890473",
+  "doi": "10.1073/pnas.0914418107",
+  "source": "MED",
+  "title": "Multiple GAL pathway gene clusters evolved independently and by different mechanisms in fungi",
+  "authors": [
+    "Slot JC",
+    "Rokas A"
+  ],
+  "year": 2010,
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "is_open_access": false,
+  "license": null,
+  "redistributable": false,
+  "cited_by_count": 119,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "A notable characteristic of fungal genomes is that genes involved in successive steps of a metabolic pathway are often physically linked or clustered. To investigate how such clusters of functionally related genes are assembled and maintained, we examined the evolution of gene sequences and order in the galactose utilization (GAL) pathway in whole-genome data from 80 diverse fungi. We found that GAL gene clusters originated independently and by different mechanisms in three unrelated yeast lineages. Specifically, the GAL cluster found in Saccharomyces and Candida yeasts originated through the relocation of native unclustered genes, whereas the GAL cluster of Schizosaccharomyces yeasts was acquired through horizontal gene transfer from a Candida yeast. In contrast, the GAL cluster of Cryptococcus yeasts was assembled independently from the Saccharomyces/Candida and Schizosaccharomyces GAL clusters and coexists in the Cryptococcus genome with unclustered GAL paralogs. These independently evolved GAL clusters represent a striking example of analogy at the genomic level. We also found that species with GAL clusters exhibited significantly higher rates of GAL pathway loss than species with unclustered GAL genes. These results suggest that clustering of metabolic genes might facilitate fungal adaptation to changing environments both through the acquisition and loss of metabolic capacities.",
+  "fulltext_urls": [
+    {
+      "style": "abs",
+      "availability": "Free after 6 months",
+      "site": "www.pnas.org",
+      "url": "http://www.pnas.org/cgi/content/abstract/107/22/10136"
+    },
+    {
+      "style": "html",
+      "availability": "Free after 6 months",
+      "site": "www.pnas.org",
+      "url": "http://www.pnas.org/cgi/content/full/107/22/10136"
+    },
+    {
+      "style": "pdf",
+      "availability": "Free after 6 months",
+      "site": "www.pnas.org",
+      "url": "http://www.pnas.org/cgi/reprint/107/22/10136.pdf"
+    },
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1073/pnas.0914418107"
+    },
+    {
+      "style": "html",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC2890473"
+    },
+    {
+      "style": "pdf",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC2890473?pdf=render"
+    },
+    {
+      "style": "doi",
+      "availability": "Free",
+      "site": "DOI",
+      "url": "https://doi.org/10.1073/pnas.0914418107"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "20479238"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A20479238+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID20479238",
+  "retrieval_date": "2026-10-26T18:45:29Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [
+    "supplementary files: Europe PMC flags supplements / XML lists ['/articles/instance/2890473/bin/supp_107_22_10136__index.html', '/articles/instance/2890473/bin/0914418107_pnas.200914418SI.pdf', '/articles/instance/2890473/bin/0914418107_sfig01.pdf', '/articles/instance/2890473/bin/0914418107_sfig02.pdf'] but none could be downloaded; get them from the publisher site"
+  ],
+  "fulltext": {
+    "source": "pmc_html",
+    "text_file": "raw/fulltext.txt",
+    "chars": 40277,
+    "n_figures": 2,
+    "n_tables": 1,
+    "warnings": []
+  },
+  "supplements": [],
+  "files": [
+    {
+      "path": "raw/article.html",
+      "role": "html",
+      "bytes": 201698,
+      "sha256": "a5594422f62394bca86a441a510a74bbdf803a3d901cad80366d20dd405879ed",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2890473/"
+    },
+    {
+      "path": "raw/tables/t01.tsv",
+      "role": "table_tsv",
+      "bytes": 376,
+      "sha256": "d13d048f68504a10c8760f21ff07b3c156fb296dc067b469b71b022d4fca5fd4",
+      "url": ""
+    },
+    {
+      "path": "raw/fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 40551,
+      "sha256": "b13dd0d27474b04bf891ff64fc46b23b6a38ef8cda5b12c84b0ea477c5fcf13b",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "license",
+      "ok": true,
+      "url": "",
+      "detail": "not in the Europe PMC open-access subset: derived text stored under raw/ (not for redistribution); check publisher terms"
+    },
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2890473/fullTextXML",
+      "detail": "500 https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2890473/fullTextXML server error (persistent)"
+    },
+    {
+      "step": "pmc_s3_opendata",
+      "ok": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/?list-type=2&prefix=PMC2890473.",
+      "detail": "article not in PMC OA open-data bucket (not in OA subset)"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC2890473",
+      "detail": "404 https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC2890473 NCBI/xpmc12 - WWW Error 404 Diagnostic h1.error {color: red; font-size: 40pt} div.diags {text-indent: 0.5in } Can't find"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC2890473",
+      "detail": "404 https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC2890473 <script type=\"module\" crossorigin=\"\" src=\"https://cdn.ncbi.nl"
+    },
+    {
+      "step": "ncbi_efetch_pmc",
+      "ok": false,
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC2890473&rettype=xml",
+      "detail": "no usable body (1816 chars); ['no <body> in XML (publisher may not allow full text)']"
+    },
+    {
+      "step": "pmc_html_page",
+      "ok": true,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2890473/",
+      "detail": "40277 chars (free-to-read page; not necessarily re-usable)"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2890473/supplementaryFiles",
+      "detail": "0 Article with id PMC2890473 is not open access one"
+    },
+    {
+      "step": "pmc_page_supplements",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/2890473/bin/0914418107_pnas.200914418SI.pdf",
+      "detail": "PMC served an interactive proof-of-work page instead of the file; automated bypass deliberately NOT attempted - download manually (requested/)"
+    }
+  ]
+}

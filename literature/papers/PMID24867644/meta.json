@@ -1,0 +1,168 @@
+{
+  "pmid": "24867644",
+  "pmcid": "PMC4031984",
+  "doi": "10.7554/elife.02866",
+  "source": "MED",
+  "title": "Characterization of TSET, an ancient and widespread membrane trafficking complex",
+  "authors": [
+    "Hirst J",
+    "Schlacht A",
+    "Norcott JP",
+    "Traynor D",
+    "Bloomfield G",
+    "Antrobus R",
+    "Kay RR",
+    "Dacks JB",
+    "Robinson MS"
+  ],
+  "year": 2014,
+  "journal": "eLife",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 120,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "The heterotetrameric AP and F-COPI complexes help to define the cellular map of modern eukaryotes. To search for related machinery, we developed a structure-based bioinformatics tool, and identified the core subunits of TSET, a 'missing link' between the APs and COPI. Studies in Dictyostelium indicate that TSET is a heterohexamer, with two associated scaffolding proteins. TSET is non-essential in Dictyostelium, but may act in plasma membrane turnover, and is essentially identical to the recently described TPLATE complex, TPC. However, whereas TPC was reported to be plant-specific, we can identify a full or partial complex in every eukaryotic supergroup. An evolutionary path can be deduced from the earliest origins of the heterotetramer/scaffold coat to its multiple manifestations in modern organisms, including the mammalian muniscins, descendants of the TSET medium subunits. Thus, we have uncovered the machinery for an ancient and widespread pathway, which provides new insights into early eukaryotic evolution.DOI: http://dx.doi.org/10.7554/eLife.02866.001.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.7554/eLife.02866"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC4031984"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC4031984?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "24867644"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A24867644+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID24867644",
+  "retrieval_date": "2026-10-26T19:08:50Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 87933,
+    "n_figures": 6,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/elife-02866-fig1-data1.xlsx",
+    "raw/supp/elife-02866-media2.avi",
+    "raw/supp/elife-02866-media2-pmcvs_normal.mp4",
+    "raw/supp/elife-02866-fig1-data2.xlsx",
+    "raw/supp/elife-02866-supp1.zip",
+    "raw/supp/elife-02866-media1-pmcvs_normal.mp4",
+    "raw/supp/elife-02866-media1.avi",
+    "raw/supp/elife-02866-fig3-data1.xlsx"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 165606,
+      "sha256": "ab4abb165e085b819405d9a74a2ccf703a71c0c38595a9191d2bade8ab66056b",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4031984/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 88439,
+      "sha256": "4426f2ab85a2285c1bd17c4cfa35409974d12bae0dc95b20c9a588fdc912cd06",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 13188538,
+      "sha256": "8cc2cb5912c1bde105768ee34c082c93a5473c198c33e589d3571ca139ef4f85",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4031984/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/elife-02866-fig1-data1.xlsx",
+      "role": "supplement",
+      "bytes": 78676,
+      "sha256": "901ef17a490248ff6697781d6ef149881b7771f8ae7d6c3a5723e5023ad015a9",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4031984/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/elife-02866-media2.avi",
+      "role": "supplement",
+      "bytes": 769684,
+      "sha256": "5380d3d8515fb549cd96f4784bd7c62418af35e0004bb873ffa6ea6cd7bccf2f",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4031984/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/elife-02866-media2-pmcvs_normal.mp4",
+      "role": "supplement",
+      "bytes": 2190330,
+      "sha256": "fc7e23aa68802686e01dd6cb6d818af2b020d47cdf9d87b8ee44873d298192b3",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4031984/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/elife-02866-fig1-data2.xlsx",
+      "role": "supplement",
+      "bytes": 66324,
+      "sha256": "d6b139b84f0995566295c27eb8165e701e23ac79fdc14fa17233a95e13407bab",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4031984/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/elife-02866-supp1.zip",
+      "role": "supplement",
+      "bytes": 650724,
+      "sha256": "61d5c0bea745a25b54f9e25d77f0e7e727d53b5d3c3b1b3d396103d622c2a4a1",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4031984/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/elife-02866-media1-pmcvs_normal.mp4",
+      "role": "supplement",
+      "bytes": 5099466,
+      "sha256": "153a983512e065fee4ab10977c8084ebac27fe131f4e908b233282ec66f0276e",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4031984/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/elife-02866-media1.avi",
+      "role": "supplement",
+      "bytes": 1215320,
+      "sha256": "68c356dafb6478997120c1daf3410d4c63f322cbd8cd8a4bbffce45bfd3ecf90",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4031984/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/elife-02866-fig3-data1.xlsx",
+      "role": "supplement",
+      "bytes": 69800,
+      "sha256": "569524adfc383e586a7cfde113bd9dfa0f1f253cd70172792438951ed740f573",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4031984/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4031984/fullTextXML",
+      "detail": "87933 chars, 6 figures, 0 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4031984/supplementaryFiles",
+      "detail": "8 files extracted to raw/supp/; 46 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

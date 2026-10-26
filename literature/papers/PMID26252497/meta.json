@@ -1,0 +1,295 @@
+{
+  "pmid": "26252497",
+  "pmcid": "PMC4529251",
+  "doi": "10.1371/journal.pbio.1002220",
+  "source": "MED",
+  "title": "Beyond the Whole-Genome Duplication: Phylogenetic Evidence for an Ancient Interspecies Hybridization in the Baker's Yeast Lineage",
+  "authors": [
+    "Marcet-Houben M",
+    "Gabaldón T"
+  ],
+  "year": 2015,
+  "journal": "PLoS biology",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 283,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "Whole-genome duplications have shaped the genomes of several vertebrate, plant, and fungal lineages. Earlier studies have focused on establishing when these events occurred and on elucidating their functional and evolutionary consequences, but we still lack sufficient understanding of how genome duplications first originated. We used phylogenomics to study the ancient genome duplication occurred in the yeast Saccharomyces cerevisiae lineage and found compelling evidence for the existence of a contemporaneous interspecies hybridization. We propose that the genome doubling was a direct consequence of this hybridization and that it served to provide stability to the recently formed allopolyploid. This scenario provides a mechanism for the origin of this ancient duplication and the lineage that originated from it and brings a new perspective to the interpretation of the origin and consequences of whole-genome duplications.",
+  "fulltext_urls": [
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Unpaywall",
+      "url": "https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1002220&type=printable"
+    },
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1371/journal.pbio.1002220"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC4529251"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC4529251?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "26252497"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A26252497+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID26252497",
+  "retrieval_date": "2026-10-26T18:15:31Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 89001,
+    "n_figures": 6,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/pbio.1002220.s017.docx",
+    "raw/supp/pbio.1002220.s003.pdf",
+    "raw/supp/pbio.1002220.s014.pdf",
+    "raw/supp/pbio.1002220.s013.pdf",
+    "raw/supp/pbio.1002220.s016.docx",
+    "raw/supp/pbio.1002220.s011.pdf",
+    "raw/supp/pbio.1002220.s008.pdf",
+    "raw/supp/pbio.1002220.s007.pdf",
+    "raw/supp/pbio.1002220.s009.pdf",
+    "raw/supp/pbio.1002220.s015.pdf",
+    "raw/supp/pbio.1002220.s019.xls",
+    "raw/supp/pbio.1002220.s024.docx",
+    "raw/supp/pbio.1002220.s023.docx",
+    "raw/supp/pbio.1002220.s002.pdf",
+    "raw/supp/pbio.1002220.s004.pdf",
+    "raw/supp/pbio.1002220.s010.pdf",
+    "raw/supp/pbio.1002220.s001.xls",
+    "raw/supp/pbio.1002220.s006.pdf",
+    "raw/supp/pbio.1002220.s022.docx",
+    "raw/supp/pbio.1002220.s020.xls",
+    "raw/supp/pbio.1002220.s012.pdf",
+    "raw/supp/pbio.1002220.s021.docx",
+    "raw/supp/pbio.1002220.s018.docx",
+    "raw/supp/pbio.1002220.s005.pdf"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 184008,
+      "sha256": "1b88c310f46df35668370124e428921a009dccdb2d0658f536fc274380560dcb",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 89210,
+      "sha256": "8f9c101a944e5b14a3c6c155f9dcf675a541826322b971f04ab68ac352788c7b",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 1484778,
+      "sha256": "744c191e2ce81c24ef969d9196e93d673fe4ccdfc128e4ef83d5f5e198eacaee",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s017.docx",
+      "role": "supplement",
+      "bytes": 5180,
+      "sha256": "9bf8e40b332642c0f811ce73a897002d3d41a60dbab64d90cdf18376d6dfc492",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s003.pdf",
+      "role": "supplement",
+      "bytes": 102294,
+      "sha256": "ef2d97bbf8f3d104c8b00422f090bb8bee0fd24a353c8edccdf186ba3df17681",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s014.pdf",
+      "role": "supplement",
+      "bytes": 44173,
+      "sha256": "1d918eb93651b434666300623c3aa178a467e3c5a21fc11abb58f76fb1224e0f",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s013.pdf",
+      "role": "supplement",
+      "bytes": 35596,
+      "sha256": "f6c3c8f70efc06a3690738d7d36537230b55d471afa756a054452a4c7b47ed9d",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s016.docx",
+      "role": "supplement",
+      "bytes": 4912,
+      "sha256": "c6ed272726dd25c9add290ff925bf835e86c630c6844ee18fe5f3e42910dcf0f",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s011.pdf",
+      "role": "supplement",
+      "bytes": 27306,
+      "sha256": "10609897112085d5d789cf583e3a6073d8a8866c9d4631886dcde0d0a7b4c3a4",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s008.pdf",
+      "role": "supplement",
+      "bytes": 37782,
+      "sha256": "dded9b0299f3b00c6623d614bf20f607ab788017d293cdbb14ed7d59d5126aea",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s007.pdf",
+      "role": "supplement",
+      "bytes": 20044,
+      "sha256": "7d3abdd2e5c86215f8349b3d68ede8f49ce276f5bf0e6038a8f3af3f139f1032",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s009.pdf",
+      "role": "supplement",
+      "bytes": 58916,
+      "sha256": "913331ebcd2c97a12d323593e616ab1689237043709c82a5921700eda371874a",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s015.pdf",
+      "role": "supplement",
+      "bytes": 26748,
+      "sha256": "b02e2177e3daa47edae00a2be9ef0528a84547544dbdb22d70a0898ca82fec15",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s019.xls",
+      "role": "supplement",
+      "bytes": 1276416,
+      "sha256": "d6970c7541d4f714c94194a6b9129331eefc7a69dafb47374a9e81333a8c3778",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s024.docx",
+      "role": "supplement",
+      "bytes": 6571,
+      "sha256": "4f3c829cfedd0f80e2fceaa4def6cab8c3d9646cb765199f4d5af54ace6f6704",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s023.docx",
+      "role": "supplement",
+      "bytes": 5408,
+      "sha256": "cd97f6c14ce725a00d5b5f77941faba9b6957c9069f83dabbdf55bd461f8dd6f",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s002.pdf",
+      "role": "supplement",
+      "bytes": 38520,
+      "sha256": "89ffbaa954e7213d025622febf736e58110539a6fc87803cce8b69cebed4f25d",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s004.pdf",
+      "role": "supplement",
+      "bytes": 79018,
+      "sha256": "56a3e29025bb4657a304c7e998f0b909b2eaa1fb76f187de5d69c04ed39e7254",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s010.pdf",
+      "role": "supplement",
+      "bytes": 27304,
+      "sha256": "f010b466db5c8457a5f825282ea2f3740577f281e35ab1aabf12242ea7c117a3",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s001.xls",
+      "role": "supplement",
+      "bytes": 99328,
+      "sha256": "7830b3b7fb43eb006abcdf9f940d472e05794f701defbbbb310faa27b28adab3",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s006.pdf",
+      "role": "supplement",
+      "bytes": 26567,
+      "sha256": "27231169aa654f70771f9f13d557e355d3913f4b9317cc2f6faf874bf39f174f",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s022.docx",
+      "role": "supplement",
+      "bytes": 4777,
+      "sha256": "a9a3cadd56125f10ce220c6761f91841a2f3d3f4ae1efe559249ca41f3d77408",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s020.xls",
+      "role": "supplement",
+      "bytes": 127488,
+      "sha256": "6b53c4ef08607439296cd6eb85772935578ae295bae122f1bf1bf8f92b3f7af0",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s012.pdf",
+      "role": "supplement",
+      "bytes": 31552,
+      "sha256": "40651580b20b753e82736c4ed09567f45ac01b09156cc00361eda6b961bb123d",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s021.docx",
+      "role": "supplement",
+      "bytes": 4808,
+      "sha256": "beca6c8ff42a52f60915c275147cb6b85eeedb9903434e038830fc172fe647c3",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s018.docx",
+      "role": "supplement",
+      "bytes": 4889,
+      "sha256": "4cdac0bde062c539477f66c580558bb45f9de729af37c16fce1f30d261da4a84",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pbio.1002220.s005.pdf",
+      "role": "supplement",
+      "bytes": 30941,
+      "sha256": "da052dc490523403fe20e2d1be1dfe96ae3ff0d8ed2b5546a9bf2094a3c9a079",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/fullTextXML",
+      "detail": "89001 chars, 6 figures, 0 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4529251/supplementaryFiles",
+      "detail": "24 files extracted to raw/supp/; 12 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

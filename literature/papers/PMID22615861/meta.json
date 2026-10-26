@@ -1,0 +1,209 @@
+{
+  "pmid": "22615861",
+  "pmcid": "PMC3353972",
+  "doi": "10.1371/journal.pone.0036972",
+  "source": "MED",
+  "title": "Phylogenomics of prokaryotic ribosomal proteins",
+  "authors": [
+    "Yutin N",
+    "Puigbò P",
+    "Koonin EV",
+    "Wolf YI"
+  ],
+  "year": 2012,
+  "journal": "PloS one",
+  "is_open_access": true,
+  "license": "cc0",
+  "redistributable": true,
+  "cited_by_count": 222,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "Archaeal and bacterial ribosomes contain more than 50 proteins, including 34 that are universally conserved in the three domains of cellular life (bacteria, archaea, and eukaryotes). Despite the high sequence conservation, annotation of ribosomal (r-) protein genes is often difficult because of their short lengths and biased sequence composition. We developed an automated computational pipeline for identification of r-protein genes and applied it to 995 completely sequenced bacterial and 87 archaeal genomes available in the RefSeq database. The pipeline employs curated seed alignments of r-proteins to run position-specific scoring matrix (PSSM)-based BLAST searches against six-frame genome translations, mitigating possible gene annotation errors. As a result of this analysis, we performed a census of prokaryotic r-protein complements, enumerated missing and paralogous r-proteins, and analyzed the distributions of ribosomal protein genes among chromosomal partitions. Phyletic patterns of bacterial and archaeal r-protein genes were mapped to phylogenetic trees reconstructed from concatenated alignments of r-proteins to reveal the history of likely multiple independent gains and losses. These alignments, available for download, can be used as search profiles to improve genome annotation of r-proteins and for further comparative genomics studies.",
+  "fulltext_urls": [
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Unpaywall",
+      "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0036972&type=printable"
+    },
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1371/journal.pone.0036972"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3353972"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3353972?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "22615861"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A22615861+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID22615861",
+  "retrieval_date": "2026-10-26T14:15:19Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 65020,
+    "n_figures": 7,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/pone.0036972.s005.xls",
+    "raw/supp/pone.0036972.s010.txt",
+    "raw/supp/pone.0036972.s001.xls",
+    "raw/supp/pone.0036972.s008.pdf",
+    "raw/supp/pone.0036972.s007.txt",
+    "raw/supp/pone.0036972.s009.pdf",
+    "raw/supp/pone.0036972.s012.txt",
+    "raw/supp/pone.0036972.s004.xls",
+    "raw/supp/pone.0036972.s003.xls",
+    "raw/supp/pone.0036972.s013.pdf",
+    "raw/supp/pone.0036972.s002.xls",
+    "raw/supp/pone.0036972.s006.xls",
+    "raw/supp/pone.0036972.s011.pdf"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 126776,
+      "sha256": "653a8e5a508bd81baeb4e998bb2182765e963e928e54ebb7e2c53a2776746b13",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 65181,
+      "sha256": "f406e9fd504ac2b6bf263a3a9777c69639b052471692021b665e9791c45e8f42",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 1517498,
+      "sha256": "e693220517b8531c802039ffbcde42ca032b39cbaefb1ce74cb0f8bacf94bdba",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pone.0036972.s005.xls",
+      "role": "supplement",
+      "bytes": 176640,
+      "sha256": "c1fd4a3f71968f9e45ae55599baa270922c0d8f997aa7be614f0586e4b3f448b",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pone.0036972.s010.txt",
+      "role": "supplement",
+      "bytes": 4698,
+      "sha256": "ab01ec1b96dd4c2ddc469e5ebf8fcd5c1491fe124e35fad9be15f580810e6bdb",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pone.0036972.s001.xls",
+      "role": "supplement",
+      "bytes": 60928,
+      "sha256": "efac6c4770483b3d341ba12fc83c46dc9d806a89c6e2f43b4a2b9c572f287781",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pone.0036972.s008.pdf",
+      "role": "supplement",
+      "bytes": 81182,
+      "sha256": "2315bc007b03d9cf8a32bd71b39d8e18ac98b47780f3a78374487e28cca81b1c",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pone.0036972.s007.txt",
+      "role": "supplement",
+      "bytes": 52875,
+      "sha256": "2362c4c43dff979af92c0a8548758c5877b6b9d4a89e3f704bc4972acd6894b6",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pone.0036972.s009.pdf",
+      "role": "supplement",
+      "bytes": 294267,
+      "sha256": "7aa1e1fff1e452f5c33fda4601b074c2a64879f1cd12f83826dad954e67dd8d3",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pone.0036972.s012.txt",
+      "role": "supplement",
+      "bytes": 57867,
+      "sha256": "7ec5aa7c6e02466e1be72429a8d01631c1270a63486b578d49765c7b4888d631",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pone.0036972.s004.xls",
+      "role": "supplement",
+      "bytes": 363008,
+      "sha256": "d23f5f847e9f5528a36af37529ff7a2b6445bd6341ad5f3222bc88d5f32e870a",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pone.0036972.s003.xls",
+      "role": "supplement",
+      "bytes": 594432,
+      "sha256": "cbed6d62eabf1bfd75a19c11edefd7a2967cc398141fee806f4a602d2a0f4198",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pone.0036972.s013.pdf",
+      "role": "supplement",
+      "bytes": 174227,
+      "sha256": "a86770135d8bcd8dc53986581d33f526b025c46817db5b5a3426df484c7046cf",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pone.0036972.s002.xls",
+      "role": "supplement",
+      "bytes": 320000,
+      "sha256": "a807191fe9499ccb4e54b1867297442d9ecd3c5d6476bd02cb386ff5aed9a694",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pone.0036972.s006.xls",
+      "role": "supplement",
+      "bytes": 29184,
+      "sha256": "f12367da27bb7e9a822961dbda5b25e608eaf1d2cb5bded1495b14e884d0d023",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pone.0036972.s011.pdf",
+      "role": "supplement",
+      "bytes": 14670,
+      "sha256": "39e92529ed3c0f28a9dbd037d0f2d997aff541e911841791af80cbfc8b5f078b",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/fullTextXML",
+      "detail": "65020 chars, 7 figures, 0 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/supplementaryFiles",
+      "detail": "13 files extracted to raw/supp/; 14 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "pmid": "15947202",
+  "pmcid": "PMC1151995",
+  "doi": "10.1128/ec.4.6.1102-1115.2005",
+  "source": "MED",
+  "title": "Contribution of horizontal gene transfer to the evolution of Saccharomyces cerevisiae",
+  "authors": [
+    "Hall C",
+    "Brachat S",
+    "Dietrich FS"
+  ],
+  "year": 2005,
+  "journal": "Eukaryotic cell",
+  "is_open_access": false,
+  "license": null,
+  "redistributable": false,
+  "cited_by_count": 178,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "The genomes of the hemiascomycetes Saccharomyces cerevisiae and Ashbya gossypii have been completely sequenced, allowing a comparative analysis of these two genomes, which reveals that a small number of genes appear to have entered these genomes as a result of horizontal gene transfer from bacterial sources. One potential case of horizontal gene transfer in A. gossypii and 10 potential cases in S. cerevisiae were identified, of which two were investigated further. One gene, encoding the enzyme dihydroorotate dehydrogenase (DHOD), is potentially a case of horizontal gene transfer, as shown by sequencing of this gene from additional bacterial and fungal species to generate sufficient data to construct a well-supported phylogeny. The DHOD-encoding gene found in S. cerevisiae, URA1 (YKL216W), appears to have entered the Saccharomycetaceae after the divergence of the S. cerevisiae lineage from the Candida albicans lineage and possibly since the divergence from the A. gossypii lineage. This gene appears to have come from the Lactobacillales, and following its acquisition the endogenous eukaryotic DHOD gene was lost. It was also shown that the bacterially derived horizontally transferred DHOD is required for anaerobic synthesis of uracil in S. cerevisiae. The other gene discussed in detail is BDS1, an aryl- and alkyl-sulfatase gene of bacterial origin that we have shown allows utilization of sulfate from several organic sources. Among the eukaryotes, this gene is found in S. cerevisiae and Saccharomyces bayanus and appears to derive from the alpha-proteobacteria.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1128/EC.4.6.1102-1115.2005"
+    },
+    {
+      "style": "html",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC1151995"
+    },
+    {
+      "style": "pdf",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC1151995?pdf=render"
+    },
+    {
+      "style": "doi",
+      "availability": "Free",
+      "site": "DOI",
+      "url": "https://doi.org/10.1128/ec.4.6.1102-1115.2005"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "15947202"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A15947202+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID15947202",
+  "retrieval_date": "2026-10-26T14:15:39Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [
+    "supplementary files: Europe PMC flags supplements / XML lists ['/articles/instance/1151995/bin/eukcell_4_6_1102__index.html', '/articles/instance/1151995/bin/eukcell_4_6_1102__SupTable1.doc', '/articles/instance/1151995/bin/eukcell_4_6_1102__SupFigure1.eps', '/articles/instance/1151995/bin/eukcell_4_6_1102__SupFigure2.eps'] but none could be downloaded; get them from the publisher site"
+  ],
+  "fulltext": {
+    "source": "pmc_html",
+    "text_file": "raw/fulltext.txt",
+    "chars": 62332,
+    "n_figures": 11,
+    "n_tables": 1,
+    "warnings": []
+  },
+  "supplements": [],
+  "files": [
+    {
+      "path": "raw/article.html",
+      "role": "html",
+      "bytes": 224247,
+      "sha256": "4c304085c8c3791deb884784e95e137df0247d6aab210d50359a6ae8448e677a",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1151995/"
+    },
+    {
+      "path": "raw/tables/t1.tsv",
+      "role": "table_tsv",
+      "bytes": 963,
+      "sha256": "0a49046c561996b74dd4094defcb9d456c4b25259444daa21c46b0484f6015ec",
+      "url": ""
+    },
+    {
+      "path": "raw/fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 62384,
+      "sha256": "398f4bcd4222f82085a4ccd0c909deccbb492609f8edbfbc7b476a53efc217f0",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "license",
+      "ok": true,
+      "url": "",
+      "detail": "not in the Europe PMC open-access subset: derived text stored under raw/ (not for redistribution); check publisher terms"
+    },
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC1151995/fullTextXML",
+      "detail": "500 https://www.ebi.ac.uk/europepmc/webservices/rest/PMC1151995/fullTextXML server error (persistent)"
+    },
+    {
+      "step": "pmc_s3_opendata",
+      "ok": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/?list-type=2&prefix=PMC1151995.",
+      "detail": "article not in PMC OA open-data bucket (not in OA subset)"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC1151995",
+      "detail": "404 https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC1151995 NCBI/xpmc12 - WWW Error 404 Diagnostic h1.error {color: red; font-size: 40pt} div.diags {text-indent: 0.5in } Can't find"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC1151995",
+      "detail": "404 https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC1151995 <script type=\"module\" crossorigin=\"\" src=\"https://cdn.ncbi.nl"
+    },
+    {
+      "step": "ncbi_efetch_pmc",
+      "ok": false,
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC1151995&rettype=xml",
+      "detail": "no usable body (1846 chars); ['no <body> in XML (publisher may not allow full text)']"
+    },
+    {
+      "step": "pmc_html_page",
+      "ok": true,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1151995/",
+      "detail": "62332 chars (free-to-read page; not necessarily re-usable)"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC1151995/supplementaryFiles",
+      "detail": "0 Article with id PMC1151995 is not open access one"
+    },
+    {
+      "step": "pmc_page_supplements",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/1151995/bin/eukcell_4_6_1102__SupTable1.doc",
+      "detail": "PMC served an interactive proof-of-work page instead of the file; automated bypass deliberately NOT attempted - download manually (requested/)"
+    }
+  ]
+}

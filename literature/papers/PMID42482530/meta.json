@@ -1,0 +1,139 @@
+{
+  "pmid": "42482530",
+  "pmcid": "PMC13491260",
+  "doi": "10.1111/nph.71396",
+  "source": "MED",
+  "title": "Photosynthetic glyceraldehyde 3-phosphate dehydrogenase B is present in the last common ancestor of Viridiplantae predating the Streptophyta-Chlorophyta split",
+  "authors": [
+    "Mann AP",
+    "Stach JEM",
+    "Kapralov MV",
+    "Lopez-Calcagno PE"
+  ],
+  "year": 2026,
+  "journal": "The New phytologist",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 0,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "Predicted evolutionary history of GAPA (blue squares), CP12 (red circles), and GAPB (represented as a fusion of a blue square and half red circle) across the Viridiplantae.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1111/nph.71396"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC13491260"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC13491260?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmcid",
+    "value": "PMC13491260"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC13491260&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID42482530",
+  "retrieval_date": "2026-10-26T19:16:59Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 60831,
+    "n_figures": 2,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/NPH-251-3072-g002.webp",
+    "raw/supp/NPH-251-3072-g003.webp",
+    "raw/supp/NPH-251-3072-s002.pdf",
+    "raw/supp/NPH-251-3072-g001.webp",
+    "raw/supp/NPH-251-3072-s001.pdf"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 108753,
+      "sha256": "a248755279302c0378f84968a3eb197967365a834896706517ee76dc0598aa17",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13491260/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 61376,
+      "sha256": "16c5ca8e5d0bddb8138f1a84e4b6b9c18be9e75f006a5b9081651869146ead55",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 1178510,
+      "sha256": "2ca4e397cdfb5e95d371e0876da05033cd63e2365473198cb3ebe89d12c2cd34",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13491260/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/NPH-251-3072-g002.webp",
+      "role": "supplement",
+      "bytes": 46878,
+      "sha256": "46c149db2d79c15d688b7b7a3878e5a94d6d06e14ab9b5490d3309b783ac0c87",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13491260/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/NPH-251-3072-g003.webp",
+      "role": "supplement",
+      "bytes": 9720,
+      "sha256": "6b7ad2ce3732b024734dbd4a0e0d00ddbcb9e2e8c03b611d74e938ace3ea32eb",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13491260/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/NPH-251-3072-s002.pdf",
+      "role": "supplement",
+      "bytes": 179684,
+      "sha256": "fa7bdb6f6573730f19f7db8ad4125403f7c30f85ec55b9fa7fee9a4f1ccff701",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13491260/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/NPH-251-3072-g001.webp",
+      "role": "supplement",
+      "bytes": 113594,
+      "sha256": "71173adbe5321b17593f6aea9b7453b72811802c01dcb1a84f9a82abd22927c8",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13491260/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/NPH-251-3072-s001.pdf",
+      "role": "supplement",
+      "bytes": 884827,
+      "sha256": "6aa47c7c7299de8f93e9691e22c2c13779ff7f31f2c03896e8e472d8ec6a4be1",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13491260/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13491260/fullTextXML",
+      "detail": "60831 chars, 2 figures, 0 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13491260/supplementaryFiles",
+      "detail": "5 files extracted to raw/supp/; 2 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+Human PRD-class homeobox genes and pseudogenes					
+Family	Gene symbol	Gene name	Location	Entrez gene IDc	Previous symbols
+Alx	ALX1	ALX homeobox 1	12q21.31	8092	CART1
+	ALX3	ALX homeobox 3	1p13.3	257	
+	ALX4	ALX homeobox 4	11p11.2	6059	
+Argfx	ARGFX	arginine-fifty homeobox	3q13.33	503582	
+	ARGFXP1	arginine-fifty homeobox pseudogene 1	5q23.2	503583	
+	ARGFXP2	arginine-fifty homeobox pseudogene 2	17q11.2	503640	
+Arx	ARX	aristaless related homeobox	Xp21.3	170302	ISSX
+Dmbx	DMBX1	diencephalon/mesencephalon brain homeobox 1	1p34.1	127343	MBX, OTX3, PAXB
+Dprx	DPRX	divergent paired-related homeobox	19q13.42	503834	
+	DPRXP1	divergent paired-related homeobox pseudogene 1	2q32.1	503641	
+	DPRXP2	divergent paired-related homeobox pseudogene 2	6p21.31	503643	
+	DPRXP3	divergent paired-related homeobox pseudogene 3	14q13.2	503644	
+	DPRXP4	divergent paired-related homeobox pseudogene 4	17q11.2	503645	
+	DPRXP5	divergent paired-related homeobox pseudogene 5	21q22.13	503646	
+	DPRXP6	divergent paired-related homeobox pseudogene 6	Xp11.4	503647	
+	DPRXP7	divergent paired-related homeobox pseudogene 7	Xq23	503648	
+Drgx	DRGX	dorsal root ganglia homeobox	10q11.23	644168	DRG11, PRRXL1
+Dux	DUXA	double homeobox A	19q13.43	503835	
+	DUXAP1	double homeobox A pseudogene 1	2p11.2	503630	
+	DUXAP2	double homeobox A pseudogene 2	8q22.3	503631	
+	DUXAP3	double homeobox A pseudogene 3	10q11.21	503632	
+	DUXAP4	double homeobox A pseudogene 4	10q11.21	503633	
+	DUXAP5	double homeobox A pseudogene 5	11q23.3	503634	
+	DUXAP6	double homeobox A pseudogene 6	15q26.1	503635	
+	DUXAP7	double homeobox A pseudogene 7	20p11.23	503636	
+	DUXAP8	double homeobox A pseudogene 8	22q11.21	503637	
+	DUXAP9	double homeobox A pseudogene 9	14qcen	503638	
+	DUXAP10	double homeobox A pseudogene 10	14q11.2	503639	
+	DUXB	double homeobox B	16q23.1	100033411	
+Esx	ESX1	ESX homeobox 1	Xq22.2	80712	ESX1L, ESXR1
+Gsc	GSC	goosecoid homeobox	14q32.13	145258	GSC1
+	GSC2	goosecoid homeobox 2	22q11.21	2928	GSCL
+Hesx	HESX1	HESX homeobox 1	3p14.3	8820	RPX, ANF
+Hopx	HOPX	HOP homeobox	4q12	84525	HOP, OB1, LAGY, NECC1, SMAP31
+Isx	ISX	intestine specific homeobox	22q12.3	91464	RAXLX
+Leutx	LEUTX	Leucine twenty homeobox	19q13.2	342900	
+Mix	MIXL	Mix paired-like homeobox	1q42.12	83881	MIX, MIXL1, MILD1
+Nobox	NOBOX	NOBOX oogenesis homeobox	7q35	135935	OG2, OG2X
+Otp	OTP	orthopedia homeobox	5q14.1	23440	
+Otx	OTX1	orthodenticle homeobox 1	2p15	5013	
+	OTX2	orthodenticle homeobox 2	14q22.3	5015	
+	OTX2P1	orthodenticle homeobox 2 pseudogene	9q21.2	100033409	OTX2P
+	CRX	cone-rod homeobox	19q13.32	1406	OTX3
+Pax2/5/8	PAX2	paired box 2	10q24.31	5076	
+	PAX5	paired box 5	9p13.2	5079	BSAP
+	PAX8	paired box 8	2q13	7849	
+Pax3/7	PAX3	paired box 3	2q36.1	5077	HUP2
+	PAX7	paired box 7	1p36.13	5081	HUP1, PAX7B
+Pax4/6	PAX4	paired box 4	7q32.1	5078	
+	PAX6	paired box 6	11p13	5080	
+Phox	PHOX2A	paired-like homeobox 2a	11q13.4	401	PMX2A, ARIX
+	PHOX2B	paired-like homeobox 2b	4p13	8929	PMX2B, NBPhox
+Pitx	PITX1	pituitary homeobox 1	5q31.1	5307	PTX1, POTX, BFT
+	PITX2	pituitary homeobox 2	4q25	5308	PTX2, ARP1, RGS, RIEG, RIEG1
+	PITX3	pituitary homeobox 3	10q24.32	5309	PTX3
+Prop	PROP1	PROP paired-like homeobox 1	5q35.3	5626	
+Prrx	PRRX1	paired related homeobox 1	1q24.3	5396	PRX1, PMX1, PHOX1
+	PRRX2	paired related homeobox 2	9q34.11	51450	PRX2, PMX2
+Rax	RAX	retina and anterior neural fold homeobox	18q21.31	30062	RX
+	RAX2	retina and anterior neural fold homeobox 2	19p13.3	84839	QRX, RAXL1
+Rhox	RHOXF1	Rhox homeobox family, member 1	Xq24	158800	PEPP1, OTEX
+	RHOXF2	Rhox homeobox family, member 2	Xq24	84528	PEPP2
+	RHOXF2B	Rhox homeobox family, member 2B	Xq24	727940	PEPP2L
+Sebox	SEBOX	SEBOX homeobox	17q11.2	645832	OG9, OG9X
+Shox	SHOX	short stature homeobox	Xp22.33/ Yp11.32	6473	SHOXY, GCFX, PHOG
+	SHOX2	short stature homeobox 2	3q25.32	6474	SHOT, OG12, OG12X
+Tprx	TPRX1	tetra-peptide repeat homeobox 1	19q13.32	284355	
+	TPRX2P	tetra-peptide repeat homeobox 2 pseudogene	19q13.32	503627	
+	TPRX1P1	tetra-peptide repeat homeobox 1 pseudogene 1	10q22.3	503628	
+	TPRX1P2	tetra-peptide repeat homeobox 1 pseudogene 2	10q22.3	503629	
+	TPRXL	tetra-peptide repeat homeobox-like	3p25.1	348825	
+Uncx	UNCX	UNC homeobox	7p22.3	340260	PHD1, UNCX4.1
+Vsx	VSX1	visual system homeobox 1	20p11.21	30813	KTCN, RINX
+	VSX2	visual system homeobox 2	14q24.3	338917	RET1, HOX10, CHX10

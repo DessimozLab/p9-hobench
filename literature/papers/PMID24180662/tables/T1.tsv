@@ -1,0 +1,77 @@
+	Species (genome assembly version)	Sequence names in phylogenetic analyses ^a	Type ^b	Chromosome, linkage group, or genomic scaffold	Loc. (Mb)
+Sarcopterygians					
+Mammals	Human	Hsa X OPN1LW	LWS	X	153.41
+	(GRCh37)	Hsa X OPN1MW2	LWS	X	153.49
+		Hsa X OPN1MW	LWS	X	153.45
+		Hsa 3 RHO	RH1	3	129.25
+		Hsa 7 OPN1SW	SWS1	7	128.41
+	Mouse	Mmu X Opn1mw	LWS	X	71.37
+	(NCBIM37)	Mmu 6 Rho	RH1	6	115.88
+		Mmu 6 Opn1sw	SWS1	6	29.33
+	Grey short-tailed opossum	Mdo X LWS	LWS	X	14.66
+	(MonDom5)	Mdo 6 RH1	RH1	6	246.61
+		Mdo 8 SWS1	SWS1	8	188.61
+Birds	Chicken	Gga LWS	LWS	^c	
+	(WASHUC2)	Gga 12 RH1	RH1	12	20.16
+		Gga 26 RH2	RH2	26	4.38
+		Gga SWS1	SWS1	^c	
+		Gga SWS2	SWS2	^c	
+Non-avian reptiles	Carolina anole lizard	Aca 2 LWS	LWS	2	88.66
+	(AnoCar2.0)	Aca RH1	RH1	GL343273.1	0.64
+		Aca 4 RH2	RH2	4	122.81
+		Aca SWS1	SWS1	GL343828.1	0.11
+		Aca 2 SWS2	SWS2	2	88.63
+Amphibians	Western clawed frog	Xtr opn1lw	LWS	GL172911.1	0.21
+	(JGI_4.2)	Xtr rho	RH1	GL172832.1	1.64
+		Xtr opn1sw	SWS1	GL173116.1	0.61
+		Xtr SWS2	SWS2	GL172911.1	0.22
+Coelacanths	Coelacanth	Lch RH1	RH1	JH126975.1	0.80
+	(LatCha1)	Lch RH2	RH2	JH126819.1	1.63
+		Lch SWS2	SWS2	JH127263.1	0.54
+Actinopterygians					
+Holostean fishes	Spotted gar	Loc LG1 LWS	LWS	LG1	2.61
+	(LepOcu1)	Loc LG5 RH1-1^d	RH1	LG5	40.45
+		Loc LG5 RH1-2	RH1	LG5	23.74
+		Loc LG3 RH2	RH2	LG3	36.55
+		Loc LG8 SWS1-1^e	SWS1	LG8	10.39
+		Loc LG8 SWS1-2^d	SWS1	LG8	10.40
+		Loc LG1 SWS2	SWS2	LG1	2.62
+Teleost fishes	Zebrafish	Dre 11 opn1lw1	LWS	11	26.41
+	(Zv9)	Dre 11 opn1lw2	LWS	11	26.41
+		Dre exorh	RH1	Zv9_NA986	0.130 Kb
+		Dre 8 rho	RH1	8	55.71
+		Dre 11 rhol	RH1	11	19.52
+		Dre 6 opn1mw1	RH2	6	41.11
+		Dre 6 opn1mw2	RH2	6	41.12
+		Dre 6 opn1mw3	RH2	6	41.12
+		Dre 6 opn1mw4	RH2	6	41.13
+		Dre 4 opn1sw1	SWS1	4	12.64
+		Dre 11 opn1sw2	SWS2	11	26.41
+	Three-spined stickleback	Gac XVII LWS	LWS	XVII	10.63
+	(BROADS1)	Gac XII RH1-1^d,e	RH1	XII	1.18
+		Gac XII RH1-2	RH1	XII	0.81
+		Gac RH2-1	RH2	scaffold 27	4.15
+		Gac RH2-2	RH2	scaffold 27	4.16
+		Gac SWS1	SWS1	scaffold 90	0.46
+		Gac XVII SWS2	SWS2	XVII	10.62
+	Medaka	Ola 5 LWS-1	LWS	5	27.02
+	(MEDAKA1)	Ola 5 LWS-2	LWS	5	27.01
+		Ola 7 RH1-1	RH1	7	17.43
+		Ola 7 RH1-2	RH1	7	17.10
+		Ola RH2-1	RH2	ultracontig 62	1.61
+		Ola RH2-2	RH2	ultracontig 62	1.62
+		Ola RH2-3	RH2	ultracontig 62	1.62
+		Ola SWS1	SWS1	scaffold 1021	0.04
+		Ola 5 SWS2-1	SWS2	5	27.01
+		Ola 5 SWS2-2	SWS2	5	27.00
+	Spotted green pufferfish	Tni 11 LWS	LWS	11	10.12
+	(TETRAODON8)	Tni 9 RH1-1	RH1	9	6.68
+		Tni 9 RH1-2	RH1	9	6.48
+		Tni 11 RH2	RH2	11	5.97
+		Tni 11 SWS2	SWS2	11	10.12
+Cyclostomes					
+Lampreys	Pouched lamprey	Gau Lws	LWS		
+		Gau RhA	RH1		
+		Gau RhB	RH2		
+		Gau Sws1	SWS1		
+		Gau Sws2	SWS2		

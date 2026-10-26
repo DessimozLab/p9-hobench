@@ -1,0 +1,71 @@
+{
+  "pmid": "15014982",
+  "pmcid": null,
+  "doi": "10.1007/s00438-004-0995-7",
+  "source": "MED",
+  "title": "Horizontal gene transfer promoted evolution of the ability to propagate under anaerobic conditions in yeasts",
+  "authors": [
+    "Gojković Z",
+    "Knecht W",
+    "Zameitat E",
+    "Warneboldt J",
+    "Coutelis JB",
+    "Pynyaha Y",
+    "Neuveglise C",
+    "Møller K",
+    "Löffler M",
+    "Piskur J"
+  ],
+  "year": 2004,
+  "journal": "Molecular genetics and genomics : MGG",
+  "is_open_access": false,
+  "license": null,
+  "redistributable": false,
+  "cited_by_count": 97,
+  "has_supplements_flag": false,
+  "in_epmc": false,
+  "in_pmc": false,
+  "abstract": "The ability to propagate under anaerobic conditions is an essential and unique trait of brewer's or baker's yeast ( Saccharomyces cervisiae). To understand the evolution of facultative anaerobiosis we studied the dependence of de novo pyrimidine biosynthesis, more precisely the fourth enzymic activity catalysed by dihydroorotate dehydrogenase (DHODase), on the enzymes of the respiratory chain in several yeast species. While the majority of yeasts possess a mitochondrial DHODase, Saccharomyces cerevisiae has a cytoplasmatic enzyme, whose activity is independent of the presence of oxygen. From the phylogenetic point of view, this enzyme is closely related to a bacterial DHODase from Lactococcus lactis. Here we show that S. kluyveri, which separated from the S. cerevisiae lineage more than 100 million years ago, represents an evolutionary intermediate, having both cytoplasmic and mitochondrial DHODases. We show that these two S. kluyveri enzymes, and their coding genes, differ in their dependence on the presence of oxygen. Only the cytoplasmic DHODase promotes growth in the absence of oxygen. Apparently a Saccharomyces yeast progenitor which had a eukaryotic-like mitochondrial DHODase acquired a bacterial gene for DHODase, which subsequently allowed cell growth gradually to become independent of oxygen.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1007/s00438-004-0995-7"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "15014982"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A15014982+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID15014982",
+  "retrieval_date": "2026-10-26T18:33:03Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [
+    "full text: all automatic routes failed; publisher/other URLs for manual retrieval: https://doi.org/10.1007/s00438-004-0995-7"
+  ],
+  "fulltext": null,
+  "supplements": [],
+  "files": [],
+  "events": [
+    {
+      "step": "license",
+      "ok": true,
+      "url": "",
+      "detail": "not in the Europe PMC open-access subset: derived text stored under raw/ (not for redistribution); check publisher terms"
+    },
+    {
+      "step": "pmcid",
+      "ok": false,
+      "url": "",
+      "detail": "no PMCID: article is not in PMC/Europe PMC full-text collection"
+    },
+    {
+      "step": "supplements",
+      "ok": true,
+      "url": "",
+      "detail": "article has no supplementary files listed"
+    }
+  ]
+}

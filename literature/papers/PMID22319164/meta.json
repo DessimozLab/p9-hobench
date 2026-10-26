@@ -1,0 +1,137 @@
+{
+  "pmid": "22319164",
+  "pmcid": "PMC3375472",
+  "doi": "10.1093/molbev/mss018",
+  "source": "MED",
+  "title": "Evolution of the globin gene family in deuterostomes: lineage-specific patterns of diversification and attrition",
+  "authors": [
+    "Hoffmann FG",
+    "Opazo JC",
+    "Hoogewijs D",
+    "Hankeln T",
+    "Ebner B",
+    "Vinogradov SN",
+    "Bailly X",
+    "Storz JF"
+  ],
+  "year": 2012,
+  "journal": "Molecular biology and evolution",
+  "is_open_access": false,
+  "license": null,
+  "redistributable": false,
+  "cited_by_count": 46,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "In the Metazoa, globin proteins display an underlying unity in tertiary structure that belies an extraordinary diversity in primary structures, biochemical properties, and physiological functions. Phylogenetic reconstructions can reveal which of these functions represent novel, lineage-specific innovations, and which represent ancestral functions that are shared with homologous globin proteins in other eukaryotes and even prokaryotes. To date, our understanding of globin diversity in deuterostomes has been hindered by a dearth of genomic sequence data from the Ambulacraria (echinoderms + hemichordates), the sister group of chordates, and the phylum Xenacoelomorpha, which includes xenoturbellids, acoelomorphs, and nemertodermatids. Here, we report the results of a phylogenetic and comparative genomic analysis of the globin gene repertoire of deuterostomes. We first characterized the globin genes of the acorn worm, Saccoglossus kowalevskii, a representative of the phylum Hemichordata. We then integrated genomic sequence data from the acorn worm into a comprehensive analysis of conserved synteny and phylogenetic relationships among globin genes from representatives of the eight lineages that comprise the superphylum Deuterostomia. The primary aims were 1) to unravel the evolutionary history of the globin gene superfamily in deuterostomes and 2) to use the estimated phylogeny to gain insights into the functional evolution of deuterostome globins. Results of our analyses indicate that the deuterostome common ancestor possessed a repertoire of at least four distinct globin paralogs and that different subsets of these ancestral genes have been retained in each of the descendant organismal lineages. In each major deuterostome group, a different subset of ancestral precursor genes underwent lineage-specific expansions of functional diversity through repeated rounds of gene duplication and divergence. By integrating results of the phylogenetic analysis with available functional data, we discovered that circulating oxygen-transport hemoglobins evolved independently in several deuterostome lineages and that intracellular nerve globins evolved independently in chordates and acoelomorph worms.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1093/molbev/mss018"
+    },
+    {
+      "style": "html",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3375472"
+    },
+    {
+      "style": "pdf",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3375472?pdf=render"
+    },
+    {
+      "style": "doi",
+      "availability": "Free",
+      "site": "DOI",
+      "url": "https://doi.org/10.1093/molbev/mss018"
+    }
+  ],
+  "query": {
+    "kind": "pmcid",
+    "value": "PMC3375472"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC3375472&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID22319164",
+  "retrieval_date": "2026-10-26T19:10:44Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "pmc_html",
+    "text_file": "raw/fulltext.txt",
+    "chars": 53687,
+    "n_figures": 3,
+    "n_tables": 1,
+    "warnings": []
+  },
+  "files": [
+    {
+      "path": "raw/article.html",
+      "role": "html",
+      "bytes": 237571,
+      "sha256": "4843bb22b2eb570271f92141e3285da87df7aea21154b399227b1c3efb13f670",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3375472/"
+    },
+    {
+      "path": "raw/tables/T1.tsv",
+      "role": "table_tsv",
+      "bytes": 955,
+      "sha256": "041c22490e113f7fac7279b5dc4c637dee4290676441735fd456cc53b11e6515",
+      "url": ""
+    },
+    {
+      "path": "raw/fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 53917,
+      "sha256": "58547a7ab4f8a9ebf9ae8745636a59ce304b0164a7758300ede1ac6ee9c5752e",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "license",
+      "ok": true,
+      "url": "",
+      "detail": "not in the Europe PMC open-access subset: derived text stored under raw/ (not for redistribution); check publisher terms"
+    },
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3375472/fullTextXML",
+      "detail": "500 https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3375472/fullTextXML server error (persistent)"
+    },
+    {
+      "step": "pmc_s3_opendata",
+      "ok": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/?list-type=2&prefix=PMC3375472.",
+      "detail": "article not in PMC OA open-data bucket (not in OA subset)"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC3375472",
+      "detail": "404 https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC3375472 NCBI/xpmc21 - WWW Error 404 Diagnostic h1.error {color: red; font-size: 40pt} div.diags {text-indent: 0.5in } Can't find"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC3375472",
+      "detail": "404 https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC3375472 <script type=\"module\" crossorigin=\"\" src=\"https://cdn.ncbi.nl"
+    },
+    {
+      "step": "ncbi_efetch_pmc",
+      "ok": false,
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC3375472&rettype=xml",
+      "detail": "no usable body (2697 chars); ['no <body> in XML (publisher may not allow full text)']"
+    },
+    {
+      "step": "pmc_html_page",
+      "ok": true,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3375472/",
+      "detail": "53687 chars (free-to-read page; not necessarily re-usable)"
+    }
+  ]
+}

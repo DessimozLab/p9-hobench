@@ -1,0 +1,74 @@
+Supergroup	Rank	Species	Mcm10	Mcm8	Mcm9
+Amoebozoa	Dictyostelids	Dictyostelium discoideum	-	+	+
+					
+	Archamoebae	Entamoeba histolytica	-	+	+
+					
+Chromalveolates	Phaeophytes	Aureococcus anophagefferens	-	+	+
+					
+	Ciliates	Paramecium tetraurelia	-	+	+
+					
+		Tetrahymena thermophila	-	+	+
+					
+	Apicomplexa	Cryptosporidium parvum	-	-	-
+					
+		Toxoplasma gondii	55.m04882 (ToxoDB)	+	+
+					
+	Oomycetes	Phytophthora ramorum	Phyra1_1:82084 (JGI)	+	+
+					
+	Diatoms	Phaeodactylum tricornutum	Phatr2:32848 (JGI)	+	+
+					
+		Thalassiosira pseudonana	Thaps3:7942 (JGI)	+	+
+					
+Excavates	Heterolobosea	Naegleria gruberi	-	+	+
+					
+	Diplomonads	Giardia lamblia	-	-	-
+					
+	Parabasalids	Trichomonas vaginalis	XP_001314784 <https://www.ncbi.nlm.nih.gov/protein/XP_001314784>	-	-
+					
+	Kinetoplastids	Trypanosoma brucei	XP_803462 <https://www.ncbi.nlm.nih.gov/protein/XP_803462>	+	+
+					
+Plantae	Land Plants	Arabidopsis thaliana	NP_179694 <https://www.ncbi.nlm.nih.gov/protein/NP_179694>	+	+
+					
+		Physcomitrella patens	Phypa1_1:183570 (JGI)	+	+
+					
+	Chlorophytes	Chlamydomonas reinhardtii	NP_001692606	+	+
+					
+		Ostreococcus tauri	Ostta4:34955 (JGI)	+	+
+					
+	Red Algae	Cyanidioschyzon merolae	-	+	+
+					
+Opisthokonts	Animals	Caenorhabditis elegans	NP_499456 <https://www.ncbi.nlm.nih.gov/protein/NP_499456>	-	-
+					
+		Ciona intestinalis	Cioin2:216242 (JGI)	+	+
+					
+		Drosophila melanogaster	NP_610097 <https://www.ncbi.nlm.nih.gov/protein/NP_610097>	+	-
+					
+		Mus musculus	NP_081566 <https://www.ncbi.nlm.nih.gov/protein/NP_081566>	+	+
+					
+		Nematostella vectensis	XP_001624863 <https://www.ncbi.nlm.nih.gov/protein/XP_001624863>	-	-
+					
+		Homo sapiens	NP_877428 <https://www.ncbi.nlm.nih.gov/protein/NP_877428>*	+	+
+					
+			NP_060988 <https://www.ncbi.nlm.nih.gov/protein/NP_060988>*		
+					
+		Lottia gigantea	Lotgi1:238353 (JGI)	+	+
+					
+		Trichoplax adhaerens	Triad1:55391 (JGI)	+	+
+					
+		Xenopus laevis	NP_001082048 <https://www.ncbi.nlm.nih.gov/protein/NP_001082048>	+	+
+					
+	Fungi	Batrachochytrium dendrobatidis	BDEG_01898 (BROAD)	+	+
+					
+		Encephalitozoon cuniculi	-	+	+
+					
+		Neurospora crassa	XP_960373 <https://www.ncbi.nlm.nih.gov/protein/XP_960373>	-	-
+					
+		Saccharomyces cerevisiae	NP_012116 <https://www.ncbi.nlm.nih.gov/protein/NP_012116>	-	-
+					
+		Schizosaccharomyces pombe	NP_596702 <https://www.ncbi.nlm.nih.gov/protein/NP_596702>	-	-
+					
+		Phycomyces blakesleeanus	Phybl1:72484 (JGI)	-	-
+					
+		Ustilago maydis	XP_758515 <https://www.ncbi.nlm.nih.gov/protein/XP_758515>	-	-
+					
+	Choanoflagellates	Monosiga brevicollis	Monbr1:32446 (JGI)	+	+

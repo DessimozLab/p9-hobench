@@ -1,0 +1,116 @@
+{
+  "pmid": "39079985",
+  "pmcid": "PMC11612004",
+  "doi": "10.1007/s00427-024-00720-6",
+  "source": "MED",
+  "title": "Zebrafish: unraveling genetic complexity through duplicated genes",
+  "authors": [
+    "Tasnim M",
+    "Wahlquist P",
+    "Hill JT"
+  ],
+  "year": 2024,
+  "journal": "Development genes and evolution",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 35,
+  "has_supplements_flag": false,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "The zebrafish is an invaluable model organism for genetic, developmental, and disease research. Although its high conservation with humans is often cited as justification for its use, the zebrafish harbors oft-ignored genetic characteristics that may provide unique insights into gene structure and function. Zebrafish, along with other teleost fish, underwent an additional round of whole genome duplication after their split from tetrapods-resulting in an abundance of duplicated genes when compared to other vertebrates. These duplicated genes have evolved in distinct ways over the ensuing 350 million years. Thus, each gene within a duplicated gene pair has nuanced differences that create a unique identity. By investigating both members of the gene pair together, we can elucidate the mechanisms that underly protein structure and function and drive the complex interplay within biological systems, such as signal transduction cascades, genetic regulatory networks, and evolution of tissue and organ function. It is crucial to leverage such studies to explore these molecular dynamics, which could have far-reaching implications for both basic science and therapeutic development. Here, we will review the role of gene duplications and the existing models for gene divergence and retention following these events. We will also highlight examples within each of these models where studies comparing duplicated genes in the zebrafish have yielded key insights into protein structure, function, and regulation.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1007/s00427-024-00720-6"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC11612004"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC11612004?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmcid",
+    "value": "PMC11612004"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC11612004&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID39079985",
+  "retrieval_date": "2026-10-26T18:53:37Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 126357,
+    "n_figures": 3,
+    "n_tables": 1,
+    "warnings": []
+  },
+  "supplements": [],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 314863,
+      "sha256": "6cb515b489935504df65278d611d78646cec85f2974fdedb45c665b5f9b0ab61",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11612004/fullTextXML"
+    },
+    {
+      "path": "tables/Tab1.tsv",
+      "role": "table_tsv",
+      "bytes": 2249,
+      "sha256": "3b182294f80572211f80425d96ba9a319ec33224477fd2bdb83886ab63fc80b8",
+      "url": ""
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 126839,
+      "sha256": "b991b674c2d420b169561d58f378c2849e93188ccf72834a65c5d4c6ab4adcfb",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 170858,
+      "sha256": "1307d1d6232c501a856924ed0cd4820e0ae4ec0f27a66b90500fc1021824f4e6",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11612004/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11612004/fullTextXML",
+      "detail": "126357 chars, 3 figures, 1 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11612004/supplementaryFiles",
+      "detail": "0 files extracted to raw/supp/; 6 image files left inside raw/supplementary.zip"
+    },
+    {
+      "step": "pmc_page_supplements",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11612004/",
+      "detail": "no supplementary links on PMC page"
+    },
+    {
+      "step": "supplements",
+      "ok": true,
+      "url": "",
+      "detail": "article has no supplementary files listed"
+    }
+  ]
+}

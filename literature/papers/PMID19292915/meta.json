@@ -1,0 +1,185 @@
+{
+  "pmid": "19292915",
+  "pmcid": "PMC2667178",
+  "doi": "10.1186/1471-2148-9-60",
+  "source": "MED",
+  "title": "Ancient diversification of eukaryotic MCM DNA replication proteins",
+  "authors": [
+    "Liu Y",
+    "Richards TA",
+    "Aves SJ"
+  ],
+  "year": 2009,
+  "journal": "BMC evolutionary biology",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 69,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "BackgroundYeast and animal cells require six mini-chromosome maintenance proteins (Mcm2-7) for pre-replication complex formation, DNA replication initiation and DNA synthesis. These six individual MCM proteins form distinct heterogeneous subunits within a hexamer which is believed to form the replicative helicase and which associates with the essential but non-homologous Mcm10 protein during DNA replication. In contrast Archaea generally only possess one MCM homologue which forms a homohexameric MCM helicase. In some eukaryotes Mcm8 and Mcm9 paralogues also appear to be involved in DNA replication although their exact roles are unclear.ResultsWe used comparative genomics and phylogenetics to reconstruct the diversification of the eukaryotic Mcm2-9 gene family, demonstrating that Mcm2-9 were formed by seven gene duplication events before the last common ancestor of the eukaryotes. Mcm2-7 protein paralogues were present in all eukaryote genomes studied suggesting that no gene loss or functional replacements have been tolerated during the evolutionary diversification of eukaryotes. Mcm8 and 9 are widely distributed in eukaryotes and group together on the MCM phylogenetic tree to the exclusion of all other MCM paralogues suggesting co-ancestry. Mcm8 and Mcm9 are absent in some taxa, including Trichomonas and Giardia, and appear to have been secondarily lost in some fungi and some animals. The presence and absence of Mcm8 and 9 is concordant in all taxa sampled with the exception of Drosophila species. Mcm10 is present in most eukaryotes sampled but shows no concordant pattern of presence or absence with Mcm8 or 9.ConclusionA multifaceted and heterogeneous Mcm2-7 hexamer evolved during the early evolution of the eukaryote cell in parallel with numerous other acquisitions in cell complexity and prior to the diversification of extant eukaryotes. The conservation of all six paralogues throughout the eukaryotes suggests that each Mcm2-7 hexamer component has an exclusive functional role, either by a combination of unique lock and key interactions between MCM hexamer subunits and/or by a range of novel side interactions. Mcm8 and 9 evolved early in eukaryote cell evolution and their pattern of presence or absence suggests that they may have linked functions. Mcm8 is highly divergent in all Drosophila species and may not provide a good model for Mcm8 in other eukaryotes.",
+  "fulltext_urls": [
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Unpaywall",
+      "url": "https://bmcevolbiol.biomedcentral.com/track/pdf/10.1186/1471-2148-9-60"
+    },
+    {
+      "style": "abs",
+      "availability": "Open access",
+      "site": "BioMedCentral",
+      "url": "http://www.biomedcentral.com/1471-2148/9/60/abstract"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "BioMedCentral",
+      "url": "http://www.biomedcentral.com/1471-2148/9/60"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "BioMedCentral",
+      "url": "http://www.biomedcentral.com/content/pdf/1471-2148-9-60.pdf"
+    },
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1186/1471-2148-9-60"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC2667178"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC2667178?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "19292915"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A19292915+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID19292915",
+  "retrieval_date": "2026-10-26T19:00:03Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 69405,
+    "n_figures": 2,
+    "n_tables": 1,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/1471-2148-9-60-S6.doc",
+    "raw/supp/1471-2148-9-60-S1.pdf",
+    "raw/supp/1471-2148-9-60-S4.pdf",
+    "raw/supp/1471-2148-9-60-S5.txt",
+    "raw/supp/1471-2148-9-60-S3.pdf",
+    "raw/supp/1471-2148-9-60-S7.txt",
+    "raw/supp/1471-2148-9-60-S2.pdf"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 128718,
+      "sha256": "ee2e6b2f8815431d0c5bb731f5ce3b3274c65282d5d7910fb0664678bdf18f87",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2667178/fullTextXML"
+    },
+    {
+      "path": "tables/T1.tsv",
+      "role": "table_tsv",
+      "bytes": 2599,
+      "sha256": "f976671a2b060edde20fdb12c0c6a6e1f9d9f2db0d651f03862e4251caa3d12e",
+      "url": ""
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 69554,
+      "sha256": "efc28bfc31b130c141b3b2145f3b3430361ff7be5029475b32af4d35b57e0806",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 1481606,
+      "sha256": "ae0f00cb1785c83c166ecc17ec26c1d4570a2a10efa00e8ddba4dc9fabfebb03",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2667178/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-9-60-S6.doc",
+      "role": "supplement",
+      "bytes": 61440,
+      "sha256": "fb4972d2dbb3c08545f2fb1542a4a2d52f56d3722ccb022f63dfc8865aebd33f",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2667178/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-9-60-S1.pdf",
+      "role": "supplement",
+      "bytes": 379527,
+      "sha256": "73e14962cc7504d43cff38dd9ce2bece50472d3804ef0fe6702b1e9e613d721c",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2667178/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-9-60-S4.pdf",
+      "role": "supplement",
+      "bytes": 378018,
+      "sha256": "2b6f71142a1ae5bb09f7ad98a954c26a800d9215a7e12f18f57f57271f8f36ef",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2667178/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-9-60-S5.txt",
+      "role": "supplement",
+      "bytes": 3485,
+      "sha256": "bfa77587c773bd2c98faf904ea389de500540d365621aa32b1ac14cefae18b48",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2667178/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-9-60-S3.pdf",
+      "role": "supplement",
+      "bytes": 375890,
+      "sha256": "8b91d7f4f151fe2f5c1a9aa38aa769003c6ad3b5c0f25dd9f8169d2e0bedb62e",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2667178/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-9-60-S7.txt",
+      "role": "supplement",
+      "bytes": 8073,
+      "sha256": "f03a0c69937426d66ea7fea8a9f45c42686b348a3dbe2353a04980a6dd4edd6c",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2667178/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-9-60-S2.pdf",
+      "role": "supplement",
+      "bytes": 375412,
+      "sha256": "d72e60eb5e9ea470499b416980cd042226e71e83361df076a0354480f088cf00",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2667178/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2667178/fullTextXML",
+      "detail": "69405 chars, 2 figures, 1 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2667178/supplementaryFiles",
+      "detail": "7 files extracted to raw/supp/; 4 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

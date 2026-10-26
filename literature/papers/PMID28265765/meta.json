@@ -1,0 +1,108 @@
+{
+  "pmid": "28265765",
+  "pmcid": "PMC5610209",
+  "doi": "10.1007/s00709-017-1095-y",
+  "source": "MED",
+  "title": "Physiology, phylogeny, early evolution, and GAPDH",
+  "authors": [
+    "Martin WF",
+    "Cerff R"
+  ],
+  "year": 2017,
+  "journal": "Protoplasma",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 33,
+  "has_supplements_flag": false,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "The chloroplast and cytosol of plant cells harbor a number of parallel biochemical reactions germane to the Calvin cycle and glycolysis, respectively. These reactions are catalyzed by nuclear encoded, compartment-specific isoenzymes that differ in their physiochemical properties. The chloroplast cytosol isoenzymes of D-glyceraldehyde-3-phosphate dehydrogenase (GAPDH) harbor evidence of major events in the history of life: the origin of the first genes, the bacterial-archaeal split, the origin of eukaryotes, the evolution of protein compartmentation during eukaryote evolution, the origin of plastids, and the secondary endosymbiosis among the algae with complex plastids. The reaction mechanism of GAPDH entails phosphorolysis of a thioester to yield an energy-rich acyl phosphate bond, a chemistry that points to primitive pathways of energy conservation that existed even before the origin of the first free-living cells. Here, we recount the main insights that chloroplast and cytosolic GAPDH provided into endosymbiosis and physiological evolution.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1007/s00709-017-1095-y"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC5610209"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC5610209?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "28265765"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A28265765+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID28265765",
+  "retrieval_date": "2026-10-26T19:13:08Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 96839,
+    "n_figures": 4,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 154867,
+      "sha256": "75c3da151fe624b5f3ffa8fec1946e0b985af88415c3e9b718f9cf0c12149e8e",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5610209/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 97237,
+      "sha256": "a4c19215fdfc312d0142dcdab85d77b21c61ac15a4470f98561d135f16eea68b",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 198352,
+      "sha256": "181d35692a991fedab7c08243e50ae7485ad077f75f56fad11db94fa459d7ba0",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5610209/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5610209/fullTextXML",
+      "detail": "96839 chars, 4 figures, 0 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5610209/supplementaryFiles",
+      "detail": "0 files extracted to raw/supp/; 8 image files left inside raw/supplementary.zip"
+    },
+    {
+      "step": "pmc_page_supplements",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5610209/",
+      "detail": "no supplementary links on PMC page"
+    },
+    {
+      "step": "supplements",
+      "ok": true,
+      "url": "",
+      "detail": "article has no supplementary files listed"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "pmid": "2531898",
+  "pmcid": "PMC298494",
+  "doi": "10.1073/pnas.86.23.9355",
+  "source": "MED",
+  "title": "Evolutionary relationship of archaebacteria, eubacteria, and eukaryotes inferred from phylogenetic trees of duplicated genes",
+  "authors": [
+    "Iwabe N",
+    "Kuma K",
+    "Hasegawa M",
+    "Osawa S",
+    "Miyata T"
+  ],
+  "year": 1989,
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "is_open_access": false,
+  "license": null,
+  "redistributable": false,
+  "cited_by_count": 487,
+  "has_supplements_flag": false,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "All extant organisms are though to be classified into three primary kingdoms, eubacteria, eukaryotes, and archaebacteria. The molecular evolutionary studies on the origin and evolution of archaebacteria to date have been carried out by inferring a molecular phylogenetic tree of the primary kingdoms based on comparison of a single molecule from a variety of extant species. From such comparison, it was not possible to derive the exact evolutionary relationship among the primary kingdoms, because the root of the tree could not be determined uniquely. To overcome this difficulty, we compared a pair of duplicated genes, elongation factors Tu and G, and the alpha and beta subunits of ATPase, which are thought to have diverged by gene duplication before divergence of the primary kingdoms. Using each protein pair, we inferred a composite phylogenetic tree with two clusters corresponding to different proteins, from which the evolutionary relationship of the primary kingdoms is determined uniquely. The inferred composite trees reveal that archaebacteria are more closely related to eukaryotes than to eubacteria for all the cases. By bootstrap resamplings, this relationship is reproduced with probabilities of 0.96, 0.79, 1.0, and 1.0 for elongation factors Tu and G and for ATPase subunits alpha and beta, respectively. There are also several lines of evidence for the close sequence similarity between archaebacteria and eukaryotes. Thus we propose that this tree topology represents the general evolutionary relationship among the three primary kingdoms.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1073/pnas.86.23.9355"
+    },
+    {
+      "style": "html",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC298494"
+    },
+    {
+      "style": "pdf",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC298494?pdf=render"
+    },
+    {
+      "style": "doi",
+      "availability": "Free",
+      "site": "DOI",
+      "url": "https://doi.org/10.1073/pnas.86.23.9355"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "2531898"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A2531898+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID2531898",
+  "retrieval_date": "2026-10-26T18:12:38Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "pmc_html",
+    "text_file": "raw/fulltext.txt",
+    "chars": 8125,
+    "n_figures": 5,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [],
+  "files": [
+    {
+      "path": "raw/article.html",
+      "role": "html",
+      "bytes": 125997,
+      "sha256": "ba3781b51af1146bed17dfa16ab7f870c96f784b1293848f0d9bd339014622da",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC298494/"
+    },
+    {
+      "path": "raw/fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 8186,
+      "sha256": "fac58b50a5657c47f19e246b9ea8d0d2da3ccb2460819a7eca6c3dce730cad81",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "license",
+      "ok": true,
+      "url": "",
+      "detail": "not in the Europe PMC open-access subset: derived text stored under raw/ (not for redistribution); check publisher terms"
+    },
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC298494/fullTextXML",
+      "detail": "500 https://www.ebi.ac.uk/europepmc/webservices/rest/PMC298494/fullTextXML server error (persistent)"
+    },
+    {
+      "step": "pmc_s3_opendata",
+      "ok": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/?list-type=2&prefix=PMC298494.",
+      "detail": "article not in PMC OA open-data bucket (not in OA subset)"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC298494",
+      "detail": "404 https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC298494 NCBI/xpmc12 - WWW Error 404 Diagnostic h1.error {color: red; font-size: 40pt} div.diags {text-indent: 0.5in } Can't find"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC298494",
+      "detail": "404 https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC298494 <script type=\"module\" crossorigin=\"\" src=\"https://cdn.ncbi.nl"
+    },
+    {
+      "step": "ncbi_efetch_pmc",
+      "ok": false,
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC298494&rettype=xml",
+      "detail": "no usable body (1923 chars); ['no <body> in XML (publisher may not allow full text)']"
+    },
+    {
+      "step": "pmc_html_page",
+      "ok": true,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC298494/",
+      "detail": "8125 chars (free-to-read page; not necessarily re-usable)"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC298494/supplementaryFiles",
+      "detail": "0 Article with id PMC298494 is not open access one"
+    },
+    {
+      "step": "pmc_page_supplements",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC298494/",
+      "detail": "no supplementary links on PMC page"
+    },
+    {
+      "step": "supplements",
+      "ok": true,
+      "url": "",
+      "detail": "article has no supplementary files listed"
+    }
+  ]
+}

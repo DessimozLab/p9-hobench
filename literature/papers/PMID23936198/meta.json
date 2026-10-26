@@ -1,0 +1,125 @@
+{
+  "pmid": "23936198",
+  "pmcid": "PMC3728087",
+  "doi": "10.1371/journal.pone.0070396",
+  "source": "MED",
+  "title": "Functional divergence and convergent evolution in the plastid-targeted glyceraldehyde-3-phosphate dehydrogenases of diverse eukaryotic algae",
+  "authors": [
+    "Gaston D",
+    "Roger AJ"
+  ],
+  "year": 2013,
+  "journal": "PloS one",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 6,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "BackgroundGlyceraldehyde-3-phosphate dehydrogenase (GAPDH) is a key enzyme of the glycolytic pathway, reversibly catalyzing the sixth step of glycolysis and concurrently reducing the coenzyme NAD(+) to NADH. In photosynthetic organisms a GAPDH paralog (Gap2 in Cyanobacteria, GapA in most photosynthetic eukaryotes) functions in the Calvin cycle, performing the reverse of the glycolytic reaction and using the coenzyme NADPH preferentially. In a number of photosynthetic eukaryotes that acquired their plastid by the secondary endosymbiosis of a eukaryotic red alga (Alveolates, haptophytes, cryptomonads and stramenopiles) GapA has been apparently replaced with a paralog of the host's own cytosolic GAPDH (GapC1). Plastid GapC1 and GapA therefore represent two independent cases of functional divergence and adaptations to the Calvin cycle entailing a shift in subcellular targeting and a shift in binding preference from NAD(+) to NADPH.MethodsWe used the programs FunDi, GroupSim, and Difference Evolutionary-Trace to detect sites involved in the functional divergence of these two groups of GAPDH sequences and to identify potential cases of convergent evolution in the Calvin-cycle adapted GapA and GapC1 families. Sites identified as being functionally divergent by all or some of these programs were then investigated with respect to their possible roles in the structure and function of both glycolytic and plastid-targeted GAPDH isoforms.ConclusionsIn this work we found substantial evidence for convergent evolution in GapA/B and GapC1. In many cases sites in GAPDHs of these groups converged on identical amino acid residues in specific positions of the protein known to play a role in the function and regulation of plastid-functioning enzymes relative to their cytosolic counterparts. In addition, we demonstrate that bioinformatic software like FunDi are important tools for the generation of meaningful biological hypotheses that can then be tested with direct experimental techniques.",
+  "fulltext_urls": [
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Unpaywall",
+      "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0070396&type=printable"
+    },
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1371/journal.pone.0070396"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3728087"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3728087?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "23936198"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A23936198+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID23936198",
+  "retrieval_date": "2026-10-26T19:13:49Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 68635,
+    "n_figures": 3,
+    "n_tables": 2,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/pone.0070396.s003.zip"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 153969,
+      "sha256": "f30045d32ec380e78bea6286234104205c83d56e9ce23a444bcd971da72f9f1f",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3728087/fullTextXML"
+    },
+    {
+      "path": "tables/tab1.tsv",
+      "role": "table_tsv",
+      "bytes": 105,
+      "sha256": "a802d9e25d8360f77e056fc7e4f363f1f066cdccca8ed6477cb29699509d8186",
+      "url": ""
+    },
+    {
+      "path": "tables/tab2.tsv",
+      "role": "table_tsv",
+      "bytes": 608,
+      "sha256": "ef8f61273253b00b15e0eefd4b86c9b39f9a213f4a62739d710c0b3c5dfa1230",
+      "url": ""
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 68901,
+      "sha256": "23769934a81bcf55fb63da759fa8043cf647d30f477b1ceaa70c7139d6847803",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 2525841,
+      "sha256": "02309fdb14187e635feb67acd536e0456322545098af27887bcd3f785f1dd538",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3728087/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/pone.0070396.s003.zip",
+      "role": "supplement",
+      "bytes": 49839,
+      "sha256": "68a3ce208487b036599fc85321dacf2f0c4f97ddea7ba07c4cfd38b004f2ece9",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3728087/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3728087/fullTextXML",
+      "detail": "68635 chars, 3 figures, 2 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3728087/supplementaryFiles",
+      "detail": "1 files extracted to raw/supp/; 8 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

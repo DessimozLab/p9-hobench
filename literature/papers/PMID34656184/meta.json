@@ -1,0 +1,173 @@
+{
+  "pmid": "34656184",
+  "pmcid": "PMC8520639",
+  "doi": "10.1186/s40694-021-00117-4",
+  "source": "MED",
+  "title": "Class-II dihydroorotate dehydrogenases from three phylogenetically distant fungi support anaerobic pyrimidine biosynthesis",
+  "authors": [
+    "Bouwknegt J",
+    "Koster CC",
+    "Vos AM",
+    "Ortiz-Merino RA",
+    "Wassink M",
+    "Luttik MAH",
+    "van den Broek M",
+    "Hagedoorn PL",
+    "Pronk JT"
+  ],
+  "year": 2021,
+  "journal": "Fungal biology and biotechnology",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 10,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "BackgroundIn most fungi, quinone-dependent Class-II dihydroorotate dehydrogenases (DHODs) are essential for pyrimidine biosynthesis. Coupling of these Class-II DHODHs to mitochondrial respiration makes their in vivo activity dependent on oxygen availability. Saccharomyces cerevisiae and closely related yeast species harbor a cytosolic Class-I DHOD (Ura1) that uses fumarate as electron acceptor and thereby enables anaerobic pyrimidine synthesis. Here, we investigate DHODs from three fungi (the Neocallimastigomycete Anaeromyces robustus and the yeasts Schizosaccharomyces japonicus and Dekkera bruxellensis) that can grow anaerobically but, based on genome analysis, only harbor a Class-II DHOD.ResultsHeterologous expression of putative Class-II DHOD-encoding genes from fungi capable of anaerobic, pyrimidine-prototrophic growth (Arura9, SjURA9, DbURA9) in an S. cerevisiae ura1Δ strain supported aerobic as well as anaerobic pyrimidine prototrophy. A strain expressing DbURA9 showed delayed anaerobic growth without pyrimidine supplementation. Adapted faster growing DbURA9-expressing strains showed mutations in FUM1, which encodes fumarase. GFP-tagged SjUra9 and DbUra9 were localized to S. cerevisiae mitochondria, while ArUra9, whose sequence lacked a mitochondrial targeting sequence, was localized to the yeast cytosol. Experiments with cell extracts showed that ArUra9 used free FAD and FMN as electron acceptors. Expression of SjURA9 in S. cerevisiae reproducibly led to loss of respiratory competence and mitochondrial DNA. A cysteine residue (C265 in SjUra9) in the active sites of all three anaerobically active Ura9 orthologs was shown to be essential for anaerobic activity of SjUra9 but not of ArUra9.ConclusionsActivity of fungal Class-II DHODs was long thought to be dependent on an active respiratory chain, which in most fungi requires the presence of oxygen. By heterologous expression experiments in S. cerevisiae, this study shows that phylogenetically distant fungi independently evolved Class-II dihydroorotate dehydrogenases that enable anaerobic pyrimidine biosynthesis. Further structure-function studies are required to understand the mechanistic basis for the anaerobic activity of Class-II DHODs and an observed loss of respiratory competence in S. cerevisiae strains expressing an anaerobically active DHOD from Sch. japonicus.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1186/s40694-021-00117-4"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC8520639"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC8520639?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "34656184"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A34656184+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID34656184",
+  "retrieval_date": "2026-10-26T18:33:46Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 130110,
+    "n_figures": 5,
+    "n_tables": 3,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/40694_2021_117_MOESM5_ESM.docx",
+    "raw/supp/40694_2021_117_MOESM1_ESM.txt",
+    "raw/supp/40694_2021_117_MOESM2_ESM.txt",
+    "raw/supp/40694_2021_117_MOESM4_ESM.txt",
+    "raw/supp/40694_2021_117_MOESM6_ESM.docx",
+    "raw/supp/40694_2021_117_MOESM3_ESM.txt"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 234547,
+      "sha256": "d68b0220ba0955687d2771d44eb74984fe4cea67f163a5af3ae8b026f6351b02",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8520639/fullTextXML"
+    },
+    {
+      "path": "tables/Tab1.tsv",
+      "role": "table_tsv",
+      "bytes": 1368,
+      "sha256": "86205ee6c23bd80738d5954ae0df84769d0924933799c4697db54244aa1e99af",
+      "url": ""
+    },
+    {
+      "path": "tables/Tab2.tsv",
+      "role": "table_tsv",
+      "bytes": 173,
+      "sha256": "38afb4dc5d58820570c1ba78f4de55177db960d138241af700ad0289a58ddad2",
+      "url": ""
+    },
+    {
+      "path": "tables/Tab3.tsv",
+      "role": "table_tsv",
+      "bytes": 483,
+      "sha256": "f744634b4ef36982bab219247fc699b3df41915f5a5164c9b205557147adad75",
+      "url": ""
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 130758,
+      "sha256": "a1ecbf9deb641dd9b2f69be0019949e65c70e4db566adb253e495440c512df1f",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 5518332,
+      "sha256": "9429bfa426205aae5108895b9fb9150c24dd7b5b1c2a519a54586d15630ec604",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8520639/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/40694_2021_117_MOESM5_ESM.docx",
+      "role": "supplement",
+      "bytes": 3785084,
+      "sha256": "72bf48660516e24bf3ff157370785e09ae0ddec89f9ef49360c292d764d3fe20",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8520639/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/40694_2021_117_MOESM1_ESM.txt",
+      "role": "supplement",
+      "bytes": 204204,
+      "sha256": "9509b1a8bb7e93a45c4eed13e572e457ea19898edf27f94834bc31705ab79f28",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8520639/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/40694_2021_117_MOESM2_ESM.txt",
+      "role": "supplement",
+      "bytes": 59288,
+      "sha256": "286ba675f1524b84cfccb3ce2db5b8f45afed35978dc37c148a813cc26250c95",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8520639/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/40694_2021_117_MOESM4_ESM.txt",
+      "role": "supplement",
+      "bytes": 4191,
+      "sha256": "0c2a4c517dd5924ae45f24162e494bcea73763ef0b45a6dc11aff275726bca2e",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8520639/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/40694_2021_117_MOESM6_ESM.docx",
+      "role": "supplement",
+      "bytes": 28097,
+      "sha256": "65ba1bb3c869b0adb72a4ccb7639b111440e73b83d569ec30282eeb3345b1320",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8520639/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/40694_2021_117_MOESM3_ESM.txt",
+      "role": "supplement",
+      "bytes": 12742,
+      "sha256": "c8e39ca7c4eeb492c086e2e65f78d7f16ac09f77a72917ada10e8032ca60d0d1",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8520639/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8520639/fullTextXML",
+      "detail": "130110 chars, 5 figures, 3 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8520639/supplementaryFiles",
+      "detail": "6 files extracted to raw/supp/; 10 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+Sequence element	XTR	XLA-L	XLA-S	Retention
+Protein Coding Genes	15,613	13,781	10,241	56.4%
+Genomic DNA (MB)	1,227	1,222	1,010	N/A
+miRNAs	180	166	168	86.7%
+Pan Vertebrate Conserved Noncoding Elements	550	542	536	96.6%
+H3K4me3 Peaks	7,473	6,927	5,833	70.6%
+p300 Peaks	4,321	3,457	2,702	42.5%
+CACTUS	1,294,342	1,026,204	888,899	49.0%
+MitoCarta	917	717	501	46.0%
+GermPlasm	15	15	6	40.0%

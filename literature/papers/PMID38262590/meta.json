@@ -1,0 +1,162 @@
+{
+  "pmid": "38262590",
+  "pmcid": "PMC10972751",
+  "doi": "10.1038/s41586-024-07070-3",
+  "source": "MED",
+  "title": "The hagfish genome and the evolution of vertebrates",
+  "authors": [
+    "Marlétaz F",
+    "Timoshevskaya N",
+    "Timoshevskiy VA",
+    "Parey E",
+    "Simakov O",
+    "Gavriouchkina D",
+    "Suzuki M",
+    "Kubokawa K",
+    "Brenner S",
+    "Smith JJ",
+    "Rokhsar DS"
+  ],
+  "year": 2024,
+  "journal": "Nature",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 108,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "As the only surviving lineages of jawless fishes, hagfishes and lampreys provide a crucial window into early vertebrate evolution1-3. Here we investigate the complex history, timing and functional role of genome-wide duplications4-7 and programmed DNA elimination8,9 in vertebrates in the light of a chromosome-scale genome sequence for the brown hagfish Eptatretus atami. Combining evidence from syntenic and phylogenetic analyses, we establish a comprehensive picture of vertebrate genome evolution, including an auto-tetraploidization (1RV) that predates the early Cambrian cyclostome-gnathostome split, followed by a mid-late Cambrian allo-tetraploidization (2RJV) in gnathostomes and a prolonged Cambrian-Ordovician hexaploidization (2RCY) in cyclostomes. Subsequently, hagfishes underwent extensive genomic changes, with chromosomal fusions accompanied by the loss of genes that are essential for organ systems (for example, genes involved in the development of eyes and in the proliferation of osteoclasts); these changes account, in part, for the simplification of the hagfish body plan1,2. Finally, we characterize programmed DNA elimination in hagfish, identifying protein-coding genes and repetitive elements that are deleted from somatic cell lineages during early development. The elimination of these germline-specific genes provides a mechanism for resolving genetic conflict between soma and germline by repressing germline and pluripotency functions, paralleling findings in lampreys10,11. Reconstruction of the early genomic history of vertebrates provides a framework for further investigations of the evolution of cyclostomes and jawed vertebrates.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1038/s41586-024-07070-3"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC10972751"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC10972751?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmcid",
+    "value": "PMC10972751"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC10972751&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID38262590",
+  "retrieval_date": "2026-10-26T18:53:44Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 113768,
+    "n_figures": 17,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/41586_2024_7070_MOESM5_ESM.xlsx",
+    "raw/supp/41586_2024_7070_MOESM1_ESM.pdf",
+    "raw/supp/41586_2024_7070_MOESM4_ESM.pdf",
+    "raw/supp/41586_2024_7070_MOESM7_ESM.xlsx",
+    "raw/supp/41586_2024_7070_MOESM2_ESM.pdf",
+    "raw/supp/41586_2024_7070_MOESM6_ESM.xlsx",
+    "raw/supp/41586_2024_7070_MOESM3_ESM.xlsx"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 234759,
+      "sha256": "eda690a5e95e05f5bbd8745c2dafabee4527fe20288f2998e00fecd25f816621",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10972751/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 114064,
+      "sha256": "f1d1695bd49ddaf26f9df0c1d011bedd3a24c6872c01ce5ac685f8f1bc3e46a9",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 22273647,
+      "sha256": "f0d626be0401f0b1c87809917670c0255360357ad564e1eff44aa3d36645d31c",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10972751/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/41586_2024_7070_MOESM5_ESM.xlsx",
+      "role": "supplement",
+      "bytes": 2649784,
+      "sha256": "4fa047416c1a011c8791b74dc8d32b2a47eacfb140b27179b4fed004a2c9368a",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10972751/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/41586_2024_7070_MOESM1_ESM.pdf",
+      "role": "supplement",
+      "bytes": 774186,
+      "sha256": "32c622db1e32da75a58d56c383fe133cc4e5d076252da0da57e98e146a622030",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10972751/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/41586_2024_7070_MOESM4_ESM.pdf",
+      "role": "supplement",
+      "bytes": 824951,
+      "sha256": "1cac8508a3813e4f8a21e5d1246f6b4241757b11331f079e88fe7507d252e8f7",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10972751/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/41586_2024_7070_MOESM7_ESM.xlsx",
+      "role": "supplement",
+      "bytes": 9594002,
+      "sha256": "c3ea9ec6777fa054344e390235136b83ed5e76d82d4c05eb7e168cdb9ff2b5d3",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10972751/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/41586_2024_7070_MOESM2_ESM.pdf",
+      "role": "supplement",
+      "bytes": 70874,
+      "sha256": "4bdef3500e72aeac37cf85913b8d73c8a6674e22a47a9d48f739b424030ea14a",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10972751/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/41586_2024_7070_MOESM6_ESM.xlsx",
+      "role": "supplement",
+      "bytes": 5967059,
+      "sha256": "fcc2de2fdaa58a07b290f7690463b030997eab18e0ca05af5802f60492a1f2e9",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10972751/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/41586_2024_7070_MOESM3_ESM.xlsx",
+      "role": "supplement",
+      "bytes": 796585,
+      "sha256": "5d06e880b5ba811c8a50e2a13979043c3305723432122fef522a569430e9b6e5",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10972751/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10972751/fullTextXML",
+      "detail": "113768 chars, 17 figures, 0 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10972751/supplementaryFiles",
+      "detail": "7 files extracted to raw/supp/; 34 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

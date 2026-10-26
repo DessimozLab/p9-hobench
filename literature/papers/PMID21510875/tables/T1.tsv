@@ -1,0 +1,31 @@
+Organism	Ver.^a	Name^b	GI number^c	Gene Model^d	Comment
+Chlamydomonas reinhardtii	4.0	CrMIPD1;1	159471952	au5.g4049_t1	Previously CrMIP1
+		CrMIPD2;1	159466961^e	-	Previously CrMIP2
+					
+Volvox carteri	1.0	VcMIPD1;1		e_gw1.60.83.1	
+		VcMIPD2;1		-	
+		VcMIPD4;1^f		fgenesh4_pg.C_scaffold_32000076	
+					
+Coccomyxa C-169^g	2.0	CcMIPA1;1		-	
+		CcMIPD 1;1		-	
+		CcMIPD3;1		-	
+		CcPIP4;1		-	
+		CcPIP4;2		-	
+		CcGIP1;1		-	
+					
+Chlorella NC64A	1.0	CnMIPD1;1		IGS.gm_19_00211	
+		CnMIPE1;1		-	
+		CnMIPE1;2		-	
+		CnMIPE1;3		-	Gap after exon 4
+		CnGIP1;1		-	Gap before ex7
+					
+Micromonas pusilla CCMP1545	2.0	MpMIPC1;1		-	
+					
+Micromonas RCC299	3.0	MrMIPC1;1		EuGene.0900010614	
+					
+Ostreococcus lucimarinus	2.0	OlMIPB1;1	145352492	estExt_fgenesh1_pg.C_Chr_120034	EST
+					
+Ostreococcus RCC809	2.0	OrMIPB1;1		EuGene.1100010007	
+		OrMIPE1;1		estExt_Genewise1Plus.C_chr_30268	EST
+					
+Ostreococcus tauri	2.0	OtMIPC1;1^f		0400010048	

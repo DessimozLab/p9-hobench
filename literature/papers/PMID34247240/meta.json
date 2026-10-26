@@ -1,0 +1,110 @@
+{
+  "pmid": "34247240",
+  "pmcid": "PMC8358228",
+  "doi": "10.1093/gbe/evab157",
+  "source": "MED",
+  "title": "A Eukaryote-Wide Perspective on the Diversity and Evolution of the ARF GTPase Protein Family",
+  "authors": [
+    "Vargová R",
+    "Wideman JG",
+    "Derelle R",
+    "Klimeš V",
+    "Kahn RA",
+    "Dacks JB",
+    "Eliáš M"
+  ],
+  "year": 2021,
+  "journal": "Genome biology and evolution",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 40,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "The evolution of eukaryotic cellular complexity is interwoven with the extensive diversification of many protein families. One key family is the ARF GTPases that act in eukaryote-specific processes, including membrane traffic, tubulin assembly, actin dynamics, and cilia-related functions. Unfortunately, our understanding of the evolution of this family is limited. Sampling an extensive set of available genome and transcriptome sequences, we have assembled a data set of over 2,000 manually curated ARF family genes from 114 eukaryotic species, including many deeply diverged protist lineages, and carried out comprehensive molecular phylogenetic analyses. These reconstructed as many as 16 ARF family members present in the last eukaryotic common ancestor, nearly doubling the previously inferred ancient system complexity. Evidence for the wide occurrence and ancestral origin of Arf6, Arl13, and Arl16 is presented for the first time. Moreover, Arl17, Arl18, and SarB, newly described here, are absent from well-studied model organisms and as a result their function(s) remain unknown. Analyses of our data set revealed a previously unsuspected diversity of membrane association modes and domain architectures within the ARF family. We detail the step-wise expansion of the ARF family in the metazoan lineage, including discovery of several new animal-specific family members. Delving back to its earliest evolution in eukaryotes, the resolved relationship observed between the ARF family paralogs sets boundaries for scenarios of vesicle coat origins during eukaryogenesis. Altogether, our work fundamentally broadens the understanding of the diversity and evolution of a protein family underpinning the structural and functional complexity of the eukaryote cells.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1093/gbe/evab157"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC8358228"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC8358228?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "34247240"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A34247240+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID34247240",
+  "retrieval_date": "2026-10-26T18:49:06Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 169331,
+    "n_figures": 8,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/evab157_supplementary_data.zip"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 277161,
+      "sha256": "8caeebaa60a6d5deda5c31a04ff8a9742ac561b1fb6ed48cb03e099c652f7a78",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8358228/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 169897,
+      "sha256": "e3e0f2f8e28d8301276559d03086ea245013b5daae821d88795ab301297f0e28",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 4901206,
+      "sha256": "8efd2ae30369a025bc324ac0dc98c83ad8b9ce3f17c8b9bf6653d8ed25455e2d",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8358228/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/evab157_supplementary_data.zip",
+      "role": "supplement",
+      "bytes": 3820344,
+      "sha256": "31e8c197ec54044829681af8620438a699413102998d289299e0cd285ea01718",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8358228/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8358228/fullTextXML",
+      "detail": "169331 chars, 8 figures, 0 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8358228/supplementaryFiles",
+      "detail": "1 files extracted to raw/supp/; 16 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

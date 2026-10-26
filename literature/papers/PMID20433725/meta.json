@@ -1,0 +1,169 @@
+{
+  "pmid": "20433725",
+  "pmcid": "PMC2876114",
+  "doi": "10.1186/1745-6150-5-31",
+  "source": "MED",
+  "title": "Non-homologous isofunctional enzymes: a systematic analysis of alternative solutions in enzyme evolution",
+  "authors": [
+    "Omelchenko MV",
+    "Galperin MY",
+    "Wolf YI",
+    "Koonin EV"
+  ],
+  "year": 2010,
+  "journal": "Biology direct",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 120,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "BackgroundEvolutionarily unrelated proteins that catalyze the same biochemical reactions are often referred to as analogous - as opposed to homologous - enzymes. The existence of numerous alternative, non-homologous enzyme isoforms presents an interesting evolutionary problem; it also complicates genome-based reconstruction of the metabolic pathways in a variety of organisms. In 1998, a systematic search for analogous enzymes resulted in the identification of 105 Enzyme Commission (EC) numbers that included two or more proteins without detectable sequence similarity to each other, including 34 EC nodes where proteins were known (or predicted) to have distinct structural folds, indicating independent evolutionary origins. In the past 12 years, many putative non-homologous isofunctional enzymes were identified in newly sequenced genomes. In addition, efforts in structural genomics resulted in a vastly improved structural coverage of proteomes, providing for definitive assessment of (non)homologous relationships between proteins.ResultsWe report the results of a comprehensive search for non-homologous isofunctional enzymes (NISE) that yielded 185 EC nodes with two or more experimentally characterized - or predicted - structurally unrelated proteins. Of these NISE sets, only 74 were from the original 1998 list. Structural assignments of the NISE show over-representation of proteins with the TIM barrel fold and the nucleotide-binding Rossmann fold. From the functional perspective, the set of NISE is enriched in hydrolases, particularly carbohydrate hydrolases, and in enzymes involved in defense against oxidative stress.ConclusionsThese results indicate that at least some of the non-homologous isofunctional enzymes were recruited relatively recently from enzyme families that are active against related substrates and are sufficiently flexible to accommodate changes in substrate specificity.",
+  "fulltext_urls": [
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "BioMedCentral",
+      "url": "http://www.biology-direct.com/content/pdf/1745-6150-5-31.pdf"
+    },
+    {
+      "style": "abs",
+      "availability": "Open access",
+      "site": "BioMedCentral",
+      "url": "http://www.biology-direct.com/content/5//31/abstract"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "BioMedCentral",
+      "url": "http://www.biology-direct.com/content/5//31"
+    },
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1186/1745-6150-5-31"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC2876114"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC2876114?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "20433725"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A20433725+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID20433725",
+  "retrieval_date": "2026-10-26T14:15:39Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 116193,
+    "n_figures": 5,
+    "n_tables": 4,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/1745-6150-5-31-S1.PDF",
+    "raw/supp/1745-6150-5-31-S2.PDF",
+    "raw/supp/1745-6150-5-31-S3.PDF"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 197269,
+      "sha256": "f5d4a3f978a04dc7a423e57f93cd8b12257a130c8465440eb0a53880c62e745a",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2876114/fullTextXML"
+    },
+    {
+      "path": "tables/T1.tsv",
+      "role": "table_tsv",
+      "bytes": 559,
+      "sha256": "bbd827b29daa901a65e5b93621f8e625e42275508e106f92a7e98a555c905c41",
+      "url": ""
+    },
+    {
+      "path": "tables/T2.tsv",
+      "role": "table_tsv",
+      "bytes": 2668,
+      "sha256": "70789105ded62d39a850a5c2c07b16756565f7a35b4efc012cf807f60cfe3241",
+      "url": ""
+    },
+    {
+      "path": "tables/T3.tsv",
+      "role": "table_tsv",
+      "bytes": 466,
+      "sha256": "8827f601d3901d5a3ee46ab91d6cbe214baad43bb7ed0945993b36a9b1903837",
+      "url": ""
+    },
+    {
+      "path": "tables/T4.tsv",
+      "role": "table_tsv",
+      "bytes": 843,
+      "sha256": "7b7c2ea404e5b3f1d4d29b8638399596a486edd5c88c8f41799c8341e4c877f3",
+      "url": ""
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 116354,
+      "sha256": "1ec185c35d5198e91b564962acb34b4a9f841cfd3a7ff4b0fdc252bfc6d898b5",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 1513149,
+      "sha256": "5ce00ad6af93959ff9bc7c369d1ada83756da4a2b29f4673e31c8ce47104792b",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2876114/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1745-6150-5-31-S1.PDF",
+      "role": "supplement",
+      "bytes": 550374,
+      "sha256": "a7b62a2837d979226994f9bb96000b4f41883bf601fdd5e332f4e0a2f444f588",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2876114/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1745-6150-5-31-S2.PDF",
+      "role": "supplement",
+      "bytes": 1534756,
+      "sha256": "15eb541b1b48ce6d9feea39fcad420443773cf471709f1f83d00acea970e6e4d",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2876114/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1745-6150-5-31-S3.PDF",
+      "role": "supplement",
+      "bytes": 768270,
+      "sha256": "fb7db9dd84a188c9cab17c7092847821d4f2c25323a613a83e946648699dfc44",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2876114/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2876114/fullTextXML",
+      "detail": "116193 chars, 5 figures, 4 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2876114/supplementaryFiles",
+      "detail": "3 files extracted to raw/supp/; 10 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

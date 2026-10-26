@@ -1,0 +1,200 @@
+{
+  "pmid": "21510875",
+  "pmcid": "PMC3111385",
+  "doi": "10.1186/1471-2148-11-110",
+  "source": "MED",
+  "title": "Algal MIPs, high diversity and conserved motifs",
+  "authors": [
+    "Anderberg HI",
+    "Danielson JÅ",
+    "Johanson U"
+  ],
+  "year": 2011,
+  "journal": "BMC evolutionary biology",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 48,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "BackgroundMajor intrinsic proteins (MIPs) also named aquaporins form channels facilitating the passive transport of water and other small polar molecules across membranes. MIPs are particularly abundant and diverse in terrestrial plants but little is known about their evolutionary history. In an attempt to investigate the origin of the plant MIP subfamilies, genomes of chlorophyte algae, the sister group of charophyte algae and land plants, were searched for MIP encoding genes.ResultsA total of 22 MIPs were identified in the nine analysed genomes and phylogenetic analyses classified them into seven subfamilies. Two of these, Plasma membrane Intrinsic Proteins (PIPs) and GlpF-like Intrinsic Proteins (GIPs), are also present in land plants and divergence dating support a common origin of these algal and land plant MIPs, predating the evolution of terrestrial plants. The subfamilies unique to algae were named MIPA to MIPE to facilitate the use of a common nomenclature for plant MIPs reflecting phylogenetically stable groups. All of the investigated genomes contained at least one MIP gene but only a few species encoded MIPs belonging to more than one subfamily.ConclusionsOur results suggest that at least two of the seven subfamilies found in land plants were present already in an algal ancestor. The total variation of MIPs and the number of different subfamilies in chlorophyte algae is likely to be even higher than that found in land plants. Our analyses indicate that genetic exchanges between several of the algal subfamilies have occurred. The PIP1 and PIP2 groups and the Ca2+ gating appear to be specific to land plants whereas the pH gating is a more ancient characteristic shared by all PIPs. Further studies are needed to discern the function of the algal specific subfamilies MIPA-E and to fully understand the evolutionary relationship of algal and terrestrial plant MIPs.",
+  "fulltext_urls": [
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Unpaywall",
+      "url": "https://bmcevolbiol.biomedcentral.com/track/pdf/10.1186/1471-2148-11-110"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "BioMedCentral",
+      "url": "http://www.biomedcentral.com/1471-2148/11/110"
+    },
+    {
+      "style": "abs",
+      "availability": "Open access",
+      "site": "BioMedCentral",
+      "url": "http://www.biomedcentral.com/1471-2148/11/110/abstract"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "BioMedCentral",
+      "url": "http://www.biomedcentral.com/content/pdf/1471-2148-11-110.pdf"
+    },
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1186/1471-2148-11-110"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3111385"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3111385?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "21510875"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A21510875+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID21510875",
+  "retrieval_date": "2026-10-26T19:15:27Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 86191,
+    "n_figures": 7,
+    "n_tables": 2,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/1471-2148-11-110-S8.XML",
+    "raw/supp/1471-2148-11-110-S5.TXT",
+    "raw/supp/1471-2148-11-110-S1.DOC",
+    "raw/supp/1471-2148-11-110-S2.FAS",
+    "raw/supp/1471-2148-11-110-S4.TXT",
+    "raw/supp/1471-2148-11-110-S7.XML",
+    "raw/supp/1471-2148-11-110-S3.NEX",
+    "raw/supp/1471-2148-11-110-S6.DOC"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 160070,
+      "sha256": "4ad45736c89be0d146a6980c4a8b500f6b2862e20c5721bf0e1d407475078435",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3111385/fullTextXML"
+    },
+    {
+      "path": "tables/T1.tsv",
+      "role": "table_tsv",
+      "bytes": 928,
+      "sha256": "7a1770711aaa955ea3fed86a7298752f8924593323168175d8b58ff35c43b86c",
+      "url": ""
+    },
+    {
+      "path": "tables/T2.tsv",
+      "role": "table_tsv",
+      "bytes": 1243,
+      "sha256": "b34967972383087166cbb0e2278e3a0c2bdb00499c9414c8e3180775e94c2af6",
+      "url": ""
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 86314,
+      "sha256": "4a33d88926394debd7ae0640bc789bc83a9a9d42a41fcf943ce24b646c475ddf",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 11848341,
+      "sha256": "99bf8ad18eee1f1a118d19d81e12e02e1ecdc3dd5f150b5f93a0596b6c2d0ce5",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3111385/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-11-110-S8.XML",
+      "role": "supplement",
+      "bytes": 39212,
+      "sha256": "7baa5b97a94b81634bdd1d9be9ab53349982250e9181fa55d09bf92b732816a1",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3111385/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-11-110-S5.TXT",
+      "role": "supplement",
+      "bytes": 10474078,
+      "sha256": "7de1c2032d63219aa38a36b3ccc72956a25298512ceaa09e89b9de3f342ed4c3",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3111385/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-11-110-S1.DOC",
+      "role": "supplement",
+      "bytes": 62464,
+      "sha256": "4925dfaa156bc5f740c0a019de360579a595faf8ffe43d78c454b9fb6ee8b74c",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3111385/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-11-110-S2.FAS",
+      "role": "supplement",
+      "bytes": 20532,
+      "sha256": "811658bcaa82c90550de997d4ad41b901641c28373bc82db344468fdce43bae1",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3111385/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-11-110-S4.TXT",
+      "role": "supplement",
+      "bytes": 14704065,
+      "sha256": "d24d7042fa257b9e6912c099fb009b3d94ff622938aaecc096a18c2498457570",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3111385/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-11-110-S7.XML",
+      "role": "supplement",
+      "bytes": 44478,
+      "sha256": "bbc71fbe91648568ff19e75c6515575cd47d29656a4ab49f599eca5f3bb06e24",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3111385/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-11-110-S3.NEX",
+      "role": "supplement",
+      "bytes": 25887,
+      "sha256": "5a4739cf2f77f31df068a110c54428c96a843c5754f00898d955bf8b0b51dec9",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3111385/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-11-110-S6.DOC",
+      "role": "supplement",
+      "bytes": 91648,
+      "sha256": "2a8698f9f1ea38ea35c55b701c3601584cc3d3cd02c8fa59a80d1f9b7add3ac9",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3111385/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3111385/fullTextXML",
+      "detail": "86191 chars, 7 figures, 2 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3111385/supplementaryFiles",
+      "detail": "8 files extracted to raw/supp/; 14 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

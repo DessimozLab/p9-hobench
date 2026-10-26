@@ -1,0 +1,170 @@
+{
+  "pmid": "20660759",
+  "pmcid": "PMC2922537",
+  "doi": "10.1073/pnas.1006756107",
+  "source": "MED",
+  "title": "Gene cooption and convergent evolution of oxygen transport hemoglobins in jawed and jawless vertebrates",
+  "authors": [
+    "Hoffmann FG",
+    "Opazo JC",
+    "Storz JF"
+  ],
+  "year": 2010,
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "is_open_access": false,
+  "license": null,
+  "redistributable": false,
+  "cited_by_count": 65,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "Natural selection often promotes evolutionary innovation by coopting preexisting genes for new functions, and this process may be greatly facilitated by gene duplication. Here we report an example of cooptive convergence where paralogous members of the globin gene superfamily independently evolved a specialized O(2) transport function in the two deepest branches of the vertebrate family tree. Specifically, phylogenetic evidence demonstrates that erythroid-specific O(2) transport hemoglobins evolved independently from different ancestral precursor proteins in jawed vertebrates (gnathostomes) and jawless fish (cyclostomes, represented by lamprey and hagfish). A comprehensive phylogenetic analysis of the vertebrate globin gene superfamily revealed that the erythroid hemoglobins of cyclostomes are orthologous to the cytoglobin protein of gnathostome vertebrates, a hexacoordinate globin that has no O(2) transport function and that is predominantly expressed in fibroblasts and related cell types. The phylogeny reconstruction also revealed that vertebrate-specific globins are grouped into four main clades: (i) cyclostome hemoglobin + cytoglobin, (ii) myoglobin + globin E, (iii) globin Y, and (iv) the alpha- and beta-chain hemoglobins of gnathostomes. In the hemoglobins of gnathostomes and cyclostomes, multisubunit quaternary structures provide the basis for cooperative O(2) binding and allosteric regulation by coupling the effects of ligand binding at individual subunits with interactions between subunits. However, differences in numerous structural details belie their independent origins. This example of convergent evolution of protein function provides an impressive demonstration of the ability of natural selection to cobble together complex design solutions by tinkering with different variations of the same basic protein scaffold.",
+  "fulltext_urls": [
+    {
+      "style": "pdf",
+      "availability": "Free",
+      "site": "Unpaywall",
+      "url": "https://europepmc.org/articles/pmc2922537?pdf=render"
+    },
+    {
+      "style": "abs",
+      "availability": "Free after 6 months",
+      "site": "www.pnas.org",
+      "url": "http://www.pnas.org/cgi/content/abstract/107/32/14274"
+    },
+    {
+      "style": "html",
+      "availability": "Free after 6 months",
+      "site": "www.pnas.org",
+      "url": "http://www.pnas.org/cgi/content/full/107/32/14274"
+    },
+    {
+      "style": "pdf",
+      "availability": "Free after 6 months",
+      "site": "www.pnas.org",
+      "url": "http://www.pnas.org/cgi/reprint/107/32/14274.pdf"
+    },
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1073/pnas.1006756107"
+    },
+    {
+      "style": "html",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC2922537"
+    },
+    {
+      "style": "pdf",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC2922537?pdf=render"
+    },
+    {
+      "style": "doi",
+      "availability": "Free",
+      "site": "DOI",
+      "url": "https://doi.org/10.1073/pnas.1006756107"
+    }
+  ],
+  "query": {
+    "kind": "pmcid",
+    "value": "PMC2922537"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC2922537&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID20660759",
+  "retrieval_date": "2026-10-26T19:09:55Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [
+    "supplementary files: Europe PMC flags supplements / XML lists ['/articles/instance/2922537/bin/supp_107_32_14274__index.html', '/articles/instance/2922537/bin/1006756107_sapp.pdf', '/articles/instance/2922537/bin/1006756107_sd01.txt'] but none could be downloaded; get them from the publisher site"
+  ],
+  "fulltext": {
+    "source": "pmc_html",
+    "text_file": "raw/fulltext.txt",
+    "chars": 44315,
+    "n_figures": 3,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [],
+  "files": [
+    {
+      "path": "raw/article.html",
+      "role": "html",
+      "bytes": 209711,
+      "sha256": "07e0a8d027a7cc8dab5760fa91c6c33ede56036715571fe36c61ac2227095b3d",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2922537/"
+    },
+    {
+      "path": "raw/fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 44596,
+      "sha256": "122c7806fabd5817a8a2474ce094edbe8cc46201337c0ccbe6833e04483ff682",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "license",
+      "ok": true,
+      "url": "",
+      "detail": "not in the Europe PMC open-access subset: derived text stored under raw/ (not for redistribution); check publisher terms"
+    },
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2922537/fullTextXML",
+      "detail": "500 https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2922537/fullTextXML server error (persistent)"
+    },
+    {
+      "step": "pmc_s3_opendata",
+      "ok": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/?list-type=2&prefix=PMC2922537.",
+      "detail": "article not in PMC OA open-data bucket (not in OA subset)"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC2922537",
+      "detail": "404 https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC2922537 NCBI/xpmc21 - WWW Error 404 Diagnostic h1.error {color: red; font-size: 40pt} div.diags {text-indent: 0.5in } Can't find"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC2922537",
+      "detail": "404 https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC2922537 <script type=\"module\" crossorigin=\"\" src=\"https://cdn.ncbi.nl"
+    },
+    {
+      "step": "ncbi_efetch_pmc",
+      "ok": false,
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC2922537&rettype=xml",
+      "detail": "no usable body (2259 chars); ['no <body> in XML (publisher may not allow full text)']"
+    },
+    {
+      "step": "pmc_html_page",
+      "ok": true,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2922537/",
+      "detail": "44315 chars (free-to-read page; not necessarily re-usable)"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2922537/supplementaryFiles",
+      "detail": "0 Article with id PMC2922537 is not open access one"
+    },
+    {
+      "step": "pmc_page_supplements",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/2922537/bin/1006756107_sapp.pdf",
+      "detail": "got HTML instead of the file"
+    },
+    {
+      "step": "pmc_page_supplements",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/2922537/bin/1006756107_sd01.txt",
+      "detail": "got HTML instead of the file"
+    }
+  ]
+}

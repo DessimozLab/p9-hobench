@@ -1,0 +1,117 @@
+{
+  "pmid": "23198682",
+  "pmcid": "PMC3534614",
+  "doi": "10.1186/2041-9139-3-28",
+  "source": "MED",
+  "title": "Broken colinearity of the amphioxus Hox cluster",
+  "authors": [
+    "Pascual-Anaya J",
+    "Adachi N",
+    "Alvarez S",
+    "Kuratani S",
+    "D'Aniello S",
+    "Garcia-Fernàndez J"
+  ],
+  "year": 2012,
+  "journal": "EvoDevo",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 40,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "UnlabelledBackgroundIn most eumetazoans studied so far, Hox genes determine the identity of structures along the main body axis. They are usually linked in genomic clusters and, in the case of the vertebrate embryo, are expressed with spatial and temporal colinearity. Outside vertebrates, temporal colinearity has been reported in the cephalochordate amphioxus (the least derived living relative of the chordate ancestor) but only for anterior and central genes, namely Hox1 to Hox4 and Hox6. However, most of the Hox gene expression patterns in amphioxus have not been reported. To gain global insights into the evolution of Hox clusters in chordates, we investigated a more extended expression profile of amphioxus Hox genes.ResultsHere we report an extended expression profile of the European amphioxus Branchiostoma lanceolatum Hox genes and describe that all Hox genes, except Hox13, are expressed during development. Interestingly, we report the breaking of both spatial and temporal colinearity for at least Hox6 and Hox14, which thus have escaped from the classical Hox code concept. We show a previously unidentified Hox6 expression pattern and a faint expression for posterior Hox genes in structures such as the posterior mesoderm, notochord, and hindgut. Unexpectedly, we found that amphioxus Hox14 had the most divergent expression pattern. This gene is expressed in the anterior cerebral vesicle and pharyngeal endoderm. Amphioxus Hox14 expression represents the first report of Hox gene expression in the most anterior part of the central nervous system. Nevertheless, despite these divergent expression patterns, amphioxus Hox6 and Hox14 seem to be still regulated by retinoic acid.ConclusionsEscape from colinearity by Hox genes is not unusual in either vertebrates or amphioxus and we suggest that those genes escaping from it are probably associated with the patterning of lineage-specific morphological traits, requiring the loss of those developmental constraints that kept them colinear.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1186/2041-9139-3-28"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3534614"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3534614?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmcid",
+    "value": "PMC3534614"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC3534614&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID23198682",
+  "retrieval_date": "2026-10-26T18:53:25Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 58342,
+    "n_figures": 4,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/2041-9139-3-28-S2.pdf",
+    "raw/supp/2041-9139-3-28-S1.xlsx"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 136426,
+      "sha256": "d824c06b458c47d2feeee7b071045ae008b76388ca53d27c63c63d92e0b26113",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3534614/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 58578,
+      "sha256": "bc16c7d1a805b9ad92597849344e817ab95707a208fd4eaaaaa08243a0aad3ec",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 5048535,
+      "sha256": "e5372682ac93b49f887d32e3a3f50d9dec1403d5d668f9683e91fe507b427238",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3534614/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/2041-9139-3-28-S2.pdf",
+      "role": "supplement",
+      "bytes": 4862591,
+      "sha256": "3dc1f0f27a9da65b68bfd9fd292c04e9ae6eeb0f03a7cab1667307ac4db24a24",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3534614/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/2041-9139-3-28-S1.xlsx",
+      "role": "supplement",
+      "bytes": 17517,
+      "sha256": "297ec5ae4d8316b4e3af58c5a11fee908256be85a0e45f182bc967f538d4e20d",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3534614/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3534614/fullTextXML",
+      "detail": "58342 chars, 4 figures, 0 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3534614/supplementaryFiles",
+      "detail": "2 files extracted to raw/supp/; 8 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

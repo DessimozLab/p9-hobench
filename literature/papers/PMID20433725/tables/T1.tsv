@@ -1,0 +1,11 @@
+Enzyme class	Enzyme nodes in ENZYME^a	Enzyme nodes in KEGG^a	Sequences with EC numbers	EC nodes with analogous enzymes		Fraction of the EC nodes
+						
+				Two classes of enzymes	Three or more classes	
+Oxidoreductases (EC 1)	1343 (625)	575	98,166	31	5	5.8%
+Transferases (EC 2)	1296 (683)	625	150,596	24	2	3.8%
+Hydrolases (EC 3)^c	930^c(441)	427^c	81,538	76	11	19.7%^d
+Lyases (EC 4)	469 (235)	210	45,074	15	3	7.7%
+Isomerases (EC 5)	177 (106)	100	30,429	15	2	16.0%^e
+Ligases (EC 6)	148(97)	104	44,829	1	0	1.0%
+						
+Total	4,363 (2,187)	2,041	450,632	185		4.4%

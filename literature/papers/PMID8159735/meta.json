@@ -1,0 +1,142 @@
+{
+  "pmid": "8159735",
+  "pmcid": "PMC43555",
+  "doi": "10.1073/pnas.91.8.3255",
+  "source": "MED",
+  "title": "Evolution of translational elongation factor (EF) sequences: reliability of global phylogenies inferred from EF-1 alpha(Tu) and EF-2(G) proteins",
+  "authors": [
+    "Creti R",
+    "Ceccarelli E",
+    "Bocchetta M",
+    "Sanangelantoni AM",
+    "Tiboni O",
+    "Palm P",
+    "Cammarano P"
+  ],
+  "year": 1994,
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "is_open_access": false,
+  "license": null,
+  "redistributable": false,
+  "cited_by_count": 24,
+  "has_supplements_flag": false,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "The EF-2 coding genes of the Archaea Pyrococcus woesei and Desulfurococcus mobilis were cloned and sequenced. Global phylogenies were inferred by alternative tree-making methods from available EF-2(G) sequence data and contrasted with phylogenies constructed from the more conserved but shorter EF-1 alpha(Tu) sequences. Both the monophyly (sensu Hennig) of Archaea and their subdivision into the kingdoms Crenarchaeota and Euryarchaeota are consistently inferred by analysis of EF-2(G) sequences, usually at a high bootstrap confidence level. In contrast, EF-1 alpha(Tu) phylogenies tend to be inconsistent with one another and show low bootstrap confidence levels. While evolutionary distance and DNA maximum parsimony analyses of EF-1 alpha(Tu) sequences do show archaeal monophyly, protein parsimony and DNA maximum-likelihood analyses of these data do not. In no case, however, do any of the tree topologies inferred from EF-1 alpha(Tu) sequence analyses receive significant bootstrap support.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1073/pnas.91.8.3255"
+    },
+    {
+      "style": "html",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC43555"
+    },
+    {
+      "style": "pdf",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC43555?pdf=render"
+    },
+    {
+      "style": "doi",
+      "availability": "Free",
+      "site": "DOI",
+      "url": "https://doi.org/10.1073/pnas.91.8.3255"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "8159735"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A8159735+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID8159735",
+  "retrieval_date": "2026-10-26T18:22:15Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [
+    "full text: all automatic routes failed; publisher/other URLs for manual retrieval: https://doi.org/10.1073/pnas.91.8.3255; https://europepmc.org/articles/PMC43555; https://europepmc.org/articles/PMC43555?pdf=render; https://doi.org/10.1073/pnas.91.8.3255"
+  ],
+  "fulltext": null,
+  "supplements": [],
+  "files": [
+    {
+      "path": "raw/article.html",
+      "role": "html",
+      "bytes": 21353,
+      "sha256": "7495a0b6436ade7ee387f7a082babaf0fc6e57763fa1e5fda5dd4249c4123c35",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC43555/"
+    }
+  ],
+  "events": [
+    {
+      "step": "license",
+      "ok": true,
+      "url": "",
+      "detail": "not in the Europe PMC open-access subset: derived text stored under raw/ (not for redistribution); check publisher terms"
+    },
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC43555/fullTextXML",
+      "detail": "500 https://www.ebi.ac.uk/europepmc/webservices/rest/PMC43555/fullTextXML server error (persistent)"
+    },
+    {
+      "step": "pmc_s3_opendata",
+      "ok": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/?list-type=2&prefix=PMC43555.",
+      "detail": "article not in PMC OA open-data bucket (not in OA subset)"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC43555",
+      "detail": "404 https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC43555 NCBI/xpmc21 - WWW Error 404 Diagnostic h1.error {color: red; font-size: 40pt} div.diags {text-indent: 0.5in } Can't find"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC43555",
+      "detail": "404 https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC43555 <script type=\"module\" crossorigin=\"\" src=\"https://cdn.ncbi.nl"
+    },
+    {
+      "step": "ncbi_efetch_pmc",
+      "ok": false,
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC43555&rettype=xml",
+      "detail": "no usable body (1414 chars); ['no <body> in XML (publisher may not allow full text)']"
+    },
+    {
+      "step": "pmc_html_page",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC43555/",
+      "detail": "no usable body (1 chars)"
+    },
+    {
+      "step": "pdf_download",
+      "ok": false,
+      "url": "https://europepmc.org/articles/PMC43555?pdf=render",
+      "detail": "403 https://europepmc.org/articles/PMC43555?pdf=render Just a moment... <meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-l"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC43555/supplementaryFiles",
+      "detail": "0 Article with id PMC43555 is not open access one"
+    },
+    {
+      "step": "pmc_page_supplements",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC43555/",
+      "detail": "no supplementary links on PMC page"
+    },
+    {
+      "step": "supplements",
+      "ok": true,
+      "url": "",
+      "detail": "article has no supplementary files listed"
+    }
+  ]
+}

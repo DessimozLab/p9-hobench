@@ -1,0 +1,29 @@
+New name^a	Borstlap^b	PpDB^c	EST^d	ProteinID^e	Comments^f
+PIP1;1	-	PIP1	Y	62169	
+PIP1;2	PIP1	PIP	Y	166091	
+PIP1;3	PIP1	PIP	Y	171662	
+PIP2;1	-	PIP	Y	202226	
+PIP2;2	PIP2	PIP	Y	209703	
+PIP2;3	PIP2	PIP	Y	196472	
+PIP2;4	-	PIP	?	135286	Identical to 83986^g
+-	-	PIP	?	83986	Identical to 135286^g
+PIP3;1	-	PIP2	?	68172	
+PseudoPIP#1	-	-^h	?	113412	Pseudogene, PIP-like, based on ProteinID = 113412 but encoding 123 amino acids in two exons
+PseudoPIP#2	-	-	?	-	Pseudogene, PIP-like, encoding 83 amino acids in one exon
+TIP6;1	-	TIP	Y	73809	
+TIP6;2	TIP	TIP	Y	191107	
+TIP6;3	TIP	-^h	Y	214518	
+TIP6;4	TIP	TIP	Y	219971	
+NIP3;1	-	NIP5	?	94322	The PpDB classification refers to ProteinID = 147365 which is a truncated version
+NIP5;1	-	NIP4	Y	115513	Misannotated: delete the first amino acid and add exon 1 (68 amino acids)
+NIP5;2	NIP	NIP4	Y	186237	Misannotated: delete first eleven amino acids and add exon 1 (68 amino acids)
+NIP5;3		NIP4	Y	179749	Misannotated: delete first seven amino acids and add exon 1 (66 amino acids)
+NIP6;1	-	NIP	?	16763	Misannotated: add exon 1 (65 amino acids) and extend last exon 24 amino acids
+PartialNIP#1	-	Possibly an aquaporin^i	?	103774	Possibly a full length gene (NIP5) but the genomic sequence is only 825 bp long and interrupted by a 34 kb gap. The model which the classification refers to (ProteinID = 103774) is completely wrong, but in the opposite direction is an exon encoding 103 amino acids.
+PseudoNIP#1	-	-	?	73549	Pseudogene, NIP-like, delete first 22 amino acids from model
+SIP1;1	SIP	SIP	?	112053	
+SIP1;2	SIP	SIP	Y	200882	
+GIP1;1	-	PpGlP1-1	Y	171260	
+HIP1;1	-	-^h	?	91611	Misannotated, we removed 141 aa from beginning of exon 1, 22 aa from end of exon 2 and 15 aa from beginning of exon 3
+XIP1;1	-	TIP1	Y	71087	The PpDB classification refers to ProteinID = 26452 which is a truncated version
+XIP1;2	-	TIP	Y	71489	Misannotated, removed 15 amino acids from exon 2 and replaced exon 1 (now 31 aa) The PpDB classification refers to ProteinID = 47381 which is a truncated version

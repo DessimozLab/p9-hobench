@@ -1,0 +1,129 @@
+{
+  "pmid": "36552509",
+  "pmcid": "PMC9774920",
+  "doi": "10.3390/ani12243586",
+  "source": "MED",
+  "title": "Genomic Characterization of <i>hox</i> Genes in Senegalese Sole (<i>Solea senegalensis</i>, Kaup 1858): Clues to Evolutionary Path in Pleuronectiformes",
+  "authors": [
+    "Mendizábal-Castillero M",
+    "Merlo MA",
+    "Cross I",
+    "Rodríguez ME",
+    "Rebordinos L"
+  ],
+  "year": 2022,
+  "journal": "Animals : an open access journal from MDPI",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 1,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "The Senegalese sole (Solea senegalensis, Kaup 1858), a marine flatfish, belongs to the Pleuronectiformes order. It is a commercially important species for fisheries and aquaculture. However, in aquaculture, several production bottlenecks have still to be resolved, including skeletal deformities and high mortality during the larval and juvenile phase. The study aims to characterize the hox gene clusters in S. senegalensis to understand better the developmental and metamorphosis process in this species. Using a BAC library, the clones that contain hox genes were isolated, sequenced by NGS and used as BAC-FISH probes. Subsequently the hox clusters were studied by sequence analysis, comparative genomics, and cytogenetic and phylogenetic analysis. Cytogenetic analysis demonstrated the localization of four BAC clones on chromosome pairs 4, 12, 13, and 16 of the Senegalese sole cytogenomic map. Comparative and phylogenetic analysis showed a highly conserved organization in each cluster and different phylogenetic clustering in each hox cluster. Analysis of structural and repetitive sequences revealed accumulations of polymorphisms mediated by repetitive elements in the hoxba cluster, mainly retroelements. Therefore, a possible loss of the hoxb7a gene can be established in the Pleuronectiformes lineage. This work allows the organization and regulation of hox clusters to be understood, and is a good base for further studies of expression patterns.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.3390/ani12243586"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC9774920"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC9774920?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmcid",
+    "value": "PMC9774920"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC9774920&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID36552509",
+  "retrieval_date": "2026-10-26T18:53:22Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 91124,
+    "n_figures": 6,
+    "n_tables": 3,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/animals-12-03586-s001.zip"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 167655,
+      "sha256": "493b1d304f7e601261e738176f59dffa6e0f17a895634320cf8d81f5c4be827b",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9774920/fullTextXML"
+    },
+    {
+      "path": "tables/animals-12-03586-t001.tsv",
+      "role": "table_tsv",
+      "bytes": 341,
+      "sha256": "85e5a1dc9337bbce0ca2141787a267989d6cf931c575480db9314abbe5e8c60f",
+      "url": ""
+    },
+    {
+      "path": "tables/animals-12-03586-t002.tsv",
+      "role": "table_tsv",
+      "bytes": 340,
+      "sha256": "8216ce3707564a0555a2fbb1937039482f5fed52e74ef7d987db9b7ce7397e62",
+      "url": ""
+    },
+    {
+      "path": "tables/animals-12-03586-t003.tsv",
+      "role": "table_tsv",
+      "bytes": 752,
+      "sha256": "d60508601a8c6ce9c082e98fdb08604cd78b93d07429be8662ea5987a12e843b",
+      "url": ""
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 91517,
+      "sha256": "8bffba0bb4e8f1dea4f2426f1020cc87dc9b427b5107ac46d844686fd0d7b75c",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 1317438,
+      "sha256": "6031e787a5dec16f214331853d3a9373237e386c4070f137ed3362557d73f6ad",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9774920/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/animals-12-03586-s001.zip",
+      "role": "supplement",
+      "bytes": 667730,
+      "sha256": "24a70b5c0c98c394334336291202396e5727746eb0a34c1b21d25554c7c5d133",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9774920/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9774920/fullTextXML",
+      "detail": "91124 chars, 6 figures, 3 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9774920/supplementaryFiles",
+      "detail": "1 files extracted to raw/supp/; 12 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

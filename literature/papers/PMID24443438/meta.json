@@ -1,0 +1,115 @@
+{
+  "pmid": "24443438",
+  "pmcid": "PMC3942036",
+  "doi": "10.1093/gbe/evu013",
+  "source": "MED",
+  "title": "Evolution and classification of myosins, a paneukaryotic whole-genome approach",
+  "authors": [
+    "Sebé-Pedrós A",
+    "Grau-Bové X",
+    "Richards TA",
+    "Ruiz-Trillo I"
+  ],
+  "year": 2014,
+  "journal": "Genome biology and evolution",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 133,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "Myosins are key components of the eukaryotic cytoskeleton, providing motility for a broad diversity of cargoes. Therefore, understanding the origin and evolutionary history of myosin classes is crucial to address the evolution of eukaryote cell biology. Here, we revise the classification of myosins using an updated taxon sampling that includes newly or recently sequenced genomes and transcriptomes from key taxa. We performed a survey of eukaryotic genomes and phylogenetic analyses of the myosin gene family, reconstructing the myosin toolkit at different key nodes in the eukaryotic tree of life. We also identified the phylogenetic distribution of myosin diversity in terms of number of genes, associated protein domains and number of classes in each taxa. Our analyses show that new classes (i.e., paralogs) and domain architectures were continuously generated throughout eukaryote evolution, with a significant expansion of myosin abundance and domain architectural diversity at the stem of Holozoa, predating the origin of animal multicellularity. Indeed, single-celled holozoans have the most complex myosin complement among eukaryotes, with paralogs of most myosins previously considered animal specific. We recover a dynamic evolutionary history, with several lineage-specific expansions (e.g., the myosin III-like gene family diversification in choanoflagellates), convergence in protein domain architectures (e.g., fungal and animal chitin synthase myosins), and important secondary losses. Overall, our evolutionary scheme demonstrates that the ancestral eukaryote likely had a complex myosin repertoire that included six genes with different protein domain architectures. Finally, we provide an integrative and robust classification, useful for future genomic and functional studies on this crucial eukaryotic gene family.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1093/gbe/evu013"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3942036"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3942036?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "24443438"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A24443438+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID24443438",
+  "retrieval_date": "2026-10-26T14:15:32Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 70765,
+    "n_figures": 6,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/supp_6_2_290__index.html",
+    "raw/supp/supp_evu013_suppl_data.zip"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 144058,
+      "sha256": "658c5152cee5ee65dcd5f4e5a9dc1cbc73f7f06e2e8f11b33a56bd288a2d20cf",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3942036/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 70859,
+      "sha256": "bda6cbd864fa935f8c2845b0db279d6a3bde78272d3bc6d39a6f34120d1f7e96",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 5252305,
+      "sha256": "d904a107334cf025d1ce6763f29b959c0a5674285ebbd77489b98b6aa1d24a26",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3942036/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/supp_6_2_290__index.html",
+      "role": "supplement",
+      "bytes": 785,
+      "sha256": "734892057b2ead5323f993bfd31ade4ef32ebc66d9e4fee7e6f2f10fde7982ba",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3942036/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/supp_evu013_suppl_data.zip",
+      "role": "supplement",
+      "bytes": 4257004,
+      "sha256": "d25d2143b74439507cdaf17859f52d688451521779e0773af0c055be3efa79ce",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3942036/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3942036/fullTextXML",
+      "detail": "70765 chars, 6 figures, 0 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3942036/supplementaryFiles",
+      "detail": "2 files extracted to raw/supp/; 12 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

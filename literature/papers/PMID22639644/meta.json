@@ -1,0 +1,137 @@
+{
+  "pmid": "22639644",
+  "pmcid": "PMC3355642",
+  "doi": "10.3389/fpls.2012.00033",
+  "source": "MED",
+  "title": "Annotation of Selaginella moellendorffii Major Intrinsic Proteins and the Evolution of the Protein Family in Terrestrial Plants",
+  "authors": [
+    "Anderberg HI",
+    "Kjellbom P",
+    "Johanson U"
+  ],
+  "year": 2012,
+  "journal": "Frontiers in plant science",
+  "is_open_access": true,
+  "license": "cc by-nc",
+  "redistributable": true,
+  "cited_by_count": 75,
+  "has_supplements_flag": false,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "Major intrinsic proteins (MIPs) also called aquaporins form pores in membranes to facilitate the permeation of water and certain small polar solutes across membranes. MIPs are present in virtually every organism but are uniquely abundant in land plants. To elucidate the evolution and function of MIPs in terrestrial plants, the MIPs encoded in the genome of the spikemoss Selaginella moellendorffii were identified and analyzed. In total 19 MIPs were found in S. moellendorffii belonging to 6 of the 7 MIP subfamilies previously identified in the moss Physcomitrella patens. Only three of the MIPs were classified as members of the conserved water specific plasma membrane intrinsic protein (PIP) subfamily whereas almost half were found to belong to the diverse NOD26-like intrinsic protein (NIP) subfamily permeating various solutes. The small number of PIPs in S. moellendorffii is striking compared to all other land plants and no other species has more NIPs than PIPs. Similar to moss, S. moellendorffii only has one type of tonoplast intrinsic protein (TIP). Based on ESTs from non-angiosperms we conclude that the specialized groups of TIPs present in higher plants are not found in primitive vascular plants but evolved later in a common ancestor of seed plants. We also note that the silicic acid permeable NIP2 group that has been reported from angiosperms appears at the same time. We suggest that the expansion of the number MIP isoforms in higher plants is primarily associated with an increase in the different types of specialized tissues rather than the emergence of vascular tissue per se and that the loss of subfamilies has been possible due to a functional overlap between some subfamilies.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.3389/fpls.2012.00033"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3355642"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3355642?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "22639644"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A22639644+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID22639644",
+  "retrieval_date": "2026-10-26T19:12:43Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 74602,
+    "n_figures": 6,
+    "n_tables": 4,
+    "warnings": []
+  },
+  "supplements": [],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 176186,
+      "sha256": "d5c8bb61a59cb5ec1b6c891b236430dcdf2c6d720d6e68441b84698ef7ca74bb",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3355642/fullTextXML"
+    },
+    {
+      "path": "tables/T1.tsv",
+      "role": "table_tsv",
+      "bytes": 815,
+      "sha256": "da4d168b1f541ed363b1f6e4750d03c69820aee410faac5df37dccd77ecc7825",
+      "url": ""
+    },
+    {
+      "path": "tables/T2.tsv",
+      "role": "table_tsv",
+      "bytes": 827,
+      "sha256": "ba0e2b16c4db96b34d18cf0c435b4011a7e289e9f9504534194d6d8f2ef4d41a",
+      "url": ""
+    },
+    {
+      "path": "tables/TA1.tsv",
+      "role": "table_tsv",
+      "bytes": 1046,
+      "sha256": "113d9992f123ba6297a9bc02d059a78ac6b4ee9a7ce567b05ee54d5646018a90",
+      "url": ""
+    },
+    {
+      "path": "tables/TA2.tsv",
+      "role": "table_tsv",
+      "bytes": 6791,
+      "sha256": "b28b0fa5915488feeb443cc0d1f80bef19bdabf1d9a21c4af567baaa56d945f6",
+      "url": ""
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 74758,
+      "sha256": "b1517eb579e4a28a3a3510029fe8b6d56e6124c81e4a5060d715a8bcc4e40304",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 707766,
+      "sha256": "406236f2322a546ff357adb59c9a6209d09113e8b6ef30d9147d593a99a0b87d",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3355642/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3355642/fullTextXML",
+      "detail": "74602 chars, 6 figures, 4 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3355642/supplementaryFiles",
+      "detail": "0 files extracted to raw/supp/; 12 image files left inside raw/supplementary.zip"
+    },
+    {
+      "step": "pmc_page_supplements",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3355642/",
+      "detail": "no supplementary links on PMC page"
+    },
+    {
+      "step": "supplements",
+      "ok": true,
+      "url": "",
+      "detail": "article has no supplementary files listed"
+    }
+  ]
+}

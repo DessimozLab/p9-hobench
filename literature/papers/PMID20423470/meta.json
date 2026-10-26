@@ -1,0 +1,210 @@
+{
+  "pmid": "20423470",
+  "pmcid": "PMC2867816",
+  "doi": "10.1186/1471-2148-10-110",
+  "source": "MED",
+  "title": "Patterns of kinesin evolution reveal a complex ancestral eukaryote with a multifunctional cytoskeleton",
+  "authors": [
+    "Wickstead B",
+    "Gull K",
+    "Richards TA"
+  ],
+  "year": 2010,
+  "journal": "BMC evolutionary biology",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 125,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "BackgroundThe genesis of the eukaryotes was a pivotal event in evolution and was accompanied by the acquisition of numerous new cellular features including compartmentalization by cytoplasmic organelles, mitosis and meiosis, and ciliary motility. Essential for the development of these features was the tubulin cytoskeleton and associated motors. It is therefore possible to map ancient cell evolution by reconstructing the evolutionary history of motor proteins. Here, we have used the kinesin motor repertoire of 45 extant eukaryotes to infer the ancestral state of this superfamily in the last common eukaryotic ancestor (LCEA).ResultsWe bioinformatically identified 1624 putative kinesin proteins, determined their protein domain architectures and calculated a comprehensive Bayesian phylogeny for the kinesin superfamily with statistical support. These data enabled us to define 51 anciently-derived kinesin paralogs (including three new kinesin families) and 105 domain architectures. We then mapped these characters across eukaryotes, accounting for secondary loss within established eukaryotic groupings, and alternative tree topologies.ConclusionsWe show that a minimum of 11 kinesin families and 3 protein domain architectures were present in the LCEA. This demonstrates that the microtubule-based cytoskeleton of the LCEA was surprisingly highly developed in terms of kinesin motor types, but that domain architectures have been extensively modified during the diversification of the eukaryotes. Our analysis provides molecular evidence for the existence of several key cellular functions in the LCEA, and shows that a large proportion of motor family diversity and cellular complexity had already arisen in this ancient cell.",
+  "fulltext_urls": [
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Unpaywall",
+      "url": "https://bmcecolevol.biomedcentral.com/counter/pdf/10.1186/1471-2148-10-110"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "BioMedCentral",
+      "url": "http://www.biomedcentral.com/1471-2148/10/110"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "BioMedCentral",
+      "url": "http://www.biomedcentral.com/content/pdf/1471-2148-10-110.pdf"
+    },
+    {
+      "style": "abs",
+      "availability": "Open access",
+      "site": "BioMedCentral",
+      "url": "http://www.biomedcentral.com/1471-2148/10/110/abstract"
+    },
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1186/1471-2148-10-110"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC2867816"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC2867816?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "20423470"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A20423470+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID20423470",
+  "retrieval_date": "2026-10-26T14:15:32Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 84119,
+    "n_figures": 3,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/1471-2148-10-110-S3.XLS",
+    "raw/supp/1471-2148-10-110-S2.PDF",
+    "raw/supp/1471-2148-10-110-S1.PDF",
+    "raw/supp/1471-2148-10-110-S9.ZIP",
+    "raw/supp/1471-2148-10-110-S5.PDF",
+    "raw/supp/1471-2148-10-110-S4.PDF",
+    "raw/supp/1471-2148-10-110-S6.PDF",
+    "raw/supp/1471-2148-10-110-S8.ZIP",
+    "raw/supp/1471-2148-10-110-S11.PDF",
+    "raw/supp/1471-2148-10-110-S7.PDF",
+    "raw/supp/1471-2148-10-110-S10.PDF"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 143271,
+      "sha256": "706bdd189228c1ce696115acf123756d95c457e8a4824c46f691aa27f88dfe9f",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2867816/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 84273,
+      "sha256": "e23e0ad9833a0def0161859526b4876e96b98440a35d1e84d9c3502238bc82da",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 9539927,
+      "sha256": "0bfa57907a2d23dfb2e2e04afa8489a84216cd5179b27ddf2acb3c937465a495",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2867816/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-10-110-S3.XLS",
+      "role": "supplement",
+      "bytes": 438272,
+      "sha256": "1f82ef7fbbd698bbbe135ae85c5a1abd743affd19db781fa05ea584c203f15bd",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2867816/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-10-110-S2.PDF",
+      "role": "supplement",
+      "bytes": 7716683,
+      "sha256": "07c704ada3f120fa340ec8d12e3cb4964660a8ea364cde3fd3c18d9c46dbf532",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2867816/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-10-110-S1.PDF",
+      "role": "supplement",
+      "bytes": 89095,
+      "sha256": "d4c0701b5219e308423a8d72d176cac3640d79efa737582272010b86feb0c10d",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2867816/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-10-110-S9.ZIP",
+      "role": "supplement",
+      "bytes": 192179,
+      "sha256": "eb9cc181099b8212fff7e0c4696937757badb94f782e8f235eb0d831dd627dda",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2867816/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-10-110-S5.PDF",
+      "role": "supplement",
+      "bytes": 57791,
+      "sha256": "d2c4535ce1585ffb2a8b38fd9b752790b7dc8924a44d8d0c1a91e4c7ed2c01f2",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2867816/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-10-110-S4.PDF",
+      "role": "supplement",
+      "bytes": 351698,
+      "sha256": "f904e985cec1d43ac61dd421a99383a033b4f61eec7b56724944f456c785a146",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2867816/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-10-110-S6.PDF",
+      "role": "supplement",
+      "bytes": 150766,
+      "sha256": "0cf81914fbd04f47a77e7ef55c3ff3530f52ddb007147d3e73217d2888e51b2f",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2867816/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-10-110-S8.ZIP",
+      "role": "supplement",
+      "bytes": 736831,
+      "sha256": "0ca93413d3fb054cd9bf4c1bbcd76f40905484a6f8c64a39e8beb34fd5ec5a5a",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2867816/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-10-110-S11.PDF",
+      "role": "supplement",
+      "bytes": 147171,
+      "sha256": "284f448eef36584316e6aef9966108a396f2b9037029bf3e98b4f16f3975637a",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2867816/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-10-110-S7.PDF",
+      "role": "supplement",
+      "bytes": 98425,
+      "sha256": "79092f1a1bed104d4cccbc866230a61e22cbdfe1a936618783e282ac72876dc3",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2867816/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1471-2148-10-110-S10.PDF",
+      "role": "supplement",
+      "bytes": 283637,
+      "sha256": "122da9a04653cd9653a91b77e897962011273acbc61c47242fbb679c9d63434f",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2867816/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2867816/fullTextXML",
+      "detail": "84119 chars, 3 figures, 0 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2867816/supplementaryFiles",
+      "detail": "11 files extracted to raw/supp/; 6 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "pmid": "26950095",
+  "pmcid": "PMC4817229",
+  "doi": "10.1038/ng.3526",
+  "source": "MED",
+  "title": "The spotted gar genome illuminates vertebrate evolution and facilitates human-teleost comparisons",
+  "authors": [
+    "Braasch I",
+    "Gehrke AR",
+    "Smith JJ",
+    "Kawasaki K",
+    "Manousaki T",
+    "Pasquier J",
+    "Amores A",
+    "Desvignes T",
+    "Batzel P",
+    "Catchen J",
+    "Berlin AM",
+    "Campbell MS",
+    "Barrell D",
+    "Martin KJ",
+    "Mulley JF",
+    "Ravi V",
+    "Lee AP",
+    "Nakamura T",
+    "Chalopin D",
+    "Fan S",
+    "Wcisel D",
+    "Cañestro C",
+    "Sydes J",
+    "Beaudry FE",
+    "Sun Y",
+    "Hertel J",
+    "Beam MJ",
+    "Fasold M",
+    "Ishiyama M",
+    "Johnson J",
+    "Kehr S",
+    "Lara M",
+    "Letaw JH",
+    "Litman GW",
+    "Litman RT",
+    "Mikami M",
+    "Ota T",
+    "Saha NR",
+    "Williams L",
+    "Stadler PF",
+    "Wang H",
+    "Taylor JS",
+    "Fontenot Q",
+    "Ferrara A",
+    "Searle SM",
+    "Aken B",
+    "Yandell M",
+    "Schneider I",
+    "Yoder JA",
+    "Volff JN",
+    "Meyer A",
+    "Amemiya CT",
+    "Venkatesh B",
+    "Holland PW",
+    "Guiguen Y",
+    "Bobe J",
+    "Shubin NH",
+    "Di Palma F",
+    "Alföldi J",
+    "Lindblad-Toh K",
+    "Postlethwait JH"
+  ],
+  "year": 2016,
+  "journal": "Nature genetics",
+  "is_open_access": true,
+  "license": "cc by-nc-sa",
+  "redistributable": true,
+  "cited_by_count": 523,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "To connect human biology to fish biomedical models, we sequenced the genome of spotted gar (Lepisosteus oculatus), whose lineage diverged from teleosts before teleost genome duplication (TGD). The slowly evolving gar genome has conserved in content and size many entire chromosomes from bony vertebrate ancestors. Gar bridges teleosts to tetrapods by illuminating the evolution of immunity, mineralization and development (mediated, for example, by Hox, ParaHox and microRNA genes). Numerous conserved noncoding elements (CNEs; often cis regulatory) undetectable in direct human-teleost comparisons become apparent using gar: functional studies uncovered conserved roles for such cryptic CNEs, facilitating annotation of sequences identified in human genome-wide association studies. Transcriptomic analyses showed that the sums of expression domains and expression levels for duplicated teleost genes often approximate the patterns and levels of expression for gar genes, consistent with subfunctionalization. The gar genome provides a resource for understanding evolution after genome duplication, the origin of vertebrate genomes and the function of human regulatory sequences.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1038/ng.3526"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC4817229"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC4817229?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "26950095"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A26950095+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID26950095",
+  "retrieval_date": "2026-10-26T23:26:36Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 68091,
+    "n_figures": 0,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 208937,
+      "sha256": "c0c7c1f79b35d0c5e714ce6c8fe2ffa48fdcdccc424297c208db71521cbb6f70",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4817229/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 68192,
+      "sha256": "5e7c136247196f31b533dac1c417dc76135018d3b3f5322c188afc404502adb4",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4817229/fullTextXML",
+      "detail": "68091 chars, 0 figures, 0 tables"
+    }
+  ]
+}

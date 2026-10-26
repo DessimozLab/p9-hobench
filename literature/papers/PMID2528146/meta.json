@@ -1,0 +1,154 @@
+{
+  "pmid": "2528146",
+  "pmcid": "PMC297905",
+  "doi": "10.1073/pnas.86.17.6661",
+  "source": "MED",
+  "title": "Evolution of the vacuolar H+-ATPase: implications for the origin of eukaryotes",
+  "authors": [
+    "Gogarten JP",
+    "Kibak H",
+    "Dittrich P",
+    "Taiz L",
+    "Bowman EJ",
+    "Bowman BJ",
+    "Manolson MF",
+    "Poole RJ",
+    "Date T",
+    "Oshima T",
+    "Konishi J",
+    "Denda K",
+    "Yoshida M"
+  ],
+  "year": 1989,
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "is_open_access": false,
+  "license": null,
+  "redistributable": false,
+  "cited_by_count": 427,
+  "has_supplements_flag": false,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "Active transport across the vacuolar components of the eukaryotic endomembrane system is energized by a specific vacuolar H+-ATPase. The amino acid sequences of the 70- and 60-kDa subunits of the vacuolar H+-ATPase are approximately equal to 25% identical to the beta and alpha subunits, respectively, of the eubacterial-type F0F1-ATPases. We now report that the same vacuolar H+-ATPase subunits are approximately equal to 50% identical to the alpha and beta subunits, respectively, of the sulfur-metabolizing Sulfolobus acidocaldarius, an archaebacterium (Archaeobacterium). Moreover, the homologue of an 88-amino acid stretch near the amino-terminal end of the 70-kDa subunit is absent from the F0F1-ATPase beta subunit but is present in the alpha subunit of Sulfolobus. Since the two types of subunits (alpha and beta subunits; 60- and 70-kDa subunits) are homologous to each other, they must have arisen by a gene duplication that occurred prior to the last common ancestor of the eubacteria, eukaryotes, and Sulfolobus. Thus, the phylogenetic tree of the subunits can be rooted at the site where the gene duplication occurred. The inferred evolutionary tree contains two main branches: a eubacterial branch and an eocyte branch that gave rise to Sulfolobus and the eukaryotic host cell. The implication is that the vacuolar H+-ATPase of eukaryotes arose by the internalization of the plasma membrane H+-ATPase of an archaebacterial-like ancestral cell.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1073/pnas.86.17.6661"
+    },
+    {
+      "style": "html",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC297905"
+    },
+    {
+      "style": "pdf",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC297905?pdf=render"
+    },
+    {
+      "style": "doi",
+      "availability": "Free",
+      "site": "DOI",
+      "url": "https://doi.org/10.1073/pnas.86.17.6661"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "2528146"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A2528146+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID2528146",
+  "retrieval_date": "2026-10-26T18:12:45Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "pmc_html",
+    "text_file": "raw/fulltext.txt",
+    "chars": 7619,
+    "n_figures": 5,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [],
+  "files": [
+    {
+      "path": "raw/article.html",
+      "role": "html",
+      "bytes": 127370,
+      "sha256": "0e176f4d890bdea7964153b69bac123162fa82d13c0d1e1bf7aa338eeb98daea",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC297905/"
+    },
+    {
+      "path": "raw/fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 7673,
+      "sha256": "1c97d94f9afb37a5bab82f170dc6ba7e5804331b6d537426a34690e3c331b5ba",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "license",
+      "ok": true,
+      "url": "",
+      "detail": "not in the Europe PMC open-access subset: derived text stored under raw/ (not for redistribution); check publisher terms"
+    },
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC297905/fullTextXML",
+      "detail": "500 https://www.ebi.ac.uk/europepmc/webservices/rest/PMC297905/fullTextXML server error (persistent)"
+    },
+    {
+      "step": "pmc_s3_opendata",
+      "ok": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/?list-type=2&prefix=PMC297905.",
+      "detail": "article not in PMC OA open-data bucket (not in OA subset)"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC297905",
+      "detail": "404 https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC297905 NCBI/xpmc12 - WWW Error 404 Diagnostic h1.error {color: red; font-size: 40pt} div.diags {text-indent: 0.5in } Can't find"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC297905",
+      "detail": "404 https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC297905 <script type=\"module\" crossorigin=\"\" src=\"https://cdn.ncbi.nl"
+    },
+    {
+      "step": "ncbi_efetch_pmc",
+      "ok": false,
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC297905&rettype=xml",
+      "detail": "no usable body (1840 chars); ['no <body> in XML (publisher may not allow full text)']"
+    },
+    {
+      "step": "pmc_html_page",
+      "ok": true,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC297905/",
+      "detail": "7619 chars (free-to-read page; not necessarily re-usable)"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC297905/supplementaryFiles",
+      "detail": "0 Article with id PMC297905 is not open access one"
+    },
+    {
+      "step": "pmc_page_supplements",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC297905/",
+      "detail": "no supplementary links on PMC page"
+    },
+    {
+      "step": "supplements",
+      "ok": true,
+      "url": "",
+      "detail": "article has no supplementary files listed"
+    }
+  ]
+}

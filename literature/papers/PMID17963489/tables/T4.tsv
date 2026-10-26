@@ -1,0 +1,133 @@
+Human LIM-class homeobox genes					
+Family	Gene symbol	Gene name	Location	Entrez gene ID	Previous symbols
+					
+Isl	ISL1	ISL LIM homeobox 1	5q11.2	3670	
+	ISL2	ISL LIM homeobox 2	15q24.3	64843	
+Lhx1/5	LHX1	LIM homeobox 1	17q12	3975	LIM1
+	LHX5	LIM homeobox 5	12q24.13	64211	
+Lhx2/9	LHX2	LIM homeobox 2	9q33.3	9355	LH2
+	LHX9	LIM homeobox 9	1q31.3	56956	
+Lhx3/4	LHX3	LIM homeobox 3	9q34.3	8022	M2-LHX3
+	LHX4	LIM homeobox 4	1q25.3	89884	GSH4
+Lhx6/8	LHX6	LIM homeobox 6	9q33.2	26468	LHX6.1
+	LHX8	LIM homeobox 8	1p31.1	431707	LHX7
+Lmx	LMX1A	LMX LIM homeobox 1A	1q24.1	4009	LMX1, LMX1.1
+	LMX1B	LMX LIM homeobox 1B	9q33.3	4010	LMX2, LMX1.2
+					
+Human POU-class homeobox genes and pseudogenes					
+					
+Hdx	HDX	highly divergent homeobox	Xq21.1	139324	CXorf43
+Pou1	POU1F1	POU class 1 homeobox 1	3p11.2	5449	PIT1, GHF1
+Pou2	POU2F1	POU class 2 homeobox 1	1q24.2	5451	OCT1, OTF1
+	POU2F2	POU class 2 homeobox 2	19q13.2	5452	OCT2, OTF2
+	POU2F3	POU class 2 homeobox 3	11q23.3	25833	OCT11, PLA1, EPOC1, SKN1A
+Pou3	POU3F1	POU class 3 homeobox 1	1p34.3	5453	OCT6, OTF6, SCIP
+	POU3F2	POU class 3 homeobox 2	6q16.2	5454	OCT7, OTF7, BRN2, POUF3
+	POU3F3	POU class 3 homeobox 3	2q12.1	5455	OTF8, BRN1
+	POU3F4	POU class 3 homeobox 4	Xq21.1	5456	OTF9, BRN4
+Pou4	POU4F1	POU class 4 homeobox 1	13q31.1	5457	BRN3A, RDC1, Oct-T1
+	POU4F2	POU class 4 homeobox 2	4q31.22	5458	BRN3B, BRN3.2
+	POU4F3	POU class 4 homeobox 3	5q32	5459	BRN3C
+Pou5	POU5F1	POU class 5 homeobox 1	6p21.33	5460	OCT3, OTF3, OCT4, OTF4
+	POU5F1P1	POU class 5 homeobox 1 pseudogene 1	8q24.21	5462	OTF3C, OTF3P1, POU5FLC8
+	POU5F1P2	POU class 5 homeobox 1 pseudogene 2	8q22.3	100009665	
+	POU5F1P3	POU class 5 homeobox 1 pseudogene 3	12p13.31	642559	OTF3L, POU5F1L, POU5FLC12
+	POU5F1P4	POU class 5 homeobox 1 pseudogene 4	1q22	645682	POU5FLC1
+	POU5F1P5	POU class 5 homeobox 1 pseudogene 5	10q21.3	100009667	
+	POU5F1P6	POU class 5 homeobox 1 pseudogene 6	3q21.3	100009668	
+	POU5F1P7	POU class 5 homeobox 1 pseudogene 7	3q12.1	100009669	
+	POU5F1P8	POU class 5 homeobox 1 pseudogene 8	17q25.3	100009670	
+	POU5F2	POU class 5 homeobox 2	5q15	134187	SPRM1
+Pou6	POU6F1	POU class 6 homeobox 1	12q13.13	5463	BRN5, MPOU, TCFB1
+	POU6F2	POU class 6 homeobox 2	7p14.1	11281	WT5, WTSL, RPF1
+					
+Human HNF-class homeobox genes					
+					
+Hmbox	HMBOX1	homeobox containing 1	8p12	79618	HNF1LA, PBHNF
+Hnf1	HNF1A	HNF1 homeobox A	12q24.31	6927	TCF1, HNF1, LFB1
+	HNF1B	HNF1 homeobox B	17q12	6928	TCF2, LFB3, VHNF1
+					
+Human SINE-class homeobox genes					
+					
+Six1/2	SIX1	SIX homeobox 1	14q23.1	6495	
+	SIX2	SIX homeobox 2	2p21	10736	
+Six3/6	SIX3	SIX homeobox 3	2p21	6496	
+	SIX6	SIX homeobox 6	14q23.1	4990	OPTX2, Six9
+Six4/5	SIX4	SIX homeobox 4	14q23.1	51804	AREC3
+	SIX5	SIX homeobox 5	19q13.32	147912	DMAHP
+					
+Human TALE-class homeobox genes and pseudogenes					
+					
+Irx	IRX1	iroquois homeobox 1	5p15.33		IRX-5
+	IRX1P1	iroquois homeobox 1 pseudogene 1	13q12.12	79192	IRXA1
+	IRX2	iroquois homeobox 2	5p15.33	646390	
+	IRX3	iroquois homeobox 3	16q12.2	153572	IRX-1
+	IRX4	iroquois homeobox 4	5p15.33	50805	
+	IRX4P1	iroquois homeobox 4 pseudogene 1	18p11.22	100009671	
+	IRX5	iroquois homeobox 5	16q12.2	79190	IRX2A
+	IRX6	iroquois homeobox 6	16q12.2		IRX-3, IRX7
+Meis	MEIS1	Meis homeobox 1	2p14	4211	
+	MEIS2	Meis homeobox 2	15q14	4212	MRG1
+	MEIS3	Meis homeobox 3	19q13.32	56917	MRG2
+	MEIS3P1	Meis homeobox 3 pseudogene 1	17p12	4213	MRG2, MEIS3, MEIS4
+	MEIS3P2	Meis homeobox 3 pseudogene 2	17p11.2	257468	
+Mkx	MKX	mohawk homeobox	10p12.1	283078	IRXL1, IFRX, C10orf48
+Pbx	PBX1	pre-B-cell leukemia homeobox 1	1q23.3	5087	
+	PBX2	pre-B-cell leukemia homeobox 2	6p21.32	5089	G17, HOX12, PBX2MHC
+	PBX2P1	pre-B-cell leukemia homeobox 2 pseudogene 1	3q24	5088	PBXP1, PBX2
+	PBX3	pre-B-cell leukemia homeobox 3	9q33.3	5090	
+	PBX4	pre-B-cell leukemia homeobox 4	19p13.11	80714	
+Pknox	PKNOX1	PBX/knotted homeobox 1	21q22.3	5316	PREP1, PKNOX1C
+	PKNOX2	PBX/knotted homeobox 2	11q24.2	63876	PREP2
+Tgif	TGIF1	TGFB-induced factor homeobox 1	18p11.31	7050	TGIF, HPE4
+	TGIF1P1	TGFB-induced factor homeobox1 pseudogene 1	19q13.32	126052	
+	TGIF2	TGFB-induced factor homeobox 2	20q11.23	60436	
+	TGIF2P1	TGFB-induced factor homeobox 2 pseudogene 1	1q44	126826	
+	TGIF2P2	TGFB-induced factor homeobox 2 pseudogene 2	15q21.1	100009674	
+	TGIF2P3	TGFB-induced factor homeobox 2 pseudogene 3	15q21.1	100009672	
+	TGIF2P4	TGFB-induced factor homeobox 2 pseudogene 4	14q24.2	100009673	
+	TGIF2LX	TGFB-induced factor homeobox 2-like, X-linked	Xq21.31	90316	TGIFLX (retrogene)
+	TGIF2LY	TGFB-induced factor homeobox 2-like, Y-linked	Yp11.2	90655	TGIFLY (retrogene)
+					
+Human CUT-class homeobox genes and pseudogenes					
+					
+Onecut	ONECUT1	one cut homeobox 1	15q21.3	3175	HNF6, HNF6A
+	ONECUT2	one cut homeobox 2	18q21.31	9480	OC2
+	ONECUT3	one cut homeobox 3	19p13.3	390874	
+Cux	CUX1	cut-like homeobox 1	7q22.1	1523	CUTL1, CUX, CDP, COY1
+	CUX2	cut-like homeobox 2	12q24.12	23316	CUTL2
+	CUX2P1	cut-like homeobox 2 pseudogene 1	10p14	-	
+	CUX2P2	cut-like homeobox 2 pseudogene 2	4q32.1	-	
+Satb	SATB1	SATB homeobox 1	3p24.3	6304	
+	SATB2	SATB homeobox 2	2q33.1	23314	
+					
+Human PROS-class homeobox genes					
+					
+Prox	PROX1	prospero homeobox 1	1q41	5629	
+	PROX2	prospero homeobox 2	14q24.3	283571	
+					
+Human ZF-class homeobox genes and pseudogenes					
+					
+Adnp	ADNP	activity-dependent neuroprotector homeobox	20q13.13	23394	ADNP1
+	ADNP2	ADNP homeobox 2	18q23	22850	ZNF508
+Tshz	TSHZ1	teashirt zinc finger homeobox 1	18q22.3	10194	TSH1
+	TSHZ2	teashirt zinc finger homeobox 2	20q13.2	128553	TSH2, ZNF218, ZABC2, OVC10-2
+	TSHZ3	teashirt zinc finger homeobox 3	19q12	57616	TSH3, ZNF537
+Zeb	ZEB1	zinc finger E-box binding homeobox 1	10p11.22	6935	ZFHX1A, deltaEF1, TCF8, ZEB
+	ZEB2	zinc finger E-box binding homeobox 2	2q22.3	9839	ZFHX1B, SIP1, SMADIP1
+	ZEB2P1	zinc finger E-box binding homeobox 2 pseudogene 1	4p15.32	100033412	
+Zfhx	ZFHX2	zinc finger homeobox 2	14q11.2	85446	
+	ZFHX3	zinc finger homeobox 3	16q22.3	463	ATBT, ATBF1
+	ZFHX4	zinc finger homeobox 4	8q21.11	79776	ZFH4
+Zhx/	ZHX1	zinc fingers and homeoboxes 1	8q24.13	11244	
+Homez	ZHX2	zinc fingers and homeoboxes 2	8q24.13	22882	
+	ZHX3	zinc fingers and homeoboxes 3	20q12	23051	TIX1
+	HOMEZ	homeobox and leucine zipper encoding	14q11.2	57594	
+					
+Human CERS-class homeobox genes					
+					
+Cers	CERS2	ceramide synthase 2	1p36.13-q24.1	29956	LASS2, TRH3, TMSG1
+	CERS3	ceramide synthase 3	15q26.3	204219	LASS3
+	CERS4	ceramide synthase 4	19p13.3	79603	LASS4, TRH1
+	CERS5	ceramide synthase 5	12q13.12	91012	LASS5, TRH4
+	CERS6	ceramide synthase 6	2q31	253782	LASS6

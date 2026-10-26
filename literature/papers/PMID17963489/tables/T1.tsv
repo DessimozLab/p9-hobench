@@ -1,0 +1,16 @@
+Class	Subclass	Number of gene families	Number of genes	Number of pseudogenes
+ANTP	HOXL	14	52	0
+	NKL	23	48	19^b
+PRD	PAX	3	7^a	0
+	PAXL	28	43	24^c, d
+LIM		6	12	0
+POU		7	16	8^e
+HNF		2	3	0
+SINE		3	6	0
+TALE		6	20	10^f
+CUT		3	7	3^g
+PROS		1	2	0
+ZF		5	14	1^h
+CERS		1	5^i	0
+				
+Totals		102	235^a	65^b-h

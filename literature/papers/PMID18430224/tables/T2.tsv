@@ -1,0 +1,18 @@
+Number^a	ID^b	Type^c	Organism	Descr.	Comments
+1	DN837617	EST	Selaginella moellendorffii	-	cDNA from whole plant
+2	BT014197	EST	Solanum lycopersicum^d	-	cDNA from fruit
+3	DY275505	EST	Citrus clementina	-	cDNA from mixed tissue
+4	CO092422	EST	Gossypium raimondii	-	cDNA from whole seedlings
+5	CK295158	EST	Nicotiana benthamiana	-	cDNA from mixed tissue
+6	EG656577	EST	Ricinus communis	-	cDNA from seeds
+7	EG666650	EST	Ricinus communis	-	cDNA from roots
+8	CK746370^eDT60037^e	EST	Liriodendron tulipifera	-	cDNA from flower buds
+9	DR936893^eDT742029^e	EST	Aquilegia Formosa × Aquilegia pubescens	-	cDNA from mixed tissue
+10	AM455454	WGSS	Vitis vinifera	-	Exons between nucleotides 61100–61186, 61265–61354 & 61465–62185
+11	AM455454	WGSS	Vitis vinifera	-	Exons between nucleotides 69471–69617 & 69685–70443
+12	557139	Gene	Populus trichocarpa	PIP	no EST support
+13	829126	Gene	Populus trichocarpa	PIP	EST support from cambium
+14	767334	Gene	Populus trichocarpa	PIP	no EST support
+15	759781	Gene	Populus trichocarpa	PIP	no EST support
+16	821124	Gene	Populus trichocarpa	PIP	EST support from petioles
+17	XM_639170	Gene	Dictyostelium discoideum AX4 ^f	MIP	Hypothetical protein

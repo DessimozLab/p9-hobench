@@ -1,0 +1,154 @@
+{
+  "pmid": "22366452",
+  "pmcid": "PMC3383260",
+  "doi": "10.1242/jcs.101378",
+  "source": "MED",
+  "title": "Sculpting the endomembrane system in deep time: high resolution phylogenetics of Rab GTPases",
+  "authors": [
+    "Elias M",
+    "Brighouse A",
+    "Gabernet-Castello C",
+    "Field MC",
+    "Dacks JB"
+  ],
+  "year": 2012,
+  "journal": "Journal of cell science",
+  "is_open_access": false,
+  "license": null,
+  "redistributable": false,
+  "cited_by_count": 140,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "The presence of a nucleus and other membrane-bounded intracellular compartments is the defining feature of eukaryotic cells. Endosymbiosis accounts for the origins of mitochondria and plastids, but the evolutionary ancestry of the remaining cellular compartments is incompletely documented. Resolving the evolutionary history of organelle-identity encoding proteins within the endomembrane system is a necessity for unravelling the origins and diversification of the endogenously derived organelles. Comparative genomics reveals events after the last eukaryotic common ancestor (LECA), but resolution of events prior to LECA, and a full account of the intracellular compartments present in LECA, has proved elusive. We have devised and exploited a new phylogenetic strategy to reconstruct the history of the Rab GTPases, a key family of endomembrane-specificity proteins. Strikingly, we infer a remarkably sophisticated organellar composition for LECA, which we predict possessed as many as 23 Rab GTPases. This repertoire is significantly greater than that present in many modern organisms and unexpectedly indicates a major role for secondary loss in the evolutionary diversification of the endomembrane system. We have identified two Rab paralogues of unknown function but wide distribution, and thus presumably ancient nature; RabTitan and RTW. Furthermore, we show that many Rab paralogues emerged relatively suddenly during early metazoan evolution, which is in stark contrast to the lack of significant Rab family expansions at the onset of most other major eukaryotic groups. Finally, we reconstruct higher-order ancestral clades of Rabs primarily linked with endocytic and exocytic process, suggesting the presence of primordial Rabs associated with the establishment of those pathways and giving the deepest glimpse to date into pre-LECA history of the endomembrane system.",
+  "fulltext_urls": [
+    {
+      "style": "html",
+      "availability": "Free",
+      "site": "Unpaywall",
+      "url": "https://europepmc.org/articles/pmc3383260"
+    },
+    {
+      "style": "html",
+      "availability": "Free",
+      "site": "Unpaywall",
+      "url": "https://europepmc.org/articles/pmc3383260"
+    },
+    {
+      "style": "html",
+      "availability": "Free",
+      "site": "Unpaywall",
+      "url": "https://europepmc.org/articles/pmc3383260"
+    },
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1242/jcs.101378"
+    },
+    {
+      "style": "html",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3383260"
+    },
+    {
+      "style": "doi",
+      "availability": "Free",
+      "site": "DOI",
+      "url": "https://doi.org/10.1242/jcs.101378"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "22366452"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A22366452+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID22366452",
+  "retrieval_date": "2026-10-26T19:01:06Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [
+    "supplementary files: Europe PMC flags supplements / XML lists ['/articles/instance/3383260/bin/supp_125_10_2500__index.html', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS2.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS3.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS4.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS5.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS6.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS7.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS8.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS9.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS10.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS11.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS12.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS13.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS14.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS15.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS16.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS17.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS18.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS19.pdf', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS1.txt', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378TableS1.xls', '/articles/instance/3383260/bin/supp_125.10.2500_JCS101378TableS2.doc'] but none could be downloaded; get them from the publisher site"
+  ],
+  "fulltext": {
+    "source": "pmc_html",
+    "text_file": "raw/fulltext.txt",
+    "chars": 52533,
+    "n_figures": 6,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [],
+  "files": [
+    {
+      "path": "raw/article.html",
+      "role": "html",
+      "bytes": 207615,
+      "sha256": "f73475d67a633288329a46c8bf86e7d9c2d7d11698cfc4e2a106c6c586af8694",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3383260/"
+    },
+    {
+      "path": "raw/fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 52580,
+      "sha256": "a9e8c5d340f574f0225857614b65f3cddc422f3adf5af18462067cc00a651dfb",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "license",
+      "ok": true,
+      "url": "",
+      "detail": "not in the Europe PMC open-access subset: derived text stored under raw/ (not for redistribution); check publisher terms"
+    },
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3383260/fullTextXML",
+      "detail": "500 https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3383260/fullTextXML server error (persistent)"
+    },
+    {
+      "step": "pmc_s3_opendata",
+      "ok": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/?list-type=2&prefix=PMC3383260.",
+      "detail": "article not in PMC OA open-data bucket (not in OA subset)"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC3383260",
+      "detail": "404 https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC3383260 NCBI/xpmc12 - WWW Error 404 Diagnostic h1.error {color: red; font-size: 40pt} div.diags {text-indent: 0.5in } Can't find"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC3383260",
+      "detail": "404 https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC3383260 <script type=\"module\" crossorigin=\"\" src=\"https://cdn.ncbi.nl"
+    },
+    {
+      "step": "ncbi_efetch_pmc",
+      "ok": false,
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC3383260&rettype=xml",
+      "detail": "no usable body (2241 chars); ['no <body> in XML (publisher may not allow full text)']"
+    },
+    {
+      "step": "pmc_html_page",
+      "ok": true,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3383260/",
+      "detail": "52533 chars (free-to-read page; not necessarily re-usable)"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3383260/supplementaryFiles",
+      "detail": "0 Article with id PMC3383260 is not open access one"
+    },
+    {
+      "step": "pmc_page_supplements",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/3383260/bin/supp_125.10.2500_JCS101378FigS2.pdf",
+      "detail": "PMC served an interactive proof-of-work page instead of the file; automated bypass deliberately NOT attempted - download manually (requested/)"
+    }
+  ]
+}

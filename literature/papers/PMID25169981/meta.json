@@ -1,0 +1,125 @@
+{
+  "pmid": "25169981",
+  "pmcid": "PMC4202323",
+  "doi": "10.1093/gbe/evu187",
+  "source": "MED",
+  "title": "Six subgroups and extensive recent duplications characterize the evolution of the eukaryotic tubulin protein family",
+  "authors": [
+    "Findeisen P",
+    "Mühlhausen S",
+    "Dempewolf S",
+    "Hertzog J",
+    "Zietlow A",
+    "Carlomagno T",
+    "Kollmar M"
+  ],
+  "year": 2014,
+  "journal": "Genome biology and evolution",
+  "is_open_access": true,
+  "license": "cc by-nc",
+  "redistributable": true,
+  "cited_by_count": 119,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "Tubulins belong to the most abundant proteins in eukaryotes providing the backbone for many cellular substructures like the mitotic and meiotic spindles, the intracellular cytoskeletal network, and the axonemes of cilia and flagella. Homologs have even been reported for archaea and bacteria. However, a taxonomically broad and whole-genome-based analysis of the tubulin protein family has never been performed, and thus, the number of subfamilies, their taxonomic distribution, and the exact grouping of the supposed archaeal and bacterial homologs are unknown. Here, we present the analysis of 3,524 tubulins from 504 species. The tubulins formed six major subfamilies, α to ζ. Species of all major kingdoms of the eukaryotes encode members of these subfamilies implying that they must have already been present in the last common eukaryotic ancestor. The proposed archaeal homologs grouped together with the bacterial TubZ proteins as sister clade to the FtsZ proteins indicating that tubulins are unique to eukaryotes. Most species contained α- and/or β-tubulin gene duplicates resulting from recent branch- and species-specific duplication events. This shows that tubulins cannot be used for constructing species phylogenies without resolving their ortholog-paralog relationships. The many gene duplicates and also the independent loss of the δ-, ε-, or ζ-tubulins, which have been shown to be part of the triplet microtubules in basal bodies, suggest that tubulins can functionally substitute each other.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1093/gbe/evu187"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC4202323"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC4202323?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "25169981"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A25169981+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID25169981",
+  "retrieval_date": "2026-10-26T14:15:32Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 91440,
+    "n_figures": 7,
+    "n_tables": 1,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/supp_evu187_suppl_data.zip",
+    "raw/supp/supp_6_9_2274__index.html"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 154285,
+      "sha256": "a70547b37ca6a063d69aea5cbcf306462bac06c13cfa9db29955d17fbd4f3e4c",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4202323/fullTextXML"
+    },
+    {
+      "path": "tables/evu187-T1.tsv",
+      "role": "table_tsv",
+      "bytes": 560,
+      "sha256": "13718ff9ddc9709aafe50fe3433e56298f2df25d605e3d28e1cb5fcd94f43d04",
+      "url": ""
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 92033,
+      "sha256": "73ba9b150b0ec5aebd661203784154c7c05fa77888fb8e979de694a06471d9e8",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 5693900,
+      "sha256": "8bf020db251494b9c81c81c5edc50652426a21c084bb23b2154dca1e14d7dc63",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4202323/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/supp_evu187_suppl_data.zip",
+      "role": "supplement",
+      "bytes": 5121601,
+      "sha256": "2d30d03de861042038d97d74544f3d18f1be370fbae77df07003b39b2cceb8d3",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4202323/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/supp_6_9_2274__index.html",
+      "role": "supplement",
+      "bytes": 859,
+      "sha256": "090350b8a741cf6ea0a4f03befc70a0125acfd2fbff1e22e75a6e41483a290b0",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4202323/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4202323/fullTextXML",
+      "detail": "91440 chars, 7 figures, 1 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4202323/supplementaryFiles",
+      "detail": "2 files extracted to raw/supp/; 14 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

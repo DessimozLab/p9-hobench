@@ -1,0 +1,154 @@
+{
+  "pmid": "21965344",
+  "pmcid": "PMC3245541",
+  "doi": "10.1093/molbev/msr207",
+  "source": "MED",
+  "title": "Whole-genome duplications spurred the functional diversification of the globin gene superfamily in vertebrates",
+  "authors": [
+    "Hoffmann FG",
+    "Opazo JC",
+    "Storz JF"
+  ],
+  "year": 2012,
+  "journal": "Molecular biology and evolution",
+  "is_open_access": false,
+  "license": null,
+  "redistributable": false,
+  "cited_by_count": 83,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "It has been hypothesized that two successive rounds of whole-genome duplication (WGD) in the stem lineage of vertebrates provided genetic raw materials for the evolutionary innovation of many vertebrate-specific features. However, it has seldom been possible to trace such innovations to specific functional differences between paralogous gene products that derive from a WGD event. Here, we report genomic evidence for a direct link between WGD and key physiological innovations in the vertebrate oxygen transport system. Specifically, we demonstrate that key globin proteins that evolved specialized functions in different aspects of oxidative metabolism (hemoglobin, myoglobin, and cytoglobin) represent paralogous products of two WGD events in the vertebrate common ancestor. Analysis of conserved macrosynteny between the genomes of vertebrates and amphioxus (subphylum Cephalochordata) revealed that homologous chromosomal segments defined by myoglobin + globin-E, cytoglobin, and the α-globin gene cluster each descend from the same linkage group in the reconstructed proto-karyotype of the chordate common ancestor. The physiological division of labor between the oxygen transport function of hemoglobin and the oxygen storage function of myoglobin played a pivotal role in the evolution of aerobic energy metabolism, supporting the hypothesis that WGDs helped fuel key innovations in vertebrate evolution.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1093/molbev/msr207"
+    },
+    {
+      "style": "html",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3245541"
+    },
+    {
+      "style": "pdf",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3245541?pdf=render"
+    },
+    {
+      "style": "doi",
+      "availability": "Free",
+      "site": "DOI",
+      "url": "https://doi.org/10.1093/molbev/msr207"
+    }
+  ],
+  "query": {
+    "kind": "pmcid",
+    "value": "PMC3245541"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC3245541&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID21965344",
+  "retrieval_date": "2026-10-26T19:09:50Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [
+    "supplementary files: Europe PMC flags supplements / XML lists ['/articles/instance/3245541/bin/supp_29_1_303__index.html', '/articles/instance/3245541/bin/supp_msr207_Supplementary_figure1.pdf', '/articles/instance/3245541/bin/supp_msr207_Supplementary_figure2.pdf', '/articles/instance/3245541/bin/supp_msr207_Supplementary_figure3.pdf', '/articles/instance/3245541/bin/supp_msr207_Supplementary_figure4.pdf', '/articles/instance/3245541/bin/supp_msr207_Supplementary_Table1.pdf'] but none could be downloaded; get them from the publisher site"
+  ],
+  "fulltext": {
+    "source": "pmc_html",
+    "text_file": "raw/fulltext.txt",
+    "chars": 44025,
+    "n_figures": 5,
+    "n_tables": 2,
+    "warnings": []
+  },
+  "supplements": [],
+  "files": [
+    {
+      "path": "raw/article.html",
+      "role": "html",
+      "bytes": 207566,
+      "sha256": "7ab8ecba21e17d0473e44a94503427b60af97e991a7f29ad8b640b4aafdae59b",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3245541/"
+    },
+    {
+      "path": "raw/tables/tbl1.tsv",
+      "role": "table_tsv",
+      "bytes": 558,
+      "sha256": "134bf99c3db138bfb98ae87438ee3128c64ef5a3d5d13dfa4ee12894560b5298",
+      "url": ""
+    },
+    {
+      "path": "raw/tables/tbl2.tsv",
+      "role": "table_tsv",
+      "bytes": 199,
+      "sha256": "57f43fb4856d80d78242f4502ecaef5588761498cc178930a9dade9f7d38b819",
+      "url": ""
+    },
+    {
+      "path": "raw/fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 44336,
+      "sha256": "3972cf50db48ccb15bf842c5193ba725aff61787722aa052282a9e028ef75970",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "license",
+      "ok": true,
+      "url": "",
+      "detail": "not in the Europe PMC open-access subset: derived text stored under raw/ (not for redistribution); check publisher terms"
+    },
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3245541/fullTextXML",
+      "detail": "500 https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3245541/fullTextXML server error (persistent)"
+    },
+    {
+      "step": "pmc_s3_opendata",
+      "ok": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/?list-type=2&prefix=PMC3245541.",
+      "detail": "article not in PMC OA open-data bucket (not in OA subset)"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC3245541",
+      "detail": "404 https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC3245541 NCBI/xpmc21 - WWW Error 404 Diagnostic h1.error {color: red; font-size: 40pt} div.diags {text-indent: 0.5in } Can't find"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC3245541",
+      "detail": "404 https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC3245541 <script type=\"module\" crossorigin=\"\" src=\"https://cdn.ncbi.nl"
+    },
+    {
+      "step": "ncbi_efetch_pmc",
+      "ok": false,
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC3245541&rettype=xml",
+      "detail": "no usable body (1797 chars); ['no <body> in XML (publisher may not allow full text)']"
+    },
+    {
+      "step": "pmc_html_page",
+      "ok": true,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3245541/",
+      "detail": "44025 chars (free-to-read page; not necessarily re-usable)"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3245541/supplementaryFiles",
+      "detail": "0 Article with id PMC3245541 is not open access one"
+    },
+    {
+      "step": "pmc_page_supplements",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/3245541/bin/supp_msr207_Supplementary_figure1.pdf",
+      "detail": "PMC served an interactive proof-of-work page instead of the file; automated bypass deliberately NOT attempted - download manually (requested/)"
+    }
+  ]
+}

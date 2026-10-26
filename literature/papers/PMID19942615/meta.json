@@ -1,0 +1,107 @@
+{
+  "pmid": "19942615",
+  "pmcid": "PMC2839125",
+  "doi": "10.1093/molbev/msp288",
+  "source": "MED",
+  "title": "Origin and diversification of basic-helix-loop-helix proteins in plants",
+  "authors": [
+    "Pires N",
+    "Dolan L"
+  ],
+  "year": 2010,
+  "journal": "Molecular biology and evolution",
+  "is_open_access": true,
+  "license": "cc by-nc",
+  "redistributable": true,
+  "cited_by_count": 486,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "Basic helix-loop-helix (bHLH) proteins are a class of transcription factors found throughout eukaryotic organisms. Classification of the complete sets of bHLH proteins in the sequenced genomes of Arabidopsis thaliana and Oryza sativa (rice) has defined the diversity of these proteins among flowering plants. However, the evolutionary relationships of different plant bHLH groups and the diversity of bHLH proteins in more ancestral groups of plants are currently unknown. In this study, we use whole-genome sequences from nine species of land plants and algae to define the relationships between these proteins in plants. We show that few (less than 5) bHLH proteins are encoded in the genomes of chlorophytes and red algae. In contrast, many bHLH proteins (100-170) are encoded in the genomes of land plants (embryophytes). Phylogenetic analyses suggest that plant bHLH proteins are monophyletic and constitute 26 subfamilies. Twenty of these subfamilies existed in the common ancestors of extant mosses and vascular plants, whereas six further subfamilies evolved among the vascular plants. In addition to the conserved bHLH domains, most subfamilies are characterized by the presence of highly conserved short amino acid motifs. We conclude that much of the diversity of plant bHLH proteins was established in early land plants, over 440 million years ago.",
+  "fulltext_urls": [
+    {
+      "style": "html",
+      "availability": "Free after 12 months",
+      "site": "mbe.oxfordjournals.org",
+      "url": "http://mbe.oxfordjournals.org/cgi/content/full/27/4/862"
+    },
+    {
+      "style": "pdf",
+      "availability": "Free after 12 months",
+      "site": "mbe.oxfordjournals.org",
+      "url": "http://mbe.oxfordjournals.org/cgi/reprint/27/4/862.pdf"
+    },
+    {
+      "style": "abs",
+      "availability": "Free",
+      "site": "mbe.oxfordjournals.org",
+      "url": "http://mbe.oxfordjournals.org/cgi/content/abstract/27/4/862.pdf"
+    },
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1093/molbev/msp288"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC2839125"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC2839125?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "19942615"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A19942615+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID19942615",
+  "retrieval_date": "2026-10-26T18:52:53Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 109926,
+    "n_figures": 5,
+    "n_tables": 1,
+    "warnings": []
+  },
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 191825,
+      "sha256": "96140fc4a851f4276195338b4be8263270c7a52062bbb03479ef82830a08c0e9",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2839125/fullTextXML"
+    },
+    {
+      "path": "tables/tbl1.tsv",
+      "role": "table_tsv",
+      "bytes": 10773,
+      "sha256": "f005c99507e0ffa1d0205c9c39d1f6aaf9b831c5b6e6344f34a366d911a9504b",
+      "url": ""
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 110226,
+      "sha256": "e8bc4705a900154bb0cb44bbb5ae32c4873c8cf1ed81cc6b8a2239b65a46b84b",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2839125/fullTextXML",
+      "detail": "109926 chars, 5 figures, 1 tables"
+    }
+  ]
+}

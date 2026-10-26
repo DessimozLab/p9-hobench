@@ -1,0 +1,88 @@
+{
+  "pmid": "41052773",
+  "pmcid": "PMC12693550",
+  "doi": "10.1093/genetics/iyaf218",
+  "source": "MED",
+  "title": "The phenotypic variation of widefins medaka is due to the insertion of a giant transposon containing a viral genome within the hoxca cluster",
+  "authors": [
+    "Koita R",
+    "Otake S",
+    "Fukaya N",
+    "Yamamoto K",
+    "Maeno A",
+    "Kanno H",
+    "Matsuda M",
+    "Kawamura A"
+  ],
+  "year": 2025,
+  "journal": "Genetics",
+  "is_open_access": true,
+  "license": "cc by-nc-nd",
+  "redistributable": true,
+  "cited_by_count": 1,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "Phenotypic variation in species arises from genetic differences and environmental influences on gene expression. Differences in epigenetic modifications, such as histone modifications and DNA methylation, can also contribute to phenotypic variations, even among individuals with identical genetic information. However, the underlying molecular mechanisms are not yet fully understood, particularly in vertebrates. The number of fin rays in teleosts, such as medaka, serves as a useful model for studying this variation. In a previous study, we demonstrated that the teleost Hox code plays a crucial role in determining the anterior-posterior identity necessary for the formation of dorsal and anal fins. In this study, we investigated widefins medaka, a spontaneous mutant displaying phenotypic variation in the number of dorsal and anal fin rays. Long-read whole-genome sequencing revealed that an extremely large transposon, Teratorn, containing a herpesvirus genome, was inserted into the hoxc12a 3'-UTR. This insertion decreased hoxc12a expression and, in some cases, also affected neighboring hox genes, resulting in variations in fin size and the presence or absence of dorsal fins. Additionally, hoxc6a, located 50 kb away from the insertion, was also downregulated in widefins medaka. These findings suggest that this large transposon insertion leads to a reduction in nearby hox gene expression, contributing to the phenotypic variation observed in widefins medaka. These results highlight the role of transposable elements and epigenetic regulation in generating phenotypic diversity in vertebrates.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1093/genetics/iyaf218"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC12693550"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC12693550?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmcid",
+    "value": "PMC12693550"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC12693550&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID41052773",
+  "retrieval_date": "2026-10-26T18:52:58Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 55818,
+    "n_figures": 6,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 96893,
+      "sha256": "6fbe954cd827c1294cfe14bd1fbcaa4818fd8bffcfe46eda982c9742a4e22ca4",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12693550/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 55972,
+      "sha256": "8f8296f44dc7679c44aa707d6ef7a6047b9d9e053b215056491a0366c78ade01",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12693550/fullTextXML",
+      "detail": "55818 chars, 6 figures, 0 tables"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "pmid": "24180662",
+  "pmcid": "PMC3826523",
+  "doi": "10.1186/1471-2148-13-238",
+  "source": "MED",
+  "title": "The vertebrate ancestral repertoire of visual opsins, transducin alpha subunits and oxytocin/vasopressin receptors was established by duplication of their shared genomic region in the two rounds of early vertebrate genome duplications",
+  "authors": [
+    "Lagman D",
+    "Ocampo Daza D",
+    "Widmark J",
+    "Abalo XM",
+    "Sundström G",
+    "Larhammar D"
+  ],
+  "year": 2013,
+  "journal": "BMC evolutionary biology",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 104,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "BackgroundVertebrate color vision is dependent on four major color opsin subtypes: RH2 (green opsin), SWS1 (ultraviolet opsin), SWS2 (blue opsin), and LWS (red opsin). Together with the dim-light receptor rhodopsin (RH1), these form the family of vertebrate visual opsins. Vertebrate genomes contain many multi-membered gene families that can largely be explained by the two rounds of whole genome duplication (WGD) in the vertebrate ancestor (2R) followed by a third round in the teleost ancestor (3R). Related chromosome regions resulting from WGD or block duplications are said to form a paralogon. We describe here a paralogon containing the genes for visual opsins, the G-protein alpha subunit families for transducin (GNAT) and adenylyl cyclase inhibition (GNAI), the oxytocin and vasopressin receptors (OT/VP-R), and the L-type voltage-gated calcium channels (CACNA1-L).ResultsSequence-based phylogenies and analyses of conserved synteny show that the above-mentioned gene families, and many neighboring gene families, expanded in the early vertebrate WGDs. This allows us to deduce the following evolutionary scenario: The vertebrate ancestor had a chromosome containing the genes for two visual opsins, one GNAT, one GNAI, two OT/VP-Rs and one CACNA1-L gene. This chromosome was quadrupled in 2R. Subsequent gene losses resulted in a set of five visual opsin genes, three GNAT and GNAI genes, six OT/VP-R genes and four CACNA1-L genes. These regions were duplicated again in 3R resulting in additional teleost genes for some of the families. Major chromosomal rearrangements have taken place in the teleost genomes. By comparison with the corresponding chromosomal regions in the spotted gar, which diverged prior to 3R, we could time these rearrangements to post-3R.ConclusionsWe present an extensive analysis of the paralogon housing the visual opsin, GNAT and GNAI, OT/VP-R, and CACNA1-L gene families. The combined data imply that the early vertebrate WGD events contributed to the evolution of vision and the other neuronal and neuroendocrine functions exerted by the proteins encoded by these gene families. In pouched lamprey all five visual opsin genes have previously been identified, suggesting that lampreys diverged from the jawed vertebrates after 2R.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1186/1471-2148-13-238"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3826523"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3826523?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmcid",
+    "value": "PMC3826523"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC3826523&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID24180662",
+  "retrieval_date": "2026-10-26T18:46:55Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 88887,
+    "n_figures": 6,
+    "n_tables": 2,
+    "warnings": []
+  },
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 224037,
+      "sha256": "7e4e873c8ff1ab3821a3e30a7709beb174afb56b1d278acb69f453ede90f2350",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3826523/fullTextXML"
+    },
+    {
+      "path": "tables/T1.tsv",
+      "role": "table_tsv",
+      "bytes": 2614,
+      "sha256": "944d80e2dbea6d99b63456cb3a5052d5d3376e8d898a8a8f4bd594e81a55cb1f",
+      "url": ""
+    },
+    {
+      "path": "tables/T2.tsv",
+      "role": "table_tsv",
+      "bytes": 1637,
+      "sha256": "5b5f007db267742533da58cc0322c1acacfecfd6befc24b8b36e04a728d02b80",
+      "url": ""
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 88941,
+      "sha256": "91855b0b69078703ed66c67bb885f0b257769b40cfe6727cce8bdb9e9f8d2c08",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3826523/fullTextXML",
+      "detail": "88887 chars, 6 figures, 2 tables"
+    }
+  ]
+}

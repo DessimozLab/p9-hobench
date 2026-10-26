@@ -1,0 +1,144 @@
+{
+  "pmid": "8755547",
+  "pmcid": "PMC38819",
+  "doi": "10.1073/pnas.93.15.7749",
+  "source": "MED",
+  "title": "The root of the universal tree and the origin of eukaryotes based on elongation factor phylogeny",
+  "authors": [
+    "Baldauf SL",
+    "Palmer JD",
+    "Doolittle WF"
+  ],
+  "year": 1996,
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "is_open_access": false,
+  "license": null,
+  "redistributable": false,
+  "cited_by_count": 157,
+  "has_supplements_flag": false,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "The genes for the protein synthesis elongation factors Tu (EF-Tu) and G (EF-G) are the products of an ancient gene duplication, which appears to predate the divergence of all extant organismal lineages. Thus, it should be possible to root a universal phylogeny based on either protein using the second protein as an outgroup. This approach was originally taken independently with two separate gene duplication pairs, (i) the regulatory and catalytic subunits of the proton ATPases and (ii) the protein synthesis elongation factors EF-Tu and EF-G. Questions about the orthology of the ATPase genes have obscured the former results, and the elongation factor data have been criticized for inadequate taxonomic representation and alignment errors. We have expanded the latter analysis using a broad representation of taxa from all three domains of life. All phylogenetic methods used strongly place the root of the universal tree between two highly distinct groups, the archaeons/eukaryotes and the eubacteria. We also find that a combined data set of EF-Tu and EF-G sequences favors placement of the eukaryotes within the Archaea, as the sister group to the Crenarchaeota. This relationship is supported by bootstrap values of 60-89% with various distance and maximum likelihood methods, while unweighted parsimony gives 58% support for archaeal monophyly.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1073/pnas.93.15.7749"
+    },
+    {
+      "style": "html",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC38819"
+    },
+    {
+      "style": "pdf",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC38819?pdf=render"
+    },
+    {
+      "style": "doi",
+      "availability": "Free",
+      "site": "DOI",
+      "url": "https://doi.org/10.1073/pnas.93.15.7749"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "8755547"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A8755547+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID8755547",
+  "retrieval_date": "2026-10-26T18:12:41Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "pmc_html",
+    "text_file": "raw/fulltext.txt",
+    "chars": 10440,
+    "n_figures": 6,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [],
+  "files": [
+    {
+      "path": "raw/article.html",
+      "role": "html",
+      "bytes": 137844,
+      "sha256": "ffb5ad824bc6788f529113efa1d3caa2b2bf4de15659bb9f2cc2aabdef4e370c",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC38819/"
+    },
+    {
+      "path": "raw/fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 10517,
+      "sha256": "e0f3068a14aaab8baced75e19ffbd4fa3fc886fd0cc5a1304f796b6d1af494df",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "license",
+      "ok": true,
+      "url": "",
+      "detail": "not in the Europe PMC open-access subset: derived text stored under raw/ (not for redistribution); check publisher terms"
+    },
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC38819/fullTextXML",
+      "detail": "500 https://www.ebi.ac.uk/europepmc/webservices/rest/PMC38819/fullTextXML server error (persistent)"
+    },
+    {
+      "step": "pmc_s3_opendata",
+      "ok": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/?list-type=2&prefix=PMC38819.",
+      "detail": "article not in PMC OA open-data bucket (not in OA subset)"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC38819",
+      "detail": "404 https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC38819 NCBI/xpmc21 - WWW Error 404 Diagnostic h1.error {color: red; font-size: 40pt} div.diags {text-indent: 0.5in } Can't find"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC38819",
+      "detail": "404 https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC38819 <script type=\"module\" crossorigin=\"\" src=\"https://cdn.ncbi.nl"
+    },
+    {
+      "step": "ncbi_efetch_pmc",
+      "ok": false,
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC38819&rettype=xml",
+      "detail": "no usable body (1676 chars); ['no <body> in XML (publisher may not allow full text)']"
+    },
+    {
+      "step": "pmc_html_page",
+      "ok": true,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC38819/",
+      "detail": "10440 chars (free-to-read page; not necessarily re-usable)"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC38819/supplementaryFiles",
+      "detail": "0 Article with id PMC38819 is not open access one"
+    },
+    {
+      "step": "pmc_page_supplements",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC38819/",
+      "detail": "no supplementary links on PMC page"
+    },
+    {
+      "step": "supplements",
+      "ok": true,
+      "url": "",
+      "detail": "article has no supplementary files listed"
+    }
+  ]
+}

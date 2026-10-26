@@ -1,0 +1,125 @@
+		Accession No.	
+Taxa name	Species	GenBank^a	Phytozome^b
+PpPIP1;1	Physcomitrella patens		Pp1s1_535V6.4
+PpPIP1;2			Pp1s102_107V6.1
+PpPIP1;3			Pp1s305_12V6.1
+PpPIP2;1			Pp1s8_151V6.1
+PpPIP2;2			Pp1s55_301V6.2
+PpPIP2;3			Pp1s267_61V6.1
+PpPIP2;4			Pp1s118_199V6.1
+PpPIP3;1			Pp1s17_281V6.1^c
+PpTIP6;1			Pp1s44_31V6.1
+PpTIP6;2			Pp1s156_153V6.1
+PpTIP6;3			Pp1s101_226V6.1
+PpTIP6;4			Pp1s184_96V6.1
+PpNIP3;1			Pp1s258_69V6.1
+PpNIP5;1			Pp1s13_445V6.1
+PpNIP5;2			Pp1s91_35V6.1
+PpNIP5;3			Pp1s37_249V6.1
+PpNIP6;1			^d
+PpSIP1;1			Pp1s3_429V6.1
+PpSIP1;2			Pp1s475_9V6.3
+PpXIP1;1			Pp1s31_73V6.1
+PpXIP1;2			Pp1s32_353V6.1
+PpHIP1;1			^d
+PpGIP1;1			Pp1s283_16V6.1
+AtPIP1;1	Arabidopsis thaliana	CAB71073 <https://www.ncbi.nlm.nih.gov/protein/CAB71073>	
+AtPIP1;2		AAC28529 <https://www.ncbi.nlm.nih.gov/protein/AAC28529>	
+AtPIP1;3		AAF81320 <https://www.ncbi.nlm.nih.gov/protein/AAF81320>	
+AtPIP1;4		AAF02782 <https://www.ncbi.nlm.nih.gov/protein/AAF02782>	
+AtPIP1;5		CAA20461 <https://www.ncbi.nlm.nih.gov/protein/CAA20461>	
+AtPIP2;1		CAB67649 <https://www.ncbi.nlm.nih.gov/protein/CAB67649>	
+AtPIP2;2		AAD18142 <https://www.ncbi.nlm.nih.gov/protein/AAD18142>	
+AtPIP2;3		AAD18141 <https://www.ncbi.nlm.nih.gov/protein/AAD18141>	
+AtPIP2;4		BAB09839 <https://www.ncbi.nlm.nih.gov/protein/BAB09839>	
+AtPIP2;5		CAB41102 <https://www.ncbi.nlm.nih.gov/protein/CAB41102>	
+AtPIP2;6		AAC79629 <https://www.ncbi.nlm.nih.gov/protein/AAC79629>	
+AtPIP2;7		CAA17774 <https://www.ncbi.nlm.nih.gov/protein/CAA17774>	
+AtPIP2;8		AAC64216 <https://www.ncbi.nlm.nih.gov/protein/AAC64216>	
+AtTIP1;1		AAD31569 <https://www.ncbi.nlm.nih.gov/protein/AAD31569>	
+AtTIP1;2		BAB01832 <https://www.ncbi.nlm.nih.gov/protein/BAB01832>	
+AtTIP1;3		AAC62778 <https://www.ncbi.nlm.nih.gov/protein/AAC62778>	
+AtTIP2;1		BAB01264 <https://www.ncbi.nlm.nih.gov/protein/BAB01264>	
+AtTIP2;2		CAB10515 <https://www.ncbi.nlm.nih.gov/protein/CAB10515>	
+AtTIP2;3		BAB09071 <https://www.ncbi.nlm.nih.gov/protein/BAB09071>	
+AtTIP3;1		AAG52132 <https://www.ncbi.nlm.nih.gov/protein/AAG52132>	
+AtTIP3;2		AAF97261 <https://www.ncbi.nlm.nih.gov/protein/AAF97261>	
+AtTIP4;1		AAC42249 <https://www.ncbi.nlm.nih.gov/protein/AAC42249>	
+AtTIP5;1		CAB51216 <https://www.ncbi.nlm.nih.gov/protein/CAB51216>	
+AtNIP1;1		CAA16760 <https://www.ncbi.nlm.nih.gov/protein/CAA16760>	
+AtNIP1;2		CAA16748 <https://www.ncbi.nlm.nih.gov/protein/CAA16748>	
+AtNIP2;1		AAC26712 <https://www.ncbi.nlm.nih.gov/protein/AAC26712>	
+AtNIP3;1		AAG50717 <https://www.ncbi.nlm.nih.gov/protein/AAG50717>	
+AtNIP4;1		BAB10360 <https://www.ncbi.nlm.nih.gov/protein/BAB10360>	
+AtNIP4;2		BAB10361 <https://www.ncbi.nlm.nih.gov/protein/BAB10361>	
+AtNIP5;1		CAB39791 <https://www.ncbi.nlm.nih.gov/protein/CAB39791>	
+AtNIP6;1		AAF14664 <https://www.ncbi.nlm.nih.gov/protein/AAF14664>	
+AtNIP7;1		AAF30303 <https://www.ncbi.nlm.nih.gov/protein/AAF30303>	
+AtSIP1;1		AAF26804 <https://www.ncbi.nlm.nih.gov/protein/AAF26804>	
+AtSIP1;2		BAB09487 <https://www.ncbi.nlm.nih.gov/protein/BAB09487>	
+AtSIP2;1		CAB72165 <https://www.ncbi.nlm.nih.gov/protein/CAB72165>	
+OsPIP1;1	Oryza sativa	BAD28398 <https://www.ncbi.nlm.nih.gov/protein/BAD28398>	
+OsPIP1;2		EAZ31617 <https://www.ncbi.nlm.nih.gov/protein/EAZ31617>	
+OsPIP1;3		BAD22920 <https://www.ncbi.nlm.nih.gov/protein/BAD22920>	
+OsPIP2;1		BAC15868 <https://www.ncbi.nlm.nih.gov/protein/BAC15868>	
+OsPIP2;2		BAD23735 <https://www.ncbi.nlm.nih.gov/protein/BAD23735>	
+OsPIP2;3		CAD41442 <https://www.ncbi.nlm.nih.gov/protein/CAD41442>	
+OsPIP2;4		BAC16113 <https://www.ncbi.nlm.nih.gov/protein/BAC16113>	
+OsPIP2;5		BAC16116 <https://www.ncbi.nlm.nih.gov/protein/BAC16116>	
+OsPIP2;6		CAE05002 <https://www.ncbi.nlm.nih.gov/protein/CAE05002>	
+OsPIP2;7		BAD46581 <https://www.ncbi.nlm.nih.gov/protein/BAD46581>	
+OsPIP2;8		AAP44741 <https://www.ncbi.nlm.nih.gov/protein/AAP44741>	
+OsTIP1;1		AAK98737 <https://www.ncbi.nlm.nih.gov/protein/AAK98737>	
+OsTIP1;2		BAB63833 <https://www.ncbi.nlm.nih.gov/protein/BAB63833>	
+OsTIP2;1		BAD25765 <https://www.ncbi.nlm.nih.gov/protein/BAD25765>	
+OsTIP2;2		BAD61899 <https://www.ncbi.nlm.nih.gov/protein/BAD61899>	
+OsTIP3;1		AAG13544 <https://www.ncbi.nlm.nih.gov/protein/AAG13544>	
+OsTIP3;2		CAE05657 <https://www.ncbi.nlm.nih.gov/protein/CAE05657>	
+OsTIP4;1		AAS98488 <https://www.ncbi.nlm.nih.gov/protein/AAS98488>	
+OsTIP4;2		BAA92993 <https://www.ncbi.nlm.nih.gov/protein/BAA92993>	
+OsTIP4;3		BAA92991 <https://www.ncbi.nlm.nih.gov/protein/BAA92991>	
+OsTIP5;1		BAF15407 <https://www.ncbi.nlm.nih.gov/protein/BAF15407>	
+OsNIP1;1		BAD27715 <https://www.ncbi.nlm.nih.gov/protein/BAD27715>	
+OsNIP1;2		BAD73177 <https://www.ncbi.nlm.nih.gov/protein/BAD73177>	
+OsNIP1;3		AAV44140 <https://www.ncbi.nlm.nih.gov/protein/AAV44140>	
+OsNIP1;4		BAD53665 <https://www.ncbi.nlm.nih.gov/protein/BAD53665>	
+OsNIP2;1		BAD16128 <https://www.ncbi.nlm.nih.gov/protein/BAD16128>	
+OsNIP2;2		BAD37471 <https://www.ncbi.nlm.nih.gov/protein/BAD37471>	
+OsNIP3;1		AAG13499 <https://www.ncbi.nlm.nih.gov/protein/AAG13499>	
+OsNIP3;2		BAC99758 <https://www.ncbi.nlm.nih.gov/protein/BAC99758>	
+OsNIP3;3		BAC65382 <https://www.ncbi.nlm.nih.gov/protein/BAC65382>	
+OsNIP4;1		BAB61180 <https://www.ncbi.nlm.nih.gov/protein/BAB61180>	
+OsSIP1;1		BAB32914 <https://www.ncbi.nlm.nih.gov/protein/BAB32914>	
+OsSIP2;1		ABF95655 <https://www.ncbi.nlm.nih.gov/protein/ABF95655>	
+CcMIPA1;1	Coccomyxa C-169	^e	
+CcMIPD1;1		
+CcMIPD3;1		
+CcPIP4;1		
+CcPIP4;2		
+CcGIP1;1		
+CnMIPD1;1	Chlorella NC64A	^e	
+CnMIPE1;1		
+CnMIPE1;2		
+CnMIPE1;3		
+CnGIP1;1		
+CrMIPD1;1	Chlamydomonas reinhardtii	^e	
+CrMIPD2;1		
+MpMIPC1;1	Micromonas pusilla CCMP1545	^e	
+MrMIPC1;1	Micromonas RCC299	^e	
+OlMIPB1;1	Ostreococcus lucimarinus	^e	
+OrMIPB1;1	Ostreococcus RCC809	^e	
+OrMIPE1;1		
+OtMIPC1;1	Ostreococcus tauri	^e	
+C. parvum I	Chlorobaculum parvum	ACF10864 <https://www.ncbi.nlm.nih.gov/protein/ACF10864>	
+F. bacterium	Flavobacteriales bacterium	EDP70495 <https://www.ncbi.nlm.nih.gov/protein/EDP70495>	
+P. irgensii	Polaribacter irgensii	EAR12182 <https://www.ncbi.nlm.nih.gov/protein/EAR12182>	
+C. flavus	Chthoniobacter flavus	EDY20715 <https://www.ncbi.nlm.nih.gov/protein/EDY20715>	
+P. maris	Planctomyces maris	EDL59061 <https://www.ncbi.nlm.nih.gov/protein/EDL59061>	
+C. parvum II	Chlorobaculum parvum	ACF11962 <https://www.ncbi.nlm.nih.gov/protein/ACF11962>	
+C. tepidum	Chlorobium tepidum	AAM72699 <https://www.ncbi.nlm.nih.gov/protein/AAM72699>	
+ZmNIP1;1	Zea mays	AAK26750 <https://www.ncbi.nlm.nih.gov/protein/AAK26750>	
+ZmNIP2;1		AAK26751 <https://www.ncbi.nlm.nih.gov/protein/AAK26751>	
+ZmNIP2;2		AAK26752 <https://www.ncbi.nlm.nih.gov/protein/AAK26752>	
+ZmNIP2;3		AAK26849 <https://www.ncbi.nlm.nih.gov/protein/AAK26849>	
+ZmNIP3;1		AAK26753 <https://www.ncbi.nlm.nih.gov/protein/AAK26753>	
+AcMIP1	Adiantum capillus-veneris	BAB12437 <https://www.ncbi.nlm.nih.gov/protein/BAB12437>	

@@ -1,0 +1,28 @@
+Enzyme (EC)	Examples	Instances in bacteria (out of 607)	Instances in archaea (out of 48)	Instances in eukaryotes (out of 63)
+Superoxide dismutase (EC 1.15.1.1)	SODF_ECOLI	526	23	62
+	SODC_ECOLI	249	3	47
+	SODN_STRSO	32	0	1
+	NEC1_NICLS	6	0	3
+				
+Heme oxygenase (EC 1.14.99.3)	HMOX1_HUMAN	134	0	41
+	ISDI_STAAR	36	0	0
+				
+Shikimate kinase (EC 2.7.1.71)	AROL_ECOLI	553	9	28
+	AROK_METJA	0	39	0
+				
+Diacylglycerol kinase (EC 2.7.1.107)	KDGL_ECOLI	404	0	0
+	DGKG_HUMAN	23	0	59
+				
+Fructose bisphosphatase (EC 3.1.3.11)	F16PA_ECOLI	268	5	54
+	F16P_BACSU	307	4	2
+	Q8U359_PYRFU	19	37	0
+				
+Carbonic anhydrase (EC 4.2.1.1)	CYNT_ECOLI	414	17	35
+	CAH_METTE	211	32	10
+	CAH1_HUMAN	88	0	40
+				
+Glucose-6-phosphate isomerase (EC 5.3.1.9)	G6PI_HUMAN	547	10	58
+	G6PI_THELI	11	13	0
+				
+Lysine---tRNA ligase (EC 6.1.1.6)	SYK1_ECOLI	551	15	63
+	SYK_AERPE	91	36	0

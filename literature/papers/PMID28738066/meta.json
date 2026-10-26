@@ -1,0 +1,91 @@
+{
+  "pmid": "28738066",
+  "pmcid": "PMC5524304",
+  "doi": "10.1371/journal.pone.0180936",
+  "source": "MED",
+  "title": "Expansion by whole genome duplication and evolution of the sox gene family in teleost fish",
+  "authors": [
+    "Voldoire E",
+    "Brunet F",
+    "Naville M",
+    "Volff JN",
+    "Galiana D"
+  ],
+  "year": 2017,
+  "journal": "PloS one",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 48,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "It is now recognized that several rounds of whole genome duplication (WGD) have occurred during the evolution of vertebrates, but the link between WGDs and phenotypic diversification remains unsolved. We have investigated in this study the impact of the teleost-specific WGD on the evolution of the sox gene family in teleostean fishes. The sox gene family, which encodes for transcription factors, has essential role in morphology, physiology and behavior of vertebrates and teleosts, the current largest group of vertebrates. We have first redrawn the evolution of all sox genes identified in eleven teleost genomes using a comparative genomic approach including phylogenetic and synteny analyses. We noticed, compared to tetrapods, an important expansion of the sox family: 58% (11/19) of sox genes are duplicated in teleost genomes. Furthermore, all duplicated sox genes, except sox17 paralogs, are derived from the teleost-specific WGD. Then, focusing on five sox genes, analyzing the evolution of coding and non-coding sequences, as well as the expression patterns in fish embryos and adult tissues, we demonstrated that these paralogs followed lineage-specific evolutionary trajectories in teleost genomes. This work, based on whole genome data from multiple teleostean species, supports the contribution of WGDs to the expansion of gene families, as well as to the emergence of genomic differences between lineages that might promote genetic and phenotypic diversity in teleosts.",
+  "fulltext_urls": [
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Unpaywall",
+      "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0180936&type=printable"
+    },
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1371/journal.pone.0180936"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC5524304"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC5524304?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmcid",
+    "value": "PMC5524304"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC5524304&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID28738066",
+  "retrieval_date": "2026-10-26T18:41:06Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 71900,
+    "n_figures": 5,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 176373,
+      "sha256": "c9dbb02cc049abe3d7bae2c49ad269deb82cc279ef29532860440454f40588d2",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5524304/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 72109,
+      "sha256": "334076bdd6f4bf6327bf79f7709f796e2fd1998b56a5f0f8e535a67ff8385a15",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5524304/fullTextXML",
+      "detail": "71900 chars, 5 figures, 0 tables"
+    }
+  ]
+}

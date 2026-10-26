@@ -1,0 +1,125 @@
+Human ANTP-class homeobox genes and pseudogenes					
+HOXL subclass					
+Family	Gene symbol	Gene name	Location	Entrez gene ID	Previous symbols
+					
+Cdx	CDX1	caudal type homeobox 1	5q32	1044	
+	CDX2	caudal type homeobox 2	13q12.2	1045	CDX3
+	CDX4	caudal type homeobox 4	Xq13.2	1046	
+Evx	EVX1	even-skipped homeobox 1	7p15.2	2128	
+	EVX2	even-skipped homeobox 2	2q31.1	344191	
+Gbx	GBX1	gastrulation brain homeobox 1	7q36.1	2636	
+	GBX2	gastrulation brain homeobox 2	2q37.2	2637	
+Gsx	GSX1	GS homeobox 1	13q12.2	219409	GSH1
+	GSX2	GS homeobox 2	4q12	170825	GSH2
+Hox1	HOXA1	homeobox A1	7p15.2	3198	HOX1F
+	HOXB1	homeobox B1	17q21.32	3211	HOX2I
+	HOXD1	homeobox D1	2q31.1	3231	HOX4G
+Hox2	HOXA2	homeobox A2	7p15.2	3199	HOX1K
+	HOXB2	homeobox B2	17q21.32	3212	HOX2H
+Hox3	HOXA3	homeobox A3	7p15.2	3200	HOX1E
+	HOXB3	homeobox B3	17q21.32	3213	HOX2G
+	HOXD3	homeobox D3	2q31.1	3232	HOX4A
+Hox4	HOXA4	homeobox A4	7p15.2	3201	HOX1D
+	HOXB4	homeobox B4	17q21.32	3214	HOX2F
+	HOXC4	homeobox C4	12q13.13	3221	HOX3E
+	HOXD4	homeobox D4	2q31.1	3233	HOX4B
+Hox5	HOXA5	homeobox A5	7p15.2	3202	HOX1C
+	HOXB5	homeobox B5	17q21.32	3215	HOX2A
+	HOXC5	homeobox C5	12q13.13	3222	HOX3D
+Hox6-8	HOXA6	homeobox A6	7p15.2	3203	HOX1B
+	HOXB6	homeobox B6	17q21.32	3216	HOX2B
+	HOXC6	homeobox C6	12q13.13	3223	HOX3C
+	HOXA7	homeobox A7	7p15.2	3204	HOX1A
+	HOXB7	homeobox B7	17q21.32	3217	HOX2C
+	HOXB8	homeobox B8	17q21.32	3218	HOX2D
+	HOXC8	homeobox C8	12q13.13	3224	HOX3A
+	HOXD8	homeobox D8	2q31.1	3234	HOX4E
+Hox9-13	HOXA9	homeobox A9	7p15.2	3205	HOX1G
+	HOXB9	homeobox B9	17q21.32	3219	HOX2E
+	HOXC9	homeobox C9	12q13.13	3225	HOX3B
+	HOXD9	homeobox D9	2q31.1	3235	HOX4C
+	HOXA10	homeobox A10	7p15.2	3206	HOX1H
+	HOXC10	homeobox C10	12q13.13	3226	HOX3I
+	HOXD10	homeobox D10	2q31.1	3236	HOX4D, HOX4E
+	HOXA11	homeobox A11	7p15.2	3207	HOX1I
+	HOXC11	homeobox C11	12q13.13	3227	HOX3H
+	HOXD11	homeobox D11	2q31.1	3237	HOX4F
+	HOXC12	homeobox C12	12q13.13	3228	HOX3F
+	HOXA13	homeobox A13	7p15.2	3209	HOX1J
+	HOXB13	homeobox B13	17q21.32	10481	
+	HOXC13	homeobox C13	12q13.13	3229	HOX3G
+	HOXD13	homeobox D13	2q31.1	3239	HOX4I
+Mnx	MNX1	motor neuron and pancreas homeobox 1	7q36.3	3110	HLXB9, HB9, HOXHB9
+Meox	MEOX1	mesenchyme homeobox 1	17q21.31	4222	MOX1
+	MEOX2	mesenchyme homeobox 2	7p21.1	4223	MOX2, GAX
+Pdx	PDX1	pancreatic and duodenal homeobox 1	13q12.2	3651	IPF1, IUF1, IDX1, STF1
+					
+NKL subclass					
+					
+Barhl	BARHL1	BarH-like homeobox 1	9q34.13	56751	
+	BARHL2	BarH-like homeobox 2	1p22.2	343472	
+Barx	BARX1	BARX homeobox 1	9q22.32	56033	
+	BARX2	BARX homeobox 2	11q24.3	8538	
+Bsx	BSX	brain specific homeobox	11q24.1	390259	
+Dbx	DBX1	developing brain homeobox 1	11p15.1	120237	
+	DBX2	developing brain homeobox 2	12q12	440097	
+Dlx	DLX1	distal-less homeobox 1	2q31.1	1745	
+	DLX2	distal-less homeobox 2	2q31.1	1746	TES1
+	DLX3	distal-less homeobox 3	17q21.33	1747	
+	DLX4	distal-less homeobox 4	17q21.33	1748	DLX7, DLX8, DLX9, BP1
+	DLX5	distal-less homeobox 5	7q21.3	1749	
+	DLX6	distal-less homeobox 6	7q21.3	1750	
+Emx	EMX1	empty spiracles homeobox 1	2p13.2	2016	
+	EMX2	empty spiracles homeobox 2	10q26.11	2018	
+En	EN1	engrailed homeobox 1	2q14.2	2019	
+	EN2	engrailed homeobox 2	7q36.3	2020	
+Hhex	HHEX	hematopoietically expressed homeobox	10q23.33	3087	HEX, PRH, PRHX
+Hlx	HLX	H2.0-like homeobox	1q41	3142	HLX1, HB24
+Lbx	LBX1	ladybird homeobox 1	10q24.32	10660	LBX1H, HPX6
+	LBX2	ladybird homeobox 2	2p13.1	85474	
+Msx	MSX1	msh homeobox 1	4p16.2	4487	HOX7
+	MSX2	msh homeobox 2	5q35.2	4488	HOX8, MSH
+	MSX2P1	msh homeobox 2 pseudogene	17q23.2	55545	HPX5, MSX2P
+Nanog	NANOG	Nanog homeobox	12p13.31	79923	
+	NANOGP1	Nanog homeobox pseudogene 1	12p13.31	404635	NANOG2
+	NANOGP2	Nanog homeobox pseudogene 2	2q36.1	414131	NANOGP4
+	NANOGP3	Nanog homeobox pseudogene 3	6p12.1	340217	
+	NANOGP4	Nanog homeobox pseudogene 4	7p15.1	414132	NANOGP2
+	NANOGP5	Nanog homeobox pseudogene 5	9q31.1	414133	
+	NANOGP6	Nanog homeobox pseudogene 6	10q24.2	414134	
+	NANOGP7	Nanog homeobox pseudogene 7	14q32.12	414130	NANOGP3
+	NANOGP8	Nanog homeobox pseudogene 8	15q14	388112	NANOGP1
+	NANOGP9	Nanog homeobox pseudogene 9	Xq12	349386	NANOGP6
+	NANOGP10	Nanog homeobox pseudogene 10	Xp11.3	349372	NANOGP5
+	NANOGP11	Nanog homeobox pseudogene 11	6q25.2	414135	
+Nk1	NKX1-1	NK1 homeobox 1	4p16.3	54279	NKX1.1, HSPX153, HPX153
+	NKX1-2	NK1 homeobox 2	10q26.13	390010	NKX1.2, C10orf121
+Nk2.1	NKX2-1	NK2 homeobox 1	14q13.3	7080	NKX2.1, NKX2A, TTF1, TITF1
+	NKX2-4	NK2 homeobox 4	20p11.22	4823	NKX2.4, NKX2D
+Nk2.2	NKX2-2	NK2 homeobox 2	20p11.22	4821	NKX2.2, NKX2B
+	NKX2-8	NK2 homeobox 8	14q13.3	26257	NKX2.8, NKX2H
+Nk3	NKX3-1	NK3 homeobox 1	8p21.2	4824	NKX3.1, NKX3A
+	NKX3-2	NK3 homeobox 2	4p15.33	579	NKX3.2, NKX3B, BAPX1
+Nk4	NKX2-3	NK2 homeobox 3	10q24.2	159296	NKX2.3, NKX2C, NKX4-3, CSX3
+	NKX2-5	NK2 homeobox 5	5q35.1	1482	NKX2.5, NKX2E, NKX4-1, CSX, CSX1
+	NKX2-6	NK2 homeobox 6	8p21.2	137814	NKX2.6, NKX4-2, CSX2
+Nk5/Hmx	HMX1	H6 family homeobox 1	4p16.1	3166	NKX5-3, H6
+	HMX2	H6 family homeobox 2	10q26.13	3167	NKX5-2, H6L
+	HMX3	H6 family homeobox 3	10q26.13	340784	NKX5-1
+Nk6	NKX6-1	NK6 homeobox 1	4q21.23	4825	NKX6.1, NKX6A
+	NKX6-2	NK6 homeobox 2	10q26.3	84504	NKX6.2, NKX6B, GTX
+	NKX6-3	NK6 homeobox 3	8p11.21	157848	NKX6.3
+Noto	NOTO	notochord homeobox	2p13.2	344022	
+Tlx	TLX1	T-cell leukemia homeobox 1	10q24.32	3195	HOX11, TCL3
+	TLX2	T-cell leukemia homeobox 2	2p13.1	3196	HOX11L1, NCX
+	TLX3	T-cell leukemia homeobox 3	5q35.1	30012	HOX11L2, RNX
+Vax	VAX1	ventral anterior homeobox 1	10q26.11	11023	
+	VAX2	ventral anterior homeobox 2	2p13.3	25806	
+Ventx	VENTX	VENT homeobox	10q26.3	27287	VENTX2, HPX42B
+	VENTXP1	VENT homeobox pseudogene 1	Xp21.3	139538	VENTX2P1, NA88A
+	VENTXP2	VENT homeobox pseudogene 2	13q31.1	347975	VENTX2P2
+	VENTXP3	VENT homeobox pseudogene 3	12q21.1	349814	VENTX2P3
+	VENTXP4	VENT homeobox pseudogene 4	3p24.2	152101	VENTX2P4
+	VENTXP5	VENT homeobox pseudogene 5	8p12	442384	
+	VENTXP6	VENT homeobox pseudogene 6	8q21.11	552879	
+	VENTXP7	VENT homeobox pseudogene 7	3p24.3	391518	VENTX1, HPX42

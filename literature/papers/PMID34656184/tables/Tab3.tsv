@@ -1,0 +1,10 @@
+Electron acceptor	DHOD activity (μmol·mg protein^−1·min^−1)		
+	S. cerevisiae IMK824 ura1Δ	S. cerevisiae IME603 mcScURA1	S. cerevisiae IME569 ura1Δ mcArura9
+–	< 0.005	0.010 ± 0.001	0.008 ± 0.001
+PMS	< 0.005	0.111 ± 0.007	0.132 ± 0.029
+Fumarate	< 0.005	0.110 ± 0.020	0.006 ± 0.000
+NAD^+	< 0.005	< 0.005	< 0.005
+NADP^+	< 0.005	< 0.005	< 0.005
+Q_D	< 0.005	0.033 ± 0.022	0.009 ± 0.003
+FMN	< 0.005	0.037 ± 0.002	0.126 ± 0.012
+FAD	< 0.005	0.011 ± 0.002	0.148 ± 0.032

@@ -1,0 +1,65 @@
+Enzyme name (EC)	Example (SwissProt)	Structure (PDB)	Fold names in SCOP (abbreviated)
+Acid phosphatase (EC 3.1.3.2)	PPA6_HUMAN	1NDH	Phosphoglycerate mutase-like
+	APHA_ECOLI	1N8N	HAD-like
+	PPA_ZYMMO	1D2T	Acid phosphatases
+	PPA5_HUMAN	1UTE	Metallo-dependent phosphatases
+	PPAC_HUMAN	5PNT	Phosphotyrosine protein phosphatases I
+	PHOA_PENCH	n/a	n/a
+			
+Cellulase (EC 3.2.1.4)	GUNA_CLOCE	1EDG	TIM beta/alpha-barrel
+	GUNA_PSEFL	1UT9	Alpha/alpha toroid
+	GUN1_STRHA	2BOD	7-Stranded beta/alpha barrel
+	GUN_ASPAC	1KS4	Concanavalin A-like lectins/glucanases,
+	GUNM_CLOTM	2FVG	Phosphorylase/hydrolase-like
+	GUNE_RUMFL	1L0H	Predicted acyl carrier protein-like
+			
+Superoxide dismutase (EC 1.15.1.1)	SODF_ECOLI	1ISA	Fe,Mn superoxide dismutase (SOD)
+	SODC_ECOLI	1ESO	Immunoglobulin-like beta-sandwich
+	SODN_STRSO	1Q0D	Four-helical up-and-down bundle
+	NEC1_NICLS	2ET7	Double-stranded beta-helix
+			
+Phosphoprotein (Ser) phosphatase (EC 3.1.3.16)	PRP1_ECOLI	1G5B	Metallo-dependent phosphatases
+	PRPC_BACSU	1TXO	PP2C-like
+	CTDS1_HUMAN	1TA0	HAD-like
+	DUS19_HUMAN	1M3G	Phosphotyrosine protein phosphatases II
+			
+Protein-tyrosine phosphatase (EC 3.1.3.48)	PTPA_STRCO	1U2P	Phosphotyrosine protein phosphatases I-like
+	PTPRD_HUMAN	2FH7	Phosphotyrosine protein phosphatases II
+	MPIP3_HUMAN	1QB0	Rhodanese/Cell cycle control phosphatase
+	YWQE_BACSU	2ANU	Predicted 7-stranded beta/alpha barrel
+	EYA3_MOUSE	1JUD	Predicted HAD-like
+			
+DNA-(apurinic or apyrimidinic site) lyase (EC 4.2.99.18)	END3_ECOLI	2ABK	DNA-glycosylase
+	APEX1_HUMAN	1E9N	DNase I-like
+	APN1_YEAST	1QTW	TIM beta/alpha-barrel
+	FPG_ECOLI	1K82	MutM-like DNA repair proteins
+			
+Adenylate cyclase (EC 4.6.1.1)	CYA1_HUMAN	1CS4	P-loop NTPases
+	O69199_AERHY	2ACA	CYTH-like phosphatases
+	CYAA_BORPE	1YRU	EF Hand-like
+	CYAA_ECOLI	n/a	n/a
+			
+Inorganic pyrophosphatase (EC 3.6.1.1)	IPYR_ARATH	1TWL	OB-fold
+	PPAC_BACSU	1WPM	DHH phosphoesterases
+	PPAX_BACSU	2HDO	HAD-like
+	AVP1_ARATH	n/a	Integral membrane protein, H^+-transporting
+			
+Catalase (EC 1.11.1.6)	CATA_HUMAN	1QQW	Heme-dependent catalase-like
+	CATA_ECOLI	2FXG	Heme-dependent peroxidases
+	MCAT_LACPL	1JKU	Ferritin-like
+			
+Peroxidase (EC 1.11.1.7)	PRDX6_MOUSE	1PRX	Thioredoxin fold
+	PERM_HUMAN	1MYP	Heme-dependent peroxidases
+	YCDB_ECOLI	2d3q	Ferredoxin-like
+			
+Chloride peroxidase (EC 1.11.1.10)	PRXC_PSEPY	1A88	Alpha/beta-hydrolases
+	PRXC_CURIN	1VNC	Acid phosphatase
+	PRXC_CALFU	2CPO	EF Hand-lik
+			
+Peroxiredoxin (EC 1.11.1.15)	TDXH_AERPE	2E2G	Thioredoxin fold
+	AHPD_MYCTU	1KNC	AhpD-like
+	OSMC_ECOLI	1NYE	OsmC-like
+			
+Licheninase (EC 3.2.1.73)	GUB_NICPL	2CYG	TIM beta/alpha-barrel
+	GUB_BACSU	1GBG	Concanavalin A-like lectins/glucanases,
+	GUB_BACCI	1V5C	Alpha/alpha toroid

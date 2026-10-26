@@ -1,0 +1,11 @@
+Subject proteome	Resulting GenBank accession	Query coverage (%)		E-value		Identity (%)		Interpretation	
+Subject proteome		LkUra1	LkUra9	LkUra1	LkUra9	LkUra1	LkUra9	Ura1	Ura9
+D. bruxellensis [91]	XP_041139490.1 <https://www.ncbi.nlm.nih.gov/protein/XP_041139490.1>	95	90	5 ⋅ 10^–17	4 ⋅ 10^–145	24.5	50.9	No	Yes
+A. robustus [108, 109]	ORX87218.1 <https://www.ncbi.nlm.nih.gov/protein/ORX87218.1>	56	77	3 ⋅ 10^–9	2 ⋅ 10^–85	27.0	44.6	No	Yes
+P. finnis [108, 109]	ORX52621.1 <https://www.ncbi.nlm.nih.gov/protein/ORX52621.1>	56	77	5 ⋅ 10^–9	7 ⋅ 10^–86	24.9	44.9	No	Yes
+N. californiae [108]	ORY72481.1 <https://www.ncbi.nlm.nih.gov/protein/ORY72481.1>	54	74	2 ⋅ 10^–8	5 ⋅ 10^–82	27.7	44.9	No	Yes
+Sch. japonicus [110]	XP_002171492.1 <https://www.ncbi.nlm.nih.gov/protein/XP_002171492.1>	63	97	2 ⋅ 10^–13	1 ⋅ 10^–113	30.6	44.3	No	Yes
+S. cerevisiae [111]	NP_012706.1 <https://www.ncbi.nlm.nih.gov/protein/NP_012706.1>	100	71	0.0	4 ⋅ 10^–9	80.3	23.8	Yes	No
+K. marxianus [112]	XP_022674337.1 <https://www.ncbi.nlm.nih.gov/protein/XP_022674337.1>	100	73	0.0	2 ⋅ 10^–12	77.1	25.1	Yes	No
+	XP_022675611.1 <https://www.ncbi.nlm.nih.gov/protein/XP_022675611.1>	94	95	6 ⋅ 10^–11	0.0	24.0	73.7	No	Yes
+O. parapolymorpha [113]	XP_013936870.1 <https://www.ncbi.nlm.nih.gov/protein/XP_013936870.1>	95	91	1 ⋅ 10^–9	0.0	23.0	63.4	No	Yes

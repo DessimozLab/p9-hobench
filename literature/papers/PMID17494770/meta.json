@@ -1,0 +1,156 @@
+{
+  "pmid": "17494770",
+  "pmcid": "PMC1895961",
+  "doi": "10.1073/pnas.0608218104",
+  "source": "MED",
+  "title": "Independent sorting-out of thousands of duplicated gene pairs in two yeast species descended from a whole-genome duplication",
+  "authors": [
+    "Scannell DR",
+    "Frank AC",
+    "Conant GC",
+    "Byrne KP",
+    "Woolfit M",
+    "Wolfe KH"
+  ],
+  "year": 2007,
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "is_open_access": false,
+  "license": null,
+  "redistributable": false,
+  "cited_by_count": 191,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "Among yeasts that underwent whole-genome duplication (WGD), Kluyveromyces polysporus represents the lineage most distant from Saccharomyces cerevisiae. By sequencing the K. polysporus genome and comparing it with the S. cerevisiae genome using a likelihood model of gene loss, we show that these species diverged very soon after the WGD, when their common ancestor contained >9,000 genes. The two genomes subsequently converged onto similar current sizes (5,600 protein-coding genes each) and independently retained sets of duplicated genes that are strikingly similar. Almost half of their surviving single-copy genes are not orthologs but paralogs formed by WGD, as would be expected if most gene pairs were resolved independently. In addition, by comparing the pattern of gene loss among K. polysporus, S. cerevisiae, and three other yeasts that diverged after the WGD, we show that the patterns of gene loss changed over time. Initially, both members of a duplicate pair were equally likely to be lost, but loss of the same gene copy in independent lineages was increasingly favored at later time points. This trend parallels an increasing restriction of reciprocal gene loss to more slowly evolving gene pairs over time and suggests that, as duplicate genes diverged, one gene copy became favored over the other. The apparent low initial sequence divergence of the gene pairs leads us to propose that the yeast WGD was probably an autopolyploidization.",
+  "fulltext_urls": [
+    {
+      "style": "pdf",
+      "availability": "Free",
+      "site": "Unpaywall",
+      "url": "http://www.pnas.org/content/104/20/8397.full.pdf"
+    },
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1073/pnas.0608218104"
+    },
+    {
+      "style": "html",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC1895961"
+    },
+    {
+      "style": "pdf",
+      "availability": "Free",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC1895961?pdf=render"
+    },
+    {
+      "style": "doi",
+      "availability": "Free",
+      "site": "DOI",
+      "url": "https://doi.org/10.1073/pnas.0608218104"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "17494770"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A17494770+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID17494770",
+  "retrieval_date": "2026-10-26T18:12:39Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [
+    "supplementary files: Europe PMC flags supplements / XML lists ['/articles/instance/1895961/bin/pnas_0608218104_index.html', '/articles/instance/1895961/bin/pnas_0608218104_7.pdf', '/articles/instance/1895961/bin/pnas_0608218104_8.pdf', '/articles/instance/1895961/bin/pnas_0608218104_9.pdf', '/articles/instance/1895961/bin/pnas_0608218104_10.pdf', '/articles/instance/1895961/bin/pnas_0608218104_11.pdf', '/articles/instance/1895961/bin/pnas_0608218104_1.pdf', '/articles/instance/1895961/bin/pnas_0608218104_2.pdf', '/articles/instance/1895961/bin/pnas_0608218104_3.pdf', '/articles/instance/1895961/bin/pnas_0608218104_4.pdf', '/articles/instance/1895961/bin/pnas_0608218104_5.pdf', '/articles/instance/1895961/bin/pnas_0608218104_6.pdf', '/articles/instance/1895961/bin/pnas_0608218104_Image831.jpg'] but none could be downloaded; get them from the publisher site"
+  ],
+  "fulltext": {
+    "source": "pmc_html",
+    "text_file": "raw/fulltext.txt",
+    "chars": 35334,
+    "n_figures": 4,
+    "n_tables": 1,
+    "warnings": []
+  },
+  "supplements": [],
+  "files": [
+    {
+      "path": "raw/article.html",
+      "role": "html",
+      "bytes": 169621,
+      "sha256": "2e02c5682c6f32562b831741008771447ae4c307a3cc3327e5527101503ffbd2",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1895961/"
+    },
+    {
+      "path": "raw/tables/T1.tsv",
+      "role": "table_tsv",
+      "bytes": 275,
+      "sha256": "c236d1e129f9933ddc79320fea4cd033b90e088c521a0cd044c23fdb34eb17a4",
+      "url": ""
+    },
+    {
+      "path": "raw/fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 35491,
+      "sha256": "4d00ad52bd6fbb6277df27dd19ff6db8847c3c5efbf1e5b620539986627b124c",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "license",
+      "ok": true,
+      "url": "",
+      "detail": "not in the Europe PMC open-access subset: derived text stored under raw/ (not for redistribution); check publisher terms"
+    },
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC1895961/fullTextXML",
+      "detail": "500 https://www.ebi.ac.uk/europepmc/webservices/rest/PMC1895961/fullTextXML server error (persistent)"
+    },
+    {
+      "step": "pmc_s3_opendata",
+      "ok": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/?list-type=2&prefix=PMC1895961.",
+      "detail": "article not in PMC OA open-data bucket (not in OA subset)"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC1895961",
+      "detail": "404 https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC1895961 NCBI/xpmc21 - WWW Error 404 Diagnostic h1.error {color: red; font-size: 40pt} div.diags {text-indent: 0.5in } Can't find"
+    },
+    {
+      "step": "pmc_oa_fcgi",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC1895961",
+      "detail": "404 https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC1895961 <script type=\"module\" crossorigin=\"\" src=\"https://cdn.ncbi.nl"
+    },
+    {
+      "step": "ncbi_efetch_pmc",
+      "ok": false,
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC1895961&rettype=xml",
+      "detail": "no usable body (1952 chars); ['no <body> in XML (publisher may not allow full text)']"
+    },
+    {
+      "step": "pmc_html_page",
+      "ok": true,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1895961/",
+      "detail": "35334 chars (free-to-read page; not necessarily re-usable)"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": false,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC1895961/supplementaryFiles",
+      "detail": "0 Article with id PMC1895961 is not open access one"
+    },
+    {
+      "step": "pmc_page_supplements",
+      "ok": false,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/1895961/bin/pnas_0608218104_7.pdf",
+      "detail": "PMC served an interactive proof-of-work page instead of the file; automated bypass deliberately NOT attempted - download manually (requested/)"
+    }
+  ]
+}

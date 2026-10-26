@@ -1,0 +1,171 @@
+{
+  "pmid": "22873208",
+  "pmcid": "PMC3425129",
+  "doi": "10.1186/1741-7007-10-71",
+  "source": "MED",
+  "title": "Untangling the evolution of Rab G proteins: implications of a comprehensive genomic analysis",
+  "authors": [
+    "Klöpper TH",
+    "Kienle N",
+    "Fasshauer D",
+    "Munro S"
+  ],
+  "year": 2012,
+  "journal": "BMC biology",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 160,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "BackgroundMembrane-bound organelles are a defining feature of eukaryotic cells, and play a central role in most of their fundamental processes. The Rab G proteins are the single largest family of proteins that participate in the traffic between organelles, with 66 Rabs encoded in the human genome. Rabs direct the organelle-specific recruitment of vesicle tethering factors, motor proteins, and regulators of membrane traffic. Each organelle or vesicle class is typically associated with one or more Rab, with the Rabs present in a particular cell reflecting that cell's complement of organelles and trafficking routes.ResultsThrough iterative use of hidden Markov models and tree building, we classified Rabs across the eukaryotic kingdom to provide the most comprehensive view of Rab evolution obtained to date. A strikingly large repertoire of at least 20 Rabs appears to have been present in the last eukaryotic common ancestor (LECA), consistent with the 'complexity early' view of eukaryotic evolution. We were able to place these Rabs into six supergroups, giving a deep view into eukaryotic prehistory.ConclusionsTracing the fate of the LECA Rabs revealed extensive losses with many extant eukaryotes having fewer Rabs, and none having the full complement. We found that other Rabs have expanded and diversified, including a large expansion at the dawn of metazoans, which could be followed to provide an account of the evolutionary history of all human Rabs. Some Rab changes could be correlated with differences in cellular organization, and the relative lack of variation in other families of membrane-traffic proteins suggests that it is the changes in Rabs that primarily underlies the variation in organelles between species and cell types.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1186/1741-7007-10-71"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3425129"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC3425129?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "22873208"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A22873208+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID22873208",
+  "retrieval_date": "2026-10-26T18:57:48Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 116345,
+    "n_figures": 5,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/1741-7007-10-71-S8.TXT",
+    "raw/supp/1741-7007-10-71-S7.TXT",
+    "raw/supp/1741-7007-10-71-S6.TXT",
+    "raw/supp/1741-7007-10-71-S4.TXT",
+    "raw/supp/1741-7007-10-71-S9.TXT",
+    "raw/supp/1741-7007-10-71-S2.PDF",
+    "raw/supp/1741-7007-10-71-S3.XLS",
+    "raw/supp/1741-7007-10-71-S1.PDF",
+    "raw/supp/1741-7007-10-71-S5.TXT"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 183899,
+      "sha256": "7c3c5144d00487b9f6176ad0fa7d73d27052da76cc0974de71a1cbe000501d77",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3425129/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 116547,
+      "sha256": "1f7523ff76a543964359ccd0d45876919a8f954447bbe488200d1759a763466d",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 788683,
+      "sha256": "e6ab0a9649945ea2839e27351cffb58bf61b527deb995151cb1cce9a9b0f5304",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3425129/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1741-7007-10-71-S8.TXT",
+      "role": "supplement",
+      "bytes": 22586,
+      "sha256": "301632a6f4607f3864fa9a026125dd8db7c759089954610d486b84d587d4e715",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3425129/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1741-7007-10-71-S7.TXT",
+      "role": "supplement",
+      "bytes": 85605,
+      "sha256": "086bcb74ee1a32ce68bf146f6ed82de327350698c31c283bfeb70efe909e72a9",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3425129/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1741-7007-10-71-S6.TXT",
+      "role": "supplement",
+      "bytes": 50354,
+      "sha256": "eaffa58a3ecff6e3c0e43c6a3e759296b6efc0afe11a4f79bc90fe65f63e6f92",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3425129/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1741-7007-10-71-S4.TXT",
+      "role": "supplement",
+      "bytes": 143492,
+      "sha256": "166a0e267dcb07f176dd5e72d3ebaad8e5ec3cd46cbee06da6b6108cc0cc5748",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3425129/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1741-7007-10-71-S9.TXT",
+      "role": "supplement",
+      "bytes": 13280,
+      "sha256": "5b79e8f2279c0a4c6aaf579abaac4439ab93dbe0eba416741fd44a1de7d245fb",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3425129/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1741-7007-10-71-S2.PDF",
+      "role": "supplement",
+      "bytes": 1637472,
+      "sha256": "8926e243addad60aae23c0f4ce22331db41518fe6d43f04737154e308fb75be7",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3425129/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1741-7007-10-71-S3.XLS",
+      "role": "supplement",
+      "bytes": 28160,
+      "sha256": "66b3a0c6ec92fdb232a0d16a74ee7d64f16cab24ec3f3325df8e017e7f29d278",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3425129/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1741-7007-10-71-S1.PDF",
+      "role": "supplement",
+      "bytes": 89780,
+      "sha256": "0fc346e418e625d8789170bcd7b809f97b97ce0204d655fbb0513badb094ec54",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3425129/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/1741-7007-10-71-S5.TXT",
+      "role": "supplement",
+      "bytes": 65592,
+      "sha256": "8ee27bc4188379624f25b44dfa04cbb32cd29222c85bb09f4cfe02fb16c8547b",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3425129/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3425129/fullTextXML",
+      "detail": "116345 chars, 5 figures, 0 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3425129/supplementaryFiles",
+      "detail": "9 files extracted to raw/supp/; 10 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "pmid": "41268905",
+  "pmcid": "PMC12638046",
+  "doi": "10.7554/elife.105889",
+  "source": "MED",
+  "title": "HoxB-derived hoxba and hoxbb clusters are essential for the anterior-posterior positioning of zebrafish pectoral fins",
+  "authors": [
+    "Kikuchi M",
+    "Fujii R",
+    "Kobayashi D",
+    "Kawabe Y",
+    "Kanno H",
+    "Toyama S",
+    "Tawakkal F",
+    "Yamada K",
+    "Kawamura A"
+  ],
+  "year": 2025,
+  "journal": "eLife",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 0,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "Vertebrate paired appendages, such as the pectoral fins in fish and the forelimbs in tetrapods, arise at specific regions along the anterior-posterior axis of the body. Hox genes have long been considered prime candidates for determining the anteroposterior positioning of these paired appendages during development. Evidence from various model organisms, including mouse and chick, supports a role for Hox genes in limb positioning. However, despite extensive phenotypic analyses of numerous single and compound Hox knockout mice, clear genetic evidence for substantial defects in limb positioning has been limited, leaving questions unresolved. In a previous study, we generated seven distinct hox cluster-deficient mutants in zebrafish. Here, we provide genetic evidence that zebrafish hoxba;hoxbb cluster-deleted mutants specifically exhibit a complete lack of pectoral fins, accompanied by the absence of tbx5a expression in pectoral fin buds. In these mutants, tbx5a expression in the pectoral fin field of the lateral plate mesoderm fails to be induced at an early stage, suggesting a loss of pectoral fin precursor cells. Furthermore, the competence to respond to retinoic acid is lost in hoxba;hoxbb cluster mutants, indicating that tbx5a expression cannot be induced in the pectoral fin buds. We further identify hoxb4a, hoxb5a, and hoxb5b as pivotal genes underlying this process. Although the frameshift mutations in these hox genes do not recapitulate the absence of pectoral fins, we demonstrate that deletion mutants at these genomic loci show the absence of pectoral fins with low penetrance. Our results suggest that, by establishing the expression domains along the anteroposterior axis, hoxb4a, hoxb5a, and hoxb5b within hoxba and hoxbb clusters cooperatively determine the positioning of zebrafish pectoral fins through the induction of tbx5a expression in the restricted pectoral fin field. Our findings also provide insights into the evolutionary origin of paired appendages in vertebrates.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.7554/eLife.105889"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC12638046"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC12638046?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmcid",
+    "value": "PMC12638046"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC12638046&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID41268905",
+  "retrieval_date": "2026-10-26T18:52:57Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 112636,
+    "n_figures": 7,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 187724,
+      "sha256": "771cb15debe89f99b209a6b9fb2e1f855f879e0ddc00b17d13999ab8d77f814d",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12638046/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 113317,
+      "sha256": "f08a41c20356d347e708dcb4312ed4e091d3a2cc92c0faba5649e388ddaa95cc",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12638046/fullTextXML",
+      "detail": "112636 chars, 7 figures, 0 tables"
+    }
+  ]
+}

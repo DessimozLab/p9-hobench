@@ -1,0 +1,5 @@
+Cluster	BAC	Total Length (bp)	N50 (bp)	L50	Annotated Genes	Accession Number
+hoxab	6D19	256,967	30,145	4	snx10b, skap2, hoxa2b, hoxa9b, hoxa10b, hoxa11b, hoxa13b, hibadhb, tax1bp1b, jazf1b, creb5b, chn2, cpvl	OK504498 <https://www.ncbi.nlm.nih.gov/nuccore/OK504498>
+hoxbb	39L15	192,932	50,613	2	skap1, hoxb1b, hoxb3b, hoxb5b, hoxb6b, ttll6, calcoco2, snf8, msl1b, chmp2a, mrm1, fbrs, srcap, stx4, arhgap44	OK474316 <https://www.ncbi.nlm.nih.gov/nuccore/OK474316>
+hoxca	51K20	200,678	20,233	3	hoxc3a , hoxc4a, hoxc5a, hoxc6a, hoxc8a, hoxc9a, hoxc10a, hoxc11a, hoxc12a, hoxc13a, calcoco1a, rarga	OK474317 <https://www.ncbi.nlm.nih.gov/nuccore/OK474317>
+hoxda	29F20	159,784	45,033	2	hoxd4a , hoxd3a	OK504499 <https://www.ncbi.nlm.nih.gov/nuccore/OK504499>

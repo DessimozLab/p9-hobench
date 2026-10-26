@@ -1,0 +1,113 @@
+{
+  "pmid": "28870165",
+  "pmcid": "PMC5583752",
+  "doi": "10.1186/s12862-017-1056-2",
+  "source": "MED",
+  "title": "Myosin repertoire expansion coincides with eukaryotic diversification in the Mesoproterozoic era",
+  "authors": [
+    "Kollmar M",
+    "Mühlhausen S"
+  ],
+  "year": 2017,
+  "journal": "BMC evolutionary biology",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 69,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "BackgroundThe last eukaryotic common ancestor already had an amazingly complex cell possessing genomic and cellular features such as spliceosomal introns, mitochondria, cilia-dependent motility, and a cytoskeleton together with several intracellular transport systems. In contrast to the microtubule-based dyneins and kinesins, the actin-filament associated myosins are considerably divergent in extant eukaryotes and a unifying picture of their evolution has not yet emerged.ResultsHere, we manually assembled and annotated 7852 myosins from 929 eukaryotes providing an unprecedented dense sequence and taxonomic sampling. For classification we complemented phylogenetic analyses with gene structure comparisons resulting in 79 distinct myosin classes. The intron pattern analysis and the taxonomic distribution of the classes suggest two myosins in the last eukaryotic common ancestor, a class-1 prototype and another myosin, which is most likely the ancestor of all other myosin classes. The sparse distribution of class-2 and class-4 myosins outside their major lineages contradicts their presence in the last eukaryotic common ancestor but instead strongly suggests early eukaryote-eukaryote horizontal gene transfer.ConclusionsBy correlating the evolution of myosin diversity with the history of Earth we found that myosin innovation occurred in independent major \"burst\" events in the major eukaryotic lineages. Most myosin inventions happened in the Mesoproterozoic era. In the late Neoproterozoic era, a process of extensive independent myosin loss began simultaneously with further eukaryotic diversification. Since the Cambrian explosion, myosin repertoire expansion is driven by lineage- and species-specific gene and genome duplications leading to subfunctionalization and fine-tuning of myosin functions.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1186/s12862-017-1056-2"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC5583752"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC5583752?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "28870165"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A28870165+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID28870165",
+  "retrieval_date": "2026-10-26T14:15:32Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 83406,
+    "n_figures": 6,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "supplements": [
+    "raw/supp/12862_2017_1056_MOESM2_ESM.xls",
+    "raw/supp/12862_2017_1056_MOESM1_ESM.pdf"
+  ],
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 147168,
+      "sha256": "d4b5071f20b62f5b1be8a7ad780cd545b6b90403797446199b9c591e5d6ee836",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5583752/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 83887,
+      "sha256": "bfcbb8c4c875b74e67f06feed6347ced905c0d3c235d64bfc64cfc04cd02667f",
+      "url": ""
+    },
+    {
+      "path": "raw/supplementary.zip",
+      "role": "supplement_zip",
+      "bytes": 28582136,
+      "sha256": "d9be88ac4a1ab0cebd40ccaeea6d8f06b6efcbda273b758fd67b8c2e4f49ff39",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5583752/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/12862_2017_1056_MOESM2_ESM.xls",
+      "role": "supplement",
+      "bytes": 305664,
+      "sha256": "90b09adca4f9e29cd4e262306c88647fbf44b097e74be36964e770c303997446",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5583752/supplementaryFiles"
+    },
+    {
+      "path": "raw/supp/12862_2017_1056_MOESM1_ESM.pdf",
+      "role": "supplement",
+      "bytes": 31388036,
+      "sha256": "5e229e73366e1722974731def79ced789926daa24dd6cadd545112e7013f73ea",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5583752/supplementaryFiles"
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5583752/fullTextXML",
+      "detail": "83406 chars, 6 figures, 0 tables"
+    },
+    {
+      "step": "epmc_supplementary_zip",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5583752/supplementaryFiles",
+      "detail": "2 files extracted to raw/supp/; 12 image files left inside raw/supplementary.zip"
+    }
+  ]
+}

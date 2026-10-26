@@ -1,0 +1,18 @@
+Site	FunDi	Difference Evolutionary Trace	GroupSim	Evidence
+Val28	Both			Proximity
+Val29	GapA			Proximity
+Asp32	C1			Mutagenesis/Crystallography
+Thr33	GapA			Mutagenesis/Crystallography
+Gly34	C1			Mutagenesis/Crystallography
+Gly35	GapA			Mutagenesis/Crystallography
+Val74	Both			Proximity
+Ser75	Both			Proximity
+Asp76	Both	GapA	GapA	Proximity
+Arg77	Both	Both		Mutagenesis/Crystallography
+Asn79		Both		Proximity
+Asn146	C1	C1	C1	Proximity
+Cys153	C1		C1	Proximity
+Arg183	GapA	GapA	GapA	Crystallography
+Ser188	Both		Both	Mutagenesis/Crystallography
+Arg191			GapA	Crystallography
+Arg195		GapA	GapA	Crystallography

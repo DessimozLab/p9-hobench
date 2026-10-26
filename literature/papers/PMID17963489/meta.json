@@ -1,0 +1,111 @@
+{
+  "pmid": "17963489",
+  "pmcid": "PMC2211742",
+  "doi": "10.1186/1741-7007-5-47",
+  "source": "MED",
+  "title": "Classification and nomenclature of all human homeobox genes",
+  "authors": [
+    "Holland PW",
+    "Booth HA",
+    "Bruford EA"
+  ],
+  "year": 2007,
+  "journal": "BMC biology",
+  "is_open_access": true,
+  "license": "cc by",
+  "redistributable": true,
+  "cited_by_count": 340,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "BackgroundThe homeobox genes are a large and diverse group of genes, many of which play important roles in the embryonic development of animals. Increasingly, homeobox genes are being compared between genomes in an attempt to understand the evolution of animal development. Despite their importance, the full diversity of human homeobox genes has not previously been described.ResultsWe have identified all homeobox genes and pseudogenes in the euchromatic regions of the human genome, finding many unannotated, incorrectly annotated, unnamed, misnamed or misclassified genes and pseudogenes. We describe 300 human homeobox loci, which we divide into 235 probable functional genes and 65 probable pseudogenes. These totals include 3 genes with partial homeoboxes and 13 pseudogenes that lack homeoboxes but are clearly derived from homeobox genes. These figures exclude the repetitive DUX1 to DUX5 homeobox sequences of which we identified 35 probable pseudogenes, with many more expected in heterochromatic regions. Nomenclature is established for approximately 40 formerly unnamed loci, reflecting their evolutionary relationships to other loci in human and other species, and nomenclature revisions are proposed for around 30 other loci. We use a classification that recognizes 11 homeobox gene 'classes' subdivided into 102 homeobox gene 'families'.ConclusionWe have conducted a comprehensive survey of homeobox genes and pseudogenes in the human genome, described many new loci, and revised the classification and nomenclature of homeobox genes. The classification scheme may be widely applicable to homeobox genes in other animal genomes and will facilitate comparative genomics of this important gene superclass.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1186/1741-7007-5-47"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC2211742"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC2211742?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmcid",
+    "value": "PMC2211742"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC2211742&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID17963489",
+  "retrieval_date": "2026-10-26T18:52:57Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 165591,
+    "n_figures": 4,
+    "n_tables": 4,
+    "warnings": []
+  },
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 338691,
+      "sha256": "d8ea91424c639cd42b61a06469cb48e6e2d4cd999f8bc761731e6738510a1064",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2211742/fullTextXML"
+    },
+    {
+      "path": "tables/T1.tsv",
+      "role": "table_tsv",
+      "bytes": 294,
+      "sha256": "1bd1be26e9e696d11d4bd24dae2d64177a3baac0925921c1c0f7ea8a04cde460",
+      "url": ""
+    },
+    {
+      "path": "tables/T2.tsv",
+      "role": "table_tsv",
+      "bytes": 5911,
+      "sha256": "7b354fd5d01b490e2f27a76bb8f6c537e4e72eff21838cf208e74504e59f4f3b",
+      "url": ""
+    },
+    {
+      "path": "tables/T3.tsv",
+      "role": "table_tsv",
+      "bytes": 4286,
+      "sha256": "07cc16e8d4922ec44db0f599ff76d77a7622eb62f284e6010fb626afede007e5",
+      "url": ""
+    },
+    {
+      "path": "tables/T4.tsv",
+      "role": "table_tsv",
+      "bytes": 6506,
+      "sha256": "34ca69b2cb9234bbf49187e185a648d1f3396fcb868823492e119cc8f3a3518c",
+      "url": ""
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 165944,
+      "sha256": "fe0e93c46006d33da772f3a67e3261c590257554fb3ec43f2a5b6faccff49cab",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2211742/fullTextXML",
+      "detail": "165591 chars, 4 figures, 4 tables"
+    }
+  ]
+}

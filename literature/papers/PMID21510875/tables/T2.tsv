@@ -1,0 +1,40 @@
+		Ar/R selectivity filter^a				NPA motifs		
+Subfamily	Protein^b	H2	H5	LE_1	LE_2	Loop B	Loop E	Substrate specificity
+MIPA	CcMIPA1;1	H	M	M	R	NPM	NPA	
+	AtTIP2;1	H	I	G	R	NPA	NPA	water [58], urea [59], ammonia [60]
+								
+MIPB	OlMIPB1;1	Y	L	G	R	NPS	NAA	
+	OrMIPB1;1	Y	F	G	R	NPS	NAA	
+	GLA_Llac	Y	V	P	R	NPA	NPA	water, glycerol [25]
+								
+MIPC	MpMIPC1;1	L	C	G	V	NPT	NPA	
+	MrMIPC1;1	I	T	G	V	NPT	NPA	
+	OtMIPC1;1	V	M	C	P	NPV	NPS	
+	ZmSIP2;1^c	S	H	G	S	NPL	NPA	none [61]
+	OsNIP2;1^c	G	S	G	R	NPA	NPA	silicic acid [62], arsenite, antimonite [63]
+								
+MIPD	VcMIPD1;1	N	A	A	R	NPA	NPA	
+	CcMIPD1;1	N	A	A	R	NPA	NPA	
+	CnMIPD1;1	N	A	A	R	NPA	NPA	
+	CrMIPD1;1	N	A	A	R	NPA	NPA	glycerol [15]
+								
+	VcMIPD2;1	T	L	S	R	NPA	NPA	
+	CrMIPD2;1	T	L	S	R	NPL	NPA	
+	CcMIPD3;1	S	T	A	R	NPA	NPA	
+	VcMIPD4;1	N	A	T	H	NPT	NPA	
+	OsTIP4;1	T	T	A	R	NPA	NPA	water, glycerol [29]
+								
+MIPE	OrMIPE1;1	F	H	C	R	NPA	NPA	
+	CnMIPE1;1	F	H	C	R	NPA	NPA	
+	CnMIPE1;2	A	H	C	R	NAA	NPT	
+	CnMIPE1;3	F	H	C	R	NPA	NPA	
+	HsAQP5	F	H	C	R	NPA	NPA	water [34]
+								
+PIP	CcPIP4;1	F	H	C	R	NPA	NPA	
+	CcPIP4;2	F	H	C	R	NPA	NPA	
+	AtPIP2;3	F	H	T	R	NPA	NPA	water [64]
+								
+GIP	PbcvMT325GIP1;1	F	V	I	R	NPA	NPA	
+	CcGIP1;1	F	L	N	R	NPA	NPA	
+	CnGIP1;1	F	I	I	R	NPA	NPA	
+	PpGIP1;1	F	V	P	R	NPA	NPA	glycerol [24]

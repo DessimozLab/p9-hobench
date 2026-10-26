@@ -1,0 +1,99 @@
+{
+  "pmid": "30068603",
+  "pmcid": "PMC6099883",
+  "doi": "10.1073/pnas.1806040115",
+  "source": "MED",
+  "title": "Evolution and diversification of the plant gibberellin receptor GID1",
+  "authors": [
+    "Yoshida H",
+    "Tanimoto E",
+    "Hirai T",
+    "Miyanoiri Y",
+    "Mitani R",
+    "Kawamura M",
+    "Takeda M",
+    "Takehara S",
+    "Hirano K",
+    "Kainosho M",
+    "Akagi T",
+    "Matsuoka M",
+    "Ueguchi-Tanaka M"
+  ],
+  "year": 2018,
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "is_open_access": true,
+  "license": "cc by-nc-nd",
+  "redistributable": true,
+  "cited_by_count": 65,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "The plant gibberellin (GA) receptor GID1 shows sequence similarity to carboxylesterase (CXE). Here, we report the molecular evolution of GID1 from establishment to functionally diverse forms in eudicots. By introducing 18 mutagenized rice GID1s into a rice gid1 null mutant, we identified the amino acids crucial for GID1 activity in planta. We focused on two amino acids facing the C2/C3 positions of ent-gibberellane, not shared by lycophytes and euphyllophytes, and found that adjustment of these residues resulted in increased GID1 affinity toward GA4, new acceptance of GA1 and GA3 carrying C13-OH as bioactive ligands, and elimination of inactive GAs. These residues rendered the GA perception system more sophisticated. We conducted phylogenetic analysis of 169 GID1s from 66 plant species and found that, unlike other taxa, nearly all eudicots contain two types of GID1, named A- and B-type. Certain B-type GID1s showed a unique evolutionary characteristic of significantly higher nonsynonymous-to-synonymous divergence in the region determining GA4 affinity. Furthermore, these B-type GID1s were preferentially expressed in the roots of Arabidopsis, soybean, and lettuce and might be involved in root elongation without shoot elongation for adaptive growth under low-temperature stress. Based on these observations, we discuss the establishment and adaption of GID1s during plant evolution.",
+  "fulltext_urls": [
+    {
+      "style": "doi",
+      "availability": "Open access",
+      "site": "Unpaywall",
+      "url": "https://doi.org/10.1073/pnas.1806040115"
+    },
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1073/pnas.1806040115"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC6099883"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC6099883?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "30068603"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A30068603+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID30068603",
+  "retrieval_date": "2026-10-26T18:52:57Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 70716,
+    "n_figures": 5,
+    "n_tables": 0,
+    "warnings": []
+  },
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 119965,
+      "sha256": "c753e52903cd75e52afa60e1534c54ada0e46408b4281418110432da53966595",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6099883/fullTextXML"
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 71010,
+      "sha256": "53b6afbb56863f539a7f0c88f170d0b79fbc90f05d9be7b464cba9f2652b61be",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6099883/fullTextXML",
+      "detail": "70716 chars, 5 figures, 0 tables"
+    }
+  ]
+}

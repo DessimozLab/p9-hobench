@@ -1,0 +1,115 @@
+{
+  "pmid": "19734295",
+  "pmcid": "PMC2775110",
+  "doi": "10.1093/molbev/msp201",
+  "source": "MED",
+  "title": "A comprehensive classification and evolutionary analysis of plant homeobox genes",
+  "authors": [
+    "Mukherjee K",
+    "Brocchieri L",
+    "Bürglin TR"
+  ],
+  "year": 2009,
+  "journal": "Molecular biology and evolution",
+  "is_open_access": true,
+  "license": "cc by-nc",
+  "redistributable": true,
+  "cited_by_count": 331,
+  "has_supplements_flag": true,
+  "in_epmc": true,
+  "in_pmc": true,
+  "abstract": "The full complement of homeobox transcription factor sequences, including genes and pseudogenes, was determined from the analysis of 10 complete genomes from flowering plants, moss, Selaginella, unicellular green algae, and red algae. Our exhaustive genome-wide searches resulted in the discovery in each class of a greater number of homeobox genes than previously reported. All homeobox genes can be unambiguously classified by sequence evolutionary analysis into 14 distinct classes also characterized by conserved intron-exon structure and by unique codomain architectures. We identified many new genes belonging to previously defined classes (HD-ZIP I to IV, BEL, KNOX, PLINC, WOX). Other newly identified genes allowed us to characterize PHD, DDT, NDX, and LD genes as members of four new evolutionary classes and to define two additional classes, which we named SAWADEE and PINTOX. Our comprehensive analysis allowed us to identify several newly characterized conserved motifs, including novel zinc finger motifs in SAWADEE and DDT. Members of the BEL and KNOX classes were found in Chlorobionta (green plants) and in Rhodophyta. We found representatives of the DDT, WOX, and PINTOX classes only in green plants, including unicellular green algae, moss, and vascular plants. All 14 homeobox gene classes were represented in flowering plants, Selaginella, and moss, suggesting that they had already differentiated in the last common ancestor of moss and vascular plants.",
+  "fulltext_urls": [
+    {
+      "style": "html",
+      "availability": "Free after 12 months",
+      "site": "mbe.oxfordjournals.org",
+      "url": "http://mbe.oxfordjournals.org/cgi/content/full/26/12/2775"
+    },
+    {
+      "style": "pdf",
+      "availability": "Free after 12 months",
+      "site": "mbe.oxfordjournals.org",
+      "url": "http://mbe.oxfordjournals.org/cgi/reprint/26/12/2775.pdf"
+    },
+    {
+      "style": "abs",
+      "availability": "Free",
+      "site": "mbe.oxfordjournals.org",
+      "url": "http://mbe.oxfordjournals.org/cgi/content/abstract/26/12/2775.pdf"
+    },
+    {
+      "style": "doi",
+      "availability": "Subscription required",
+      "site": "DOI",
+      "url": "https://doi.org/10.1093/molbev/msp201"
+    },
+    {
+      "style": "html",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC2775110"
+    },
+    {
+      "style": "pdf",
+      "availability": "Open access",
+      "site": "Europe_PMC",
+      "url": "https://europepmc.org/articles/PMC2775110?pdf=render"
+    }
+  ],
+  "query": {
+    "kind": "pmid",
+    "value": "19734295"
+  },
+  "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A19734295+AND+SRC%3AMED&resultType=core&format=json&pageSize=5",
+  "safe_id": "PMID19734295",
+  "retrieval_date": "2026-10-26T18:44:51Z",
+  "toolkit_version": "0.1.0",
+  "not_retrievable": [],
+  "fulltext": {
+    "source": "europepmc_xml",
+    "text_file": "fulltext.txt",
+    "chars": 87228,
+    "n_figures": 12,
+    "n_tables": 2,
+    "warnings": []
+  },
+  "files": [
+    {
+      "path": "raw/fulltext.xml",
+      "role": "fulltext_xml",
+      "bytes": 181565,
+      "sha256": "dff9ecac5b6513a34778652f5508c8d4446fe2984b86b976bd6477e7868157a7",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2775110/fullTextXML"
+    },
+    {
+      "path": "tables/tbl1.tsv",
+      "role": "table_tsv",
+      "bytes": 543,
+      "sha256": "129950fcabf8328c9599e6d3a5a587a0407ce230cd8c0040cc896913431de3e2",
+      "url": ""
+    },
+    {
+      "path": "tables/tbl2.tsv",
+      "role": "table_tsv",
+      "bytes": 861,
+      "sha256": "591fe0469390f80a60d6d83b755be40918d016ceb4c1526f66ef8717634f5929",
+      "url": ""
+    },
+    {
+      "path": "fulltext.txt",
+      "role": "fulltext_text",
+      "bytes": 87512,
+      "sha256": "3f4365b569209b3340192e24890c9aac69cee7c68d32dc8ddf76a4110447d203",
+      "url": ""
+    }
+  ],
+  "events": [
+    {
+      "step": "epmc_fulltext_xml",
+      "ok": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2775110/fullTextXML",
+      "detail": "87228 chars, 12 figures, 2 tables"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+	Species	Genome Size (Mbp)	Database
+Eudicots	Arabidopsis thaliana (thale cress)	157	TAIR
+Eudicots	Populus trichocarpa (poplar)	500	JGI
+Monocots	Oryza sativa (rice)	430	Gramene
+Monocots	Zea mays (maize)	2,400	TAIR, PlantGDB
+Lycopodiophyta	Selaginella moellendorffii	110	JGI
+Bryophyta (moss)	Physcomitrella patens	500	JGI
+Chlorophyta	Chlamydomonas reinhardtii	120	JGI
+Unicellular green algae	Ostreococcus lucimarinus	12.5	JGI
+Unicellular green algae	Ostreococcus tauri	11.6	JGI
+Rhodophyta (red algae)	Cyanodioschyzon merolae	16.5	Genome project
