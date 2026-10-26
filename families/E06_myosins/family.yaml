@@ -1,0 +1,135 @@
+id: E06_myosins
+name: Myosin superfamily (class-1 vs all other classes; LECA)
+panel: E
+collection: E_cytoskeleton_motors
+phenomena:
+- DEEP
+- LSE
+- LOSS
+- PROM
+- HGT
+descriptors:
+  n_members: 220
+  n_species: 22
+  mapped_fraction: 0.731
+  status_counts:
+    mapped: 220
+    unmapped: 77
+    ambiguous: 4
+  per_species_mapped_fraction:
+    AMPQE: 0.875
+    ARATH: 0.944
+    BATDJ: 0.75
+    CAPO3: 0.957
+    CHLRE: 1.0
+    DICDI: 1.0
+    DROME: 0.846
+    ENCCU: 1.0
+    ENTH1: 1.0
+    HUMAN: 0.95
+    ICHMU: 0.25
+    MNELE: 0.5
+    MONBE: 0.345
+    NAEGR: 0.917
+    NEMVE: 0.389
+    NEUCR: 1.0
+    PHYRM: 0.667
+    PLAF7: 1.0
+    THAPS: 0.0
+    THETR: 0.64
+    TRIAD: 0.667
+    TRYB2: 1.0
+    YEAST: 1.0
+  classes_present:
+  - Myo1
+  - Myo2
+  - Myo3
+  - Myo4
+  - Myo5
+  - Myo6
+  - Myo7
+  - Myo8
+  - Myo9
+  - Myo10
+  - Myo11
+  - Myo13
+  - Myo14
+  - Myo15
+  - Myo16
+  - Myo17
+  - Myo18
+  - Myo19
+  - Myo20
+  - Myo22
+  - Myo23
+  - Myo24
+  - Myo26
+  - Myo27
+  - Myo28
+  - Myo29
+  - Myo30
+  - Myo34
+  - Myo35
+  - Myo37
+  - Myo38
+  - Myo39
+  - Myo41
+  - Myo42
+  - Myo43
+  - Myo44
+  - Myo45
+  - Myo46
+  - Myo48
+  - Myo49
+  - Myo56
+  - orphan
+sources:
+- id: Kollmar2017
+  doi: 10.1186/s12862-017-1056-2
+  pmid: '28870165'
+  title: Myosin repertoire expansion coincides with eukaryotic diversification in the Mesoproterozoic era
+  year: 2017
+  source_method: phylogeny
+  table: figshare 10.6084/m9.figshare.4565155 Myosin_motordomain_alignment.fas; Additional file 2
+  locator: Abstract; Results; Conclusions
+  quote: The intron pattern analysis and the taxonomic distribution of the classes suggest two myosins in the last eukaryotic
+    common ancestor, a class-1 prototype and another myosin, which is most likely the ancestor of all other myosin classes.
+  files:
+  - path: literature/papers/PMID28870165/raw/figshare_4565155/Myosin_motordomain_alignment.fas
+    sha256: 608858a08b2da1f811dcaf76a7d72cf86597b00a8b58a0f6bca1662db5028d5a
+  - path: literature/papers/PMID28870165/raw/supp/12862_2017_1056_MOESM2_ESM.xls
+    sha256: 90b09adca4f9e29cd4e262306c88647fbf44b097e74be36964e770c303997446
+  - path: literature/papers/PMID28870165/fulltext.txt
+    sha256: bfcbb8c4c875b74e67f06feed6347ced905c0d3c235d64bfc64cfc04cd02667f
+root_level: Eukaryota
+root_single_copy: false
+complete_species:
+- ARATH
+- CAPO3
+- CHLRE
+- DICDI
+- ENCCU
+- ENTH1
+- HUMAN
+- NAEGR
+- NEUCR
+- PLAF7
+- TRYB2
+- YEAST
+decoys: []
+distinct_from: []
+tier_summary:
+  D_T1: 1
+  S_T2: 5
+  U_T2: 19
+protocol_version: 1.1
+completeness_quote: In addition, we performed TBLASTN searches in the respective genomes with myosins from different classes.
+notes: 'T1 D node MYO_LECA (lvl_lo=Eukaryota, lvl_hi=ABOVE_RANGE): the paper infers only two LECA myosins, a class-1 prototype
+  and a second prototype ancestral to all other classes; so class-1 vs every other class is a pre-LECA split. All other classes
+  are post-LECA, mostly lineage-specific inventions whose parent class is not resolved, so the non-class-1 node is U (no class-vs-class
+  level asserted; e.g. class-22 dated to Amorphea but its sister class is not given). Class-2 and class-4: HGT suggested by
+  the paper -> U even when single-copy. Other classes: <=1 gene per species -> S polytomy (T2 rule b; no two panel-E species
+  share a WGD), else U (rule c). Orphans (Myo_<X>) hang from the U root. Mapping: protocol v1.1 domain rule (motor domains
+  ~690 aa; >=98% id over >=90% of query, RBH, >=2-point margin). Kinesin-myosin homology (shared motor fold): no distinct_from
+  with E01. Panel-E eukaryotes absent from the source: CYAME, GIAIC. Strains: YEAST=Sc_c, BATDJ=Bad_b, PLAF7=Pf_a. Sebe-Pedros
+  2014 (GBE 6:290) was read but not used: its DataS1 headers carry no class labels.'

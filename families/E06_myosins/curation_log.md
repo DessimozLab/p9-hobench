@@ -1,5 +1,5 @@
 # E06_myosins curation log
-status: abandoned (mapping infeasible under CURATION_PROTOCOL 0.5 coverage rule)
+status: curated under protocol v1.1, NOT headline-eligible (73.1% uniquely mapped < 80%); earlier 'abandoned' entry below is superseded
 
 ## Read / retrieved
 - Sebé-Pedrós et al. 2014 GBE 6:290 (PMID 24443438; journal verified = GBE): DataS1.fasta (725 seqs). Headers are
@@ -25,3 +25,15 @@ status: abandoned (mapping infeasible under CURATION_PROTOCOL 0.5 coverage rule)
   Kollmar 2017 text (not yet extracted). The same amendment would also recover ~60 motor-domain-only kinesins in E01
   (CHLRE, BATDJ, ENTH1, NAEGR).
 - Alternatively request full-length CyMoBase exports from the authors.
+
+## v1.1 curation (PI accepted domain-mapping amendment)
+- Source used: Kollmar & Muehlhausen 2017 motor-domain alignment (class-encoded names) + Additional file 2 (abbreviations).
+  Panel species in source: 23 (absent: CYAME, GIAIC). Strains: YEAST Sc_c, BATDJ Bad_b, PLAF7 Pf_a.
+- Mapping: >=98% id over >=90% of a >=250-aa motor domain, RBH, >=2-point margin (mapping_method=sequence_domain_diamond).
+  220/301 mapped, 77 unmapped, 4 ambiguous. Most losses: sequences reconstructed by the authors from genome assemblies
+  (WebScipio) differ from UniProt gene models (93-97%): THAPS 0/11, MONBE 10/29, NEMVE 7/18, MNELE 5/10, THETR 16/25.
+- Tree: U root {D MYO_LECA (T1; [Eukaryota, ABOVE_RANGE]) {class-1 group, U over all other classes}, orphans}.
+  Paper: two LECA myosins (class-1 prototype + ancestor of all other classes). All other classes post-LECA; their
+  parent classes are not resolved, so no class-vs-class D (lineage-specific origins, e.g. class-22 at Amorphea, not
+  encodable without the sister class). Class-2/4: HGT suggested -> U. Others: rule b (S) / rule c (U).
+- Asserted D events: 1 (T1). T2: S/U class groups (see tier_summary).
