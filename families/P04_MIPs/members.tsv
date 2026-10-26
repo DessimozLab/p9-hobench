@@ -1,0 +1,120 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	source	locator
+P61837	ARATH	AtPIP1.1	PIP|PIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtPIP1.1
+Q06611	ARATH	AtPIP1.2	PIP|PIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtPIP1.2
+Q08733	ARATH	AtPIP1.3	PIP|PIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtPIP1.3
+Q39196	ARATH	AtPIP1.4	PIP|PIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtPIP1.4
+Q8LAA6	ARATH	AtPIP1.5	PIP|PIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtPIP1.5
+Q41870	MAIZE	ZmPIP1.1	PIP|PIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmPIP1.1
+Q9XF59	MAIZE	ZmPIP1.2	PIP|PIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmPIP1.2
+Q9AR14	MAIZE	ZmPIP1.5	PIP|PIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmPIP1.5
+Q9ATN0	MAIZE	ZmPIP1.6	PIP|PIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmPIP1.6
+A0A7I4FMU4	PHYPA	PpPIP1.1	PIP|PIP1	sequence_unique	100.0	1.0/0.938	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpPIP1.1
+A9SPX3	PHYPA	PpPIP1.2	PIP|PIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpPIP1.2
+A9TSE1	PHYPA	PpPIP1.3	PIP|PIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpPIP1.3
+P43286	ARATH	AtPIP2.1	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtPIP2.1
+P43287	ARATH	AtPIP2.2	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtPIP2.2
+P30302	ARATH	AtPIP2.3	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtPIP2.3
+Q9FF53	ARATH	AtPIP2.4	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtPIP2.4
+Q9SV31	ARATH	AtPIP2.5	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtPIP2.5
+Q9ZV07	ARATH	AtPIP2.6	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtPIP2.6
+P93004	ARATH	AtPIP2.7	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtPIP2.7
+Q9ZVX8	ARATH	AtPIP2.8	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtPIP2.8
+Q84RL7	MAIZE	ZmPIP2.1	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmPIP2.1
+Q9ATM8	MAIZE	ZmPIP2.2	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmPIP2.2
+Q9ATM7	MAIZE	ZmPIP2.3	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmPIP2.3
+Q9ATM6	MAIZE	ZmPIP2.4	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmPIP2.4
+Q9XF58	MAIZE	ZmPIP2.5	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmPIP2.5
+Q9ATM5	MAIZE	ZmPIP2.6	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmPIP2.6
+Q9ATM4	MAIZE	ZmPIP2.7	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmPIP2.7
+Q675A4	PHYPA	PpPIP2.1	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpPIP2.1
+Q675A3	PHYPA	PpPIP2.2	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpPIP2.2
+Q1L643	PHYPA	PpPIP2.3	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpPIP2.3
+A9SU06	PHYPA	PpPIP2.4	PIP|PIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpPIP2.4
+A0A7I4BK15	PHYPA	PpPIP3.1	PIP|PIP3	sequence_unique	99.6	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpPIP3.1
+P25818	ARATH	AtTIP1.1	TIP|TIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtTIP1.1
+Q41963	ARATH	AtTIP1.2	TIP|TIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtTIP1.2
+O82598	ARATH	AtTIP1.3	TIP|TIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtTIP1.3
+Q41951	ARATH	AtTIP2.1	TIP|TIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtTIP2.1
+Q41975	ARATH	AtTIP2.2	TIP|TIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtTIP2.2
+Q9FGL2	ARATH	AtTIP2.3	TIP|TIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtTIP2.3
+P26587	ARATH	AtTIP3.1	TIP|TIP3	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtTIP3.1
+O22588	ARATH	AtTIP3.2	TIP|TIP3	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtTIP3.2
+O82316	ARATH	AtTIP4.1	TIP|TIP4	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtTIP4.1
+Q9STX9	ARATH	AtTIP5.1	TIP|TIP5	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtTIP5.1
+O64964	MAIZE	ZmTIP1.1	TIP|TIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmTIP1.1
+Q9ATM0	MAIZE	ZmTIP1.2	TIP|TIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmTIP1.2
+Q9ATL9	MAIZE	ZmTIP2.1	TIP|TIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmTIP2.1
+Q9ATL8	MAIZE	ZmTIP2.2	TIP|TIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmTIP2.2
+Q84RL6	MAIZE	ZmTIP2.3	TIP|TIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmTIP2.3
+Q9ATL7	MAIZE	ZmTIP3.1	TIP|TIP3	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmTIP3.1
+Q9AT75	MAIZE	ZmTIP3.2	TIP|TIP3	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmTIP3.2
+Q9ATL6	MAIZE	ZmTIP4.1	TIP|TIP4	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmTIP4.1
+Q9ATL5	MAIZE	ZmTIP4.2	TIP|TIP4	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmTIP4.2
+Q9ATL4	MAIZE	ZmTIP4.3	TIP|TIP4	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmTIP4.3
+Q9ATL3	MAIZE	ZmTIP4.4	TIP|TIP4	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmTIP4.4
+Q9ATL2	MAIZE	ZmTIP5.1	TIP|TIP5	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmTIP5.1
+A0A2K1IV96	PHYPA	PpTIP6.1	TIP|TIP6	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpTIP6.1
+A0A2K1IJK1	PHYPA	PpTIP6.2	TIP|TIP6	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpTIP6.2
+A9SPQ2	PHYPA	PpTIP6.3	TIP|TIP6	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpTIP6.3
+A9T8N7	PHYPA	PpTIP6.4	TIP|TIP6	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpTIP6.4
+Q8VZW1	ARATH	AtNIP1.1	NIP|NIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtNIP1.1
+Q8LFP7	ARATH	AtNIP1.2	NIP|NIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtNIP1.2
+Q8W037	ARATH	AtNIP2.1	NIP|NIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtNIP2.1
+Q9C6T0	ARATH	AtNIP3.1	NIP|NIP3	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtNIP3.1
+Q9FIZ9	ARATH	AtNIP4.1	NIP|NIP4	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtNIP4.1
+Q8W036	ARATH	AtNIP4.2	NIP|NIP4	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtNIP4.2
+Q9SV84	ARATH	AtNIP5.1	NIP|NIP5	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtNIP5.1
+Q9SAI4	ARATH	AtNIP6.1	NIP|NIP6	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtNIP6.1
+Q8LAI1	ARATH	AtNIP7.1	NIP|NIP7	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtNIP7.1
+Q9ATN4	MAIZE	ZmNIP1.1	NIP|NIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmNIP1.1
+Q19KC1	MAIZE	ZmNIP2.1	NIP|NIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmNIP2.1
+Q9ATN2	MAIZE	ZmNIP2.2	NIP|NIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmNIP2.2
+Q9AT74	MAIZE	ZmNIP2.3	NIP|NIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmNIP2.3
+Q9ATN1	MAIZE	ZmNIP3.1	NIP|NIP3	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmNIP3.1
+A0A2K1KNH2	PHYPA	PpNIP5.1	NIP|NIP5	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpNIP5.1
+A0A2K1JQ78	PHYPA	PpNIP5.2	NIP|NIP5	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpNIP5.2
+A0A2K1JN19	PHYPA	PpNIP5.3	NIP|NIP5	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpNIP5.3
+A0A2K1JCZ4	PHYPA	PpNIP3.1	NIP|NIP3	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpNIP3.1
+Q9FK43	ARATH	AtSIP1.2	SIP|SIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtSIP1.2
+Q9M8W5	ARATH	AtSIP1.1	SIP|SIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtSIP1.1
+Q9M1K3	ARATH	AtSIP2.1	SIP|SIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row AtSIP2.1
+Q9ATM3	MAIZE	ZmSIP1.1	SIP|SIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmSIP1.1
+Q9ATM2	MAIZE	ZmSIP1.2	SIP|SIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmSIP1.2
+Q9ATM1	MAIZE	ZmSIP2.1	SIP|SIP2	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row ZmSIP2.1
+A9RDU1	PHYPA	PpSIP1.1	SIP|SIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpSIP1.1
+A9U3Q2	PHYPA	PpSIP1.2	SIP|SIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpSIP1.2
+Q3MNE2	PHYPA	PpGIP1.1	GIP|GIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpGIP1.1
+A0A2K1JZY4	PHYPA	PpXIP1.2	XIP|XIP1	sequence_exact	100.0	1.0/1.0	DanielsonJohanson2008	Additional file 1 alignment (S1.pdf), row PpXIP1.2
+Q6EU94	ORYSJ	OsPIP1;1	PIP|PIP1	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsPIP1;1 (GenBank BAD28398)
+Q7XSQ9	ORYSJ	OsPIP1;2	PIP|PIP1	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsPIP1;2 (GenBank EAZ31617)
+Q9SXF8	ORYSJ	OsPIP1;3	PIP|PIP1	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsPIP1;3 (GenBank BAD22920)
+Q8H5N9	ORYSJ	OsPIP2;1	PIP|PIP2	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsPIP2;1 (GenBank BAC15868)
+Q6K215	ORYSJ	OsPIP2;2	PIP|PIP2	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsPIP2;2 (GenBank BAD23735)
+Q7XUA6	ORYSJ	OsPIP2;3	PIP|PIP2	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsPIP2;3 (GenBank CAD41442)
+Q8GRT8	ORYSJ	OsPIP2;4	PIP|PIP2	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsPIP2;4 (GenBank BAC16113)
+Q8GRI8	ORYSJ	OsPIP2;5	PIP|PIP2	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsPIP2;5 (GenBank BAC16116)
+Q7XLR1	ORYSJ	OsPIP2;6	PIP|PIP2	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsPIP2;6 (GenBank CAE05002)
+Q651D5	ORYSJ	OsPIP2;7	PIP|PIP2	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsPIP2;7 (GenBank BAD46581)
+Q7Y1E6	ORYSJ	OsPIP2;8	PIP|PIP2	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsPIP2;8 (GenBank AAP44741)
+P50156	ORYSJ	OsTIP1;1	TIP|TIP1	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsTIP1;1 (GenBank AAK98737)
+Q94CS9	ORYSJ	OsTIP1;2	TIP|TIP1	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsTIP1;2 (GenBank BAB63833)
+Q7XA61	ORYSJ	OsTIP2;1	TIP|TIP2	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsTIP2;1 (GenBank BAD25765)
+Q5Z6F0	ORYSJ	OsTIP2;2	TIP|TIP2	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsTIP2;2 (GenBank BAD61899)
+Q9FWV6	ORYSJ	OsTIP3;1	TIP|TIP3	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsTIP3;1 (GenBank AAG13544)
+Q7XKI5	ORYSJ	OsTIP3;2	TIP|TIP3	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsTIP3;2 (GenBank CAE05657)
+Q75GA5	ORYSJ	OsTIP4;1	TIP|TIP4	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsTIP4;1 (GenBank AAS98488)
+Q9LWR0	ORYSJ	OsTIP4;2	TIP|TIP4	sequence_unique	100.0	1.0/0.98	Anderberg2012	Table A2 row OsTIP4;2 (GenBank BAA92993)
+Q9LWR2	ORYSJ	OsTIP4;3	TIP|TIP4	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsTIP4;3 (GenBank BAA92991)
+Q7XU31	ORYSJ	OsTIP5;1	TIP|TIP5	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsTIP5;1 (GenBank BAF15407)
+Q40746	ORYSJ	OsNIP1;1	NIP|NIP1	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsNIP1;1 (GenBank BAD27715)
+Q0JPT5	ORYSJ	OsNIP1;2	NIP|NIP1	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsNIP1;2 (GenBank BAD73177)
+Q0DK16	ORYSJ	OsNIP1;3	NIP|NIP1	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsNIP1;3 (GenBank AAV44140)
+Q5Z9E2	ORYSJ	OsNIP1;4	NIP|NIP1	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsNIP1;4 (GenBank BAD53665)
+Q6Z2T3	ORYSJ	OsNIP2;1	NIP|NIP2	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsNIP2;1 (GenBank BAD16128)
+Q67WJ8	ORYSJ	OsNIP2;2	NIP|NIP2	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsNIP2;2 (GenBank BAD37471)
+Q0IWF3	ORYSJ	OsNIP3;1	NIP|NIP3	exact_id			Anderberg2012	Table A2 row OsNIP3;1 (GenBank AAG13499)
+Q7EYH7	ORYSJ	OsNIP3;2	NIP|NIP3	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsNIP3;2 (GenBank BAC99758)
+Q84S07	ORYSJ	OsNIP3;3	NIP|NIP3	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsNIP3;3 (GenBank BAC65382)
+Q9ASI1	ORYSJ	OsNIP4;1	NIP|NIP4	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsNIP4;1 (GenBank BAB61180)
+Q5VR89	ORYSJ	OsSIP1;1	SIP|SIP1	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsSIP1;1 (GenBank BAB32914)
+Q10M80	ORYSJ	OsSIP2;1	SIP|SIP2	sequence_exact	100.0	1.0/1.0	Anderberg2012	Table A2 row OsSIP2;1 (GenBank ABF95655)

@@ -1,0 +1,89 @@
+id: P04_MIPs
+name: 'Plant major intrinsic proteins (aquaporins): PIP, TIP, NIP, SIP, XIP, HIP, GIP'
+panel: P
+phenomena:
+- HGT
+- LOSS
+- DEEP
+descriptors:
+  n_members: 119
+  n_species: 4
+  n_in_panel_paper_members: 124
+  mapped_fraction: 0.96
+  mapped_fraction_by_species:
+    ARATH: 1.0
+    MAIZE: 0.939
+    ORYSJ: 1.0
+    PHYPA: 0.87
+  groups:
+    PIP2: 27
+    PIP1: 15
+    TIP2: 8
+    TIP4: 8
+    TIP1: 7
+    NIP1: 7
+    SIP1: 7
+    TIP3: 6
+    NIP2: 6
+    NIP3: 6
+    TIP6: 4
+    NIP5: 4
+    TIP5: 3
+    NIP4: 3
+    SIP2: 3
+    PIP3: 1
+    NIP6: 1
+    NIP7: 1
+    GIP1: 1
+    XIP1: 1
+sources:
+- id: DanielsonJohanson2008
+  doi: 10.1186/1471-2229-8-45
+  pmid: '18430224'
+  pmcid: PMC2386804
+  title: Unexpected complexity of the aquaporin gene family in the moss Physcomitrella patens
+  year: 2008
+  source_method: phylogeny
+  locator: Additional file 1 (alignment), Table 1, Results 'Phylogeny and classification', Discussion
+  quote: Analyses of the whole genome of Physcomitrella patens resulted in the identification of 23 MIPs
+  files:
+  - path: literature/raw/B2/supp/PMC2386804/1471-2229-8-45-S1.pdf
+    sha256: 372b019d58b712392a7163dff00ae0f6e44aef8a2e508f8469e6467971bb8b6d
+  - path: literature/papers/PMID18430224/fulltext.txt
+    sha256: b29f402872b75e109c97ec11ee10f042bdc3a12cce8e4244dd873aaf6b0174cf
+  - path: literature/papers/PMID18430224/tables/T1.tsv
+    sha256: 4b3e4ef0b679a67bf95d0620070686bc9a50a1fe0b0e30979eb97d3e4fb025cc
+- id: Anderberg2012
+  doi: 10.3389/fpls.2012.00033
+  pmid: '22639644'
+  pmcid: PMC3355642
+  title: Annotation of Selaginella moellendorffii major intrinsic proteins and the evolution of the protein family in terrestrial
+    plants
+  year: 2012
+  source_method: phylogeny
+  locator: Table A2 (rice accessions), Introduction, Discussion
+  quote: the specialized groups of TIPs present in higher plants are not found in primitive vascular plants
+  files:
+  - path: literature/papers/PMID22639644/fulltext.txt
+    sha256: b1517eb579e4a28a3a3510029fe8b6d56e6124c81e4a5060d715a8bcc4e40304
+  - path: literature/papers/PMID22639644/tables/TA2.tsv
+    sha256: b28b0fa5915488feeb443cc0d1f80bef19bdabf1d9a21c4af567baaa56d945f6
+  - path: families/P04_MIPs/cache/ncbi_rice_mips.fa
+    sha256: 0c7d986a340694d9e2a83ebfefdee4ac620a551c9aa1e16aac196206600a6c62
+root_level: Embryophyta
+root_single_copy: false
+complete_species: []
+decoys: []
+distinct_from: []
+tier_summary:
+  U_T2: 15
+  D_T1: 4
+  S_T2: 1
+protocol_version: 1
+notes: 'Root is U: PpGIP1;1 is a GlpF-like MIP xenolog (HGT, donor outside panel P); an H node would force the native subfamily
+  D to Embryophyta, so GIP vs native pairs are left unasserted (tag HGT). The six native subfamilies were present in the land-plant
+  ancestor (GIP lost before lycophytes, HIP lost in seed plants, XIP lost in monocots and Arabidopsis). TIP groups 1-5 evolved
+  in the seed-plant ancestor (panel branch into Magnoliopsida). SIP2 evolved in angiosperms (interval Mesangiospermae..Magnoliopsida);
+  P. patens SIP1s vs angiosperm SIP1/SIP2 = S at Embryophyta. NIPs: U (A. thaliana NIP1-7 vs monocot NIP1-4 nomenclatures
+  are not comparable). Selaginella MIPs (Anderberg 2012) not included: only scaffold coordinates are published, no sequences/ids.
+  Rice names follow the monocot scheme; maize and Arabidopsis follow DJ2008.'

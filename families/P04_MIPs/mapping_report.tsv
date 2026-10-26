@@ -1,0 +1,130 @@
+original_id	species	label	gene_id	status	reason	locator	source
+AtPIP1.1	ARATH	PIP|PIP1	P61837	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtPIP1.1	DanielsonJohanson2008
+AtPIP1.2	ARATH	PIP|PIP1	Q06611	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtPIP1.2	DanielsonJohanson2008
+AtPIP1.3	ARATH	PIP|PIP1	Q08733	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtPIP1.3	DanielsonJohanson2008
+AtPIP1.4	ARATH	PIP|PIP1	Q39196	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtPIP1.4	DanielsonJohanson2008
+AtPIP1.5	ARATH	PIP|PIP1	Q8LAA6	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtPIP1.5	DanielsonJohanson2008
+ZmPIP1.1	MAIZE	PIP|PIP1	Q41870	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmPIP1.1	DanielsonJohanson2008
+ZmPIP1.2	MAIZE	PIP|PIP1	Q9XF59	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmPIP1.2	DanielsonJohanson2008
+ZmPIP1.3	MAIZE	PIP|PIP1		ambiguous	2 paper genes (ZmPIP1.3, ZmPIP1.4) map to one panel protein Q9AQU5	Additional file 1 alignment (S1.pdf), row ZmPIP1.3	DanielsonJohanson2008
+ZmPIP1.4	MAIZE	PIP|PIP1		ambiguous	2 paper genes (ZmPIP1.3, ZmPIP1.4) map to one panel protein Q9AQU5	Additional file 1 alignment (S1.pdf), row ZmPIP1.4	DanielsonJohanson2008
+ZmPIP1.5	MAIZE	PIP|PIP1	Q9AR14	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmPIP1.5	DanielsonJohanson2008
+ZmPIP1.6	MAIZE	PIP|PIP1	Q9ATN0	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmPIP1.6	DanielsonJohanson2008
+PpPIP1.1	PHYPA	PIP|PIP1	A0A7I4FMU4	mapped	sequence_unique: RBH, thresholds met; margin 10.0	Additional file 1 alignment (S1.pdf), row PpPIP1.1	DanielsonJohanson2008
+PpPIP1.2	PHYPA	PIP|PIP1	A9SPX3	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpPIP1.2	DanielsonJohanson2008
+PpPIP1.3	PHYPA	PIP|PIP1	A9TSE1	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpPIP1.3	DanielsonJohanson2008
+AtPIP2.1	ARATH	PIP|PIP2	P43286	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtPIP2.1	DanielsonJohanson2008
+AtPIP2.2	ARATH	PIP|PIP2	P43287	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtPIP2.2	DanielsonJohanson2008
+AtPIP2.3	ARATH	PIP|PIP2	P30302	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtPIP2.3	DanielsonJohanson2008
+AtPIP2.4	ARATH	PIP|PIP2	Q9FF53	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtPIP2.4	DanielsonJohanson2008
+AtPIP2.5	ARATH	PIP|PIP2	Q9SV31	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtPIP2.5	DanielsonJohanson2008
+AtPIP2.6	ARATH	PIP|PIP2	Q9ZV07	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtPIP2.6	DanielsonJohanson2008
+AtPIP2.7	ARATH	PIP|PIP2	P93004	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtPIP2.7	DanielsonJohanson2008
+AtPIP2.8	ARATH	PIP|PIP2	Q9ZVX8	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtPIP2.8	DanielsonJohanson2008
+ZmPIP2.1	MAIZE	PIP|PIP2	Q84RL7	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmPIP2.1	DanielsonJohanson2008
+ZmPIP2.2	MAIZE	PIP|PIP2	Q9ATM8	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmPIP2.2	DanielsonJohanson2008
+ZmPIP2.3	MAIZE	PIP|PIP2	Q9ATM7	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmPIP2.3	DanielsonJohanson2008
+ZmPIP2.4	MAIZE	PIP|PIP2	Q9ATM6	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmPIP2.4	DanielsonJohanson2008
+ZmPIP2.5	MAIZE	PIP|PIP2	Q9XF58	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmPIP2.5	DanielsonJohanson2008
+ZmPIP2.6	MAIZE	PIP|PIP2	Q9ATM5	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmPIP2.6	DanielsonJohanson2008
+ZmPIP2.7	MAIZE	PIP|PIP2	Q9ATM4	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmPIP2.7	DanielsonJohanson2008
+PpPIP2.1	PHYPA	PIP|PIP2	Q675A4	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpPIP2.1	DanielsonJohanson2008
+PpPIP2.2	PHYPA	PIP|PIP2	Q675A3	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpPIP2.2	DanielsonJohanson2008
+PpPIP2.3	PHYPA	PIP|PIP2	Q1L643	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpPIP2.3	DanielsonJohanson2008
+PpPIP2.4	PHYPA	PIP|PIP2	A9SU06	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpPIP2.4	DanielsonJohanson2008
+PpPIP3.1	PHYPA	PIP|PIP3	A0A7I4BK15	mapped	sequence_unique: RBH, thresholds met; margin 36.3	Additional file 1 alignment (S1.pdf), row PpPIP3.1	DanielsonJohanson2008
+AtTIP1.1	ARATH	TIP|TIP1	P25818	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtTIP1.1	DanielsonJohanson2008
+AtTIP1.2	ARATH	TIP|TIP1	Q41963	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtTIP1.2	DanielsonJohanson2008
+AtTIP1.3	ARATH	TIP|TIP1	O82598	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtTIP1.3	DanielsonJohanson2008
+AtTIP2.1	ARATH	TIP|TIP2	Q41951	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtTIP2.1	DanielsonJohanson2008
+AtTIP2.2	ARATH	TIP|TIP2	Q41975	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtTIP2.2	DanielsonJohanson2008
+AtTIP2.3	ARATH	TIP|TIP2	Q9FGL2	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtTIP2.3	DanielsonJohanson2008
+AtTIP3.1	ARATH	TIP|TIP3	P26587	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtTIP3.1	DanielsonJohanson2008
+AtTIP3.2	ARATH	TIP|TIP3	O22588	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtTIP3.2	DanielsonJohanson2008
+AtTIP4.1	ARATH	TIP|TIP4	O82316	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtTIP4.1	DanielsonJohanson2008
+AtTIP5.1	ARATH	TIP|TIP5	Q9STX9	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtTIP5.1	DanielsonJohanson2008
+ZmTIP1.1	MAIZE	TIP|TIP1	O64964	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmTIP1.1	DanielsonJohanson2008
+ZmTIP1.2	MAIZE	TIP|TIP1	Q9ATM0	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmTIP1.2	DanielsonJohanson2008
+ZmTIP2.1	MAIZE	TIP|TIP2	Q9ATL9	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmTIP2.1	DanielsonJohanson2008
+ZmTIP2.2	MAIZE	TIP|TIP2	Q9ATL8	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmTIP2.2	DanielsonJohanson2008
+ZmTIP2.3	MAIZE	TIP|TIP2	Q84RL6	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmTIP2.3	DanielsonJohanson2008
+ZmTIP3.1	MAIZE	TIP|TIP3	Q9ATL7	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmTIP3.1	DanielsonJohanson2008
+ZmTIP3.2	MAIZE	TIP|TIP3	Q9AT75	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmTIP3.2	DanielsonJohanson2008
+ZmTIP4.1	MAIZE	TIP|TIP4	Q9ATL6	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmTIP4.1	DanielsonJohanson2008
+ZmTIP4.2	MAIZE	TIP|TIP4	Q9ATL5	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmTIP4.2	DanielsonJohanson2008
+ZmTIP4.3	MAIZE	TIP|TIP4	Q9ATL4	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmTIP4.3	DanielsonJohanson2008
+ZmTIP4.4	MAIZE	TIP|TIP4	Q9ATL3	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmTIP4.4	DanielsonJohanson2008
+ZmTIP5.1	MAIZE	TIP|TIP5	Q9ATL2	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmTIP5.1	DanielsonJohanson2008
+PpTIP6.1	PHYPA	TIP|TIP6	A0A2K1IV96	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpTIP6.1	DanielsonJohanson2008
+PpTIP6.2	PHYPA	TIP|TIP6	A0A2K1IJK1	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpTIP6.2	DanielsonJohanson2008
+PpTIP6.3	PHYPA	TIP|TIP6	A9SPQ2	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpTIP6.3	DanielsonJohanson2008
+PpTIP6.4	PHYPA	TIP|TIP6	A9T8N7	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpTIP6.4	DanielsonJohanson2008
+AtNIP1.1	ARATH	NIP|NIP1	Q8VZW1	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtNIP1.1	DanielsonJohanson2008
+AtNIP1.2	ARATH	NIP|NIP1	Q8LFP7	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtNIP1.2	DanielsonJohanson2008
+AtNIP2.1	ARATH	NIP|NIP2	Q8W037	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtNIP2.1	DanielsonJohanson2008
+AtNIP3.1	ARATH	NIP|NIP3	Q9C6T0	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtNIP3.1	DanielsonJohanson2008
+AtNIP4.1	ARATH	NIP|NIP4	Q9FIZ9	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtNIP4.1	DanielsonJohanson2008
+AtNIP4.2	ARATH	NIP|NIP4	Q8W036	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtNIP4.2	DanielsonJohanson2008
+AtNIP5.1	ARATH	NIP|NIP5	Q9SV84	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtNIP5.1	DanielsonJohanson2008
+AtNIP6.1	ARATH	NIP|NIP6	Q9SAI4	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtNIP6.1	DanielsonJohanson2008
+AtNIP7.1	ARATH	NIP|NIP7	Q8LAI1	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtNIP7.1	DanielsonJohanson2008
+ZmNIP1.1	MAIZE	NIP|NIP1	Q9ATN4	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmNIP1.1	DanielsonJohanson2008
+ZmNIP2.1	MAIZE	NIP|NIP2	Q19KC1	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmNIP2.1	DanielsonJohanson2008
+ZmNIP2.2	MAIZE	NIP|NIP2	Q9ATN2	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmNIP2.2	DanielsonJohanson2008
+ZmNIP2.3	MAIZE	NIP|NIP2	Q9AT74	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmNIP2.3	DanielsonJohanson2008
+ZmNIP3.1	MAIZE	NIP|NIP3	Q9ATN1	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmNIP3.1	DanielsonJohanson2008
+PpNIP5.1	PHYPA	NIP|NIP5	A0A2K1KNH2	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpNIP5.1	DanielsonJohanson2008
+PpNIP5.2	PHYPA	NIP|NIP5	A0A2K1JQ78	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpNIP5.2	DanielsonJohanson2008
+PpNIP5.3	PHYPA	NIP|NIP5	A0A2K1JN19	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpNIP5.3	DanielsonJohanson2008
+PpNIP3.1	PHYPA	NIP|NIP3	A0A2K1JCZ4	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpNIP3.1	DanielsonJohanson2008
+PpNIP6.1	PHYPA	NIP|NIP6		unmapped	sequence: unmapped (identity 75.1<98.0); identifiers ['PHYPADRAFT_16763'] give no panel hit	Additional file 1 alignment (S1.pdf), row PpNIP6.1	DanielsonJohanson2008
+AtSIP1.2	ARATH	SIP|SIP1	Q9FK43	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtSIP1.2	DanielsonJohanson2008
+AtSIP1.1	ARATH	SIP|SIP1	Q9M8W5	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtSIP1.1	DanielsonJohanson2008
+AtSIP2.1	ARATH	SIP|SIP2	Q9M1K3	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row AtSIP2.1	DanielsonJohanson2008
+ZmSIP1.1	MAIZE	SIP|SIP1	Q9ATM3	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmSIP1.1	DanielsonJohanson2008
+ZmSIP1.2	MAIZE	SIP|SIP1	Q9ATM2	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmSIP1.2	DanielsonJohanson2008
+ZmSIP2.1	MAIZE	SIP|SIP2	Q9ATM1	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row ZmSIP2.1	DanielsonJohanson2008
+PpSIP1.1	PHYPA	SIP|SIP1	A9RDU1	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpSIP1.1	DanielsonJohanson2008
+PpSIP1.2	PHYPA	SIP|SIP1	A9U3Q2	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpSIP1.2	DanielsonJohanson2008
+PpGIP1.1	PHYPA	GIP|GIP1	Q3MNE2	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpGIP1.1	DanielsonJohanson2008
+PpHIP1.1	PHYPA	HIP|HIP1		unmapped	sequence: unmapped (identity 92.0<98.0; coverage q=0.45/t=0.42<0.8); identifiers ['PHYPADRAFT_91611'] give no panel hit	Additional file 1 alignment (S1.pdf), row PpHIP1.1	DanielsonJohanson2008
+PpXIP1.1	PHYPA	XIP|XIP1		unmapped	sequence: unmapped (identity 97.9<98.0); identifiers ['PHYPADRAFT_71087'] give no panel hit	Additional file 1 alignment (S1.pdf), row PpXIP1.1	DanielsonJohanson2008
+PpXIP1.2	PHYPA	XIP|XIP1	A0A2K1JZY4	mapped	sequence_exact: identical sequence	Additional file 1 alignment (S1.pdf), row PpXIP1.2	DanielsonJohanson2008
+OsPIP1;1	ORYSJ	PIP|PIP1	Q6EU94	mapped	sequence_exact: identical sequence	Table A2 row OsPIP1;1 (GenBank BAD28398)	Anderberg2012
+OsPIP1;2	ORYSJ	PIP|PIP1	Q7XSQ9	mapped	sequence_exact: identical sequence	Table A2 row OsPIP1;2 (GenBank EAZ31617)	Anderberg2012
+OsPIP1;3	ORYSJ	PIP|PIP1	Q9SXF8	mapped	sequence_exact: identical sequence	Table A2 row OsPIP1;3 (GenBank BAD22920)	Anderberg2012
+OsPIP2;1	ORYSJ	PIP|PIP2	Q8H5N9	mapped	sequence_exact: identical sequence	Table A2 row OsPIP2;1 (GenBank BAC15868)	Anderberg2012
+OsPIP2;2	ORYSJ	PIP|PIP2	Q6K215	mapped	sequence_exact: identical sequence	Table A2 row OsPIP2;2 (GenBank BAD23735)	Anderberg2012
+OsPIP2;3	ORYSJ	PIP|PIP2	Q7XUA6	mapped	sequence_exact: identical sequence	Table A2 row OsPIP2;3 (GenBank CAD41442)	Anderberg2012
+OsPIP2;4	ORYSJ	PIP|PIP2	Q8GRT8	mapped	sequence_exact: identical sequence	Table A2 row OsPIP2;4 (GenBank BAC16113)	Anderberg2012
+OsPIP2;5	ORYSJ	PIP|PIP2	Q8GRI8	mapped	sequence_exact: identical sequence	Table A2 row OsPIP2;5 (GenBank BAC16116)	Anderberg2012
+OsPIP2;6	ORYSJ	PIP|PIP2	Q7XLR1	mapped	sequence_exact: identical sequence	Table A2 row OsPIP2;6 (GenBank CAE05002)	Anderberg2012
+OsPIP2;7	ORYSJ	PIP|PIP2	Q651D5	mapped	sequence_exact: identical sequence	Table A2 row OsPIP2;7 (GenBank BAD46581)	Anderberg2012
+OsPIP2;8	ORYSJ	PIP|PIP2	Q7Y1E6	mapped	sequence_exact: identical sequence	Table A2 row OsPIP2;8 (GenBank AAP44741)	Anderberg2012
+OsTIP1;1	ORYSJ	TIP|TIP1	P50156	mapped	sequence_exact: identical sequence	Table A2 row OsTIP1;1 (GenBank AAK98737)	Anderberg2012
+OsTIP1;2	ORYSJ	TIP|TIP1	Q94CS9	mapped	sequence_exact: identical sequence	Table A2 row OsTIP1;2 (GenBank BAB63833)	Anderberg2012
+OsTIP2;1	ORYSJ	TIP|TIP2	Q7XA61	mapped	sequence_exact: identical sequence	Table A2 row OsTIP2;1 (GenBank BAD25765)	Anderberg2012
+OsTIP2;2	ORYSJ	TIP|TIP2	Q5Z6F0	mapped	sequence_exact: identical sequence	Table A2 row OsTIP2;2 (GenBank BAD61899)	Anderberg2012
+OsTIP3;1	ORYSJ	TIP|TIP3	Q9FWV6	mapped	sequence_exact: identical sequence	Table A2 row OsTIP3;1 (GenBank AAG13544)	Anderberg2012
+OsTIP3;2	ORYSJ	TIP|TIP3	Q7XKI5	mapped	sequence_exact: identical sequence	Table A2 row OsTIP3;2 (GenBank CAE05657)	Anderberg2012
+OsTIP4;1	ORYSJ	TIP|TIP4	Q75GA5	mapped	sequence_exact: identical sequence	Table A2 row OsTIP4;1 (GenBank AAS98488)	Anderberg2012
+OsTIP4;2	ORYSJ	TIP|TIP4	Q9LWR0	mapped	sequence_unique: RBH, thresholds met; margin 37.8	Table A2 row OsTIP4;2 (GenBank BAA92993)	Anderberg2012
+OsTIP4;3	ORYSJ	TIP|TIP4	Q9LWR2	mapped	sequence_exact: identical sequence	Table A2 row OsTIP4;3 (GenBank BAA92991)	Anderberg2012
+OsTIP5;1	ORYSJ	TIP|TIP5	Q7XU31	mapped	sequence_exact: identical sequence	Table A2 row OsTIP5;1 (GenBank BAF15407)	Anderberg2012
+OsNIP1;1	ORYSJ	NIP|NIP1	Q40746	mapped	sequence_exact: identical sequence	Table A2 row OsNIP1;1 (GenBank BAD27715)	Anderberg2012
+OsNIP1;2	ORYSJ	NIP|NIP1	Q0JPT5	mapped	sequence_exact: identical sequence	Table A2 row OsNIP1;2 (GenBank BAD73177)	Anderberg2012
+OsNIP1;3	ORYSJ	NIP|NIP1	Q0DK16	mapped	sequence_exact: identical sequence	Table A2 row OsNIP1;3 (GenBank AAV44140)	Anderberg2012
+OsNIP1;4	ORYSJ	NIP|NIP1	Q5Z9E2	mapped	sequence_exact: identical sequence	Table A2 row OsNIP1;4 (GenBank BAD53665)	Anderberg2012
+OsNIP2;1	ORYSJ	NIP|NIP2	Q6Z2T3	mapped	sequence_exact: identical sequence	Table A2 row OsNIP2;1 (GenBank BAD16128)	Anderberg2012
+OsNIP2;2	ORYSJ	NIP|NIP2	Q67WJ8	mapped	sequence_exact: identical sequence	Table A2 row OsNIP2;2 (GenBank BAD37471)	Anderberg2012
+OsNIP3;1	ORYSJ	NIP|NIP3	Q0IWF3	mapped	exact_id: exact identifier mapping ['AAG13499'] -> Q0IWF3 (single panel hit); sequence: unmapped (coverage q=0.94/t=0.73<0.8)	Table A2 row OsNIP3;1 (GenBank AAG13499)	Anderberg2012
+OsNIP3;2	ORYSJ	NIP|NIP3	Q7EYH7	mapped	sequence_exact: identical sequence	Table A2 row OsNIP3;2 (GenBank BAC99758)	Anderberg2012
+OsNIP3;3	ORYSJ	NIP|NIP3	Q84S07	mapped	sequence_exact: identical sequence	Table A2 row OsNIP3;3 (GenBank BAC65382)	Anderberg2012
+OsNIP4;1	ORYSJ	NIP|NIP4	Q9ASI1	mapped	sequence_exact: identical sequence	Table A2 row OsNIP4;1 (GenBank BAB61180)	Anderberg2012
+OsSIP1;1	ORYSJ	SIP|SIP1	Q5VR89	mapped	sequence_exact: identical sequence	Table A2 row OsSIP1;1 (GenBank BAB32914)	Anderberg2012
+OsSIP2;1	ORYSJ	SIP|SIP2	Q10M80	mapped	sequence_exact: identical sequence	Table A2 row OsSIP2;1 (GenBank ABF95655)	Anderberg2012
+ProteinID 83986	PHYPA	MIP		excluded	Table 1: Identical to 135286^g	DJ2008 Table 1	DanielsonJohanson2008
+PseudoPIP#1	PHYPA	MIP		excluded	Table 1: Pseudogene, PIP-like, based on ProteinID = 113412 but encoding 123 amino acids in two exons	DJ2008 Table 1	DanielsonJohanson2008
+PseudoPIP#2	PHYPA	MIP		excluded	Table 1: Pseudogene, PIP-like, encoding 83 amino acids in one exon	DJ2008 Table 1	DanielsonJohanson2008
+PartialNIP#1	PHYPA	MIP		excluded	Table 1: Possibly a full length gene (NIP5) but the genomic sequence is only 825 bp long and interrupted by a 34 kb gap. The model which the classification ref	DJ2008 Table 1	DanielsonJohanson2008
+PseudoNIP#1	PHYPA	MIP		excluded	Table 1: Pseudogene, NIP-like, delete first 22 amino acids from model	DJ2008 Table 1	DanielsonJohanson2008

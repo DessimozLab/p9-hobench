@@ -1,0 +1,11 @@
+assertion_id	type	target	tier	source_id	locator	quote
+P04_A1	event	D_MIP_subfamilies	T1	Anderberg2012	Introduction	While the moss Physcomitrella patens contains representatives from all seven groups the dicots at most have five of these subfamilies, the PIPs, TIPs, NIPs, SIPs, and XIPs and monocots only four, having lost also the XIPs
+P04_A2	event	D_MIP_subfamilies	T1	DanielsonJohanson2008	Abstract	Our results suggest an early diversification of MIPs resulting in a large number of subfamilies already in primitive terrestrial plants.
+P04_A3	event	D_PIP1_PIP2	T1	DanielsonJohanson2008	Discussion, PIPs - the most conserved MIPs in plants	Both PIP1s and PIP2s are highly conserved in P. patens indicating that these groups must have formed early on in the evolution of land plants
+P04_A4	event	D_TIP_groups	T1	Anderberg2012	Abstract	Based on ESTs from non-angiosperms we conclude that the specialized groups of TIPs present in higher plants are not found in primitive vascular plants but evolved later in a common ancestor of seed plants.
+P04_A5	event	D_SIP1_SIP2	T1	Anderberg2012	Discussion, SIP2s evolved later	suggesting that SIP2s have only evolved in the angiosperms whereas SIP1s go deeper and are present in all terrestrial plants sharing a common ancestor with the mosses
+P04_A6	event	S_SIP	T2	Anderberg2012	Discussion, SIP2s evolved later	SIP1s go deeper and are present in all terrestrial plants sharing a common ancestor with the mosses
+P04_A7	tag	MIP_root_GIP_xenolog	T1	DanielsonJohanson2008	Results, Phylogeny and classification	One of these was the MIP xenolog (homolog resulting from horizontal gene transfer) PpGIP1;1 previously identified as a GlpF-like MIP and named accordingly
+P04_A8	tag	D_MIP_subfamilies	T1	Anderberg2012	Introduction	This indicates that the seventh subfamily, the GIPs, was lost early on in the lineage leading to vascular plants, already before the appearance of the lycophytes.
+P04_A9	tag	D_MIP_subfamilies	T1	Anderberg2012	Discussion, XIPs	Interestingly, the XIPs have recently been lost in both monocots and in Arabidopsis.
+P04_A10	completeness	PHYPA	T1	DanielsonJohanson2008	Abstract	Analyses of the whole genome of Physcomitrella patens resulted in the identification of 23 MIPs, belonging to seven different subfamilies

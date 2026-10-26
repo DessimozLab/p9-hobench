@@ -1,0 +1,530 @@
+{
+ "uniprot|AAG13499": [
+  {
+   "entry_name": "NIP31_ORYSJ",
+   "gene_name": "NIP3-1",
+   "id_type": "genbank_protein",
+   "length": "311",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAG13499",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0IWF3"
+  }
+ ],
+ "uniprot|AAG13544": [
+  {
+   "entry_name": "TIP31_ORYSJ",
+   "gene_name": "TIP3-1",
+   "id_type": "genbank_protein",
+   "length": "264",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAG13544",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q9FWV6"
+  }
+ ],
+ "uniprot|AAK98737": [
+  {
+   "entry_name": "TIP11_ORYSJ",
+   "gene_name": "TIP1-1",
+   "id_type": "genbank_protein",
+   "length": "250",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAK98737",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "P50156"
+  }
+ ],
+ "uniprot|AAP44741": [
+  {
+   "entry_name": "PIP28_ORYSJ",
+   "gene_name": "PIP2-8",
+   "id_type": "genbank_protein",
+   "length": "280",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAP44741",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7Y1E6"
+  }
+ ],
+ "uniprot|AAS98488": [
+  {
+   "entry_name": "TIP41_ORYSJ",
+   "gene_name": "TIP4-1",
+   "id_type": "genbank_protein",
+   "length": "251",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAS98488",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q75GA5"
+  }
+ ],
+ "uniprot|AAV44140": [
+  {
+   "entry_name": "NIP13_ORYSJ",
+   "gene_name": "NIP1-3",
+   "id_type": "genbank_protein",
+   "length": "286",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAV44140",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0DK16"
+  }
+ ],
+ "uniprot|ABF95655": [
+  {
+   "entry_name": "SIP21_ORYSJ",
+   "gene_name": "SIP2-1",
+   "id_type": "genbank_protein",
+   "length": "250",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "ABF95655",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q10M80"
+  }
+ ],
+ "uniprot|BAA92991": [
+  {
+   "entry_name": "TIP43_ORYSJ",
+   "gene_name": "TIP4-3",
+   "id_type": "genbank_protein",
+   "length": "251",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAA92991",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q9LWR2"
+  }
+ ],
+ "uniprot|BAA92993": [
+  {
+   "entry_name": "TIP42_ORYSJ",
+   "gene_name": "TIP4-2",
+   "id_type": "genbank_protein",
+   "length": "256",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAA92993",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q9LWR0"
+  }
+ ],
+ "uniprot|BAB32914": [
+  {
+   "entry_name": "SIP11_ORYSJ",
+   "gene_name": "SIP1-1",
+   "id_type": "genbank_protein",
+   "length": "246",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAB32914",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5VR89"
+  }
+ ],
+ "uniprot|BAB61180": [
+  {
+   "entry_name": "NIP41_ORYSJ",
+   "gene_name": "NIP4-1",
+   "id_type": "genbank_protein",
+   "length": "286",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAB61180",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q9ASI1"
+  }
+ ],
+ "uniprot|BAB63833": [
+  {
+   "entry_name": "TIP12_ORYSJ",
+   "gene_name": "TIP1-2",
+   "id_type": "genbank_protein",
+   "length": "252",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAB63833",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q94CS9"
+  }
+ ],
+ "uniprot|BAC15868": [
+  {
+   "entry_name": "PIP21_ORYSJ",
+   "gene_name": "PIP2-1",
+   "id_type": "genbank_protein",
+   "length": "290",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAC15868",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q8H5N9"
+  }
+ ],
+ "uniprot|BAC16113": [
+  {
+   "entry_name": "PIP24_ORYSJ",
+   "gene_name": "PIP2-4",
+   "id_type": "genbank_protein",
+   "length": "286",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAC16113",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q8GRT8"
+  }
+ ],
+ "uniprot|BAC16116": [
+  {
+   "entry_name": "PIP25_ORYSJ",
+   "gene_name": "PIP2-5",
+   "id_type": "genbank_protein",
+   "length": "283",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAC16116",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q8GRI8"
+  }
+ ],
+ "uniprot|BAC65382": [
+  {
+   "entry_name": "NIP33_ORYSJ",
+   "gene_name": "NIP3-3",
+   "id_type": "genbank_protein",
+   "length": "278",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAC65382",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q84S07"
+  }
+ ],
+ "uniprot|BAC99758": [
+  {
+   "entry_name": "NIP32_ORYSJ",
+   "gene_name": "NIP3-2",
+   "id_type": "genbank_protein",
+   "length": "305",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAC99758",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7EYH7"
+  }
+ ],
+ "uniprot|BAD16128": [
+  {
+   "entry_name": "NIP21_ORYSJ",
+   "gene_name": "NIP2-1",
+   "id_type": "genbank_protein",
+   "length": "298",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD16128",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6Z2T3"
+  }
+ ],
+ "uniprot|BAD22920": [
+  {
+   "entry_name": "PIP13_ORYSJ",
+   "gene_name": "PIP1-3",
+   "id_type": "genbank_protein",
+   "length": "288",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD22920",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q9SXF8"
+  }
+ ],
+ "uniprot|BAD23735": [
+  {
+   "entry_name": "PIP22_ORYSJ",
+   "gene_name": "PIP2-2",
+   "id_type": "genbank_protein",
+   "length": "288",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD23735",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6K215"
+  }
+ ],
+ "uniprot|BAD25765": [
+  {
+   "entry_name": "TIP21_ORYSJ",
+   "gene_name": "TIP2-1",
+   "id_type": "genbank_protein",
+   "length": "248",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD25765",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7XA61"
+  }
+ ],
+ "uniprot|BAD27715": [
+  {
+   "entry_name": "NIP11_ORYSJ",
+   "gene_name": "NIP1-1",
+   "id_type": "genbank_protein",
+   "length": "284",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD27715",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q40746"
+  }
+ ],
+ "uniprot|BAD28398": [
+  {
+   "entry_name": "PIP11_ORYSJ",
+   "gene_name": "PIP1-1",
+   "id_type": "genbank_protein",
+   "length": "289",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD28398",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6EU94"
+  }
+ ],
+ "uniprot|BAD37471": [
+  {
+   "entry_name": "NIP22_ORYSJ",
+   "gene_name": "NIP2-2",
+   "id_type": "genbank_protein",
+   "length": "298",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD37471",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q67WJ8"
+  }
+ ],
+ "uniprot|BAD46581": [
+  {
+   "entry_name": "PIP27_ORYSJ",
+   "gene_name": "PIP2-7",
+   "id_type": "genbank_protein",
+   "length": "290",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD46581",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q651D5"
+  }
+ ],
+ "uniprot|BAD53665": [
+  {
+   "entry_name": "NIP14_ORYSJ",
+   "gene_name": "NIP1-4",
+   "id_type": "genbank_protein",
+   "length": "273",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD53665",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5Z9E2"
+  }
+ ],
+ "uniprot|BAD61899": [
+  {
+   "entry_name": "TIP22_ORYSJ",
+   "gene_name": "TIP2-2",
+   "id_type": "genbank_protein",
+   "length": "248",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD61899",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5Z6F0"
+  }
+ ],
+ "uniprot|BAD73177": [
+  {
+   "entry_name": "NIP12_ORYSJ",
+   "gene_name": "NIP1-2",
+   "id_type": "genbank_protein",
+   "length": "303",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD73177",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0JPT5"
+  }
+ ],
+ "uniprot|BAF15407": [
+  {
+   "entry_name": "TIP51_ORYSJ",
+   "gene_name": "TIP5;1",
+   "id_type": "genbank_protein",
+   "length": "269",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAF15407",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7XU31"
+  }
+ ],
+ "uniprot|CAD41442": [
+  {
+   "entry_name": "PIP23_ORYSJ",
+   "gene_name": "PIP2-3",
+   "id_type": "genbank_protein",
+   "length": "290",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "CAD41442",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7XUA6"
+  }
+ ],
+ "uniprot|CAE05002": [
+  {
+   "entry_name": "PIP26_ORYSJ",
+   "gene_name": "PIP2-6",
+   "id_type": "genbank_protein",
+   "length": "282",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "CAE05002",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7XLR1"
+  }
+ ],
+ "uniprot|CAE05657": [
+  {
+   "entry_name": "TIP32_ORYSJ",
+   "gene_name": "TIP3-2",
+   "id_type": "genbank_protein",
+   "length": "265",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "CAE05657",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7XKI5"
+  }
+ ],
+ "uniprot|EAZ31617": [
+  {
+   "entry_name": "PIP12_ORYSJ",
+   "gene_name": "PIP1-2",
+   "id_type": "genbank_protein",
+   "length": "288",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "EAZ31617",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7XSQ9"
+  }
+ ]
+}
