@@ -6,7 +6,7 @@ Status: **abandoned** (fewer than 4 panel species with source-listed members for
 - Figge et al. 1999 MBE 16:429 (requested/49.pdf, sha256 in requested/RECEIVED.tsv): gap1 ~ eukaryotic GapC, gap2 ~
   GapAB; quote: "eukaryotes acquired their nuclear genes for GapC and GapAB via endosymbiotic gene transfer from the
   antecedents of mitochondria and chloroplasts". Members only as figure leaves / GenBank ids of non-panel bacteria.
-- Stanley et al.? 2013 PLoS One (PMID 23936198, CC BY): Data S1 = 351 trimmed GAPDH sequences (~325 aa) + FastTree.
+- 2013 PLoS One "Functional divergence and convergent evolution in the plastid-targeted GAPDHs" (PMID 23936198, CC BY): Data S1 = 351 trimmed GAPDH sequences (~325 aa) + FastTree.
   Panel species in the green group (Gap2 + GapA/B): SYNY3 (Gap2), ARATH (GapA x2, GapB), CHLRE (GapA). No
   Cyanidioschyzon (red algae only Galdieria GapA). Quote (Fig. 2): "Gap2 of cyanobacteria became the GapA of the
   Archaeplastida, with a further gene duplication event in land plants giving rise to GapB."
