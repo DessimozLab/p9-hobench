@@ -1,0 +1,13 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	source	locator
+P05194	ECOLI	NP_416208.1	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: b1693,GCF_000005845.2,NP_416208.1,COG0710,class=0
+P35146	BACSU	NP_390189.1	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: BSU_23080,GCF_000009045.1,NP_390189.1,COG0710,class=0
+O84375	CHLTR	NP_219879.1	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: CT_370,GCF_000008725.1,NP_219879.1,COG0710,class=1
+O66440	AQUAE	NP_212999.1	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: aq_021,GCF_000008625.1,NP_212999.1,COG0710,class=0
+Q8F9Z2	LEPIN	NP_710226.1	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: LA_0045,GCF_000092565.1,NP_710226.1,COG0710,class=0
+Q980I4	SACS2	WP_009990602.1	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: SSO_RS01540,GCF_000007005.1,WP_009990602.1,COG0710,class=0
+B1L3H9	KORCO	WP_052567961.1	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)	diamond_sequence	100.0	0.914	COG2020	cog20_panelK.csv: KCR_RS01300,GCF_000019605.1,WP_052567961.1,COG0710,class=0
+A9A234	NITMS	ABX12447.1	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: Nmar_0551,GCA_000018465.1,ABX12447.1,COG0710,class=0
+Q5JFV1	THEKO	WP_011249221.1	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: TK_RS01305,GCF_000009965.1,WP_011249221.1,COG0710,class=0
+Q58849	METJA	WP_010870974.1	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: MJ_RS07775,GCF_000091665.1,WP_010870974.1,COG0710,class=0
+Q8THC4	METAC	AAM07932.1	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: MA_4593,GCA_000007345.1,AAM07932.1,COG0710,class=0
+Q9HSB4	HALSA	WP_012289139.1	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: VNG_RS01245,GCF_000006805.1,WP_012289139.1,COG0710,class=0

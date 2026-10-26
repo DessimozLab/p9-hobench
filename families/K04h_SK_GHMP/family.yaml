@@ -1,0 +1,121 @@
+id: K04h_SK_GHMP
+name: GHMP-kinase-type archaeal shikimate kinase — non-homologous isofunctional counterpart of K04g_SK_Ploop (EC 2.7.1.71)
+panel: K
+collection: K04_isofunctional_decoys
+phenomena:
+- CONV
+descriptors:
+  n_members: 7
+  n_species: 7
+  n_duplications: 0
+  ec: 2.7.1.71
+  cog: COG1685
+  multicopy_species: []
+  mapped_fraction: 1.0
+sources:
+- id: Omelchenko2010
+  doi: 10.1186/1745-6150-5-31
+  pmid: '20433725'
+  title: 'Non-homologous isofunctional enzymes: a systematic analysis of alternative solutions in enzyme evolution'
+  year: 2010
+  source_method: expert_classification
+  locator: Additional file 2 (Table S2), EC 2.7.1.71
+  quote: 2.7.1.71 Shikimate kinase P0A6E1 AROL_ECOLI 1SHK P-loop containing NTPases SupFam Shikimate kinase 3001029, 9600856,
+    11369852 Two distinct structural
+  files:
+  - path: literature/papers/PMID20433725/fulltext.txt
+    sha256: 1ec185c35d5198e91b564962acb34b4a9f841cfd3a7ff4b0fdc252bfc6d898b5
+  - path: literature/papers/PMID20433725/raw/supp/1745-6150-5-31-S2.PDF
+    sha256: 15eb541b1b48ce6d9feea39fcad420443773cf471709f1f83d00acea970e6e4d
+  - path: literature/papers/PMID20433725/raw/supp/1745-6150-5-31-S1.PDF
+    sha256: a7b62a2837d979226994f9bb96000b4f41883bf601fdd5e332f4e0a2f444f588
+- id: COG2020
+  doi: 10.1093/nar/gkaa1018
+  pmid: '33167031'
+  title: 'COG database update: focus on microbial diversity, model organisms, and widespread pathogens'
+  year: 2021
+  source_method: expert_classification
+  locator: cog-20.def.tab COG1685
+  quote: COG1685 E Archaeal shikimate kinase AroK2
+  files:
+  - path: literature/papers/COG2020/derived/cog20_panelK.csv
+    sha256: 20009e1d50fe969d83ca9b2300d3ff8bae3b64306f7462e5ef449883c4f3c543
+  - path: literature/papers/COG2020/derived/cog20_panelK.fa
+    sha256: 23abca6071e66e879ba1875ec85fc86a513208f1d6127752db78eb6c7e4e960d
+  - path: literature/papers/COG2020/raw/cog-20.def.tab
+    sha256: 00e93e42f38f6ada46ef6be5da4a8518829300ea29f2888261660de0ca2f7e77
+  - path: literature/papers/COG2020/raw/Readme.2020-11-25.txt
+    sha256: 2fc52a814993cd346936fc7daf9ad19e2a5b0fbbd387bdb6d94816b69be7194e
+  - path: literature/papers/COG2020/seqmap_K04.py
+    sha256: 5856a4d51549eefb7bee060da277b392580ff97e4c95c8cca8281e52e99c46dd
+  - path: literature/papers/COG2020/derived/seqmap_K04/AQUAE.tsv
+    sha256: 9505abafd478ede4adefab98b11fbb790cee2b1e5d59205b0992ba081073d1c6
+  - path: literature/papers/COG2020/derived/seqmap_K04/BACSU.tsv
+    sha256: 8e34fe166864c706cbe25ba855ef53fbaba525621155798e8b411e1c369db41a
+  - path: literature/papers/COG2020/derived/seqmap_K04/BACTN.tsv
+    sha256: bdbba28191c9372f94988e7000e958d2bc4793ffcadb293d8e0f7850ace0949c
+  - path: literature/papers/COG2020/derived/seqmap_K04/CHLTR.tsv
+    sha256: 44f075a54c6bd53f0bc7c0f809e26483e28ff28f066b7bae36ea38b84e3bd347
+  - path: literature/papers/COG2020/derived/seqmap_K04/DEIRA.tsv
+    sha256: e84d249861638fbd5748be56d1d5522d2fe1e2a015f8113c70e087604f4f06ae
+  - path: literature/papers/COG2020/derived/seqmap_K04/ECOLI.tsv
+    sha256: 81d5803a4fde9b9b32f14f6722f464b8f74d5e1c6e100de90c60ea4a5922b6ad
+  - path: literature/papers/COG2020/derived/seqmap_K04/HALSA.tsv
+    sha256: 1d06308e48488b9ffd6dedf24661cbc8b89d5c404a1478b45e9808d50f4dadd0
+  - path: literature/papers/COG2020/derived/seqmap_K04/HELPY.tsv
+    sha256: c60e3701eb11d23e5cf0991971c58dbe5442610e709f0a3676e3552829e44c68
+  - path: literature/papers/COG2020/derived/seqmap_K04/KORCO.tsv
+    sha256: 4bb173a06a772d9133fbee39db7de224153685ac33203534b864cc849a72faa3
+  - path: literature/papers/COG2020/derived/seqmap_K04/LEPIN.tsv
+    sha256: 414e34221bc04ca815148a6b5d5c4caab972b1a1aa9c642617ac992b12d50290
+  - path: literature/papers/COG2020/derived/seqmap_K04/METAC.tsv
+    sha256: 10015e500a7c73918643009d76b988eb859a865ce9c0027ee7febc7b64faabc5
+  - path: literature/papers/COG2020/derived/seqmap_K04/METJA.tsv
+    sha256: f5bd3cba730f425f481f6670b9a0aed8cf138b07f0789b5dd30f995f4625ac48
+  - path: literature/papers/COG2020/derived/seqmap_K04/MYCTU.tsv
+    sha256: 88b911bc3f650c5c2e7dd6b61508ef7b5b5b13b0f86ad57aa15b0f04b84b859f
+  - path: literature/papers/COG2020/derived/seqmap_K04/NITMS.tsv
+    sha256: 749c1002af2c37bf3381ea6708a08456f7f846c88d05722ddacc5e30bc928d4e
+  - path: literature/papers/COG2020/derived/seqmap_K04/PSEAE.tsv
+    sha256: eb86bbdc9f4907ef4a3e7ff399f38d297a26efe573d7a732f58a4a20b10db55d
+  - path: literature/papers/COG2020/derived/seqmap_K04/SACS2.tsv
+    sha256: 7aacdcf3aca174e8300a7fd2afcaaed761af92787bfa25703f4365697e97acd1
+  - path: literature/papers/COG2020/derived/seqmap_K04/SYNY3.tsv
+    sha256: dacba4c73fa1bd84a316d4a7225ae2b041cf1204bc36880ade44af72b569e632
+  - path: literature/papers/COG2020/derived/seqmap_K04/THEKO.tsv
+    sha256: e185a362fa2c58eabe152c16f20cd2735b00bd3ad05c1020d80a1041fd16e97e
+  - path: literature/papers/COG2020/derived/seqmap_K04/THEMA.tsv
+    sha256: 52750625b8983f04581a6a90c4a3b4880eccf99125c7cad23501c21fddf31b99
+root_single_copy: false
+complete_species: []
+decoys:
+- O67925
+- O84372
+- P0A6D7
+- P0A6E1
+- P34003
+- P37944
+- P56073
+- P72796
+- P9WPY3
+- Q8A2B2
+- Q8EXT5
+- Q8TL06
+- Q9RW93
+- Q9WYI3
+distinct_from:
+- family: K04g_SK_Ploop
+  at_level: ALL
+  src: Omelchenko2010
+tier_summary:
+  T1_decoy_assertions: 3
+  T1_events: 0
+  T2_nodes: 1
+  T3: 0
+protocol_version: 1
+notes: 'Merge-test decoy family. GHMP-kinase-type archaeal shikimate kinase (COG COG1685) and its partner K04g_SK_Ploop catalyse
+  the same reaction (EC 2.7.1.71) with different structural folds (Omelchenko et al. 2010, Table S2: ''Two distinct structural
+  folds'') => non-homologous: they must never share a HOG at any level (distinct_from at_level ALL; decoys = partner members).
+  Inside the family the tree is a single U node (no orthology asserted: no source in hand separates orthologs from xenologs/paralogs;
+  LysRS-I and several SODs/SKs are HGT-prone). Members = COG 2020 membership (class 0-2) in the 19 panel-K genomes present
+  in COG 2020; BRADU/GEOSL absent from COG 2020 (no member data). Same pairs can be re-declared in panel E.'

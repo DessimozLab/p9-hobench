@@ -1,0 +1,17 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_414922.1	ECOLI	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)	P0A6E1	mapped	exact_sequence	cog20_panelK.csv: b0388,GCF_000005845.2,NP_414922.1,COG0703,class=0
+YP_026215.2	ECOLI	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)	P0A6D7	mapped	exact_sequence	cog20_panelK.csv: b3390,GCF_000005845.2,YP_026215.2,COG0703,class=0
+NP_253726.1	PSEAE	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)	P34003	mapped	exact_sequence	cog20_panelK.csv: PA5039,GCF_000006765.1,NP_253726.1,COG0703,class=0
+BRADU:COG0703	BRADU	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)		not_in_panel	genome not in COG 2020 (only other species of the genus); membership unknown	cog-20.org.csv (absent)
+NP_206956.1	HELPY	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)	P56073	mapped	exact_sequence	cog20_panelK.csv: HP0157,GCF_000008525.1,NP_206956.1,COG0703,class=0
+GEOSL:COG0703	GEOSL	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)		not_in_panel	genome not in COG 2020 (only other species of the genus); membership unknown	cog-20.org.csv (absent)
+NP_388197.2	BACSU	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)	P37944	mapped	exact_sequence	cog20_panelK.csv: BSU_03150,GCF_000009045.1,NP_388197.2,COG0703,class=0
+NP_217055.1	MYCTU	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)	P9WPY3	mapped	exact_sequence	cog20_panelK.csv: Rv2539c,GCF_000195955.2,NP_217055.1,COG0703,class=0
+NP_219876.1	CHLTR	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)	O84372	mapped	exact_sequence	cog20_panelK.csv: CT_367,GCF_000008725.1,NP_219876.1,COG0703,class=0
+WP_010871441.1	SYNY3	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)	P72796	mapped	exact_sequence	cog20_panelK.csv: SGL_RS03075,GCF_000009725.1,WP_010871441.1,COG0703,class=0
+NP_294500.1	DEIRA	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)	Q9RW93	mapped	diamond_sequence	cog20_panelK.csv: DR_0776,GCF_000008565.1,NP_294500.1,COG0703,class=1
+NP_228159.1	THEMA	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)	Q9WYI3	mapped	exact_sequence	cog20_panelK.csv: TM0348,GCF_000008545.1,NP_228159.1,COG0703,class=1
+NP_214494.1	AQUAE	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)	O67925	mapped	exact_sequence	cog20_panelK.csv: aq_2177,GCF_000008625.1,NP_214494.1,COG0703,class=0
+NP_812305.1	BACTN	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)	Q8A2B2	mapped	exact_sequence	cog20_panelK.csv: BT_3393,GCF_000011065.1,NP_812305.1,COG0703,class=0
+NP_714667.1	LEPIN	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)	Q8EXT5	mapped	exact_sequence	cog20_panelK.csv: LB_123,GCF_000092565.1,NP_714667.1,COG0703,class=0
+AAM06608.1	METAC	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)	Q8TL06	mapped	exact_sequence	cog20_panelK.csv: MA_3237,GCA_000007345.1,AAM06608.1,COG0703,class=0

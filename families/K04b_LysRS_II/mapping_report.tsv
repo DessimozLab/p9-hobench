@@ -1,0 +1,20 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_417366.1	ECOLI	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	P0A8N3	mapped	exact_sequence	cog20_panelK.csv: b2890,GCF_000005845.2,NP_417366.1,COG1190,class=0
+NP_418553.1	ECOLI	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	P0A8N5	mapped	exact_sequence	cog20_panelK.csv: b4129,GCF_000005845.2,NP_418553.1,COG1190,class=0
+NP_252390.1	PSEAE	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	Q9HXU0	mapped	exact_sequence	cog20_panelK.csv: PA3700,GCF_000006765.1,NP_252390.1,COG1190,class=0
+BRADU:COG1190	BRADU	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)		not_in_panel	genome not in COG 2020 (only other species of the genus); membership unknown	cog-20.org.csv (absent)
+NP_206981.1	HELPY	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	P56126	mapped	exact_sequence	cog20_panelK.csv: HP0182,GCF_000008525.1,NP_206981.1,COG1190,class=0
+GEOSL:COG1190	GEOSL	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)		not_in_panel	genome not in COG 2020 (only other species of the genus); membership unknown	cog-20.org.csv (absent)
+NP_387963.1	BACSU	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	P37477	mapped	exact_sequence	cog20_panelK.csv: BSU_00820,GCF_000009045.1,NP_387963.1,COG1190,class=0
+NP_216156.1	MYCTU	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	P9WFU7	mapped	exact_sequence	cog20_panelK.csv: Rv1640c,GCF_000195955.2,NP_216156.1,COG1190,class=1
+NP_218115.1	MYCTU	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	P9WFU9	mapped	exact_sequence	cog20_panelK.csv: Rv3598c,GCF_000195955.2,NP_218115.1,COG1190,class=0
+NP_220300.1	CHLTR	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	O84786	mapped	exact_sequence	cog20_panelK.csv: CT_781,GCF_000008725.1,NP_220300.1,COG1190,class=0
+WP_010872113.1	SYNY3	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	P73443	mapped	exact_sequence	cog20_panelK.csv: SGL_RS06545,GCF_000009725.1,WP_010872113.1,COG1190,class=0
+NP_294095.1	DEIRA	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	Q9RXE1	mapped	exact_sequence	cog20_panelK.csv: DR_0372,GCF_000008565.1,NP_294095.1,COG1190,class=0
+NP_229505.1	THEMA	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	Q9X231	mapped	exact_sequence	cog20_panelK.csv: TM1705,GCF_000008545.1,NP_229505.1,COG1190,class=0
+NP_213822.1	AQUAE	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)		excluded	COG membership class 3 (partial match on protein and COG profile)	cog20_panelK.csv: aq_1202,GCF_000008625.1,NP_213822.1,COG1190,class=3
+NP_213822.1	AQUAE	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	O67258	mapped	exact_sequence	cog20_panelK.csv: aq_1202,GCF_000008625.1,NP_213822.1,COG1190,class=1
+NP_811035.1	BACTN	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	Q8A5W4	mapped	exact_sequence	cog20_panelK.csv: BT_2122,GCF_000011065.1,NP_811035.1,COG1190,class=1
+NP_712176.1	LEPIN	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	Q8F4P5	mapped	exact_sequence	cog20_panelK.csv: LA_1995,GCF_000092565.1,NP_712176.1,COG1190,class=0
+WP_009988902.1	SACS2	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	P95970	mapped	diamond_sequence	cog20_panelK.csv: SSO_RS00435,GCF_000007005.1,WP_009988902.1,COG1190,class=0
+AAM04200.1	METAC	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	Q8TSN5	mapped	exact_sequence	cog20_panelK.csv: MA_0760,GCA_000007345.1,AAM04200.1,COG1190,class=0

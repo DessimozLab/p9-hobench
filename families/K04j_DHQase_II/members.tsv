@@ -1,0 +1,10 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	source	locator
+O30557	PSEAE	NP_253533.1	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: PA4846,GCF_000006765.1,NP_253533.1,COG0757,class=0
+Q9I6P3	PSEAE	NP_248936.1	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: PA0245,GCF_000006765.1,NP_248936.1,COG0757,class=0
+Q48255	HELPY	NP_207828.1	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: HP1038,GCF_000008525.1,NP_207828.1,COG0757,class=0
+P54517	BACSU	NP_390327.1	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: BSU_24470,GCF_000009045.1,NP_390327.1,COG0757,class=0
+P9WPX7	MYCTU	NP_217053.1	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: Rv2537c,GCF_000195955.2,NP_217053.1,COG0757,class=0
+P73367	SYNY3	WP_010872028.1	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: SGL_RS06095,GCF_000009725.1,WP_010872028.1,COG0757,class=0
+Q9RW91	DEIRA	NP_294502.1	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: DR_0778,GCF_000008565.1,NP_294502.1,COG0757,class=0
+Q9WYI4	THEMA	NP_228160.1	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: TM0349,GCF_000008545.1,NP_228160.1,COG0757,class=0
+Q8A3W2	BACTN	NP_811754.1	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: BT_2842,GCF_000011065.1,NP_811754.1,COG0757,class=0

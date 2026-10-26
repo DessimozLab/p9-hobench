@@ -1,0 +1,8 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	source	locator
+Q980I6	SACS2	WP_009990600.1	GHMP-kinase-type archaeal shikimate kinase (COG1685)	diamond_sequence	100.0	0.975	COG2020	cog20_panelK.csv: SSO_RS01530,GCF_000007005.1,WP_009990600.1,COG1685,class=0
+B1L5V6	KORCO	WP_052568331.1	GHMP-kinase-type archaeal shikimate kinase (COG1685)	diamond_sequence	100.0	0.891	COG2020	cog20_panelK.csv: KCR_RS05625,GCF_000019605.1,WP_052568331.1,COG1685,class=0
+A9A232	NITMS	ABX12445.1	GHMP-kinase-type archaeal shikimate kinase (COG1685)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: Nmar_0549,GCA_000018465.1,ABX12445.1,COG1685,class=0
+Q5JFT2	THEKO	WP_011249219.1	GHMP-kinase-type archaeal shikimate kinase (COG1685)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: TK_RS01295,GCF_000009965.1,WP_011249219.1,COG1685,class=0
+Q58835	METJA	WP_010870958.1	GHMP-kinase-type archaeal shikimate kinase (COG1685)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: MJ_RS07705,GCF_000091665.1,WP_010870958.1,COG1685,class=0
+Q8TR06	METAC	AAM04794.1	GHMP-kinase-type archaeal shikimate kinase (COG1685)	diamond_sequence	100.0	0.886	COG2020	cog20_panelK.csv: MA_1378,GCA_000007345.1,AAM04794.1,COG1685,class=0
+Q9HQB0	HALSA	WP_010902901.1	GHMP-kinase-type archaeal shikimate kinase (COG1685)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: VNG_RS04875,GCF_000006805.1,WP_010902901.1,COG1685,class=0

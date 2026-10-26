@@ -1,0 +1,9 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	source	locator
+P0AGD1	ECOLI	NP_416163.1	Cu/Zn superoxide dismutase (COG2032)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: b1646,GCF_000005845.2,NP_416163.1,COG2032,class=0
+O31851	BACSU	NP_389822.1	Cu/Zn superoxide dismutase (COG2032)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: BSU_19400,GCF_000009045.1,NP_389822.1,COG2032,class=0
+P9WGE9	MYCTU	NP_214946.1	Cu/Zn superoxide dismutase (COG2032)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: Rv0432,GCF_000195955.2,NP_214946.1,COG2032,class=0
+Q9RU48	DEIRA	NP_295269.1	Cu/Zn superoxide dismutase (COG2032)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: DR_1546,GCF_000008565.1,NP_295269.1,COG2032,class=0
+Q9RYV4	DEIRA	NP_285525.1	Cu/Zn superoxide dismutase (COG2032)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: DR_A0202,GCF_000008565.1,NP_285525.1,COG2032,class=1
+O66602	AQUAE	NP_213162.1	Cu/Zn superoxide dismutase (COG2032)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: aq_238,GCF_000008625.1,NP_213162.1,COG2032,class=0
+O67149	AQUAE	NP_213712.1	Cu/Zn superoxide dismutase (COG2032)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: aq_1050,GCF_000008625.1,NP_213712.1,COG2032,class=0
+Q8TN71	METAC	AAM05808.1	Cu/Zn superoxide dismutase (COG2032)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: MA_2422,GCA_000007345.1,AAM05808.1,COG2032,class=0

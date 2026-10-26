@@ -1,0 +1,7 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	source	locator
+P62707	ECOLI	NP_415276.1	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: b0755,GCF_000005845.2,NP_415276.1,COG0588,class=0
+P9WIC9	MYCTU	YP_177731.1	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: Rv0489,GCF_000195955.2,YP_177731.1,COG0588,class=0
+O84727	CHLTR	NP_220241.1	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: CT_722,GCF_000008725.1,NP_220241.1,COG0588,class=0
+Q8A765	BACTN	NP_810573.1	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: BT_1660,GCF_000011065.1,NP_810573.1,COG0588,class=0
+Q8A8R2	BACTN	NP_810018.1	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: BT_1105,GCF_000011065.1,NP_810018.1,COG0588,class=0
+Q8TN93	METAC	AAM05786.1	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: MA_2400,GCA_000007345.1,AAM05786.1,COG0588,class=0

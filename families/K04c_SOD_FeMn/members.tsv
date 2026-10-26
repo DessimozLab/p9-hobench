@@ -1,0 +1,20 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	source	locator
+P00448	ECOLI	NP_418344.3	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: b3908,GCF_000005845.2,NP_418344.3,COG0605,class=0
+P0AGD3	ECOLI	NP_416173.1	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: b1656,GCF_000005845.2,NP_416173.1,COG0605,class=0
+P53641	PSEAE	NP_253056.1	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: PA4366,GCF_000006765.1,NP_253056.1,COG0605,class=0
+P53652	PSEAE	NP_253158.1	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: PA4468,GCF_000006765.1,NP_253158.1,COG0605,class=0
+P43312	HELPY	NP_207187.1	Fe/Mn superoxide dismutase (COG0605)	diamond_sequence	98.6	1.000	COG2020	cog20_panelK.csv: HP0389,GCF_000008525.1,NP_207187.1,COG0605,class=0
+O35023	BACSU	NP_389815.1	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: BSU_19330,GCF_000009045.1,NP_389815.1,COG0605,class=1
+P54375	BACSU	NP_390381.3	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: BSU_25020,GCF_000009045.1,NP_390381.3,COG0605,class=0
+P9WGE7	MYCTU	NP_218363.1	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: Rv3846,GCF_000195955.2,NP_218363.1,COG0605,class=0
+O84296	CHLTR	NP_219799.1	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: CT_294,GCF_000008725.1,NP_219799.1,COG0605,class=0
+P77968	SYNY3	WP_010872652.1	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: SGL_RS09370,GCF_000009725.1,WP_010872652.1,COG0605,class=0
+Q9RUV2	DEIRA	NP_295003.1	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: DR_1279,GCF_000008565.1,NP_295003.1,COG0605,class=0
+O67470	AQUAE	NP_214035.1	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: aq_1499,GCF_000008625.1,NP_214035.1,COG0605,class=0
+Q8AA10	BACTN	NP_809568.1	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: BT_0655,GCF_000011065.1,NP_809568.1,COG0605,class=0
+P80857	SACS2	WP_009990609.1	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: SSO_RS01575,GCF_000007005.1,WP_009990609.1,COG0605,class=0
+A9A4D6	NITMS	ABX12625.1	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: Nmar_0729,GCA_000018465.1,ABX12625.1,COG0605,class=0
+A9A591	NITMS	ABX12290.1	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: Nmar_0394,GCA_000018465.1,ABX12290.1,COG0605,class=0
+Q8TQG9	METAC	AAM04987.1	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: MA_1574,GCA_000007345.1,AAM04987.1,COG0605,class=0
+P09224	HALSA	WP_010902966.1	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: VNG_RS05200,GCF_000006805.1,WP_010902966.1,COG0605,class=0
+P09737	HALSA	WP_010902860.1	Fe/Mn superoxide dismutase (COG0605)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: VNG_RS04655,GCF_000006805.1,WP_010902860.1,COG0605,class=0

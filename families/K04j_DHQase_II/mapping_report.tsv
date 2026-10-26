@@ -1,0 +1,12 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_248936.1	PSEAE	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	Q9I6P3	mapped	exact_sequence	cog20_panelK.csv: PA0245,GCF_000006765.1,NP_248936.1,COG0757,class=0
+NP_253533.1	PSEAE	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	O30557	mapped	exact_sequence	cog20_panelK.csv: PA4846,GCF_000006765.1,NP_253533.1,COG0757,class=0
+BRADU:COG0757	BRADU	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)		not_in_panel	genome not in COG 2020 (only other species of the genus); membership unknown	cog-20.org.csv (absent)
+NP_207828.1	HELPY	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	Q48255	mapped	exact_sequence	cog20_panelK.csv: HP1038,GCF_000008525.1,NP_207828.1,COG0757,class=0
+GEOSL:COG0757	GEOSL	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)		not_in_panel	genome not in COG 2020 (only other species of the genus); membership unknown	cog-20.org.csv (absent)
+NP_390327.1	BACSU	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	P54517	mapped	exact_sequence	cog20_panelK.csv: BSU_24470,GCF_000009045.1,NP_390327.1,COG0757,class=0
+NP_217053.1	MYCTU	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	P9WPX7	mapped	exact_sequence	cog20_panelK.csv: Rv2537c,GCF_000195955.2,NP_217053.1,COG0757,class=0
+WP_010872028.1	SYNY3	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	P73367	mapped	exact_sequence	cog20_panelK.csv: SGL_RS06095,GCF_000009725.1,WP_010872028.1,COG0757,class=0
+NP_294502.1	DEIRA	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	Q9RW91	mapped	exact_sequence	cog20_panelK.csv: DR_0778,GCF_000008565.1,NP_294502.1,COG0757,class=0
+NP_228160.1	THEMA	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	Q9WYI4	mapped	exact_sequence	cog20_panelK.csv: TM0349,GCF_000008545.1,NP_228160.1,COG0757,class=0
+NP_811754.1	BACTN	Type II 3-dehydroquinate dehydratase (AroQ, flavodoxin-like fold) (COG0757)	Q8A3W2	mapped	exact_sequence	cog20_panelK.csv: BT_2842,GCF_000011065.1,NP_811754.1,COG0757,class=0

@@ -1,0 +1,8 @@
+query_id	query_len	target_id	target_len	mapping_identity	identity_over_query	query_cov	target_cov	evalue	bitscore	method	status	flags	n_exact_targets	ambiguous_with
+NP_248936.1	148	Q9I6P3	148	100.000	1.000	1.000	1.000	0		exact_sha256	exact		1	
+NP_252390.1	501	Q9HXU0	501	100.000	1.000	1.000	1.000	0		exact_sha256	exact		1	
+NP_253056.1	193	P53641	193	100.000	1.000	1.000	1.000	0		exact_sha256	exact		1	
+NP_253158.1	203	P53652	203	100.000	1.000	1.000	1.000	0		exact_sha256	exact		1	
+NP_253533.1	147	O30557	147	100.000	1.000	1.000	1.000	0		exact_sha256	exact		1	
+NP_253726.1	172	P34003	172	100.000	1.000	1.000	1.000	0		exact_sha256	exact		1	
+NP_253818.1	515	Q9HU53	515	100.000	1.000	1.000	1.000	0		exact_sha256	exact		1	

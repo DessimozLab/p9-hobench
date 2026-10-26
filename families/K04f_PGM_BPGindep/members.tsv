@@ -1,0 +1,12 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	source	locator
+P37689	ECOLI	NP_418069.1	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (iPGM, GpmI) (COG0696)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: b3612,GCF_000005845.2,NP_418069.1,COG0696,class=0
+Q9HU53	PSEAE	NP_253818.1	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (iPGM, GpmI) (COG0696)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: PA5131,GCF_000006765.1,NP_253818.1,COG0696,class=0
+P56196	HELPY	NP_207765.1	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (iPGM, GpmI) (COG0696)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: HP0974,GCF_000008525.1,NP_207765.1,COG0696,class=0
+P39773	BACSU	NP_391271.1	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (iPGM, GpmI) (COG0696)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: BSU_33910,GCF_000009045.1,NP_391271.1,COG0696,class=0
+P74507	SYNY3	WP_010873233.1	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (iPGM, GpmI) (COG0696)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: SGL_RS12450,GCF_000009725.1,WP_010873233.1,COG0696,class=0
+Q8A287	BACTN	NP_812331.1	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (iPGM, GpmI) (COG0696)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: BT_3419,GCF_000011065.1,NP_812331.1,COG0696,class=0
+P59173	LEPIN	NP_710620.2	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (iPGM, GpmI) (COG0696)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: LA_0439,GCF_000092565.1,NP_710620.2,COG0696,class=0
+Q8TIY2	METAC	AAM07357.1	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (iPGM, GpmI) (COG0696)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: MA_4007,GCA_000007345.1,AAM07357.1,COG0696,class=0
+Q8TKN6	METAC	AAM06734.1	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (iPGM, GpmI) (COG0696)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: MA_3365,GCA_000007345.1,AAM06734.1,COG0696,class=0
+Q8TMI6	METAC	AAM06049.1	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (iPGM, GpmI) (COG0696)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: MA_2671,GCA_000007345.1,AAM06049.1,COG0696,class=0
+Q9HNY7	HALSA	WP_010903383.1	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (iPGM, GpmI) (COG0696)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: VNG_RS07320,GCF_000006805.1,WP_010903383.1,COG0696,class=0

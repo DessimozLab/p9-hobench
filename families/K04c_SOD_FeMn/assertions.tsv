@@ -1,0 +1,7 @@
+assertion_id	type	target	tier	source_id	locator	quote
+K04c_A1	decoy	O31851,O66602,O67149,P0AGD1,P9WGE9,Q8TN71,Q9RU48,Q9RYV4	T1	Omelchenko2010	Additional file 2 (Table S2), EC 1.15.1.1 rows (decoys = all members of K04d_SOD_CuZn)	1.15.1.1 Superoxide dismutase P09157 SODF_ECOLI 1ISA FeMn superoxide dismutase SupFam Fe,Mn superoxide dismutase 2447093 Two distinct structural folds
+K04c_A2	distinct_from	K04d_SOD_CuZn at_level=ALL	T1	Omelchenko2010	fulltext.txt Results (final NISE list = Table S2)	The final list of NISE, obtained after a detailed case-by-case analysis, includes 140 confirmed EC nodes where the presence of two or more distinct forms is supported by a comparison of their 3D structures that revealed different folds (Additional file 2, Table S2).
+K04c_A3	distinct_from	K04d_SOD_CuZn at_level=ALL	T1	Omelchenko2010	fulltext.txt Results (bona fide NISE)	Here, we focus on enzyme variants that possess (or could be inferred to possess) different structural folds and therefore appear to be evolutionarily unrelated (bona fide NISE).
+K04c_A4	tag	K04c_SOD_FeMn form	T2	Omelchenko2010	Additional file 2 (Table S2), EC 1.15.1.1, row of this form	1.15.1.1 Superoxide dismutase P09157 SODF_ECOLI 1ISA FeMn superoxide dismutase SupFam Fe,Mn superoxide dismutase
+K04c_A5	tag	K04c_SOD_FeMn members = COG0605	T2	COG2020	raw/cog-20.def.tab, row COG0605	"COG0605	P	Superoxide dismutase	SodA			1AP5"
+K04c_A6	tag	K04c_SOD_FeMn members = COG0605	T2	COG2020	raw/Readme.2020-11-25.txt (cog-20.cog.csv)	Comma-delimited plain text file assigning proteins to COGs

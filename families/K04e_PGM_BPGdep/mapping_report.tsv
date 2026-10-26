@@ -1,0 +1,9 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_415276.1	ECOLI	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)	P62707	mapped	exact_sequence	cog20_panelK.csv: b0755,GCF_000005845.2,NP_415276.1,COG0588,class=0
+BRADU:COG0588	BRADU	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)		not_in_panel	genome not in COG 2020 (only other species of the genus); membership unknown	cog-20.org.csv (absent)
+GEOSL:COG0588	GEOSL	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)		not_in_panel	genome not in COG 2020 (only other species of the genus); membership unknown	cog-20.org.csv (absent)
+YP_177731.1	MYCTU	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)	P9WIC9	mapped	exact_sequence	cog20_panelK.csv: Rv0489,GCF_000195955.2,YP_177731.1,COG0588,class=0
+NP_220241.1	CHLTR	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)	O84727	mapped	exact_sequence	cog20_panelK.csv: CT_722,GCF_000008725.1,NP_220241.1,COG0588,class=0
+NP_810018.1	BACTN	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)	Q8A8R2	mapped	exact_sequence	cog20_panelK.csv: BT_1105,GCF_000011065.1,NP_810018.1,COG0588,class=0
+NP_810573.1	BACTN	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)	Q8A765	mapped	exact_sequence	cog20_panelK.csv: BT_1660,GCF_000011065.1,NP_810573.1,COG0588,class=0
+AAM05786.1	METAC	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)	Q8TN93	mapped	exact_sequence	cog20_panelK.csv: MA_2400,GCA_000007345.1,AAM05786.1,COG0588,class=0

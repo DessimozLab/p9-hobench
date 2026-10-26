@@ -1,0 +1,7 @@
+assertion_id	type	target	tier	source_id	locator	quote
+K04g_A1	decoy	A9A232,B1L5V6,Q58835,Q5JFT2,Q8TR06,Q980I6,Q9HQB0	T1	Omelchenko2010	Additional file 2 (Table S2), EC 2.7.1.71 rows (decoys = all members of K04h_SK_GHMP)	2.7.1.71 Shikimate kinase P0A6E1 AROL_ECOLI 1SHK P-loop containing NTPases SupFam Shikimate kinase 3001029, 9600856, 11369852 Two distinct structural
+K04g_A2	distinct_from	K04h_SK_GHMP at_level=ALL	T1	Omelchenko2010	fulltext.txt Results (final NISE list = Table S2)	The final list of NISE, obtained after a detailed case-by-case analysis, includes 140 confirmed EC nodes where the presence of two or more distinct forms is supported by a comparison of their 3D structures that revealed different folds (Additional file 2, Table S2).
+K04g_A3	distinct_from	K04h_SK_GHMP at_level=ALL	T1	Omelchenko2010	fulltext.txt Results (bona fide NISE)	Here, we focus on enzyme variants that possess (or could be inferred to possess) different structural folds and therefore appear to be evolutionarily unrelated (bona fide NISE).
+K04g_A4	tag	K04g_SK_Ploop form	T2	Omelchenko2010	Additional file 2 (Table S2), EC 2.7.1.71, row of this form	2.7.1.71 Shikimate kinase P0A6E1 AROL_ECOLI 1SHK P-loop containing NTPases SupFam Shikimate kinase
+K04g_A5	tag	K04g_SK_Ploop members = COG0703	T2	COG2020	raw/cog-20.def.tab, row COG0703	"COG0703	E	Shikimate kinase	AroK	Aromatic amino acid biosynthesis		1E6C"
+K04g_A6	tag	K04g_SK_Ploop members = COG0703	T2	COG2020	raw/Readme.2020-11-25.txt (cog-20.cog.csv)	Comma-delimited plain text file assigning proteins to COGs

@@ -1,0 +1,7 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	source	locator
+B1L6H9	KORCO	WP_012309955.1	Class I lysyl-tRNA synthetase (LysRS-I) (COG1384)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: KCR_RS06780,GCF_000019605.1,WP_012309955.1,COG1384,class=0
+A9A261	NITMS	ABX12474.1	Class I lysyl-tRNA synthetase (LysRS-I) (COG1384)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: Nmar_0578,GCA_000018465.1,ABX12474.1,COG1384,class=0
+Q5JHQ3	THEKO	WP_011251190.1	Class I lysyl-tRNA synthetase (LysRS-I) (COG1384)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: TK_RS11270,GCF_000009965.1,WP_011251190.1,COG1384,class=0
+Q57959	METJA	WP_010870043.1	Class I lysyl-tRNA synthetase (LysRS-I) (COG1384)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: MJ_RS02855,GCF_000091665.1,WP_010870043.1,COG1384,class=0
+Q8TTA3	METAC	AAM03978.1	Class I lysyl-tRNA synthetase (LysRS-I) (COG1384)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: MA_0534,GCA_000007345.1,AAM03978.1,COG1384,class=0
+Q9HNN7	HALSA	WP_010903484.1	Class I lysyl-tRNA synthetase (LysRS-I) (COG1384)	exact_sequence	100.0	1.000	COG2020	cog20_panelK.csv: VNG_RS07815,GCF_000006805.1,WP_010903484.1,COG1384,class=0
