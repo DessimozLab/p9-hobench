@@ -330,7 +330,7 @@ def main() -> None:
         ("event", "DHOD_HGT", "T1", "Hall2005", "fulltext.txt Introduction (summary of results)", Q["hgt"]),
         ("event", "DHOD_HGT", "T1", "Hall2005", "fulltext.txt Results heading", Q["donor"]),
         ("event", "DHOD_HGT", "T1", "Hall2005", "fulltext.txt Introduction", Q["donor2"]),
-        ("event", "DHOD_HGT", "T1", "Gojkovic2004", "abstract.txt (Europe PMC abstract)", Q["goj2"]),
+        ("support", "DHOD_HGT", "T3", "Gojkovic2004", "abstract.txt (Europe PMC abstract)", Q["goj2"]),
         ("tag", "DHOD_HGT", "T1", "Gojkovic2004", "abstract.txt (Europe PMC abstract)", Q["goj1"]),
         ("tag", f"type 1A (URA1): {ura1_ids}", "T1", "Hall2005", "fulltext.txt Results 'URA1 gene phylogeny'",
          Q["types"]),

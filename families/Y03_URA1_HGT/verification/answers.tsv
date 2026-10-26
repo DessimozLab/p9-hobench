@@ -1,0 +1,18 @@
+item_id	answer	evidence
+Y03_URA1_HGT.1.001	family 1A (URA1)	Pillars line 4856 (URA1 pillar, YKL216W) column holds this ID
+Y03_URA1_HGT.1.003	family 1A (URA1)	Pillars line 4856 (URA1 pillar, YKL216W) column holds this ID
+Y03_URA1_HGT.1.005	family 1A (URA1)	Pillars line 4856 (URA1 pillar, YKL216W) column holds this ID
+Y03_URA1_HGT.1.007	family 1A (URA1)	Pillars line 4856 (URA1 pillar, YKL216W) column holds this ID
+Y03_URA1_HGT.1.009	family 1A (URA1)	Pillars line 4856 (URA1 pillar, YKL216W) column holds this ID
+Y03_URA1_HGT.1.011	family 1A (URA1)	Pillars line 4856 (URA1 pillar, YKL216W) column holds this ID
+Y03_URA1_HGT.1.013	family 1A (URA1)	Pillars line 4856 (URA1 pillar, YKL216W) column holds this ID
+Y03_URA1_HGT.1.002	family 2 (URA9-type)	ID in Bouwknegt2021 MOESM1 = 404 Ura9 (class II) ortholog FASTA
+Y03_URA1_HGT.1.004	family 2 (URA9-type)	ID in Bouwknegt2021 MOESM1 = 404 Ura9 (class II) ortholog FASTA
+Y03_URA1_HGT.1.008	family 2 (URA9-type)	ID in Bouwknegt2021 MOESM1 = 404 Ura9 (class II) ortholog FASTA
+Y03_URA1_HGT.1.010	family 2 (URA9-type)	ID in Bouwknegt2021 MOESM1 = 404 Ura9 (class II) ortholog FASTA
+Y03_URA1_HGT.1.012	family 2 (URA9-type)	ID in Bouwknegt2021 MOESM1 = 404 Ura9 (class II) ortholog FASTA
+Y03_URA1_HGT.1.014	family 2 (URA9-type)	ID in Bouwknegt2021 MOESM1 = 404 Ura9 (class II) ortholog FASTA
+Y03_URA1_HGT.1.015	family 2 (URA9-type)	ID in Bouwknegt2021 MOESM1 = 404 Ura9 (class II) ortholog FASTA
+Y03_URA1_HGT.1.006	family 2 (URA9-type)	Hall2005 GenPept; sequence ~unrelated to 1A URA1 (BLOSUM score 71-85) but 1284-1563 vs class II
+Y03_URA1_HGT.1.016	family 2 (URA9-type)	Hall2005 GenPept; sequence ~unrelated to 1A URA1 (BLOSUM score 71-85) but 1284-1563 vs class II
+Y03_URA1_HGT.1.017	HGT; recipient=Saccharomycetaceae stem (after C. albicans split); donor=bacteria (Lactobacillales)	Hall2005 Intro/Results: URA1 phylogeny consistent with HGT from lactic acid bacteria
