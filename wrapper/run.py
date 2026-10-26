@@ -66,11 +66,11 @@ def check_tree(panel: C.Panel) -> tuple:
     return root
 
 
-def place_output(src: Path, out_dir: Path, name: Optional[str] = None) -> dict:
-    """Copy a file into out_dir (or out_dir/raw if big); return its record."""
+def place_output(src: Path, out_dir: Path, name: Optional[str] = None, raw: bool = False) -> dict:
+    """Copy a file into out_dir (or out_dir/raw if big or ``raw``; raw/ is gitignored)."""
     name = name or src.name
     size = src.stat().st_size
-    tgt = (out_dir / "raw" / name) if size > BIG_BYTES else out_dir / name
+    tgt = (out_dir / "raw" / name) if (raw or size > BIG_BYTES) else out_dir / name
     tgt.parent.mkdir(parents=True, exist_ok=True)
     shutil.copyfile(src, tgt)
     return {"path": str(tgt.relative_to(out_dir)), "bytes": size, "sha256": C.sha256_file(tgt)}
@@ -229,7 +229,7 @@ def run_orthofinder(panel, args, work: Path, out_dir: Path, man: dict) -> None:
                     work / "of_core.tar.gz")
     outs["of_core.tar.gz"] = place_output(core, out_dir)
     orth = tar_dirs(rd, ["Orthologues"], work / "of_orthologues.tar.gz")
-    outs["of_orthologues.tar.gz"] = place_output(orth, out_dir)
+    outs["of_orthologues.tar.gz"] = place_output(orth, out_dir, raw=True)
     outs["orthofinder.log"] = place_output(work / "orthofinder.log", out_dir)
 
 
@@ -286,7 +286,7 @@ def run_fastoma(panel, args, work: Path, out_dir: Path, man: dict) -> None:
             outs[f + ".gz"] = place_output(gzip_to(out / f, tmp), out_dir)
     for f in ("orthologs.tsv.gz", "species_tree_checked.nwk"):
         if (out / f).exists():
-            outs[f] = place_output(out / f, out_dir)
+            outs[f] = place_output(out / f, out_dir, raw=f.startswith("orthologs"))
     for f in ("trace.txt", "fastoma.log"):
         if (work / f).exists():
             outs[f] = place_output(work / f, out_dir)
