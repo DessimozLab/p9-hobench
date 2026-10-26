@@ -1,0 +1,398 @@
+{
+ "tool": "of_flat",
+ "variant": "dendroblast",
+ "panel": "Y",
+ "mode": "full",
+ "status": "done",
+ "started": "2026-10-26T20:31:22+0100",
+ "host": "dna070",
+ "cpus_available": 48,
+ "threads": 6,
+ "git_commit": "2bbcc702b5650af8fe4a266562bd97b0e3b99928",
+ "work_dir": "/tmp/hobench_work/Y/full/of_flat_dendroblast",
+ "argv": [
+  "/scratch/nromashc/agentic-ai/workspaces/mywork/wrapper/run.py",
+  "--tool",
+  "of_flat",
+  "--panel",
+  "Y",
+  "--mode",
+  "full",
+  "--variant",
+  "dendroblast"
+ ],
+ "species_tree": {
+  "path": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/species_tree.nwk",
+  "sha256": "35f3d1c80fe1ee4fa800fe0bb21e1d14dbdd92f59426b098e329c765c881a8be",
+  "newick": "(SCHPO,(YARLI,(CANAL,((((ERECY,ASHGO)Eremothecium,KLULA)Kluyveromyces_Eremothecium,LACTH)KLE_clade,((TORDC,ZYGRC)ZT_clade,((((NAUDC,NAUCC)Naumovozyma,KAZAF)Naumovozyma_Kazachstania,(YEAST,CANGA)Saccharomyces_Nakaseomyces)PostWGD_crown,(VANPO,TETPH)Vanderwaltozyma_Tetrapisispora)PostWGD)ZT_PostWGD)Saccharomycetaceae)CUG_Saccharomycetaceae)Saccharomycotina)Ascomycota;"
+ },
+ "species": [
+  {
+   "code": "YEAST",
+   "species": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+   "taxid": "559292",
+   "upid": "UP000002311",
+   "mnemonic": "YEAST",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000002311_559292/proteome.fasta",
+   "n_proteins": "6066",
+   "sha256": "c49db6bd876d19153623b9bed283c3f98b1346cf4ff33f79d69cb46189e83f7b",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "post-WGD reference"
+  },
+  {
+   "code": "CANGA",
+   "species": "Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138)",
+   "taxid": "284593",
+   "upid": "UP000002428",
+   "mnemonic": "CANGA",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000002428_284593/proteome.fasta",
+   "n_proteins": "5198",
+   "sha256": "18e7f62dd85e30abdedde880567cc9c00bc71587b45650be5157de26e4bddfd9",
+   "source_set": "RP",
+   "strict_mapping": "0",
+   "why": "post-WGD"
+  },
+  {
+   "code": "NAUCC",
+   "species": "Naumovozyma castellii",
+   "taxid": "27288",
+   "upid": "UP000001640",
+   "mnemonic": "NAUCA",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000001640_27288/proteome.fasta",
+   "n_proteins": "5565",
+   "sha256": "fdf197c7bc143a3fd170b8761ab1ca2c8ca98d0aca6391c9a1c4e4edac80aba5",
+   "source_set": "RP",
+   "strict_mapping": "0",
+   "why": "post-WGD"
+  },
+  {
+   "code": "NAUDC",
+   "species": "Naumovozyma dairenensis (strain ATCC 10597 / BCRC 20456 / CBS 421 / NBRC 0211 / NRRL Y-12639)",
+   "taxid": "1071378",
+   "upid": "UP000000689",
+   "mnemonic": "NAUDC",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000000689_1071378/proteome.fasta",
+   "n_proteins": "5523",
+   "sha256": "ddd26b6a6e833748c0373ac9ee26d6e9efe05e6a77f5e943c3418b06d7b6282e",
+   "source_set": "RP",
+   "strict_mapping": "0",
+   "why": "post-WGD"
+  },
+  {
+   "code": "KAZAF",
+   "species": "Kazachstania africana (strain ATCC 22294 / BCRC 22015 / CBS 2517 / CECT 1963 / NBRC 1671 / NRRL Y-8276)",
+   "taxid": "1071382",
+   "upid": "UP000005220",
+   "mnemonic": "KAZAF",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000005220_1071382/proteome.fasta",
+   "n_proteins": "5354",
+   "sha256": "4f75554dbb7c17408cb7d44b97d9674a5035290b103a3ccfe8911bbcc18c1698",
+   "source_set": "RP",
+   "strict_mapping": "0",
+   "why": "post-WGD"
+  },
+  {
+   "code": "VANPO",
+   "species": "Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17)",
+   "taxid": "436907",
+   "upid": "UP000000267",
+   "mnemonic": "VANPO",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000000267_436907/proteome.fasta",
+   "n_proteins": "5314",
+   "sha256": "ee5233df19eceffbe8e9265b5d862ca459c5f59614429a39d1afed1efd338ae6",
+   "source_set": "RP",
+   "strict_mapping": "0",
+   "why": "post-WGD (early diverging)"
+  },
+  {
+   "code": "TETPH",
+   "species": "Tetrapisispora phaffii (strain ATCC 24235 / CBS 4417 / NBRC 1672 / NRRL Y-8282 / UCD 70-5)",
+   "taxid": "1071381",
+   "upid": "UP000005666",
+   "mnemonic": "TETPH",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000005666_1071381/proteome.fasta",
+   "n_proteins": "5235",
+   "sha256": "a68c57cb84a1890fd892a247daacf787ace7a3b90bf58e99746c11486df2bc84",
+   "source_set": "RP",
+   "strict_mapping": "0",
+   "why": "post-WGD (early diverging)"
+  },
+  {
+   "code": "ZYGRC",
+   "species": "",
+   "taxid": "559307",
+   "upid": "UP000008536",
+   "mnemonic": "ZYGRC",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "rest",
+   "fasta_path": "data/proteomes/UP000008536_559307/proteome.fasta",
+   "n_proteins": "4987",
+   "sha256": "405d12b44951ce4525e0113b6a55e0f253bcadbb353824d8e20d8fbee08beb31",
+   "source_set": "RP",
+   "strict_mapping": "0",
+   "why": "pre-WGD (ZT clade); FTP canonical file not found because REST omits superkingdom; fetched via REST stream (4,987 = geneCount)"
+  },
+  {
+   "code": "TORDC",
+   "species": "Torulaspora delbrueckii (strain ATCC 10662 / CBS 1146 / NBRC 0425 / NCYC 2629 / NRRL Y-866)",
+   "taxid": "1076872",
+   "upid": "UP000005627",
+   "mnemonic": "TORDE",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000005627_1076872/proteome.fasta",
+   "n_proteins": "4974",
+   "sha256": "41510b70e9524f909521ccf10e2fe96dfb28b780a7856ac30fba2e315d5fdd66",
+   "source_set": "RP",
+   "strict_mapping": "0",
+   "why": "pre-WGD (ZT clade)"
+  },
+  {
+   "code": "LACTH",
+   "species": "Lachancea thermotolerans (strain ATCC 56472 / CBS 6340 / NRRL Y-8284)",
+   "taxid": "559295",
+   "upid": "UP000002036",
+   "mnemonic": "LACTC",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000002036_559295/proteome.fasta",
+   "n_proteins": "5093",
+   "sha256": "ba12569bf4cdfff4fe50ce1ce9563e22a2ceee7ba72cb8dfee222095d1cb2665",
+   "source_set": "RP",
+   "strict_mapping": "0",
+   "why": "pre-WGD (Lachancea; unstable node)"
+  },
+  {
+   "code": "KLULA",
+   "species": "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)",
+   "taxid": "284590",
+   "upid": "UP000000598",
+   "mnemonic": "KLULA",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000000598_284590/proteome.fasta",
+   "n_proteins": "5071",
+   "sha256": "496e43947d708e767574fbb6a4c8d72ed3d7876cba65a897d5a1528337ab2495",
+   "source_set": "RP",
+   "strict_mapping": "0",
+   "why": "pre-WGD"
+  },
+  {
+   "code": "ASHGO",
+   "species": "Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)",
+   "taxid": "284811",
+   "upid": "UP000000591",
+   "mnemonic": "EREGS",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000000591_284811/proteome.fasta",
+   "n_proteins": "4758",
+   "sha256": "d557574d6b44d7548b510d340603e9e311bdd906251e8792aed500455c1f1d7f",
+   "source_set": "RP",
+   "strict_mapping": "0",
+   "why": "pre-WGD (reduced genome)"
+  },
+  {
+   "code": "ERECY",
+   "species": "Eremothecium cymbalariae (strain CBS 270.75 / DBVPG 7215 / KCTC 17166 / NRRL Y-17582)",
+   "taxid": "931890",
+   "upid": "UP000006790",
+   "mnemonic": "ERECY",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000006790_931890/proteome.fasta",
+   "n_proteins": "4429",
+   "sha256": "329c0e2f3c6789afb6eebae8253efde003f7180d0e0e69d868203366a9af9fa6",
+   "source_set": "RP",
+   "strict_mapping": "0",
+   "why": "pre-WGD"
+  },
+  {
+   "code": "CANAL",
+   "species": "Candida albicans (strain SC5314 / ATCC MYA-2876)",
+   "taxid": "237561",
+   "upid": "UP000000559",
+   "mnemonic": "CANAL",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000000559_237561/proteome.fasta",
+   "n_proteins": "6040",
+   "sha256": "1d7da6232b6c70c2e1ca7a0ddaec7b406be3dfa1f58f8889f5784ee43de9d692",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "CTG-clade outgroup"
+  },
+  {
+   "code": "YARLI",
+   "species": "Yarrowia lipolytica (strain CLIB 122 / E 150)",
+   "taxid": "284591",
+   "upid": "UP000001300",
+   "mnemonic": "YARLI",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000001300_284591/proteome.fasta",
+   "n_proteins": "6449",
+   "sha256": "aae963947acb8abb74568eda1139a13dbd18bd41cc6e6f39723138c7835b4208",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "distant yeast outgroup"
+  },
+  {
+   "code": "SCHPO",
+   "species": "Schizosaccharomyces pombe (strain 972 / ATCC 24843)",
+   "taxid": "284812",
+   "upid": "UP000002485",
+   "mnemonic": "SCHPO",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000002485_284812/proteome.fasta",
+   "n_proteins": "5129",
+   "sha256": "06c9bd5a09be5c76f9305141a34df73befd435a470e20609ae47df8088b80884",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Taphrinomycotina outgroup"
+  }
+ ],
+ "commands": [],
+ "checks": {
+  "n_genes": 85185,
+  "n_groups": 9962
+ },
+ "outputs": {
+  "hogs.tsv.gz": {
+   "path": "hogs.tsv.gz",
+   "bytes": 519579,
+   "sha256": "166be901f0902e515d4ec423977880e160780f5e2f7851188c79ba048f97700a"
+  }
+ },
+ "tool_versions": {
+  "python": "3.11.18",
+  "orthofinder": [
+   "OrthoFinder:v3.1.5"
+  ],
+  "diamond": "diamond version 2.2.8"
+ },
+ "derived_from": {
+  "run": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/orthofinder_dendroblast",
+  "manifest_sha256": "7fd0d2e07e5bb2cb3718973bbe734580563ba1e3689673c00fc09a69c066ad5c",
+  "of_core_sha256": "898ff8af07f39c2dec1814b63b8f559c024c5ec3bd8ca5ce15286a0c976e93f5"
+ },
+ "inputs": {
+  "YEAST": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/proteomes/YEAST.fa",
+   "sha256": "c49db6bd876d19153623b9bed283c3f98b1346cf4ff33f79d69cb46189e83f7b",
+   "n_seqs": 6066
+  },
+  "CANGA": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/proteomes/CANGA.fa",
+   "sha256": "18e7f62dd85e30abdedde880567cc9c00bc71587b45650be5157de26e4bddfd9",
+   "n_seqs": 5198
+  },
+  "NAUCC": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/proteomes/NAUCC.fa",
+   "sha256": "fdf197c7bc143a3fd170b8761ab1ca2c8ca98d0aca6391c9a1c4e4edac80aba5",
+   "n_seqs": 5565
+  },
+  "NAUDC": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/proteomes/NAUDC.fa",
+   "sha256": "ddd26b6a6e833748c0373ac9ee26d6e9efe05e6a77f5e943c3418b06d7b6282e",
+   "n_seqs": 5523
+  },
+  "KAZAF": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/proteomes/KAZAF.fa",
+   "sha256": "4f75554dbb7c17408cb7d44b97d9674a5035290b103a3ccfe8911bbcc18c1698",
+   "n_seqs": 5354
+  },
+  "VANPO": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/proteomes/VANPO.fa",
+   "sha256": "ee5233df19eceffbe8e9265b5d862ca459c5f59614429a39d1afed1efd338ae6",
+   "n_seqs": 5314
+  },
+  "TETPH": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/proteomes/TETPH.fa",
+   "sha256": "a68c57cb84a1890fd892a247daacf787ace7a3b90bf58e99746c11486df2bc84",
+   "n_seqs": 5235
+  },
+  "ZYGRC": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/proteomes/ZYGRC.fa",
+   "sha256": "405d12b44951ce4525e0113b6a55e0f253bcadbb353824d8e20d8fbee08beb31",
+   "n_seqs": 4987
+  },
+  "TORDC": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/proteomes/TORDC.fa",
+   "sha256": "41510b70e9524f909521ccf10e2fe96dfb28b780a7856ac30fba2e315d5fdd66",
+   "n_seqs": 4974
+  },
+  "LACTH": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/proteomes/LACTH.fa",
+   "sha256": "ba12569bf4cdfff4fe50ce1ce9563e22a2ceee7ba72cb8dfee222095d1cb2665",
+   "n_seqs": 5093
+  },
+  "KLULA": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/proteomes/KLULA.fa",
+   "sha256": "496e43947d708e767574fbb6a4c8d72ed3d7876cba65a897d5a1528337ab2495",
+   "n_seqs": 5071
+  },
+  "ASHGO": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/proteomes/ASHGO.fa",
+   "sha256": "d557574d6b44d7548b510d340603e9e311bdd906251e8792aed500455c1f1d7f",
+   "n_seqs": 4758
+  },
+  "ERECY": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/proteomes/ERECY.fa",
+   "sha256": "329c0e2f3c6789afb6eebae8253efde003f7180d0e0e69d868203366a9af9fa6",
+   "n_seqs": 4429
+  },
+  "CANAL": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/proteomes/CANAL.fa",
+   "sha256": "1d7da6232b6c70c2e1ca7a0ddaec7b406be3dfa1f58f8889f5784ee43de9d692",
+   "n_seqs": 6040
+  },
+  "YARLI": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/proteomes/YARLI.fa",
+   "sha256": "aae963947acb8abb74568eda1139a13dbd18bd41cc6e6f39723138c7835b4208",
+   "n_seqs": 6449
+  },
+  "SCHPO": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/Y/proteomes/SCHPO.fa",
+   "sha256": "06c9bd5a09be5c76f9305141a34df73befd435a470e20609ae47df8088b80884",
+   "n_seqs": 5129
+  }
+ },
+ "timing": {
+  "wall_s": 0,
+  "note": "derived, no inference"
+ },
+ "finished": "2026-10-26T20:31:24+0100"
+}

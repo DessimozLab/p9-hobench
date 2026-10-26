@@ -1,0 +1,562 @@
+{
+ "tool": "orthofinder",
+ "variant": "dendroblast",
+ "panel": "K",
+ "mode": "full",
+ "status": "done",
+ "started": "2026-10-26T20:31:24+0100",
+ "host": "dna070",
+ "cpus_available": 48,
+ "threads": 6,
+ "git_commit": "2bbcc702b5650af8fe4a266562bd97b0e3b99928",
+ "work_dir": "/tmp/hobench_work/K/full/orthofinder_dendroblast",
+ "argv": [
+  "/scratch/nromashc/agentic-ai/workspaces/mywork/wrapper/run.py",
+  "--tool",
+  "orthofinder",
+  "--panel",
+  "K",
+  "--mode",
+  "full",
+  "--variant",
+  "dendroblast",
+  "--threads",
+  "6"
+ ],
+ "species_tree": {
+  "path": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/species_tree.nwk",
+  "sha256": "7c58fe825de5951ee839f92d7d1aa99510265d56d8259b8d356bd43d2ed1c6ad",
+  "newick": "((((DEIRA,THEMA)DST_clade,(SYNY3,(BACSU,MYCTU)Bacillota_Actinomycetota)Terrabacteria_core)Terrabacteria,((LEPIN,(BACTN,CHLTR)FCB_PVC)Spirochaetota_FCB_PVC,(((ECOLI,PSEAE)Gammaproteobacteria,BRADU)Pseudomonadota,(GEOSL,(HELPY,AQUAE)Campylobacterota_Aquificota)Desulfobacterota_Campylobacterota)Proteobacteria_sl)Gracilicutes)Bacteria,((THEKO,(METJA,(METAC,HALSA)Methanomicrobia_Halobacteria)Euryarchaeota_core)Euryarchaeota,(NITMS,(KORCO,SACS2)Crenarchaeota_Korarchaeota)TACK)Archaea)LUCA;"
+ },
+ "species": [
+  {
+   "code": "ECOLI",
+   "species": "Escherichia coli (strain K12)",
+   "taxid": "83333",
+   "upid": "UP000000625",
+   "mnemonic": "ECOLI",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000000625_83333/proteome.fasta",
+   "n_proteins": "4403",
+   "sha256": "1bf1905ce496b6310c4b173ed05e9748be46349937633266eec9dc91fb7c96a1",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Gammaproteobacteria; best-annotated bacterium"
+  },
+  {
+   "code": "PSEAE",
+   "species": "Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)",
+   "taxid": "208964",
+   "upid": "UP000002438",
+   "mnemonic": "PSEAE",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000002438_208964/proteome.fasta",
+   "n_proteins": "5563",
+   "sha256": "9f6b19de911e500b8a550dcb505a8f88c32b1d2e6f7aa8daf4fba4c79d5c5db2",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Gammaproteobacteria (Pseudomonadales); large genome"
+  },
+  {
+   "code": "BRADU",
+   "species": "Bradyrhizobium diazoefficiens (strain JCM 10833 / BCRC 13528 / IAM 13628 / NBRC 14792 / USDA 110)",
+   "taxid": "224911",
+   "upid": "UP000002526",
+   "mnemonic": "BRADU",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000002526_224911/proteome.fasta",
+   "n_proteins": "8253",
+   "sha256": "3d849bd70d3575b274c3791b061f78e4294f20fffe6bf2025f685f9484579717",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Alphaproteobacteria (mitochondrial lineage); large genome"
+  },
+  {
+   "code": "HELPY",
+   "species": "Helicobacter pylori (strain ATCC 700392 / 26695)",
+   "taxid": "85962",
+   "upid": "UP000000429",
+   "mnemonic": "HELPY",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000000429_85962/proteome.fasta",
+   "n_proteins": "1554",
+   "sha256": "3dc1a93b04719eb66121ad2783fd0d2c40b81a6cb898e1c10ac7ef58d5ad72dc",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Epsilonproteobacteria; small genome"
+  },
+  {
+   "code": "GEOSL",
+   "species": "Geobacter sulfurreducens (strain ATCC 51573 / DSM 12127 / PCA)",
+   "taxid": "243231",
+   "upid": "UP000000577",
+   "mnemonic": "GEOSL",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000000577_243231/proteome.fasta",
+   "n_proteins": "3402",
+   "sha256": "7e7a3ff1a98547c2312947adc9b85417ece0a34b2886d2467710aa9a9a23dc51",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Deltaproteobacteria"
+  },
+  {
+   "code": "BACSU",
+   "species": "Bacillus subtilis (strain 168)",
+   "taxid": "224308",
+   "upid": "UP000001570",
+   "mnemonic": "BACSU",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000001570_224308/proteome.fasta",
+   "n_proteins": "4288",
+   "sha256": "cfb49df4a0316335dc99b9cf503255f56722e9ad56b5e50440bbba4054839a40",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Firmicutes (Bacillota)"
+  },
+  {
+   "code": "MYCTU",
+   "species": "Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)",
+   "taxid": "83332",
+   "upid": "UP000001584",
+   "mnemonic": "MYCTU",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000001584_83332/proteome.fasta",
+   "n_proteins": "3997",
+   "sha256": "ad1afd72f6dba47fdcf689ccd172e94997e1da64b099493b6f26519efed495d3",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Actinobacteria"
+  },
+  {
+   "code": "CHLTR",
+   "species": "Chlamydia trachomatis serovar D (strain ATCC VR-885 / DSM 19411 / UW-3/Cx)",
+   "taxid": "272561",
+   "upid": "UP000000431",
+   "mnemonic": "CHLTR",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000000431_272561/proteome.fasta",
+   "n_proteins": "895",
+   "sha256": "86a30d1ed2dd5664db008c7e3cb0c33361df23e08b5b60b41005973b02870168",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Chlamydiae; obligate intracellular, tiny genome"
+  },
+  {
+   "code": "SYNY3",
+   "species": "Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa)",
+   "taxid": "1111708",
+   "upid": "UP000001425",
+   "mnemonic": "SYNY3",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000001425_1111708/proteome.fasta",
+   "n_proteins": "3508",
+   "sha256": "ac031314f78aa1d772584c89e2ad4e5223917835adbb331b61b055c908a3c840",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Cyanobacteria (plastid lineage)"
+  },
+  {
+   "code": "DEIRA",
+   "species": "Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / CCUG 27074 / LMG 4051 / NBRC 15346 / NCIMB 9279 / VKM B-1422 / R1)",
+   "taxid": "243230",
+   "upid": "UP000002524",
+   "mnemonic": "DEIRA",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000002524_243230/proteome.fasta",
+   "n_proteins": "3085",
+   "sha256": "fdd8f3f18144b91909d49e327259f108b3dff2e3b0c5a2b1fdcc98f703926e5d",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Deinococcota"
+  },
+  {
+   "code": "THEMA",
+   "species": "Thermotoga maritima (strain ATCC 43589 / DSM 3109 / JCM 10099 / NBRC 100826 / MSB8)",
+   "taxid": "243274",
+   "upid": "UP000008183",
+   "mnemonic": "THEMA",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000008183_243274/proteome.fasta",
+   "n_proteins": "1852",
+   "sha256": "8d4110c706a14866a87681b1ce9d45ce5c0829d88fd562e44013dc7f5e112c5f",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Thermotogota (extensive HGT with archaea)"
+  },
+  {
+   "code": "AQUAE",
+   "species": "Aquifex aeolicus (strain VF5)",
+   "taxid": "224324",
+   "upid": "UP000000798",
+   "mnemonic": "AQUAE",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000000798_224324/proteome.fasta",
+   "n_proteins": "1553",
+   "sha256": "3fd010f8db11022ef13b17ff0ccfd78ec0ecc3d1ffc1b64620bb68ac2654cb2b",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Aquificota"
+  },
+  {
+   "code": "BACTN",
+   "species": "Bacteroides thetaiotaomicron (strain ATCC 29148 / DSM 2079 / JCM 5827 / CCUG 10774 / NCTC 10582 / VPI-5482 / E50)",
+   "taxid": "226186",
+   "upid": "UP000001414",
+   "mnemonic": "BACTN",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000001414_226186/proteome.fasta",
+   "n_proteins": "4782",
+   "sha256": "9721022765d8ffd9fa9ac94c2dba12b23eb07c01ecd36f3bbe2c3c8365720ef2",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Bacteroidota"
+  },
+  {
+   "code": "LEPIN",
+   "species": "Leptospira interrogans serogroup Icterohaemorrhagiae serovar Lai (strain 56601)",
+   "taxid": "189518",
+   "upid": "UP000001408",
+   "mnemonic": "LEPIN",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000001408_189518/proteome.fasta",
+   "n_proteins": "3676",
+   "sha256": "889db36bb4ed230c3f327b98a7b5ba5a367c78ebeacc5f8181c700ce481d4878",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Spirochaetota"
+  },
+  {
+   "code": "SACS2",
+   "species": "Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2)",
+   "taxid": "273057",
+   "upid": "UP000001974",
+   "mnemonic": "SACS2",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000001974_273057/proteome.fasta",
+   "n_proteins": "2938",
+   "sha256": "8eea1d6323f8fde83baa2458c163469f42c2018f1cfe7f190ffc5fc7d04e15c7",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Crenarchaeota (Sulfolobales)"
+  },
+  {
+   "code": "KORCO",
+   "species": "Korarchaeum cryptofilum (strain OPF8)",
+   "taxid": "374847",
+   "upid": "UP000001686",
+   "mnemonic": "KORCO",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000001686_374847/proteome.fasta",
+   "n_proteins": "1602",
+   "sha256": "1d558b3b7c59c10782c66cbb1565e3caa907fa3e414861fbf6598313dbcf9f5e",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Korarchaeota"
+  },
+  {
+   "code": "NITMS",
+   "species": "Nitrosopumilus maritimus (strain SCM1)",
+   "taxid": "436308",
+   "upid": "UP000000792",
+   "mnemonic": "NITMS",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000000792_436308/proteome.fasta",
+   "n_proteins": "1795",
+   "sha256": "07bda8cb703efd76bfab80d15018d933a4102be7564ba5cd2df9ac99d1ed1ece",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Thaumarchaeota (Nitrososphaeria)"
+  },
+  {
+   "code": "THEKO",
+   "species": "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)",
+   "taxid": "69014",
+   "upid": "UP000000536",
+   "mnemonic": "THEKO",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000000536_69014/proteome.fasta",
+   "n_proteins": "2301",
+   "sha256": "9da1cd4496acd7bad6767ace462376328eade6ea97ba75884914e80392541cf8",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Euryarchaeota (Thermococcales)"
+  },
+  {
+   "code": "METJA",
+   "species": "Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)",
+   "taxid": "243232",
+   "upid": "UP000000805",
+   "mnemonic": "METJA",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000000805_243232/proteome.fasta",
+   "n_proteins": "1786",
+   "sha256": "d016d33e5f10b4c4f71ec81e91a3e151a0a5d7e3d8d7bea640c6df26cbb23a50",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Euryarchaeota (Methanococci)"
+  },
+  {
+   "code": "METAC",
+   "species": "Methanosarcina acetivorans (strain ATCC 35395 / DSM 2834 / JCM 12185 / C2A)",
+   "taxid": "188937",
+   "upid": "UP000002487",
+   "mnemonic": "METAC",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000002487_188937/proteome.fasta",
+   "n_proteins": "4468",
+   "sha256": "03ee04d1e3b1123d83aa672e3c1ce87408a2f4af4f1d2be38e5b33f41769f2ac",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Euryarchaeota (Methanosarcinales; bacterial HGT)"
+  },
+  {
+   "code": "HALSA",
+   "species": "Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1)",
+   "taxid": "64091",
+   "upid": "UP000000554",
+   "mnemonic": "HALSA",
+   "uniprot_release": "2026_03",
+   "proteome_type": "Reference proteome",
+   "fetch_source": "ftp",
+   "fasta_path": "data/proteomes/UP000000554_64091/proteome.fasta",
+   "n_proteins": "2427",
+   "sha256": "f8a989dc980efb165c05719764bf5af19476ef870e3fcfa97bc58e13fc13b241",
+   "source_set": "QfO",
+   "strict_mapping": "0",
+   "why": "Euryarchaeota (Halobacteria; HGT-rich)"
+  }
+ ],
+ "commands": [
+  [
+   "orthofinder",
+   "-f",
+   "/tmp/hobench_work/K/full/orthofinder_dendroblast/in",
+   "-s",
+   "/tmp/hobench_work/K/full/orthofinder_dendroblast/species_tree.nwk",
+   "-t",
+   "6",
+   "-a",
+   "6",
+   "-o",
+   "/tmp/hobench_work/K/full/orthofinder_dendroblast/of_out",
+   "-n",
+   "dendroblast",
+   "-M",
+   "dendroblast"
+  ]
+ ],
+ "checks": {
+  "of_species_tree_matches_input": true,
+  "of_unmatched_nodes": []
+ },
+ "outputs": {
+  "of_level_map.tsv": {
+   "path": "of_level_map.tsv",
+   "bytes": 426,
+   "sha256": "bf1317c34498239161d7df174b71ed8147507726266298929a09e2a5360a2e7e"
+  },
+  "SpeciesTree_rooted_node_labels.txt": {
+   "path": "SpeciesTree_rooted_node_labels.txt",
+   "bytes": 296,
+   "sha256": "97ec5438222006f0f1db07dbb52ddff27d29d5dcc0cd33ee30d529470ee40e99"
+  },
+  "of_core.tar.gz": {
+   "path": "of_core.tar.gz",
+   "bytes": 1955585,
+   "sha256": "bfcfaed90d14693daf6369acc2ea7a75c0d7fa5976115821fd131a35435e8574"
+  },
+  "of_orthologues.tar.gz": {
+   "path": "raw/of_orthologues.tar.gz",
+   "bytes": 4798600,
+   "sha256": "853f01eff7d46e4686dc95b4b60910bca348d3322107cfda3bfd05e69e5a382b"
+  },
+  "orthofinder.log": {
+   "path": "orthofinder.log",
+   "bytes": 6933,
+   "sha256": "f54d9f3db1f79b9b3bd85e90eefbb1f30f71e840b1a9b4f76ed9d2a29c29b882"
+  }
+ },
+ "tool_versions": {
+  "python": "3.11.18",
+  "orthofinder": [
+   "OrthoFinder:v3.1.5"
+  ],
+  "diamond": "diamond version 2.2.8"
+ },
+ "inputs": {
+  "ECOLI": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/ECOLI.fa",
+   "sha256": "1bf1905ce496b6310c4b173ed05e9748be46349937633266eec9dc91fb7c96a1",
+   "n_seqs": 4403
+  },
+  "PSEAE": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/PSEAE.fa",
+   "sha256": "9f6b19de911e500b8a550dcb505a8f88c32b1d2e6f7aa8daf4fba4c79d5c5db2",
+   "n_seqs": 5563
+  },
+  "BRADU": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/BRADU.fa",
+   "sha256": "3d849bd70d3575b274c3791b061f78e4294f20fffe6bf2025f685f9484579717",
+   "n_seqs": 8253
+  },
+  "HELPY": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/HELPY.fa",
+   "sha256": "3dc1a93b04719eb66121ad2783fd0d2c40b81a6cb898e1c10ac7ef58d5ad72dc",
+   "n_seqs": 1554
+  },
+  "GEOSL": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/GEOSL.fa",
+   "sha256": "7e7a3ff1a98547c2312947adc9b85417ece0a34b2886d2467710aa9a9a23dc51",
+   "n_seqs": 3402
+  },
+  "BACSU": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/BACSU.fa",
+   "sha256": "cfb49df4a0316335dc99b9cf503255f56722e9ad56b5e50440bbba4054839a40",
+   "n_seqs": 4288
+  },
+  "MYCTU": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/MYCTU.fa",
+   "sha256": "ad1afd72f6dba47fdcf689ccd172e94997e1da64b099493b6f26519efed495d3",
+   "n_seqs": 3997
+  },
+  "CHLTR": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/CHLTR.fa",
+   "sha256": "86a30d1ed2dd5664db008c7e3cb0c33361df23e08b5b60b41005973b02870168",
+   "n_seqs": 895
+  },
+  "SYNY3": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/SYNY3.fa",
+   "sha256": "ac031314f78aa1d772584c89e2ad4e5223917835adbb331b61b055c908a3c840",
+   "n_seqs": 3508
+  },
+  "DEIRA": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/DEIRA.fa",
+   "sha256": "fdd8f3f18144b91909d49e327259f108b3dff2e3b0c5a2b1fdcc98f703926e5d",
+   "n_seqs": 3085
+  },
+  "THEMA": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/THEMA.fa",
+   "sha256": "8d4110c706a14866a87681b1ce9d45ce5c0829d88fd562e44013dc7f5e112c5f",
+   "n_seqs": 1852
+  },
+  "AQUAE": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/AQUAE.fa",
+   "sha256": "3fd010f8db11022ef13b17ff0ccfd78ec0ecc3d1ffc1b64620bb68ac2654cb2b",
+   "n_seqs": 1553
+  },
+  "BACTN": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/BACTN.fa",
+   "sha256": "9721022765d8ffd9fa9ac94c2dba12b23eb07c01ecd36f3bbe2c3c8365720ef2",
+   "n_seqs": 4782
+  },
+  "LEPIN": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/LEPIN.fa",
+   "sha256": "889db36bb4ed230c3f327b98a7b5ba5a367c78ebeacc5f8181c700ce481d4878",
+   "n_seqs": 3676
+  },
+  "SACS2": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/SACS2.fa",
+   "sha256": "8eea1d6323f8fde83baa2458c163469f42c2018f1cfe7f190ffc5fc7d04e15c7",
+   "n_seqs": 2938
+  },
+  "KORCO": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/KORCO.fa",
+   "sha256": "1d558b3b7c59c10782c66cbb1565e3caa907fa3e414861fbf6598313dbcf9f5e",
+   "n_seqs": 1602
+  },
+  "NITMS": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/NITMS.fa",
+   "sha256": "07bda8cb703efd76bfab80d15018d933a4102be7564ba5cd2df9ac99d1ed1ece",
+   "n_seqs": 1795
+  },
+  "THEKO": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/THEKO.fa",
+   "sha256": "9da1cd4496acd7bad6767ace462376328eade6ea97ba75884914e80392541cf8",
+   "n_seqs": 2301
+  },
+  "METJA": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/METJA.fa",
+   "sha256": "d016d33e5f10b4c4f71ec81e91a3e151a0a5d7e3d8d7bea640c6df26cbb23a50",
+   "n_seqs": 1786
+  },
+  "METAC": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/METAC.fa",
+   "sha256": "03ee04d1e3b1123d83aa672e3c1ce87408a2f4af4f1d2be38e5b33f41769f2ac",
+   "n_seqs": 4468
+  },
+  "HALSA": {
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/K/proteomes/HALSA.fa",
+   "sha256": "f8a989dc980efb165c05719764bf5af19476ef870e3fcfa97bc58e13fc13b241",
+   "n_seqs": 2427
+  }
+ },
+ "timing": {
+  "cmd": [
+   "orthofinder",
+   "-f",
+   "/tmp/hobench_work/K/full/orthofinder_dendroblast/in",
+   "-s",
+   "/tmp/hobench_work/K/full/orthofinder_dendroblast/species_tree.nwk",
+   "-t",
+   "6",
+   "-a",
+   "6",
+   "-o",
+   "/tmp/hobench_work/K/full/orthofinder_dendroblast/of_out",
+   "-n",
+   "dendroblast",
+   "-M",
+   "dendroblast"
+  ],
+  "returncode": 0,
+  "wall_s": 380.1,
+  "log": "/tmp/hobench_work/K/full/orthofinder_dendroblast/orthofinder.log",
+  "user_s": 1712.45,
+  "sys_s": 55.57,
+  "cpu_percent": "465%",
+  "wall_clock": "6:20.11",
+  "max_rss_kb": 320692,
+  "exit_status": 0
+ },
+ "finished": "2026-10-26T20:37:51+0100"
+}

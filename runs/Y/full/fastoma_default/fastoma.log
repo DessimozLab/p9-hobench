@@ -1,0 +1,89 @@
+# nextflow run /scratch/nromashc/agentic-ai/workspaces/mywork/tools/FastOMA/FastOMA.nf -c /tmp/hobench_work/Y/full/fastoma_default/fastoma_run.config --input /tmp/hobench_work/Y/full/fastoma_default/in --output_folder /tmp/hobench_work/Y/full/fastoma_default/fo_out --omamer_db /scratch/nromashc/agentic-ai/workspaces/mywork/data/raw/omamer/LUCA.h5 -work-dir /tmp/hobench_work/Y/full/fastoma_default/nf_work -with-trace /tmp/hobench_work/Y/full/fastoma_default/trace.txt
+WARN: Unrecognized config option 'validation.help.enabled'
+[1mInput options[0m
+  [0;34minput              : [0;32m/tmp/hobench_work/Y/full/fastoma_default/in[0m
+  [0;34mproteome_folder    : [0;32m/tmp/hobench_work/Y/full/fastoma_default/in/proteome[0m
+  [0;34mhogmap_in          : [0;32m/tmp/hobench_work/Y/full/fastoma_default/in/hogmap_in[0m
+  [0;34mspecies_tree       : [0;32m/tmp/hobench_work/Y/full/fastoma_default/in/species_tree.nwk[0m
+  [0;34msplice_folder      : [0;32m/tmp/hobench_work/Y/full/fastoma_default/in/splice[0m
+  [0;34momamer_db          : [0;32m/scratch/nromashc/agentic-ai/workspaces/mywork/data/raw/omamer/LUCA.h5[0m
+
+[1mOutput options[0m
+  [0;34moutput_folder      : [0;32m/tmp/hobench_work/Y/full/fastoma_default/fo_out[0m
+  [0;34mhogmap_folder      : [0;32m/tmp/hobench_work/Y/full/fastoma_default/fo_out/hogmap[0m
+
+[1mOutput control[0m
+  [0;34mmsa_folder         : [0;32m/tmp/hobench_work/Y/full/fastoma_default/fo_out/msa[0m
+  [0;34mtemp_output        : [0;32m/tmp/hobench_work/Y/full/fastoma_default/fo_out/temp_output[0m
+  [0;34mgenetrees_folder   : [0;32m/tmp/hobench_work/Y/full/fastoma_default/fo_out/genetrees[0m
+
+[1mGeneric options[0m
+  [0;34mstatsdir           : [0;32m/tmp/hobench_work/Y/full/fastoma_default/fo_out/stats[0m
+  [0;34mtrace_report_suffix: [0;32m2026-10-26_18-39-44[0m
+
+[1mCore Nextflow options[0m
+  [0;34mrunName            : [0;32mreverent_galileo[0m
+  [0;34mlaunchDir          : [0;32m/tmp/hobench_work/Y/full/fastoma_default[0m
+  [0;34mworkDir            : [0;32m/tmp/hobench_work/Y/full/fastoma_default/nf_work[0m
+  [0;34mprojectDir         : [0;32m/scratch/nromashc/agentic-ai/workspaces/mywork/tools/FastOMA[0m
+  [0;34muserName           : [0;32mnromashc[0m
+  [0;34mprofile            : [0;32mstandard[0m
+  [0;34mconfigFiles        : [0;32m/scratch/nromashc/agentic-ai/workspaces/mywork/tools/FastOMA/nextflow.config, /tmp/hobench_work/Y/full/fastoma_default/fastoma_run.config[0m
+
+!! Only displaying parameters that differ from the pipeline defaults !!
+-[2m----------------------------------------------------[0m-[PIPELINE] dessimozlab/FastOMA 0.5.0 | profile=standard
+[WORKDIR] /tmp/hobench_work/Y/full/fastoma_default/nf_work
+[PROCESS 74/3c3b5d] check_input (1)
+[PROCESS 0b/95ea71] omamer_run (ZYGRC.fa)
+[PROCESS 43/0210e7] omamer_run (TETPH.fa)
+[PROCESS e7/554423] omamer_run (ERECY.fa)
+[PROCESS c7/52908e] omamer_run (CANAL.fa)
+[PROCESS 3d/15e5e9] omamer_run (KAZAF.fa)
+[PROCESS d8/f7670d] omamer_run (NAUCC.fa)
+[PROCESS 95/fa8490] omamer_run (YEAST.fa)
+[PROCESS 90/31f3a3] omamer_run (TORDC.fa)
+[PROCESS b6/ce8f1f] omamer_run (LACTH.fa)
+[PROCESS 7d/6e2539] omamer_run (KLULA.fa)
+[PROCESS 97/a0df16] omamer_run (NAUDC.fa)
+[PROCESS 6d/e47bb5] omamer_run (VANPO.fa)
+[PROCESS 03/4a2a99] omamer_run (ASHGO.fa)
+[PROCESS 91/22c622] omamer_run (CANGA.fa)
+[PROCESS b2/e892d0] omamer_run (YARLI.fa)
+[PROCESS e4/3a4357] omamer_run (SCHPO.fa)
+[PROCESS b6/030301] infer_roothogs
+[PROCESS cf/873863] batch_roothogs
+[PROCESS af/8b8407] hog_big (2)
+[PROCESS 6a/a5f018] hog_rest (3)
+[PROCESS 5c/757eb4] hog_rest (1)
+[PROCESS 1d/f888d9] hog_rest (10)
+[PROCESS 83/2ad664] hog_rest (6)
+[PROCESS 3b/3d22a1] hog_rest (11)
+[PROCESS 89/86726a] hog_rest (5)
+[PROCESS 8f/3cead3] hog_rest (16)
+[PROCESS 94/ea6f50] hog_rest (9)
+[PROCESS d6/888032] hog_rest (14)
+[PROCESS 95/09dd8b] hog_rest (7)
+[PROCESS c5/c05533] hog_rest (2)
+[PROCESS ae/6f059c] hog_rest (15)
+[PROCESS 1d/38c1ce] hog_rest (13)
+[PROCESS f6/66aed7] hog_rest (4)
+[PROCESS 50/b4e081] hog_rest (12)
+[PROCESS 91/12a975] hog_rest (17)
+[PROCESS 5c/a38c1e] hog_rest (8)
+[PROCESS 9c/5d5dc1] hog_rest (20)
+[PROCESS d1/701530] hog_rest (18)
+[PROCESS 4e/8f39eb] hog_rest (19)
+[PROCESS fd/d68f00] hog_rest (21)
+[PROCESS e3/5e53c3] hog_big (3)
+[PROCESS b2/bed2be] hog_big (1)
+[PROCESS 25/b826bd] collect_subhogs (1)
+[PROCESS cd/5221cb] extract_pairwise_ortholog_relations (1)
+[PROCESS 8e/0cecb9] fastoma_report (1)
+
+Completed at    : 2026-10-26T20:04:02.812655846Z
+Duration        : 1h 24m 18s
+Processes       : 46 (success), 0 (failed)
+Output in       : /tmp/hobench_work/Y/full/fastoma_default/fo_out
+Done!
+
+[SUCCESS] completed=46 failed=0 cached=0

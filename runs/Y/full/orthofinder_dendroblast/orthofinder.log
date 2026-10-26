@@ -1,0 +1,91 @@
+# orthofinder -f /tmp/hobench_work/Y/full/orthofinder_dendroblast/in -s /tmp/hobench_work/Y/full/orthofinder_dendroblast/species_tree.nwk -t 6 -a 6 -o /tmp/hobench_work/Y/full/orthofinder_dendroblast/of_out -n dendroblast -M dendroblast
+
+[1;36;49m2026[0m[39;49m-[0m[1;36;49m10[0m[39;49m-[0m[1;36;49m26[0m[39;49m [0m[1;92;49m20:17:38[0m[39;49m : Starting [0m[38;5;136;49mOrthoFinder[0m[39;49m v[0m[38;5;38;49m3.[0m[1;38;5;38;49m1.5[0m
+6 thread(s) for highly parallel tasks (BLAST searches etc.)
+6 thread(s) for OrthoFinder algorithm
+
+[1;38;5;136;49mOrthoFinder[0m[39;49m version [0m[1;38;5;38;49m3.1[0m[38;5;38;49m.[0m[1;38;5;38;49m5[0m[39;49m Copyright [0m[1;39;49m([0m[39;49mC[0m[1;39;49m)[0m[39;49m [0m[1;36;49m2014[0m[39;49m [0m[1;38;5;136;49mDavid Emms[0m
+
+[39;49mResults directory:[0m
+[39;49m    [0m[38;5;36;49m/tmp/hobench_work/Y/full/orthofinder_dendroblast/of_out/Results_dendroblast/[0m
+
+Checking required programs are installed
+========================================
+[39;49mTest can run [0m[32;49m"[0m[38;5;172;49mmcl[0m[32;49m"[0m[39;49m - [0m[1;32;49mok[0m
+[39;49mTest can run [0m[32;49m"[0m[38;5;172;49mfastme[0m[32;49m"[0m[39;49m - [0m[1;32;49mok[0m
+
+Dividing up work for BLAST for parallel processing
+--------------------------------------------------
+Processing... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   16/16 0:00:00
+
+Running diamond all-versus-all
+==============================
+Using 6 thread(s)
+[1;36;49m2026[0m[39;49m-[0m[1;36;49m10[0m[39;49m-[0m[1;36;49m26[0m[39;49m [0m[1;92;49m20:17:40[0m[39;49m : This may take some time[0m[33;49m...[0m
+Processing... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   256/256 0:12:27
+[1;36;49m2026[0m[39;49m-[0m[1;36;49m10[0m[39;49m-[0m[1;36;49m26[0m[39;49m [0m[1;92;49m20:30:07[0m[39;49m : Done all-versus-all sequence search[0m
+
+Running OrthoFinder algorithm
+-----------------------------
+[1;36;49m2026[0m[39;49m-[0m[1;36;49m10[0m[39;49m-[0m[1;36;49m26[0m[39;49m [0m[1;92;49m20:30:07[0m[39;49m : Initial processing of each species[0m
+Processing... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   16/16 0:00:10
+[1;36;49m2026[0m[39;49m-[0m[1;36;49m10[0m[39;49m-[0m[1;36;49m26[0m[39;49m [0m[1;92;49m20:30:18[0m[39;49m : Connected putative homologues[0m
+Processing... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   16/16 0:00:01
+[1;36;49m2026[0m[39;49m-[0m[1;36;49m10[0m[39;49m-[0m[1;36;49m26[0m[39;49m [0m[1;92;49m20:30:34[0m[39;49m : Ran MCL[0m
+
+Writing orthogroups to file
+---------------------------
+[1;36;49m2026[0m[39;49m-[0m[1;36;49m10[0m[39;49m-[0m[1;36;49m26[0m[39;49m [0m[1;92;49m20:30:36[0m[39;49m : Done orthogroups[0m
+
+Analysing Orthogroups
+=====================
+
+Using user-supplied species tree
+--------------------------------
+
+Calculating gene distances
+--------------------------
+[1;36;49m2026[0m[39;49m-[0m[1;36;49m10[0m[39;49m-[0m[1;36;49m26[0m[39;49m [0m[1;92;49m20:30:51[0m[39;49m : Done[0m
+
+Inferring gene trees
+--------------------
+Processing... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   4676/4676 0:00:03
+
+Reconciling gene trees and species tree
+---------------------------------------
+[1;36;49m2026[0m[39;49m-[0m[1;36;49m10[0m[39;49m-[0m[1;36;49m26[0m[39;49m [0m[1;92;49m20:30:55[0m[39;49m : Starting reconciliation and orthologues[0m
+[1;36;49m2026[0m[39;49m-[0m[1;36;49m10[0m[39;49m-[0m[1;36;49m26[0m[39;49m [0m[1;92;49m20:30:55[0m[39;49m : Inferring orthologues from gene trees[0m
+Processing... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   4676/4676 0:00:02
+[1;36;49m2026[0m[39;49m-[0m[1;36;49m10[0m[39;49m-[0m[1;36;49m26[0m[39;49m [0m[1;92;49m20:30:58[0m[39;49m : Done of orthologues[0m
+
+Writing results files
+=====================
+[1;36;49m2026[0m[39;49m-[0m[1;36;49m10[0m[39;49m-[0m[1;36;49m26[0m[39;49m [0m[1;92;49m20:30:59[0m[39;49m : Start writing hierarchical orthogroups files[0m
+[1;36;49m2026[0m[39;49m-[0m[1;36;49m10[0m[39;49m-[0m[1;36;49m26[0m[39;49m [0m[1;92;49m20:30:59[0m[39;49m : Converting MSA/Trees[0m
+[1;36;49m2026[0m[39;49m-[0m[1;36;49m10[0m[39;49m-[0m[1;36;49m26[0m[39;49m [0m[1;92;49m20:31:01[0m[39;49m : Updating MSA/Trees[0m
+[1;36;49m2026[0m[39;49m-[0m[1;36;49m10[0m[39;49m-[0m[1;36;49m26[0m[39;49m [0m[1;92;49m20:31:03[0m[39;49m : Done updating MSA/Trees[0m
+Processing... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   4827/4827 0:00:03
+[1;36;49m2026[0m[39;49m-[0m[1;36;49m10[0m[39;49m-[0m[1;36;49m26[0m[39;49m [0m[1;92;49m20:31:09[0m[39;49m : Done writing files[0m
+
+Summary: 
+ OrthoFinder assigned 80765 genes (94.8% of total) to 5542 orthogroups.         
+ 50% of genes were in orthogroups with 16 or more genes (G50 was 16) and were   
+ contained in the largest 2102 orthogroups (O50 was 2102).                      
+ There were 2616 orthogroups with all species present and 1683 of these         
+ consisted entirely of single-copy genes.                                       
+
+[39;49mResults directory:[0m
+[39;49m    [0m[38;5;36;49m/tmp/hobench_work/Y/full/orthofinder_dendroblast/of_out/Results_dendroblast/[0m
+
+
+[39;49mCITATION:[0m
+[39;49m When publishing work that uses [0m[38;5;136;49mOrthoFinder[0m[39;49m please cite:[0m
+[39;49m Emms D.M., Liu Y., Belcher L., Holmes J. & Kelly S. [0m[1;39;49m([0m[1;36;49m2025[0m[1;39;49m)[0m[39;49m, bioRxiv [0m]8;id=3413807;https://doi.org/10.1101/2025.07.15.664860\[4;38;5;36;49mhttps://doi.org/10.1101/2025.07.15.664860[0m]8;;\
+[39;49m Emms D.M. & Kelly S. [0m[1;39;49m([0m[1;36;49m2019[0m[1;39;49m)[0m[39;49m, Genome Biology [0m[1;92;49m20:238[0m
+
+[39;49m If you use the species tree in your work then please also cite:[0m
+[39;49m Emms D.M. & Kelly S. [0m[1;39;49m([0m[1;36;49m2017[0m[1;39;49m)[0m[39;49m, MBE [0m[1;35;49m34[0m[1;39;49m([0m[1;36;49m12[0m[1;39;49m)[0m[39;49m: [0m[1;36;49m3267[0m[39;49m-[0m[1;36;49m3278[0m
+[39;49m Emms D.M. & Kelly S. [0m[1;39;49m([0m[1;36;49m2018[0m[1;39;49m)[0m[39;49m, bioRxiv [0m]8;id=3413811;https://doi.org/10.1101/267914\[4;38;5;36;49mhttps://doi.org/10.1101/267914[0m]8;;\
+
+[38;5;136;49mOrthoFinder[0m[39;49m finished in [0m[1;32;49m812.[0m[32;49m087011[0m[39;49ms[0m
+

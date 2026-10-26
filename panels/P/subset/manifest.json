@@ -1,0 +1,141 @@
+{
+ "panel": "P",
+ "created": "2026-10-27T00:27:23+0100",
+ "git_commit": "48f1397a9ecc25613a20e9eb79836a1af61ef532",
+ "seed": 20261026,
+ "seeds": {
+  "source": "panels/P/subset_seeds.txt",
+  "sha256": "4d4a8d1c47f15aeab89d95544ef3da23a20eed5b067bb917ec3ff80e0fad3af4",
+  "kind": "accessions",
+  "n": 967,
+  "n_found": 967,
+  "missing": []
+ },
+ "params": {
+  "evalue": 1e-05,
+  "dbsize": 1000000000,
+  "min_cov": 0.5,
+  "domain_cap": 2000,
+  "bg_fraction": 0.05,
+  "cap": 70000
+ },
+ "background_fraction_used": 0.05,
+ "diamond_version": "diamond version 2.2.8",
+ "commands": [
+  "diamond makedb --in /tmp/hobench_work/subset/P/panel.fa -d /tmp/hobench_work/subset/P/panel --threads 12",
+  "diamond blastp -q /tmp/hobench_work/subset/P/seeds.fa -d /tmp/hobench_work/subset/P/panel -o /tmp/hobench_work/subset/P/hits.tsv --more-sensitive --evalue 1e-05 --dbsize 1000000000 -k 0 --threads 12 --outfmt 6 qseqid sseqid pident length qlen slen evalue bitscore qcovhsp scovhsp"
+ ],
+ "sizes": {
+  "panel_total": 417784,
+  "neighbourhood": 4512,
+  "domain_only_hits": 193
+ },
+ "counts": {
+  "background": 20724,
+  "domain_only": 193,
+  "neighbourhood": 4512
+ },
+ "n_subset": 25429,
+ "species": {
+  "CHLRE": {
+   "n": 928,
+   "n_full": 17625,
+   "sha256": "1c5e2fdf519771a684249653f795c01ab6fa0992de856b0c5dc06927aa9c4acc",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/P/proteomes/CHLRE.fa",
+   "source_sha256": "6ca80d03965dfa68d5b057d2a185af8b50b60faeb7efa01f061105fc5c29a9e6"
+  },
+  "OSTLU": {
+   "n": 353,
+   "n_full": 7403,
+   "sha256": "279976fbd0db3c4a5cdece58e13847dc4d03391d6ee072f4e316f1d0440221c2",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/P/proteomes/OSTLU.fa",
+   "source_sha256": "adec640073f9f48a80d984ddb745a4cdd57f09cfe3bb85140c7dbddf82b48bd7"
+  },
+  "KLENI": {
+   "n": 900,
+   "n_full": 16171,
+   "sha256": "d624ad1468c8f9dbd09de606ed3369b0cdc95c3cc766de4681c405719ca8df21",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/P/proteomes/KLENI.fa",
+   "source_sha256": "8e3b44aff87240f1106b198a5035c0544a9b3fadce6f6d2ebd881a8d52f0755e"
+  },
+  "MARPO": {
+   "n": 1124,
+   "n_full": 19277,
+   "sha256": "eab2e0f2b31a91b6050f027fd5d89ba932addf110e98f13e9ea4bffe269d6afb",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/P/proteomes/MARPO.fa",
+   "source_sha256": "97f117b5bd61232d95136f5fb1af3cab502a36017c6851d55ed83cf6aa07a7f5"
+  },
+  "PHYPA": {
+   "n": 1813,
+   "n_full": 31356,
+   "sha256": "236cbe98d76f039b5bab6b787895ca9e8add20fab23cb57dc735be4cd0f69a9d",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/P/proteomes/PHYPA.fa",
+   "source_sha256": "dd0d41f73aaeae457e5ed0b81fea7d0d9aad025bd2408f02e52d7e25b2caa978"
+  },
+  "SELMO": {
+   "n": 1879,
+   "n_full": 33131,
+   "sha256": "afa74663159ba85686e37c083ac13c55e54debdede585923dbf52e6ed083df23",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/P/proteomes/SELMO.fa",
+   "source_sha256": "52f591a0cd1d7c65f852601eafdf9869868bf22f4db2005d38fed8e4b7852288"
+  },
+  "AMBTC": {
+   "n": 1549,
+   "n_full": 27398,
+   "sha256": "35f7869d6f3cbe7962eb3683772bb6cd9458eab4f7c25bb5bde7e53502e535e7",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/P/proteomes/AMBTC.fa",
+   "source_sha256": "3d8e57f6eb2f1be35e3ee7a123a29dd240a07cfefabedc19f4b524349429ea20"
+  },
+  "VITVI": {
+   "n": 1872,
+   "n_full": 29855,
+   "sha256": "f9cff6458c6dc18809d2580ccc66159d179b8c914f5ccb99f1360f1db70799e3",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/P/proteomes/VITVI.fa",
+   "source_sha256": "26435e7be734d1cad57c78e85d6417b9bf096f4858b25aee928c3f72e683ccaf"
+  },
+  "ARATH": {
+   "n": 1734,
+   "n_full": 27496,
+   "sha256": "d438fe74f9502150220954755dc9e1af55eacc9f3e92d8f9754cf97b69113fc7",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/P/proteomes/ARATH.fa",
+   "source_sha256": "0f0c897784ec3022722edf80a562fe021120aa788a65724e0477d26e946eae7d"
+  },
+  "BRARP": {
+   "n": 2705,
+   "n_full": 40808,
+   "sha256": "96dfac4286c6006b0846b4ce27304b414899d923c4514e3ae258ab7298c5aa59",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/P/proteomes/BRARP.fa",
+   "source_sha256": "a04b16461e1eac330526d061998be0be328481869b9d2736c135d570ecad86c2"
+  },
+  "SOYBN": {
+   "n": 3581,
+   "n_full": 55852,
+   "sha256": "e114c3c4c83ab67427906b760d45791f868e8176d96f82ca4062e8e4a09d3b6d",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/P/proteomes/SOYBN.fa",
+   "source_sha256": "a07389ac0ecc03e2a98408eb6f80e30ce42253508e805fd74883aa324f059f22"
+  },
+  "ORYSJ": {
+   "n": 2634,
+   "n_full": 43678,
+   "sha256": "3877b67bb806b4d4b0bff62fb952f00d397058ff5841647199c74f9818af8d86",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/P/proteomes/ORYSJ.fa",
+   "source_sha256": "e797ae12d69c094c403717015ffcdda5a51e8dee3f753af3b6b4d2c94c9e54e1"
+  },
+  "MAIZE": {
+   "n": 2584,
+   "n_full": 39346,
+   "sha256": "43ee994889dba25f26821a30309b687b60227e0dda55469ed1b44d63da795ad1",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/P/proteomes/MAIZE.fa",
+   "source_sha256": "98afe5200bf2a35ce6dde3c09b75bc75ba42e85debd106cb799c166e6b6c5438"
+  },
+  "PHAVU": {
+   "n": 1773,
+   "n_full": 28388,
+   "sha256": "9dff8205dde34d800117396bafb63b9300e6eb3c73b7b6f7fb3da7dfe859e0b7",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/P/proteomes/PHAVU.fa",
+   "source_sha256": "f8802242c1ddfb5d157e9fa53ae2592e5d01af1d5c5806769c8c318207dcebbd"
+  }
+ },
+ "members": "members.tsv",
+ "species_tree_sha256": "a58dca2ccc2cb67e66920b0a0587e11e9c45738494c1cbb80dc8f9dc6e606aec"
+}

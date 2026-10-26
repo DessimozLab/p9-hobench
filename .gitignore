@@ -30,3 +30,4 @@ literature/raw/B1/kinbase/
 literature/raw/B1/ygob/
 literature/raw/B1/hgnc/
 literature/raw/B1/ohnologs/
+panels/*/subset/diamond_hits.tsv.gz
