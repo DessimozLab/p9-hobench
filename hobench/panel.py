@@ -39,6 +39,7 @@ STRICT_SPECIES = {"XENLA", "SALSA", "ONCMY", "ONCKI", "ONCTS", "ONCNE", "SALTR",
                   "THYTH", "CORCL", "CORLA"}
 STRICT_FAMILY_TAGS = {"TAND"}
 MIN_IDENTITY, MIN_IDENTITY_STRICT, MIN_COVERAGE = 98.0, 99.0, 0.80
+MIN_DOMAIN_LEN, MIN_DOMAIN_QCOV = 250, 0.90  # protocol v1.1 domain-only source sequences
 
 
 def sha256_file(path: str | Path, chunk: int = 1 << 20) -> str:
@@ -148,6 +149,15 @@ def validate_members(fam: ReferenceFamily, panel: PanelData) -> ValidationReport
             r.errors.append(f"{P} {g}: sequence mapping without mapping_identity")
         elif ident < thr:
             r.errors.append(f"{P} {g}: mapping identity {ident}% < {thr}% (percent scale)")
+        if "domain" in method.lower():
+            # Protocol v1.1: source gives only a curated domain sequence (e.g. motor domain). Require >=250 aa query,
+            # >=90% query coverage at the identity threshold; target coverage waived (RBH + margin checked by curator).
+            qcov, qlen = _float(row.get("mapping_qcov")), _float(row.get("mapping_qlen"))
+            if qcov is None or qlen is None:
+                r.errors.append(f"{P} {g}: domain mapping needs numeric mapping_qcov and mapping_qlen")
+            elif qlen < MIN_DOMAIN_LEN or qcov < MIN_DOMAIN_QCOV:
+                r.errors.append(f"{P} {g}: domain mapping qlen {qlen} / qcov {qcov:.2f} below {MIN_DOMAIN_LEN} aa / {MIN_DOMAIN_QCOV}")
+            continue
         covs = []
         if row.get("mapping_coverage") not in (None, ""):
             covs.append(_float(row.get("mapping_coverage")))

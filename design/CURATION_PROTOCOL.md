@@ -21,7 +21,7 @@ Read first: DESIGN.md, design/core_spec.md, `hobench/reference.py` docstring (on
 5. **Mapping thresholds** (onto pinned UniProt 2026_03 panel proteomes, `panels/<P>/proteomes/<CODE>.fa`): exact ID mapping
    (UniProt ID mapping / gene name within species with a single hit) or same-species sequence mapping with ≥98% identity
    (≥99% for XENLA, salmonids, TAND-tagged families), ≥80% coverage of both sequences, reciprocal best hit, ≥2-point margin
-   over the runner-up. Never map across species. Unmapped/ambiguous members are listed in `mapping_report.tsv`, never
+   over the runner-up. **v1.1 (PI decision T+5h50):** when a source provides only a curated domain sequence (e.g. kinesin/myosin motor domain), `mapping_method` contains `domain`: require query length ≥250 aa, ≥90% query coverage at the identity threshold, reciprocal best hit and ≥2-point margin; target coverage is waived (columns `mapping_qcov`, `mapping_qlen`). Never map across species. Unmapped/ambiguous members are listed in `mapping_report.tsv`, never
    silently dropped. A family enters the headline set only with ≥80% of in-panel members uniquely mapped.
 6. **Pseudogenes, identical copies, organelle-encoded genes** are excluded and listed in the mapping report.
 7. Keep a `curation_log.md` per family: what was read, decisions, problems, time spent.
