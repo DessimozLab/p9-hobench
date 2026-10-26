@@ -1,0 +1,133 @@
+id: E02_ARF
+name: ARF family GTPases (Arf, Arl, Sar, SRbeta, TRIM23; eukaryote-wide, LECA paralogs)
+panel: E
+collection: E_small_GTPases
+phenomena:
+- DEEP
+- LOSS
+- LSE
+- PROM
+descriptors:
+  n_members: 325
+  n_species: 22
+  mapped_fraction: 0.918
+  n_rows_panel_species: 364
+  status_counts:
+    mapped: 325
+    unmapped: 23
+    excluded: 10
+    ambiguous: 6
+  per_species_mapped_fraction:
+    AMPQE: 0.65
+    ARATH: 1.0
+    BATDJ: 1.0
+    CAPO3: 0.917
+    CHLRE: 1.0
+    CYAME: 1.0
+    DICDI: 1.0
+    DROME: 1.0
+    ENTH1: 1.0
+    GIAIC: 1.0
+    HUMAN: 0.966
+    MNELE: 0.684
+    MONBE: 0.944
+    NAEGR: 0.917
+    NEMVE: 0.739
+    NEUCR: 1.0
+    PLAF7: 1.0
+    THAPS: 0.889
+    THETR: 0.889
+    TRIAD: 0.941
+    TRYB2: 1.0
+    YEAST: 1.0
+  labels:
+    (Arf1): 28
+    (Arf1/6): 1
+    (Arl19): 1
+    (Arl2): 2
+    (ArlRhodo): 1
+    (SarB): 1
+    (unannotated): 24
+    Arf1: 28
+    Arf4: 8
+    Arf6: 11
+    ArfB: 3
+    Arfrp1: 20
+    Arl1: 20
+    Arl10: 2
+    Arl11/14: 2
+    Arl13: 10
+    Arl15: 4
+    Arl16: 8
+    Arl17: 2
+    Arl18: 2
+    Arl19: 5
+    Arl2: 18
+    Arl20: 2
+    Arl3: 17
+    Arl4: 6
+    Arl5: 14
+    Arl6: 11
+    Arl8: 19
+    SRb: 22
+    Sar1: 31
+    TRIM23: 2
+sources:
+- id: Vargova2021
+  doi: 10.1093/gbe/evab157
+  pmid: '34247240'
+  title: A Eukaryote-Wide Perspective on the Diversity and Evolution of the ARF GTPase Protein Family
+  year: 2021
+  journal: Genome Biology and Evolution
+  source_method: phylogeny
+  table: Supplementary table 1
+  locator: Results; Fig. 1, 3, 5; Supplementary table 1, dataset 1
+  quote: The analyses presented above indicate that the LECA possessed at least 15 ARF family genes; Arf1 and 6, Arl1, 2,
+    3, 5, 6, 8, 13, 16, 17, and 18, Arfrp1, Sar1, and SarB.
+  files:
+  - path: literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip
+    sha256: 31e8c197ec54044829681af8620438a699413102998d289299e0cd285ea01718
+  - path: literature/papers/PMID34247240/fulltext.txt
+    sha256: e3e0f2f8e28d8301276559d03086ea245013b5daae821d88795ab301297f0e28
+root_level: Eukaryota
+root_single_copy: false
+complete_species:
+- ARATH
+- BATDJ
+- CAPO3
+- CHLRE
+- CYAME
+- DICDI
+- DROME
+- ENTH1
+- GIAIC
+- HUMAN
+- MONBE
+- NAEGR
+- NEUCR
+- PLAF7
+- TRIAD
+- TRYB2
+- YEAST
+decoys: []
+distinct_from: []
+homologous_families:
+- family: E03_Rab
+  relation: Ras superfamily (homologous small GTPases); deep merges not penalised
+  src: Vargova2021
+tier_summary:
+  D_T1: 5
+  S_T2: 22
+  U_T2: 16
+protocol_version: 1
+notes: 'Journal is Genome Biol Evol (not MBE). Tree: root U; ARF_LECA = multifurcating T1 D over the 16 LECA paralogs (15
+  + SRbeta; interval [Eukaryota, ABOVE_RANGE]). Arf1 child = U ''Arf1_complex'' holding non-holozoan Arf1, a T1 D at Holozoa
+  (holozoan Arf1 vs Arf4, holozoan-stem origin of Arf4) and TRIM23 (derived from Arf1). Vertebrate Arf1/Arf4/Arl4 duplications
+  -> D at the HUMAN leaf branch (only vertebrate in panel E). Labels: only rows marked ''Conclusively annotated'' (*) are
+  grouped (S if <=1 gene per species, multi-copy species under U; T2 rules b/c; no two panel-E species share a WGD, so rule-b
+  pseudo-orthology exception does not apply); non-conclusive and ''unannotated'' rows hang from the root U. Holozoa/Metazoa-specific
+  groups (Arl4, 10, 15, 19, 20), ArfB, Arf1/6, ArlRhodo, Arl11/14, Arl13L stay at root U (source paralog not resolved in the
+  paper). Excluded: pseudogenes, identical copies (paper notes / ''Number of genes'' > 1). Mapping: RefSeq/GenBank -> UniProt
+  ID mapping, else same-species DIAMOND of the paper''s protein (dataset 1) with protocol thresholds. Panel-E eukaryotes absent
+  from the source: ENCCU, ICHMU, PHYRM (source has Phytophthora sojae, Tetrahymena/Paramecium, no microsporidia). Homology:
+  Arf/Sar and Rab are homologous Ras-superfamily small GTPases (no distinct_from with E03_Rab).'

@@ -1,0 +1,32 @@
+{
+  "uniprot_release": "2026_03",
+  "date": "2026-10-26T18:52:57Z",
+  "jobs": [
+    {
+      "from": "RefSeq_Protein",
+      "n_ids": 311,
+      "n_rows": 310,
+      "taxon": null
+    },
+    {
+      "from": "RefSeq_Protein",
+      "n_ids": 28,
+      "n_rows": 5,
+      "taxon": null
+    },
+    {
+      "from": "UniProtKB_AC-ID",
+      "n_ids": 24,
+      "n_rows": 0,
+      "taxon": null
+    },
+    {
+      "from": "EMBL-GenBank-DDBJ_CDS",
+      "n_ids": 2,
+      "n_rows": 2,
+      "taxon": null
+    }
+  ],
+  "n_input": 313,
+  "n_unmapped": 24
+}
