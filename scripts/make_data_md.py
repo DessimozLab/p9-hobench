@@ -35,6 +35,15 @@ TAXDUMP = ROOT / "taxdump.tar.gz"
 TAXDUMP_PROV = ROOT / "data" / "raw" / "ncbi" / "taxdump.provenance.json"
 
 
+# Source URLs of raw files not produced by a fetch script (verified by re-download + sha256 match).
+RAW_SOURCES = {
+    "literature/raw/P_shared/all.locus_brief_info.7.0":
+        "http://rice.uga.edu/pub/data/Eukaryotic_Projects/o_sativa/annotation_dbs/pseudomolecules/version_7.0/all.dir/"
+        "all.locus_brief_info.7.0 (MSU Rice Genome Annotation Project r7; sha256 c8c546993cf583e8...; re-downloaded "
+        "2026-10-27 and matched; public research data, not redistributed)",
+}
+
+
 def hashes(p: Path, algos=("sha256",)) -> dict:
     hs = {a: hashlib.new(a) for a in algos}
     with open(p, "rb") as f:
@@ -201,7 +210,7 @@ def main(argv=None) -> int:
             nf, nb, dg = dir_digest(e)
             tr = git_tracked(e)
             ign = git_ignored(e)
-            src = b2.get(e.name, "") if part.name == "B2" else ""
+            src = b2.get(e.name, "") if part.name == "B2" else RAW_SOURCES.get(str(e.relative_to(ROOT)), "")
             out.append(md_row([str(e.relative_to(ROOT)), nf, f"{nb:,}", f"`{dg[:16]}...`",
                                f"{tr}/{nf} tracked" if tr else ("ignored" if ign else "untracked"),
                                "y" if tr else "n", src]))
