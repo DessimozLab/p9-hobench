@@ -370,3 +370,46 @@ def test_u_root_over_interval_duplication_positive_control(st):
     sc = family_scalars(r)
     assert r["integrity"]["n_refogs"] == 3
     assert sc["merge_accuracy_node"] == 1.0 and sc["membership_f1"] == 1.0 and sc["exact_pct"] == 100.0
+
+
+def test_event_testability(st):
+    """Erratum E1 (YGOB vertical slice). A root TGD with two-gene copies has a cross-copy interval
+    [Euteleostomi, inf] (unbounded) but each copy has a reference-together pair at Teleostei ->
+    testable. all-singletons fails cohesion, one-HOG merges the copies at Teleostei -> both 0.
+    A root duplication with single-gene copies (unbounded, vacuous cohesion) is untestable:
+    excluded from the recovery rate and counted in events_untestable."""
+    wgd = make_family("TGD", "((DANRE_a,ORYLA_a)[&&NHX:ev=S],(DANRE_b,ORYLA_b)[&&NHX:ev=S])[&&NHX:ev=D:lvl=Teleostei];")
+    unt = make_family("UNT", "(DANRE_a2,ORYLA_b2)[&&NHX:ev=D:lvl=Teleostei];")
+    fams = [wgd, unt]
+    ctx = panel_context(fams, st)
+    for pred in (controls.all_singletons(fams), controls.one_big_hog(fams, st)):
+        r = evaluate_family(wgd, st, pred, ctx)
+        assert r["events"][0]["testable"] and r["events_summary"]["n_untestable"] == 0
+        assert r["events_summary"]["recovery_rate_0.5"] == 0.0
+        ru = evaluate_family(unt, st, pred, ctx)
+        assert not ru["events"][0]["testable"]
+        assert ru["events_summary"]["recovery_rate_0.5"] is None and family_scalars(ru)["events_untestable"] == 1
+    pos = controls.reference_prediction(fams, st)
+    assert evaluate_family(wgd, st, pos, ctx)["events_summary"]["recovery_rate_0.5"] == 1.0
+    # a non-root duplication with a bounded interval is testable even with single-gene copies (toy F1)
+    f1 = make_family("F1", "(((HUMAN_1,MOUSE_1)[&&NHX:ev=S],CHICK_1)[&&NHX:ev=S],(DANRE_a,ORYLA_b)[&&NHX:ev=D:lvl=Teleostei])[&&NHX:ev=S];")
+    r1 = evaluate_family(f1, st, controls.all_singletons([f1]), panel_context([f1], st))
+    assert r1["events"][0]["testable"] and r1["events_summary"]["recovery_rate_0.5"] == 0.0
+
+
+def test_flat_tsv_projection(st, fams, fam_by_id, tmp_path):
+    """Erratum E2: a flat root partition (one group = all F2 genes at Euteleostomi) is projected
+    to every level as the group restricted to that clade (no duplications): identical to the
+    species-tree-shaped prediction on F2 -> pooled 11/15 (not the all-singletons 0)."""
+    from hobench.predictions import read_tsv
+    rows = ["level\thog_id\tgene\tspecies"] + [f"Euteleostomi\tOG1\t{g}\t{g.split('_')[0]}"
+                                             for g in fam_by_id["F2"].member_ids]
+    p = tmp_path / "flat.tsv"
+    p.write_text("\n".join(rows) + "\n")
+    pred = read_tsv(p, st, flat=True)
+    assert pred.hog("Mammalia", "HUMAN_x") == pred.hog("Mammalia", "MOUSE_y") == "OG1@Mammalia"
+    assert pred.hog("Teleostei", "DANRE_g") == "OG1@Teleostei" and pred.hog("Euteleostomi", "CHICK_g") == "OG1"
+    r = evaluate_family(fam_by_id["F2"], st, pred, panel_context(fams, st))
+    assert r["pair_merge"]["accuracy_pairs"] == pytest.approx(11 / 15)
+    unflat = evaluate_family(fam_by_id["F2"], st, read_tsv(p, st), panel_context(fams, st))
+    assert unflat["pair_merge"]["accuracy_pairs"] < r["pair_merge"]["accuracy_pairs"]

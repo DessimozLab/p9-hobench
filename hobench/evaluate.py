@@ -181,6 +181,8 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     ap.add_argument("--of-species-tree", help="OrthoFinder SpeciesTree_rooted_node_labels.txt (auto-detected)")
     ap.add_argument("--allow-induced-levels", action="store_true",
                     help="(orthofinder) induce unmatched levels; only for perturbed species-tree runs")
+    ap.add_argument("--flat", action="store_true",
+                    help="(tsv) single flat partition: project each group to every level (no duplications)")
     ap.add_argument("--orthoxml-id-attr", default="protId", help="gene attribute holding the ID (protId)")
     ap.add_argument("--out", required=True, help="output path (.json or .tsv; both are written)")
     ap.add_argument("--n-boot", type=int, default=2000)
@@ -221,6 +223,8 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     elif a.format == "orthofinder":
         kw.update(species_map=_read_map(a.species_map), of_species_tree=a.of_species_tree,
                   allow_induced_levels=a.allow_induced_levels)
+    elif a.flat:
+        kw["flat"] = True
     pred = read_prediction(a.format, a.prediction, st, **kw)
     res = evaluate_panel(st, families, pred, n_boot=a.n_boot, seed=a.seed, per_gene=not a.no_per_gene,
                          with_skill=not a.no_skill)

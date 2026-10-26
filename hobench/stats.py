@@ -113,7 +113,7 @@ def aggregate(results: Sequence[dict], n_boot: int = 2000, seed: int = SEEDS[0])
     ``families``: ordinary families only. ``collections``: per collection, mean over units
     with a unit-bootstrap CI. ``combined``: every collection counts as one item.
     ``per_tag``: combined items carrying the tag. ``events_by_tag``: each item's mean event
-    recovery for events with that tag, then averaged over items (family/collection weight 1).
+    recovery for testable events with that tag, then averaged over items (family/collection weight 1).
     """
     metrics = list(SCALARS) + sorted({k for r in results for k in family_scalars(r) if k.startswith("skill_")})
     its = items(results)
@@ -134,6 +134,8 @@ def aggregate(results: Sequence[dict], n_boot: int = 2000, seed: int = SEEDS[0])
     ev_items: dict[str, dict[str, list]] = defaultdict(lambda: defaultdict(list))
     for k, v in its.items():
         for e in v["events"]:
+            if not e.get("testable", True):
+                continue
             for t in (e["tags"] or ["<untagged>"]):
                 ev_items[t][k].append(e)
     for t, per_item in sorted(ev_items.items()):

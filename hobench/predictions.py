@@ -659,12 +659,21 @@ def read_tsv(
     keep_genes: Optional[set[str]] = None,
     count_species: Optional[set[str]] = None,
     gene_species: Optional[dict[str, str]] = None,
+    flat: bool = False,
 ) -> Prediction:
     """Read the simple baseline format: tab-separated ``level, hog_id, gene[, species]``
     with an optional header line starting with ``level``. HOG ids only need to be unique
-    within a level. The species column is required when ``count_species`` is non-empty."""
+    within a level. The species column is required when ``count_species`` is non-empty.
+
+    ``flat``: the file holds a single flat partition (e.g. OrthoFinder orthogroups at the root,
+    "of_flat"). Each group is projected to every internal level at or below its row level as
+    the group restricted to that clade's species (one HOG per group per level = "no
+    duplications" reading), id ``<hog>@<level>``. Requires ``st`` and species."""
+    if flat and st is None:
+        raise PredictionError("read_tsv(flat=True) needs the species tree")
     norm = make_normalizer(normalize)
-    pred = Prediction(meta={"format": "tsv", "source": str(path)}, count_species=set(count_species or ()))
+    pred = Prediction(meta={"format": "tsv", "source": str(path), "flat": flat},
+                      count_species=set(count_species or ()))
     with (gzip.open(path, "rt", newline="") if str(path).endswith(".gz") else open(path, newline="")) as fh:
         for i, row in enumerate(csv.reader(fh, delimiter="\t")):
             if not row or row[0].startswith("#"):
@@ -680,7 +689,17 @@ def read_tsv(
             if pred.count_species and species is None:
                 raise PredictionError(f"{path}:{i + 1}: species column required (complete-species counting)")
             kept = _keep(keep_genes, gene)
-            pred.add(level, hog, kept, strict=True, species=species)
+            if flat:
+                if not species or species not in st.index:
+                    raise PredictionError(f"{path}:{i + 1}: flat projection needs a known species for {gene!r}")
+                if not st.anc[st.idx(level), st.idx(species)]:
+                    raise PredictionError(f"{path}:{i + 1}: species {species!r} is not below level {level!r}")
+                for lv in st.ancestors(species, include_self=False):
+                    pred.add(lv, hog if lv == level else f"{hog}@{lv}", kept, strict=True, species=species)
+                    if lv == level:
+                        break
+            else:
+                pred.add(level, hog, kept, strict=True, species=species)
             if kept is not None and species:
                 pred.gene_species[kept] = species
     return pred

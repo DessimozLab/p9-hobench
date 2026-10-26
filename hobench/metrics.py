@@ -550,6 +550,11 @@ def evaluate_family(
             "modal_pred_merge": _level_name(st, modal),
             "misplacement": ("+inf" if mis > 0 else "-inf") if math.isinf(mis) else int(mis),
         }
+        # testable (reference-only rule): the merge interval is bounded above within the family
+        # range, or some copy has >=1 reference-together pair at the duplication level. Otherwise
+        # never-merging / all-singletons trivially "recovers" it.
+        bounded = ev.merge_hi >= 0 and bool(st.anc[rf.family_level, ev.merge_hi])
+        d["testable"] = bool(bounded or any(x is not None for x in cohesions))
         d["merge_side"] = float((((hiv < 0) | ((pv >= 0) & st.anc[_safe(hiv), _safe(pv)]))).mean())
         # two-sided: cross-copy pairs inside the merge interval (apart below it AND merged by its
         # upper bound) and every copy cohesive at the duplication level
@@ -557,10 +562,12 @@ def evaluate_family(
             d[f"recovered_{t}"] = bool(d["frac_correct"] >= t and min_coh >= t)
         events.append(d)
     res["events"] = events
-    res["events_summary"] = {"n_events": len(events),
-                             "mean_frac_correct": _mean(e["frac_correct"] for e in events)}
-    for t in thetas:
-        res["events_summary"][f"recovery_rate_{t}"] = _mean(e[f"recovered_{t}"] for e in events)
+    testable = [e for e in events if e["testable"]]
+    res["events_summary"] = {"n_events": len(events), "n_testable": len(testable),
+                             "n_untestable": len(events) - len(testable),
+                             "mean_frac_correct": _mean(e["frac_correct"] for e in testable)}
+    for t in thetas:   # recovery over testable events only
+        res["events_summary"][f"recovery_rate_{t}"] = _mean(e[f"recovered_{t}"] for e in testable)
 
     # ---- spurious duplications inside pure-speciation reference clades (B3 / ILS signal)
     res["spurious_duplications"] = _spurious_duplications(rf, codes)
@@ -828,6 +835,7 @@ SCALARS = {
     "wf_ortholog_f1": ("within_family_orthology", "ortholog", "f1"),
     "wf_paralog_f1": ("within_family_orthology", "paralog", "f1"),
     "event_mean_frac_correct": ("events_summary", "mean_frac_correct"),
+    "events_untestable": ("events_summary", "n_untestable"),
     "spurious_dup_rate": ("spurious_duplications", "rate"),
     "membership_precision": ("integrity", "membership_precision"),
     "membership_recall": ("integrity", "membership_recall"),
