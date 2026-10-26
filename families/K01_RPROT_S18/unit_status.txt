@@ -1,0 +1,3 @@
+excluded_multicopy
+MYCTU: 2 COG 2020 members
+MYCTU: Yutin Table S3 count 2 (2nd paralog)

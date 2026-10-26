@@ -1,0 +1,19 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_417761.1	ECOLI	L30 (COG1841)	P0AG51	mapped	exact_sequence	cog20_panelK.csv: b3302,GCF_000005845.2,NP_417761.1,COG1841,class=0
+NP_252935.1	PSEAE	L30 (COG1841)	Q9HWF3	mapped	exact_sequence	cog20_panelK.csv: PA4245,GCF_000006765.1,NP_252935.1,COG1841,class=0
+Bradyrhizobium_japonicum:L30	BRADU	L30 (COG1841)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'L30'
+Geobacter_sulfurreducens:L30	GEOSL	L30 (COG1841)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'L30'
+NP_388015.1	BACSU	L30 (COG1841)	P19947	mapped	exact_sequence	cog20_panelK.csv: BSU_01340,GCF_000009045.1,NP_388015.1,COG1841,class=0
+NP_215236.1	MYCTU	L30 (COG1841)	P9WHA3	mapped	exact_sequence	cog20_panelK.csv: Rv0722,GCF_000195955.2,NP_215236.1,COG1841,class=0
+NP_295837.1	DEIRA	L30 (COG1841)	Q9RSL0	mapped	exact_sequence	cog20_panelK.csv: DR_2114,GCF_000008565.1,NP_295837.1,COG1841,class=0
+NP_229282.1	THEMA	L30 (COG1841)	Q9X1J1	mapped	exact_sequence	cog20_panelK.csv: TM1482,GCF_000008545.1,NP_229282.1,COG1841,class=1
+NP_214128.1	AQUAE	L30 (COG1841)	O67562	mapped	exact_sequence	cog20_panelK.csv: aq_1644,GCF_000008625.1,NP_214128.1,COG1841,class=1
+NP_811621.1	BACTN	L30 (COG1841)	Q8A494	mapped	exact_sequence	cog20_panelK.csv: BT_2709,GCF_000011065.1,NP_811621.1,COG1841,class=0
+NP_710938.1	LEPIN	L30 (COG1841)	Q9XD18	mapped	exact_sequence	cog20_panelK.csv: LA_0757,GCF_000092565.1,NP_710938.1,COG1841,class=0
+WP_009991253.1	SACS2	L30 (COG1841)	Q9UX86	mapped	exact_sequence	cog20_panelK.csv: SSO_RS03490,GCF_000007005.1,WP_009991253.1,COG1841,class=1
+WP_052568632.1	KORCO	L30 (COG1841)	B1L787	mapped	diamond_sequence	cog20_panelK.csv: KCR_RS08220,GCF_000019605.1,WP_052568632.1,COG1841,class=1
+ABX12296.1	NITMS	L30 (COG1841)	A9A597	mapped	exact_sequence	cog20_panelK.csv: Nmar_0400,GCA_000018465.1,ABX12296.1,COG1841,class=1
+WP_011250471.1	THEKO	L30 (COG1841)	Q5JJG9	mapped	exact_sequence	cog20_panelK.csv: TK_RS07590,GCF_000009965.1,WP_011250471.1,COG1841,class=1
+WP_010869977.1	METJA	L30 (COG1841)	P54046	mapped	exact_sequence	cog20_panelK.csv: MJ_RS02515,GCF_000091665.1,WP_010869977.1,COG1841,class=3
+AAM04518.1	METAC	L30 (COG1841)	Q8TRS6	mapped	exact_sequence	cog20_panelK.csv: MA_1093,GCA_000007345.1,AAM04518.1,COG1841,class=1
+WP_010903255.1	HALSA	L30 (COG1841)	Q9HPB3	mapped	exact_sequence	cog20_panelK.csv: VNG_RS06660,GCF_000006805.1,WP_010903255.1,COG1841,class=1

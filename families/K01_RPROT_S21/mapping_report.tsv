@@ -1,0 +1,12 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_417537.1	ECOLI	S21 (COG0828)	P68679	mapped	exact_sequence	cog20_panelK.csv: b3065,GCF_000005845.2,NP_417537.1,COG0828,class=0
+NP_249270.1	PSEAE	S21 (COG0828)	Q9I5V8	mapped	exact_sequence	cog20_panelK.csv: PA0579,GCF_000006765.1,NP_249270.1,COG0828,class=0
+Bradyrhizobium_japonicum:S21	BRADU	S21 (COG0828)		unmapped	present in Yutin 2012 Table S3 (count 2) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'S21'; pone.0036972.s003.xls sheet '2nd_paralogs only_bact' row 473 col 'S21'
+NP_207357.1	HELPY	S21 (COG0828)	P56028	mapped	exact_sequence	cog20_panelK.csv: HP0562,GCF_000008525.1,NP_207357.1,COG0828,class=0
+Geobacter_sulfurreducens:S21	GEOSL	S21 (COG0828)		unmapped	present in Yutin 2012 Table S3 (count 2) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'S21'; pone.0036972.s003.xls sheet '2nd_paralogs only_bact' row 674 col 'S21'
+NP_390419.1	BACSU	S21 (COG0828)	P21478	mapped	exact_sequence	cog20_panelK.csv: BSU_25410,GCF_000009045.1,NP_390419.1,COG0828,class=0
+NP_219849.3	CHLTR	S21 (COG0828)	P66516	mapped	exact_sequence	cog20_panelK.csv: CT_342,GCF_000008725.1,NP_219849.3,COG0828,class=3
+WP_010873397.1	SYNY3	S21 (COG0828)	P48949	mapped	exact_sequence	cog20_panelK.csv: SGL_RS19005,GCF_000009725.1,WP_010873397.1,COG0828,class=0
+NP_213589.1	AQUAE	S21 (COG0828)	O67028	mapped	exact_sequence	cog20_panelK.csv: aq_867a,GCF_000008625.1,NP_213589.1,COG0828,class=0
+WP_002558090.1	BACTN	S21 (COG0828)	E7MCA7	mapped	exact_sequence	cog20_panelK.csv: WP_002558090.1,GCF_000011065.1,WP_002558090.1,COG0828,class=0
+NP_712410.2	LEPIN	S21 (COG0828)	Q8F418	mapped	exact_sequence	cog20_panelK.csv: LA_2229,GCF_000092565.1,NP_712410.2,COG0828,class=3

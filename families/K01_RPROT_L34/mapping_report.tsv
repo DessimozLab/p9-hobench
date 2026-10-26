@@ -1,0 +1,15 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_418158.1	ECOLI	L34 (COG0230)	P0A7P5	mapped	exact_sequence	cog20_panelK.csv: b3703,GCF_000005845.2,NP_418158.1,COG0230,class=0
+NP_254257.1	PSEAE	L34 (COG0230)	P29436	mapped	exact_sequence	cog20_panelK.csv: PA5570,GCF_000006765.1,NP_254257.1,COG0230,class=0
+Bradyrhizobium_japonicum:L34	BRADU	L34 (COG0230)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'L34'
+NP_208238.1	HELPY	L34 (COG0230)	P66246	mapped	exact_sequence	cog20_panelK.csv: HP1447,GCF_000008525.1,NP_208238.1,COG0230,class=0
+Geobacter_sulfurreducens:L34	GEOSL	L34 (COG0230)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'L34'
+NP_391986.1	BACSU	L34 (COG0230)	P05647	mapped	exact_sequence	cog20_panelK.csv: BSU_41060,GCF_000009045.1,NP_391986.1,COG0230,class=0
+NP_218441.1	MYCTU	L34 (COG0230)	P9WH93	mapped	exact_sequence	cog20_panelK.csv: Rv3924c,GCF_000195955.2,NP_218441.1,COG0230,class=0
+NP_220304.1	CHLTR	L34 (COG0230)	O84790	mapped	exact_sequence	cog20_panelK.csv: CT_785,GCF_000008725.1,NP_220304.1,COG0230,class=0
+WP_010872863.1	SYNY3	L34 (COG0230)	Q55004	mapped	exact_sequence	cog20_panelK.csv: SGL_RS18890,GCF_000009725.1,WP_010872863.1,COG0230,class=0
+NP_295875.1	DEIRA	L34 (COG0230)	Q9RSH2	mapped	exact_sequence	cog20_panelK.csv: DR_2152,GCF_000008565.1,NP_295875.1,COG0230,class=0
+NP_229263.1	THEMA	L34 (COG0230)	P58288	mapped	exact_sequence	cog20_panelK.csv: TM1463a,GCF_000008545.1,NP_229263.1,COG0230,class=0
+WP_010880061.1	AQUAE	L34 (COG0230)	O66563	mapped	exact_sequence	cog20_panelK.csv: WP_010880061.1,GCF_000008625.1,WP_010880061.1,COG0230,class=0
+NP_812621.1	BACTN	L34 (COG0230)	Q8A1F6	mapped	exact_sequence	cog20_panelK.csv: BT_3710,GCF_000011065.1,NP_812621.1,COG0230,class=0
+NP_710356.1	LEPIN	L34 (COG0230)	Q8F9L6	mapped	exact_sequence	cog20_panelK.csv: LA_0175,GCF_000092565.1,NP_710356.1,COG0230,class=0

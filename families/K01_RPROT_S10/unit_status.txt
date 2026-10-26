@@ -1,0 +1,3 @@
+excluded_multicopy
+HALSA: 2 COG 2020 members
+HALSA: Yutin Table S3 count 2 (2nd paralog)

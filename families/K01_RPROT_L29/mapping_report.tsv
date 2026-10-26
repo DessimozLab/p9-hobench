@@ -1,0 +1,22 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_417771.1	ECOLI	L29 (COG0255)	P0A7M6	mapped	exact_sequence	cog20_panelK.csv: b3312,GCF_000005845.2,NP_417771.1,COG0255,class=0
+NP_252945.1	PSEAE	L29 (COG0255)	Q9HWE3	mapped	exact_sequence	cog20_panelK.csv: PA4255,GCF_000006765.1,NP_252945.1,COG0255,class=0
+Bradyrhizobium_japonicum:L29	BRADU	L29 (COG0255)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'L29'
+NP_208103.1	HELPY	L29 (COG0255)	P56052	mapped	exact_sequence	cog20_panelK.csv: HP1311,GCF_000008525.1,NP_208103.1,COG0255,class=0
+Geobacter_sulfurreducens:L29	GEOSL	L29 (COG0255)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'L29'
+NP_388005.1	BACSU	L29 (COG0255)	P12873	mapped	exact_sequence	cog20_panelK.csv: BSU_01240,GCF_000009045.1,NP_388005.1,COG0255,class=0
+NP_215223.1	MYCTU	L29 (COG0255)	P9WHA7	mapped	exact_sequence	cog20_panelK.csv: Rv0709,GCF_000195955.2,NP_215223.1,COG0255,class=0
+NP_220035.1	CHLTR	L29 (COG0255)	P0CD87	mapped	exact_sequence	cog20_panelK.csv: CT_520,GCF_000008725.1,NP_220035.1,COG0255,class=0
+WP_010871971.1	SYNY3	L29 (COG0255)	P73312	mapped	exact_sequence	cog20_panelK.csv: SGL_RS05810,GCF_000009725.1,WP_010871971.1,COG0255,class=0
+NP_294042.1	DEIRA	L29 (COG0255)	Q9RXJ4	mapped	exact_sequence	cog20_panelK.csv: DR_0319,GCF_000008565.1,NP_294042.1,COG0255,class=0
+NP_229292.1	THEMA	L29 (COG0255)	P38514	mapped	exact_sequence	cog20_panelK.csv: TM1492,GCF_000008545.1,NP_229292.1,COG0255,class=0
+NP_212997.1	AQUAE	L29 (COG0255)	P56613	mapped	exact_sequence	cog20_panelK.csv: aq_018a,GCF_000008625.1,NP_212997.1,COG0255,class=3
+Bacteroides_thetaiotaomicron_VPI-5482:L29	BACTN	L29 (COG0255)		unmapped	present in Yutin 2012 Table S3 (count 1) but no COG0255 member in COG 2020	pone.0036972.s003.xls sheet 'main_set_only_bact' row 105 col 'L29'
+NP_710928.1	LEPIN	L29 (COG0255)	Q9XD28	mapped	exact_sequence	cog20_panelK.csv: LA_0747,GCF_000092565.1,NP_710928.1,COG0255,class=1
+WP_009991274.1	SACS2	L29 (COG0255)	P58084	mapped	exact_sequence	cog20_panelK.csv: SSO_RS03560,GCF_000007005.1,WP_009991274.1,COG0255,class=0
+Candidatus_Korarchaeum_cryptofilum_OPF8:L29	KORCO	L29 (COG0255)		unmapped	present in Yutin 2012 Table S3 (count 1) but no COG0255 member in COG 2020	pone.0036972.s003.xls sheet 'main_set_only_arch' row 9 col 'L29p'
+Nitrosopumilus_maritimus_SCM1:L29	NITMS	L29 (COG0255)		unmapped	present in Yutin 2012 Table S3 (count 1) but no COG0255 member in COG 2020	pone.0036972.s003.xls sheet 'main_set_only_arch' row 59 col 'L29p'
+WP_011250486.1	THEKO	L29 (COG0255)	Q5JDH6	mapped	exact_sequence	cog20_panelK.csv: TK_RS07665,GCF_000009965.1,WP_011250486.1,COG0255,class=0
+WP_010869962.1	METJA	L29 (COG0255)	P54035	mapped	exact_sequence	cog20_panelK.csv: MJ_RS02440,GCF_000091665.1,WP_010869962.1,COG0255,class=0
+AAM04504.1	METAC	L29 (COG0255)	Q8TRU0	mapped	exact_sequence	cog20_panelK.csv: MA_1079,GCA_000007345.1,AAM04504.1,COG0255,class=0
+WP_010903241.1	HALSA	L29 (COG0255)	P22665	mapped	exact_sequence	cog20_panelK.csv: VNG_RS06590,GCF_000006805.1,WP_010903241.1,COG0255,class=0

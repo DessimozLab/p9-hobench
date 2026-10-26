@@ -1,0 +1,17 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_418093.1	ECOLI	L33 (COG0267)	P0A7N9	mapped	exact_sequence	cog20_panelK.csv: b3636,GCF_000005845.2,NP_418093.1,COG0267,class=0
+NP_254002.1	PSEAE	L33 (COG0267)	Q9HTN9	mapped	exact_sequence	cog20_panelK.csv: PA5315,GCF_000006765.1,NP_254002.1,COG0267,class=0
+Bradyrhizobium_japonicum:L33	BRADU	L33 (COG0267)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'L33'
+NP_207996.1	HELPY	L33 (COG0267)	P66217	mapped	exact_sequence	cog20_panelK.csv: HP1204,GCF_000008525.1,NP_207996.1,COG0267,class=0
+Geobacter_sulfurreducens:L33	GEOSL	L33 (COG0267)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'L33'
+NP_387980.1	BACSU	L33 (COG0267)	Q06798	mapped	exact_sequence	cog20_panelK.csv: BSU_00990,GCF_000009045.1,NP_387980.1,COG0267,class=0
+NP_570908.2	BACSU	L33 (COG0267)	P56849	mapped	exact_sequence	cog20_panelK.csv: BSU_24900,GCF_000009045.1,NP_570908.2,COG0267,class=0
+YP_177630.1	MYCTU	L33 (COG0267)	P9WH95	mapped	exact_sequence	cog20_panelK.csv: Rv0634B,GCF_000195955.2,YP_177630.1,COG0267,class=0
+YP_177856.1	MYCTU	L33 (COG0267)	P9WH97	mapped	exact_sequence	cog20_panelK.csv: Rv2057c,GCF_000195955.2,YP_177856.1,COG0267,class=0
+NP_219653.1	CHLTR	L33 (COG0267)	O84152	mapped	exact_sequence	cog20_panelK.csv: CT_150,GCF_000008725.1,NP_219653.1,COG0267,class=0
+WP_010873736.1	SYNY3	L33 (COG0267)	P48958	mapped	exact_sequence	cog20_panelK.csv: SGL_RS19055,GCF_000009725.1,WP_010873736.1,COG0267,class=0
+NP_295772.2	DEIRA	L33 (COG0267)	Q9RSS4	mapped	exact_sequence	cog20_panelK.csv: DR_2049,GCF_000008565.1,NP_295772.2,COG0267,class=0
+NP_228261.1	THEMA	L33 (COG0267)	P35873	mapped	exact_sequence	cog20_panelK.csv: TM0451,GCF_000008545.1,NP_228261.1,COG0267,class=0
+NP_214324.1	AQUAE	L33 (COG0267)	O67756	mapped	exact_sequence	cog20_panelK.csv: aq_1930a,GCF_000008625.1,NP_214324.1,COG0267,class=0
+NP_809828.1	BACTN	L33 (COG0267)	Q8A9A0	mapped	exact_sequence	cog20_panelK.csv: BT_0915,GCF_000011065.1,NP_809828.1,COG0267,class=0
+YP_003580117.1	LEPIN	L33 (COG0267)	D4YW49	mapped	exact_sequence	cog20_panelK.csv: LB_222a,GCF_000092565.1,YP_003580117.1,COG0267,class=0

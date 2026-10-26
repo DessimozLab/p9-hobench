@@ -1,0 +1,2 @@
+excluded_by_curator
+Table S1 assigns COG2058 (archaeal L12E/P1/P2 family) to bacterial L7/L12; in COG 2020 COG2058 has no bacterial member in the panel genomes (Yutin Table S3 lists L7L12 in every bacterium), so the COG cannot serve as the membership source for this universal unit

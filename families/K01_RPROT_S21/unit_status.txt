@@ -1,0 +1,3 @@
+excluded_multicopy
+BRADU: Yutin Table S3 count 2 (2nd paralog)
+GEOSL: Yutin Table S3 count 2 (2nd paralog)

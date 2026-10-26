@@ -1,0 +1,15 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_415607.1	ECOLI	L32 (COG0333)	P0A7N4	mapped	exact_sequence	cog20_panelK.csv: b1089,GCF_000005845.2,NP_415607.1,COG0333,class=0
+NP_251660.1	PSEAE	L32 (COG0333)	Q9HZN4	mapped	exact_sequence	cog20_panelK.csv: PA2970,GCF_000006765.1,NP_251660.1,COG0333,class=0
+Bradyrhizobium_japonicum:L32	BRADU	L32 (COG0333)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'L32'
+NP_206999.1	HELPY	L32 (COG0333)	P56054	mapped	exact_sequence	cog20_panelK.csv: HP0200,GCF_000008525.1,NP_206999.1,COG0333,class=0
+Geobacter_sulfurreducens:L32	GEOSL	L32 (COG0333)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'L32'
+NP_389391.1	BACSU	L32 (COG0333)	O34687	mapped	exact_sequence	cog20_panelK.csv: BSU_15080,GCF_000009045.1,NP_389391.1,COG0333,class=0
+Mycobacterium_tuberculosis_H37Rv:L32	MYCTU	L32 (COG0333)		unmapped	present in Yutin 2012 Table S3 (count 1) but no COG0333 member in COG 2020	pone.0036972.s003.xls sheet 'main_set_only_bact' row 36 col 'L32'
+NP_220330.1	CHLTR	L32 (COG0333)	O84816	mapped	exact_sequence	cog20_panelK.csv: CT_810,GCF_000008725.1,NP_220330.1,COG0333,class=0
+WP_010871662.1	SYNY3	L32 (COG0333)	P73014	mapped	exact_sequence	cog20_panelK.csv: SGL_RS04240,GCF_000009725.1,WP_010871662.1,COG0333,class=0
+NP_296087.1	DEIRA	L32 (COG0333)	P49228	mapped	exact_sequence	cog20_panelK.csv: DR_2366,GCF_000008565.1,NP_296087.1,COG0333,class=0
+NP_227965.1	THEMA	L32 (COG0333)	Q9WXZ7	mapped	exact_sequence	cog20_panelK.csv: TM0150,GCF_000008545.1,NP_227965.1,COG0333,class=0
+NP_213750.1	AQUAE	L32 (COG0333)	O67187	mapped	exact_sequence	cog20_panelK.csv: aq_1102,GCF_000008625.1,NP_213750.1,COG0333,class=0
+NP_812744.1	BACTN	L32 (COG0333)	Q8A138	mapped	exact_sequence	cog20_panelK.csv: BT_3833,GCF_000011065.1,NP_812744.1,COG0333,class=0
+NP_711444.1	LEPIN	L32 (COG0333)	Q8F6P0	mapped	exact_sequence	cog20_panelK.csv: LA_1263,GCF_000092565.1,NP_711444.1,COG0333,class=0

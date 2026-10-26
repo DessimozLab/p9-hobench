@@ -1,0 +1,22 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_417755.1	ECOLI	S4 (COG0522)	P0A7V8	mapped	exact_sequence	cog20_panelK.csv: b3296,GCF_000005845.2,NP_417755.1,COG0522,class=0
+NP_252929.1	PSEAE	S4 (COG0522)	O52759	mapped	exact_sequence	cog20_panelK.csv: PA4239,GCF_000006765.1,NP_252929.1,COG0522,class=0
+Bradyrhizobium_japonicum:S4	BRADU	S4 (COG0522)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'S4'
+NP_208086.1	HELPY	S4 (COG0522)	P56011	mapped	exact_sequence	cog20_panelK.csv: HP1294,GCF_000008525.1,NP_208086.1,COG0522,class=0
+Geobacter_sulfurreducens:S4	GEOSL	S4 (COG0522)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'S4'
+NP_390844.1	BACSU	S4 (COG0522)	P21466	mapped	exact_sequence	cog20_panelK.csv: BSU_29660,GCF_000009045.1,NP_390844.1,COG0522,class=0
+NP_217975.1	MYCTU	S4 (COG0522)	P9WH35	mapped	exact_sequence	cog20_panelK.csv: Rv3458c,GCF_000195955.2,NP_217975.1,COG0522,class=0
+NP_220143.1	CHLTR	S4 (COG0522)	O84631	mapped	exact_sequence	cog20_panelK.csv: CT_626,GCF_000008725.1,NP_220143.1,COG0522,class=0
+WP_010873531.1	SYNY3	S4 (COG0522)	P48939	mapped	exact_sequence	cog20_panelK.csv: SGL_RS14010,GCF_000009725.1,WP_010873531.1,COG0522,class=0
+NP_295850.1	DEIRA	S4 (COG0522)	Q9RSJ7	mapped	exact_sequence	cog20_panelK.csv: DR_2127,GCF_000008565.1,NP_295850.1,COG0522,class=0
+NP_229273.1	THEMA	S4 (COG0522)	Q9X1I3	mapped	exact_sequence	cog20_panelK.csv: TM1473,GCF_000008545.1,NP_229273.1,COG0522,class=0
+NP_213044.1	AQUAE	S4 (COG0522)	O66484	mapped	exact_sequence	cog20_panelK.csv: aq_072,GCF_000008625.1,NP_213044.1,COG0522,class=0
+NP_811614.1	BACTN	S4 (COG0522)	Q8A4A1	mapped	exact_sequence	cog20_panelK.csv: BT_2702,GCF_000011065.1,NP_811614.1,COG0522,class=0
+NP_710945.1	LEPIN	S4 (COG0522)	Q9XD10	mapped	exact_sequence	cog20_panelK.csv: LA_0764,GCF_000092565.1,NP_710945.1,COG0522,class=0
+WP_009988885.1	SACS2	S4 (COG0522)	P95987	mapped	exact_sequence	cog20_panelK.csv: SSO_RS00370,GCF_000007005.1,WP_009988885.1,COG0522,class=0
+WP_012310221.1	KORCO	S4 (COG0522)	B1L795	mapped	exact_sequence	cog20_panelK.csv: KCR_RS08265,GCF_000019605.1,WP_012310221.1,COG0522,class=2
+ABX12220.1	NITMS	S4 (COG0522)	A9A436	mapped	exact_sequence	cog20_panelK.csv: Nmar_0324,GCA_000018465.1,ABX12220.1,COG0522,class=2
+WP_011250456.1	THEKO	S4 (COG0522)	Q5JJF2	mapped	exact_sequence	cog20_panelK.csv: TK_RS07515,GCF_000009965.1,WP_011250456.1,COG0522,class=0
+WP_010869685.1	METJA	S4 (COG0522)	P54020	mapped	exact_sequence	cog20_panelK.csv: MJ_RS00990,GCF_000091665.1,WP_010869685.1,COG0522,class=0
+AAM04533.1	METAC	S4 (COG0522)	Q8TRR1	mapped	exact_sequence	cog20_panelK.csv: MA_1109,GCA_000007345.1,AAM04533.1,COG0522,class=0
+WP_010902813.1	HALSA	S4 (COG0522)	Q9HQJ6	mapped	exact_sequence	cog20_panelK.csv: VNG_RS04415,GCF_000006805.1,WP_010902813.1,COG0522,class=0

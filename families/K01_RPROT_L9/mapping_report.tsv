@@ -1,0 +1,15 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_418624.1	ECOLI	L9 (COG0359)	P0A7R1	mapped	exact_sequence	cog20_panelK.csv: b4203,GCF_000005845.2,NP_418624.1,COG0359,class=0
+NP_253619.1	PSEAE	L9 (COG0359)	Q9HUN2	mapped	exact_sequence	cog20_panelK.csv: PA4932,GCF_000006765.1,NP_253619.1,COG0359,class=0
+Bradyrhizobium_japonicum:L9	BRADU	L9 (COG0359)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'L9'
+NP_207311.1	HELPY	L9 (COG0359)	P56035	mapped	diamond_sequence	cog20_panelK.csv: HP0514,GCF_000008525.1,NP_207311.1,COG0359,class=0
+Geobacter_sulfurreducens:L9	GEOSL	L9 (COG0359)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'L9'
+NP_391930.1	BACSU	L9 (COG0359)	P37437	mapped	exact_sequence	cog20_panelK.csv: BSU_40500,GCF_000009045.1,NP_391930.1,COG0359,class=0
+NP_214570.1	MYCTU	L9 (COG0359)	P9WH79	mapped	exact_sequence	cog20_panelK.csv: Rv0056,GCF_000195955.2,NP_214570.1,COG0359,class=0
+NP_220323.1	CHLTR	L9 (COG0359)	O84809	mapped	exact_sequence	cog20_panelK.csv: CT_803,GCF_000008725.1,NP_220323.1,COG0359,class=0
+WP_010872796.1	SYNY3	L9 (COG0359)	P42352	mapped	exact_sequence	cog20_panelK.csv: SGL_RS10150,GCF_000009725.1,WP_010872796.1,COG0359,class=0
+NP_293828.1	DEIRA	L9 (COG0359)	Q9RY49	mapped	exact_sequence	cog20_panelK.csv: DR_0102,GCF_000008565.1,NP_293828.1,COG0359,class=0
+NP_228672.1	THEMA	L9 (COG0359)	Q9WZW7	mapped	exact_sequence	cog20_panelK.csv: TM0863,GCF_000008545.1,NP_228672.1,COG0359,class=0
+NP_214399.1	AQUAE	L9 (COG0359)	O67830	mapped	exact_sequence	cog20_panelK.csv: aq_2042,GCF_000008625.1,NP_214399.1,COG0359,class=0
+NP_811074.1	BACTN	L9 (COG0359)	Q8A5S7	mapped	exact_sequence	cog20_panelK.csv: BT_2161,GCF_000011065.1,NP_811074.1,COG0359,class=0
+NP_711859.1	LEPIN	L9 (COG0359)	Q8F5K3	mapped	exact_sequence	cog20_panelK.csv: LA_1678,GCF_000092565.1,NP_711859.1,COG0359,class=0

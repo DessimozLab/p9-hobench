@@ -1,0 +1,22 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_417768.1	ECOLI	L24 (COG0198)	P60624	mapped	exact_sequence	cog20_panelK.csv: b3309,GCF_000005845.2,NP_417768.1,COG0198,class=0
+NP_252942.1	PSEAE	L24 (COG0198)	Q9HWE6	mapped	exact_sequence	cog20_panelK.csv: PA4252,GCF_000006765.1,NP_252942.1,COG0198,class=0
+Bradyrhizobium_japonicum:L24	BRADU	L24 (COG0198)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'L24'
+NP_208100.1	HELPY	L24 (COG0198)	P56049	mapped	exact_sequence	cog20_panelK.csv: HP1308,GCF_000008525.1,NP_208100.1,COG0198,class=2
+Geobacter_sulfurreducens:L24	GEOSL	L24 (COG0198)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'L24'
+NP_388008.1	BACSU	L24 (COG0198)	P0CI78	mapped	exact_sequence	cog20_panelK.csv: BSU_01270,GCF_000009045.1,NP_388008.1,COG0198,class=0
+NP_215229.1	MYCTU	L24 (COG0198)	P9WHB7	mapped	exact_sequence	cog20_panelK.csv: Rv0715,GCF_000195955.2,NP_215229.1,COG0198,class=0
+NP_220032.1	CHLTR	L24 (COG0198)	P0CD86	mapped	exact_sequence	cog20_panelK.csv: CT_517,GCF_000008725.1,NP_220032.1,COG0198,class=1
+WP_010871968.1	SYNY3	L24 (COG0198)	P73309	mapped	exact_sequence	cog20_panelK.csv: SGL_RS05795,GCF_000009725.1,WP_010871968.1,COG0198,class=0
+NP_294045.1	DEIRA	L24 (COG0198)	Q9RXJ1	mapped	exact_sequence	cog20_panelK.csv: DR_0322,GCF_000008565.1,NP_294045.1,COG0198,class=0
+NP_229289.1	THEMA	L24 (COG0198)	P38513	mapped	exact_sequence	cog20_panelK.csv: TM1489,GCF_000008545.1,NP_229289.1,COG0198,class=0
+NP_214135.1	AQUAE	L24 (COG0198)	O67569	mapped	exact_sequence	cog20_panelK.csv: aq_1653,GCF_000008625.1,NP_214135.1,COG0198,class=0
+NP_811628.1	BACTN	L24 (COG0198)	Q8A487	mapped	exact_sequence	cog20_panelK.csv: BT_2716,GCF_000011065.1,NP_811628.1,COG0198,class=0
+NP_710931.1	LEPIN	L24 (COG0198)	Q9XD25	mapped	exact_sequence	cog20_panelK.csv: LA_0750,GCF_000092565.1,NP_710931.1,COG0198,class=0
+WP_009991270.1	SACS2	L24 (COG0198)	Q9UX95	mapped	exact_sequence	cog20_panelK.csv: SSO_RS03540,GCF_000007005.1,WP_009991270.1,COG0198,class=1
+WP_012310203.1	KORCO	L24 (COG0198)	B1L777	mapped	exact_sequence	cog20_panelK.csv: KCR_RS08170,GCF_000019605.1,WP_012310203.1,COG0198,class=1
+Nitrosopumilus_maritimus_SCM1:L24	NITMS	L24 (COG0198)		unmapped	present in Yutin 2012 Table S3 (count 1) but no COG0198 member in COG 2020	pone.0036972.s003.xls sheet 'main_set_only_arch' row 59 col 'L24p'
+WP_011250481.1	THEKO	L24 (COG0198)	Q5JJF9	mapped	exact_sequence	cog20_panelK.csv: TK_RS07640,GCF_000009965.1,WP_011250481.1,COG0198,class=1
+WP_010869967.1	METJA	L24 (COG0198)	P54038	mapped	exact_sequence	cog20_panelK.csv: MJ_RS02465,GCF_000091665.1,WP_010869967.1,COG0198,class=1
+AAM04508.1	METAC	L24 (COG0198)	Q8TRT6	mapped	exact_sequence	cog20_panelK.csv: MA_1083,GCA_000007345.1,AAM04508.1,COG0198,class=3
+WP_010903245.1	HALSA	L24 (COG0198)	Q9HPC3	mapped	exact_sequence	cog20_panelK.csv: VNG_RS06610,GCF_000006805.1,WP_010903245.1,COG0198,class=1

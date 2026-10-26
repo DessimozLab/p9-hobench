@@ -1,0 +1,15 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_417097.1	ECOLI	L19 (COG0335)	P0A7K6	mapped	exact_sequence	cog20_panelK.csv: b2606,GCF_000005845.2,NP_417097.1,COG0335,class=0
+NP_252431.1	PSEAE	L19 (COG0335)	Q9HXQ2	mapped	exact_sequence	cog20_panelK.csv: PA3742,GCF_000006765.1,NP_252431.1,COG0335,class=0
+Bradyrhizobium_japonicum:L19	BRADU	L19 (COG0335)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'L19'
+NP_207938.1	HELPY	L19 (COG0335)	P56044	mapped	exact_sequence	cog20_panelK.csv: HP1147,GCF_000008525.1,NP_207938.1,COG0335,class=0
+Geobacter_sulfurreducens:L19	GEOSL	L19 (COG0335)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'L19'
+NP_389486.2	BACSU	L19 (COG0335)	O31742	mapped	exact_sequence	cog20_panelK.csv: BSU_16040,GCF_000009045.1,NP_389486.2,COG0335,class=0
+NP_217420.1	MYCTU	L19 (COG0335)	P9WHC9	mapped	exact_sequence	cog20_panelK.csv: Rv2904c,GCF_000195955.2,NP_217420.1,COG0335,class=0
+NP_219530.1	CHLTR	L19 (COG0335)	O84031	mapped	exact_sequence	cog20_panelK.csv: CT_028,GCF_000008725.1,NP_219530.1,COG0335,class=0
+WP_028948150.1	SYNY3	L19 (COG0335)	P36239	mapped	diamond_sequence	cog20_panelK.csv: SGL_RS06230,GCF_000009725.1,WP_028948150.1,COG0335,class=0
+NP_294479.1	DEIRA	L19 (COG0335)	Q9RWB4	mapped	exact_sequence	cog20_panelK.csv: DR_0755,GCF_000008565.1,NP_294479.1,COG0335,class=1
+NP_229371.1	THEMA	L19 (COG0335)	Q9X1Q7	mapped	exact_sequence	cog20_panelK.csv: TM1571,GCF_000008545.1,NP_229371.1,COG0335,class=0
+NP_214336.1	AQUAE	L19 (COG0335)	O67767	mapped	exact_sequence	cog20_panelK.csv: aq_1954,GCF_000008625.1,NP_214336.1,COG0335,class=0
+NP_811402.1	BACTN	L19 (COG0335)	Q8A4V8	mapped	exact_sequence	cog20_panelK.csv: BT_2489,GCF_000011065.1,NP_811402.1,COG0335,class=0
+NP_712568.1	LEPIN	L19 (COG0335)	Q8F3L4	mapped	exact_sequence	cog20_panelK.csv: LA_2387,GCF_000092565.1,NP_712568.1,COG0335,class=1

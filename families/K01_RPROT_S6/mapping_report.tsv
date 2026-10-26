@@ -1,0 +1,15 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_418621.5	ECOLI	S6 (COG0360)	P02358	mapped	diamond_sequence	cog20_panelK.csv: b4200,GCF_000005845.2,NP_418621.5,COG0360,class=0
+NP_253622.1	PSEAE	S6 (COG0360)	Q9HUM9	mapped	exact_sequence	cog20_panelK.csv: PA4935,GCF_000006765.1,NP_253622.1,COG0360,class=1
+Bradyrhizobium_japonicum:S6	BRADU	S6 (COG0360)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'S6'
+NP_208038.1	HELPY	S6 (COG0360)	P56013	mapped	exact_sequence	cog20_panelK.csv: HP1246,GCF_000008525.1,NP_208038.1,COG0360,class=0
+Geobacter_sulfurreducens:S6	GEOSL	S6 (COG0360)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'S6'
+NP_391971.1	BACSU	S6 (COG0360)	P21468	mapped	exact_sequence	cog20_panelK.csv: BSU_40910,GCF_000009045.1,NP_391971.1,COG0360,class=0
+NP_214567.1	MYCTU	S6 (COG0360)	P9WH31	mapped	exact_sequence	cog20_panelK.csv: Rv0053,GCF_000195955.2,NP_214567.1,COG0360,class=0
+NP_220321.1	CHLTR	S6 (COG0360)	O84807	mapped	exact_sequence	cog20_panelK.csv: CT_801,GCF_000008725.1,NP_220321.1,COG0360,class=0
+WP_010872311.1	SYNY3	S6 (COG0360)	P73636	mapped	exact_sequence	cog20_panelK.csv: SGL_RS07595,GCF_000009725.1,WP_010872311.1,COG0360,class=0
+NP_293824.1	DEIRA	S6 (COG0360)	Q9RY52	mapped	exact_sequence	cog20_panelK.csv: DR_0098,GCF_000008565.1,NP_293824.1,COG0360,class=0
+NP_228413.1	THEMA	S6 (COG0360)	Q9WZ72	mapped	exact_sequence	cog20_panelK.csv: TM0603,GCF_000008545.1,NP_228413.1,COG0360,class=0
+NP_213034.1	AQUAE	S6 (COG0360)	O66474	mapped	exact_sequence	cog20_panelK.csv: aq_063,GCF_000008625.1,NP_213034.1,COG0360,class=0
+NP_811076.1	BACTN	S6 (COG0360)	Q8A5S5	mapped	exact_sequence	cog20_panelK.csv: BT_2163,GCF_000011065.1,NP_811076.1,COG0360,class=0
+NP_711856.1	LEPIN	S6 (COG0360)	Q8F5K6	mapped	exact_sequence	cog20_panelK.csv: LA_1675,GCF_000092565.1,NP_711856.1,COG0360,class=0

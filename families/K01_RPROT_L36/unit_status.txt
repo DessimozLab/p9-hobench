@@ -1,0 +1,5 @@
+excluded_multicopy
+ECOLI: 2 COG 2020 members
+ECOLI: Yutin Table S3 count 2 (2nd paralog)
+PSEAE: 2 COG 2020 members
+PSEAE: Yutin Table S3 count 2 (2nd paralog)

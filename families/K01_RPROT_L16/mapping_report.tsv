@@ -1,0 +1,22 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_417772.1	ECOLI	L16 (COG0197)	P0ADY7	mapped	exact_sequence	cog20_panelK.csv: b3313,GCF_000005845.2,NP_417772.1,COG0197,class=0
+NP_252946.1	PSEAE	L16 (COG0197)	Q9HWE2	mapped	exact_sequence	cog20_panelK.csv: PA4256,GCF_000006765.1,NP_252946.1,COG0197,class=0
+Bradyrhizobium_japonicum:L16	BRADU	L16 (COG0197)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'L16'
+NP_208104.1	HELPY	L16 (COG0197)	P56041	mapped	exact_sequence	cog20_panelK.csv: HP1312,GCF_000008525.1,NP_208104.1,COG0197,class=0
+Geobacter_sulfurreducens:L16	GEOSL	L16 (COG0197)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'L16'
+NP_388004.1	BACSU	L16 (COG0197)	P14577	mapped	exact_sequence	cog20_panelK.csv: BSU_01230,GCF_000009045.1,NP_388004.1,COG0197,class=0
+NP_215222.1	MYCTU	L16 (COG0197)	P9WHD5	mapped	exact_sequence	cog20_panelK.csv: Rv0708,GCF_000195955.2,NP_215222.1,COG0197,class=0
+NP_220036.1	CHLTR	L16 (COG0197)	P0CD83	mapped	exact_sequence	cog20_panelK.csv: CT_521,GCF_000008725.1,NP_220036.1,COG0197,class=0
+WP_010871972.1	SYNY3	L16 (COG0197)	P73313	mapped	exact_sequence	cog20_panelK.csv: SGL_RS05815,GCF_000009725.1,WP_010871972.1,COG0197,class=0
+NP_294041.1	DEIRA	L16 (COG0197)	Q9RXJ5	mapped	diamond_sequence	cog20_panelK.csv: DR_0318,GCF_000008565.1,NP_294041.1,COG0197,class=0
+NP_229293.1	THEMA	L16 (COG0197)	P38509	mapped	exact_sequence	cog20_panelK.csv: TM1493,GCF_000008545.1,NP_229293.1,COG0197,class=0
+NP_212996.1	AQUAE	L16 (COG0197)	O66438	mapped	exact_sequence	cog20_panelK.csv: aq_018,GCF_000008625.1,NP_212996.1,COG0197,class=0
+NP_811632.1	BACTN	L16 (COG0197)	Q8A483	mapped	exact_sequence	cog20_panelK.csv: BT_2720,GCF_000011065.1,NP_811632.1,COG0197,class=0
+NP_710927.1	LEPIN	L16 (COG0197)	Q9XD29	mapped	exact_sequence	cog20_panelK.csv: LA_0746,GCF_000092565.1,NP_710927.1,COG0197,class=0
+WP_009990585.1	SACS2	L16 (COG0197)		excluded	archaeal member of COG0197: Yutin 2012 Table S1 lists L16 as a bacterial-only r-protein (archaeal r-proteins are listed separately)	cog20_panelK.csv: SSO_RS01470,GCF_000007005.1,WP_009990585.1,COG0197,class=0
+WP_083758125.1	KORCO	L16 (COG0197)		excluded	archaeal member of COG0197: Yutin 2012 Table S1 lists L16 as a bacterial-only r-protein (archaeal r-proteins are listed separately)	cog20_panelK.csv: KCR_RS00640,GCF_000019605.1,WP_083758125.1,COG0197,class=0
+ABX12345.1	NITMS	L16 (COG0197)		excluded	archaeal member of COG0197: Yutin 2012 Table S1 lists L16 as a bacterial-only r-protein (archaeal r-proteins are listed separately)	cog20_panelK.csv: Nmar_0449,GCA_000018465.1,ABX12345.1,COG0197,class=0
+WP_011250497.1	THEKO	L16 (COG0197)		excluded	archaeal member of COG0197: Yutin 2012 Table S1 lists L16 as a bacterial-only r-protein (archaeal r-proteins are listed separately)	cog20_panelK.csv: TK_RS07720,GCF_000009965.1,WP_011250497.1,COG0197,class=0
+WP_010870047.1	METJA	L16 (COG0197)		excluded	archaeal member of COG0197: Yutin 2012 Table S1 lists L16 as a bacterial-only r-protein (archaeal r-proteins are listed separately)	cog20_panelK.csv: MJ_RS02875,GCF_000091665.1,WP_010870047.1,COG0197,class=0
+AAM03636.1	METAC	L16 (COG0197)		excluded	archaeal member of COG0197: Yutin 2012 Table S1 lists L16 as a bacterial-only r-protein (archaeal r-proteins are listed separately)	cog20_panelK.csv: MA_0183,GCA_000007345.1,AAM03636.1,COG0197,class=0
+WP_010902023.1	HALSA	L16 (COG0197)		excluded	archaeal member of COG0197: Yutin 2012 Table S1 lists L16 as a bacterial-only r-protein (archaeal r-proteins are listed separately)	cog20_panelK.csv: VNG_RS00390,GCF_000006805.1,WP_010902023.1,COG0197,class=0

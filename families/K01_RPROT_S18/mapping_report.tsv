@@ -1,0 +1,16 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_418623.1	ECOLI	S18 (COG0238)	P0A7T7	mapped	exact_sequence	cog20_panelK.csv: b4202,GCF_000005845.2,NP_418623.1,COG0238,class=0
+NP_253621.1	PSEAE	S18 (COG0238)	Q9HUN0	mapped	exact_sequence	cog20_panelK.csv: PA4934,GCF_000006765.1,NP_253621.1,COG0238,class=3
+Bradyrhizobium_japonicum:S18	BRADU	S18 (COG0238)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'S18'
+NP_208036.1	HELPY	S18 (COG0238)	P66459	mapped	exact_sequence	cog20_panelK.csv: HP1244,GCF_000008525.1,NP_208036.1,COG0238,class=0
+Geobacter_sulfurreducens:S18	GEOSL	S18 (COG0238)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'S18'
+NP_391969.2	BACSU	S18 (COG0238)	P21475	mapped	exact_sequence	cog20_panelK.csv: BSU_40890,GCF_000009045.1,NP_391969.2,COG0238,class=1
+NP_216571.1	MYCTU	S18 (COG0238)	P9WH47	mapped	exact_sequence	cog20_panelK.csv: Rv2055c,GCF_000195955.2,NP_216571.1,COG0238,class=0
+YP_177688.1	MYCTU	S18 (COG0238)	P9WH49	mapped	exact_sequence	cog20_panelK.csv: Rv0055,GCF_000195955.2,YP_177688.1,COG0238,class=0
+NP_220322.1	CHLTR	S18 (COG0238)	O84808	mapped	exact_sequence	cog20_panelK.csv: CT_802,GCF_000008725.1,NP_220322.1,COG0238,class=0
+WP_010873737.1	SYNY3	S18 (COG0238)	P48946	mapped	exact_sequence	cog20_panelK.csv: SGL_RS15080,GCF_000009725.1,WP_010873737.1,COG0238,class=0
+NP_293827.1	DEIRA	S18 (COG0238)	Q9RY50	mapped	exact_sequence	cog20_panelK.csv: DR_0101,GCF_000008565.1,NP_293827.1,COG0238,class=0
+NP_228415.1	THEMA	S18 (COG0238)	Q9WZ74	mapped	exact_sequence	cog20_panelK.csv: TM0605,GCF_000008545.1,NP_228415.1,COG0238,class=3
+NP_213036.1	AQUAE	S18 (COG0238)	O66476	mapped	exact_sequence	cog20_panelK.csv: aq_064a,GCF_000008625.1,NP_213036.1,COG0238,class=0
+NP_811075.1	BACTN	S18 (COG0238)	Q8A5S6	mapped	exact_sequence	cog20_panelK.csv: BT_2162,GCF_000011065.1,NP_811075.1,COG0238,class=3
+NP_711858.1	LEPIN	S18 (COG0238)		unmapped	below protocol thresholds: best hit Q8F5K4 status=partial identity=100.000 qcov=0.786 tcov=1.000 (low_query_cov)	cog20_panelK.csv: LA_1677,GCF_000092565.1,NP_711858.1,COG0238,class=1

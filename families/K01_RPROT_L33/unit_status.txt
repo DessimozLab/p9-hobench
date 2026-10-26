@@ -1,0 +1,5 @@
+excluded_multicopy
+BACSU: 2 COG 2020 members
+BACSU: Yutin Table S3 count 3 (2nd paralog)
+MYCTU: 2 COG 2020 members
+MYCTU: Yutin Table S3 count 2 (2nd paralog)

@@ -1,0 +1,104 @@
+id: K01_RPROT_L17
+name: Ribosomal protein L17 (COG0203; Yutin 2012 bacterial r-protein)
+panel: K
+collection: RPROT
+phenomena:
+- CONTROL
+descriptors:
+  n_members: 12
+  n_species: 12
+  n_bacteria: 12
+  n_archaea: 0
+  n_duplications: 0
+  yutin_section: bacterial
+  cog: COG0203
+  mapped_fraction: 0.857
+sources:
+- id: Yutin2012
+  doi: 10.1371/journal.pone.0036972
+  pmid: '22615861'
+  title: Phylogenomics of prokaryotic ribosomal proteins
+  year: 2012
+  source_method: expert_classification
+  files:
+  - path: literature/papers/PMID22615861/raw/supp/pone.0036972.s001.xls
+    sha256: efac6c4770483b3d341ba12fc83c46dc9d806a89c6e2f43b4a2b9c572f287781
+  - path: literature/papers/PMID22615861/raw/supp/pone.0036972.s003.xls
+    sha256: cbed6d62eabf1bfd75a19c11edefd7a2967cc398141fee806f4a602d2a0f4198
+  - path: literature/papers/PMID22615861/fulltext.txt
+    sha256: f406e9fd504ac2b6bf263a3a9777c69639b052471692021b665e9791c45e8f42
+- id: COG2020
+  doi: 10.1093/nar/gkaa1018
+  pmid: '33167031'
+  title: 'COG database update: focus on microbial diversity, model organisms, and widespread pathogens'
+  year: 2021
+  source_method: expert_classification
+  files:
+  - path: literature/papers/COG2020/derived/cog20_panelK.csv
+    sha256: 20009e1d50fe969d83ca9b2300d3ff8bae3b64306f7462e5ef449883c4f3c543
+  - path: literature/papers/COG2020/derived/cog20_panelK.fa
+    sha256: 23abca6071e66e879ba1875ec85fc86a513208f1d6127752db78eb6c7e4e960d
+  - path: literature/papers/COG2020/raw/Readme.2020-11-25.txt
+    sha256: 2fc52a814993cd346936fc7daf9ad19e2a5b0fbbd387bdb6d94816b69be7194e
+  - path: literature/papers/COG2020/derived/seqmap/AQUAE.tsv
+    sha256: c4af03e0c8fc1c2468f892a82c2a9d1a8316c072f23e074c19e1479b3fffbfef
+  - path: literature/papers/COG2020/derived/seqmap/BACSU.tsv
+    sha256: 2da1bcd3ad2359a217d3cf75ea237584d7d3484ca60b2b820a515e3f1e8e529c
+  - path: literature/papers/COG2020/derived/seqmap/BACTN.tsv
+    sha256: cc9d6337c069125d116ff446990fae483b71b07b3a462383e6400c4e3b105aed
+  - path: literature/papers/COG2020/derived/seqmap/CHLTR.tsv
+    sha256: 12ff13c76a1845533e779cbb44716fda5811caf8e4d6ea1915fd1b087349c7bd
+  - path: literature/papers/COG2020/derived/seqmap/DEIRA.tsv
+    sha256: 69cad79857ae4b51b6996f0e1bb04be32af033d0960275ecf1c4ad98390ffcb5
+  - path: literature/papers/COG2020/derived/seqmap/ECOLI.tsv
+    sha256: 568dbbb8fb0939a14a828020ad6c05d28b8e3718243420ba75842c0fb4ffade6
+  - path: literature/papers/COG2020/derived/seqmap/HALSA.tsv
+    sha256: f475dc76df3795fd0b2999c740d795766ef388a7ef9cbe6f2a6fe627a75b06c3
+  - path: literature/papers/COG2020/derived/seqmap/HELPY.tsv
+    sha256: 4de9a3c2765b7c583f84af909feb5abc15483bec8d7538c244e3c34aca7f6270
+  - path: literature/papers/COG2020/derived/seqmap/KORCO.tsv
+    sha256: 3d9f62fc478acd5fc9a566c5e627c21e58dd4123428a574b0c63f9718f00b39b
+  - path: literature/papers/COG2020/derived/seqmap/LEPIN.tsv
+    sha256: b83fc43fda6a4fe8bcc797a6522e3fcb782c7bae98db6c25c4c9ca4239a435d9
+  - path: literature/papers/COG2020/derived/seqmap/METAC.tsv
+    sha256: 17cb99eeba8d56c2bbd4bd4d8df4c2e803c34d081a97205b740c7d6ce6754cf6
+  - path: literature/papers/COG2020/derived/seqmap/METJA.tsv
+    sha256: 74e73a9edc653b539402c539549a2c025bf00da67daa2a46bbcb7cc6655efbe4
+  - path: literature/papers/COG2020/derived/seqmap/MYCTU.tsv
+    sha256: 18980461f86c35538d8fb3ec1508750bdbee9f18ce51bf1a44952ae0b8f5d309
+  - path: literature/papers/COG2020/derived/seqmap/NITMS.tsv
+    sha256: cc2805457eb0f2717b1a630839a277035a6ea273b390609bad9eebd17e27a6cd
+  - path: literature/papers/COG2020/derived/seqmap/PSEAE.tsv
+    sha256: 70d17e41f886235795eafbb81e54034bb95dd5357e69ec7c5b9c4f283dd9533a
+  - path: literature/papers/COG2020/derived/seqmap/SACS2.tsv
+    sha256: f30a38f516367a5e9b24cfa1c2f801afa4c1023dc52f3e2f4d646a9696a4f7fc
+  - path: literature/papers/COG2020/derived/seqmap/SYNY3.tsv
+    sha256: 3feee5ef73c5e7387c7cd287b972552d317554673c1e867ea34a4dadd33192e8
+  - path: literature/papers/COG2020/derived/seqmap/THEKO.tsv
+    sha256: 34b1bb058f9780050445fc60a0962e82b9dd8ccf24bb079cccba7b9cc8b96ec1
+  - path: literature/papers/COG2020/derived/seqmap/THEMA.tsv
+    sha256: 0b0134925ead720231a78faed159d2248b81c54fa0783b0655700804cd686a4c
+root_single_copy: true
+complete_species:
+- ECOLI
+- PSEAE
+- HELPY
+- BACSU
+- MYCTU
+- CHLTR
+- DEIRA
+- THEMA
+- AQUAE
+- BACTN
+- LEPIN
+decoys: []
+distinct_from: []
+tier_summary:
+  T1: 0
+  T2: 14
+  T3: 0
+  events_D: 0
+protocol_version: 1
+notes: Single-copy control unit of the RPROT collection. Members = COG 2020 COG0203 members in the panel-K genomes covered
+  by COG 2020 (BRADU, GEOSL not covered), mapped by same-species sequence identity; Yutin 2012 Table S1 assigns COG0203 to
+  r-protein L17 (bacterial) and Table S3 gives one copy per genome. One S polytomy (T2 rule b).

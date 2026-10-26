@@ -1,0 +1,18 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_414830.1	ECOLI	L31 (COG0254)	P0A7N1	mapped	exact_sequence	cog20_panelK.csv: b0296,GCF_000005845.2,NP_414830.1,COG0254,class=0
+NP_418371.1	ECOLI	L31 (COG0254)	P0A7M9	mapped	exact_sequence	cog20_panelK.csv: b3936,GCF_000005845.2,NP_418371.1,COG0254,class=0
+NP_252291.1	PSEAE	L31 (COG0254)	Q9HY25	mapped	exact_sequence	cog20_panelK.csv: PA3601,GCF_000006765.1,NP_252291.1,COG0254,class=0
+NP_253736.1	PSEAE	L31 (COG0254)	Q9HUD0	mapped	exact_sequence	cog20_panelK.csv: PA5049,GCF_000006765.1,NP_253736.1,COG0254,class=0
+Bradyrhizobium_japonicum:L31	BRADU	L31 (COG0254)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'L31'
+NP_207346.1	HELPY	L31 (COG0254)	P66185	mapped	exact_sequence	cog20_panelK.csv: HP0551,GCF_000008525.1,NP_207346.1,COG0254,class=0
+Geobacter_sulfurreducens:L31	GEOSL	L31 (COG0254)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'L31'
+NP_390948.1	BACSU	L31 (COG0254)	O34967	mapped	exact_sequence	cog20_panelK.csv: BSU_30700,GCF_000009045.1,NP_390948.1,COG0254,class=0
+NP_391588.1	BACSU	L31 (COG0254)	Q03223	mapped	exact_sequence	cog20_panelK.csv: BSU_37070,GCF_000009045.1,NP_391588.1,COG0254,class=0
+NP_215814.1	MYCTU	L31 (COG0254)	P9WHA1	mapped	exact_sequence	cog20_panelK.csv: Rv1298,GCF_000195955.2,NP_215814.1,COG0254,class=0
+NP_219524.1	CHLTR	L31 (COG0254)	O84025	mapped	exact_sequence	cog20_panelK.csv: CT_022,GCF_000008725.1,NP_219524.1,COG0254,class=0
+WP_010871950.1	SYNY3	L31 (COG0254)	P73292	mapped	exact_sequence	cog20_panelK.csv: SGL_RS05710,GCF_000009725.1,WP_010871950.1,COG0254,class=0
+NP_294549.1	DEIRA	L31 (COG0254)	Q9RW44	mapped	exact_sequence	cog20_panelK.csv: DR_0825,GCF_000008565.1,NP_294549.1,COG0254,class=0
+NP_229484.1	THEMA	L31 (COG0254)	O54311	mapped	exact_sequence	cog20_panelK.csv: TM1684,GCF_000008545.1,NP_229484.1,COG0254,class=0
+NP_213593.1	AQUAE	L31 (COG0254)	P58413	mapped	exact_sequence	cog20_panelK.csv: aq_873a,GCF_000008625.1,NP_213593.1,COG0254,class=2
+NP_810605.1	BACTN	L31 (COG0254)	Q8A733	mapped	exact_sequence	cog20_panelK.csv: BT_1692,GCF_000011065.1,NP_810605.1,COG0254,class=0
+NP_711201.1	LEPIN	L31 (COG0254)	Q8F7C6	mapped	exact_sequence	cog20_panelK.csv: LA_1020,GCF_000092565.1,NP_711201.1,COG0254,class=0

@@ -1,0 +1,15 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_417653.1	ECOLI	L21 (COG0261)	P0AG48	mapped	exact_sequence	cog20_panelK.csv: b3186,GCF_000005845.2,NP_417653.1,COG0261,class=0
+NP_253258.1	PSEAE	L21 (COG0261)	Q9HVL6	mapped	exact_sequence	cog20_panelK.csv: PA4568,GCF_000006765.1,NP_253258.1,COG0261,class=0
+Bradyrhizobium_japonicum:L21	BRADU	L21 (COG0261)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'L21'
+NP_207094.1	HELPY	L21 (COG0261)	P56046	mapped	exact_sequence	cog20_panelK.csv: HP0296,GCF_000008525.1,NP_207094.1,COG0261,class=0
+Geobacter_sulfurreducens:L21	GEOSL	L21 (COG0261)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'L21'
+NP_390674.1	BACSU	L21 (COG0261)	P26908	mapped	exact_sequence	cog20_panelK.csv: BSU_27960,GCF_000009045.1,NP_390674.1,COG0261,class=0
+NP_216958.1	MYCTU	L21 (COG0261)	P9WHC3	mapped	diamond_sequence	cog20_panelK.csv: Rv2442c,GCF_000195955.2,NP_216958.1,COG0261,class=0
+NP_219930.1	CHLTR	L21 (COG0261)	O84425	mapped	exact_sequence	cog20_panelK.csv: CT_420,GCF_000008725.1,NP_219930.1,COG0261,class=0
+WP_010872980.1	SYNY3	L21 (COG0261)	P74266	mapped	exact_sequence	cog20_panelK.csv: SGL_RS11125,GCF_000009725.1,WP_010872980.1,COG0261,class=0
+NP_293812.1	DEIRA	L21 (COG0261)		unmapped	below protocol thresholds: best hit Q9RY64 status=partial identity=100.000 qcov=0.592 tcov=1.000 (low_query_cov)	cog20_panelK.csv: DR_0086,GCF_000008565.1,NP_293812.1,COG0261,class=1
+NP_229257.1	THEMA	L21 (COG0261)	Q9X1G9	mapped	exact_sequence	cog20_panelK.csv: TM1458,GCF_000008545.1,NP_229257.1,COG0261,class=0
+NP_214126.1	AQUAE	L21 (COG0261)	O67560	mapped	exact_sequence	cog20_panelK.csv: aq_1641a,GCF_000008625.1,NP_214126.1,COG0261,class=0
+NP_813225.1	BACTN	L21 (COG0261)	Q89ZR2	mapped	exact_sequence	cog20_panelK.csv: BT_4314,GCF_000011065.1,NP_813225.1,COG0261,class=0
+NP_711030.1	LEPIN	L21 (COG0261)	Q8F7U3	mapped	exact_sequence	cog20_panelK.csv: LA_0848,GCF_000092565.1,NP_711030.1,COG0261,class=0

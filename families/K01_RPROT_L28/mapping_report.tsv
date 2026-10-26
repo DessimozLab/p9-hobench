@@ -1,0 +1,17 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_418094.1	ECOLI	L28 (COG0227)	P0A7M2	mapped	exact_sequence	cog20_panelK.csv: b3637,GCF_000005845.2,NP_418094.1,COG0227,class=0
+NP_254003.1	PSEAE	L28 (COG0227)	Q9HTN8	mapped	exact_sequence	cog20_panelK.csv: PA5316,GCF_000006765.1,NP_254003.1,COG0227,class=0
+Bradyrhizobium_japonicum:L28	BRADU	L28 (COG0227)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'L28'
+NP_207288.1	HELPY	L28 (COG0227)	P66142	mapped	exact_sequence	cog20_panelK.csv: HP0491,GCF_000008525.1,NP_207288.1,COG0227,class=0
+Geobacter_sulfurreducens:L28	GEOSL	L28 (COG0227)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'L28'
+NP_389464.1	BACSU	L28 (COG0227)	P37807	mapped	exact_sequence	cog20_panelK.csv: BSU_15820,GCF_000009045.1,NP_389464.1,COG0227,class=0
+NP_216574.1	MYCTU	L28 (COG0227)	P9WHA9	mapped	exact_sequence	cog20_panelK.csv: Rv2058c,GCF_000195955.2,NP_216574.1,COG0227,class=0
+YP_009030042.1	MYCTU	L28 (COG0227)	P0DV54	mapped	exact_sequence	cog20_panelK.csv: Rv2975a,GCF_000195955.2,YP_009030042.1,COG0227,class=2
+YP_177691.1	MYCTU	L28 (COG0227)	P9WHB1	mapped	exact_sequence	cog20_panelK.csv: Rv0105c,GCF_000195955.2,YP_177691.1,COG0227,class=1
+NP_219589.1	CHLTR	L28 (COG0227)	O84088	mapped	exact_sequence	cog20_panelK.csv: CT_086,GCF_000008725.1,NP_219589.1,COG0227,class=0
+WP_010871496.1	SYNY3	L28 (COG0227)	P72851	mapped	exact_sequence	cog20_panelK.csv: SGL_RS03360,GCF_000009725.1,WP_010871496.1,COG0227,class=0
+NP_296244.1	DEIRA	L28 (COG0227)	Q9RRG8	mapped	exact_sequence	cog20_panelK.csv: DR_2524,GCF_000008565.1,NP_296244.1,COG0227,class=0
+NP_228069.1	THEMA	L28 (COG0227)	Q9WY96	mapped	diamond_sequence	cog20_panelK.csv: TM0255,GCF_000008545.1,NP_228069.1,COG0227,class=0
+NP_213052.1	AQUAE	L28 (COG0227)	O66492	mapped	exact_sequence	cog20_panelK.csv: aq_080,GCF_000008625.1,NP_213052.1,COG0227,class=0
+NP_809829.1	BACTN	L28 (COG0227)	Q8A999	mapped	exact_sequence	cog20_panelK.csv: BT_0916,GCF_000011065.1,NP_809829.1,COG0227,class=0
+NP_712343.1	LEPIN	L28 (COG0227)	Q8F483	mapped	exact_sequence	cog20_panelK.csv: LA_2162,GCF_000092565.1,NP_712343.1,COG0227,class=1

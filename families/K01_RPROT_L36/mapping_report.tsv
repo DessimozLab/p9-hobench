@@ -1,0 +1,17 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_417758.1	ECOLI	L36 (COG0257)	P0A7Q6	mapped	exact_sequence	cog20_panelK.csv: b3299,GCF_000005845.2,NP_417758.1,COG0257,class=0
+YP_588437.1	ECOLI	L36 (COG0257)	Q2EEQ2	mapped	exact_sequence	cog20_panelK.csv: b4506,GCF_000005845.2,YP_588437.1,COG0257,class=1
+NP_252290.1	PSEAE	L36 (COG0257)	Q9HY26	mapped	exact_sequence	cog20_panelK.csv: PA3600,GCF_000006765.1,NP_252290.1,COG0257,class=0
+NP_252932.1	PSEAE	L36 (COG0257)	Q9HWF6	mapped	exact_sequence	cog20_panelK.csv: PA4242,GCF_000006765.1,NP_252932.1,COG0257,class=0
+Bradyrhizobium_japonicum:L36	BRADU	L36 (COG0257)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'L36'
+NP_208089.1	HELPY	L36 (COG0257)	P56058	mapped	exact_sequence	cog20_panelK.csv: HP1297,GCF_000008525.1,NP_208089.1,COG0257,class=0
+Geobacter_sulfurreducens:L36	GEOSL	L36 (COG0257)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'L36'
+NP_388021.1	BACSU	L36 (COG0257)	P20278	mapped	exact_sequence	cog20_panelK.csv: BSU_01400,GCF_000009045.1,NP_388021.1,COG0257,class=0
+NP_217978.1	MYCTU	L36 (COG0257)	P9WH89	mapped	exact_sequence	cog20_panelK.csv: Rv3461c,GCF_000195955.2,NP_217978.1,COG0257,class=0
+NP_220305.1	CHLTR	L36 (COG0257)	P66288	mapped	exact_sequence	cog20_panelK.csv: CT_786,GCF_000008725.1,NP_220305.1,COG0257,class=0
+WP_010871958.1	SYNY3	L36 (COG0257)	P73300	mapped	exact_sequence	cog20_panelK.csv: SGL_RS18715,GCF_000009725.1,WP_010871958.1,COG0257,class=0
+NP_295847.1	DEIRA	L36 (COG0257)	Q9RSK0	mapped	exact_sequence	cog20_panelK.csv: DR_2124,GCF_000008565.1,NP_295847.1,COG0257,class=0
+NP_229276.1	THEMA	L36 (COG0257)	Q9X1I6	mapped	exact_sequence	cog20_panelK.csv: TM1476,GCF_000008545.1,NP_229276.1,COG0257,class=0
+NP_213047.1	AQUAE	L36 (COG0257)		unmapped	below protocol thresholds: best hit O66487 status=partial identity=94.600 qcov=0.755 tcov=1.000 (low_query_cov)	cog20_panelK.csv: aq_075,GCF_000008625.1,NP_213047.1,COG0257,class=0
+WP_002558051.1	BACTN	L36 (COG0257)		unmapped	below protocol thresholds: best hit  status=unmapped identity= qcov= tcov= ()	cog20_panelK.csv: WP_002558051.1,GCF_000011065.1,WP_002558051.1,COG0257,class=0
+YP_003573296.1	LEPIN	L36 (COG0257)	D4YW21	mapped	exact_sequence	cog20_panelK.csv: LA_0761a,GCF_000092565.1,YP_003573296.1,COG0257,class=0

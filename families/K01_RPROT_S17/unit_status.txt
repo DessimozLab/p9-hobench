@@ -1,0 +1,5 @@
+excluded_multicopy
+BACTN: 2 COG 2020 members
+BACTN: Yutin Table S3 count 2 (2nd paralog)
+METAC: 2 COG 2020 members
+METAC: Yutin Table S3 count 2 (2nd paralog)

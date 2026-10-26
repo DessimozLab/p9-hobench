@@ -1,0 +1,13 @@
+original_id	species	label	gene_id	status	reason	locator
+Bradyrhizobium_japonicum:L7ae	BRADU	L7ae (COG1358)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'L7ae'
+Geobacter_sulfurreducens:L7ae	GEOSL	L7ae (COG1358)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'L7ae'
+NP_387990.1	BACSU	L7ae (COG1358)	P46350	mapped	exact_sequence	cog20_panelK.csv: BSU_01090,GCF_000009045.1,NP_387990.1,COG1358,class=2
+NP_389544.1	BACSU	L7ae (COG1358)	P32729	mapped	exact_sequence	cog20_panelK.csv: BSU_16620,GCF_000009045.1,NP_389544.1,COG1358,class=0
+NP_228583.1	THEMA	L7ae (COG1358)	Q9WZN2	mapped	exact_sequence	cog20_panelK.csv: TM0774,GCF_000008545.1,NP_228583.1,COG1358,class=0
+WP_009988903.1	SACS2	L7ae (COG1358)	P55858	mapped	exact_sequence	cog20_panelK.csv: SSO_RS00445,GCF_000007005.1,WP_009988903.1,COG1358,class=0
+WP_012309660.1	KORCO	L7ae (COG1358)	B1L5N4	mapped	exact_sequence	cog20_panelK.csv: KCR_RS05260,GCF_000019605.1,WP_012309660.1,COG1358,class=0
+ABX12121.1	NITMS	L7ae (COG1358)	A9A2Z3	mapped	exact_sequence	cog20_panelK.csv: Nmar_0225,GCA_000018465.1,ABX12121.1,COG1358,class=0
+WP_048053845.1	THEKO	L7ae (COG1358)	Q5JGR3	mapped	exact_sequence	cog20_panelK.csv: TK_RS06505,GCF_000009965.1,WP_048053845.1,COG1358,class=0
+WP_010870715.1	METJA	L7ae (COG1358)	P54066	mapped	exact_sequence	cog20_panelK.csv: MJ_RS06425,GCF_000091665.1,WP_010870715.1,COG1358,class=0
+AAM04935.1	METAC	L7ae (COG1358)	Q8TQL9	mapped	exact_sequence	cog20_panelK.csv: MA_1521,GCA_000007345.1,AAM04935.1,COG1358,class=0
+WP_010902832.1	HALSA	L7ae (COG1358)	Q9HQH8	mapped	exact_sequence	cog20_panelK.csv: VNG_RS04515,GCF_000006805.1,WP_010902832.1,COG1358,class=0

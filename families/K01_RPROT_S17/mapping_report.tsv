@@ -1,0 +1,24 @@
+original_id	species	label	gene_id	status	reason	locator
+NP_417770.1	ECOLI	S17 (COG0186)	P0AG63	mapped	exact_sequence	cog20_panelK.csv: b3311,GCF_000005845.2,NP_417770.1,COG0186,class=0
+NP_252944.1	PSEAE	S17 (COG0186)	Q9HWE4	mapped	exact_sequence	cog20_panelK.csv: PA4254,GCF_000006765.1,NP_252944.1,COG0186,class=0
+Bradyrhizobium_japonicum:S17	BRADU	S17 (COG0186)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 474 col 'S17'
+NP_208102.1	HELPY	S17 (COG0186)	P66449	mapped	exact_sequence	cog20_panelK.csv: HP1310,GCF_000008525.1,NP_208102.1,COG0186,class=0
+Geobacter_sulfurreducens:S17	GEOSL	S17 (COG0186)		unmapped	present in Yutin 2012 Table S3 (count 1) but genome not in COG 2020: no protein identifier in any source	pone.0036972.s003.xls sheet 'main_set_only_bact' row 675 col 'S17'
+NP_388006.1	BACSU	S17 (COG0186)	P12874	mapped	exact_sequence	cog20_panelK.csv: BSU_01250,GCF_000009045.1,NP_388006.1,COG0186,class=0
+NP_215224.1	MYCTU	S17 (COG0186)	P9WH51	mapped	diamond_sequence	cog20_panelK.csv: Rv0710,GCF_000195955.2,NP_215224.1,COG0186,class=1
+NP_220034.1	CHLTR	S17 (COG0186)	P0CE05	mapped	exact_sequence	cog20_panelK.csv: CT_519,GCF_000008725.1,NP_220034.1,COG0186,class=0
+WP_010871970.1	SYNY3	S17 (COG0186)	P73311	mapped	exact_sequence	cog20_panelK.csv: SGL_RS05805,GCF_000009725.1,WP_010871970.1,COG0186,class=0
+NP_294043.1	DEIRA	S17 (COG0186)	Q9RXJ3	mapped	exact_sequence	cog20_panelK.csv: DR_0320,GCF_000008565.1,NP_294043.1,COG0186,class=0
+NP_229291.1	THEMA	S17 (COG0186)	P38519	mapped	exact_sequence	cog20_panelK.csv: TM1491,GCF_000008545.1,NP_229291.1,COG0186,class=1
+NP_212998.1	AQUAE	S17 (COG0186)	O66439	mapped	exact_sequence	cog20_panelK.csv: aq_020,GCF_000008625.1,NP_212998.1,COG0186,class=1
+NP_808918.1	BACTN	S17 (COG0186)		unmapped	below protocol thresholds: best hit Q8ABV5 status=partial identity=100.000 qcov=0.551 tcov=1.000 (low_query_cov)	cog20_panelK.csv: BT_0005,GCF_000011065.1,NP_808918.1,COG0186,class=1
+NP_811630.1	BACTN	S17 (COG0186)	Q8A485	mapped	exact_sequence	cog20_panelK.csv: BT_2718,GCF_000011065.1,NP_811630.1,COG0186,class=0
+NP_710929.2	LEPIN	S17 (COG0186)		unmapped	below protocol thresholds: best hit Q9XD27 status=partial identity=100.000 qcov=1.000 tcov=0.753 (low_target_cov)	cog20_panelK.csv: LA_0748,GCF_000092565.1,NP_710929.2,COG0186,class=0
+WP_009991272.1	SACS2	S17 (COG0186)	Q9UX98	mapped	exact_sequence	cog20_panelK.csv: SSO_RS03550,GCF_000007005.1,WP_009991272.1,COG0186,class=1
+WP_012309828.1	KORCO	S17 (COG0186)	B1L652	mapped	exact_sequence	cog20_panelK.csv: KCR_RS06125,GCF_000019605.1,WP_012309828.1,COG0186,class=0
+ABX12697.1	NITMS	S17 (COG0186)	A9A5I6	mapped	exact_sequence	cog20_panelK.csv: Nmar_0801,GCA_000018465.1,ABX12697.1,COG0186,class=0
+WP_011250483.1	THEKO	S17 (COG0186)	Q5JDH9	mapped	exact_sequence	cog20_panelK.csv: TK_RS07650,GCF_000009965.1,WP_011250483.1,COG0186,class=0
+WP_010869965.1	METJA	S17 (COG0186)	P54036	mapped	exact_sequence	cog20_panelK.csv: MJ_RS02455,GCF_000091665.1,WP_010869965.1,COG0186,class=0
+AAM04506.1	METAC	S17 (COG0186)	Q8TRT8	mapped	exact_sequence	cog20_panelK.csv: MA_1081,GCA_000007345.1,AAM04506.1,COG0186,class=1
+AAM05427.1	METAC	S17 (COG0186)	Q8TP90	mapped	exact_sequence	cog20_panelK.csv: MA_2024,GCA_000007345.1,AAM05427.1,COG0186,class=1
+WP_010903243.1	HALSA	S17 (COG0186)	O24786	mapped	exact_sequence	cog20_panelK.csv: VNG_RS06600,GCF_000006805.1,WP_010903243.1,COG0186,class=0
