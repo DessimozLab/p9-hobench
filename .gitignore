@@ -1,0 +1,10 @@
+conda_envs/
+data/raw/
+data/proteomes/
+work/
+runs/*/work/
+*.h5
+*.dmnd
+__pycache__/
+.nextflow*
+requested/*.pdf
