@@ -1,0 +1,162 @@
+{
+ "panel": "V",
+ "created": "2026-10-27T00:55:16+0100",
+ "git_commit": "1b3b51d2e40a90955d344c801fc82e9eb22ebc8e",
+ "seed": 20261026,
+ "seeds": {
+  "source": "panels/V/subset_seeds.txt",
+  "sha256": "2a4e51e32aaef1ced4cef069238c19caa0067deb76b0efbd919005c14abb2b48",
+  "kind": "accessions",
+  "n": 1332,
+  "n_found": 1332,
+  "missing": []
+ },
+ "params": {
+  "evalue": 1e-05,
+  "dbsize": 1000000000,
+  "min_cov": 0.5,
+  "domain_cap": 2000,
+  "bg_fraction": 0.05,
+  "cap": 70000
+ },
+ "background_fraction_used": 0.02664023869745075,
+ "diamond_version": "diamond version 2.2.8",
+ "commands": [
+  "diamond makedb --in /tmp/hobench_work/subset/V/panel.fa -d /tmp/hobench_work/subset/V/panel --threads 4",
+  "diamond blastp -q /tmp/hobench_work/subset/V/seeds.fa -d /tmp/hobench_work/subset/V/panel -o /tmp/hobench_work/subset/V/hits.tsv --more-sensitive --evalue 1e-05 --dbsize 1000000000 -k 0 --threads 4 --outfmt 6 qseqid sseqid pident length qlen slen evalue bitscore qcovhsp scovhsp"
+ ],
+ "sizes": {
+  "panel_total": 447758,
+  "neighbourhood": 57813,
+  "domain_only_hits": 18113
+ },
+ "counts": {
+  "background": 10187,
+  "domain_only": 2000,
+  "neighbourhood": 57813
+ },
+ "n_subset": 70000,
+ "species": {
+  "BRAFL": {
+   "n": 3193,
+   "n_full": 26616,
+   "sha256": "0af9b107ada119fcf48edece90efb811fedd1381afb815bbedfaf3e78f02cf5d",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/V/proteomes/BRAFL.fa",
+   "source_sha256": "aae8c1f97b773b74f1a2269be059356c76c010cca8f2a8e4bbc51a12e1a608c7"
+  },
+  "CIOIN": {
+   "n": 1640,
+   "n_full": 16680,
+   "sha256": "2e3e122bacbdede780c6b71fe4c674163467541d4b75745dfb7c1d70a30bda42",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/V/proteomes/CIOIN.fa",
+   "source_sha256": "b4fd33f3dbbc9d0d89f6a2c51ac3bc13784d1bc374ffb805d032ebcdc322af7f"
+  },
+  "PETMA": {
+   "n": 3193,
+   "n_full": 21315,
+   "sha256": "46c382aeabf8ed26e477d1e5fb13e943ff493d345ecf8aa75cf393ca4cab2a29",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/V/proteomes/PETMA.fa",
+   "source_sha256": "9a5291bfd9284dc54166ff03a099e0467375bf01eeabb4f663a7c0c46215c934"
+  },
+  "CALMI": {
+   "n": 2914,
+   "n_full": 19409,
+   "sha256": "afb6fa28d047a4eccae2e9e0af6b37dc04782d94a9c530ceb1d28a2d94db32d3",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/V/proteomes/CALMI.fa",
+   "source_sha256": "b949ce00fc5874ee81e25199e8d65e7f6a4fdbf6128c8d4fbffa651ed175c58d"
+  },
+  "LEPOC": {
+   "n": 3091,
+   "n_full": 18323,
+   "sha256": "353c42af4314d3c5b9568b69b1f83cd6afad188d7024a954937c693b1af3f3ab",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/V/proteomes/LEPOC.fa",
+   "source_sha256": "c6c0fec3bb5253939881c429565166114135520e169670cb98d512a92efe20ec"
+  },
+  "DANRE": {
+   "n": 4520,
+   "n_full": 26567,
+   "sha256": "8d369420f54c4f5d5b208a30ffec5516dff399fae54029543458b25dd9e0452e",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/V/proteomes/DANRE.fa",
+   "source_sha256": "c1be0b3d447f19bc91bbeded22c606a3ff0c7325d6c81f95c612c1447cd9205e"
+  },
+  "ORYLA": {
+   "n": 4008,
+   "n_full": 23617,
+   "sha256": "036b2853a32bf5243d9d36b7afa3444ce9393d3796d2a5c487db566281efaf7d",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/V/proteomes/ORYLA.fa",
+   "source_sha256": "96355d73d65bb60c7cdd823a4e1ffe83cce02eb9b36cb4e5adb5505a9e19cf24"
+  },
+  "SALSA": {
+   "n": 7246,
+   "n_full": 42272,
+   "sha256": "548f60bca8b6520686da9b971694ec933d9f06f16519cbe6b0d2b0c1df42a794",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/V/proteomes/SALSA.fa",
+   "source_sha256": "b15fe57fc78b99f49c0cede0b6fefbf1d4152fe032d92ed702544c7883feb490"
+  },
+  "LATCH": {
+   "n": 3100,
+   "n_full": 19568,
+   "sha256": "d2120a79b64c2dc748bf5494ae7214414842452b62d276d3468b3fedaa5d9e2a",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/V/proteomes/LATCH.fa",
+   "source_sha256": "9423e8a9c52cccf79323e8c87711dca62830246a9720b1bf91bdc5c7cb5ff9a0"
+  },
+  "XENTR": {
+   "n": 3753,
+   "n_full": 21732,
+   "sha256": "1021206e6f4d208db32513099053b36d177f93756cf15ba2a39f452c4ba7735b",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/V/proteomes/XENTR.fa",
+   "source_sha256": "5047a333d89394e0bcb37a4602a8963f31d61f879307c9f4926998151ac1f176"
+  },
+  "XENLA": {
+   "n": 6678,
+   "n_full": 36351,
+   "sha256": "76c8119df3e1ccb1357985c9d9d92b701572a38bc7b6bc43b1713e19fb75d68f",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/V/proteomes/XENLA.fa",
+   "source_sha256": "0ea566c35ccd9e642e1ab10ddb6e07ec41787b119f368b8480da851652e579c5"
+  },
+  "CHICK": {
+   "n": 3036,
+   "n_full": 18373,
+   "sha256": "95b819edbec4c70fc5ab9dda375b5eafbcdfd2d7a2fdaeaf2cc5590fbfd28ecc",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/V/proteomes/CHICK.fa",
+   "source_sha256": "1410471c191a4e5f892240a4b0ea1f8ca674459446327893d70df98199b69950"
+  },
+  "HUMAN": {
+   "n": 3196,
+   "n_full": 20652,
+   "sha256": "6e9f822e11e61de27fa672ea91be4dc62fc490bf1d50a7d5ed51c05b6cff6f6b",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/V/proteomes/HUMAN.fa",
+   "source_sha256": "cba78f1201ebd63decc2a1620d08dc73a16d25291a4f2a6073504556edfcafcc"
+  },
+  "MOUSE": {
+   "n": 3320,
+   "n_full": 21860,
+   "sha256": "72bf1b290eb7213df3422c25fd1bca1bc6fe7d4b81e9546c1589b0d9323d6bec",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/V/proteomes/MOUSE.fa",
+   "source_sha256": "6461d73bb0ce7fa4dd54d76f53e3de42566802b9cb6fbc4144490014a0b594db"
+  },
+  "ONCMY": {
+   "n": 7143,
+   "n_full": 47249,
+   "sha256": "dd2949041a2f071fb5d8bb48823c8db6dc42334b3106e7caa06cae021bd7d373",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/V/proteomes/ONCMY.fa",
+   "source_sha256": "42042da9a0247b672d6ceef4cdab2c438b233cb4504b0a6df66a37230a3662ce"
+  },
+  "ESOLU": {
+   "n": 4325,
+   "n_full": 25527,
+   "sha256": "5ebcd746602688ed2a826070d9d63ee98af8bf42678deefdc0232b511ae0ae9e",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/V/proteomes/ESOLU.fa",
+   "source_sha256": "c74d2a11dc19371369319c6b9a125f62fc832f9322c501f4f980d8d5cd563eae"
+  },
+  "CORBA": {
+   "n": 5644,
+   "n_full": 41647,
+   "sha256": "10d7c9cb1b864c70200da1bd725334453159dac05aa06bb813b1840e7e4e301f",
+   "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/panels/V/proteomes/CORBA.fa",
+   "source_sha256": "97b043a978a0f8dc1b783e3a93b3ee2190a54e4a5c210c704e34fed07d458bce"
+  }
+ },
+ "members": "members.tsv",
+ "species_tree_sha256": "399fd186d81ad35edd344f5c64ce6593624e8d2aea37af56426dc27f978ebba8"
+}
