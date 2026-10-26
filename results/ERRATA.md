@@ -43,3 +43,16 @@ YGOB unit level (mean over 1,976 units), event_recovery_0.5 before → after:
 | OrthoFinder default | 0.244 | 0.119 |
 | OrthoFinder dendroblast | 0.254 | 0.144 |
 | of_flat default | 0.861 | 0.015 |
+
+## E3 (evaluation layer, round-2 decisions R2-2/3/5/7; scripts/evaluate_panel.py, scripts/confirmatory.py)
+Re-run of Y_full and K_full (hobench with E1 testable-event rule and E2 flat projection). Changes: baselines and skill beside every
+endpoint; `one_hog_per_family` renamed `one_big_hog`; membership F1 NA without complete cells/decoys; tracks control/collection/family
+(headline = family+collection only; control = K01 RPROT, K02, E05 MCM, reported separately); sanity gate vs all-singletons;
+summaries descriptive (no CIs, relabel min-max); runs with manifest status != done refused; S/D-balanced merge accuracy added
+as a POST-RESULTS secondary (mean of S-node and D-node accuracy; not pre-registered).
+Before (e0f02f4, all items pooled) -> after (headline track), Y: OF-default event recovery 0.122 -> 0.060; FastOMA-declared 0.306 -> 0.134;
+all-singletons 0.431 -> 0.000 (E1); of_flat merge acc 0.057 -> 0.872 and bcubed 0.686 -> 0.790 (E2: now equals one big HOG at root-level families).
+Membership F1: Y now NA (was 0.83/0.92); K headline n=1 (K04 decoys): OF-default 0.949, FastOMA 0.897 (K pooled before: 0.94/0.78).
+K: K01 RPROT, K02 moved to control track; no K headline item has asserted pairs, so K level/merge/event headline = NA.
+Confirmatory (results/confirmatory.tsv, Y+K pooled, OF-default minus FastOMA-declared, Holm over 4): level n=2 p=0.50; merge n=2 p=1;
+event n=2 p=1; membership n=10 p=0.45; all Holm p=1.0. n is far below what a sign-flip test can resolve (min p with n=2 is 0.5).

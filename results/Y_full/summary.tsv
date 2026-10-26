@@ -1,617 +1,317 @@
-scope	track	method	variant	kind	metric	mean	ci_low	ci_high	min	max	n
-all	combined	positive_control	reference	control	level_bcubed_f1	1			1	1	2
-all	combined	positive_control	reference	control	merge_accuracy_node	1			1	1	2
-all	combined	positive_control	reference	control	event_recovery_0.5	1			1	1	2
-all	combined	positive_control	reference	control	membership_f1	1			1	1	2
-all	combined	positive_control	reference	control	skill_level_bcubed_f1	1			1	1	2
-all	combined	positive_control	reference	control	skill_merge_accuracy_node	1			1	1	2
-all	combined	positive_control	reference	control	skill_event_recovery_0.5	1			1	1	2
-all	combined	positive_control	reference	control	skill_membership_f1	1			1	1	1
-all	combined	positive_control	reference	control	event_recovery_0.8	1			1	1	2
-all	combined	positive_control	reference	control	spurious_dup_rate	0			0	0	2
-all	families	positive_control	reference	control	level_bcubed_f1	1			1	1	1
-all	families	positive_control	reference	control	merge_accuracy_node	1			1	1	1
-all	families	positive_control	reference	control	event_recovery_0.5	1			1	1	1
-all	families	positive_control	reference	control	membership_f1	1			1	1	1
-all	families	positive_control	reference	control	skill_level_bcubed_f1	1			1	1	1
-all	families	positive_control	reference	control	skill_merge_accuracy_node	1			1	1	1
-all	families	positive_control	reference	control	skill_event_recovery_0.5	1			1	1	1
-all	families	positive_control	reference	control	skill_membership_f1	1			1	1	1
-all	families	positive_control	reference	control	event_recovery_0.8	1			1	1	1
-all	families	positive_control	reference	control	spurious_dup_rate	0			0	0	1
-all	collection:YGOB	positive_control	reference	control	level_bcubed_f1	1	1	1	1	1	1976
-all	collection:YGOB	positive_control	reference	control	merge_accuracy_node	1	1	1	1	1	1976
-all	collection:YGOB	positive_control	reference	control	event_recovery_0.5	1	1	1	1	1	201
-all	collection:YGOB	positive_control	reference	control	membership_f1	1	1	1	1	1	1976
-all	collection:YGOB	positive_control	reference	control	skill_level_bcubed_f1	1	1	1	1	1	532
-all	collection:YGOB	positive_control	reference	control	skill_merge_accuracy_node	1	1	1	1	1	532
-all	collection:YGOB	positive_control	reference	control	skill_event_recovery_0.5	1	1	1	1	1	201
-all	collection:YGOB	positive_control	reference	control	skill_membership_f1						0
-all	collection:YGOB	positive_control	reference	control	event_recovery_0.8	1	1	1	1	1	201
-all	collection:YGOB	positive_control	reference	control	spurious_dup_rate	0	0	0	0	0	1960
-headline	combined	positive_control	reference	control	level_bcubed_f1	1			1	1	2
-headline	combined	positive_control	reference	control	merge_accuracy_node	1			1	1	2
-headline	combined	positive_control	reference	control	event_recovery_0.5	1			1	1	2
-headline	combined	positive_control	reference	control	membership_f1	1			1	1	2
-headline	combined	positive_control	reference	control	skill_level_bcubed_f1	1			1	1	2
-headline	combined	positive_control	reference	control	skill_merge_accuracy_node	1			1	1	2
-headline	combined	positive_control	reference	control	skill_event_recovery_0.5	1			1	1	2
-headline	combined	positive_control	reference	control	skill_membership_f1	1			1	1	1
-headline	combined	positive_control	reference	control	event_recovery_0.8	1			1	1	2
-headline	combined	positive_control	reference	control	spurious_dup_rate	0			0	0	2
-headline	families	positive_control	reference	control	level_bcubed_f1	1			1	1	1
-headline	families	positive_control	reference	control	merge_accuracy_node	1			1	1	1
-headline	families	positive_control	reference	control	event_recovery_0.5	1			1	1	1
-headline	families	positive_control	reference	control	membership_f1	1			1	1	1
-headline	families	positive_control	reference	control	skill_level_bcubed_f1	1			1	1	1
-headline	families	positive_control	reference	control	skill_merge_accuracy_node	1			1	1	1
-headline	families	positive_control	reference	control	skill_event_recovery_0.5	1			1	1	1
-headline	families	positive_control	reference	control	skill_membership_f1	1			1	1	1
-headline	families	positive_control	reference	control	event_recovery_0.8	1			1	1	1
-headline	families	positive_control	reference	control	spurious_dup_rate	0			0	0	1
-headline	collection:YGOB	positive_control	reference	control	level_bcubed_f1	1	1	1	1	1	1976
-headline	collection:YGOB	positive_control	reference	control	merge_accuracy_node	1	1	1	1	1	1976
-headline	collection:YGOB	positive_control	reference	control	event_recovery_0.5	1	1	1	1	1	201
-headline	collection:YGOB	positive_control	reference	control	membership_f1	1	1	1	1	1	1976
-headline	collection:YGOB	positive_control	reference	control	skill_level_bcubed_f1	1	1	1	1	1	532
-headline	collection:YGOB	positive_control	reference	control	skill_merge_accuracy_node	1	1	1	1	1	532
-headline	collection:YGOB	positive_control	reference	control	skill_event_recovery_0.5	1	1	1	1	1	201
-headline	collection:YGOB	positive_control	reference	control	skill_membership_f1						0
-headline	collection:YGOB	positive_control	reference	control	event_recovery_0.8	1	1	1	1	1	201
-headline	collection:YGOB	positive_control	reference	control	spurious_dup_rate	0	0	0	0	0	1960
-all	combined	all_singletons		control	level_bcubed_f1	0.694545			0.605065	0.784026	2
-all	combined	all_singletons		control	merge_accuracy_node	0.128469			0.114081	0.142857	2
-all	combined	all_singletons		control	event_recovery_0.5	0			0	0	2
-all	combined	all_singletons		control	membership_f1	0.000506073			0	0.00101215	2
-all	combined	all_singletons		control	skill_level_bcubed_f1	-0.807676			-1.61535	0	2
-all	combined	all_singletons		control	skill_merge_accuracy_node	-2.94714			-5	-0.894272	2
-all	combined	all_singletons		control	skill_event_recovery_0.5	0			0	0	2
-all	combined	all_singletons		control	skill_membership_f1	-2.06349			-2.06349	-2.06349	1
-all	combined	all_singletons		control	event_recovery_0.8	0			0	0	2
-all	combined	all_singletons		control	spurious_dup_rate	1			1	1	2
-all	families	all_singletons		control	level_bcubed_f1	0.784026			0.784026	0.784026	1
-all	families	all_singletons		control	merge_accuracy_node	0.142857			0.142857	0.142857	1
-all	families	all_singletons		control	event_recovery_0.5	0			0	0	1
-all	families	all_singletons		control	membership_f1	0			0	0	1
-all	families	all_singletons		control	skill_level_bcubed_f1	0			0	0	1
-all	families	all_singletons		control	skill_merge_accuracy_node	-5			-5	-5	1
-all	families	all_singletons		control	skill_event_recovery_0.5	0			0	0	1
-all	families	all_singletons		control	skill_membership_f1	-2.06349			-2.06349	-2.06349	1
-all	families	all_singletons		control	event_recovery_0.8	0			0	0	1
-all	families	all_singletons		control	spurious_dup_rate	1			1	1	1
-all	collection:YGOB	all_singletons		control	level_bcubed_f1	0.605065	0.601446	0.608575	0.460632	1	1976
-all	collection:YGOB	all_singletons		control	merge_accuracy_node	0.114081	0.104957	0.123078	0	1	1976
-all	collection:YGOB	all_singletons		control	event_recovery_0.5	0	0	0	0	0	201
-all	collection:YGOB	all_singletons		control	membership_f1	0.00101215	0	0.00253036	0	1	1976
-all	collection:YGOB	all_singletons		control	skill_level_bcubed_f1	-1.61535	-1.74526	-1.49476	-6.37	0	532
-all	collection:YGOB	all_singletons		control	skill_merge_accuracy_node	-0.894272	-0.98233	-0.811664	-4	0	532
-all	collection:YGOB	all_singletons		control	skill_event_recovery_0.5	0	0	0	0	0	201
-all	collection:YGOB	all_singletons		control	skill_membership_f1						0
-all	collection:YGOB	all_singletons		control	event_recovery_0.8	0	0	0	0	0	201
-all	collection:YGOB	all_singletons		control	spurious_dup_rate	1	1	1	1	1	1960
-headline	combined	all_singletons		control	level_bcubed_f1	0.694545			0.605065	0.784026	2
-headline	combined	all_singletons		control	merge_accuracy_node	0.128469			0.114081	0.142857	2
-headline	combined	all_singletons		control	event_recovery_0.5	0			0	0	2
-headline	combined	all_singletons		control	membership_f1	0.000506073			0	0.00101215	2
-headline	combined	all_singletons		control	skill_level_bcubed_f1	-0.807676			-1.61535	0	2
-headline	combined	all_singletons		control	skill_merge_accuracy_node	-2.94714			-5	-0.894272	2
-headline	combined	all_singletons		control	skill_event_recovery_0.5	0			0	0	2
-headline	combined	all_singletons		control	skill_membership_f1	-2.06349			-2.06349	-2.06349	1
-headline	combined	all_singletons		control	event_recovery_0.8	0			0	0	2
-headline	combined	all_singletons		control	spurious_dup_rate	1			1	1	2
-headline	families	all_singletons		control	level_bcubed_f1	0.784026			0.784026	0.784026	1
-headline	families	all_singletons		control	merge_accuracy_node	0.142857			0.142857	0.142857	1
-headline	families	all_singletons		control	event_recovery_0.5	0			0	0	1
-headline	families	all_singletons		control	membership_f1	0			0	0	1
-headline	families	all_singletons		control	skill_level_bcubed_f1	0			0	0	1
-headline	families	all_singletons		control	skill_merge_accuracy_node	-5			-5	-5	1
-headline	families	all_singletons		control	skill_event_recovery_0.5	0			0	0	1
-headline	families	all_singletons		control	skill_membership_f1	-2.06349			-2.06349	-2.06349	1
-headline	families	all_singletons		control	event_recovery_0.8	0			0	0	1
-headline	families	all_singletons		control	spurious_dup_rate	1			1	1	1
-headline	collection:YGOB	all_singletons		control	level_bcubed_f1	0.605065	0.601446	0.608575	0.460632	1	1976
-headline	collection:YGOB	all_singletons		control	merge_accuracy_node	0.114081	0.104957	0.123078	0	1	1976
-headline	collection:YGOB	all_singletons		control	event_recovery_0.5	0	0	0	0	0	201
-headline	collection:YGOB	all_singletons		control	membership_f1	0.00101215	0	0.00253036	0	1	1976
-headline	collection:YGOB	all_singletons		control	skill_level_bcubed_f1	-1.61535	-1.74526	-1.49476	-6.37	0	532
-headline	collection:YGOB	all_singletons		control	skill_merge_accuracy_node	-0.894272	-0.98233	-0.811664	-4	0	532
-headline	collection:YGOB	all_singletons		control	skill_event_recovery_0.5	0	0	0	0	0	201
-headline	collection:YGOB	all_singletons		control	skill_membership_f1						0
-headline	collection:YGOB	all_singletons		control	event_recovery_0.8	0	0	0	0	0	201
-headline	collection:YGOB	all_singletons		control	spurious_dup_rate	1	1	1	1	1	1960
-all	combined	one_hog_per_family		control	level_bcubed_f1	0.789595			0.615239	0.96395	2
-all	combined	one_hog_per_family		control	merge_accuracy_node	0.871531			0.857143	0.885919	2
-all	combined	one_hog_per_family		control	event_recovery_0.5	0			0	0	2
-all	combined	one_hog_per_family		control	membership_f1	0.83641			0.673575	0.999245	2
-all	combined	one_hog_per_family		control	skill_level_bcubed_f1	-0.398085			-0.781511	-0.0146602	2
-all	combined	one_hog_per_family		control	skill_merge_accuracy_node	-0.084235			-0.16847	0	2
-all	combined	one_hog_per_family		control	skill_event_recovery_0.5	0			0	0	2
-all	combined	one_hog_per_family		control	skill_membership_f1	0			0	0	1
-all	combined	one_hog_per_family		control	event_recovery_0.8	0			0	0	2
-all	combined	one_hog_per_family		control	spurious_dup_rate	0			0	0	2
-all	families	one_hog_per_family		control	level_bcubed_f1	0.615239			0.615239	0.615239	1
-all	families	one_hog_per_family		control	merge_accuracy_node	0.857143			0.857143	0.857143	1
-all	families	one_hog_per_family		control	event_recovery_0.5	0			0	0	1
-all	families	one_hog_per_family		control	membership_f1	0.673575			0.673575	0.673575	1
-all	families	one_hog_per_family		control	skill_level_bcubed_f1	-0.781511			-0.781511	-0.781511	1
-all	families	one_hog_per_family		control	skill_merge_accuracy_node	0			0	0	1
-all	families	one_hog_per_family		control	skill_event_recovery_0.5	0			0	0	1
-all	families	one_hog_per_family		control	skill_membership_f1	0			0	0	1
-all	families	one_hog_per_family		control	event_recovery_0.8	0			0	0	1
-all	families	one_hog_per_family		control	spurious_dup_rate	0			0	0	1
-all	collection:YGOB	one_hog_per_family		control	level_bcubed_f1	0.96395	0.961087	0.966762	0.666667	1	1976
-all	collection:YGOB	one_hog_per_family		control	merge_accuracy_node	0.885919	0.876922	0.895043	0	1	1976
-all	collection:YGOB	one_hog_per_family		control	event_recovery_0.5	0	0	0	0	0	201
-all	collection:YGOB	one_hog_per_family		control	membership_f1	0.999245	0.998096	1	0.222222	1	1976
-all	collection:YGOB	one_hog_per_family		control	skill_level_bcubed_f1	-0.0146602	-0.027609	-0.00470259	-2	0	532
-all	collection:YGOB	one_hog_per_family		control	skill_merge_accuracy_node	-0.16847	-0.207046	-0.131386	-5	0	532
-all	collection:YGOB	one_hog_per_family		control	skill_event_recovery_0.5	0	0	0	0	0	201
-all	collection:YGOB	one_hog_per_family		control	skill_membership_f1						0
-all	collection:YGOB	one_hog_per_family		control	event_recovery_0.8	0	0	0	0	0	201
-all	collection:YGOB	one_hog_per_family		control	spurious_dup_rate	0	0	0	0	0	1960
-headline	combined	one_hog_per_family		control	level_bcubed_f1	0.789595			0.615239	0.96395	2
-headline	combined	one_hog_per_family		control	merge_accuracy_node	0.871531			0.857143	0.885919	2
-headline	combined	one_hog_per_family		control	event_recovery_0.5	0			0	0	2
-headline	combined	one_hog_per_family		control	membership_f1	0.83641			0.673575	0.999245	2
-headline	combined	one_hog_per_family		control	skill_level_bcubed_f1	-0.398085			-0.781511	-0.0146602	2
-headline	combined	one_hog_per_family		control	skill_merge_accuracy_node	-0.084235			-0.16847	0	2
-headline	combined	one_hog_per_family		control	skill_event_recovery_0.5	0			0	0	2
-headline	combined	one_hog_per_family		control	skill_membership_f1	0			0	0	1
-headline	combined	one_hog_per_family		control	event_recovery_0.8	0			0	0	2
-headline	combined	one_hog_per_family		control	spurious_dup_rate	0			0	0	2
-headline	families	one_hog_per_family		control	level_bcubed_f1	0.615239			0.615239	0.615239	1
-headline	families	one_hog_per_family		control	merge_accuracy_node	0.857143			0.857143	0.857143	1
-headline	families	one_hog_per_family		control	event_recovery_0.5	0			0	0	1
-headline	families	one_hog_per_family		control	membership_f1	0.673575			0.673575	0.673575	1
-headline	families	one_hog_per_family		control	skill_level_bcubed_f1	-0.781511			-0.781511	-0.781511	1
-headline	families	one_hog_per_family		control	skill_merge_accuracy_node	0			0	0	1
-headline	families	one_hog_per_family		control	skill_event_recovery_0.5	0			0	0	1
-headline	families	one_hog_per_family		control	skill_membership_f1	0			0	0	1
-headline	families	one_hog_per_family		control	event_recovery_0.8	0			0	0	1
-headline	families	one_hog_per_family		control	spurious_dup_rate	0			0	0	1
-headline	collection:YGOB	one_hog_per_family		control	level_bcubed_f1	0.96395	0.961087	0.966762	0.666667	1	1976
-headline	collection:YGOB	one_hog_per_family		control	merge_accuracy_node	0.885919	0.876922	0.895043	0	1	1976
-headline	collection:YGOB	one_hog_per_family		control	event_recovery_0.5	0	0	0	0	0	201
-headline	collection:YGOB	one_hog_per_family		control	membership_f1	0.999245	0.998096	1	0.222222	1	1976
-headline	collection:YGOB	one_hog_per_family		control	skill_level_bcubed_f1	-0.0146602	-0.027609	-0.00470259	-2	0	532
-headline	collection:YGOB	one_hog_per_family		control	skill_merge_accuracy_node	-0.16847	-0.207046	-0.131386	-5	0	532
-headline	collection:YGOB	one_hog_per_family		control	skill_event_recovery_0.5	0	0	0	0	0	201
-headline	collection:YGOB	one_hog_per_family		control	skill_membership_f1						0
-headline	collection:YGOB	one_hog_per_family		control	event_recovery_0.8	0	0	0	0	0	201
-headline	collection:YGOB	one_hog_per_family		control	spurious_dup_rate	0	0	0	0	0	1960
-all	combined	random_relabel	mean10	control	level_bcubed_f1	0.694458			0.605346	0.78357	2
-all	combined	random_relabel	mean10	control	merge_accuracy_node	0.128594			0.114558	0.14263	2
-all	combined	random_relabel	mean10	control	event_recovery_0.5	0			0	0	2
-all	combined	random_relabel	mean10	control	membership_f1	0.215891			0.146338	0.285445	2
-all	combined	random_relabel	mean10	control	skill_level_bcubed_f1	-0.807817			-1.61352	-0.00211122	2
-all	combined	random_relabel	mean10	control	skill_merge_accuracy_node	-2.94747			-5.00159	-0.893344	2
-all	combined	random_relabel	mean10	control	skill_event_recovery_0.5	0			0	0	2
-all	combined	random_relabel	mean10	control	skill_membership_f1	-1.18903			-1.18903	-1.18903	1
-all	combined	random_relabel	mean10	control	event_recovery_0.8	0			0	0	2
-all	combined	random_relabel	mean10	control	spurious_dup_rate	0.999511			0.999023	1	2
-all	families	random_relabel	mean10	control	level_bcubed_f1	0.78357			0.78357	0.78357	1
-all	families	random_relabel	mean10	control	merge_accuracy_node	0.14263			0.14263	0.14263	1
-all	families	random_relabel	mean10	control	event_recovery_0.5	0			0	0	1
-all	families	random_relabel	mean10	control	membership_f1	0.285445			0.285445	0.285445	1
-all	families	random_relabel	mean10	control	skill_level_bcubed_f1	-0.00211122			-0.00211122	-0.00211122	1
-all	families	random_relabel	mean10	control	skill_merge_accuracy_node	-5.00159			-5.00159	-5.00159	1
-all	families	random_relabel	mean10	control	skill_event_recovery_0.5	0			0	0	1
-all	families	random_relabel	mean10	control	skill_membership_f1	-1.18903			-1.18903	-1.18903	1
-all	families	random_relabel	mean10	control	event_recovery_0.8	0			0	0	1
-all	families	random_relabel	mean10	control	spurious_dup_rate	1			1	1	1
-all	collection:YGOB	random_relabel	mean10	control	level_bcubed_f1	0.605346	0.601715	0.608833	0.460632	1	1976
-all	collection:YGOB	random_relabel	mean10	control	merge_accuracy_node	0.114558	0.105474	0.123542	0	1	1976
-all	collection:YGOB	random_relabel	mean10	control	event_recovery_0.5	0	0	0	0	0	201
-all	collection:YGOB	random_relabel	mean10	control	membership_f1	0.146338	0.144644	0.148249	0.0952381	1	1976
-all	collection:YGOB	random_relabel	mean10	control	skill_level_bcubed_f1	-1.61352	-1.74334	-1.49333	-6.37	0	532
-all	collection:YGOB	random_relabel	mean10	control	skill_merge_accuracy_node	-0.893344	-0.981611	-0.810776	-4	0	532
-all	collection:YGOB	random_relabel	mean10	control	skill_event_recovery_0.5	0	0	0	0	0	201
-all	collection:YGOB	random_relabel	mean10	control	skill_membership_f1						0
-all	collection:YGOB	random_relabel	mean10	control	event_recovery_0.8	0	0	0	0	0	201
-all	collection:YGOB	random_relabel	mean10	control	spurious_dup_rate	0.999023	0.998788	0.999224	0.93	1	1960
-headline	combined	random_relabel	mean10	control	level_bcubed_f1	0.694458			0.605346	0.78357	2
-headline	combined	random_relabel	mean10	control	merge_accuracy_node	0.128594			0.114558	0.14263	2
-headline	combined	random_relabel	mean10	control	event_recovery_0.5	0			0	0	2
-headline	combined	random_relabel	mean10	control	membership_f1	0.215891			0.146338	0.285445	2
-headline	combined	random_relabel	mean10	control	skill_level_bcubed_f1	-0.807817			-1.61352	-0.00211122	2
-headline	combined	random_relabel	mean10	control	skill_merge_accuracy_node	-2.94747			-5.00159	-0.893344	2
-headline	combined	random_relabel	mean10	control	skill_event_recovery_0.5	0			0	0	2
-headline	combined	random_relabel	mean10	control	skill_membership_f1	-1.18903			-1.18903	-1.18903	1
-headline	combined	random_relabel	mean10	control	event_recovery_0.8	0			0	0	2
-headline	combined	random_relabel	mean10	control	spurious_dup_rate	0.999511			0.999023	1	2
-headline	families	random_relabel	mean10	control	level_bcubed_f1	0.78357			0.78357	0.78357	1
-headline	families	random_relabel	mean10	control	merge_accuracy_node	0.14263			0.14263	0.14263	1
-headline	families	random_relabel	mean10	control	event_recovery_0.5	0			0	0	1
-headline	families	random_relabel	mean10	control	membership_f1	0.285445			0.285445	0.285445	1
-headline	families	random_relabel	mean10	control	skill_level_bcubed_f1	-0.00211122			-0.00211122	-0.00211122	1
-headline	families	random_relabel	mean10	control	skill_merge_accuracy_node	-5.00159			-5.00159	-5.00159	1
-headline	families	random_relabel	mean10	control	skill_event_recovery_0.5	0			0	0	1
-headline	families	random_relabel	mean10	control	skill_membership_f1	-1.18903			-1.18903	-1.18903	1
-headline	families	random_relabel	mean10	control	event_recovery_0.8	0			0	0	1
-headline	families	random_relabel	mean10	control	spurious_dup_rate	1			1	1	1
-headline	collection:YGOB	random_relabel	mean10	control	level_bcubed_f1	0.605346	0.601715	0.608833	0.460632	1	1976
-headline	collection:YGOB	random_relabel	mean10	control	merge_accuracy_node	0.114558	0.105474	0.123542	0	1	1976
-headline	collection:YGOB	random_relabel	mean10	control	event_recovery_0.5	0	0	0	0	0	201
-headline	collection:YGOB	random_relabel	mean10	control	membership_f1	0.146338	0.144644	0.148249	0.0952381	1	1976
-headline	collection:YGOB	random_relabel	mean10	control	skill_level_bcubed_f1	-1.61352	-1.74334	-1.49333	-6.37	0	532
-headline	collection:YGOB	random_relabel	mean10	control	skill_merge_accuracy_node	-0.893344	-0.981611	-0.810776	-4	0	532
-headline	collection:YGOB	random_relabel	mean10	control	skill_event_recovery_0.5	0	0	0	0	0	201
-headline	collection:YGOB	random_relabel	mean10	control	skill_membership_f1						0
-headline	collection:YGOB	random_relabel	mean10	control	event_recovery_0.8	0	0	0	0	0	201
-headline	collection:YGOB	random_relabel	mean10	control	spurious_dup_rate	0.999023	0.998788	0.999224	0.93	1	1960
-all	combined	fastoma	default_declared	tool	level_bcubed_f1	0.91979			0.872835	0.966744	2
-all	combined	fastoma	default_declared	tool	merge_accuracy_node	0.942159			0.90019	0.984127	2
-all	combined	fastoma	default_declared	tool	event_recovery_0.5	0.134328			0	0.268657	2
-all	combined	fastoma	default_declared	tool	membership_f1	0.918133			0.889756	0.94651	2
-all	combined	fastoma	default_declared	tool	skill_level_bcubed_f1	0.469638			0.411202	0.528074	2
-all	combined	fastoma	default_declared	tool	skill_merge_accuracy_node	0.632911			0.376933	0.888889	2
-all	combined	fastoma	default_declared	tool	skill_event_recovery_0.5	0.134328			0	0.268657	2
-all	combined	fastoma	default_declared	tool	skill_membership_f1	0.662269			0.662269	0.662269	1
-all	combined	fastoma	default_declared	tool	event_recovery_0.8	0.134328			0	0.268657	2
-all	combined	fastoma	default_declared	tool	spurious_dup_rate	0.0325183			0	0.0650367	2
-all	families	fastoma	default_declared	tool	level_bcubed_f1	0.872835			0.872835	0.872835	1
-all	families	fastoma	default_declared	tool	merge_accuracy_node	0.984127			0.984127	0.984127	1
-all	families	fastoma	default_declared	tool	event_recovery_0.5	0			0	0	1
-all	families	fastoma	default_declared	tool	membership_f1	0.889756			0.889756	0.889756	1
-all	families	fastoma	default_declared	tool	skill_level_bcubed_f1	0.411202			0.411202	0.411202	1
-all	families	fastoma	default_declared	tool	skill_merge_accuracy_node	0.888889			0.888889	0.888889	1
-all	families	fastoma	default_declared	tool	skill_event_recovery_0.5	0			0	0	1
-all	families	fastoma	default_declared	tool	skill_membership_f1	0.662269			0.662269	0.662269	1
-all	families	fastoma	default_declared	tool	event_recovery_0.8	0			0	0	1
-all	families	fastoma	default_declared	tool	spurious_dup_rate	0			0	0	1
-all	collection:YGOB	fastoma	default_declared	tool	level_bcubed_f1	0.966744	0.963309	0.970076	0.509987	1	1976
-all	collection:YGOB	fastoma	default_declared	tool	merge_accuracy_node	0.90019	0.890825	0.909303	0	1	1976
-all	collection:YGOB	fastoma	default_declared	tool	event_recovery_0.5	0.268657	0.208955	0.328358	0	1	201
-all	collection:YGOB	fastoma	default_declared	tool	membership_f1	0.94651	0.939851	0.952752	0	1	1976
-all	collection:YGOB	fastoma	default_declared	tool	skill_level_bcubed_f1	0.528074	0.47874	0.576123	-4.3125	1	532
-all	collection:YGOB	fastoma	default_declared	tool	skill_merge_accuracy_node	0.376933	0.321061	0.432995	-4	1	532
-all	collection:YGOB	fastoma	default_declared	tool	skill_event_recovery_0.5	0.268657	0.208955	0.328358	0	1	201
-all	collection:YGOB	fastoma	default_declared	tool	skill_membership_f1						0
-all	collection:YGOB	fastoma	default_declared	tool	event_recovery_0.8	0.268657	0.208955	0.328358	0	1	201
-all	collection:YGOB	fastoma	default_declared	tool	spurious_dup_rate	0.0650367	0.0563141	0.0737427	0	1	1960
-headline	combined	fastoma	default_declared	tool	level_bcubed_f1	0.91979			0.872835	0.966744	2
-headline	combined	fastoma	default_declared	tool	merge_accuracy_node	0.942159			0.90019	0.984127	2
-headline	combined	fastoma	default_declared	tool	event_recovery_0.5	0.134328			0	0.268657	2
-headline	combined	fastoma	default_declared	tool	membership_f1	0.918133			0.889756	0.94651	2
-headline	combined	fastoma	default_declared	tool	skill_level_bcubed_f1	0.469638			0.411202	0.528074	2
-headline	combined	fastoma	default_declared	tool	skill_merge_accuracy_node	0.632911			0.376933	0.888889	2
-headline	combined	fastoma	default_declared	tool	skill_event_recovery_0.5	0.134328			0	0.268657	2
-headline	combined	fastoma	default_declared	tool	skill_membership_f1	0.662269			0.662269	0.662269	1
-headline	combined	fastoma	default_declared	tool	event_recovery_0.8	0.134328			0	0.268657	2
-headline	combined	fastoma	default_declared	tool	spurious_dup_rate	0.0325183			0	0.0650367	2
-headline	families	fastoma	default_declared	tool	level_bcubed_f1	0.872835			0.872835	0.872835	1
-headline	families	fastoma	default_declared	tool	merge_accuracy_node	0.984127			0.984127	0.984127	1
-headline	families	fastoma	default_declared	tool	event_recovery_0.5	0			0	0	1
-headline	families	fastoma	default_declared	tool	membership_f1	0.889756			0.889756	0.889756	1
-headline	families	fastoma	default_declared	tool	skill_level_bcubed_f1	0.411202			0.411202	0.411202	1
-headline	families	fastoma	default_declared	tool	skill_merge_accuracy_node	0.888889			0.888889	0.888889	1
-headline	families	fastoma	default_declared	tool	skill_event_recovery_0.5	0			0	0	1
-headline	families	fastoma	default_declared	tool	skill_membership_f1	0.662269			0.662269	0.662269	1
-headline	families	fastoma	default_declared	tool	event_recovery_0.8	0			0	0	1
-headline	families	fastoma	default_declared	tool	spurious_dup_rate	0			0	0	1
-headline	collection:YGOB	fastoma	default_declared	tool	level_bcubed_f1	0.966744	0.963309	0.970076	0.509987	1	1976
-headline	collection:YGOB	fastoma	default_declared	tool	merge_accuracy_node	0.90019	0.890825	0.909303	0	1	1976
-headline	collection:YGOB	fastoma	default_declared	tool	event_recovery_0.5	0.268657	0.208955	0.328358	0	1	201
-headline	collection:YGOB	fastoma	default_declared	tool	membership_f1	0.94651	0.939851	0.952752	0	1	1976
-headline	collection:YGOB	fastoma	default_declared	tool	skill_level_bcubed_f1	0.528074	0.47874	0.576123	-4.3125	1	532
-headline	collection:YGOB	fastoma	default_declared	tool	skill_merge_accuracy_node	0.376933	0.321061	0.432995	-4	1	532
-headline	collection:YGOB	fastoma	default_declared	tool	skill_event_recovery_0.5	0.268657	0.208955	0.328358	0	1	201
-headline	collection:YGOB	fastoma	default_declared	tool	skill_membership_f1						0
-headline	collection:YGOB	fastoma	default_declared	tool	event_recovery_0.8	0.268657	0.208955	0.328358	0	1	201
-headline	collection:YGOB	fastoma	default_declared	tool	spurious_dup_rate	0.0650367	0.0563141	0.0737427	0	1	1960
-all	combined	fastoma	default_late	tool	level_bcubed_f1	0.919716			0.872835	0.966598	2
-all	combined	fastoma	default_late	tool	merge_accuracy_node	0.94184			0.899553	0.984127	2
-all	combined	fastoma	default_late	tool	event_recovery_0.5	0.139303			0	0.278607	2
-all	combined	fastoma	default_late	tool	membership_f1	0.918103			0.889756	0.946451	2
-all	combined	fastoma	default_late	tool	skill_level_bcubed_f1	0.467523			0.411202	0.523844	2
-all	combined	fastoma	default_late	tool	skill_merge_accuracy_node	0.628462			0.368036	0.888889	2
-all	combined	fastoma	default_late	tool	skill_event_recovery_0.5	0.139303			0	0.278607	2
-all	combined	fastoma	default_late	tool	skill_membership_f1	0.662269			0.662269	0.662269	1
-all	combined	fastoma	default_late	tool	event_recovery_0.8	0.139303			0	0.278607	2
-all	combined	fastoma	default_late	tool	spurious_dup_rate	0.0325183			0	0.0650367	2
-all	families	fastoma	default_late	tool	level_bcubed_f1	0.872835			0.872835	0.872835	1
-all	families	fastoma	default_late	tool	merge_accuracy_node	0.984127			0.984127	0.984127	1
-all	families	fastoma	default_late	tool	event_recovery_0.5	0			0	0	1
-all	families	fastoma	default_late	tool	membership_f1	0.889756			0.889756	0.889756	1
-all	families	fastoma	default_late	tool	skill_level_bcubed_f1	0.411202			0.411202	0.411202	1
-all	families	fastoma	default_late	tool	skill_merge_accuracy_node	0.888889			0.888889	0.888889	1
-all	families	fastoma	default_late	tool	skill_event_recovery_0.5	0			0	0	1
-all	families	fastoma	default_late	tool	skill_membership_f1	0.662269			0.662269	0.662269	1
-all	families	fastoma	default_late	tool	event_recovery_0.8	0			0	0	1
-all	families	fastoma	default_late	tool	spurious_dup_rate	0			0	0	1
-all	collection:YGOB	fastoma	default_late	tool	level_bcubed_f1	0.966598	0.963151	0.969988	0.509987	1	1976
-all	collection:YGOB	fastoma	default_late	tool	merge_accuracy_node	0.899553	0.890318	0.908712	0	1	1976
-all	collection:YGOB	fastoma	default_late	tool	event_recovery_0.5	0.278607	0.218905	0.338308	0	1	201
-all	collection:YGOB	fastoma	default_late	tool	membership_f1	0.946451	0.939831	0.952674	0	1	1976
-all	collection:YGOB	fastoma	default_late	tool	skill_level_bcubed_f1	0.523844	0.474367	0.572478	-4.3125	1	532
-all	collection:YGOB	fastoma	default_late	tool	skill_merge_accuracy_node	0.368036	0.310714	0.423204	-4	1	532
-all	collection:YGOB	fastoma	default_late	tool	skill_event_recovery_0.5	0.278607	0.218905	0.338308	0	1	201
-all	collection:YGOB	fastoma	default_late	tool	skill_membership_f1						0
-all	collection:YGOB	fastoma	default_late	tool	event_recovery_0.8	0.278607	0.218905	0.338308	0	1	201
-all	collection:YGOB	fastoma	default_late	tool	spurious_dup_rate	0.0650367	0.0563141	0.0737427	0	1	1960
-headline	combined	fastoma	default_late	tool	level_bcubed_f1	0.919716			0.872835	0.966598	2
-headline	combined	fastoma	default_late	tool	merge_accuracy_node	0.94184			0.899553	0.984127	2
-headline	combined	fastoma	default_late	tool	event_recovery_0.5	0.139303			0	0.278607	2
-headline	combined	fastoma	default_late	tool	membership_f1	0.918103			0.889756	0.946451	2
-headline	combined	fastoma	default_late	tool	skill_level_bcubed_f1	0.467523			0.411202	0.523844	2
-headline	combined	fastoma	default_late	tool	skill_merge_accuracy_node	0.628462			0.368036	0.888889	2
-headline	combined	fastoma	default_late	tool	skill_event_recovery_0.5	0.139303			0	0.278607	2
-headline	combined	fastoma	default_late	tool	skill_membership_f1	0.662269			0.662269	0.662269	1
-headline	combined	fastoma	default_late	tool	event_recovery_0.8	0.139303			0	0.278607	2
-headline	combined	fastoma	default_late	tool	spurious_dup_rate	0.0325183			0	0.0650367	2
-headline	families	fastoma	default_late	tool	level_bcubed_f1	0.872835			0.872835	0.872835	1
-headline	families	fastoma	default_late	tool	merge_accuracy_node	0.984127			0.984127	0.984127	1
-headline	families	fastoma	default_late	tool	event_recovery_0.5	0			0	0	1
-headline	families	fastoma	default_late	tool	membership_f1	0.889756			0.889756	0.889756	1
-headline	families	fastoma	default_late	tool	skill_level_bcubed_f1	0.411202			0.411202	0.411202	1
-headline	families	fastoma	default_late	tool	skill_merge_accuracy_node	0.888889			0.888889	0.888889	1
-headline	families	fastoma	default_late	tool	skill_event_recovery_0.5	0			0	0	1
-headline	families	fastoma	default_late	tool	skill_membership_f1	0.662269			0.662269	0.662269	1
-headline	families	fastoma	default_late	tool	event_recovery_0.8	0			0	0	1
-headline	families	fastoma	default_late	tool	spurious_dup_rate	0			0	0	1
-headline	collection:YGOB	fastoma	default_late	tool	level_bcubed_f1	0.966598	0.963151	0.969988	0.509987	1	1976
-headline	collection:YGOB	fastoma	default_late	tool	merge_accuracy_node	0.899553	0.890318	0.908712	0	1	1976
-headline	collection:YGOB	fastoma	default_late	tool	event_recovery_0.5	0.278607	0.218905	0.338308	0	1	201
-headline	collection:YGOB	fastoma	default_late	tool	membership_f1	0.946451	0.939831	0.952674	0	1	1976
-headline	collection:YGOB	fastoma	default_late	tool	skill_level_bcubed_f1	0.523844	0.474367	0.572478	-4.3125	1	532
-headline	collection:YGOB	fastoma	default_late	tool	skill_merge_accuracy_node	0.368036	0.310714	0.423204	-4	1	532
-headline	collection:YGOB	fastoma	default_late	tool	skill_event_recovery_0.5	0.278607	0.218905	0.338308	0	1	201
-headline	collection:YGOB	fastoma	default_late	tool	skill_membership_f1						0
-headline	collection:YGOB	fastoma	default_late	tool	event_recovery_0.8	0.278607	0.218905	0.338308	0	1	201
-headline	collection:YGOB	fastoma	default_late	tool	spurious_dup_rate	0.0650367	0.0563141	0.0737427	0	1	1960
-all	combined	of_flat	default	tool	level_bcubed_f1	0.789672			0.615239	0.964105	2
-all	combined	of_flat	default	tool	merge_accuracy_node	0.871942			0.857143	0.886742	2
-all	combined	of_flat	default	tool	event_recovery_0.5	0.00746269			0	0.0149254	2
-all	combined	of_flat	default	tool	membership_f1	0.833035			0.673575	0.992495	2
-all	combined	of_flat	default	tool	skill_level_bcubed_f1	-0.359817			-0.781511	0.0618762	2
-all	combined	of_flat	default	tool	skill_merge_accuracy_node	-0.0491548			-0.0983097	0	2
-all	combined	of_flat	default	tool	skill_event_recovery_0.5	0.00746269			0	0.0149254	2
-all	combined	of_flat	default	tool	skill_membership_f1	0			0	0	1
-all	combined	of_flat	default	tool	event_recovery_0.8	0.00746269			0	0.0149254	2
-all	combined	of_flat	default	tool	spurious_dup_rate	0.00255814			0	0.00511629	2
-all	families	of_flat	default	tool	level_bcubed_f1	0.615239			0.615239	0.615239	1
-all	families	of_flat	default	tool	merge_accuracy_node	0.857143			0.857143	0.857143	1
-all	families	of_flat	default	tool	event_recovery_0.5	0			0	0	1
-all	families	of_flat	default	tool	membership_f1	0.673575			0.673575	0.673575	1
-all	families	of_flat	default	tool	skill_level_bcubed_f1	-0.781511			-0.781511	-0.781511	1
-all	families	of_flat	default	tool	skill_merge_accuracy_node	0			0	0	1
-all	families	of_flat	default	tool	skill_event_recovery_0.5	0			0	0	1
-all	families	of_flat	default	tool	skill_membership_f1	0			0	0	1
-all	families	of_flat	default	tool	event_recovery_0.8	0			0	0	1
-all	families	of_flat	default	tool	spurious_dup_rate	0			0	0	1
-all	collection:YGOB	of_flat	default	tool	level_bcubed_f1	0.964105	0.96116	0.967045	0.566667	1	1976
-all	collection:YGOB	of_flat	default	tool	merge_accuracy_node	0.886742	0.877615	0.895972	0	1	1976
-all	collection:YGOB	of_flat	default	tool	event_recovery_0.5	0.0149254	0	0.0348259	0	1	201
-all	collection:YGOB	of_flat	default	tool	membership_f1	0.992495	0.989675	0.994765	0	1	1976
-all	collection:YGOB	of_flat	default	tool	skill_level_bcubed_f1	0.0618762	0.0379403	0.0868354	-2	1	532
-all	collection:YGOB	of_flat	default	tool	skill_merge_accuracy_node	-0.0983097	-0.143797	-0.0521628	-5	1	532
-all	collection:YGOB	of_flat	default	tool	skill_event_recovery_0.5	0.0149254	0	0.0348259	0	1	201
-all	collection:YGOB	of_flat	default	tool	skill_membership_f1						0
-all	collection:YGOB	of_flat	default	tool	event_recovery_0.8	0.0149254	0	0.0348259	0	1	201
-all	collection:YGOB	of_flat	default	tool	spurious_dup_rate	0.00511629	0.00298121	0.00766272	0	1	1960
-headline	combined	of_flat	default	tool	level_bcubed_f1	0.789672			0.615239	0.964105	2
-headline	combined	of_flat	default	tool	merge_accuracy_node	0.871942			0.857143	0.886742	2
-headline	combined	of_flat	default	tool	event_recovery_0.5	0.00746269			0	0.0149254	2
-headline	combined	of_flat	default	tool	membership_f1	0.833035			0.673575	0.992495	2
-headline	combined	of_flat	default	tool	skill_level_bcubed_f1	-0.359817			-0.781511	0.0618762	2
-headline	combined	of_flat	default	tool	skill_merge_accuracy_node	-0.0491548			-0.0983097	0	2
-headline	combined	of_flat	default	tool	skill_event_recovery_0.5	0.00746269			0	0.0149254	2
-headline	combined	of_flat	default	tool	skill_membership_f1	0			0	0	1
-headline	combined	of_flat	default	tool	event_recovery_0.8	0.00746269			0	0.0149254	2
-headline	combined	of_flat	default	tool	spurious_dup_rate	0.00255814			0	0.00511629	2
-headline	families	of_flat	default	tool	level_bcubed_f1	0.615239			0.615239	0.615239	1
-headline	families	of_flat	default	tool	merge_accuracy_node	0.857143			0.857143	0.857143	1
-headline	families	of_flat	default	tool	event_recovery_0.5	0			0	0	1
-headline	families	of_flat	default	tool	membership_f1	0.673575			0.673575	0.673575	1
-headline	families	of_flat	default	tool	skill_level_bcubed_f1	-0.781511			-0.781511	-0.781511	1
-headline	families	of_flat	default	tool	skill_merge_accuracy_node	0			0	0	1
-headline	families	of_flat	default	tool	skill_event_recovery_0.5	0			0	0	1
-headline	families	of_flat	default	tool	skill_membership_f1	0			0	0	1
-headline	families	of_flat	default	tool	event_recovery_0.8	0			0	0	1
-headline	families	of_flat	default	tool	spurious_dup_rate	0			0	0	1
-headline	collection:YGOB	of_flat	default	tool	level_bcubed_f1	0.964105	0.96116	0.967045	0.566667	1	1976
-headline	collection:YGOB	of_flat	default	tool	merge_accuracy_node	0.886742	0.877615	0.895972	0	1	1976
-headline	collection:YGOB	of_flat	default	tool	event_recovery_0.5	0.0149254	0	0.0348259	0	1	201
-headline	collection:YGOB	of_flat	default	tool	membership_f1	0.992495	0.989675	0.994765	0	1	1976
-headline	collection:YGOB	of_flat	default	tool	skill_level_bcubed_f1	0.0618762	0.0379403	0.0868354	-2	1	532
-headline	collection:YGOB	of_flat	default	tool	skill_merge_accuracy_node	-0.0983097	-0.143797	-0.0521628	-5	1	532
-headline	collection:YGOB	of_flat	default	tool	skill_event_recovery_0.5	0.0149254	0	0.0348259	0	1	201
-headline	collection:YGOB	of_flat	default	tool	skill_membership_f1						0
-headline	collection:YGOB	of_flat	default	tool	event_recovery_0.8	0.0149254	0	0.0348259	0	1	201
-headline	collection:YGOB	of_flat	default	tool	spurious_dup_rate	0.00511629	0.00298121	0.00766272	0	1	1960
-all	combined	of_flat	dendroblast	tool	level_bcubed_f1	0.789807			0.615239	0.964375	2
-all	combined	of_flat	dendroblast	tool	merge_accuracy_node	0.872393			0.857143	0.887644	2
-all	combined	of_flat	dendroblast	tool	event_recovery_0.5	0.00995025			0	0.0199005	2
-all	combined	of_flat	dendroblast	tool	membership_f1	0.832974			0.673575	0.992373	2
-all	combined	of_flat	dendroblast	tool	skill_level_bcubed_f1	-0.357938			-0.781511	0.0656342	2
-all	combined	of_flat	dendroblast	tool	skill_merge_accuracy_node	-0.0466407			-0.0932815	0	2
-all	combined	of_flat	dendroblast	tool	skill_event_recovery_0.5	0.00995025			0	0.0199005	2
-all	combined	of_flat	dendroblast	tool	skill_membership_f1	0			0	0	1
-all	combined	of_flat	dendroblast	tool	event_recovery_0.8	0.00995025			0	0.0199005	2
-all	combined	of_flat	dendroblast	tool	spurious_dup_rate	0.00250822			0	0.00501644	2
-all	families	of_flat	dendroblast	tool	level_bcubed_f1	0.615239			0.615239	0.615239	1
-all	families	of_flat	dendroblast	tool	merge_accuracy_node	0.857143			0.857143	0.857143	1
-all	families	of_flat	dendroblast	tool	event_recovery_0.5	0			0	0	1
-all	families	of_flat	dendroblast	tool	membership_f1	0.673575			0.673575	0.673575	1
-all	families	of_flat	dendroblast	tool	skill_level_bcubed_f1	-0.781511			-0.781511	-0.781511	1
-all	families	of_flat	dendroblast	tool	skill_merge_accuracy_node	0			0	0	1
-all	families	of_flat	dendroblast	tool	skill_event_recovery_0.5	0			0	0	1
-all	families	of_flat	dendroblast	tool	skill_membership_f1	0			0	0	1
-all	families	of_flat	dendroblast	tool	event_recovery_0.8	0			0	0	1
-all	families	of_flat	dendroblast	tool	spurious_dup_rate	0			0	0	1
-all	collection:YGOB	of_flat	dendroblast	tool	level_bcubed_f1	0.964375	0.961471	0.967284	0.566667	1	1976
-all	collection:YGOB	of_flat	dendroblast	tool	merge_accuracy_node	0.887644	0.878597	0.896794	0	1	1976
-all	collection:YGOB	of_flat	dendroblast	tool	event_recovery_0.5	0.0199005	0.00497512	0.0399254	0	1	201
-all	collection:YGOB	of_flat	dendroblast	tool	membership_f1	0.992373	0.989488	0.994682	0	1	1976
-all	collection:YGOB	of_flat	dendroblast	tool	skill_level_bcubed_f1	0.0656342	0.0431746	0.0900525	-2	1	532
-all	collection:YGOB	of_flat	dendroblast	tool	skill_merge_accuracy_node	-0.0932815	-0.138756	-0.0473941	-5	1	532
-all	collection:YGOB	of_flat	dendroblast	tool	skill_event_recovery_0.5	0.0199005	0.00497512	0.0399254	0	1	201
-all	collection:YGOB	of_flat	dendroblast	tool	skill_membership_f1						0
-all	collection:YGOB	of_flat	dendroblast	tool	event_recovery_0.8	0.0199005	0.00497512	0.0399254	0	1	201
-all	collection:YGOB	of_flat	dendroblast	tool	spurious_dup_rate	0.00501644	0.00285308	0.00756331	0	1	1960
-headline	combined	of_flat	dendroblast	tool	level_bcubed_f1	0.789807			0.615239	0.964375	2
-headline	combined	of_flat	dendroblast	tool	merge_accuracy_node	0.872393			0.857143	0.887644	2
-headline	combined	of_flat	dendroblast	tool	event_recovery_0.5	0.00995025			0	0.0199005	2
-headline	combined	of_flat	dendroblast	tool	membership_f1	0.832974			0.673575	0.992373	2
-headline	combined	of_flat	dendroblast	tool	skill_level_bcubed_f1	-0.357938			-0.781511	0.0656342	2
-headline	combined	of_flat	dendroblast	tool	skill_merge_accuracy_node	-0.0466407			-0.0932815	0	2
-headline	combined	of_flat	dendroblast	tool	skill_event_recovery_0.5	0.00995025			0	0.0199005	2
-headline	combined	of_flat	dendroblast	tool	skill_membership_f1	0			0	0	1
-headline	combined	of_flat	dendroblast	tool	event_recovery_0.8	0.00995025			0	0.0199005	2
-headline	combined	of_flat	dendroblast	tool	spurious_dup_rate	0.00250822			0	0.00501644	2
-headline	families	of_flat	dendroblast	tool	level_bcubed_f1	0.615239			0.615239	0.615239	1
-headline	families	of_flat	dendroblast	tool	merge_accuracy_node	0.857143			0.857143	0.857143	1
-headline	families	of_flat	dendroblast	tool	event_recovery_0.5	0			0	0	1
-headline	families	of_flat	dendroblast	tool	membership_f1	0.673575			0.673575	0.673575	1
-headline	families	of_flat	dendroblast	tool	skill_level_bcubed_f1	-0.781511			-0.781511	-0.781511	1
-headline	families	of_flat	dendroblast	tool	skill_merge_accuracy_node	0			0	0	1
-headline	families	of_flat	dendroblast	tool	skill_event_recovery_0.5	0			0	0	1
-headline	families	of_flat	dendroblast	tool	skill_membership_f1	0			0	0	1
-headline	families	of_flat	dendroblast	tool	event_recovery_0.8	0			0	0	1
-headline	families	of_flat	dendroblast	tool	spurious_dup_rate	0			0	0	1
-headline	collection:YGOB	of_flat	dendroblast	tool	level_bcubed_f1	0.964375	0.961471	0.967284	0.566667	1	1976
-headline	collection:YGOB	of_flat	dendroblast	tool	merge_accuracy_node	0.887644	0.878597	0.896794	0	1	1976
-headline	collection:YGOB	of_flat	dendroblast	tool	event_recovery_0.5	0.0199005	0.00497512	0.0399254	0	1	201
-headline	collection:YGOB	of_flat	dendroblast	tool	membership_f1	0.992373	0.989488	0.994682	0	1	1976
-headline	collection:YGOB	of_flat	dendroblast	tool	skill_level_bcubed_f1	0.0656342	0.0431746	0.0900525	-2	1	532
-headline	collection:YGOB	of_flat	dendroblast	tool	skill_merge_accuracy_node	-0.0932815	-0.138756	-0.0473941	-5	1	532
-headline	collection:YGOB	of_flat	dendroblast	tool	skill_event_recovery_0.5	0.0199005	0.00497512	0.0399254	0	1	201
-headline	collection:YGOB	of_flat	dendroblast	tool	skill_membership_f1						0
-headline	collection:YGOB	of_flat	dendroblast	tool	event_recovery_0.8	0.0199005	0.00497512	0.0399254	0	1	201
-headline	collection:YGOB	of_flat	dendroblast	tool	spurious_dup_rate	0.00501644	0.00285308	0.00756331	0	1	1960
-all	combined	orthofinder	default	tool	level_bcubed_f1	0.927503			0.877842	0.977164	2
-all	combined	orthofinder	default	tool	merge_accuracy_node	0.878715			0.857143	0.900288	2
-all	combined	orthofinder	default	tool	event_recovery_0.5	0.0597015			0	0.119403	2
-all	combined	orthofinder	default	tool	membership_f1	0.830591			0.673575	0.987607	2
-all	combined	orthofinder	default	tool	skill_level_bcubed_f1	0.425487			0.416586	0.434388	2
-all	combined	orthofinder	default	tool	skill_merge_accuracy_node	0.0314348			0	0.0628697	2
-all	combined	orthofinder	default	tool	skill_event_recovery_0.5	0.0597015			0	0.119403	2
-all	combined	orthofinder	default	tool	skill_membership_f1	0			0	0	1
-all	combined	orthofinder	default	tool	event_recovery_0.8	0.0597015			0	0.119403	2
-all	combined	orthofinder	default	tool	spurious_dup_rate	0.00734617			0	0.0146923	2
-all	families	orthofinder	default	tool	level_bcubed_f1	0.877842			0.877842	0.877842	1
-all	families	orthofinder	default	tool	merge_accuracy_node	0.857143			0.857143	0.857143	1
-all	families	orthofinder	default	tool	event_recovery_0.5	0			0	0	1
-all	families	orthofinder	default	tool	membership_f1	0.673575			0.673575	0.673575	1
-all	families	orthofinder	default	tool	skill_level_bcubed_f1	0.434388			0.434388	0.434388	1
-all	families	orthofinder	default	tool	skill_merge_accuracy_node	0			0	0	1
-all	families	orthofinder	default	tool	skill_event_recovery_0.5	0			0	0	1
-all	families	orthofinder	default	tool	skill_membership_f1	0			0	0	1
-all	families	orthofinder	default	tool	event_recovery_0.8	0			0	0	1
-all	families	orthofinder	default	tool	spurious_dup_rate	0			0	0	1
-all	collection:YGOB	orthofinder	default	tool	level_bcubed_f1	0.977164	0.974863	0.979283	0.566667	1	1976
-all	collection:YGOB	orthofinder	default	tool	merge_accuracy_node	0.900288	0.891656	0.908995	0	1	1976
-all	collection:YGOB	orthofinder	default	tool	event_recovery_0.5	0.119403	0.0746269	0.169154	0	1	201
-all	collection:YGOB	orthofinder	default	tool	membership_f1	0.987607	0.984492	0.990395	0	1	1976
-all	collection:YGOB	orthofinder	default	tool	skill_level_bcubed_f1	0.416586	0.379779	0.453539	-2.0529	1	532
-all	collection:YGOB	orthofinder	default	tool	skill_merge_accuracy_node	0.0628697	0.0141316	0.110802	-3	1	532
-all	collection:YGOB	orthofinder	default	tool	skill_event_recovery_0.5	0.119403	0.0746269	0.169154	0	1	201
-all	collection:YGOB	orthofinder	default	tool	skill_membership_f1						0
-all	collection:YGOB	orthofinder	default	tool	event_recovery_0.8	0.119403	0.0746269	0.169154	0	1	201
-all	collection:YGOB	orthofinder	default	tool	spurious_dup_rate	0.0146923	0.0114484	0.018474	0	1	1960
-headline	combined	orthofinder	default	tool	level_bcubed_f1	0.927503			0.877842	0.977164	2
-headline	combined	orthofinder	default	tool	merge_accuracy_node	0.878715			0.857143	0.900288	2
-headline	combined	orthofinder	default	tool	event_recovery_0.5	0.0597015			0	0.119403	2
-headline	combined	orthofinder	default	tool	membership_f1	0.830591			0.673575	0.987607	2
-headline	combined	orthofinder	default	tool	skill_level_bcubed_f1	0.425487			0.416586	0.434388	2
-headline	combined	orthofinder	default	tool	skill_merge_accuracy_node	0.0314348			0	0.0628697	2
-headline	combined	orthofinder	default	tool	skill_event_recovery_0.5	0.0597015			0	0.119403	2
-headline	combined	orthofinder	default	tool	skill_membership_f1	0			0	0	1
-headline	combined	orthofinder	default	tool	event_recovery_0.8	0.0597015			0	0.119403	2
-headline	combined	orthofinder	default	tool	spurious_dup_rate	0.00734617			0	0.0146923	2
-headline	families	orthofinder	default	tool	level_bcubed_f1	0.877842			0.877842	0.877842	1
-headline	families	orthofinder	default	tool	merge_accuracy_node	0.857143			0.857143	0.857143	1
-headline	families	orthofinder	default	tool	event_recovery_0.5	0			0	0	1
-headline	families	orthofinder	default	tool	membership_f1	0.673575			0.673575	0.673575	1
-headline	families	orthofinder	default	tool	skill_level_bcubed_f1	0.434388			0.434388	0.434388	1
-headline	families	orthofinder	default	tool	skill_merge_accuracy_node	0			0	0	1
-headline	families	orthofinder	default	tool	skill_event_recovery_0.5	0			0	0	1
-headline	families	orthofinder	default	tool	skill_membership_f1	0			0	0	1
-headline	families	orthofinder	default	tool	event_recovery_0.8	0			0	0	1
-headline	families	orthofinder	default	tool	spurious_dup_rate	0			0	0	1
-headline	collection:YGOB	orthofinder	default	tool	level_bcubed_f1	0.977164	0.974863	0.979283	0.566667	1	1976
-headline	collection:YGOB	orthofinder	default	tool	merge_accuracy_node	0.900288	0.891656	0.908995	0	1	1976
-headline	collection:YGOB	orthofinder	default	tool	event_recovery_0.5	0.119403	0.0746269	0.169154	0	1	201
-headline	collection:YGOB	orthofinder	default	tool	membership_f1	0.987607	0.984492	0.990395	0	1	1976
-headline	collection:YGOB	orthofinder	default	tool	skill_level_bcubed_f1	0.416586	0.379779	0.453539	-2.0529	1	532
-headline	collection:YGOB	orthofinder	default	tool	skill_merge_accuracy_node	0.0628697	0.0141316	0.110802	-3	1	532
-headline	collection:YGOB	orthofinder	default	tool	skill_event_recovery_0.5	0.119403	0.0746269	0.169154	0	1	201
-headline	collection:YGOB	orthofinder	default	tool	skill_membership_f1						0
-headline	collection:YGOB	orthofinder	default	tool	event_recovery_0.8	0.119403	0.0746269	0.169154	0	1	201
-headline	collection:YGOB	orthofinder	default	tool	spurious_dup_rate	0.0146923	0.0114484	0.018474	0	1	1960
-all	combined	orthofinder	dendroblast	tool	level_bcubed_f1	0.927596			0.877842	0.977349	2
-all	combined	orthofinder	dendroblast	tool	merge_accuracy_node	0.880441			0.857143	0.903738	2
-all	combined	orthofinder	dendroblast	tool	event_recovery_0.5	0.0721393			0	0.144279	2
-all	combined	orthofinder	dendroblast	tool	membership_f1	0.830793			0.673575	0.988011	2
-all	combined	orthofinder	dendroblast	tool	skill_level_bcubed_f1	0.425333			0.416278	0.434388	2
-all	combined	orthofinder	dendroblast	tool	skill_merge_accuracy_node	0.0472323			0	0.0944646	2
-all	combined	orthofinder	dendroblast	tool	skill_event_recovery_0.5	0.0721393			0	0.144279	2
-all	combined	orthofinder	dendroblast	tool	skill_membership_f1	0			0	0	1
-all	combined	orthofinder	dendroblast	tool	event_recovery_0.8	0.0721393			0	0.144279	2
-all	combined	orthofinder	dendroblast	tool	spurious_dup_rate	0.0066218			0	0.0132436	2
-all	families	orthofinder	dendroblast	tool	level_bcubed_f1	0.877842			0.877842	0.877842	1
-all	families	orthofinder	dendroblast	tool	merge_accuracy_node	0.857143			0.857143	0.857143	1
-all	families	orthofinder	dendroblast	tool	event_recovery_0.5	0			0	0	1
-all	families	orthofinder	dendroblast	tool	membership_f1	0.673575			0.673575	0.673575	1
-all	families	orthofinder	dendroblast	tool	skill_level_bcubed_f1	0.434388			0.434388	0.434388	1
-all	families	orthofinder	dendroblast	tool	skill_merge_accuracy_node	0			0	0	1
-all	families	orthofinder	dendroblast	tool	skill_event_recovery_0.5	0			0	0	1
-all	families	orthofinder	dendroblast	tool	skill_membership_f1	0			0	0	1
-all	families	orthofinder	dendroblast	tool	event_recovery_0.8	0			0	0	1
-all	families	orthofinder	dendroblast	tool	spurious_dup_rate	0			0	0	1
-all	collection:YGOB	orthofinder	dendroblast	tool	level_bcubed_f1	0.977349	0.975062	0.979442	0.566667	1	1976
-all	collection:YGOB	orthofinder	dendroblast	tool	merge_accuracy_node	0.903738	0.895431	0.912149	0	1	1976
-all	collection:YGOB	orthofinder	dendroblast	tool	event_recovery_0.5	0.144279	0.0995025	0.19403	0	1	201
-all	collection:YGOB	orthofinder	dendroblast	tool	membership_f1	0.988011	0.984706	0.990788	0	1	1976
-all	collection:YGOB	orthofinder	dendroblast	tool	skill_level_bcubed_f1	0.416278	0.381829	0.450882	-0.958216	1	532
-all	collection:YGOB	orthofinder	dendroblast	tool	skill_merge_accuracy_node	0.0944646	0.0491689	0.139135	-3	1	532
-all	collection:YGOB	orthofinder	dendroblast	tool	skill_event_recovery_0.5	0.144279	0.0995025	0.19403	0	1	201
-all	collection:YGOB	orthofinder	dendroblast	tool	skill_membership_f1						0
-all	collection:YGOB	orthofinder	dendroblast	tool	event_recovery_0.8	0.144279	0.0995025	0.19403	0	1	201
-all	collection:YGOB	orthofinder	dendroblast	tool	spurious_dup_rate	0.0132436	0.0101148	0.0167373	0	1	1960
-headline	combined	orthofinder	dendroblast	tool	level_bcubed_f1	0.927596			0.877842	0.977349	2
-headline	combined	orthofinder	dendroblast	tool	merge_accuracy_node	0.880441			0.857143	0.903738	2
-headline	combined	orthofinder	dendroblast	tool	event_recovery_0.5	0.0721393			0	0.144279	2
-headline	combined	orthofinder	dendroblast	tool	membership_f1	0.830793			0.673575	0.988011	2
-headline	combined	orthofinder	dendroblast	tool	skill_level_bcubed_f1	0.425333			0.416278	0.434388	2
-headline	combined	orthofinder	dendroblast	tool	skill_merge_accuracy_node	0.0472323			0	0.0944646	2
-headline	combined	orthofinder	dendroblast	tool	skill_event_recovery_0.5	0.0721393			0	0.144279	2
-headline	combined	orthofinder	dendroblast	tool	skill_membership_f1	0			0	0	1
-headline	combined	orthofinder	dendroblast	tool	event_recovery_0.8	0.0721393			0	0.144279	2
-headline	combined	orthofinder	dendroblast	tool	spurious_dup_rate	0.0066218			0	0.0132436	2
-headline	families	orthofinder	dendroblast	tool	level_bcubed_f1	0.877842			0.877842	0.877842	1
-headline	families	orthofinder	dendroblast	tool	merge_accuracy_node	0.857143			0.857143	0.857143	1
-headline	families	orthofinder	dendroblast	tool	event_recovery_0.5	0			0	0	1
-headline	families	orthofinder	dendroblast	tool	membership_f1	0.673575			0.673575	0.673575	1
-headline	families	orthofinder	dendroblast	tool	skill_level_bcubed_f1	0.434388			0.434388	0.434388	1
-headline	families	orthofinder	dendroblast	tool	skill_merge_accuracy_node	0			0	0	1
-headline	families	orthofinder	dendroblast	tool	skill_event_recovery_0.5	0			0	0	1
-headline	families	orthofinder	dendroblast	tool	skill_membership_f1	0			0	0	1
-headline	families	orthofinder	dendroblast	tool	event_recovery_0.8	0			0	0	1
-headline	families	orthofinder	dendroblast	tool	spurious_dup_rate	0			0	0	1
-headline	collection:YGOB	orthofinder	dendroblast	tool	level_bcubed_f1	0.977349	0.975062	0.979442	0.566667	1	1976
-headline	collection:YGOB	orthofinder	dendroblast	tool	merge_accuracy_node	0.903738	0.895431	0.912149	0	1	1976
-headline	collection:YGOB	orthofinder	dendroblast	tool	event_recovery_0.5	0.144279	0.0995025	0.19403	0	1	201
-headline	collection:YGOB	orthofinder	dendroblast	tool	membership_f1	0.988011	0.984706	0.990788	0	1	1976
-headline	collection:YGOB	orthofinder	dendroblast	tool	skill_level_bcubed_f1	0.416278	0.381829	0.450882	-0.958216	1	532
-headline	collection:YGOB	orthofinder	dendroblast	tool	skill_merge_accuracy_node	0.0944646	0.0491689	0.139135	-3	1	532
-headline	collection:YGOB	orthofinder	dendroblast	tool	skill_event_recovery_0.5	0.144279	0.0995025	0.19403	0	1	201
-headline	collection:YGOB	orthofinder	dendroblast	tool	skill_membership_f1						0
-headline	collection:YGOB	orthofinder	dendroblast	tool	event_recovery_0.8	0.144279	0.0995025	0.19403	0	1	201
-headline	collection:YGOB	orthofinder	dendroblast	tool	spurious_dup_rate	0.0132436	0.0101148	0.0167373	0	1	1960
-all	paired:orthofinder_default-fastoma_default_declared			comparison	level_bcubed_f1	0.00771351			0.00500755	0.0104195	2
-all	paired:wilcoxon_p/holm			comparison	level_bcubed_f1	0.5	1				2
-all	paired:orthofinder_default-fastoma_default_declared			comparison	merge_accuracy_node	-0.0634431			-0.126984	9.78996e-05	2
-all	paired:wilcoxon_p/holm			comparison	merge_accuracy_node	1	1				2
-all	paired:orthofinder_default-fastoma_default_declared			comparison	event_recovery_0.5	-0.0746269			-0.149254	0	2
-all	paired:wilcoxon_p/holm			comparison	event_recovery_0.5	1	1				2
-all	paired:orthofinder_default-fastoma_default_declared			comparison	membership_f1	-0.0875416			-0.216181	0.0410977	2
-all	paired:wilcoxon_p/holm			comparison	membership_f1	1	1				2
-headline	paired:orthofinder_default-fastoma_default_declared			comparison	level_bcubed_f1	0.00771351			0.00500755	0.0104195	2
-headline	paired:wilcoxon_p/holm			comparison	level_bcubed_f1	0.5	1				2
-headline	paired:orthofinder_default-fastoma_default_declared			comparison	merge_accuracy_node	-0.0634431			-0.126984	9.78996e-05	2
-headline	paired:wilcoxon_p/holm			comparison	merge_accuracy_node	1	1				2
-headline	paired:orthofinder_default-fastoma_default_declared			comparison	event_recovery_0.5	-0.0746269			-0.149254	0	2
-headline	paired:wilcoxon_p/holm			comparison	event_recovery_0.5	1	1				2
-headline	paired:orthofinder_default-fastoma_default_declared			comparison	membership_f1	-0.0875416			-0.216181	0.0410977	2
-headline	paired:wilcoxon_p/holm			comparison	membership_f1	1	1				2
+scope	method	variant	kind	metric	mean	min	max	n	seed_min	seed_max
+headline	positive_control	reference	control	level_bcubed_f1	1	1	1	2		
+headline	positive_control	reference	control	merge_accuracy_node	1	1	1	2		
+headline	positive_control	reference	control	event_recovery_0.5	1	1	1	2		
+headline	positive_control	reference	control	membership_f1				0		
+headline	positive_control	reference	control	skill_level_bcubed_f1	1	1	1	2		
+headline	positive_control	reference	control	skill_merge_accuracy_node	1	1	1	2		
+headline	positive_control	reference	control	skill_event_recovery_0.5	1	1	1	2		
+headline	positive_control	reference	control	skill_membership_f1				0		
+headline	positive_control	reference	control	merge_accuracy_sd_posthoc	1	1	1	1		
+headline	positive_control	reference	control	event_recovery_0.8	1	1	1	2		
+noncontrol_all	positive_control	reference	control	level_bcubed_f1	1	1	1	2		
+noncontrol_all	positive_control	reference	control	merge_accuracy_node	1	1	1	2		
+noncontrol_all	positive_control	reference	control	event_recovery_0.5	1	1	1	2		
+noncontrol_all	positive_control	reference	control	membership_f1				0		
+noncontrol_all	positive_control	reference	control	skill_level_bcubed_f1	1	1	1	2		
+noncontrol_all	positive_control	reference	control	skill_merge_accuracy_node	1	1	1	2		
+noncontrol_all	positive_control	reference	control	skill_event_recovery_0.5	1	1	1	2		
+noncontrol_all	positive_control	reference	control	skill_membership_f1				0		
+noncontrol_all	positive_control	reference	control	merge_accuracy_sd_posthoc	1	1	1	1		
+noncontrol_all	positive_control	reference	control	event_recovery_0.8	1	1	1	2		
+control	positive_control	reference	control	level_bcubed_f1				0		
+control	positive_control	reference	control	merge_accuracy_node				0		
+control	positive_control	reference	control	event_recovery_0.5				0		
+control	positive_control	reference	control	membership_f1				0		
+control	positive_control	reference	control	skill_level_bcubed_f1				0		
+control	positive_control	reference	control	skill_merge_accuracy_node				0		
+control	positive_control	reference	control	skill_event_recovery_0.5				0		
+control	positive_control	reference	control	skill_membership_f1				0		
+control	positive_control	reference	control	merge_accuracy_sd_posthoc				0		
+control	positive_control	reference	control	event_recovery_0.8				0		
+headline	all_singletons		control	level_bcubed_f1	0.694545	0.605065	0.784026	2		
+headline	all_singletons		control	merge_accuracy_node	0.128469	0.114081	0.142857	2		
+headline	all_singletons		control	event_recovery_0.5	0	0	0	2		
+headline	all_singletons		control	membership_f1				0		
+headline	all_singletons		control	skill_level_bcubed_f1	-0.807676	-1.61535	0	2		
+headline	all_singletons		control	skill_merge_accuracy_node	-2.94714	-5	-0.894272	2		
+headline	all_singletons		control	skill_event_recovery_0.5	0	0	0	2		
+headline	all_singletons		control	skill_membership_f1				0		
+headline	all_singletons		control	merge_accuracy_sd_posthoc	0.5	0.5	0.5	1		
+headline	all_singletons		control	event_recovery_0.8	0	0	0	2		
+noncontrol_all	all_singletons		control	level_bcubed_f1	0.694545	0.605065	0.784026	2		
+noncontrol_all	all_singletons		control	merge_accuracy_node	0.128469	0.114081	0.142857	2		
+noncontrol_all	all_singletons		control	event_recovery_0.5	0	0	0	2		
+noncontrol_all	all_singletons		control	membership_f1				0		
+noncontrol_all	all_singletons		control	skill_level_bcubed_f1	-0.807676	-1.61535	0	2		
+noncontrol_all	all_singletons		control	skill_merge_accuracy_node	-2.94714	-5	-0.894272	2		
+noncontrol_all	all_singletons		control	skill_event_recovery_0.5	0	0	0	2		
+noncontrol_all	all_singletons		control	skill_membership_f1				0		
+noncontrol_all	all_singletons		control	merge_accuracy_sd_posthoc	0.5	0.5	0.5	1		
+noncontrol_all	all_singletons		control	event_recovery_0.8	0	0	0	2		
+control	all_singletons		control	level_bcubed_f1				0		
+control	all_singletons		control	merge_accuracy_node				0		
+control	all_singletons		control	event_recovery_0.5				0		
+control	all_singletons		control	membership_f1				0		
+control	all_singletons		control	skill_level_bcubed_f1				0		
+control	all_singletons		control	skill_merge_accuracy_node				0		
+control	all_singletons		control	skill_event_recovery_0.5				0		
+control	all_singletons		control	skill_membership_f1				0		
+control	all_singletons		control	merge_accuracy_sd_posthoc				0		
+control	all_singletons		control	event_recovery_0.8				0		
+headline	one_big_hog		control	level_bcubed_f1	0.789595	0.615239	0.96395	2		
+headline	one_big_hog		control	merge_accuracy_node	0.871531	0.857143	0.885919	2		
+headline	one_big_hog		control	event_recovery_0.5	0	0	0	2		
+headline	one_big_hog		control	membership_f1				0		
+headline	one_big_hog		control	skill_level_bcubed_f1	-0.398085	-0.781511	-0.0146602	2		
+headline	one_big_hog		control	skill_merge_accuracy_node	-0.084235	-0.16847	0	2		
+headline	one_big_hog		control	skill_event_recovery_0.5	0	0	0	2		
+headline	one_big_hog		control	skill_membership_f1				0		
+headline	one_big_hog		control	merge_accuracy_sd_posthoc	0.5	0.5	0.5	1		
+headline	one_big_hog		control	event_recovery_0.8	0	0	0	2		
+noncontrol_all	one_big_hog		control	level_bcubed_f1	0.789595	0.615239	0.96395	2		
+noncontrol_all	one_big_hog		control	merge_accuracy_node	0.871531	0.857143	0.885919	2		
+noncontrol_all	one_big_hog		control	event_recovery_0.5	0	0	0	2		
+noncontrol_all	one_big_hog		control	membership_f1				0		
+noncontrol_all	one_big_hog		control	skill_level_bcubed_f1	-0.398085	-0.781511	-0.0146602	2		
+noncontrol_all	one_big_hog		control	skill_merge_accuracy_node	-0.084235	-0.16847	0	2		
+noncontrol_all	one_big_hog		control	skill_event_recovery_0.5	0	0	0	2		
+noncontrol_all	one_big_hog		control	skill_membership_f1				0		
+noncontrol_all	one_big_hog		control	merge_accuracy_sd_posthoc	0.5	0.5	0.5	1		
+noncontrol_all	one_big_hog		control	event_recovery_0.8	0	0	0	2		
+control	one_big_hog		control	level_bcubed_f1				0		
+control	one_big_hog		control	merge_accuracy_node				0		
+control	one_big_hog		control	event_recovery_0.5				0		
+control	one_big_hog		control	membership_f1				0		
+control	one_big_hog		control	skill_level_bcubed_f1				0		
+control	one_big_hog		control	skill_merge_accuracy_node				0		
+control	one_big_hog		control	skill_event_recovery_0.5				0		
+control	one_big_hog		control	skill_membership_f1				0		
+control	one_big_hog		control	merge_accuracy_sd_posthoc				0		
+control	one_big_hog		control	event_recovery_0.8				0		
+headline	random_relabel	mean10	control	level_bcubed_f1	0.694458	0.605346	0.78357	2		
+headline	random_relabel	mean10	control	merge_accuracy_node	0.128594	0.114558	0.14263	2		
+headline	random_relabel	mean10	control	event_recovery_0.5	0	0	0	2		
+headline	random_relabel	mean10	control	membership_f1				0		
+headline	random_relabel	mean10	control	skill_level_bcubed_f1	-0.807817	-1.61352	-0.00211122	2		
+headline	random_relabel	mean10	control	skill_merge_accuracy_node	-2.94747	-5.00159	-0.893344	2		
+headline	random_relabel	mean10	control	skill_event_recovery_0.5	0	0	0	2		
+headline	random_relabel	mean10	control	skill_membership_f1				0		
+headline	random_relabel	mean10	control	merge_accuracy_sd_posthoc	0.500294	0.500294	0.500294	1		
+headline	random_relabel	mean10	control	event_recovery_0.8	0	0	0	2		
+noncontrol_all	random_relabel	mean10	control	level_bcubed_f1	0.694458	0.605346	0.78357	2		
+noncontrol_all	random_relabel	mean10	control	merge_accuracy_node	0.128594	0.114558	0.14263	2		
+noncontrol_all	random_relabel	mean10	control	event_recovery_0.5	0	0	0	2		
+noncontrol_all	random_relabel	mean10	control	membership_f1				0		
+noncontrol_all	random_relabel	mean10	control	skill_level_bcubed_f1	-0.807817	-1.61352	-0.00211122	2		
+noncontrol_all	random_relabel	mean10	control	skill_merge_accuracy_node	-2.94747	-5.00159	-0.893344	2		
+noncontrol_all	random_relabel	mean10	control	skill_event_recovery_0.5	0	0	0	2		
+noncontrol_all	random_relabel	mean10	control	skill_membership_f1				0		
+noncontrol_all	random_relabel	mean10	control	merge_accuracy_sd_posthoc	0.500294	0.500294	0.500294	1		
+noncontrol_all	random_relabel	mean10	control	event_recovery_0.8	0	0	0	2		
+control	random_relabel	mean10	control	level_bcubed_f1				0		
+control	random_relabel	mean10	control	merge_accuracy_node				0		
+control	random_relabel	mean10	control	event_recovery_0.5				0		
+control	random_relabel	mean10	control	membership_f1				0		
+control	random_relabel	mean10	control	skill_level_bcubed_f1				0		
+control	random_relabel	mean10	control	skill_merge_accuracy_node				0		
+control	random_relabel	mean10	control	skill_event_recovery_0.5				0		
+control	random_relabel	mean10	control	skill_membership_f1				0		
+control	random_relabel	mean10	control	merge_accuracy_sd_posthoc				0		
+control	random_relabel	mean10	control	event_recovery_0.8				0		
+headline	fastoma	default_declared	tool	level_bcubed_f1	0.91979	0.872835	0.966744	2		
+headline	fastoma	default_declared	tool	merge_accuracy_node	0.942159	0.90019	0.984127	2		
+headline	fastoma	default_declared	tool	event_recovery_0.5	0.134328	0	0.268657	2		
+headline	fastoma	default_declared	tool	membership_f1				0		
+headline	fastoma	default_declared	tool	skill_level_bcubed_f1	0.469638	0.411202	0.528074	2		
+headline	fastoma	default_declared	tool	skill_merge_accuracy_node	0.632911	0.376933	0.888889	2		
+headline	fastoma	default_declared	tool	skill_event_recovery_0.5	0.134328	0	0.268657	2		
+headline	fastoma	default_declared	tool	skill_membership_f1				0		
+headline	fastoma	default_declared	tool	merge_accuracy_sd_posthoc	0.75587	0.75587	0.75587	1		
+headline	fastoma	default_declared	tool	event_recovery_0.8	0.134328	0	0.268657	2		
+noncontrol_all	fastoma	default_declared	tool	level_bcubed_f1	0.91979	0.872835	0.966744	2		
+noncontrol_all	fastoma	default_declared	tool	merge_accuracy_node	0.942159	0.90019	0.984127	2		
+noncontrol_all	fastoma	default_declared	tool	event_recovery_0.5	0.134328	0	0.268657	2		
+noncontrol_all	fastoma	default_declared	tool	membership_f1				0		
+noncontrol_all	fastoma	default_declared	tool	skill_level_bcubed_f1	0.469638	0.411202	0.528074	2		
+noncontrol_all	fastoma	default_declared	tool	skill_merge_accuracy_node	0.632911	0.376933	0.888889	2		
+noncontrol_all	fastoma	default_declared	tool	skill_event_recovery_0.5	0.134328	0	0.268657	2		
+noncontrol_all	fastoma	default_declared	tool	skill_membership_f1				0		
+noncontrol_all	fastoma	default_declared	tool	merge_accuracy_sd_posthoc	0.75587	0.75587	0.75587	1		
+noncontrol_all	fastoma	default_declared	tool	event_recovery_0.8	0.134328	0	0.268657	2		
+control	fastoma	default_declared	tool	level_bcubed_f1				0		
+control	fastoma	default_declared	tool	merge_accuracy_node				0		
+control	fastoma	default_declared	tool	event_recovery_0.5				0		
+control	fastoma	default_declared	tool	membership_f1				0		
+control	fastoma	default_declared	tool	skill_level_bcubed_f1				0		
+control	fastoma	default_declared	tool	skill_merge_accuracy_node				0		
+control	fastoma	default_declared	tool	skill_event_recovery_0.5				0		
+control	fastoma	default_declared	tool	skill_membership_f1				0		
+control	fastoma	default_declared	tool	merge_accuracy_sd_posthoc				0		
+control	fastoma	default_declared	tool	event_recovery_0.8				0		
+headline	fastoma	default_late	tool	level_bcubed_f1	0.919716	0.872835	0.966598	2		
+headline	fastoma	default_late	tool	merge_accuracy_node	0.94184	0.899553	0.984127	2		
+headline	fastoma	default_late	tool	event_recovery_0.5	0.139303	0	0.278607	2		
+headline	fastoma	default_late	tool	membership_f1				0		
+headline	fastoma	default_late	tool	skill_level_bcubed_f1	0.467523	0.411202	0.523844	2		
+headline	fastoma	default_late	tool	skill_merge_accuracy_node	0.628462	0.368036	0.888889	2		
+headline	fastoma	default_late	tool	skill_event_recovery_0.5	0.139303	0	0.278607	2		
+headline	fastoma	default_late	tool	skill_membership_f1				0		
+headline	fastoma	default_late	tool	merge_accuracy_sd_posthoc	0.754132	0.754132	0.754132	1		
+headline	fastoma	default_late	tool	event_recovery_0.8	0.139303	0	0.278607	2		
+noncontrol_all	fastoma	default_late	tool	level_bcubed_f1	0.919716	0.872835	0.966598	2		
+noncontrol_all	fastoma	default_late	tool	merge_accuracy_node	0.94184	0.899553	0.984127	2		
+noncontrol_all	fastoma	default_late	tool	event_recovery_0.5	0.139303	0	0.278607	2		
+noncontrol_all	fastoma	default_late	tool	membership_f1				0		
+noncontrol_all	fastoma	default_late	tool	skill_level_bcubed_f1	0.467523	0.411202	0.523844	2		
+noncontrol_all	fastoma	default_late	tool	skill_merge_accuracy_node	0.628462	0.368036	0.888889	2		
+noncontrol_all	fastoma	default_late	tool	skill_event_recovery_0.5	0.139303	0	0.278607	2		
+noncontrol_all	fastoma	default_late	tool	skill_membership_f1				0		
+noncontrol_all	fastoma	default_late	tool	merge_accuracy_sd_posthoc	0.754132	0.754132	0.754132	1		
+noncontrol_all	fastoma	default_late	tool	event_recovery_0.8	0.139303	0	0.278607	2		
+control	fastoma	default_late	tool	level_bcubed_f1				0		
+control	fastoma	default_late	tool	merge_accuracy_node				0		
+control	fastoma	default_late	tool	event_recovery_0.5				0		
+control	fastoma	default_late	tool	membership_f1				0		
+control	fastoma	default_late	tool	skill_level_bcubed_f1				0		
+control	fastoma	default_late	tool	skill_merge_accuracy_node				0		
+control	fastoma	default_late	tool	skill_event_recovery_0.5				0		
+control	fastoma	default_late	tool	skill_membership_f1				0		
+control	fastoma	default_late	tool	merge_accuracy_sd_posthoc				0		
+control	fastoma	default_late	tool	event_recovery_0.8				0		
+headline	of_flat	default	tool	level_bcubed_f1	0.789672	0.615239	0.964105	2		
+headline	of_flat	default	tool	merge_accuracy_node	0.871942	0.857143	0.886742	2		
+headline	of_flat	default	tool	event_recovery_0.5	0.00746269	0	0.0149254	2		
+headline	of_flat	default	tool	membership_f1				0		
+headline	of_flat	default	tool	skill_level_bcubed_f1	-0.359817	-0.781511	0.0618762	2		
+headline	of_flat	default	tool	skill_merge_accuracy_node	-0.0491548	-0.0983097	0	2		
+headline	of_flat	default	tool	skill_event_recovery_0.5	0.00746269	0	0.0149254	2		
+headline	of_flat	default	tool	skill_membership_f1				0		
+headline	of_flat	default	tool	merge_accuracy_sd_posthoc	0.538887	0.538887	0.538887	1		
+headline	of_flat	default	tool	event_recovery_0.8	0.00746269	0	0.0149254	2		
+noncontrol_all	of_flat	default	tool	level_bcubed_f1	0.789672	0.615239	0.964105	2		
+noncontrol_all	of_flat	default	tool	merge_accuracy_node	0.871942	0.857143	0.886742	2		
+noncontrol_all	of_flat	default	tool	event_recovery_0.5	0.00746269	0	0.0149254	2		
+noncontrol_all	of_flat	default	tool	membership_f1				0		
+noncontrol_all	of_flat	default	tool	skill_level_bcubed_f1	-0.359817	-0.781511	0.0618762	2		
+noncontrol_all	of_flat	default	tool	skill_merge_accuracy_node	-0.0491548	-0.0983097	0	2		
+noncontrol_all	of_flat	default	tool	skill_event_recovery_0.5	0.00746269	0	0.0149254	2		
+noncontrol_all	of_flat	default	tool	skill_membership_f1				0		
+noncontrol_all	of_flat	default	tool	merge_accuracy_sd_posthoc	0.538887	0.538887	0.538887	1		
+noncontrol_all	of_flat	default	tool	event_recovery_0.8	0.00746269	0	0.0149254	2		
+control	of_flat	default	tool	level_bcubed_f1				0		
+control	of_flat	default	tool	merge_accuracy_node				0		
+control	of_flat	default	tool	event_recovery_0.5				0		
+control	of_flat	default	tool	membership_f1				0		
+control	of_flat	default	tool	skill_level_bcubed_f1				0		
+control	of_flat	default	tool	skill_merge_accuracy_node				0		
+control	of_flat	default	tool	skill_event_recovery_0.5				0		
+control	of_flat	default	tool	skill_membership_f1				0		
+control	of_flat	default	tool	merge_accuracy_sd_posthoc				0		
+control	of_flat	default	tool	event_recovery_0.8				0		
+headline	of_flat	dendroblast	tool	level_bcubed_f1	0.789807	0.615239	0.964375	2		
+headline	of_flat	dendroblast	tool	merge_accuracy_node	0.872393	0.857143	0.887644	2		
+headline	of_flat	dendroblast	tool	event_recovery_0.5	0.00995025	0	0.0199005	2		
+headline	of_flat	dendroblast	tool	membership_f1				0		
+headline	of_flat	dendroblast	tool	skill_level_bcubed_f1	-0.357938	-0.781511	0.0656342	2		
+headline	of_flat	dendroblast	tool	skill_merge_accuracy_node	-0.0466407	-0.0932815	0	2		
+headline	of_flat	dendroblast	tool	skill_event_recovery_0.5	0.00995025	0	0.0199005	2		
+headline	of_flat	dendroblast	tool	skill_membership_f1				0		
+headline	of_flat	dendroblast	tool	merge_accuracy_sd_posthoc	0.540884	0.540884	0.540884	1		
+headline	of_flat	dendroblast	tool	event_recovery_0.8	0.00995025	0	0.0199005	2		
+noncontrol_all	of_flat	dendroblast	tool	level_bcubed_f1	0.789807	0.615239	0.964375	2		
+noncontrol_all	of_flat	dendroblast	tool	merge_accuracy_node	0.872393	0.857143	0.887644	2		
+noncontrol_all	of_flat	dendroblast	tool	event_recovery_0.5	0.00995025	0	0.0199005	2		
+noncontrol_all	of_flat	dendroblast	tool	membership_f1				0		
+noncontrol_all	of_flat	dendroblast	tool	skill_level_bcubed_f1	-0.357938	-0.781511	0.0656342	2		
+noncontrol_all	of_flat	dendroblast	tool	skill_merge_accuracy_node	-0.0466407	-0.0932815	0	2		
+noncontrol_all	of_flat	dendroblast	tool	skill_event_recovery_0.5	0.00995025	0	0.0199005	2		
+noncontrol_all	of_flat	dendroblast	tool	skill_membership_f1				0		
+noncontrol_all	of_flat	dendroblast	tool	merge_accuracy_sd_posthoc	0.540884	0.540884	0.540884	1		
+noncontrol_all	of_flat	dendroblast	tool	event_recovery_0.8	0.00995025	0	0.0199005	2		
+control	of_flat	dendroblast	tool	level_bcubed_f1				0		
+control	of_flat	dendroblast	tool	merge_accuracy_node				0		
+control	of_flat	dendroblast	tool	event_recovery_0.5				0		
+control	of_flat	dendroblast	tool	membership_f1				0		
+control	of_flat	dendroblast	tool	skill_level_bcubed_f1				0		
+control	of_flat	dendroblast	tool	skill_merge_accuracy_node				0		
+control	of_flat	dendroblast	tool	skill_event_recovery_0.5				0		
+control	of_flat	dendroblast	tool	skill_membership_f1				0		
+control	of_flat	dendroblast	tool	merge_accuracy_sd_posthoc				0		
+control	of_flat	dendroblast	tool	event_recovery_0.8				0		
+headline	orthofinder	default	tool	level_bcubed_f1	0.927503	0.877842	0.977164	2		
+headline	orthofinder	default	tool	merge_accuracy_node	0.878715	0.857143	0.900288	2		
+headline	orthofinder	default	tool	event_recovery_0.5	0.0597015	0	0.119403	2		
+headline	orthofinder	default	tool	membership_f1				0		
+headline	orthofinder	default	tool	skill_level_bcubed_f1	0.425487	0.416586	0.434388	2		
+headline	orthofinder	default	tool	skill_merge_accuracy_node	0.0314348	0	0.0628697	2		
+headline	orthofinder	default	tool	skill_event_recovery_0.5	0.0597015	0	0.119403	2		
+headline	orthofinder	default	tool	skill_membership_f1				0		
+headline	orthofinder	default	tool	merge_accuracy_sd_posthoc	0.596451	0.596451	0.596451	1		
+headline	orthofinder	default	tool	event_recovery_0.8	0.0597015	0	0.119403	2		
+noncontrol_all	orthofinder	default	tool	level_bcubed_f1	0.927503	0.877842	0.977164	2		
+noncontrol_all	orthofinder	default	tool	merge_accuracy_node	0.878715	0.857143	0.900288	2		
+noncontrol_all	orthofinder	default	tool	event_recovery_0.5	0.0597015	0	0.119403	2		
+noncontrol_all	orthofinder	default	tool	membership_f1				0		
+noncontrol_all	orthofinder	default	tool	skill_level_bcubed_f1	0.425487	0.416586	0.434388	2		
+noncontrol_all	orthofinder	default	tool	skill_merge_accuracy_node	0.0314348	0	0.0628697	2		
+noncontrol_all	orthofinder	default	tool	skill_event_recovery_0.5	0.0597015	0	0.119403	2		
+noncontrol_all	orthofinder	default	tool	skill_membership_f1				0		
+noncontrol_all	orthofinder	default	tool	merge_accuracy_sd_posthoc	0.596451	0.596451	0.596451	1		
+noncontrol_all	orthofinder	default	tool	event_recovery_0.8	0.0597015	0	0.119403	2		
+control	orthofinder	default	tool	level_bcubed_f1				0		
+control	orthofinder	default	tool	merge_accuracy_node				0		
+control	orthofinder	default	tool	event_recovery_0.5				0		
+control	orthofinder	default	tool	membership_f1				0		
+control	orthofinder	default	tool	skill_level_bcubed_f1				0		
+control	orthofinder	default	tool	skill_merge_accuracy_node				0		
+control	orthofinder	default	tool	skill_event_recovery_0.5				0		
+control	orthofinder	default	tool	skill_membership_f1				0		
+control	orthofinder	default	tool	merge_accuracy_sd_posthoc				0		
+control	orthofinder	default	tool	event_recovery_0.8				0		
+headline	orthofinder	dendroblast	tool	level_bcubed_f1	0.927596	0.877842	0.977349	2		
+headline	orthofinder	dendroblast	tool	merge_accuracy_node	0.880441	0.857143	0.903738	2		
+headline	orthofinder	dendroblast	tool	event_recovery_0.5	0.0721393	0	0.144279	2		
+headline	orthofinder	dendroblast	tool	membership_f1				0		
+headline	orthofinder	dendroblast	tool	skill_level_bcubed_f1	0.425333	0.416278	0.434388	2		
+headline	orthofinder	dendroblast	tool	skill_merge_accuracy_node	0.0472323	0	0.0944646	2		
+headline	orthofinder	dendroblast	tool	skill_event_recovery_0.5	0.0721393	0	0.144279	2		
+headline	orthofinder	dendroblast	tool	skill_membership_f1				0		
+headline	orthofinder	dendroblast	tool	merge_accuracy_sd_posthoc	0.603273	0.603273	0.603273	1		
+headline	orthofinder	dendroblast	tool	event_recovery_0.8	0.0721393	0	0.144279	2		
+noncontrol_all	orthofinder	dendroblast	tool	level_bcubed_f1	0.927596	0.877842	0.977349	2		
+noncontrol_all	orthofinder	dendroblast	tool	merge_accuracy_node	0.880441	0.857143	0.903738	2		
+noncontrol_all	orthofinder	dendroblast	tool	event_recovery_0.5	0.0721393	0	0.144279	2		
+noncontrol_all	orthofinder	dendroblast	tool	membership_f1				0		
+noncontrol_all	orthofinder	dendroblast	tool	skill_level_bcubed_f1	0.425333	0.416278	0.434388	2		
+noncontrol_all	orthofinder	dendroblast	tool	skill_merge_accuracy_node	0.0472323	0	0.0944646	2		
+noncontrol_all	orthofinder	dendroblast	tool	skill_event_recovery_0.5	0.0721393	0	0.144279	2		
+noncontrol_all	orthofinder	dendroblast	tool	skill_membership_f1				0		
+noncontrol_all	orthofinder	dendroblast	tool	merge_accuracy_sd_posthoc	0.603273	0.603273	0.603273	1		
+noncontrol_all	orthofinder	dendroblast	tool	event_recovery_0.8	0.0721393	0	0.144279	2		
+control	orthofinder	dendroblast	tool	level_bcubed_f1				0		
+control	orthofinder	dendroblast	tool	merge_accuracy_node				0		
+control	orthofinder	dendroblast	tool	event_recovery_0.5				0		
+control	orthofinder	dendroblast	tool	membership_f1				0		
+control	orthofinder	dendroblast	tool	skill_level_bcubed_f1				0		
+control	orthofinder	dendroblast	tool	skill_merge_accuracy_node				0		
+control	orthofinder	dendroblast	tool	skill_event_recovery_0.5				0		
+control	orthofinder	dendroblast	tool	skill_membership_f1				0		
+control	orthofinder	dendroblast	tool	merge_accuracy_sd_posthoc				0		
+control	orthofinder	dendroblast	tool	event_recovery_0.8				0		
+headline	random_relabel	seeds10	control	level_bcubed_f1	0.694458				0.692376	0.694726
+headline	random_relabel	seeds10	control	merge_accuracy_node	0.128594				0.127522	0.128858
+headline	random_relabel	seeds10	control	event_recovery_0.5	0				0	0
+headline	random_relabel	seeds10	control	merge_accuracy_sd_posthoc	0.500294				0.500082	0.501079
+headline	random_relabel	seeds10	control	event_recovery_0.8	0				0	0
+noncontrol_all	random_relabel	seeds10	control	level_bcubed_f1	0.694458				0.692376	0.694726
+noncontrol_all	random_relabel	seeds10	control	merge_accuracy_node	0.128594				0.127522	0.128858
+noncontrol_all	random_relabel	seeds10	control	event_recovery_0.5	0				0	0
+noncontrol_all	random_relabel	seeds10	control	merge_accuracy_sd_posthoc	0.500294				0.500082	0.501079
+noncontrol_all	random_relabel	seeds10	control	event_recovery_0.8	0				0	0
+gate	fastoma	default_declared	tool	frac_units_identical_to_all_singletons	0.019221			1977		
+gate	fastoma	default_late	tool	frac_units_identical_to_all_singletons	0.019221			1977		
+gate	of_flat	default	tool	frac_units_identical_to_all_singletons	0.00354072			1977		
+gate	of_flat	dendroblast	tool	frac_units_identical_to_all_singletons	0.00354072			1977		
+gate	orthofinder	default	tool	frac_units_identical_to_all_singletons	0.00505817			1977		
+gate	orthofinder	dendroblast	tool	frac_units_identical_to_all_singletons	0.00556399			1977		

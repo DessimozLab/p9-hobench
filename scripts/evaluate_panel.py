@@ -5,7 +5,7 @@ families of panel P.  Usage: python scripts/evaluate_panel.py --panel Y --mode f
 Writes results/<P>_<mode>/{per_family,per_level,events,summary}.tsv, summary.md, provenance.json.
 Methods: each run dir (tool/variant from its manifest.json; FastOMA twice: dup placement
 'declared' = primary, 'late' = sensitivity) and controls (positive_control, all_singletons,
-one_hog_per_family, random_relabel = mean over seeds.SEEDS[:10] of the relabelled positive control).
+one_big_hog, random_relabel = mean over seeds.SEEDS[:10] of the relabelled positive control).
 Families without family.yaml (abandoned units) are not loaded.  Non-headline families
 (unique mapping < 80 %, `headline: false`, or a curation_log status line saying NOT headline)
 are scored and flagged in column `headline`.  Metrics/references are never altered here.
@@ -33,7 +33,7 @@ from hobench.seeds import SEEDS                                           # noqa
 from hobench.speciestree import SpeciesTree                               # noqa: E402
 from hobench.stats import aggregate, compare_methods, holm                # noqa: E402
 
-PF_METRICS = PRIMARY + ["event_recovery_0.8", "merge_accuracy_pairs", "merge_accuracy_tol1", "spurious_dup_rate",
+PF_METRICS = PRIMARY + ["merge_accuracy_sd_posthoc", "event_recovery_0.8", "merge_accuracy_pairs", "merge_accuracy_tol1", "spurious_dup_rate",
                         "membership_precision", "membership_recall", "orthobench_f", "frac_over_split",
                         "frac_over_merged", "level_pair_f1_pooled", "mean_abs_depth_frac_error", "wf_ortholog_f1"]
 N_OF = {"level_bcubed_f1": "n_asserted_pairs", "merge_accuracy_node": "n_asserted_pairs", "membership_f1": "n_members"}
@@ -72,12 +72,33 @@ def headline_info(f) -> tuple[bool, str]:
 
 
 # ---------------------------------------------------------------- scoring
+SCALARS["merge_accuracy_sd_posthoc"] = ("pair_merge", "sd_balanced_posthoc")   # POST-RESULTS secondary (ERRATA)
+CONTROL_COLLECTIONS = {"RPROT"}
+CONTROL_IDS = {"K02_trGTPases", "E05_MCM"}
+
+
+def track_of(f) -> str:
+    """control = K01 RPROT units, K02_trGTPases, E05_MCM; collection = YGOB; family = rest."""
+    if f.collection in CONTROL_COLLECTIONS or f.id in CONTROL_IDS or f.id.startswith("K01_RPROT"):
+        return "control"
+    return "collection" if f.collection == "YGOB" else "family"
+
+
 def score(st, rfs, pred, ctx):
     """-> list of slim result dicts (scalars intact) + per_level/event rows."""
     out = []
     for rf in rfs:
         r = evaluate_family(rf, st, pred, ctx, per_gene=False, compact=False)
         r["_levels"] = r["per_level"]
+        acc = defaultdict(list)
+        for nd in r["nodes"]:
+            if nd.get("accuracy") is not None:
+                acc[nd["ev"]].append(nd["accuracy"])
+        r["pair_merge"]["sd_balanced_posthoc"] = (0.5 * (np.mean(acc["S"]) + np.mean(acc["D"]))
+                                                  if acc["S"] and acc["D"] else None)
+        if not (rf.family.complete_species or rf.family.decoys):   # R2-3: membership F1 undefined without complete cells / decoys
+            for k in ("membership_f1", "membership_precision", "membership_recall"):
+                r["integrity"][k] = None
         for k in HEAVY:
             r.pop(k, None)
         out.append(r)
@@ -126,6 +147,8 @@ def baselines(ctrl_single, ctrl_big, relabel_runs):
 # ---------------------------------------------------------------- predictions
 def load_run(run: Path, st, kw, cache: Path, placements):
     man = json.loads((run / "manifest.json").read_text())
+    if man.get("status") != "done":
+        raise SystemExit(f"REFUSING to score {run}: manifest status {man.get('status')!r} != 'done'")
     tool, variant = man["tool"], man.get("variant", "default")
     res = []
     if tool == "fastoma":
@@ -186,6 +209,7 @@ def main():
         print(rep, file=sys.stderr)
         return 1
     hl = {f.id: headline_info(f) for f in fams}
+    tk = {f.id: track_of(f) for f in fams}
     keep, cs = set(), set()
     for f in fams:
         keep |= set(f.member_ids) | set(f.decoys)
@@ -208,9 +232,8 @@ def main():
     base = baselines(sing, big, rel_runs)
     methods += [("positive_control", "reference", "control", pos_res, None),
                 ("all_singletons", "", "control", sing, None),
-                ("one_hog_per_family", "", "control", big, None),
+                ("one_big_hog", "", "control", big, None),
                 ("random_relabel", f"mean{N_RELABEL_SEEDS}", "control", rel, None)]
-    del rel_runs
     # tool runs
     prov_runs = {}
     for run in sorted(p for p in rundir.iterdir() if (p / "manifest.json").exists()):
@@ -242,12 +265,12 @@ def main():
         w = csv.writer(fh, delimiter="\t", lineterminator="\n")
         wl = csv.writer(fl, delimiter="\t", lineterminator="\n")
         we = csv.writer(fe, delimiter="\t", lineterminator="\n")
-        w.writerow(["family", "collection", "method", "variant", "metric", "value", "n", "headline", "headline_note"])
+        w.writerow(["family", "collection", "track", "method", "variant", "metric", "value", "n", "headline", "headline_note"])
         wl.writerow(["family", "collection", "method", "variant", "level", "depth", "n_pairs", "n_genes", "tp", "fp", "fn",
                      "pair_f1", "bcubed_precision", "bcubed_recall", "bcubed_f1"])
         we.writerow(["family", "collection", "method", "variant", "event", "ev", "level", "tags", "n_copies", "n_pairs",
                      "frac_correct", "separation", "cohesion_min", "merge_side", "frac_over_split", "frac_over_merged",
-                     "modal_pred_merge", "recovered_0.5", "recovered_0.8"])
+                     "modal_pred_merge", "testable", "recovered_0.5", "recovered_0.8"])
         for meth, var, kind, res, _ in methods:
             for r in res:
                 sc = family_scalars(r)
@@ -260,7 +283,7 @@ def main():
                         nn = r["events_summary"]["n_events"] if m.startswith("event") else r["spurious_duplications"]["opportunities"]
                     elif nn is None:
                         nn = r["n_asserted_pairs"] if "merge" in m or "level" in m else r["n_members"]
-                    w.writerow([r["id"], coll, meth, var, m, fnum(sc[m]), nn, int(hd), note])
+                    w.writerow([r["id"], coll, tk[r["id"]], meth, var, m, fnum(sc[m]), nn, int(hd), note])
                 for L in r["_levels"]:
                     wl.writerow([r["id"], coll, meth, var, L["level"], L["depth"], L["n_pairs"], L["n_genes"], L["tp"], L["fp"],
                                  L["fn"], fnum(L["f1"]), fnum(L["bcubed_precision"]), fnum(L["bcubed_recall"]),
@@ -269,47 +292,61 @@ def main():
                     we.writerow([r["id"], coll, meth, var, e["event"], e["ev"], e["level"], ",".join(e["tags"]),
                                  e["n_copies"], e["n_pairs"], fnum(e["frac_correct"]), fnum(e["separation"]),
                                  fnum(e["cohesion_min"]), fnum(e["merge_side"]), fnum(e["frac_over_split"]),
-                                 fnum(e["frac_over_merged"]), e["modal_pred_merge"], int(e["recovered_0.5"]),
+                                 fnum(e["frac_over_merged"]), e["modal_pred_merge"], int(e.get("testable", True)), int(e["recovered_0.5"]),
                                  int(e["recovered_0.8"])])
     log("per_* written")
 
-    # summary: aggregate per method on all families and on headline-only
-    smetrics = PRIMARY + [f"skill_{m}" for m in PRIMARY] + ["event_recovery_0.8", "spurious_dup_rate"]
-    rows = []
-    aggs = {}
+    # ---- summary (descriptive only: means over items, min/max, n; no CIs -- confirmatory test is scripts/confirmatory.py)
+    from hobench.stats import items as stat_items
+    smetrics = PRIMARY + [f"skill_{m}" for m in PRIMARY] + ["merge_accuracy_sd_posthoc", "event_recovery_0.8"]
+    scopes = {"headline": lambda r: tk[r["id"]] != "control" and hl[r["id"]][0],
+              "noncontrol_all": lambda r: tk[r["id"]] != "control",
+              "control": lambda r: tk[r["id"]] == "control"}
+
+    def describe(res, scope):
+        its = stat_items([r for r in res if scopes[scope](r)])
+        out_ = {}
+        for m in smetrics:
+            xs = [v["scalars"][m] for v in its.values() if v["scalars"].get(m) is not None]
+            out_[m] = (float(np.mean(xs)) if xs else None, min(xs) if xs else None, max(xs) if xs else None, len(xs))
+        return out_
+
+    rows, desc = [], {}
     for meth, var, kind, res, _ in methods:
-        for scope, sel in (("all", res), ("headline", [r for r in res if hl[r["id"]][0]])):
-            ag = aggregate(sel, n_boot=a.n_boot)
-            aggs[(meth, var, scope)] = ag
-            tracks = [("combined", ag["combined"]), ("families", ag["families"])] + \
-                     [(f"collection:{c}", {k: v for k, v in d.items() if k != "n_units"}) for c, d in ag["collections"].items()]
-            for tname, tr in tracks:
-                for m in smetrics:
-                    d = tr[m]
-                    rows.append([scope, tname, meth, var, kind, m, fnum(d["mean"]), fnum(d["ci_low"]), fnum(d["ci_high"]),
-                                 fnum(d.get("min")), fnum(d.get("max")), d["n"]])
-    # paired comparisons OF vs FastOMA (declared), Holm over the 4 primary
-    def get(tool, var):
-        for m in methods:
-            if m[0] == tool and m[1] == var:
-                return m[3]
-    cmp_rows = []
-    of_d, fo_d = get("orthofinder", "default"), get("fastoma", "default_declared")
-    if of_d and fo_d:
-        for scope in ("all", "headline"):
-            sel = (lambda rs: rs) if scope == "all" else (lambda rs: [r for r in rs if hl[r["id"]][0]])
-            cs_ = {m: compare_methods(sel(of_d), sel(fo_d), m, n_boot=a.n_boot) for m in PRIMARY}
-            hp = holm({m: c["wilcoxon_p"] for m, c in cs_.items()})
-            for m, c in cs_.items():
-                cmp_rows.append([scope, "paired:orthofinder_default-fastoma_default_declared", "", "", "comparison", m,
-                                 fnum(c["mean_diff"]), fnum(c["ci_low"]), fnum(c["ci_high"]), fnum(c["min_diff"]),
-                                 fnum(c["max_diff"]), c["n"]])
-                cmp_rows.append([scope, "paired:wilcoxon_p/holm", "", "", "comparison", m, fnum(c["wilcoxon_p"]),
-                                 fnum(hp[m]), "", "", "", c["n"]])
+        for scope in scopes:
+            d = desc[(meth, var, scope)] = describe(res, scope)
+            for m in smetrics:
+                mean_, lo, hi, n_ = d[m]
+                rows.append([scope, meth, var, kind, m, fnum(mean_), fnum(lo), fnum(hi), n_, "", ""])
+    # relabel: min-max over the 10 seeds of the item-mean
+    for scope in scopes:
+        for m in smetrics:
+            vals = []
+            for rr in rel_runs:
+                v = describe(rr, scope)[m][0]
+                if v is not None:
+                    vals.append(v)
+            if vals:
+                rows.append([scope, "random_relabel", f"seeds{N_RELABEL_SEEDS}", "control", m, fnum(np.mean(vals)), "", "", "",
+                             fnum(min(vals)), fnum(max(vals))])
+    # sanity gate: tool identical to all-singletons on >50% of units (all primary metrics equal)
+    gate = []
+    sing_sc = {r["id"]: family_scalars(r) for r in sing}
+    for meth, var, kind, res, _ in methods:
+        if kind != "tool":
+            continue
+        same = 0
+        for r in res:
+            sc, sg = family_scalars(r), sing_sc[r["id"]]
+            same += all((sc[m] is None and sg[m] is None) or (sc[m] is not None and sg[m] is not None and abs(sc[m] - sg[m]) < 1e-9)
+                        for m in PRIMARY)
+        fr = same / len(res)
+        gate.append((meth, var, fr, fr > 0.5))
+        rows.append(["gate", meth, var, "tool", "frac_units_identical_to_all_singletons", fnum(fr), "", "", len(res), "", ""])
     with open(out / "summary.tsv", "w", newline="") as fh:
         w = csv.writer(fh, delimiter="\t", lineterminator="\n")
-        w.writerow(["scope", "track", "method", "variant", "kind", "metric", "mean", "ci_low", "ci_high", "min", "max", "n"])
-        w.writerows(rows + cmp_rows)
+        w.writerow(["scope", "method", "variant", "kind", "metric", "mean", "min", "max", "n", "seed_min", "seed_max"])
+        w.writerows(rows)
 
     # provenance
     fdir = Path(a.families)
@@ -318,38 +355,36 @@ def main():
             "panel_tree_sha256": sha256_file(ptree), "panel_species_tsv_sha256": sha256_file(ROOT / "panels" / P / "species.tsv"),
             "families_tree_hash": tree_hash(manifest_entries(fdir)), "families_manifest_present": frozen,
             "families_manifest_differences": check_manifest(fdir) if frozen else None,
-            "n_families": len(fams), "n_non_headline": sum(not h[0] for h in hl.values()),
+            "n_families": len(fams), "n_non_headline": sum(not h[0] for h in hl.values()), "n_control_track": sum(t == "control" for t in tk.values()),
             "seeds_relabel": SEEDS[:N_RELABEL_SEEDS], "n_boot": a.n_boot, "runs": prov_runs}
     (out / "provenance.json").write_text(json.dumps(prov, indent=1, default=str))
 
     # summary.md
-    L = [f"# Panel {P} / {mode}: evaluation summary", "",
-         f"hobench git {prov['hobench_git']['commit'][:10]} (dirty={prov['hobench_git']['dirty']}); "
-         f"{len(fams)} families, {prov['n_non_headline']} non-headline; families tree hash {prov['families_tree_hash'][:12]}.",
-         "Mean over items (collection = one item), scope=all families; CI = stratified bootstrap, none for n<5 "
-         "(then min-max). Details: summary.tsv (also scope=headline and per-collection tracks).", "",
-         "| method | variant | " + " | ".join(PRIMARY) + " | n items |", "|---|---|" + "---|" * (len(PRIMARY) + 1)]
-    for meth, var, kind, res, _ in methods:
-        c = aggs[(meth, var, "all")]["combined"]
-        cells = []
-        for m in PRIMARY:
-            d = c[m]
-            if d["mean"] is None:
-                cells.append("NA")
-            elif d["ci_low"] is not None:
-                cells.append(f"{d['mean']:.3f} [{d['ci_low']:.3f},{d['ci_high']:.3f}]")
-            else:
-                cells.append(f"{d['mean']:.3f} ({d['min']:.2f}-{d['max']:.2f})")
-        L.append(f"| {meth} | {var} | " + " | ".join(cells) + f" | {c[PRIMARY[0]]['n']} |")
-    L += ["", "Unit-level (families track + each collection's units; mean over units):", ""]
-    L += ["| method | variant | collection | " + " | ".join(PRIMARY) + " | n units |", "|---|---|---|" + "---|" * (len(PRIMARY) + 1)]
-    for meth, var, kind, res, _ in methods:
-        ag = aggs[(meth, var, "all")]
-        for c, d in ag["collections"].items():
-            L.append(f"| {meth} | {var} | {c} | " + " | ".join("NA" if d[m]["mean"] is None else f"{d[m]['mean']:.3f}" for m in PRIMARY)
-                     + f" | {d[PRIMARY[0]]['n']} |")
-    # sanity
-    L += ["", "## Sanity checks (per-family min/max over families with a defined value)", ""]
+    def cell(d, m):
+        mean_, lo, hi, n_ = d[m]
+        return "NA" if mean_ is None else f"{mean_:.3f}"
+    md = [f"# Panel {P} / {mode}: evaluation summary", "",
+          f"hobench git {prov['hobench_git']['commit'][:10]} (dirty={prov['hobench_git']['dirty']}); {len(fams)} families "
+          f"({sum(t == 'control' for t in tk.values())} control-track, {prov['n_non_headline']} non-headline); "
+          f"families tree hash {prov['families_tree_hash'][:12]}.",
+          "Descriptive only (mean over items; a collection is one item; no CIs). Headline = tracks family+collection, "
+          "headline-eligible; control track (K01 RPROT, K02, E05) reported separately. Trivial baselines are rows of every table; "
+          "skill = (s-b)/(1-b), b = per-family max(singletons, one big HOG, mean relabel). membership F1 is NA for families "
+          "without complete cells or decoys. Confirmatory test: scripts/confirmatory.py.", ""]
+    for scope in ("headline", "control"):
+        md += [f"## scope: {scope}", "",
+               "| method | variant | " + " | ".join(f"{m} (n) | skill" for m in PRIMARY) + " | S/D-bal merge acc (post-hoc) |",
+               "|---|---|" + "---|" * (2 * len(PRIMARY) + 1)]
+        for meth, var, kind, res, _ in methods:
+            d = desc[(meth, var, scope)]
+            md.append(f"| {meth} | {var} | " + " | ".join(f"{cell(d, m)} ({d[m][3]}) | {cell(d, 'skill_' + m)}" for m in PRIMARY)
+                      + f" | {cell(d, 'merge_accuracy_sd_posthoc')} |")
+        rl = [r for r in rows if r[0] == scope and r[1] == "random_relabel" and r[2].startswith("seeds") and r[4] in PRIMARY]
+        md += ["", "random relabel, min-max of item-mean over 10 seeds: " +
+               "; ".join(f"{r[4]} {r[9]}-{r[10]}" for r in rl), ""]
+    md += ["## Sanity gate (tool identical to all-singletons on >50% of units)", ""]
+    md += [f"- {m} {v}: {fr:.1%} of units identical to all-singletons" + ("  **FLAGGED**" if f else "") for m, v, fr, f in gate]
+    md += ["", "## Positive control / degenerate baselines (per-family min/mean/max)", ""]
     bad = []
     for meth, var, kind, res, _ in methods:
         if kind != "control":
@@ -357,14 +392,13 @@ def main():
         for m in PRIMARY:
             xs = [family_scalars(r)[m] for r in res if family_scalars(r)[m] is not None]
             if xs:
-                L.append(f"- {meth} {m}: mean {np.mean(xs):.4f}, min {min(xs):.4f}, max {max(xs):.4f}, n={len(xs)}")
+                md.append(f"- {meth} {m}: mean {np.mean(xs):.4f}, min {min(xs):.4f}, max {max(xs):.4f}, n={len(xs)}")
                 if meth == "positive_control" and min(xs) < 1 - 1e-9:
                     bad.append((m, [r["id"] for r in res if (family_scalars(r)[m] or 1) < 1 - 1e-9][:10]))
-    L.append("")
-    L.append("POSITIVE CONTROL: " + ("PERFECT on all primary endpoints." if not bad else f"NOT perfect: {bad}"))
-    (out / "summary.md").write_text("\n".join(L) + "\n")
+    md += ["", "POSITIVE CONTROL: " + ("PERFECT on all primary endpoints." if not bad else f"NOT perfect: {bad}")]
+    (out / "summary.md").write_text("\n".join(md) + "\n")
     log("done ->", out)
-    print("\n".join(L[:12 + 7]))
+    print("\n".join(md[:30]))
     return 0
 
 

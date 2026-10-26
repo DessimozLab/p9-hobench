@@ -1,0 +1,5 @@
+metric	n_items	mean_diff_OF_minus_FastOMA	p_perm	p_holm
+level_bcubed_f1	2	0.007713239878542499	0.49635036496350365	1.0
+merge_accuracy_node	2	-0.06344304993421052	1.0	1.0
+event_recovery_0.5	2	-0.07462686567164178	1.0	1.0
+membership_f1	10	0.051670300000000016	0.44895510448955106	1.0
