@@ -1,0 +1,91 @@
+id: E03_Rab
+name: Rab GTPases (eukaryote-wide; 20 LECA Rabs in six supergroups)
+panel: E
+collection: E_small_GTPases
+phenomena:
+- DEEP
+- LOSS
+- LSE
+- PROM
+descriptors:
+  n_members: 388
+  n_species: 15
+  mapped_fraction: 0.874
+  n_rows_panel_species: 444
+  status_counts:
+    mapped: 388
+    unmapped: 43
+    ambiguous: 13
+  per_species_mapped_fraction:
+    AMPQE: 0.732
+    ARATH: 0.926
+    CAPO3: 0.857
+    CHLRE: 1.0
+    DROME: 0.806
+    HUMAN: 0.848
+    MONBE: 0.957
+    NAEGR: 0.909
+    NEMVE: 0.882
+    PHYRM: 0.76
+    PLAF7: 1.0
+    THAPS: 1.0
+    TRIAD: 0.919
+    TRYB2: 0.857
+    YEAST: 0.9
+sources:
+- id: Kloepper2012
+  doi: 10.1186/1741-7007-10-71
+  pmid: '22873208'
+  title: 'Untangling the evolution of Rab G proteins: implications of a comprehensive genomic analysis'
+  year: 2012
+  journal: BMC Biology
+  source_method: HMM_classification
+  table: Additional files 4-9 (supergroup alignments)
+  locator: Results; Figures 1-5; Additional files 3-9
+  quote: Of these proteins, Rab1, Rab2, Rab4, Rab5, Rab6, Rab7, Rab8, Rab11, Rab18, Rab21, Rab23, and Rab28 are known likely
+    candidates, and Rab14, Rab32, and RabL4 have just recently been added to this list [16]. To these proteins we can now
+    add Rab22, Rab24, Rab29, RabX1, and Rab7L1.
+  files:
+  - path: literature/papers/PMID22873208/raw/supp/1741-7007-10-71-S4.TXT
+    sha256: 166a0e267dcb07f176dd5e72d3ebaad8e5ec3cd46cbee06da6b6108cc0cc5748
+  - path: literature/papers/PMID22873208/raw/supp/1741-7007-10-71-S5.TXT
+    sha256: 8ee27bc4188379624f25b44dfa04cbb32cd29222c85bb09f4cfe02fb16c8547b
+  - path: literature/papers/PMID22873208/raw/supp/1741-7007-10-71-S6.TXT
+    sha256: eaffa58a3ecff6e3c0e43c6a3e759296b6efc0afe11a4f79bc90fe65f63e6f92
+  - path: literature/papers/PMID22873208/raw/supp/1741-7007-10-71-S7.TXT
+    sha256: 086bcb74ee1a32ce68bf146f6ed82de327350698c31c283bfeb70efe909e72a9
+  - path: literature/papers/PMID22873208/raw/supp/1741-7007-10-71-S8.TXT
+    sha256: 301632a6f4607f3864fa9a026125dd8db7c759089954610d486b84d587d4e715
+  - path: literature/papers/PMID22873208/raw/supp/1741-7007-10-71-S9.TXT
+    sha256: 5b79e8f2279c0a4c6aaf579abaac4439ab93dbe0eba416741fd44a1de7d245fb
+  - path: literature/papers/PMID22873208/raw/supp/1741-7007-10-71-S3.XLS
+    sha256: 66b3a0c6ec92fdb232a0d16a74ee7d64f16cab24ec3f3325df8e017e7f29d278
+  - path: literature/papers/PMID22873208/fulltext.txt
+    sha256: 1f7523ff76a543964359ccd0d45876919a8f954447bbe488200d1759a763466d
+root_level: Eukaryota
+root_single_copy: false
+complete_species: []
+decoys: []
+distinct_from: []
+homologous_families:
+- family: E02_ARF
+  relation: Ras superfamily (homologous small GTPases); deep merges not penalised
+  src: Kloepper2012
+tier_summary:
+  D_T1: 14
+  S_T2: 32
+  U_T2: 32
+protocol_version: 1
+notes: 'Root = T1 D over the six supergroups (pre-LECA, interval [Eukaryota, ABOVE_RANGE]); each supergroup = U wrapper over
+  a T1 D splitting its LECA Rabs, plus loose genes whose label is not quote-assigned to one LECA Rab (Ypt1, Sec4, Ypt7, Ypt51/53,
+  Ypt3, Ypt6, Rab19/33/34/43/44/45, Rab25, Rab36/37, Rab42, RabX2, composite/partial labels; supergroup known from the alignment
+  file). LECA Rab node = U over label groups (core label + quoted metazoan-derived labels); undated metazoan splits are not
+  asserted. T1 nested D: Rab9 vs opisthokont Rab7 at Opisthokonta; Rab40 vs bilaterian Rab18 at Bilateria; vertebrate duplications
+  (Rab5a/b/c/17, Rab8a/8b/13/12, Rab22a/b, Rab32/38, Rab4a/b, Rab6a/b/c/41) as D over the HUMAN copies (HUMAN = only vertebrate).
+  Label groups: <=1 gene/species -> S; else U (T2 rules b/c). Mapping: no accessions; degapped alignment sequences (authors
+  removed gap-rich columns) -> same-species DIAMOND; identity computed over aligned residue pairs (trimmed columns appear
+  as gaps), coverage of both sequences >= 80% by aligned span, RBH, margin >= 2. complete_species empty: alignments are HMM
+  training subsets, no statement that they list every Rab of a species. Source_method HMM_classification (iterative HMM +
+  tree; not a denylisted tool). Elias et al. 2012 (J Cell Sci, PMID 22366452) fetched (PMC HTML, supplements not retrievable)
+  but not used for assertions. Panel-E eukaryotes absent from the source alignments: BATDJ, CYAME, DICDI, ENCCU, ENTH1, GIAIC,
+  ICHMU, MNELE, NEUCR, THETR. Homology: Rab and Arf/Sar are homologous Ras-superfamily GTPases; no distinct_from with E02_ARF.'
