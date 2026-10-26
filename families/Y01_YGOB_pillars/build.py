@@ -213,11 +213,15 @@ def main():
     panel = set(st.species)
     L_POST = st.lca(*[s for s in POST_WGD if s in panel])
     L_ZTW = st.lca("ZYGRC", "YEAST")
-    L_SAC = st.lca("KLULA", "YEAST")
+    L_SAC = st.lca(*[s for s in POST_WGD + ZT + KLE if s in panel])
     L_KLE = st.lca(*[s for s in KLE if s in panel])
     L_ZT = st.lca(*ZT)
-    assert st.parent(L_POST) == L_ZTW and st.parent(L_ZTW) == L_SAC, (L_POST, L_ZTW, L_SAC)
-    print(f"levels: PostWGD={L_POST} ZT+WGD={L_ZTW} Saccharomycetaceae={L_SAC} KLE={L_KLE} ZT={L_ZT}")
+    assert st.parent(L_POST) == L_ZTW and st.is_ancestor(L_SAC, L_ZTW, strict=True), (L_POST, L_ZTW, L_SAC)
+    # upper bound of the WGD interval: the lineage just below Saccharomycetaceae that contains ZT+WGD
+    L_HI = L_ZTW
+    while st.parent(L_HI) != L_SAC:
+        L_HI = st.parent(L_HI)
+    print(f"levels: PostWGD={L_POST} ZT+WGD={L_ZTW} WGD_lvl_hi={L_HI} Saccharomycetaceae={L_SAC} KLE={L_KLE} ZT={L_ZT}")
 
     # ---- mapping indices
     idx = {c: load_index(c) for c in UPID if c in panel}
@@ -323,7 +327,7 @@ def main():
                 if r["unit"] == uid:
                     r["unit_status"] = "not_a_unit: " + reason
             continue
-        res = build_unit(uid, ln, anc, mem, st, L_POST, L_ZTW, L_SAC, v1_by_outgene, entries)
+        res = build_unit(uid, ln, anc, mem, st, L_POST, L_HI, L_SAC, v1_by_outgene, entries)
         if res is None:
             stats["unit_skipped:no_asserted_pair"] += 1
             for r in report:
@@ -405,7 +409,7 @@ def track_resolution(mem, v1_by_outgene):
         sigs.add(frozenset([A, B]) - {frozenset()})
     if len(sigs) != 1:
         return {"conflict": True, "locs": [r["loc"] for r in good]}
-    tracks = [sorted(t) for t in next(iter(sigs))]
+    tracks = sorted(sorted(t) for t in next(iter(sigs)))
     return {"conflict": False, "tracks": tracks, "locs": [r["loc"] + " score=" + r["score"] for r in good]}
 
 
@@ -419,7 +423,16 @@ def build_unit(uid, ln, anc, mem, st, L_POST, L_ZTW, L_SAC, v1_by_outgene, entri
     zt = [m[3] for s in ZT for m in by_sp.get(s, [])]
     nodes, tags = [], set()
     n_assert_pairs = 0
-    WGD_ATTR = dict(lvl_lo=L_POST, lvl_hi=L_ZTW, tag="WGD", tier="T2", src="YGOBv7")
+    # WGD interval upper bound: just below the youngest common ancestor of post-WGD with a KLE species present in
+    # this unit (= Saccharomycetaceae when KLE is monophyletic); without KLE genes: the panel-wide bound L_ZTW (L_HI)
+    hi = L_ZTW
+    kle_sp = [s for s in KLE if by_sp.get(s)]
+    if kle_sp:
+        b = max((st.lca(L_POST, s) for s in kle_sp), key=st.depth_of)
+        hi = L_POST
+        while st.parent(hi) != b:
+            hi = st.parent(hi)
+    WGD_ATTR = dict(lvl_lo=L_POST, lvl_hi=hi, tag="WGD", tier="T2", src="YGOBv7")
 
     def node(ev, kids, nid, **attr):
         return {"ev": ev, "kids": kids, "id": nid, **attr}
@@ -506,15 +519,22 @@ def build_unit(uid, ln, anc, mem, st, L_POST, L_ZTW, L_SAC, v1_by_outgene, entri
         n_assert_pairs += 1
     elif kle:
         kle_node = kle[0]
-    if kle_node and ztw:
-        root = node("S", [kle_node, ztw], f"{uid}_root", tier="T2", src="YGOBv7")
+    if isinstance(kle_node, dict) and st.is_ancestor(st.lca(*{m[0] for s in KLE for m in by_sp.get(s, [])}), L_ZTW):
+        # KLE not monophyletic in the panel tree: KLE genes become direct children of the Saccharomycetaceae S node
+        kle_node = None
+        nodes.pop()  # drop the KLE S-polytomy assertion; the pairs are asserted by the root S node instead
+        kle_kids = kle
+    else:
+        kle_kids = [kle_node] if kle_node else []
+    if kle_kids and ztw:
+        root = node("S", kle_kids + [ztw], f"{uid}_root", tier="T2", src="YGOBv7")
         nodes.append(dict(assertion_id=f"{uid}_root", type="event", target=f"{uid}_root",
                           genes="KLE x (ZT,post-WGD)", tier="T2", source_id="YGOBv7", what="S_Saccharomycetaceae",
                           locator=f"{V7.name}:line {ln}", quote_key="pre_wgd_tracks",
                           quote=QUOTES["pre_wgd_tracks"][2]))
         n_assert_pairs += 1
     else:
-        root = kle_node or ztw
+        root = kle_node or ztw or (node("S", kle_kids, f"{uid}_root", tier="T2", src="YGOBv7") if len(kle_kids) > 1 else None)
     if n_assert_pairs == 0 or not isinstance(root, dict):
         return None
     return root, nodes, sorted(tags), track_info
