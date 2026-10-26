@@ -1,0 +1,5 @@
+assertion_id	type	target	tier	source_id	locator	quote
+K02_A1	event	TU_G_dup	T1	Baldauf1996	fulltext.txt Abstract, sentence 1	The genes for the protein synthesis elongation factors Tu (EF-Tu) and G (EF-G) are the products of an ancient gene duplication, which appears to predate the divergence of all extant organismal lineages.
+K02_A2	event	TU_G_dup	T1	Iwabe1989	fulltext.txt Abstract	we compared a pair of duplicated genes, elongation factors Tu and G, and the alpha and beta subunits of ATPase, which are thought to have diverged by gene duplication before divergence of the primary kingdoms.
+K02_A3	tag	TU_orth,G_orth	T2	Creti1994	abstract.txt (Europe PMC abstract), sentence 2	Global phylogenies were inferred by alternative tree-making methods from available EF-2(G) sequence data and contrasted with phylogenies constructed from the more conserved but shorter EF-1 alpha(Tu) sequences.
+K02_A4	tag	TU_orth,G_orth	T2	COG2020	raw/Readme.2020-11-25.txt (cog-20.cog.csv); COG0050/COG5256/COG0480 in cog-20.def.tab	Comma-delimited plain text file assigning proteins to COGs
