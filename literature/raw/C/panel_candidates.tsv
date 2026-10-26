@@ -1,0 +1,126 @@
+panel	mnemonic	name	taxid	upid	tier	why
+V	BRAFL	Branchiostoma floridae	7739	UP000001554	core	cephalochordate outgroup (pre-1R/2R)
+V	CIOIN	Ciona intestinalis	7719	UP000008144	core	tunicate outgroup (pre-2R; fast evolving)
+V	STRPU	Strongylocentrotus purpuratus	7668	UP000007110	optional	echinoderm outgroup
+V	PETMA	Petromyzon marinus	7757	UP001735300	core	lamprey (cyclostome; 1R/2R timing)
+V	EPTBU	Eptatretus burgeri	7764	UP000694388	optional	hagfish (cyclostome)
+V	CALMI	Callorhinchus milii	7868	UP000314986	core	elephant/ghost shark (chondrichthyan; slow evolving)
+V	LEPOC	Lepisosteus oculatus	7918	UP000018468	core	spotted gar (pre-3R actinopterygian)
+V	ERPCA	Erpetoichthys calabaricus	27687	UP000694620	optional	reedfish (Polypteriformes; basal actinopterygian)
+V	DANRE	Danio rerio	7955	UP000000437	core	zebrafish (3R teleost)
+V	CYPCA	Cyprinus carpio	7962	UP000694427	optional	common carp (4R cyprinid)
+V	ORYLA	Oryzias latipes	8090	UP000001038	core	medaka (3R teleost)
+V	GASAC	Gasterosteus aculeatus	481459	UP000007635	optional	stickleback (3R teleost)
+V	SALSA	Salmo salar	8030	UP001652741	core	Atlantic salmon (4R salmonid)
+V	LATCH	Latimeria chalumnae	7897	UP000008672	core	coelacanth (sarcopterygian outgroup)
+V	XENTR	Xenopus tropicalis	8364	UP000008143	core	diploid frog
+V	XENLA	Xenopus laevis	8355	UP000186698	core	allotetraploid frog (L/S subgenomes)
+V	ANOCA	Anolis carolinensis	28377	UP000001646	optional	squamate
+V	CHICK	Gallus gallus	9031	UP000000539	core	bird
+V	ORNAN	Ornithorhynchus anatinus	9258	UP000002279	optional	monotreme
+V	HUMAN	Homo sapiens	9606	UP000005640	core	human
+V	MOUSE	Mus musculus	10090	UP000000589	core	mouse
+Y	YEAST	Saccharomyces cerevisiae S288c	559292	UP000002311	core	post-WGD reference
+Y	CANGA	Candida glabrata (Nakaseomyces glabratus)	284593	UP000002428	core	post-WGD
+Y	NAUCC	Naumovozyma castellii	27288	UP000001640	core	post-WGD
+Y	NAUDC	Naumovozyma dairenensis	1071378	UP000000689	core	post-WGD
+Y	KAZAF	Kazachstania africana	1071382	UP000005220	core	post-WGD
+Y	VANPO	Vanderwaltozyma polyspora	436907	UP000000267	core	post-WGD (early diverging)
+Y	TETPH	Tetrapisispora phaffii	1071381	UP000005666	core	post-WGD (early diverging)
+Y	ZYGRC	Zygosaccharomyces rouxii	559307	UP000008536	core	pre-WGD (ZT clade)
+Y	TORDC	Torulaspora delbrueckii	1076872	UP000005627	core	pre-WGD (ZT clade)
+Y	LACTH	Lachancea thermotolerans	559295	UP000002036	core	pre-WGD (Lachancea; unstable node)
+Y	KLULA	Kluyveromyces lactis	284590	UP000000598	core	pre-WGD
+Y	ASHGO	Eremothecium gossypii	284811	UP000000591	core	pre-WGD (reduced genome)
+Y	ERECY	Eremothecium cymbalariae	931890	UP000006790	core	pre-WGD
+Y	CANAL	Candida albicans SC5314	237561	UP000000559	core	CTG-clade outgroup
+Y	YARLI	Yarrowia lipolytica	284591	UP000001300	core	distant yeast outgroup
+Y	SCHPO	Schizosaccharomyces pombe	284812	UP000002485	core	Taphrinomycotina outgroup
+P	CHLRE	Chlamydomonas reinhardtii	3055	UP000006906	core	chlorophyte
+P	OSTLU	Ostreococcus lucimarinus	436017	UP000001568	core	prasinophyte (compact genome)
+P	KLENI	Klebsormidium nitens	105231	UP000054558	core	streptophyte alga
+P	CHABU	Chara braunii	69332	UP000265515	optional	charophyte alga
+P	MARPO	Marchantia polymorpha	3197	UP000244005	core	liverwort (little paleopolyploidy)
+P	PHYPA	Physcomitrium patens	3218	UP000006727	core	moss (WGDs)
+P	SELMO	Selaginella moellendorffii	88036	UP000001514	core	lycophyte
+P	CERRI	Ceratopteris richardii	49495	UP000825935	optional	fern (large genome; WGD)
+P	AMBTC	Amborella trichopoda	13333	UP000017836	core	sister to other angiosperms (contested)
+P	AQUCO	Aquilegia coerulea	218851	UP000230069	optional	basal eudicot (Ranunculales)
+P	VITVI	Vitis vinifera	29760	UP000009183	core	gamma only (no lineage WGD)
+P	ARATH	Arabidopsis thaliana	3702	UP000006548	core	brassicaceae (alpha/beta WGD)
+P	BRARP	Brassica rapa	3711	UP000011750	core	mesohexaploid
+P	POPTR	Populus trichocarpa	3694	UP000006729	optional	salicoid WGD
+P	SOYBN	Glycine max	3847	UP000008827	core	legume WGD
+P	ORYSJ	Oryza sativa subsp. japonica	39947	UP000059680	core	monocot (rho WGD)
+P	MAIZE	Zea mays	4577	UP000007305	core	maize tetraploidy
+P	BRADI	Brachypodium distachyon	15368	UP000008810	optional	grass
+E	HUMAN	Homo sapiens	9606	UP000005640	core	bilaterian/vertebrate anchor; richest literature
+E	DROME	Drosophila melanogaster	7227	UP000000803	core	protostome (ecdysozoa) anchor
+E	CAEEL	Caenorhabditis elegans	6239	UP000001940	optional	nematode; fast-evolving
+E	NEMVE	Nematostella vectensis	45351	UP000001593	core	cnidarian (slow-evolving; non-bilaterian)
+E	AMPQE	Amphimedon queenslandica	400682	UP000007879	core	sponge (Porifera) - node vs ctenophore
+E	MNELE	Mnemiopsis leidyi	27923	UP001729289	core	ctenophore - contested animal root
+E	TRIAD	Trichoplax adhaerens	10228	UP000009022	core	placozoan (tiny, compact)
+E	MONBE	Monosiga brevicollis	81824	UP000001357	core	choanoflagellate (animal sister)
+E	CAPO3	Capsaspora owczarzaki	595528	UP000008743	core	filasterean (holozoan outgroup)
+E	YEAST	Saccharomyces cerevisiae	559292	UP000002311	core	fungal anchor; post-WGD
+E	SCHPO	Schizosaccharomyces pombe	284812	UP000002485	optional	fission yeast (Taphrinomycotina)
+E	NEUCR	Neurospora crassa	367110	UP000001805	core	filamentous ascomycete
+E	CRYD1	Cryptococcus deneoformans	214684	UP000002149	optional	basidiomycete yeast
+E	BATDJ	Batrachochytrium dendrobatidis	684364	UP000007241	core	chytrid (early-diverging fungus)
+E	ENCCU	Encephalitozoon cuniculi	284813	UP000000819	core	microsporidian (reduced, fast-evolving)
+E	DICDI	Dictyostelium discoideum	44689	UP000002195	core	amoebozoa (social amoeba)
+E	ACACA	Acanthamoeba castellanii	1257118	UP000011083	optional	amoebozoa (free-living)
+E	ENTH1	Entamoeba histolytica	294381	UP000001926	core	amoebozoa (reduced parasite)
+E	ARATH	Arabidopsis thaliana	3702	UP000006548	core	archaeplastida anchor; literature-rich
+E	CHLRE	Chlamydomonas reinhardtii	3055	UP000006906	core	green alga
+E	PHYPA	Physcomitrium patens	3218	UP000006727	optional	moss
+E	CYAME	Cyanidioschyzon merolae	280699	UP000007014	core	red alga (compact; Rhodophyta)
+E	THAPS	Thalassiosira pseudonana	35128	UP000001449	core	stramenopile (diatom)
+E	PHYRM	Phytophthora ramorum	164328	UP000005238	core	stramenopile (oomycete)
+E	PLAF7	Plasmodium falciparum 3D7	36329	UP000001450	core	alveolate (apicomplexa; AT-rich, fast)
+E	TOXGM	Toxoplasma gondii ME49	508771	UP000001529	optional	alveolate (apicomplexa)
+E	TETTS	Tetrahymena thermophila	312017	UP000009168	optional	alveolate (ciliate; large proteome)
+E	EMIHU	Emiliania huxleyi	280463	UP000013827	optional	haptophyte (large proteome)
+E	GUITH	Guillardia theta	905079	UP000011087	optional	cryptophyte
+E	TRYB2	Trypanosoma brucei	185431	UP000008524	core	excavate (kinetoplastid)
+E	LEIMA	Leishmania major	5664	UP000000542	optional	excavate (kinetoplastid)
+E	NAEGR	Naegleria gruberi	5762	UP000006671	core	excavate (heterolobosean; free-living)
+E	GIAIC	Giardia intestinalis	184922	UP000001548	core	excavate (diplomonad; reduced)
+E	TRIV3	Trichomonas vaginalis	412133	UP000001542	optional	excavate (parabasalid; 50k genes)
+E	THETR	Thecamonas trahens	461836	UP000054408	core	apusozoan (opimoda; deep branching)
+E	SACS2	Saccharolobus solfataricus	273057	UP000001974	core	archaeon (TACK/Crenarchaeota)
+E	THEKO	Thermococcus kodakarensis	69014	UP000000536	core	archaeon (Euryarchaeota)
+E	NITMS	Nitrosopumilus maritimus	436308	UP000000792	core	archaeon (Thaumarchaeota)
+E	HALSA	Halobacterium salinarum	64091	UP000000554	core	archaeon (halophile Euryarchaeota)
+E	ECOLI	Escherichia coli K12	83333	UP000000625	core	bacterium (gamma-proteobacteria)
+E	BACSU	Bacillus subtilis	224308	UP000001570	core	bacterium (Firmicutes)
+E	SYNY3	Synechocystis sp. PCC 6803	1111708	UP000001425	core	bacterium (Cyanobacteria; plastid ancestry)
+E	BRADU	Bradyrhizobium diazoefficiens	224911	UP000002526	core	bacterium (alpha-proteobacteria; mitochondrial ancestry)
+K	ECOLI	Escherichia coli K12	83333	UP000000625	core	Gammaproteobacteria; best-annotated bacterium
+K	PSEAE	Pseudomonas aeruginosa	208964	UP000002438	core	Gammaproteobacteria (Pseudomonadales); large genome
+K	BRADU	Bradyrhizobium diazoefficiens	224911	UP000002526	core	Alphaproteobacteria (mitochondrial lineage); large genome
+K	HELPY	Helicobacter pylori	85962	UP000000429	core	Epsilonproteobacteria; small genome
+K	GEOSL	Geobacter sulfurreducens	243231	UP000000577	core	Deltaproteobacteria
+K	BACSU	Bacillus subtilis	224308	UP000001570	core	Firmicutes (Bacillota)
+K	MYCTU	Mycobacterium tuberculosis	83332	UP000001584	core	Actinobacteria
+K	CHLTR	Chlamydia trachomatis	272561	UP000000431	core	Chlamydiae; obligate intracellular, tiny genome
+K	SYNY3	Synechocystis sp. PCC 6803	1111708	UP000001425	core	Cyanobacteria (plastid lineage)
+K	DEIRA	Deinococcus radiodurans	243230	UP000002524	core	Deinococcota
+K	THEMA	Thermotoga maritima	243274	UP000008183	core	Thermotogota (extensive HGT with archaea)
+K	AQUAE	Aquifex aeolicus	224324	UP000000798	core	Aquificota
+K	BACTN	Bacteroides thetaiotaomicron	226186	UP000001414	core	Bacteroidota
+K	LEPIN	Leptospira interrogans	189518	UP000001408	core	Spirochaetota
+K	SACS2	Saccharolobus solfataricus	273057	UP000001974	core	Crenarchaeota (Sulfolobales)
+K	KORCO	Korarchaeum cryptofilum	374847	UP000001686	core	Korarchaeota
+K	NITMS	Nitrosopumilus maritimus	436308	UP000000792	core	Thaumarchaeota (Nitrososphaeria)
+K	THEKO	Thermococcus kodakarensis	69014	UP000000536	core	Euryarchaeota (Thermococcales)
+K	METJA	Methanocaldococcus jannaschii	243232	UP000000805	core	Euryarchaeota (Methanococci)
+K	METAC	Methanosarcina acetivorans	188937	UP000002487	core	Euryarchaeota (Methanosarcinales; bacterial HGT)
+K	HALSA	Halobacterium salinarum	64091	UP000000554	core	Euryarchaeota (Halobacteria; HGT-rich)
+E	ICHMU	Ichthyophthirius multifiliis	5932	UP000008983	core	ciliate (compact proteome alternative to Tetrahymena/Paramecium)
+E	LOKOS	Candidatus Lokiarchaeum ossiferum	2951803	UP001208689	core	Asgard archaeon (closest archaeal relatives of eukaryotes)
+Y	HENBL	Henningerozyma blattae (Tetrapisispora blattae)	1071380	UP000002866	optional	post-WGD
+Y	KAZNA	Huiozyma naganishii (Kazachstania naganishii)	1071383	UP000006310	optional	post-WGD
+Y	SACUV	Saccharomyces uvarum	230603	UP001162085	optional	shallow post-WGD (Saccharomyces sensu stricto)
+Y	KLUMA	Kluyveromyces marxianus	4911	UP000422736	optional	pre-WGD, KLE clade

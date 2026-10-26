@@ -1,0 +1,126 @@
+panel	mnemonic	name	taxid	upid	rest_type	rest_taxid	rest_assembly	rest_total_entries	rp_canonical	rp_additional	QfO2026_02	qfo_canonical	OMA_codes_by_taxid	Ensembl_by_taxid	tier	why
+V	BRAFL	Branchiostoma floridae	7739	UP000001554	Reference proteome	7739	GCF_000003815.2	38650	26616	12034	yes	26616	BRAFL	-	core	cephalochordate outgroup (pre-1R/2R)
+V	CIOIN	Ciona intestinalis	7719	UP000008144	Reference proteome	7719	GCA_000224145.1	17311	16680	631	yes	16680	CIOIN	Vert:ciona_intestinalis	core	tunicate outgroup (pre-2R; fast evolving)
+V	STRPU	Strongylocentrotus purpuratus	7668	UP000007110	Reference proteome	7668	GCA_000002235.4	34417	26461	7962	no		STRPU	Meta:strongylocentrotus_purpuratus	optional	echinoderm outgroup
+V	PETMA	Petromyzon marinus	7757	UP001735300	Reference proteome	7757	GCF_048934315.1	37132	21315	15817	no		PETMA	Vert:petromyzon_marinus	core	lamprey (cyclostome; 1R/2R timing)
+V	EPTBU	Eptatretus burgeri	7764	UP000694388	Reference proteome	7764	GCA_900186335.2	25419	16495	8924	no		EPTBU	Vert:eptatretus_burgeri	optional	hagfish (cyclostome)
+V	CALMI	Callorhinchus milii	7868	UP000314986	Reference proteome	7868	GCA_000165045.2	49246	19409	29837	no		CALMI	Vert:callorhinchus_milii	core	elephant/ghost shark (chondrichthyan; slow evolving)
+V	LEPOC	Lepisosteus oculatus	7918	UP000018468	Reference proteome	7918	GCA_000242695.1	22463	18323	4140	yes	18323	LEPOC	Vert:lepisosteus_oculatus	core	spotted gar (pre-3R actinopterygian)
+V	ERPCA	Erpetoichthys calabaricus	27687	UP000694620	Reference proteome	27687	GCA_900747795.2	33804	22211	11593	no		-	Vert:erpetoichthys_calabaricus	optional	reedfish (Polypteriformes; basal actinopterygian)
+V	DANRE	Danio rerio	7955	UP000000437	Reference proteome	7955	GCF_049306965.1	69241	26567	42555	yes	26677	DANRE	Vert:danio_rerio	core	zebrafish (3R teleost)
+V	CYPCA	Cyprinus carpio	7962	UP000694427	Reference proteome	7962	GCA_004011555.1	121350	44401	76949	no		-	Vert:cyprinus_carpio_hebaored;Vert:cyprinus_carpio_germanmir	optional	common carp (4R cyprinid)
+V	ORYLA	Oryzias latipes	8090	UP000001038	Reference proteome	8090	GCA_002234675.1	36128	23617	12521	yes	23617	ORYLA	Vert:oryzias_latipes_hsok;Vert:oryzias_latipes;Vert:oryzias_	core	medaka (3R teleost)
+V	GASAC	Gasterosteus aculeatus	481459	UP000007635	Reference proteome	481459	GCA_016920845.1	61640	22263	39377	no		-	Vert:gasterosteus_aculeatus	optional	stickleback (3R teleost)
+V	SALSA	Salmo salar	8030	UP001652741	Reference proteome	8030	GCF_905237065.1	80784	42272	38502	no		SALSA	Vert:salmo_salar_gca021399835v1;Vert:salmo_salar_gca93134693	core	Atlantic salmon (4R salmonid)
+V	LATCH	Latimeria chalumnae	7897	UP000008672	Reference proteome	7897	GCA_000225785.1	23431	19568	3863	no		LATCH	Vert:latimeria_chalumnae	core	coelacanth (sarcopterygian outgroup)
+V	XENTR	Xenopus tropicalis	8364	UP000008143	Reference proteome	8364	GCF_000004195.4	37711	21732	15991	yes	21609	XENTR	Vert:xenopus_tropicalis	core	diploid frog
+V	XENLA	Xenopus laevis	8355	UP000186698	Reference proteome	8355	GCF_017654675.1	62027	36351	25730	yes	36352	XENLA	-	core	allotetraploid frog (L/S subgenomes)
+V	ANOCA	Anolis carolinensis	28377	UP000001646	Reference proteome	28377	GCA_000090745.2	32752	21494	11258	no		ANOCA	Vert:anolis_carolinensis	optional	squamate
+V	CHICK	Gallus gallus	9031	UP000000539	Reference proteome	9031	GCA_016699485.1	43712	18373	25596	yes	18372	CHICK	Vert:gallus_gallus;Vert:gallus_gallus_gca000002315v5;Vert:ga	core	bird
+V	ORNAN	Ornithorhynchus anatinus	9258	UP000002279	Reference proteome	9258	GCA_004115215.2	32824	17391	15433	no		ORNAN	Vert:ornithorhynchus_anatinus	optional	monotreme
+V	HUMAN	Homo sapiens	9606	UP000005640	Reference proteome	9606	GCA_000001405.29	147520	147503	22131	yes	20652	HUMAN	Vert:homo_sapiens	core	human
+V	MOUSE	Mus musculus	10090	UP000000589	Reference proteome	10090	GCA_000001635.9	54855	21860	41468	yes	21853	MOUSE	Vert:mus_musculus_aj;Vert:mus_musculus_c3hhej;Vert:mus_muscu	core	mouse
+Y	YEAST	Saccharomyces cerevisiae S288c	559292	UP000002311	Reference proteome	559292	GCA_000146045.2	6067	6066	32	yes	6066	YEAST	Fung:saccharomyces_cerevisiae	core	post-WGD reference
+Y	CANGA	Candida glabrata (Nakaseomyces glabratus)	284593	UP000002428	Reference proteome	284593	GCA_000002545.2	5200	5198	3	no		CANGA	Fung:candida_glabrata	core	post-WGD
+Y	NAUCC	Naumovozyma castellii	27288	UP000001640	Reference proteome	27288	GCA_000237345.1	5565	5565	0	no		-	Fung:naumovozyma_castellii_cbs_4309_gca_000237345	core	post-WGD
+Y	NAUDC	Naumovozyma dairenensis	1071378	UP000000689	Reference proteome	1071378	GCA_000227115.2	5523	5523	0	no		NAUDC	Fung:naumovozyma_dairenensis_cbs_421_gca_000227115	core	post-WGD
+Y	KAZAF	Kazachstania africana	1071382	UP000005220	Reference proteome	1071382	GCA_000304475.1	5354	5354	0	no		KAZAF	Fung:kazachstania_africana_cbs_2517_gca_000304475	core	post-WGD
+Y	VANPO	Vanderwaltozyma polyspora	436907	UP000000267	Reference proteome	436907	GCA_000150035.1	5353	5314	39	no		VANPO	Fung:vanderwaltozyma_polyspora_dsm_70294_gca_000150035	core	post-WGD (early diverging)
+Y	TETPH	Tetrapisispora phaffii	1071381	UP000005666	Reference proteome	1071381	GCA_000236905.1	5235	5235	0	no		TETPH	Fung:tetrapisispora_phaffii_cbs_4417_gca_000236905	core	post-WGD (early diverging)
+Y	ZYGRC	Zygosaccharomyces rouxii	559307	UP000008536	Reference proteome	559307	GCA_000026365.1	4987	4987	0	no		-	-	core	pre-WGD (ZT clade)
+Y	TORDC	Torulaspora delbrueckii	1076872	UP000005627	Reference proteome	1076872	GCA_000243375.1	4974	4974	0	no		-	-	core	pre-WGD (ZT clade)
+Y	LACTH	Lachancea thermotolerans	559295	UP000002036	Reference proteome	559295	GCA_000142805.1	5093	5093	0	no		LACTC	Fung:lachancea_thermotolerans_cbs_6340_gca_000142805	core	pre-WGD (Lachancea; unstable node)
+Y	KLULA	Kluyveromyces lactis	284590	UP000000598	Reference proteome	284590	GCA_000002515.1	5071	5071	0	no		KLULA	-	core	pre-WGD
+Y	ASHGO	Eremothecium gossypii	284811	UP000000591	Reference proteome	284811	GCA_000091025.4	4760	4758	2	no		ASHGO	-	core	pre-WGD (reduced genome)
+Y	ERECY	Eremothecium cymbalariae	931890	UP000006790	Reference proteome	931890	GCA_000235365.1	4429	4429	0	no		ERECY	Fung:eremothecium_cymbalariae_dbvpg_7215_gca_000235365	core	pre-WGD
+Y	CANAL	Candida albicans SC5314	237561	UP000000559	Reference proteome	237561	GCA_000182965.3	6041	6040	2	yes	6036	CANAL	Fung:candida_albicans_sc5314_gca_000784635;Fung:candida_albi	core	CTG-clade outgroup
+Y	YARLI	Yarrowia lipolytica	284591	UP000001300	Reference proteome	284591	GCA_000002525.1	6454	6449	5	yes	6449	YARLI	Fung:yarrowia_lipolytica	core	distant yeast outgroup
+Y	SCHPO	Schizosaccharomyces pombe	284812	UP000002485	Reference proteome	284812	GCA_000002945.2	5130	5129	18	yes	5129	SCHPO	Fung:schizosaccharomyces_pombe	core	Taphrinomycotina outgroup
+P	CHLRE	Chlamydomonas reinhardtii	3055	UP000006906	Reference proteome	3055	GCA_000002595.3	18840	17625	1218	yes	17614	CHLRE	Plan:chlamydomonas_reinhardtii	core	chlorophyte
+P	OSTLU	Ostreococcus lucimarinus	436017	UP000001568	Reference proteome	436017	GCA_000092065.1	7403	7403	0	no		OSTLU	Plan:ostreococcus_lucimarinus	core	prasinophyte (compact genome)
+P	KLENI	Klebsormidium nitens	105231	UP000054558	Reference proteome	105231	GCA_000708835.1	16251	16171	80	no		KLENI	-	core	streptophyte alga
+P	CHABU	Chara braunii	69332	UP000265515	Reference proteome	69332	GCA_003427395.1	35576	34645	931	no		CHABU	Plan:chara_braunii	optional	charophyte alga
+P	MARPO	Marchantia polymorpha	3197	UP000244005	Reference proteome	3197	GCA_003032435.1	22017	19277	2740	no		MARPO	Plan:marchantia_polymorpha	core	liverwort (little paleopolyploidy)
+P	PHYPA	Physcomitrium patens	3218	UP000006727	Reference proteome	3218	GCA_000002425.2	47782	31356	16426	yes	31356	PHYPA	Plan:physcomitrium_patens	core	moss (WGDs)
+P	SELMO	Selaginella moellendorffii	88036	UP000001514	Reference proteome	88036	GCA_000143415.2	33150	33131	19	no		SELML	Plan:selaginella_moellendorffii	core	lycophyte
+P	CERRI	Ceratopteris richardii	49495	UP000825935	Reference proteome	49495	GCA_020310875.1	64680	36181	28499	no		CERRI	-	optional	fern (large genome; WGD)
+P	AMBTC	Amborella trichopoda	13333	UP000017836	Reference proteome	13333	GCA_000471905.1	27406	27398	8	no		AMBTC	Plan:amborella_trichopoda	core	sister to other angiosperms (contested)
+P	AQUCO	Aquilegia coerulea	218851	UP000230069	Reference proteome	218851	GCA_002738505.1	37079	24741	12338	no		-	-	optional	basal eudicot (Ranunculales)
+P	VITVI	Vitis vinifera	29760	UP000009183	Reference proteome	29760	GCA_000003745.1	29867	29855	14	no		VITVI	Plan:vitis_vinifera	core	gamma only (no lineage WGD)
+P	ARATH	Arabidopsis thaliana	3702	UP000006548	Reference proteome	3702	GCA_000001735.1	39272	27496	14100	yes	27496	ARATH	Plan:arabidopsis_thaliana	core	brassicaceae (alpha/beta WGD)
+P	BRARP	Brassica rapa	3711	UP000011750	Reference proteome	3711	GCA_000309985.1	40824	40808	16	no		-	Plan:brassica_rapa_z1;Plan:brassica_rapa	core	mesohexaploid
+P	POPTR	Populus trichocarpa	3694	UP000006729	Reference proteome	3694	GCA_000002775.4	77340	57605	19735	no		POPTR	Plan:populus_trichocarpa	optional	salicoid WGD
+P	SOYBN	Glycine max	3847	UP000008827	Reference proteome	3847	GCA_000004515.4	74859	55852	19014	no		SOYBN	Plan:glycine_max	core	legume WGD
+P	ORYSJ	Oryza sativa subsp. japonica	39947	UP000059680	Reference proteome	39947	GCA_001433935.1	48896	43678	5545	yes	43678	ORYSJ	Plan:oryza_sativa	core	monocot (rho WGD)
+P	MAIZE	Zea mays	4577	UP000007305	Reference proteome	4577	GCA_902167145.1	63237	39346	23916	yes	39346	MAIZE	Plan:zea_mays	core	maize tetraploidy
+P	BRADI	Brachypodium distachyon	15368	UP000008810	Reference proteome	15368	GCA_000005505.4	44786	34230	10556	no		BRADI	Plan:brachypodium_distachyon	optional	grass
+E	HUMAN	Homo sapiens	9606	UP000005640	Reference proteome	9606	GCA_000001405.29	147520	147503	22131	yes	20652	HUMAN	Vert:homo_sapiens	core	bilaterian/vertebrate anchor; richest literature
+E	DROME	Drosophila melanogaster	7227	UP000000803	Reference proteome	7227	GCA_000001215.4	21947	13814	9669	yes	13817	DROME	Meta:drosophila_melanogaster	core	protostome (ecdysozoa) anchor
+E	CAEEL	Caenorhabditis elegans	6239	UP000001940	Reference proteome	6239	GCA_000002985.3	26629	19792	8639	yes	19789	CAEEL	Meta:caenorhabditis_elegans	optional	nematode; fast-evolving
+E	NEMVE	Nematostella vectensis	45351	UP000001593	Reference proteome	45351	GCA_000209225.1	24435	24428	17	yes	24428	NEMVE	Meta:nematostella_vectensis_gca932526225v1rs	core	cnidarian (slow-evolving; non-bilaterian)
+E	AMPQE	Amphimedon queenslandica	400682	UP000007879	Reference proteome	400682	GCA_000090795.2	22831	20174	2657	no		AMPQE	Meta:amphimedon_queenslandica_gca000090795v2rs	core	sponge (Porifera) - node vs ctenophore
+E	MNELE	Mnemiopsis leidyi	27923	UP001729289	Reference proteome	27923	GCA_048537945.1	25028	19289	5739	no		MNELE	Meta:mnemiopsis_leidyi	core	ctenophore - contested animal root
+E	TRIAD	Trichoplax adhaerens	10228	UP000009022	Reference proteome	10228	GCA_000150275.1	11520	11518	2	no		TRIAD	Meta:trichoplax_adhaerens	core	placozoan (tiny, compact)
+E	MONBE	Monosiga brevicollis	81824	UP000001357	Reference proteome	81824	GCA_000002865.1	9156	9156	0	yes	9156	MONBE	-	core	choanoflagellate (animal sister)
+E	CAPO3	Capsaspora owczarzaki	595528	UP000008743	Reference proteome	595528	GCA_000151315.2	9794	8738	1056	no		CAPO3	Prot:capsaspora_owczarzaki_atcc_30864_gca_000151315	core	filasterean (holozoan outgroup)
+E	YEAST	Saccharomyces cerevisiae	559292	UP000002311	Reference proteome	559292	GCA_000146045.2	6067	6066	32	yes	6066	YEAST	Fung:saccharomyces_cerevisiae	core	fungal anchor; post-WGD
+E	SCHPO	Schizosaccharomyces pombe	284812	UP000002485	Reference proteome	284812	GCA_000002945.2	5130	5129	18	yes	5129	SCHPO	Fung:schizosaccharomyces_pombe	optional	fission yeast (Taphrinomycotina)
+E	NEUCR	Neurospora crassa	367110	UP000001805	Reference proteome	367110	GCA_000182925.2	10255	9759	507	yes	9759	NEUCR	Fung:neurospora_crassa	core	filamentous ascomycete
+E	CRYD1	Cryptococcus deneoformans	214684	UP000002149	Reference proteome	214684	GCA_000091045.1	6740	6603	140	yes	6603	CRYNJ	Fung:cryptococcus_neoformans	optional	basidiomycete yeast
+E	BATDJ	Batrachochytrium dendrobatidis	684364	UP000007241	Reference proteome	684364	GCA_000203795.2	8610	8610	0	yes	8610	BATDJ	Fung:batrachochytrium_dendrobatidis_jam81_gca_000203795	core	chytrid (early-diverging fungus)
+E	ENCCU	Encephalitozoon cuniculi	284813	UP000000819	Reference proteome	284813	GCA_000091225.2	2041	2041	0	no		ENCCU	Fung:encephalitozoon_cuniculi_gb_m1_gca_000091225	core	microsporidian (reduced, fast-evolving)
+E	DICDI	Dictyostelium discoideum	44689	UP000002195	Reference proteome	44689	GCA_000004695.1	12726	12718	28	yes	12718	DICDI	-	core	amoebozoa (social amoeba)
+E	ACACA	Acanthamoeba castellanii	1257118	UP000011083	Reference proteome	1257118	GCA_000313135.1	14939	14938	1	no		ACACA	Prot:acanthamoeba_castellanii	optional	amoebozoa (free-living)
+E	ENTH1	Entamoeba histolytica	294381	UP000001926	Reference proteome	294381	GCA_000208925.2	7967	7967	0	no		ENTH1	Prot:entamoeba_histolytica	core	amoebozoa (reduced parasite)
+E	ARATH	Arabidopsis thaliana	3702	UP000006548	Reference proteome	3702	GCA_000001735.1	39272	27496	14100	yes	27496	ARATH	Plan:arabidopsis_thaliana	core	archaeplastida anchor; literature-rich
+E	CHLRE	Chlamydomonas reinhardtii	3055	UP000006906	Reference proteome	3055	GCA_000002595.3	18840	17625	1218	yes	17614	CHLRE	Plan:chlamydomonas_reinhardtii	core	green alga
+E	PHYPA	Physcomitrium patens	3218	UP000006727	Reference proteome	3218	GCA_000002425.2	47782	31356	16426	yes	31356	PHYPA	Plan:physcomitrium_patens	optional	moss
+E	CYAME	Cyanidioschyzon merolae	280699	UP000007014	Reference proteome	280699	GCA_000091205.1	5029	5018	11	no		CYAM1	Plan:cyanidioschyzon_merolae	core	red alga (compact; Rhodophyta)
+E	THAPS	Thalassiosira pseudonana	35128	UP000001449	Reference proteome	35128	GCA_000149405.2	11753	11735	18	yes	11735	-	-	core	stramenopile (diatom)
+E	PHYRM	Phytophthora ramorum	164328	UP000005238	Reference proteome	164328	GCA_000149735.1	15350	15350	0	yes	15350	PHYRM	Prot:phytophthora_ramorum	core	stramenopile (oomycete)
+E	PLAF7	Plasmodium falciparum 3D7	36329	UP000001450	Reference proteome	36329	GCA_000002765.3	5361	5361	8	yes	5361	PLAF7	Prot:plasmodium_falciparum	core	alveolate (apicomplexa; AT-rich, fast)
+E	TOXGM	Toxoplasma gondii ME49	508771	UP000001529	Reference proteome	508771	GCA_000006565.2	8307	8307	3	no		-	Prot:toxoplasma_gondii	optional	alveolate (apicomplexa)
+E	TETTS	Tetrahymena thermophila	312017	UP000009168	Reference proteome	312017	GCA_000189635.1	26975	26975	0	no		TETTS	Prot:tetrahymena_thermophila	optional	alveolate (ciliate; large proteome)
+E	EMIHU	Emiliania huxleyi	280463	UP000013827	Reference proteome	280463	GCA_000372725.1	35617	35603	14	no		EMIHU	Prot:emiliania_huxleyi	optional	haptophyte (large proteome)
+E	GUITH	Guillardia theta	905079	UP000011087	Reference proteome	905079	GCA_000315625.1	24738	24715	23	no		GUITC	Prot:guillardia_theta	optional	cryptophyte
+E	TRYB2	Trypanosoma brucei	185431	UP000008524	Reference proteome	185431	GCA_000002445.1	8588	8561	27	no		TRYB2	Prot:trypanosoma_brucei_gca000002445	core	excavate (kinetoplastid)
+E	LEIMA	Leishmania major	5664	UP000000542	Reference proteome	5664	GCA_000002725.2	8039	8038	1	yes	8038	-	-	optional	excavate (kinetoplastid)
+E	NAEGR	Naegleria gruberi	5762	UP000006671	Reference proteome	5762	GCA_000004985.1	15636	15634	2	no		-	Prot:naegleria_gruberi_gca_000004985	core	excavate (heterolobosean; free-living)
+E	GIAIC	Giardia intestinalis	184922	UP000001548	Reference proteome	184922	GCA_000002435.2	4900	4900	0	yes	4900	GIAIC	-	core	excavate (diplomonad; reduced)
+E	TRIV3	Trichomonas vaginalis	412133	UP000001542	Reference proteome	412133	GCA_000002825.3	50190	50190	0	yes	50190	TRIVA	-	optional	excavate (parabasalid; 50k genes)
+E	THETR	Thecamonas trahens	461836	UP000054408	Reference proteome	461836	GCA_000142905.1	10604	10533	71	no		THETB	Prot:thecamonas_trahens_atcc_50062_gca_000142905	core	apusozoan (opimoda; deep branching)
+E	SACS2	Saccharolobus solfataricus	273057	UP000001974	Reference proteome	273057	GCA_000007005.1	2938	2938	0	yes	2938	-	-	core	archaeon (TACK/Crenarchaeota)
+E	THEKO	Thermococcus kodakarensis	69014	UP000000536	Reference proteome	69014	GCA_000009965.1	2301	2301	0	yes	2301	-	-	core	archaeon (Euryarchaeota)
+E	NITMS	Nitrosopumilus maritimus	436308	UP000000792	Reference proteome	436308	GCA_000018465.1	1795	1795	0	yes	1795	-	-	core	archaeon (Thaumarchaeota)
+E	HALSA	Halobacterium salinarum	64091	UP000000554	Reference proteome	64091	GCA_000006805.1	2427	2427	0	yes	2427	-	-	core	archaeon (halophile Euryarchaeota)
+E	ECOLI	Escherichia coli K12	83333	UP000000625	Reference proteome	83333	GCA_000005845.2	4403	4403	23	yes	4403	-	-	core	bacterium (gamma-proteobacteria)
+E	BACSU	Bacillus subtilis	224308	UP000001570	Reference proteome	224308	GCA_000009045.1	4288	4288	16	yes	4288	-	-	core	bacterium (Firmicutes)
+E	SYNY3	Synechocystis sp. PCC 6803	1111708	UP000001425	Reference proteome	1111708	GCA_000009725.1	3508	3508	2	yes	3508	-	-	core	bacterium (Cyanobacteria; plastid ancestry)
+E	BRADU	Bradyrhizobium diazoefficiens	224911	UP000002526	Reference proteome	224911	GCA_000011365.1	8253	8253	0	yes	8253	-	-	core	bacterium (alpha-proteobacteria; mitochondrial ancestry)
+K	ECOLI	Escherichia coli K12	83333	UP000000625	Reference proteome	83333	GCA_000005845.2	4403	4403	23	yes	4403	-	-	core	Gammaproteobacteria; best-annotated bacterium
+K	PSEAE	Pseudomonas aeruginosa	208964	UP000002438	Reference proteome	208964	GCA_000006765.1	5563	5563	2	yes	5563	-	-	core	Gammaproteobacteria (Pseudomonadales); large genome
+K	BRADU	Bradyrhizobium diazoefficiens	224911	UP000002526	Reference proteome	224911	GCA_000011365.1	8253	8253	0	yes	8253	-	-	core	Alphaproteobacteria (mitochondrial lineage); large genome
+K	HELPY	Helicobacter pylori	85962	UP000000429	Reference proteome	85962	GCA_000008525.1	1554	1554	0	yes	1554	-	-	core	Epsilonproteobacteria; small genome
+K	GEOSL	Geobacter sulfurreducens	243231	UP000000577	Reference proteome	243231	GCA_000007985.2	3402	3402	0	yes	3402	-	-	core	Deltaproteobacteria
+K	BACSU	Bacillus subtilis	224308	UP000001570	Reference proteome	224308	GCA_000009045.1	4288	4288	16	yes	4288	-	-	core	Firmicutes (Bacillota)
+K	MYCTU	Mycobacterium tuberculosis	83332	UP000001584	Reference proteome	83332	GCA_000195955.2	3997	3997	7	yes	3997	-	-	core	Actinobacteria
+K	CHLTR	Chlamydia trachomatis	272561	UP000000431	Reference proteome	272561	GCA_000008725.1	895	895	0	yes	895	-	-	core	Chlamydiae; obligate intracellular, tiny genome
+K	SYNY3	Synechocystis sp. PCC 6803	1111708	UP000001425	Reference proteome	1111708	GCA_000009725.1	3508	3508	2	yes	3508	-	-	core	Cyanobacteria (plastid lineage)
+K	DEIRA	Deinococcus radiodurans	243230	UP000002524	Reference proteome	243230	GCA_000008565.1	3085	3085	0	yes	3085	-	-	core	Deinococcota
+K	THEMA	Thermotoga maritima	243274	UP000008183	Reference proteome	243274	GCA_000008545.1	1852	1852	0	yes	1852	-	-	core	Thermotogota (extensive HGT with archaea)
+K	AQUAE	Aquifex aeolicus	224324	UP000000798	Reference proteome	224324	GCA_000008625.1	1553	1553	0	yes	1553	-	-	core	Aquificota
+K	BACTN	Bacteroides thetaiotaomicron	226186	UP000001414	Reference proteome	226186	GCA_000011065.1	4782	4782	0	yes	4782	-	-	core	Bacteroidota
+K	LEPIN	Leptospira interrogans	189518	UP000001408	Reference proteome	189518	GCA_000092565.1	3676	3676	0	yes	3676	-	-	core	Spirochaetota
+K	SACS2	Saccharolobus solfataricus	273057	UP000001974	Reference proteome	273057	GCA_000007005.1	2938	2938	0	yes	2938	-	-	core	Crenarchaeota (Sulfolobales)
+K	KORCO	Korarchaeum cryptofilum	374847	UP000001686	Reference proteome	374847	GCA_000019605.1	1602	1602	0	yes	1602	-	-	core	Korarchaeota
+K	NITMS	Nitrosopumilus maritimus	436308	UP000000792	Reference proteome	436308	GCA_000018465.1	1795	1795	0	yes	1795	-	-	core	Thaumarchaeota (Nitrososphaeria)
+K	THEKO	Thermococcus kodakarensis	69014	UP000000536	Reference proteome	69014	GCA_000009965.1	2301	2301	0	yes	2301	-	-	core	Euryarchaeota (Thermococcales)
+K	METJA	Methanocaldococcus jannaschii	243232	UP000000805	Reference proteome	243232	GCA_000091665.1	1786	1786	0	yes	1786	-	-	core	Euryarchaeota (Methanococci)
+K	METAC	Methanosarcina acetivorans	188937	UP000002487	Reference proteome	188937	GCA_000007345.1	4468	4468	0	yes	4468	-	-	core	Euryarchaeota (Methanosarcinales; bacterial HGT)
+K	HALSA	Halobacterium salinarum	64091	UP000000554	Reference proteome	64091	GCA_000006805.1	2427	2427	0	yes	2427	-	-	core	Euryarchaeota (Halobacteria; HGT-rich)
+E	ICHMU	Ichthyophthirius multifiliis	5932	UP000008983	Reference proteome	5932	GCA_000220395.1	8049	8049	0	no		-	Prot:ichthyophthirius_multifiliis_gca_000220395	core	ciliate (compact proteome alternative to Tetrahymena/Paramecium)
+E	LOKOS	Candidatus Lokiarchaeum ossiferum	2951803	UP001208689	Reference proteome	2951803	GCA_025839675.1	5112	5112	0	no		-	-	core	Asgard archaeon (closest archaeal relatives of eukaryotes)
+Y	HENBL	Henningerozyma blattae (Tetrapisispora blattae)	1071380	UP000002866	Reference proteome	1071380	GCA_000315915.1	5385	5385	0	no		TETBL	Fung:tetrapisispora_blattae_cbs_6284_gca_000315915	optional	post-WGD
+Y	KAZNA	Huiozyma naganishii (Kazachstania naganishii)	1071383	UP000006310	Reference proteome	1071383	GCA_000348985.1	5301	5301	0	no		KAZNA	Fung:kazachstania_naganishii_cbs_8797_gca_000348985	optional	post-WGD
+Y	SACUV	Saccharomyces uvarum	230603	UP001162085	Reference proteome	230603	GCA_947243795.1	5489	5489	0	no		-	-	optional	shallow post-WGD (Saccharomyces sensu stricto)
+Y	KLUMA	Kluyveromyces marxianus	4911	UP000422736	Reference proteome	4911	GCA_001854445.2	5070	5070	0	no		-	Fung:kluyveromyces_marxianus_gca_001854445;Fung:kluyveromyce	optional	pre-WGD, KLE clade

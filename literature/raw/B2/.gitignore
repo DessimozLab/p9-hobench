@@ -1,0 +1,3 @@
+# Large/re-downloadable supplements: provenance + md5 in MANIFEST.tsv; re-fetch via EPMC supplementaryFiles endpoint
+supp/
+fulltext/

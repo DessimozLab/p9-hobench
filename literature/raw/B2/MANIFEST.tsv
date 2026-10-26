@@ -1,0 +1,19 @@
+# B2 raw-file manifest (generated 2026-10-26T13:40:30Z); md5  bytes  path  source
+1abfe248dfd18c896f8556f30d14ca03	813168	supp/PMC2386804.zip	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2386804/supplementaryFiles
+fd31fc36d5ec3e242bf016b879d8661a	1481606	supp/PMC2667178.zip	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2667178/supplementaryFiles
+635b284a9320aa0c323d5a2228149ae7	495141	supp/PMC2669801.zip	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2669801/supplementaryFiles
+b31878ace9d73f38b2a9a102ae952f0d	79423383	supp/PMC2775110.zip	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2775110/supplementaryFiles
+a279b3a91f886d4cbb231a4368dffd90	1097084	supp/PMC2839125.zip	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2839125/supplementaryFiles
+ae6cdaa288c8b0a8579b4a677f7a56c9	9539927	supp/PMC2867816.zip	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2867816/supplementaryFiles
+8d59c484bf380c1b460aeff6805e776b	1517498	supp/PMC3353972.zip	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3353972/supplementaryFiles
+449a8247b452a1ba3ffd5d41f10f8d26	788683	supp/PMC3425129.zip	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3425129/supplementaryFiles
+ef92fdea2c17250cf6ad9d09ccac3e6d	5252305	supp/PMC3942036.zip	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3942036/supplementaryFiles
+d5393cde73819e2c7fd834f7a682a68c	13188538	supp/PMC4031984.zip	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4031984/supplementaryFiles
+2c2e109aa9473944f8d4902fec0245a1	5693900	supp/PMC4202323.zip	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4202323/supplementaryFiles
+ae783cb9f4fea36d61365604f8f1afbe	13697416	supp/PMC4564169.zip	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4564169/supplementaryFiles
+184843d0d0195c0bae2db18b336409f2	5886755	supp/PMC5100056.zip	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5100056/supplementaryFiles
+fa7ba0a81c1c93ed9aac796cc0591f1c	3699952	supp/PMC6099883.zip	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6099883/supplementaryFiles
+a5b82d416b18864aedba7303f7e97320	4901206	supp/PMC8358228.zip	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8358228/supplementaryFiles
+63d6fb9614cc3e2ba1feee97ec393d41	21029980	supp/PMC8559963.zip	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8559963/supplementaryFiles
+c04b4be346450b9d884f037cf8034578	654045	github/nitrogenase_Extant-MLAnc_Align.fasta	https://raw.githubusercontent.com/kacarlab/AncientNitrogenase/master/Extant-MLAnc_Align.fasta
+20efd3f3867d748c01266a19d87d6de4	2330416	amr_ReferenceGeneCatalog.txt	https://ftp.ncbi.nlm.nih.gov/pathogen/Antimicrobial_resistance/AMRFinderPlus/database/latest/ReferenceGeneCatalog.txt (db_version 2026-08-07.1)

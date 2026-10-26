@@ -1,0 +1,45 @@
+accession	organism	assembly_name	level	refseq_cat	busco_complete	busco_lineage	annot_name	annot_pcg	annot_total_genes	release
+GCA_000009045.1	Bacillus subtilis subsp. subtilis str. 168	ASM904v1	Complete Genome	reference genome			Annotation submitted by BSNR	4243	4546	2009-03-17
+GCA_000007985.2	Geobacter sulfurreducens PCA	ASM798v2	Complete Genome	reference genome			Annotation submitted by TIGR	3432	3713	2012-07-31
+GCA_000007345.1	Methanosarcina acetivorans C2A	ASM734v1	Complete Genome	reference genome			Annotation submitted by Broad Institute	4540	4662	2002-04-03
+GCA_000009965.1	Thermococcus kodakarensis KOD1	ASM996v1	Complete Genome	reference genome			Annotation submitted by Kyoto University, Japan	2306	2306	2005-01-05
+GCA_000018465.1	Nitrosopumilus maritimus SCM1	ASM1846v1	Complete Genome	reference genome			Annotation submitted by US DOE Joint Genome Institute (JGI-PGF)	1795	1840	2007-11-15
+GCA_000008625.1	Aquifex aeolicus VF5	ASM862v1	Complete Genome	reference genome			Annotation submitted by DIVERSA	1553	1604	1999-12-22
+GCA_000005845.2	Escherichia coli str. K-12 substr. MG1655	ASM584v2	Complete Genome	reference genome			Annotation submitted by Univ. Wisconsin	4290	4651	2013-09-26
+GCA_000006765.1	Pseudomonas aeruginosa PAO1	ASM676v1	Complete Genome	reference genome			Annotation submitted by PathoGenesis Corporation	5571	5682	2006-07-07
+GCA_000002985.3	Caenorhabditis elegans	WBcel235	Complete Genome	reference genome			Annotation submitted by C. elegans Sequencing Consortium	19971	46890	2013-02-07
+GCA_000008725.1	Chlamydia trachomatis D/UW-3/CX	ASM872v1	Complete Genome	reference genome			Annotation submitted by ChGP	894	939	2001-01-09
+GCA_000002725.2	Leishmania major strain Friedlin	ASM272v2	Complete Genome	reference genome			Annotation submitted by Friedlin Consortium	8316	9687	2011-02-14
+GCA_000091205.1	Cyanidioschyzon merolae strain 10D	ASM9120v1	Complete Genome	reference genome			Annotation submitted by National Institute of Genetics, Japan	4803	6170	2007-07-11
+GCA_000091025.4	Eremothecium gossypii ATCC 10895	ASM9102v4	Complete Genome	reference genome			Annotation submitted by Biozentrum, University of Basel, Switzerland	4776	5331	2010-10-18
+GCA_000019605.1	Candidatus Korarchaeum cryptofilum OPF8	ASM1960v1	Complete Genome	reference genome			Annotation submitted by US DOE Joint Genome Institute	1602	1661	2008-03-18
+GCA_000026365.1	Zygosaccharomyces rouxii	ASM2636v1	Chromosome	reference genome			Annotation submitted by Genolevures Consortium	4991	5404	2009-06-05
+GCA_000091045.1	Cryptococcus deneoformans JEC21	ASM9104v1	Chromosome	reference genome			Annotation submitted by TIGR	6632	7004	2005-01-07
+GCA_000091225.2	Encephalitozoon cuniculi GB-M1	ASM9122v2	Chromosome	reference genome			Annotation submitted by Genoscope	2126	2159	2017-03-09
+GCA_000001405.29	Homo sapiens	GRCh38.p14	Chromosome	reference genome						2022-02-03
+GCA_000001635.9	Mus musculus	GRCm39	Chromosome	reference genome						2020-06-24
+GCA_000001215.4	Drosophila melanogaster	Release 6 plus ISO1 MT	Chromosome	reference genome			FlyBase Release 6.54	13962	17872	2014-08-01
+GCA_000195955.2	Mycobacterium tuberculosis H37Rv	ASM19595v2	Complete Genome	reference genome			Annotation submitted by Sanger Institute	4018	4111	2013-02-01
+GCA_000091665.1	Methanocaldococcus jannaschii DSM 2661	ASM9166v1	Complete Genome	reference genome			Annotation submitted by TIGR	1770	1821	1999-12-22
+GCA_000146045.2	Saccharomyces cerevisiae S288C	R64	Complete Genome	reference genome			SGD R64-5-1	6002	6431	2011-04-18
+GCA_000237345.1	Naumovozyma castellii	ASM23734v1	Chromosome	reference genome			Annotation submitted by Wolfe Laboratory, Smurfit Institute of Genetics, Trinity College Dublin	5592	5870	2011-08-01
+GCA_000243375.1	Torulaspora delbrueckii	ASM24337v1	Chromosome	reference genome			Annotation submitted by Wolfe Laboratory, Smurfit Institute of Genetics, Trinity College Dublin, Ireland	4972	5176	2011-12-08
+GCA_000142805.1	Lachancea thermotolerans CBS 6340	ASM14280v1	Chromosome	reference genome			Annotation submitted by Génolevures Consortium	5092	5511	2009-06-05
+GCA_000304475.1	Kazachstania africana CBS 2517	Ka_CBS2517	Chromosome	reference genome			Annotation submitted by Wolfe Laboratory, Smurfit Institute of Genetics, Trinity College Dublin, Ireland	5378	5649	2012-01-17
+GCA_000227115.2	Naumovozyma dairenensis CBS 421	ASM22711v2	Chromosome	reference genome			Annotation submitted by Wolfe Laboratory, Smurfit Institute of Genetics, Trinity College Dublin, Ireland	5548	5816	2012-08-20
+GCA_000182965.3	Candida albicans SC5314	ASM18296v3	Chromosome	reference genome			CGD A22-s07-m01-r01	6030	6263	2016-10-12
+GCA_000235365.1	Eremothecium cymbalariae DBVPG#7215	ASM23536v1	Chromosome	reference genome			Annotation submitted by Carlsberg Laboratory	4434	4853	2011-11-14
+GCA_000236905.1	Tetrapisispora phaffii CBS 4417	ASM23690v1	Chromosome	reference genome			Annotation submitted by Wolfe Laboratory, Smurfit Institute of Genetics, Trinity College Dublin, Ireland	5253	5463	2011-11-17
+GCA_016699485.1	Gallus gallus	bGalGal1.mat.broiler.GRCg7b	Chromosome	reference genome						2021-01-19
+GCA_902167145.1	Zea mays	Zm-B73-REFERENCE-NAM-5.0	Chromosome	reference genome						2020-03-21
+GCA_000182925.2	Neurospora crassa OR74A	NC12	Chromosome	reference genome			Annotation submitted by Broad Institute	9758	10591	2013-10-25
+GCA_000149405.2	Thalassiosira pseudonana CCMP1335	ASM14940v2	Chromosome	reference genome			Annotation submitted by Diatom Consortium	11672	11771	2009-01-16
+GCA_048537945.1	Mnemiopsis leidyi	crg_Mlei_v2	Chromosome	reference genome			Annotation submitted by Centre for Genomic Regulation	19625	19625	2025-03-10
+GCA_020310875.1	Ceratopteris richardii	C.richardii_v2	Chromosome	reference genome			Annotation submitted by Open Green Genomes Project	36816	36816	2021-11-05
+GCF_000003815.2	Branchiostoma floridae	Bfl_VNyyK	Chromosome	reference genome			NCBI Branchiostoma floridae Annotation Release 100	26689	29857	2020-04-29
+GCA_000150035.1	Vanderwaltozyma polyspora DSM 70294	ASM15003v1	Scaffold	reference genome			Annotation submitted by Trinity College Dublin, Ireland	5328	5767	2007-08-17
+GCA_000189635.1	Tetrahymena thermophila SB210	JCVI-TTA1-2.2	Scaffold	reference genome			Annotation submitted by TIGR	26996	26996	2009-03-23
+GCF_017654675.1	Xenopus laevis	Xenopus_laevis_v10.1	Chromosome	reference genome			NCBI Xenopus laevis Annotation Release 101	34476	44456	2021-04-12
+GCF_000004195.4	Xenopus tropicalis	UCB_Xtro_10.0	Chromosome	reference genome			GCF_000004195.4-RS_2026_09	21901	28932	2019-11-14
+GCF_048934315.1	Petromyzon marinus	UKy_Petmar_22M1.pri1.0	Chromosome	reference genome			GCF_048934315.1-RS_2025_08	22381	45433	2025-03-25
+GCF_905237065.1	Salmo salar	Ssal_v3.1	Chromosome				GCF_905237065.1-RS_2025_05	43000	65341	2021-04-21
