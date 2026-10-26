@@ -7,3 +7,6 @@
 - Nextflow/FastOMA needs absolute paths for --input/--output_folder ("Not a valid path value"). Evidence: first FastOMA attempt failed in 1 s.
 - Never let demo/test scripts write into shared data dirs (data/proteomes): toolkit demo wiped 109 freshly downloaded proteomes. Evidence: M1, re-download needed.
 - Never run >5 subagents concurrently: 13 parallel Opus agents exhausted the account session limit within ~1 h and ALL died mid-task (lost T+1h05→T+4h54). Prefer resuming agents (SendMessage) over relaunching; prefer Sonnet for table parsing/engineering; tell agents to grep/head instead of reading big files. Evidence: rate-limit 429 at ~14:20 UTC, reset 18:10 UTC.
+- Run negative controls on real data before trusting a metric: all-singletons scored 0.86 YGOB event recovery (> both tools), exposing untestable events (unbounded interval + single-gene copies). Evidence: results/Y_full first pass (T+11h).
+- Ask humans for papers early: the REQUESTED.md list (posted T+0h45) was ~90% fulfilled within 1.5 h; checking the folder only at T+10h delayed use of globin/Xenopus/kinome sources. Check requested/ every milestone (scripts/check_requested.sh).
+- Verify "literature" tables for hidden tool provenance: Braasch 2016 ohnolog tables derive from Ensembl Compara (denylisted) — caught only at curation time. Evidence: V05 cancelled (T+11h).
