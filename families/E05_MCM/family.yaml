@@ -1,0 +1,237 @@
+id: E05_MCM
+name: MCM2-9 replicative helicase family (Mcm2-7 + Mcm8/9 LECA paralogues; archaeal MCM outgroup)
+panel: E
+phenomena:
+- DEEP
+- CONTROL
+- LOSS
+- LSE
+descriptors:
+  n_members: 113
+  n_species: 18
+  mapped_fraction: 0.825
+  status_counts:
+    mapped: 113
+    unmapped: 18
+    not_in_panel: 8
+    ambiguous: 6
+    excluded: 3
+  per_species_mapped_fraction:
+    ARATH: 0.875
+    CHLRE: 1.0
+    CYAME: 1.0
+    DICDI: 1.0
+    DROME: 1.0
+    ENCCU: 1.0
+    ENTH1: 0.875
+    GIAIC: 1.0
+    HALSA: 1.0
+    HUMAN: 1.0
+    MONBE: 0.75
+    NAEGR: 1.0
+    NEMVE: 0.75
+    NEUCR: 0.667
+    PHYRM: 0.25
+    THAPS: 0.0
+    TRIAD: 1.0
+    TRYB2: 0.75
+    YEAST: 1.0
+  paralogues_per_species:
+    ARATH:
+    - Mcm2
+    - Mcm3
+    - Mcm4
+    - Mcm5
+    - Mcm6
+    - Mcm7
+    - Mcm9
+    CHLRE:
+    - Mcm2
+    - Mcm3
+    - Mcm4
+    - Mcm5
+    - Mcm6
+    - Mcm7
+    - Mcm8
+    CYAME:
+    - Mcm2
+    - Mcm3
+    - Mcm4
+    - Mcm5
+    - Mcm6
+    - Mcm7
+    - Mcm8
+    - Mcm9
+    DICDI:
+    - Mcm2
+    - Mcm3
+    - Mcm4
+    - Mcm5
+    - Mcm6
+    - Mcm7
+    - Mcm8
+    - Mcm9
+    DROME:
+    - Mcm2
+    - Mcm3
+    - Mcm4
+    - Mcm5
+    - Mcm6
+    - Mcm7
+    - Mcm8
+    ENCCU:
+    - Mcm2
+    - Mcm3
+    - Mcm4
+    - Mcm5
+    - Mcm6
+    - Mcm7
+    - Mcm8
+    - Mcm9
+    ENTH1:
+    - Mcm2
+    - Mcm3
+    - Mcm4
+    - Mcm5
+    - Mcm6
+    - Mcm7
+    - Mcm9
+    GIAIC:
+    - Mcm2
+    - Mcm3
+    - Mcm4
+    - Mcm5
+    - Mcm6
+    - Mcm7
+    HALSA:
+    - archaeal_MCM
+    HUMAN:
+    - Mcm2
+    - Mcm3
+    - Mcm4
+    - Mcm5
+    - Mcm6
+    - Mcm7
+    - Mcm8
+    - Mcm9
+    MONBE:
+    - Mcm2
+    - Mcm3
+    - Mcm4
+    - Mcm5
+    - Mcm6
+    - Mcm7
+    NAEGR:
+    - Mcm2
+    - Mcm3
+    - Mcm4
+    - Mcm5
+    - Mcm6
+    - Mcm7
+    - Mcm8
+    - Mcm9
+    NEMVE:
+    - Mcm2
+    - Mcm3
+    - Mcm5
+    - Mcm6
+    - Mcm7
+    - Mcm9
+    NEUCR:
+    - Mcm2
+    - Mcm3
+    - Mcm5
+    - Mcm6
+    PHYRM:
+    - Mcm3
+    - Mcm8
+    TRIAD:
+    - Mcm2
+    - Mcm3
+    - Mcm4
+    - Mcm5
+    - Mcm6
+    - Mcm7
+    - Mcm8
+    - Mcm9
+    TRYB2:
+    - Mcm2
+    - Mcm4
+    - Mcm5
+    - Mcm6
+    - Mcm8
+    - Mcm9
+    YEAST:
+    - Mcm2
+    - Mcm4
+    - Mcm5
+    - Mcm6
+    - Mcm7
+sources:
+- id: Liu2009
+  doi: 10.1186/1471-2148-9-60
+  pmid: '19292915'
+  pmcid: PMC2667178
+  title: Ancient diversification of eukaryotic MCM DNA replication proteins
+  year: 2009
+  source_method: phylogeny
+  table: Additional files 1-4 (PDF trees with accessions), Additional file 7 (Newick)
+  locator: Abstract; Results; Discussion
+  quote: demonstrating that Mcm2-9 were formed by seven gene duplication events before the last common ancestor of the eukaryotes
+  files:
+  - path: literature/papers/PMID19292915/fulltext.txt
+    sha256: efc28bfc31b130c141b3b2145f3b3430361ff7be5029475b32af4d35b57e0806
+  - path: literature/papers/PMID19292915/raw/supp/1471-2148-9-60-S1.pdf
+    sha256: 73e14962cc7504d43cff38dd9ce2bece50472d3804ef0fe6702b1e9e613d721c
+  - path: literature/papers/PMID19292915/raw/supp/1471-2148-9-60-S2.pdf
+    sha256: d72e60eb5e9ea470499b416980cd042226e71e83361df076a0354480f088cf00
+  - path: literature/papers/PMID19292915/raw/supp/1471-2148-9-60-S3.pdf
+    sha256: 8b91d7f4f151fe2f5c1a9aa38aa769003c6ad3b5c0f25dd9f8169d2e0bedb62e
+  - path: literature/papers/PMID19292915/raw/supp/1471-2148-9-60-S4.pdf
+    sha256: 2b6f71142a1ae5bb09f7ad98a954c26a800d9215a7e12f18f57f57271f8f36ef
+  - path: literature/papers/PMID19292915/raw/supp/1471-2148-9-60-S7.txt
+    sha256: f03a0c69937426d66ea7fea8a9f45c42686b348a3dbe2353a04980a6dd4edd6c
+  - path: families/E05_MCM/cache/query_meta.tsv
+    sha256: 7528dd6fecafd8163405367ac7fe248f6b6d2bd7432534cf0ad844f0139530a4
+  - path: families/E05_MCM/cache/query.fasta
+    sha256: 0f2093fbab346644fb18ede4ec1dbb728307f81ce061011d0fb62738b9d2720a
+  - path: families/E05_MCM/cache/fwd.tsv
+    sha256: 585642287deee3dd4ed1189a782abdb4a176e78cf42648430b9ec7592cdf0316
+  - path: families/E05_MCM/cache/rev.tsv
+    sha256: 8b197269a62c5fe22fcc226a2819cff9ff42399c3b62857b707698a509f9d705
+  - path: families/E05_MCM/cache/qc.tsv
+    sha256: f297802a9ac6d2d361d3e962fa4cfc4d0866bb633a877a87b96af716a59b581e
+  - path: families/E05_MCM/cache/idmap.tsv
+    sha256: 361310d3f580ac4bdc49beb95f0afe49f65ef43a8d8e4b9bcd7674032e1da346
+root_level: Archaea_Eukaryota
+root_single_copy: false
+complete_species:
+- CHLRE
+- CYAME
+- DICDI
+- DROME
+- ENCCU
+- GIAIC
+- HUMAN
+- NAEGR
+- TRIAD
+decoys: []
+distinct_from: []
+tier_summary:
+  D_T1: 2
+  S_T1: 1
+  S_T2: 8
+protocol_version: 1
+completeness_quote: These multiple BLAST searches using paralogous genes as search seeds were conducted to ensure that all
+  available paralogues were sampled from each of the target genomes.
+notes: 'Root S (T1) joins the single Halobacterium MCM (paper: one MCM per archaeon except M. jannaschii) with the eukaryotic
+  Mcm2-9 set; MCM_LECA_DUPS is one multifurcating D node for the seven pre-LECA duplications (branching order unresolved in
+  the paper: ''Both phylogenetic analyses failed to resolve the branching relationship''), lvl_lo=Eukaryota, lvl_hi=Asgard_Eukaryota
+  because the sampled Euryarchaeota and TACK (Sulfolobus, Thermofilum) carry a single MCM; no Asgard archaea were sampled.
+  Per paralogue: <=1 gene per species -> S polytomy (T2 rule b; no two panel-E species share a WGD). Naegleria has two Mcm3
+  (T1 recent duplication, D at NAEGR). Source errors handled: accessions printed under two paralogues (N. crassa XP_965670
+  Mcm4/Mcm7, T. brucei XP_951609 Mcm3/Mcm7, M. brevicollis Monbr1:32709 Mcm8/Mcm9) -> ambiguous; accessions that resolve to
+  non-MCM proteins (S. cerevisiae NP_010883 = SPF1; E. histolytica XP_754207 = Aspergillus protein) -> excluded by homology
+  QC. Table 1 lists Nematostella Mcm8/9 as absent, while Additional file 4, Additional file 7 (NvMcm8/NvMcm9) and the Methods
+  animal Mcm8/9 list include them; the figure labels are used. Panel archaea other than HALSA (SACS2, THEKO, NITMS, LOKOS)
+  and all bacteria were not sampled by the paper; their MCMs are not members (incompleteness, not absence).'

@@ -1,0 +1,76 @@
+qid	orig	code	route	ncbi_record	ncbi_header	qlen
+YEAST|NP_015344	NP_015344	YEAST	ncbi_accession	NP_015344.1	NP_015344.1 MCM DNA helicase complex subunit MCM4 [Saccharomyces cerevisiae S288C]	933
+NEUCR|XP_965670	XP_965670	NEUCR	ncbi_accession	XP_965670.1	XP_965670.1 cell division control protein 54 [Neurospora crassa OR74A]	1013
+CHLRE|Chlre3:113236(JGI)	Chlre3:113236(JGI)	CHLRE	ncbi_old_locus_tag CHLREDRAFT_113236 (1 hits)	XP_042922458.1	XP_042922458.1 uncharacterized protein CHLRE_07g316850v5 [Chlamydomonas reinhardtii]	982
+ARATH|NP_179236	NP_179236	ARATH	ncbi_accession	NP_179236.3	NP_179236.3 Minichromosome maintenance (MCM2/3/5) family protein [Arabidopsis thaliana]	847
+DICDI|EAL69562	EAL69562	DICDI	ncbi_accession	EAL69562.1	EAL69562.1 MCM family protein [Dictyostelium discoideum AX4]	886
+ENTH1|XP_649080	XP_649080	ENTH1	ncbi_accession	XP_649080.1	XP_649080.1 DNA replication licensing factor, putative [Entamoeba histolytica HM-1:IMSS]	608
+DROME|AAF59242	AAF59242	DROME	ncbi_accession	AAF59242.1	AAF59242.1 disc proliferation abnormal, isoform A [Drosophila melanogaster]	866
+HUMAN|NP_005905	NP_005905	HUMAN	ncbi_accession	NP_005905.2	NP_005905.2 DNA replication licensing factor MCM4 [Homo sapiens]	863
+TRYB2|XP_829287	XP_829287	TRYB2	ncbi_accession	XP_829287.1	XP_829287.1 minichromosome maintenance complex subunit [Trypanosoma brucei brucei TREU927]	836
+ENCCU|CAD25144	CAD25144	ENCCU	ncbi_accession	CAD25144.1	CAD25144.1 DNA REPLICATION LICENSING FACTOR OF THE MCM FAMILY (MCM4) [Encephalitozoon cuniculi GB-M1]	708
+HUMAN|NP_005907	NP_005907	HUMAN	ncbi_accession	NP_005907.3	NP_005907.3 DNA replication licensing factor MCM7 isoform 1 [Homo sapiens]	719
+HUMAN|NP_877577	NP_877577	HUMAN	ncbi_accession	NP_877577.1	NP_877577.1 DNA replication licensing factor MCM7 isoform 2 [Homo sapiens]	543
+DROME|AAF50357	AAF50357	DROME	ncbi_accession	AAF50357.1	AAF50357.1 minichromosome maintenance 7 [Drosophila melanogaster]	720
+YEAST|NP_009761	NP_009761	YEAST	ncbi_accession	NP_009761.4	NP_009761.4 DNA replication licensing factor MCM7 [Saccharomyces cerevisiae S288C]	845
+ARATH|NP_192115	NP_192115	ARATH	ncbi_accession	NP_192115.1	NP_192115.1 Minichromosome maintenance (MCM2/3/5) family protein [Arabidopsis thaliana]	716
+DICDI|EAL65910	EAL65910	DICDI	ncbi_accession	EAL65910.1	EAL65910.1 MCM family protein [Dictyostelium discoideum AX4]	789
+CHLRE|Chlre3:127391(JGI)	Chlre3:127391(JGI)	CHLRE	ncbi_old_locus_tag CHLREDRAFT_127391 (1 hits)	XP_042920456.1	XP_042920456.1 uncharacterized protein CHLRE_10g455850v5 [Chlamydomonas reinhardtii]	777
+TRYB2|XP_951609	XP_951609	TRYB2	ncbi_accession	XP_951609.1	XP_951609.1 minichromosome maintenance (MCM) complex subunit, putative [Trypanosoma brucei brucei TREU927]	812
+ENTH1|XP_650807	XP_650807	ENTH1	ncbi_accession	XP_650807.1	XP_650807.1 DNA replication licensing factor, putative [Entamoeba histolytica HM-1:IMSS]	690
+ENCCU|CAD27107	CAD27107	ENCCU	ncbi_accession	CAD27107.1	CAD27107.1 DNA REPLICATION LICENSING FACTOR OF THE MCM FAMILY MCM7 [Encephalitozoon cuniculi GB-M1]	694
+HUMAN|NP_006730	NP_006730	HUMAN	ncbi_accession	NP_006730.2	NP_006730.2 DNA replication licensing factor MCM5 [Homo sapiens]	734
+DROME|AAF54557	AAF54557	DROME	ncbi_accession	AAF54557.1	AAF54557.1 minichromosome maintenance 5 [Drosophila melanogaster]	733
+NEUCR|XP_961537	XP_961537	NEUCR	ncbi_accession	XP_961537.1	XP_961537.1 DNA replication licensing factor mcm5 [Neurospora crassa OR74A]	724
+YEAST|NP_013376	NP_013376	YEAST	ncbi_accession	NP_013376.1	NP_013376.1 MCM DNA helicase complex subunit MCM5 [Saccharomyces cerevisiae S288C]	775
+CHLRE|Chlre3:171623(JGI)	Chlre3:171623(JGI)	CHLRE	ncbi_old_locus_tag CHLREDRAFT_171623 (1 hits)	XP_042928426.1	XP_042928426.1 uncharacterized protein CHLRE_01g023150v5 [Chlamydomonas reinhardtii]	751
+ARATH|NP_178812	NP_178812	ARATH	ncbi_accession	NP_178812.1	NP_178812.1 Minichromosome maintenance (MCM2/3/5) family protein [Arabidopsis thaliana]	727
+DICDI|EAL61028	EAL61028	DICDI	ncbi_accession	EAL61028.1	EAL61028.1 MCM family protein [Dictyostelium discoideum AX4]	757
+TRYB2|XP_828632	XP_828632	TRYB2	ncbi_accession	XP_828632.1	XP_828632.1 minichromosome maintenance complex subunit [Trypanosoma brucei brucei TREU927]	770
+ENCCU|CAD25394	CAD25394	ENCCU	ncbi_accession	CAD25394.1	CAD25394.1 DNA REPLICATION LICENSING FACTOR OF THE MCM FAMILY MCM5 [Encephalitozoon cuniculi GB-M1]	696
+ENTH1|XP_648784	XP_648784	ENTH1	ncbi_accession	XP_648784.1	XP_648784.1 DNA replication licensing factor [Entamoeba histolytica HM-1:IMSS]	639
+HUMAN|NP_005906	NP_005906	HUMAN	ncbi_accession	NP_005906.2	NP_005906.2 DNA replication licensing factor MCM6 [Homo sapiens]	821
+DROME|AAF46184	AAF46184	DROME	ncbi_accession	AAF46184.1	AAF46184.1 minichromosome maintenance 6 [Drosophila melanogaster]	817
+ARATH|NP_680393	NP_680393	ARATH	ncbi_accession	NP_680393.1	NP_680393.1 minichromosome maintenance (MCM2/3/5) family protein [Arabidopsis thaliana]	831
+CHLRE|Chlre3:127671(JGI)	Chlre3:127671(JGI)	CHLRE	ncbi_old_locus_tag CHLREDRAFT_127671 (1 hits)	XP_042926133.1	XP_042926133.1 uncharacterized protein CHLRE_03g178650v5 [Chlamydomonas reinhardtii]	895
+TRYB2|XP_829227	XP_829227	TRYB2	ncbi_accession	XP_829227.1	XP_829227.1 minichromosome maintenance complex subunit [Trypanosoma brucei brucei TREU927]	868
+YEAST|NP_011314	NP_011314	YEAST	ncbi_accession	NP_011314.2	NP_011314.2 MCM DNA helicase complex subunit MCM6 [Saccharomyces cerevisiae S288C]	1017
+NEUCR|XP_962193	XP_962193	NEUCR	ncbi_accession	XP_962193.3	XP_962193.3 DNA replication licensing factor mcm6 [Neurospora crassa OR74A]	972
+DICDI|EAS66960	EAS66960	DICDI	ncbi_accession	EAS66960.1	EAS66960.1 MCM family protein [Dictyostelium discoideum AX4]	867
+ENCCU|CAD26597	CAD26597	ENCCU	ncbi_accession	CAD26597.2	CAD26597.2 DNA REPLICATION LICENSING FACTOR OF THE MCM FAMILY (MCM6) [Encephalitozoon cuniculi GB-M1]	707
+ENTH1|XP_654108	XP_654108	ENTH1	ncbi_accession	XP_654108.1	XP_654108.1 DNA replication licensing factor, putative [Entamoeba histolytica HM-1:IMSS]	682
+YEAST|NP_010883	NP_010883	YEAST	ncbi_accession	NP_010883.3	NP_010883.3 ion-transporting P-type ATPase SPF1 [Saccharomyces cerevisiae S288C]	1215
+NEUCR|XP_962679	XP_962679	NEUCR	ncbi_accession	XP_962679.1	XP_962679.1 DNA replication licensing factor mcm3 [Neurospora crassa OR74A]	944
+ARATH|NP_199440	NP_199440	ARATH	ncbi_accession	NP_199440.1	NP_199440.1 Minichromosome maintenance (MCM2/3/5) family protein [Arabidopsis thaliana]	776
+CHLRE|Chlre3:115083(JGI)	Chlre3:115083(JGI)	CHLRE	ncbi_old_locus_tag CHLREDRAFT_115083 (1 hits)	XP_042924204.1	XP_042924204.1 uncharacterized protein CHLRE_06g295700v5 [Chlamydomonas reinhardtii]	912
+DICDI|EAL67381	EAL67381	DICDI	ncbi_accession	EAL67381.1	EAL67381.1 MCM family protein [Dictyostelium discoideum AX4]	867
+HUMAN|NP_002379	NP_002379	HUMAN	ncbi_accession	NP_002379.4	NP_002379.4 DNA replication licensing factor MCM3 isoform 1 [Homo sapiens]	808
+DROME|AAF46023	AAF46023	DROME	ncbi_accession	AAF46023.1	AAF46023.1 minichromosome maintenance 3, isoform A [Drosophila melanogaster]	819
+ENCCU|CAD26334	CAD26334	ENCCU	ncbi_accession	CAD26334.1	CAD26334.1 DNA REPLICATION LICENSING FACTOR OF THE MCM FAMILY MCM3 [Encephalitozoon cuniculi GB-M1]	687
+ENTH1|XP_653372	XP_653372	ENTH1	ncbi_accession	XP_653372.1	XP_653372.1 DNA replication licensing factor MCM3 [Entamoeba histolytica HM-1:IMSS]	601
+CHLRE|Chlre3:152683(JGI)	Chlre3:152683(JGI)	CHLRE	ncbi_old_locus_tag CHLREDRAFT_152683 (1 hits)	XP_001700080.1	XP_001700080.1 uncharacterized protein CHLRE_07g338000v5 [Chlamydomonas reinhardtii]	887
+ARATH|NP_175112	NP_175112	ARATH	ncbi_accession	NP_175112.2	NP_175112.2 minichromosome maintenance (MCM2/3/5) family protein [Arabidopsis thaliana]	936
+HUMAN|NP_004517	NP_004517	HUMAN	ncbi_accession	NP_004517.2	NP_004517.2 DNA replication licensing factor MCM2 [Homo sapiens]	904
+DROME|AAF54207	AAF54207	DROME	ncbi_accession	AAF54207.1	AAF54207.1 minichromosome maintenance 2 [Drosophila melanogaster]	887
+YEAST|NP_009530	NP_009530	YEAST	ncbi_accession	NP_009530.1	NP_009530.1 MCM DNA helicase complex subunit MCM2 [Saccharomyces cerevisiae S288C]	868
+NEUCR|XP_960973	XP_960973	NEUCR	ncbi_accession	XP_960973.1	XP_960973.1 DNA replication licensing factor mcm2 [Neurospora crassa OR74A]	882
+ENCCU|CAD25272	CAD25272	ENCCU	ncbi_accession	CAD25272.1	CAD25272.1 DNA REPLICATION LICENSING FACTOR MCM2 [Encephalitozoon cuniculi GB-M1]	780
+DICDI|EAL64067	EAL64067	DICDI	ncbi_accession	EAL64067.1	EAL64067.1 MCM family protein [Dictyostelium discoideum AX4]	1008
+ENTH1|XP_656059	XP_656059	ENTH1	ncbi_accession	XP_656059.2	XP_656059.2 DNA replication licensing factor [Entamoeba histolytica HM-1:IMSS]	881
+TRYB2|XP_828861	XP_828861	TRYB2	ncbi_accession	XP_828861.1	XP_828861.1 minichromosome maintenance complex subunit [Trypanosoma brucei brucei TREU927]	948
+HUMAN|NP_877954	NP_877954	HUMAN	ncbi_accession	NP_877954.1	NP_877954.1 DNA helicase MCM8 isoform 2 [Homo sapiens]	824
+HUMAN|NP_115874	NP_115874	HUMAN	ncbi_accession	NP_115874.3	NP_115874.3 DNA helicase MCM8 isoform 1 [Homo sapiens]	840
+DICDI|EAL65948	EAL65948	DICDI	ncbi_accession	EAL65948.1	EAL65948.1 MCM family protein [Dictyostelium discoideum AX4]	812
+ARATH|NP_187577	NP_187577	ARATH	ncbi_accession	NP_187577.1	NP_187577.1 minichromosome maintenance 8 [Arabidopsis thaliana]	777
+CHLRE|Chlre3:122561(JGI)	Chlre3:122561(JGI)	CHLRE	ncbi_old_locus_tag CHLREDRAFT_122561 (1 hits)	XP_042915702.1	XP_042915702.1 uncharacterized protein CHLRE_16g665950v5 [Chlamydomonas reinhardtii]	893
+ENCCU|CAD25990	CAD25990	ENCCU	ncbi_accession	CAD25990.1	CAD25990.1 DNA REPLICATION LICENSING FACTOR MCM4 [Encephalitozoon cuniculi GB-M1]	681
+ENTH1|XP_754207	XP_754207	ENTH1	ncbi_accession	XP_754207.1	XP_754207.1 DUF3712 domain-containing protein [Aspergillus fumigatus Af293]	444
+DROME|NP_732072	NP_732072	DROME	ncbi_accession	NP_732072.1	NP_732072.1 recombination-defective, isoform A [Drosophila melanogaster]	885
+TRYB2|XP_823262	XP_823262	TRYB2	ncbi_accession	XP_823262.1	XP_823262.1 minichromosome maintenance complex subunit [Trypanosoma brucei brucei TREU927]	711
+HUMAN|NP_694987	NP_694987	HUMAN	ncbi_accession	NP_694987.1	NP_694987.1 DNA helicase MCM9 isoform 2 [Homo sapiens]	391
+ARATH|NP_179021	NP_179021	ARATH	ncbi_accession	NP_179021.3	NP_179021.3 minichromosome maintenance 9 [Arabidopsis thaliana]	646
+ENTH1|XP_654939	XP_654939	ENTH1	ncbi_accession	XP_654939.1	XP_654939.1 DNA replication licensing factor, putative [Entamoeba histolytica HM-1:IMSS]	810
+DICDI|EAL64396	EAL64396	DICDI	ncbi_accession	EAL64396.1	EAL64396.1 MCM family protein [Dictyostelium discoideum AX4]	1275
+TRYB2|XP827264	XP827264	TRYB2	ncbi_accession	XP_827264.1	XP_827264.1 minichromosome maintenance complex subunit [Trypanosoma brucei brucei TREU927]	761
+ENCCU|CAD25581	CAD25581	ENCCU	ncbi_accession	CAD25581.1	CAD25581.1 DNA REPLICATION LICENSING FACTOR OF THE MCM FAMILY (MCM7) [Encephalitozoon cuniculi GB-M1]	563
+HALSA|AAG20316	AAG20316	HALSA	ncbi_accession	AAG20316.1	AAG20316.1 MCM / cell division control protein 21 [Halobacterium salinarum NRC-1]	831
