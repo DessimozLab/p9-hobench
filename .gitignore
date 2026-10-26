@@ -17,3 +17,9 @@ requested/*
 literature/papers/*/raw/
 curation_tools/**/.pytest_cache/
 .pytest_cache/
+
+# wrapper: large run outputs and derived FASTAs (regenerable; released as archive, F2)
+runs/**/raw/
+runs/timing/
+panels/*/subset/*.fa
+panels/*_*/proteomes/
