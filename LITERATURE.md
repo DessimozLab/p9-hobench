@@ -10,12 +10,12 @@ Detailed, citation-verified surveys (every DOI/PMID checked against Europe PMC; 
 ## 1. State of the art in orthology benchmarking
 - **Quest for Orthologs benchmark service** (Altenhoff 2016 Nat Methods 10.1038/nmeth.3830; Altenhoff 2020 NAR 10.1093/nar/gkaa308;
   Nevers 2022 NAR 10.1093/nar/gkac330; Altenhoff 2024 NARGAB 10.1093/nargab/lqae167) scores *pairwise* orthology: species-tree
-  discordance (STD/GSTD), reference gene trees (SwissTree, TreeFam-A), function conservation (GO/EC), and VGNC/HGNC tests.
+  discordance (STD/GSTD), reference gene trees (SwissTree, TreeFam-A), function conservation (GO/EC), and a VGNC-based test.
   HOGs are flattened to ortholog pairs; duplication timing, paralogy and nesting are not scored. A 2025 HOG review states
   that the field "still lacks robust benchmarking tailored to HOGs".
 - **OrthoBench** (Trachana 2011; Emms & Kelly 2020 GBE 10.1093/gbe/evaa211): 70 curated RefOGs at one level (Bilateria),
   animal-centred; dominant error is family splitting (best method exactly right in only 23/70).
-- **SwissTree** (Boeckmann 2011/2015): manually curated reconciled trees — closest in spirit to us, but few families and
+- **SwissTree** (Boeckmann et al. 2011 Brief Bioinform 10.1093/bib/bbr034; Boeckmann 2015 GBE is the companion species-tree paper): manually curated reconciled trees — closest in spirit to us, but few families and
   pairwise scoring only.
 - **Tool papers** (OrthoFinder 3: Emms 2026 Nat Methods 10.1038/s41592-026-03126-6; FastOMA 2024/25) evaluate root-level
   groups only. OF3 reports FastOMA over-merges ~10% of reference groups. FastOMA places sequences with OMAmer against the
@@ -27,9 +27,9 @@ Detailed, citation-verified surveys (every DOI/PMID checked against Europe PMC; 
 ## 2. Metrics available for hierarchical orthology
 Pairwise ortholog P/R; cluster metrics (ARI, VI, B-cubed); RefOG-style per-family P/R/F with fission/fusion counts
 (OrthoBench); labelled tree distances for reconciled trees (labeled RF: Briand 2020, 2022; Treerecs; path/triplet measures);
-event-based scoring is essentially absent. Known biases: reconciliation pushes duplications toward the root when gene trees
+event-based scoring is pairwise-only in QfO; HOG-level evaluations exist only on simulated data (ALF; Altenhoff 2013 PLoS One 10.1371/journal.pone.0053786; Train 2017 Bioinformatics GETHOGs). Known biases: reconciliation pushes duplications toward the root when gene trees
 are wrong (Hahn 2007 Genome Biol 10.1186/gb-2007-8-7-r141); ILS mimics duplication+loss; GSTD conflates gene-tree and
-orthology error; GO/EC tests rely on the ortholog conjecture. **Gap we fill: per-level, event-aware scoring of HOGs against
+orthology error; GO/EC tests rely on the ortholog conjecture. **Gap we fill: no *real-data* benchmark scores HOGs per level; we provide per-level, event-aware scoring of HOGs against
 literature-asserted histories, stratified by the phenomenon that makes a family hard.**
 
 ## 3. Documented error sources (what the benchmark must contain)
