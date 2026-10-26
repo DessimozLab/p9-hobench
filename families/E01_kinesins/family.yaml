@@ -1,0 +1,296 @@
+id: E01_kinesins
+name: Kinesin superfamily (eukaryote-wide; LCEA minimal ancestral repertoire)
+panel: E
+collection: E_cytoskeleton_motors
+phenomena:
+- DEEP
+- LOSS
+- PROM
+- LSE
+descriptors:
+  n_members: 361
+  n_species: 16
+  mapped_fraction: 0.822
+  n_rows_panel_species: 564
+  status_counts:
+    mapped: 361
+    excluded: 125
+    unmapped: 77
+    ambiguous: 1
+  per_species_mapped_fraction:
+    ARATH: 0.983
+    BATDJ: 0.0
+    CHLRE: 0.0
+    CYAME: 1.0
+    DICDI: 1.0
+    DROME: 0.952
+    ENCCU: 1.0
+    ENTH1: 0.0
+    GIAIC: 1.0
+    HUMAN: 0.907
+    MONBE: 1.0
+    NAEGR: 0.419
+    NEMVE: 0.818
+    NEUCR: 1.0
+    PLAF7: 0.875
+    THAPS: 1.0
+    TRIAD: 1.0
+    TRYB2: 1.0
+    YEAST: 1.0
+  families_present:
+    Kinesin-1:
+    - ARATH
+    - DICDI
+    - DROME
+    - GIAIC
+    - HUMAN
+    - MONBE
+    - NAEGR
+    - NEMVE
+    - NEUCR
+    - TRIAD
+    - TRYB2
+    Kinesin-13:
+    - ARATH
+    - DICDI
+    - DROME
+    - ENCCU
+    - GIAIC
+    - HUMAN
+    - MONBE
+    - NEMVE
+    - PLAF7
+    - THAPS
+    - TRIAD
+    - TRYB2
+    Kinesin-14:
+    - ARATH
+    - CYAME
+    - DICDI
+    - DROME
+    - ENCCU
+    - GIAIC
+    - HUMAN
+    - MONBE
+    - NEMVE
+    - NEUCR
+    - THAPS
+    - TRIAD
+    - TRYB2
+    - YEAST
+    Kinesin-15:
+    - ARATH
+    - CYAME
+    - ENCCU
+    - HUMAN
+    - MONBE
+    - NAEGR
+    - NEMVE
+    - PLAF7
+    - THAPS
+    - TRIAD
+    - TRYB2
+    Kinesin-16:
+    - DROME
+    - HUMAN
+    - MONBE
+    - NAEGR
+    - TRIAD
+    - TRYB2
+    Kinesin-17:
+    - GIAIC
+    - MONBE
+    - NAEGR
+    - TRYB2
+    Kinesin-18:
+    - ARATH
+    - ENCCU
+    - HUMAN
+    - NEMVE
+    - TRIAD
+    Kinesin-19:
+    - ARATH
+    - GIAIC
+    - NAEGR
+    - TRYB2
+    Kinesin-2:
+    - DROME
+    - GIAIC
+    - HUMAN
+    - MONBE
+    - NEMVE
+    - THAPS
+    - TRIAD
+    - TRYB2
+    Kinesin-20:
+    - NAEGR
+    - PLAF7
+    Kinesin-3:
+    - DICDI
+    - DROME
+    - GIAIC
+    - HUMAN
+    - MONBE
+    - NAEGR
+    - NEMVE
+    - NEUCR
+    - TRIAD
+    - TRYB2
+    Kinesin-4/10:
+    - ARATH
+    - DICDI
+    - DROME
+    - ENCCU
+    - GIAIC
+    - HUMAN
+    - MONBE
+    - NEMVE
+    - NEUCR
+    - THAPS
+    - TRIAD
+    - TRYB2
+    Kinesin-5:
+    - ARATH
+    - CYAME
+    - DICDI
+    - DROME
+    - GIAIC
+    - HUMAN
+    - MONBE
+    - NEMVE
+    - NEUCR
+    - PLAF7
+    - THAPS
+    - TRIAD
+    - YEAST
+    Kinesin-6:
+    - DICDI
+    - DROME
+    - HUMAN
+    - MONBE
+    - NEMVE
+    - NEUCR
+    - THAPS
+    - TRIAD
+    Kinesin-7:
+    - ARATH
+    - CYAME
+    - DICDI
+    - DROME
+    - ENCCU
+    - HUMAN
+    - MONBE
+    - NEMVE
+    - NEUCR
+    - THAPS
+    - TRIAD
+    Kinesin-8:
+    - ARATH
+    - DICDI
+    - DROME
+    - HUMAN
+    - MONBE
+    - NAEGR
+    - NEMVE
+    - NEUCR
+    - PLAF7
+    - TRIAD
+    - YEAST
+    Kinesin-9:
+    - GIAIC
+    - HUMAN
+    - MONBE
+    - NAEGR
+    - NEMVE
+    - THAPS
+    - TRIAD
+    - TRYB2
+    X1:
+    - TRYB2
+    X10:
+    - TRYB2
+    X11:
+    - DICDI
+    - THAPS
+    X12:
+    - MONBE
+    - THAPS
+    X13:
+    - GIAIC
+    - TRYB2
+    X14:
+    - GIAIC
+    X2:
+    - TRYB2
+    X3:
+    - PLAF7
+    X4:
+    - PLAF7
+    X5:
+    - GIAIC
+    X6:
+    - NAEGR
+    X7:
+    - HUMAN
+    X8:
+    - GIAIC
+    - NEMVE
+    X9:
+    - TRYB2
+sources:
+- id: Wickstead2010
+  doi: 10.1186/1471-2148-10-110
+  pmid: '20423470'
+  title: Patterns of kinesin evolution reveal a complex ancestral eukaryote with a multifunctional cytoskeleton
+  year: 2010
+  source_method: phylogeny
+  table: Additional file 3 (S3.XLS)
+  locator: Results; Figure 1, 3; Additional files 3, 8
+  quote: These include 11 kinesin paralogs - namely, Kinesin-1, 2, 3, 4/10, 5, 8, 9A, 9B, 13, 14, 17 - and 3 protein domain
+    architectures - KISc, KISc-FHA, SAM-KISc.
+  files:
+  - path: literature/papers/PMID20423470/raw/supp/1471-2148-10-110-S3.XLS
+    sha256: 1f82ef7fbbd698bbbe135ae85c5a1abd743affd19db781fa05ea584c203f15bd
+  - path: literature/papers/PMID20423470/raw/supp/1471-2148-10-110-S8.ZIP
+    sha256: 0ca93413d3fb054cd9bf4c1bbcd76f40905484a6f8c64a39e8beb34fd5ec5a5a
+  - path: literature/papers/PMID20423470/fulltext.txt
+    sha256: e23e0ad9833a0def0161859526b4876e96b98440a35d1e84d9c3502238bc82da
+root_level: Eukaryota
+root_single_copy: false
+complete_species:
+- ARATH
+- CYAME
+- DICDI
+- DROME
+- ENCCU
+- GIAIC
+- HUMAN
+- MONBE
+- NEUCR
+- THAPS
+- TRIAD
+- TRYB2
+- YEAST
+decoys: []
+distinct_from: []
+tier_summary:
+  D_T1: 2
+  S_T2: 15
+  U_T2: 35
+protocol_version: 1
+notes: 'Kinesin-myosin homology: kinesin and myosin motor domains share a common P-loop NTPase fold/ancestry, so no distinct_from
+  is declared between E01_kinesins and E06_myosins (homologous at fold level, but no orthology/paralogy level asserted). D
+  nodes: (1) KIN_MAR_LECA = split among the 10 MAR families (Kinesin-9 counted once; 9A/9B split is the separate D node K9A_9B_LECA),
+  both lvl=Eukaryota with interval [Eukaryota, ABOVE_RANGE] (paper infers presence in the LCEA; the duplications may be older).
+  Non-MAR families (6, 7, 15, 16, 18, 19, 20), tentative X1-X14 groups, parenthesised (uncertain) family labels and ''ungrouped''
+  sequences hang from the U root (no assertion against MAR families). Within a family, subfamily splits are undated in the
+  paper -> U. Terminal label groups: <=1 gene per species -> S polytomy (T2 rule b; no two panel-E species share a WGD, so
+  rule-b pseudo-orthology exception does not apply); >1 gene in a species -> U (rule c). Mapping: GenBank/RefSeq -> UniProt
+  ID mapping or exact gene-model names (JGI DRAFT names) in the panel proteome, cross-checked with the paper''s motor-domain
+  sequence (DatasetS1); rows with only a motor-domain sequence (no ID route) fail the 80% target-coverage rule and are reported
+  unmapped. Source used old (2006-2007) proteome versions; Batde = strain JEL423 (panel JAM81). Panel-E eukaryotes absent
+  from the source: AMPQE, MNELE, CAPO3, PHYRM, THETR, ICHMU (source has Phytophthora sojae, not P. ramorum; source code ''Capsp''
+  is the annelid Capitella sp. I, not Capsaspora). complete_species = species with a genome-wide HMMER search in the source
+  and >=90% of in-panel rows uniquely mapped; caveat: current gene models may contain kinesins absent from the 2007 datasets.'
+completeness_quote: From these datasets, we extracted complete kinesin repertoires using HMMERv2.3.2 [22] to find all predicted
+  proteins with a match to the Pfam 'kinesin motor domain' profile (PF00225; [69]).

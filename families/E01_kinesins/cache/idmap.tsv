@@ -1,0 +1,302 @@
+original_id	id_type	uniprot_acc	taxid	gene_name	reviewed	length	entry_name	mapping_method	n_hits	note	uniparc
+NP_171697	refseq_protein	Q9LPC6	3702	KINUB	yes	894	KINUB_ARATH	RefSeq_Protein	1		
+NP_172389	refseq_protein	F4HZF0	3702	KIN14H	yes	1040	KN14H_ARATH	RefSeq_Protein	1		
+NP_173277	refseq_protein	A0A1P8AVE8	3702		no	987	A0A1P8AVE8_ARATH	RefSeq_Protein	1		
+NP_173290	refseq_protein	F4ICA0	3702	KIN8A	yes	725	KN8A_ARATH	RefSeq_Protein	1		
+NP_173434	refseq_protein	F4HR11	3702	KIN6	yes	971	KN6_ARATH	RefSeq_Protein	1		
+NP_564696	refseq_protein	F4I1T9	3702	KIN14T	yes	859	KN14T_ARATH	RefSeq_Protein	1		
+NP_974079	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+NP_177370	refseq_protein	F4IBQ9	3702	KIN14Q	yes	1203	KN14Q_ARATH	RefSeq_Protein	1		
+NP_177527	refseq_protein	Q0WN69	3702	KIN14P	yes	1025	KN14P_ARATH	RefSeq_Protein	1		
+NP_179726.2	refseq_protein	F4IGL2	3702	KIN7E	yes	862	KN7E_ARATH	RefSeq_Protein	1		
+NP_179726	refseq_protein	F4IGL2	3702	KIN7E	yes	862	KN7E_ARATH	RefSeq_Protein	1		
+NP_565510	refseq_protein	Q9SJU0	3702	KIN7M	yes	1058	KN7M_ARATH	RefSeq_Protein	1		
+NP_179846	refseq_protein	F4IJK6	3702	KIN14R	yes	1083	KN14R_ARATH	RefSeq_Protein	1		
+NP_180430	refseq_protein	F4IIS5	3702	KIN5A	yes	1042	KN5A_ARATH	RefSeq_Protein	1		
+NP_181162	refseq_protein	P82266	3702	KIN5C	yes	1009	KN5C_ARATH	RefSeq_Protein	1		
+NP_181278	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+NP_850475.2	refseq_protein	F4IL57	3702	KIN14I	yes	983	KN14I_ARATH	RefSeq_Protein	1		
+NP_187629	refseq_protein	F4J2K4	3702	KIN7O	yes	1273	KN7O_ARATH	RefSeq_Protein	1		
+NP_187642	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+NP_187809	refseq_protein	F4J8L3	3702	KIN7K	yes	965	KN7K_ARATH	RefSeq_Protein	1		
+NP_566534	refseq_protein	Q940Y8	3702	KIN13B	yes	684	KN13B_ARATH	RefSeq_Protein	1		
+NP_189991	refseq_protein	F4J1U4	3702	KIN12E	yes	1263	KN12E_ARATH	RefSeq_Protein	1		
+NP_190059	refseq_protein	Q8W1Y3	3702	KIN14F	yes	1087	KN14F_ARATH	RefSeq_Protein	1		
+NP_190171	refseq_protein	A0A2H1ZEJ0	3702		no	1065	A0A2H1ZEJ0_ARATH	RefSeq_Protein	1		
+NP_190534	refseq_protein	Q9SCJ4	3702	KIN8B	yes	813	KN8B_ARATH	RefSeq_Protein	1		
+NP_190684.2	refseq_protein	F4J395	3702		no	1052	F4J395_ARATH	RefSeq_Protein[unversioned]	1		
+NP_567148	refseq_protein	Q8GW44	3702	KIN1	yes	465	KN1_ARATH	RefSeq_Protein	1		
+NP_567695	refseq_protein	F4JQ51	3702	KIN7I	yes	1004	KN7I_ARATH	RefSeq_Protein	1		
+NP_195606	refseq_protein	F4JUI9	3702	KIN7F	yes	836	KN7F_ARATH	RefSeq_Protein	1		
+NM_120315	genbank_protein							unmapped	0	no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein	
+NP_196285	refseq_protein	F4K3X8	3702	KIN7L	yes	977	KN7L_ARATH	RefSeq_Protein	2		
+NP_196285	refseq_protein	A0A1P8BGT7	3702	KIN75	no	986	A0A1P8BGT7_ARATH	RefSeq_Protein	2		
+NP_001078565	refseq_protein	Q9LX99	3702	KIN14A	yes	1273	KN14A_ARATH	RefSeq_Protein	1		
+NP_197779	refseq_protein	F4KEC6	3702	KIN10C	yes	701	KN10C_ARATH	RefSeq_Protein	1		
+NP_198107	refseq_protein	F4K4C5	3702	KIN14S	yes	765	KN14S_ARATH	RefSeq_Protein	1		
+NP_198147	refseq_protein	Q8W0Y9	3702	KIN14U	yes	625	KN14U_ARATH	RefSeq_Protein	1		
+NP_198947	refseq_protein	F4JX00	3702	KIN14K	yes	975	KN14K_ARATH	RefSeq_Protein	1		
+NP_199064	refseq_protein	Q9FIG8	3702	KIN7J	yes	930	KN7J_ARATH	RefSeq_Protein	1		
+NP_200901	refseq_protein	F4K0J3	3702	KIN4C	yes	1300	KN4C_ARATH	RefSeq_Protein	1		
+NP_201349	refseq_protein	Q9FKP4	3702	KIN14B	yes	1264	KN14B_ARATH	RefSeq_Protein	1		
+NP_201432	refseq_protein	F4JZ68	3702	KIN7H	yes	1063	KN7H_ARATH	RefSeq_Protein	1		
+NP_192428	refseq_protein	F4JGP4	3702	KIN14D	yes	790	KN14D_ARATH	RefSeq_Protein	1		
+NP_199593	refseq_protein	Q8GS71	3702	KIN4A	yes	1035	KN4A_ARATH	RefSeq_Protein	1		
+NP_173273	refseq_protein	Q8S905	3702	KIN7A	yes	974	KN7A_ARATH	RefSeq_Protein	1		
+NP_193859	refseq_protein	Q07970	3702	KIN14C	yes	793	KN14C_ARATH	RefSeq_Protein	1		
+NP_567768	refseq_protein	P46864	3702	KIN14M	yes	745	KN14M_ARATH	RefSeq_Protein	1		
+NP_568811	refseq_protein	P46875	3702	KIN14N	yes	754	KN14N_ARATH	RefSeq_Protein	1		
+NP_568491	refseq_protein	O81635	3702	KIN14G	yes	987	KN14G_ARATH	RefSeq_Protein	1		
+NP_566931	refseq_protein	Q94LW7	3702	KIN4B	yes	1051	KN4B_ARATH	RefSeq_Protein	1		
+NP_188285	refseq_protein	Q940B8	3702	KIN13A	yes	794	KN13A_ARATH	RefSeq_Protein	1		
+NP_173592	refseq_protein	Q8W5R6	3702	KIN7C	yes	890	KN7C_ARATH	RefSeq_Protein	1		
+NP_195616	refseq_protein	Q8W5R5	3702	KIN7D	yes	1055	KN7D_ARATH	RefSeq_Protein	1		
+NP_191047	refseq_protein	Q9SV36	3702	KINUC	yes	1051	KINUC_ARATH	RefSeq_Protein	1		
+NP_563908	refseq_protein	Q9FZ06	3702	KINUA	yes	919	KINUA_ARATH	RefSeq_Protein	1		
+NP_567423	refseq_protein	Q9LDN0	3702	KIN12A	yes	1292	KN12A_ARATH	RefSeq_Protein	1		
+NP_189009	refseq_protein	Q8L7Y8	3702	KIN12B	yes	1313	KN12B_ARATH	RefSeq_Protein	1		
+NP_567426	refseq_protein	Q8VWI7	3702	KIN10A	yes	869	KN10A_ARATH	RefSeq_Protein	1		
+NP_188362	refseq_protein	Q27IK7	3702	KIN12C	yes	2066	KN12C_ARATH	RefSeq_Protein	1		
+NP_188535	refseq_protein	Q27IK6	3702	KIN12D	yes	2771	KN12D_ARATH	RefSeq_Protein	1		
+AAN16470	genbank_protein	Q8L7Y8	3702	KIN12B	yes	1313	KN12B_ARATH	EMBL-GenBank-DDBJ_CDS	1		
+NP_564744	refseq_protein	Q9S7P3	3702	KIN7N	yes	823	KN7N_ARATH	RefSeq_Protein	1		
+NP_569022	refseq_protein	Q9FHN8	3702	KIN14E	yes	1260	KN14E_ARATH	RefSeq_Protein	1		
+XP_629230.1	refseq_protein	Q6S002	44689	kif10	yes	1238	KIF10_DICDI	RefSeq_Protein	1		
+XP_635435.1	refseq_protein	Q6S001	44689	kif11	yes	685	KIF11_DICDI	RefSeq_Protein	1		
+XP_647633.1	refseq_protein	Q6S000	44689	kif12	yes	1499	KIF12_DICDI	RefSeq_Protein	1		
+XP_636780.1	refseq_protein	Q6RZZ9	44689	kif13	yes	1265	KIF13_DICDI	RefSeq_Protein	1		
+XP_644079.1	refseq_protein	Q555I8	44689	kif9	yes	1222	KIF9_DICDI	RefSeq_Protein	1		
+XP_643173.1	refseq_protein	Q8T135	44689	kif5	yes	990	KIF5_DICDI	RefSeq_Protein	1		
+XP_647135.1	refseq_protein	Q9BPU3	44689	kif2	yes	792	KIF2_DICDI	RefSeq_Protein	1		
+XP_640847.1	refseq_protein	Q54UC9	44689	kif3	yes	1193	KIF3_DICDI	RefSeq_Protein	1		
+XP_639868.1	refseq_protein	Q54NP8	44689	kif4	yes	1922	KIF4_DICDI	RefSeq_Protein	1		
+XP_647667.1	refseq_protein	Q6S004	44689	kif6	yes	1030	KIF6_DICDI	RefSeq_Protein	1		
+XP_640581.1	refseq_protein	Q54TL0	44689	kif7	yes	1255	KIF7_DICDI	RefSeq_Protein	1		
+XP_638546.1	refseq_protein	Q6S003	44689	kif8	yes	1873	KIF8_DICDI	RefSeq_Protein	1		
+XP_635456.1	refseq_protein	Q9NGQ2	44689	kif1	yes	2205	KIF1_DICDI	RefSeq_Protein	1		
+NP_001027247.1	refseq_protein	Q9VKH9	7227	cana	no	1931	Q9VKH9_DROME	RefSeq_Protein	1		
+NP_524993.2	refseq_protein	Q9VKI0	7227	cmet	no	2189	Q9VKI0_DROME	RefSeq_Protein[unversioned]	1		
+NP_609156.1	refseq_protein	Q9VLW2	7227		yes	1131	KI26L_DROME	RefSeq_Protein	2		
+NP_609156.1	refseq_protein	X2J924	7227	KIF26	no	1131	X2J924_DROME	RefSeq_Protein	2		
+NP_476590.1	refseq_protein	P17210	7227	Khc	yes	975	KINH_DROME	RefSeq_Protein	1		
+NP_477092.1	refseq_protein	O16844	7227	cos	yes	1201	COS_DROME	RefSeq_Protein	2		
+NP_477092.1	refseq_protein	A0A0B4KED9	7227	cos	no	1201	A0A0B4KED9_DROME	RefSeq_Protein	2		
+NP_651939.4	refseq_protein	A0ACM8PZB1	7227	Kif3C	no	649	A0ACM8PZB1_DROME	RefSeq_Protein	2		
+NP_651939.4	refseq_protein	Q9V4A1	7227	Kif3C	no	649	Q9V4A1_DROME	RefSeq_Protein	2		
+NP_609201.3	refseq_protein	A1ZA18	7227	Khc-73	no	1921	A1ZA18_DROME	RefSeq_Protein	1		
+NP_788356.1	refseq_protein	A4UZI0	7227	Khc-73	no	1899	A4UZI0_DROME	RefSeq_Protein[unversioned]	1		
+NP_727491.1	refseq_protein	Q960Z0	7227	Klp10A	yes	805	KI10A_DROME	RefSeq_Protein	2		
+NP_727491.1	refseq_protein	A4V4A1	7227	Klp10A	no	805	A4V4A1_DROME	RefSeq_Protein	2		
+NP_727494.1	refseq_protein	Q960Z0	7227	Klp10A	yes	805	KI10A_DROME	RefSeq_Protein	2		
+NP_727494.1	refseq_protein	A4V4A1	7227	Klp10A	no	805	A4V4A1_DROME	RefSeq_Protein	2		
+NP_727492.1	refseq_protein	Q960Z0	7227	Klp10A	yes	805	KI10A_DROME	RefSeq_Protein	2		
+NP_727492.1	refseq_protein	A4V4A1	7227	Klp10A	no	805	A4V4A1_DROME	RefSeq_Protein	2		
+NP_727493.1	refseq_protein	Q960Z0	7227	Klp10A	yes	805	KI10A_DROME	RefSeq_Protein	2		
+NP_727493.1	refseq_protein	A4V4A1	7227	Klp10A	no	805	A4V4A1_DROME	RefSeq_Protein	2		
+NP_572687.1	refseq_protein	Q960Z0	7227	Klp10A	yes	805	KI10A_DROME	RefSeq_Protein	2		
+NP_572687.1	refseq_protein	A4V4A1	7227	Klp10A	no	805	A4V4A1_DROME	RefSeq_Protein	2		
+NP_609398.2	refseq_protein	Q7JRL5	7227	Klp31E	no	1048	Q7JRL5_DROME	RefSeq_Protein	2		
+NP_609398.2	refseq_protein	Q9VKW4	7227	Klp31E	no	1048	Q9VKW4_DROME	RefSeq_Protein	2		
+NP_525053.1	refseq_protein	Q7KN69	7227		no	1212	Q7KN69_DROME	RefSeq_Protein	2		
+NP_525053.1	refseq_protein	Q9XZ29	7227	Klp3A	no	1212	Q9XZ29_DROME	RefSeq_Protein	2		
+NP_524883.1	refseq_protein	A1ZAV4	7227	Klp54D	no	724	A1ZAV4_DROME	RefSeq_Protein[unversioned]	1		
+NP_611759.1	refseq_protein	Q9W1U4	7227	Klp59C	yes	626	KI59C_DROME	RefSeq_Protein	2		
+NP_611759.1	refseq_protein	Q45EX0	7227	CG3219-RA	no	626	Q45EX0_DROME	RefSeq_Protein	2		
+NP_611762.1	refseq_protein	Q9W1U1	7227	Klp59D	no	729	Q9W1U1_DROME	RefSeq_Protein	2		
+NP_611762.1	refseq_protein	T2GG75	7227	Klp59D-RA	no	729	T2GG75_DROME	RefSeq_Protein	2		
+NP_476818.1	refseq_protein	P46863	7227	Klp61F	yes	1066	KL61_DROME	RefSeq_Protein	1		
+NP_523934.1	refseq_protein	Q9VRK9	7227	Klp64D	no	677	Q9VRK9_DROME	RefSeq_Protein	1		
+NP_523992.2	refseq_protein	Q7JZA1	7227	Klp67A	no	814	Q7JZA1_DROME	RefSeq_Protein	2		
+NP_523992.2	refseq_protein	Q9VSW5	7227	Klp67A	no	814	Q9VSW5_DROME	RefSeq_Protein	2		
+NP_524029.2	refseq_protein	P46867	7227	Klp68D	yes	784	KLP68_DROME	RefSeq_Protein	2		
+NP_524029.2	refseq_protein	M9PF68	7227	Klp68D	no	784	M9PF68_DROME	RefSeq_Protein	2		
+NP_476817.1	refseq_protein	A9UNB8	7227	neb	no	1121	A9UNB8_DROME	RefSeq_Protein	2		
+NP_476817.1	refseq_protein	Q9VIP4	7227	neb	no	1121	Q9VIP4_DROME	RefSeq_Protein	2		
+NP_476651.1	refseq_protein	P20480	7227	ncd	yes	700	NCD_DROME	RefSeq_Protein	2		
+NP_476651.1	refseq_protein	A0A0B4LI25	7227	ncd	no	700	A0A0B4LI25_DROME	RefSeq_Protein	2		
+NP_511125.2	refseq_protein	P18105	7227	nod	yes	666	NOD_DROME	RefSeq_Protein	2		
+NP_511125.2	refseq_protein	X2JEV2	7227	nod	no	666	X2JEV2_DROME	RefSeq_Protein	2		
+NP_477025.1	refseq_protein	B7FNI6	7227	pav-RA	no	887	B7FNI6_DROME	RefSeq_Protein	2		
+NP_477025.1	refseq_protein	Q9VZF5	7227	pav	no	887	Q9VZF5_DROME	RefSeq_Protein	2		
+NP_611260.1	refseq_protein	Q9V877	7227	sub	yes	628	SUB_DROME	RefSeq_Protein	2		
+NP_611260.1	refseq_protein	A0A0B4LGW1	7227	sub	no	628	A0A0B4LGW1_DROME	RefSeq_Protein	2		
+NP_611155.2	refseq_protein	A1ZAJ2	7227	unc-104	yes	1670	KIF1A_DROME	RefSeq_Protein[unversioned]	1		
+CAD25751.1	genbank_protein	Q8SUH1	284813		no	495	Q8SUH1_ENCCU	EMBL-GenBank-DDBJ_CDS	1		
+CAD25819.1	genbank_protein	Q8SR35	284813		no	457	Q8SR35_ENCCU	EMBL-GenBank-DDBJ_CDS[unversioned]	1		
+CAD25957.1	genbank_protein	Q8SQY6	284813		no	581	Q8SQY6_ENCCU	EMBL-GenBank-DDBJ_CDS	1		
+CAD26112.1	genbank_protein	Q8SQQ9	284813		no	548	Q8SQQ9_ENCCU	EMBL-GenBank-DDBJ_CDS	1		
+NP_586147.1	refseq_protein	Q8SUH1	284813		no	495	Q8SUH1_ENCCU	RefSeq_Protein	1		
+NP_586215.1	refseq_protein	Q8SR35	284813		no	457	Q8SR35_ENCCU	RefSeq_Protein[unversioned]	1		
+NP_586353.1	refseq_protein	Q8SQY6	284813		no	581	Q8SQY6_ENCCU	RefSeq_Protein	1		
+NP_586508.1	refseq_protein	Q8SQQ9	284813		no	548	Q8SQQ9_ENCCU	RefSeq_Protein	1		
+CAD26523.1	genbank_protein	Q8SS10	284813		no	818	Q8SS10_ENCCU	EMBL-GenBank-DDBJ_CDS	1		
+CAD26395.1	genbank_protein	Q8SRB7	284813		no	420	Q8SRB7_ENCCU	EMBL-GenBank-DDBJ_CDS	1		
+NP_597219.1	refseq_protein	Q8SRB7	284813		no	420	Q8SRB7_ENCCU	RefSeq_Protein	1		
+NP_597346.1	refseq_protein	Q8SS10	284813		no	818	Q8SS10_ENCCU	RefSeq_Protein	1		
+XP_001708107	refseq_protein	A8BC01	184922		no	1108	A8BC01_GIAIC	RefSeq_Protein	1		
+XP_001708110	refseq_protein	A8BC06	184922		no	639	A8BC06_GIAIC	RefSeq_Protein	1		
+XP_001706545	refseq_protein	A8BKJ9	184922		no	793	A8BKJ9_GIAIC	RefSeq_Protein	1		
+XP_001709573	refseq_protein	A8B4E4	184922		no	905	A8B4E4_GIAIC	RefSeq_Protein	1		
+XP_001706421	refseq_protein	A8BL50	184922		no	796	A8BL50_GIAIC	RefSeq_Protein	1		
+XP_001704723	refseq_protein	A8BUN4	184922		no	979	A8BUN4_GIAIC	RefSeq_Protein	1		
+XP_001709959	refseq_protein	E2RTQ2	184922	kin-13	yes	714	KIN13_GIAIC	RefSeq_Protein	1		
+XP_001706036	refseq_protein	A8BN64	184922		no	1172	A8BN64_GIAIC	RefSeq_Protein	1		
+XP_001706661	refseq_protein	A8BJV9	184922		no	625	A8BJV9_GIAIC	RefSeq_Protein	1		
+XP_001706017	refseq_protein	A8BN35	184922		no	837	A8BN35_GIAIC	RefSeq_Protein	1		
+XP_001706146	refseq_protein	A8BMQ2	184922		no	777	A8BMQ2_GIAIC	RefSeq_Protein	1		
+XP_001708236	refseq_protein	A8BB91	184922	kin-2b	yes	642	KIN2B_GIAIC	RefSeq_Protein	1		
+XP_001706504	refseq_protein	A8BKD1	184922	kin-2a	yes	718	KIN2A_GIAIC	RefSeq_Protein	1		
+XP_001709737	refseq_protein	A8B4Z7	184922		no	1026	A8B4Z7_GIAIC	RefSeq_Protein	1		
+XP_001709752	refseq_protein	A8B518	184922		no	1095	A8B518_GIAIC	RefSeq_Protein	1		
+XP_001709734.1	refseq_protein	A8B4Z2	184922		no	1073	A8B4Z2_GIAIC	RefSeq_Protein	1		
+XP_001707569	refseq_protein	A8BE20	184922		no	1056	A8BE20_GIAIC	RefSeq_Protein	1		
+XP_001707038	refseq_protein	A8BH36	184922		no	1066	A8BH36_GIAIC	RefSeq_Protein	1		
+XP_001709609	refseq_protein	A8B4I9	184922		no	1194	A8B4I9_GIAIC	RefSeq_Protein	1		
+XP_001710284	refseq_protein	A8B3Q6	184922		no	1039	A8B3Q6_GIAIC	RefSeq_Protein	1		
+XP_001706032	refseq_protein	A8BN58	184922		no	923	A8BN58_GIAIC	RefSeq_Protein	1		
+XP_001710191	refseq_protein	A8B3D7	184922		no	777	A8B3D7_GIAIC	RefSeq_Protein	1		
+XP_001707755	refseq_protein	A8BDB4	184922		no	756	A8BDB4_GIAIC	RefSeq_Protein	1		
+XP_001705615	refseq_protein	A8BQA5	184922		no	767	A8BQA5_GIAIC	RefSeq_Protein	1		
+NP_001804.2	refseq_protein	Q02224	9606	CENPE	yes	2701	CENPE_HUMAN	RefSeq_Protein	1		
+NP_004514.2	refseq_protein	P52732	9606	KIF11	yes	1056	KIF11_HUMAN	RefSeq_Protein	1		
+NP_612433.1	refseq_protein	Q96FN5	9606	KIF12	yes	651	KIF12_HUMAN	RefSeq_Protein	1		
+NP_071396.4	refseq_protein	Q9H1H9	9606	KIF13A	yes	1805	KI13A_HUMAN	RefSeq_Protein	1		
+NP_001099036.1	refseq_protein	Q9H1H9	9606	KIF13A	yes	1805	KI13A_HUMAN	RefSeq_Protein	1		
+NP_001099037.1	refseq_protein	Q9H1H9	9606	KIF13A	yes	1805	KI13A_HUMAN	RefSeq_Protein	1		
+NP_001099038.1	refseq_protein	Q9H1H9	9606	KIF13A	yes	1805	KI13A_HUMAN	RefSeq_Protein	1		
+NP_056069.2	refseq_protein	Q9NQT8	9606	KIF13B	yes	1826	KI13B_HUMAN	RefSeq_Protein	1		
+NP_055690.1	refseq_protein	Q15058	9606	KIF14	yes	1648	KIF14_HUMAN	RefSeq_Protein	1		
+NP_064627.1	refseq_protein	Q9NS87	9606	KIF15	yes	1388	KIF15_HUMAN	RefSeq_Protein	1		
+NP_078980.3	refseq_protein	Q96L93	9606	KIF16B	yes	1317	KI16B_HUMAN	RefSeq_Protein	2		
+NP_078980.3	refseq_protein	A0A140VK74	9606		no	1317	A0A140VK74_HUMAN	RefSeq_Protein	2		
+NP_065867.1	refseq_protein	Q9P2E2	9606	KIF17	yes	1029	KIF17_HUMAN	RefSeq_Protein[unversioned]	1		
+NP_112494.3	refseq_protein	Q8NI77	9606	KIF18A	yes	898	KI18A_HUMAN	RefSeq_Protein	1		
+NP_001073912.1	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+NP_694941.2	refseq_protein	Q2TAC6	9606	KIF19	yes	998	KIF19_HUMAN	RefSeq_Protein	1		
+NP_004312.2	refseq_protein	Q12756	9606	KIF1A	yes	1690	KIF1A_HUMAN	RefSeq_Protein	1		
+NP_904325.2	refseq_protein	O60333	9606	KIF1B	yes	1816	KIF1B_HUMAN	RefSeq_Protein	1		
+NP_055889.2	refseq_protein	O60333	9606	KIF1B	yes	1816	KIF1B_HUMAN	RefSeq_Protein	1		
+NP_006603.2	refseq_protein	O43896	9606	KIF1C	yes	1103	KIF1C_HUMAN	RefSeq_Protein	1		
+NP_005724.1	refseq_protein	O95235	9606	KIF20A	yes	890	KI20A_HUMAN	RefSeq_Protein	1		
+NP_057279.2	refseq_protein	Q96Q89	9606	KIF20B	yes	1820	KI20B_HUMAN	RefSeq_Protein	1		
+NP_060111.2	refseq_protein	Q7Z4S6	9606	KIF21A	yes	1674	KI21A_HUMAN	RefSeq_Protein	1		
+NP_060066.2	refseq_protein	O75037	9606	KIF21B	yes	1637	KI21B_HUMAN	RefSeq_Protein	1		
+NP_015556.1	refseq_protein	Q14807	9606	KIF22	yes	665	KIF22_HUMAN	RefSeq_Protein	1		
+NP_612565.1	refseq_protein	Q02241	9606	KIF23	yes	960	KIF23_HUMAN	RefSeq_Protein	1		
+NP_004847.2	refseq_protein	Q02241	9606	KIF23	yes	960	KIF23_HUMAN	RefSeq_Protein	1		
+NP_919289.2	refseq_protein	Q5T7B8	9606	KIF24	yes	1368	KIF24_HUMAN	RefSeq_Protein	1		
+NP_085118.2	refseq_protein	Q9UIL4	9606	KIF25	yes	384	KIF25_HUMAN	RefSeq_Protein	1		
+NP_005346.3	refseq_protein	Q9UIL4	9606	KIF25	yes	384	KIF25_HUMAN	RefSeq_Protein	1		
+NP_056471.1	refseq_protein	Q9ULI4	9606	KIF26A	yes	1882	KI26A_HUMAN	RefSeq_Protein	1		
+NP_060482.2	refseq_protein	Q2KJY2	9606	KIF26B	yes	2108	KI26B_HUMAN	RefSeq_Protein	1		
+NP_060482	refseq_protein	Q2KJY2	9606	KIF26B	yes	2108	KI26B_HUMAN	RefSeq_Protein	1		
+XP_001126963.1	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+NP_060046.1	refseq_protein	Q86VH2	9606	KIF27	yes	1401	KIF27_HUMAN	RefSeq_Protein	1		
+NP_004511.2	refseq_protein	O00139	9606	KIF2A	yes	706	KIF2A_HUMAN	RefSeq_Protein	1		
+NP_001091981.1	refseq_protein	O00139	9606	KIF2A	yes	706	KIF2A_HUMAN	RefSeq_Protein	1		
+NP_115948.4	refseq_protein	Q8N4N8	9606	KIF2B	yes	673	KIF2B_HUMAN	RefSeq_Protein	2		
+NP_115948.4	refseq_protein	A0A140VKG5	9606	KIF2B	no	673	A0A140VKG5_HUMAN	RefSeq_Protein	2		
+NP_006836.1	refseq_protein	Q99661	9606	KIF2C	yes	725	KIF2C_HUMAN	RefSeq_Protein[unversioned]	2		
+NP_006836.1	refseq_protein	A0A140VKF1	9606		no	725	A0A140VKF1_HUMAN	RefSeq_Protein[unversioned]	2		
+NP_008985.3	refseq_protein	Q9Y496	9606	KIF3A	yes	699	KIF3A_HUMAN	RefSeq_Protein	2		
+NP_008985.3	refseq_protein	Q05CT3	9606	KIF3A	no	409	Q05CT3_HUMAN	RefSeq_Protein	2		
+NP_004789.1	refseq_protein	O15066	9606	KIF3B	yes	747	KIF3B_HUMAN	RefSeq_Protein	1		
+NP_002245.4	refseq_protein	O14782	9606	KIF3C	yes	793	KIF3C_HUMAN	RefSeq_Protein	2		
+NP_002245.4	refseq_protein	A2RU78	9606	KIF3C	no	793	A2RU78_HUMAN	RefSeq_Protein	2		
+NP_036442.3	refseq_protein	O95239	9606	KIF4A	yes	1232	KIF4A_HUMAN	RefSeq_Protein	2		
+NP_036442.3	refseq_protein	Q59HG1	9606		no	1235	Q59HG1_HUMAN	RefSeq_Protein	2		
+XP_947219.1	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+NP_001092763.1	refseq_protein	Q2VIQ3	9606	KIF4B	yes	1234	KIF4B_HUMAN	RefSeq_Protein	2		
+NP_001092763.1	refseq_protein	B4DYE2	9606		no	1234	B4DYE2_HUMAN	RefSeq_Protein	2		
+NP_004975.2	refseq_protein	Q12840	9606	KIF5A	yes	1032	KIF5A_HUMAN	RefSeq_Protein	1		
+NP_004512.1	refseq_protein	P33176	9606	KIF5B	yes	963	KINH_HUMAN	RefSeq_Protein	3		
+NP_004512.1	refseq_protein	V9HW29	9606	HEL-S-61	no	963	V9HW29_HUMAN	RefSeq_Protein	3		
+NP_004512.1	refseq_protein	Q6P164	9606	KIF5B	no	345	Q6P164_HUMAN	RefSeq_Protein	3		
+XP_001125694.1	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+NP_004513.1	refseq_protein	O60282	9606	KIF5C	yes	957	KIF5C_HUMAN	RefSeq_Protein	2		
+NP_004513.1	refseq_protein	Q59GB8	9606		no	265	Q59GB8_HUMAN	RefSeq_Protein	2		
+NP_659464.3	refseq_protein	Q6ZMV9	9606	KIF6	yes	814	KIF6_HUMAN	RefSeq_Protein	1		
+NP_940927.2	refseq_protein	Q2M1P5	9606	KIF7	yes	1343	KIF7_HUMAN	RefSeq_Protein	1		
+NP_071737.1	refseq_protein	Q9HAQ2	9606	KIF9	yes	790	KIF9_HUMAN	RefSeq_Protein	2		
+NP_071737.1	refseq_protein	A8K932	9606		no	790	A8K932_HUMAN	RefSeq_Protein	2		
+NP_878905.1	refseq_protein	Q9HAQ2	9606	KIF9	yes	790	KIF9_HUMAN	RefSeq_Protein[unversioned]	2		
+NP_878905.1	refseq_protein	A8K932	9606		no	790	A8K932_HUMAN	RefSeq_Protein[unversioned]	2		
+NP_878906.1	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+NP_002254.1	refseq_protein	Q9BW19	9606	KIFC1	yes	673	KIFC1_HUMAN	RefSeq_Protein[unversioned]	1		
+NP_665697.1	refseq_protein	Q96AC6	9606	KIFC2	yes	838	KIFC2_HUMAN	RefSeq_Protein	1		
+NP_005541.3	refseq_protein	Q9BVG8	9606	KIFC3	yes	833	KIFC3_HUMAN	RefSeq_Protein	1		
+XP_001129290.1	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+XP_001129482.1	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+XP_946528.1	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+XP_964753	refseq_protein	Q7SFC0	367110		no	1214	Q7SFC0_NEUCR	RefSeq_Protein	1		
+XP_964051	refseq_protein	Q7SDI4	367110		no	1009	Q7SDI4_NEUCR	RefSeq_Protein	1		
+XP_961491	refseq_protein	Q1K7Y5	367110	kin-3	no	676	Q1K7Y5_NEUCR	RefSeq_Protein	1		
+XP_958282	refseq_protein	Q1K656	367110		no	835	Q1K656_NEUCR	RefSeq_Protein	1		
+XP_956336	refseq_protein	Q7RX60	367110		no	912	Q7RX60_NEUCR	RefSeq_Protein	1		
+XP_961843	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+XP_960006	refseq_protein	Q7S5E4	367110		no	1289	Q7S5E4_NEUCR	RefSeq_Protein	1		
+XP_960661	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+XP_963673	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+XP_964432	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+XP_001349456	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+XP_001349152	refseq_protein	Q8IBK2	36329		no	1897	Q8IBK2_PLAF7	RefSeq_Protein	1		
+XP_001348145	refseq_protein	Q8IHQ1	36329		no	802	Q8IHQ1_PLAF7	RefSeq_Protein	1		
+XP_001351039	refseq_protein							unmapped	0	no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID	
+XP_001351245	refseq_protein	O77382	36329		no	1619	O77382_PLAF7	RefSeq_Protein	1		
+XP_001351264	refseq_protein	O97277	36329		no	1363	O97277_PLAF7	RefSeq_Protein	1		
+XP_001350518.1	refseq_protein	Q8I5U0	36329		no	1844	Q8I5U0_PLAF7	RefSeq_Protein	1		
+XP_001350837	refseq_protein	Q8I4Y0	36329		no	1326	Q8I4Y0_PLAF7	RefSeq_Protein	1		
+XP_001350842	refseq_protein	Q8I4X5	36329		no	1605	Q8I4X5_PLAF7	RefSeq_Protein	1		
+P27895	uniprot	P27895	559292	CIN8	yes	1000	CIN8_YEAST	UniProtKB_AC-ID	1		
+P17119	uniprot	P17119	559292	KAR3	yes	729	KAR3_YEAST	UniProtKB_AC-ID	1		
+NP_009490.1	refseq_protein	P28742	559292	KIP1	yes	1111	KIP1_YEAST	RefSeq_Protein	1		
+P28743	uniprot	P28743	559292	KIP2	yes	706	KIP2_YEAST	UniProtKB_AC-ID	1		
+P53086	uniprot	P53086	559292	KIP3	yes	805	KIP3_YEAST	UniProtKB_AC-ID	1		
+P32364	uniprot	P32364	559292	SMY1	yes	656	SMY1_YEAST	UniProtKB_AC-ID	1		
+XP_803668.1	refseq_protein	Q38FG7	185431		no	691	Q38FG7_TRYB2	RefSeq_Protein	1		
+XP_827285.1	refseq_protein	Q38E15	185431		no	482	Q38E15_TRYB2	RefSeq_Protein	1		
+XP_827684.1	refseq_protein	Q38CW6	185431		no	681	Q38CW6_TRYB2	RefSeq_Protein	1		
+XP_823454	refseq_protein	Q388Z4	185431		no	1132	Q388Z4_TRYB2	RefSeq_Protein	1		
+XP_823449	refseq_protein	Q388Z9	185431		no	832	Q388Z9_TRYB2	RefSeq_Protein	1		
+XP_828011	refseq_protein	Q387X3	185431		no	1682	Q387X3_TRYB2	RefSeq_Protein	1		
+XP_828010	refseq_protein	Q387X4	185431		no	1095	Q387X4_TRYB2	RefSeq_Protein	1		
+XP_827936.1	refseq_protein	Q388E6	185431		no	718	Q388E6_TRYB2	RefSeq_Protein	1		
+XP_822369	refseq_protein	Q38CC9	185431		no	1798	Q38CC9_TRYB2	RefSeq_Protein	1		
+XP_822347.1	refseq_protein	Q38CF1	185431		no	2889	Q38CF1_TRYB2	RefSeq_Protein	1		
+XP_828976.1	refseq_protein	Q384B7	185431		no	669	Q384B7_TRYB2	RefSeq_Protein	1		
+XP_829140.1	refseq_protein	Q383K3	185431		no	617	Q383K3_TRYB2	RefSeq_Protein	1		
+XP_829280.1	refseq_protein	Q382W3	185431		no	916	Q382W3_TRYB2	RefSeq_Protein	1		
+XP_829448.1	refseq_protein	Q382E5	185431		no	1115	Q382E5_TRYB2	RefSeq_Protein	1		
+XP_828332	refseq_protein	Q386R1	185431		no	1572	Q386R1_TRYB2	RefSeq_Protein	1		
+XP_828370.1	refseq_protein	Q386M3	185431	KIN-A	yes	862	KINA_TRYB2	RefSeq_Protein	1		
+XP_828410.1	refseq_protein	Q386I3	185431		no	719	Q386I3_TRYB2	RefSeq_Protein	1		
+XP_828542.1	refseq_protein	Q385V1	185431		no	690	Q385V1_TRYB2	RefSeq_Protein	1		
+XP_828605	refseq_protein	Q385N8	185431		no	566	Q385N8_TRYB2	RefSeq_Protein	1		
+XP_828714.1	refseq_protein	Q385C9	185431		no	986	Q385C9_TRYB2	RefSeq_Protein	1		
+XP_001218837.1	refseq_protein	Q4GZ84	185431		no	886	Q4GZ84_TRYB2	RefSeq_Protein	1		
+XP_843796.1	refseq_protein	Q57ZA9	185431		no	746	Q57ZA9_TRYB2	RefSeq_Protein	1		
+XP_843798.1	refseq_protein	Q57ZA7	185431		no	1072	Q57ZA7_TRYB2	RefSeq_Protein	1		
+XP_843932.1	refseq_protein	Q57V47	185431		no	591	Q57V47_TRYB2	RefSeq_Protein	1		
+XP_843933.1	refseq_protein	Q57V46	185431		no	578	Q57V46_TRYB2	RefSeq_Protein	1		
+XP_844087.1	refseq_protein	Q582P0	185431		no	1594	Q582P0_TRYB2	RefSeq_Protein	1		
+XP_844423.1	refseq_protein	D6XFK9	185431		no	803	D6XFK9_TRYB2	RefSeq_Protein	1		
+XP_844541.1	refseq_protein	Q57XZ5	185431		no	787	Q57XZ5_TRYB2	RefSeq_Protein	1		
+XP_844883.1	refseq_protein	Q57ZS8	185431		no	1088	Q57ZS8_TRYB2	RefSeq_Protein	1		
+XP_844915.1	refseq_protein	Q582C4	185431		no	1339	Q582C4_TRYB2	RefSeq_Protein	1		
+XP_845298.1	refseq_protein	Q585N4	185431		no	628	Q585N4_TRYB2	RefSeq_Protein	1		
+XP_845409.1	refseq_protein	Q583P6	185431		no	1085	Q583P6_TRYB2	RefSeq_Protein	1		
+XP_845556.1	refseq_protein	Q587A5	185431		no	1111	Q587A5_TRYB2	RefSeq_Protein	1		
+XP_845923.1	refseq_protein	Q57YB0	185431		no	1342	Q57YB0_TRYB2	RefSeq_Protein	1		
+XP_846006.1	refseq_protein	Q57UD0	185431		no	1803	Q57UD0_TRYB2	RefSeq_Protein	1		
+XP_846034.1	refseq_protein	Q57UP1	185431		no	894	Q57UP1_TRYB2	RefSeq_Protein	1		
+XP_846106.1	refseq_protein	Q57X99	185431		no	516	Q57X99_TRYB2	RefSeq_Protein	1		
+XP_846188.1	refseq_protein	Q582I0	185431		no	638	Q582I0_TRYB2	RefSeq_Protein	1		
+XP_846252.1	refseq_protein	Q57VI2	185431		no	891	Q57VI2_TRYB2	RefSeq_Protein	1		
+XP_846332.1	refseq_protein	Q57XT2	185431		no	810	Q57XT2_TRYB2	RefSeq_Protein	1		
+XP_846346.1	refseq_protein	Q57XU6	185431		no	1041	Q57XU6_TRYB2	RefSeq_Protein	1		
+XP_847096.1	refseq_protein	Q57XC6	185431		no	750	Q57XC6_TRYB2	RefSeq_Protein	1		
+XP_847314.1	refseq_protein	Q57UW8	185431		no	1014	Q57UW8_TRYB2	RefSeq_Protein	1		
+XP_847325.1	refseq_protein	Q57UV7	185431		no	1456	Q57UV7_TRYB2	RefSeq_Protein	1		
+XP_847513.1	refseq_protein	Q57TT0	185431		no	1819	Q57TT0_TRYB2	RefSeq_Protein	1		
+XP_847658.1	refseq_protein	Q57WJ5	185431		no	768	Q57WJ5_TRYB2	RefSeq_Protein	1		
+XP_827967.1	refseq_protein	Q388B7	185431		no	820	Q388B7_TRYB2	RefSeq_Protein	1		
