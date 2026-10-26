@@ -1,0 +1,208 @@
+id: E04_tubulins
+name: Tubulin superfamily (alpha, beta, gamma, delta, epsilon, zeta; LECA paralogs)
+panel: E
+collection: E_cytoskeleton_motors
+phenomena:
+- DEEP
+- LOSS
+- LSE
+descriptors:
+  n_members: 170
+  n_species: 24
+  mapped_fraction: 0.863
+  status_counts:
+    mapped: 170
+    excluded: 23
+    unmapped: 19
+    ambiguous: 8
+  per_species_mapped_fraction:
+    AMPQE: 0.875
+    ARATH: 1.0
+    BATDJ: 0.833
+    CAPO3: 1.0
+    CHLRE: 0.667
+    CYAME: 0.667
+    DICDI: 1.0
+    DROME: 0.917
+    ENCCU: 1.0
+    ENTH1: 1.0
+    GIAIC: 0.5
+    HUMAN: 1.0
+    ICHMU: 0.571
+    MONBE: 0.833
+    NAEGR: 0.96
+    NEMVE: 0.667
+    NEUCR: 1.0
+    PHYRM: 0.857
+    PLAF7: 1.0
+    THAPS: 0.667
+    THETR: 0.8
+    TRIAD: 0.75
+    TRYB2: 1.0
+    YEAST: 1.0
+  classes_per_species:
+    AMPQE:
+    - Tub1
+    - Tub2
+    - Tub3
+    - Tub4
+    - Tub5
+    - Tub6
+    ARATH:
+    - Tub1
+    - Tub2
+    - Tub3
+    BATDJ:
+    - Tub1
+    - Tub2
+    - Tub3
+    CAPO3:
+    - Tub1
+    - Tub2
+    - Tub3
+    CHLRE:
+    - Tub1
+    - Tub2
+    - Tub3
+    - Tub5
+    CYAME:
+    - Tub1
+    - Tub2
+    DICDI:
+    - Tub1
+    - Tub2
+    - Tub3
+    DROME:
+    - Tub1
+    - Tub2
+    - Tub3
+    ENCCU:
+    - Tub1
+    - Tub2
+    - Tub3
+    ENTH1:
+    - Tub1
+    - Tub2
+    - Tub3
+    GIAIC:
+    - Tub1
+    HUMAN:
+    - Tub1
+    - Tub2
+    - Tub3
+    - Tub4
+    - Tub5
+    ICHMU:
+    - Tub1
+    - Tub2
+    - Tub3
+    - Tub6
+    MONBE:
+    - Tub1
+    - Tub2
+    - Tub3
+    - Tub4
+    NAEGR:
+    - Tub1
+    - Tub2
+    - Tub3
+    - Tub4
+    - Tub5
+    - Tub6
+    NEMVE:
+    - Tub1
+    - Tub2
+    - Tub3
+    - Tub4
+    - Tub5
+    - Tub6
+    NEUCR:
+    - Tub1
+    - Tub2
+    - Tub3
+    PHYRM:
+    - Tub1
+    - Tub2
+    PLAF7:
+    - Tub1
+    - Tub2
+    - Tub3
+    - Tub4
+    - Tub5
+    THAPS:
+    - Tub1
+    - Tub2
+    THETR:
+    - Tub2
+    - Tub3
+    - Tub5
+    - Tub6
+    TRIAD:
+    - Tub1
+    - Tub2
+    - Tub3
+    - Tub5
+    - Tub6
+    TRYB2:
+    - Tub1
+    - Tub2
+    - Tub3
+    - Tub4
+    - Tub5
+    - Tub6
+    YEAST:
+    - Tub1
+    - Tub2
+    - Tub3
+sources:
+- id: Findeisen2014
+  doi: 10.1093/gbe/evu187
+  pmid: '25169981'
+  title: Six subgroups and extensive recent duplications characterize the evolution of the eukaryotic tubulin protein family
+  year: 2014
+  source_method: phylogeny
+  table: supplementary tubulin_alignment.fas, DatasetS2.xls
+  locator: Discussion para 1; Methods naming note; fig. 7
+  quote: Members of all subfamilies are present in all major kingdoms of the eukaryotes implying that an ancestor of each
+    subfamily must have been present in the last common ancestor of the eukaryotes
+  files:
+  - path: literature/papers/PMID25169981/raw/supp/supp_evu187_suppl_data.zip
+    sha256: 2d30d03de861042038d97d74544f3d18f1be370fbae77df07003b39b2cceb8d3
+  - path: literature/papers/PMID25169981/fulltext.txt
+    sha256: 73ba9b150b0ec5aebd661203784154c7c05fa77888fb8e979de694a06471d9e8
+root_level: Eukaryota
+root_single_copy: false
+complete_species:
+- ARATH
+- CAPO3
+- DICDI
+- DROME
+- ENCCU
+- ENTH1
+- HUMAN
+- NAEGR
+- NEUCR
+- PLAF7
+- TRYB2
+- YEAST
+decoys: []
+distinct_from: []
+tier_summary:
+  D_T1: 1
+  S_T2: 3
+  U_T2: 3
+protocol_version: 1
+completeness_quote: Tubulin genes have been identified in iterated TBLASTN searches of the completed or almost completed genomes
+  of 504 species
+notes: 'Root D node TUB_LECA (T1; lvl_lo=Eukaryota, lvl_hi=ABOVE_RANGE) separates the six classes Tub1-6 (alpha..zeta): the
+  paper infers an ancestor of each subfamily in the LCA of eukaryotes. Class numbers: the paper states numbers replace Greek
+  letters (Tub1=alpha, Tub3=gamma quoted; Tub2=beta from ''beta-tubulins Tub2D and Tub2E''); Tub4/5/6 = delta/epsilon/zeta
+  follows the Greek order (consistent with Table 1 counts and human Tub4=chr17 TUBD1, Tub5=chr6 TUBE1 in Suppl. Table S3);
+  only the class split matters for the tree. Within a class: <=1 mapped gene per species -> S polytomy (T2 rule b; no two
+  panel-E species share a WGD); >1 in any species -> U (rule c; alpha/beta). FtsZ/TubZ/artubulin and Prosthecobacter BtubA/B
+  are outgroups in the paper and not members; the panel has FtsZ in bacteria/archaea (paper: ''The proposed archaeal homologs
+  grouped together with the bacterial TubZ proteins as sister clade to the FtsZ proteins indicating that tubulins are unique
+  to eukaryotes.''), but no FtsZ family is curated, so no distinct_from is declared. Panel-E eukaryotes absent from the source:
+  MNELE. Strains: YEAST=S288c (Sc_c), BATDJ=JAM81 (Bad_b), PLAF7=3D7 (Pf_a); GIAIC: source has Giardia ATCC 50581 (assemblage
+  B/GS) vs panel WB (assemblage A) -> mostly unmapped (<98%). Sequences were annotated by the authors from genome assemblies,
+  so some differ from UniProt gene models (<98%).'
