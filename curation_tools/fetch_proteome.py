@@ -41,6 +41,8 @@ REST = "https://rest.uniprot.org"
 FTP = "https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes"
 HDR = re.compile(r"^(?P<db>sp|tr)\|(?P<acc>[^|]+)\|(?P<entry>\S+)\s+(?P<name>.*?)\s+OS=(?P<os>.*?)\s+OX=(?P<ox>\d+)"
                  r"(?:\s+GN=(?P<gn>\S+))?(?:\s+PE=(?P<pe>\d))?(?:\s+SV=(?P<sv>\d+))?\s*$")
+PINNED_RELEASE = "2026_03"  # project-wide pin (reviews/round1/SYNTHESIS.md D1); override with --release
+KINGDOMS = ("Eukaryota", "Bacteria", "Archaea", "Viruses")
 REFERENCE_TYPES = ("Reference proteome", "Reference and representative proteome", "Representative proteome")
 
 
@@ -142,9 +144,24 @@ def load_gene2acc(path: Path) -> dict:
     return d
 
 
-def fetch(up: str, out_root: str | Path = "data/proteomes", source: str = "auto", include_isoforms: bool = False) -> dict:
+class ReleaseMismatch(ValueError):
+    pass
+
+
+def check_release(observed: str | None, expected: str | None, what: str) -> None:
+    """Raise ReleaseMismatch if a pinned release is requested and the server reports another (or none)."""
+    if expected and observed != expected:
+        raise ReleaseMismatch(f"{what}: UniProt release {observed!r} != pinned {expected!r} "
+                              "(refusing to mix releases; pass --release to change the pin)")
+
+
+def fetch(up: str, out_root: str | Path = "data/proteomes", source: str = "auto", include_isoforms: bool = False,
+          expect_release: str | None = PINNED_RELEASE) -> dict:
     up = up.upper()
     info = proteome_info(up)
+    check_release(info.get("release_header"), expect_release, f"{up} REST /proteomes")
+    if expect_release and source in ("auto", "ftp"):
+        check_release(ftp_release().get("release"), expect_release, "FTP current_release")
     taxid = info["taxid"]
     outdir = Path(out_root) / f"{up}_{taxid}"
     raw = outdir / "raw"
@@ -158,9 +175,16 @@ def fetch(up: str, out_root: str | Path = "data/proteomes", source: str = "auto"
     release = {}
     parts: list[tuple[Path, str]] = []
     if chosen == "ftp":
-        kd = (info["superkingdom"] or "").capitalize()
-        base = f"{FTP}/{kd}/{up}"
-        m = _download(f"{base}/{up}_{taxid}.fasta.gz", raw / f"{up}_{taxid}.fasta.gz", optional=True)
+        # REST sometimes omits superkingdom (e.g. UP000008536); then probe each kingdom directory in turn
+        kds = [info["superkingdom"].capitalize()] if info["superkingdom"] else list(KINGDOMS)
+        m = None
+        for kd in kds:
+            base = f"{FTP}/{kd}/{up}"
+            m = _download(f"{base}/{up}_{taxid}.fasta.gz", raw / f"{up}_{taxid}.fasta.gz", optional=True)
+            if m is not None:
+                if not info["superkingdom"]:
+                    notes.append(f"superkingdom missing from REST; FTP file found under {kd}/")
+                break
         if m is None:
             notes.append(f"FTP file not found under {base}; falling back to REST")
             log.warning(notes[-1])
@@ -192,6 +216,7 @@ def fetch(up: str, out_root: str | Path = "data/proteomes", source: str = "auto"
         downloads.append(m)
         parts.append((dest, "canonical" if not include_isoforms else "canonical+isoforms"))
         release = {"release": m["x_uniprot_release"], "release_date": m["x_uniprot_release_date"]}
+        check_release(release["release"], expect_release, f"{up} REST stream")
         if info["protein_count_reported"] and m["x_total_results"] and int(m["x_total_results"]) != info["protein_count_reported"]:
             notes.append(f"REST returned {m['x_total_results']} entries but proteome reports {info['protein_count_reported']}")
     # rewrite
@@ -207,10 +232,13 @@ def fetch(up: str, out_root: str | Path = "data/proteomes", source: str = "auto"
         n, n_res = rewrite(tmp, fa_out, map_out, gene2acc, "canonical+additional")
         tmp.unlink()
     n_can = sum(1 for _ in common.read_fasta(parts[0][0]))
+    if n == 0:  # e.g. non-reference proteomes whose proteins live only in UniParc (UP000502089)
+        raise ValueError(f"{up}: download contains 0 sequences (source {chosen}); not writing a manifest")
     if info["gene_count_reported"] and chosen == "ftp" and n_can != info["gene_count_reported"]:
         notes.append(f"canonical count {n_can} != reported geneCount {info['gene_count_reported']}")
     if (rel_h := info.get("release_header")) and release.get("release") and rel_h != release["release"]:
         notes.append(f"release mismatch: REST header {rel_h} vs FTP {release['release']} (release switchover?)")
+    check_release(release.get("release"), expect_release, f"{up} download")
     for nt in notes:
         log.info("note: %s", nt)
     gn = set()
@@ -251,13 +279,15 @@ def main(argv=None) -> int:
     ap.add_argument("--source", choices=["auto", "ftp", "rest"], default="auto")
     ap.add_argument("--include-isoforms", action="store_true")
     ap.add_argument("--markdown", action="store_true", help="print a DATA.md table row")
+    ap.add_argument("--release", default=PINNED_RELEASE,
+                    help=f"required UniProt release (default {PINNED_RELEASE}); '' disables the check")
     ap.add_argument("-v", "--verbose", action="store_true")
     a = ap.parse_args(argv)
     common.setup_logging(a.verbose)
     rc = 0
     for up in a.proteome:
         try:
-            m = fetch(up, a.out, a.source, a.include_isoforms)
+            m = fetch(up, a.out, a.source, a.include_isoforms, a.release or None)
         except (LookupError, HttpError, ValueError) as e:
             log.error("%s: %s", up, e)
             rc = 1

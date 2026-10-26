@@ -49,6 +49,22 @@ def test_load_gene2acc(tmp_path):
     assert d["P3"] == ("SGD:S2", "SGD:S2") and len(d) == 3
 
 
+def test_release_pin():
+    fpm.check_release("2026_03", "2026_03", "x")      # match: no error
+    fpm.check_release("2026_04", None, "x")           # pin disabled
+    with pytest.raises(fpm.ReleaseMismatch):
+        fpm.check_release("2026_04", "2026_03", "x")  # mismatch -> fail
+    with pytest.raises(fpm.ReleaseMismatch):
+        fpm.check_release(None, "2026_03", "x")       # unknown release -> fail (no silent assumption)
+
+
+def test_release_mismatch_aborts_before_download(tmp_path, monkeypatch):
+    monkeypatch.setattr(fpm, "proteome_info", lambda up: {"release_header": "2027_01", "taxid": 1})
+    with pytest.raises(fpm.ReleaseMismatch):
+        fpm.fetch("UP000000001", tmp_path, expect_release="2026_03")
+    assert not any(tmp_path.iterdir())
+
+
 @pytest.mark.network
 def test_live_yeast_reference_proteome(tmp_path):
     m = fpm.fetch("UP000002311", tmp_path)
