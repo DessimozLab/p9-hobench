@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0UWY4	XENLA	trabd2b.L|Xelaev18023146m	XL_trabd2b:L	sequence_rbh	100.00	89.6	3.6	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12679
+A0A1L8GFZ8	XENLA	trabd2b.S|Xelaev18025255m	XL_trabd2b:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12679
+P0DJQ9	XENTR	trabd2b|Xetrov90011876m	XL_trabd2b:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12679

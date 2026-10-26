@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0QEK2	XENLA	ttc9.L|Xelaev18039899m	XL_ttc9:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12831
+A0A8J0TNX3	XENLA	ttc9.S|Xelaev18041066m	XL_ttc9:S	sequence_rbh	99.40	84.6	13.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12831
+A0A6I8SBW5	XENTR	ttc9|Xetrov90021644m	XL_ttc9:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12831

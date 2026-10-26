@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8HZT1	XENLA	morc2.L|Xelaev18007386m	XL_morc2:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8629
+A0A1L8HPW9	XENLA	morc2.S|Xelaev18010334m	XL_morc2:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8629
+A0A8J1JHB9	XENTR	morc2|Xetrov90002644m	XL_morc2:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8629

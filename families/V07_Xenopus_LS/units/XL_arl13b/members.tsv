@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0UDN2	XENLA	arl13b.L|Xelaev18011556m	XL_arl13b:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 582
+A0A8J1MBZ5	XENLA	arl13b.S|Xelaev18014252m	XL_arl13b:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 582
+A0A8J0QFG5	XENTR	arl13b|Xetrov90004155m	XL_arl13b:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 582

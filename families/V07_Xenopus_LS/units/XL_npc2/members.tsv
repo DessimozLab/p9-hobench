@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0PUX3	XENLA	npc2.L|Xelaev18039444m	XL_npc2:L	sequence_rbh	100.00	96.8	12.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9216
+A0A8J0PT26	XENLA	npc2.S|Xelaev18041377m	XL_npc2:S	sequence_rbh	100.00	89.3	12.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9216
+A0A5S6LDJ9	XENTR	npc2|Xetrov90021106m	XL_npc2:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9216

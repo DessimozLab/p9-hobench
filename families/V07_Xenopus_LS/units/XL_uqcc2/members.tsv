@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0PNA6	XENLA	uqcc2.L|Xelaev18026586m	XL_uqcc2:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15045
+A0A8J0PWK4	XENLA	uqcc2.S|Xelaev18028880m	XL_uqcc2:S	sequence_rbh	99.20	100.0	7.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15045
+Q0VFC7	XENTR	uqcc2|Xetrov90013649m	XL_uqcc2:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15045

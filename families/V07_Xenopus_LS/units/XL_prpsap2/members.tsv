@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8EYK3	XENLA	prpsap2.L|Xelaev18045507m	XL_prpsap2:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10234
+A0A1L8EQX8	XENLA	prpsap2.S|Xelaev18047754m	XL_prpsap2:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10234
+Q28DH0	XENTR	prpsap2|Xetrov90023205m	XL_prpsap2:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10234

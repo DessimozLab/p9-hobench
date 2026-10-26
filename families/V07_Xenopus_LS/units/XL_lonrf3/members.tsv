@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1LJ25	XENLA	lonrf3.L|Xelaev18038875m	XL_lonrf3:L	sequence_rbh	99.10	100.0	14.1	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8015
+A0A1L8F2Z1	XENLA	lonrf3.S|Xelaev18042207m	XL_lonrf3:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8015
+A0A6I8PNT3	XENTR	lonrf3|Xetrov90020519m	XL_lonrf3:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8015

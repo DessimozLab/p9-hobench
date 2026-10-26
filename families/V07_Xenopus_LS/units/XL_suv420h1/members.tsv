@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8GJW5	XENLA	suv420h1.L|Xelaev18022272m	XL_suv420h1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12032
+A0A1L8GCM2	XENLA	suv420h1.S|Xelaev18024195m	XL_suv420h1:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12032
+A0A7D9N0F6	XENTR	suv420h1|Xetrov90011188m	XL_suv420h1:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12032

@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8EUU9	XENLA	rcvrn.1.L|Xelaev18044221m	XL_rcvrn_1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10632
+A0A1L8EN80	XENLA	rcvrn.1.S|Xelaev18046835m	XL_rcvrn_1:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10632
+A0A1B8Y3C0	XENTR	rcvrn.1|Xetrov90027154m	XL_rcvrn_1:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10632

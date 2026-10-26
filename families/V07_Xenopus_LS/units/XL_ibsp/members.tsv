@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A9A9ZG71	XENLA	ibsp.L|Xelaev18005803m	XL_ibsp:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4243
+A0A1L8HME4	XENLA	ibsp.S|Xelaev18009483m	XL_ibsp:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4243
+A0A8J0QF11	XENTR	ibsp|Xetrov90001248m	XL_ibsp:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4243

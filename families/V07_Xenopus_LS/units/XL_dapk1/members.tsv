@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0PY87	XENLA	dapk1.L|Xelaev18006948m	XL_dapk1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2202
+A0A1L8HPE3	XENLA	dapk1.S|Xelaev18010164m	XL_dapk1:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2202
+A0A8J0QA90	XENTR	dapk1|Xetrov90002324m	XL_dapk1:XT	sequence_rbh	99.90	100.0	99.9	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2202

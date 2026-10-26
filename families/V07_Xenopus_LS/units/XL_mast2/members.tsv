@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1MY40	XENLA	mast2.L|Xelaev18023115m	XL_mast2:L	sequence_rbh	99.70	100.0	11.7	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8292
+A0A1L8GFW7	XENLA	mast2.S|Xelaev18025225m	XL_mast2:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8292
+A0A8J1JHB7	XENTR	mast2|Xetrov90011836m	XL_mast2:XT	sequence_rbh	99.60	89.2	30.8	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8292

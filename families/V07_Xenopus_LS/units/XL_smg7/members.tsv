@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0UZ70	XENLA	smg7.L|Xelaev18023259m	XL_smg7:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11623
+A0A8J0V2V4	XENLA	smg7.S|Xelaev18025333m	XL_smg7:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11623
+A0A6I8RH71	XENTR	smg7|Xetrov90011987m	XL_smg7:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11623

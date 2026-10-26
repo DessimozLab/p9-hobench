@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0PZI3	XENLA	tubb6.L|Xelaev18031827m	XL_tubb6:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12859
+A0A8J0PNG4	XENLA	tubb6.S|Xelaev18033612m	XL_tubb6:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12859
+G1K3L3	XENTR	tubb6|Xetrov90016624m	XL_tubb6:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12859

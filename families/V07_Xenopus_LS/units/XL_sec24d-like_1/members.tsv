@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8HUY0	XENLA	sec24d-like.1.L|Xelaev18005678m	XL_sec24d-like_1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11124
+A0A1L8HM35	XENLA	sec24d-like.1.S|Xelaev18009370m	XL_sec24d-like_1:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11124
+A0A7D9NJM5	XENTR	sec24d-like.1|Xetrov90001127m	XL_sec24d-like_1:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11124

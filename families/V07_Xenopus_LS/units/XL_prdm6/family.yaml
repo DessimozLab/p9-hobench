@@ -1,0 +1,23 @@
+id: XL_prdm6
+name: X. laevis homeologs prdm6.L/prdm6.S + X. tropicalis prdm6
+panel: V
+collection: XLAEVIS
+phenomena:
+- ALLO
+sources:
+- id: Session2016
+  pmid: 27762356
+  doi: 10.1038/nature19840
+  title: Genome evolution in the allotetraploid frog Xenopus laevis
+  year: 2016
+  source_method: synteny
+  locator: Supplementary Table 7_ Ks.xlsx sheet XT-XL.ortho (homeolog rows); Supplementary
+    Note 8.1
+  quote: Finally, we only accepted X. laevis homoeologues whose synteny and subgenome
+    identity agree with the BAC FISH map
+root_level: Xenopus
+root_single_copy: false
+complete_species: []
+protocol_version: 1
+notes: Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10149; homology QC L->XT 94.3%
+  id, S->XT 95.0% id

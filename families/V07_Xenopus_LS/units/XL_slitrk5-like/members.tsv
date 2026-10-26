@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1MAJ1	XENLA	slitrk5-like.L|Xelaev18013162m	XL_slitrk5-like:L	sequence_rbh	100.00	98.8	8.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11589
+A0A1L8H953	XENLA	slitrk5-like.S|Xelaev18015680m	XL_slitrk5-like:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11589
+F6QDA1	XENTR	slitrk5-like|Xetrov90006044m	XL_slitrk5-like:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11589

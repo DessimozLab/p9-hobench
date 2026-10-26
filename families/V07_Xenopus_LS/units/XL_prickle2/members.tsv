@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8GQ36	XENLA	prickle2.L|Xelaev18024135m	XL_prickle2:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10166
+A0A1L8GI20	XENLA	prickle2.S|Xelaev18026020m	XL_prickle2:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10166
+A0A8J0SMH5	XENTR	prickle2|Xetrov90012888m	XL_prickle2:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10166

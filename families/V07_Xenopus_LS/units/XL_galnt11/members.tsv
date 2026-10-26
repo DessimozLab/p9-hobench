@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0QC20	XENLA	galnt11.L|Xelaev18030659m	XL_galnt11:L	sequence_rbh	100.00	93.3	6.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3473
+A0A1L8FQI6	XENLA	galnt11.S|Xelaev18032816m	XL_galnt11:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3473
+Q6DJR8	XENTR	galnt11|Xetrov90015575m	XL_galnt11:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3473

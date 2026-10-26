@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1M340	XENLA	wdr7.L|Xelaev18008418m	XL_wdr7:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15257
+A0A8J0UB25	XENLA	wdr7.S|Xelaev18011068m	XL_wdr7:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15257
+F6RTW6	XENTR	wdr7|Xetrov90003736m	XL_wdr7:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15257

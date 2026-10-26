@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8HW49	XENLA	atcay.L|Xelaev18006084m	XL_atcay:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 681
+A0A8J1M265	XENLA	atcay.S|Xelaev18009642m	XL_atcay:S	sequence_rbh	100.00	96.9	5.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 681
+A0A6I8S7U2	XENTR	atcay|Xetrov90001315m	XL_atcay:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 681

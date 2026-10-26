@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8F8Z5	XENLA	bckdha.L|Xelaev18039349m	XL_bckdha:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 878
+A0A8J0TR14	XENLA	bckdha.S|Xelaev18042548m	XL_bckdha:S	sequence_rbh	100.00	86.7	2.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 878
+A0A8J0SRZ7	XENTR	bckdha|Xetrov90021010m	XL_bckdha:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 878

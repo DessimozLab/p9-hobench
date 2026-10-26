@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8HE45	XENLA	thrap3.L|Xelaev18012026m	XL_thrap3:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12328
+A0A8J0Q8Y0	XENLA	thrap3.S|Xelaev18015131m	XL_thrap3:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12328
+A0A9Y6AUF2	XENTR	thrap3|Xetrov90004895m	XL_thrap3:XT	sequence_rbh	99.90	96.0	99.9	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12328

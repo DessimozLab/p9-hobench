@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0PTQ8	XENLA	pin1.L|Xelaev18018988m	XL_pin1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9814
+A0A8J0Q2R5	XENLA	pin1.S|Xelaev18021616m	XL_pin1:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9814
+F7BC58	XENTR	pin1|Xetrov90009657m	XL_pin1:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9814

@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+Q5PQ25	XENLA	c15orf59.L|Xelaev18018032m	XL_c15orf59:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1055
+A0A1L8GTC5	XENLA	c15orf59.S|Xelaev18020781m	XL_c15orf59:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1055
+A0A8J0QES1	XENTR	c15orf59|Xetrov90008581m	XL_c15orf59:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1055

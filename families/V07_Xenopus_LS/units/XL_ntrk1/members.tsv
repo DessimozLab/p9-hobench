@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8FC93	XENLA	ntrk1.L|Xelaev18040514m	XL_ntrk1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9313
+A0A1L8F4K5	XENLA	ntrk1.S|Xelaev18042766m	XL_ntrk1:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9313
+F6W3P4	XENTR	ntrk1|Xetrov90022264m	XL_ntrk1:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9313

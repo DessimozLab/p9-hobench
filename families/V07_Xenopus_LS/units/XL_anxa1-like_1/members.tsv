@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0TTD3	XENLA	anxa1-like.1.L|Xelaev18006895m	XL_anxa1-like_1:L	sequence_rbh	100.00	95.8	6.1	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 446
+A0A8J0PPE3	XENLA	anxa1-like.1.S|Xelaev18010116m	XL_anxa1-like_1:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 446
+A0A8J0SEQ4	XENTR	anxa1-like.1|Xetrov90002273m	XL_anxa1-like_1:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 446

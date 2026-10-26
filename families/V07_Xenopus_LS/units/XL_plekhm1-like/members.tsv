@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1LS80	XENLA	plekhm1-like.L|Xelaev18043412m	XL_plekhm1-like:L	sequence_rbh	99.10	98.4	14.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9897
+A0A1L8ELD0	XENLA	plekhm1-like.S|Xelaev18046142m	XL_plekhm1-like:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9897
+A0A6I8SJK7	XENTR	plekhm1-like|Xetrov90025294m	XL_plekhm1-like:XT	sequence_rbh	99.70	100.0	99.7	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9897

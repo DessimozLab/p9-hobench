@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8I1X2	XENLA	nudt12-like.L|Xelaev18008032m	XL_nudt12-like:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9327
+A0A1L8HR39	XENLA	nudt12-like.S|Xelaev18010789m	XL_nudt12-like:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9327
+F6Z3U0	XENTR	nudt12-like|Xetrov90002752m	XL_nudt12-like:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9327

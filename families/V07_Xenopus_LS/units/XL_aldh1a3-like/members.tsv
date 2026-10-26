@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0Q2V6	XENLA	aldh1a3-like.L|Xelaev18018413m	XL_aldh1a3-like:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 296
+A0A1L8GSF2	XENLA	aldh1a3-like.S|Xelaev18020454m	XL_aldh1a3-like:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 296
+A0A6I8SYW2	XENTR	aldh1a3-like|Xetrov90008992m	XL_aldh1a3-like:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 296

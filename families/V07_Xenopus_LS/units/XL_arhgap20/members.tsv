@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1MA96	XENLA	arhgap20.L|Xelaev18013837m	XL_arhgap20:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 541
+A0A1L8HB04	XENLA	arhgap20.S|Xelaev18016300m	XL_arhgap20:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 541
+A0A8J0PM57	XENTR	arhgap20|Xetrov90006762m	XL_arhgap20:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 541

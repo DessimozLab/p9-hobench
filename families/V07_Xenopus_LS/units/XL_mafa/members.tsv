@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8G0C6	XENLA	mafa.L|Xelaev18032460m	XL_mafa:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8197
+A0A1L8FU08	XENLA	mafa.S|Xelaev18034074m	XL_mafa:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8197
+Q4U1U2	XENTR	mafa|Xetrov90017279m	XL_mafa:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8197

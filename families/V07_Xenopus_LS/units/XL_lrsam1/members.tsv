@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8F5Q9	XENLA	lrsam1.L|Xelaev18038197m	XL_lrsam1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8127
+A0A1L8F0P8	XENLA	lrsam1.S|Xelaev18041443m	XL_lrsam1:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8127
+A0A8J1INV8	XENTR	lrsam1|Xetrov90028483m	XL_lrsam1:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8127

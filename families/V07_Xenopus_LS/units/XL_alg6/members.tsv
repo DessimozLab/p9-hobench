@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0Q5G3	XENLA	alg6.L|Xelaev18022997m	XL_alg6:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 318
+A0A8J0PYF0	XENLA	alg6.S|Xelaev18025133m	XL_alg6:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 318
+A0A8J0PG32	XENTR	alg6|Xetrov90011769m	XL_alg6:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 318

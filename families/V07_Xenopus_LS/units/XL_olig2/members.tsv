@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0UDI6	XENLA	olig2.L|Xelaev18011496m	XL_olig2:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9403
+A0A8J0UM59	XENLA	olig2.S|Xelaev18014299m	XL_olig2:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9403
+A0A803J714	XENTR	olig2|Xetrov90004079m	XL_olig2:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9403

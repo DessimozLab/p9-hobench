@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8HW42	XENLA	cactin.L|Xelaev18006096m	XL_cactin:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1205
+A0A1L8HMW8	XENLA	cactin.S|Xelaev18009650m	XL_cactin:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1205
+A0A7D9NL66	XENTR	cactin|Xetrov90001325m	XL_cactin:XT	sequence_rbh	99.10	100.0	99.1	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1205

@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0PV62	XENLA	slc7a7.L|Xelaev18007069m	XL_slc7a7:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11562
+A0A1L8HPJ3	XENLA	slc7a7.S|Xelaev18010247m	XL_slc7a7:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11562
+A0A9Y6ARK4	XENTR	slc7a7|Xetrov90002453m	XL_slc7a7:XT	sequence_rbh	99.80	100.0	23.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11562

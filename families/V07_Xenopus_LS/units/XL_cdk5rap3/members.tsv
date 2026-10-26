@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0Q4U0	XENLA	cdk5rap3.L|Xelaev18043214m	XL_cdk5rap3:L	sequence_rbh	99.60	95.1	12.1	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1519
+A0A1L8EKU3	XENLA	cdk5rap3.S|Xelaev18045976m	XL_cdk5rap3:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1519
+A0A8J0PG18	XENTR	cdk5rap3|Xetrov90024748m	XL_cdk5rap3:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1519

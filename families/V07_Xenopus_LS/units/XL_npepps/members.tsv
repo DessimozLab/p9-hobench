@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8ERY9	XENLA	npepps.L|Xelaev18043197m	XL_npepps:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9219
+A0A1L8EKP4	XENLA	npepps.S|Xelaev18045955m	XL_npepps:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9219
+A0A8J0PMI0	XENTR	npepps|Xetrov90024721m	XL_npepps:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9219

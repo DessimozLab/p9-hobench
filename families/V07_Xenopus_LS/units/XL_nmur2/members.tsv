@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8GWI5	XENLA	nmur2.L|Xelaev18016834m	XL_nmur2:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9160
+A0A8J0UU02	XENLA	nmur2.S|Xelaev18019981m	XL_nmur2:S	sequence_rbh	100.00	97.7	4.6	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9160
+F7CAM3	XENTR	nmur2|Xetrov90007126m	XL_nmur2:XT	sequence_rbh	100.00	97.7	44.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9160

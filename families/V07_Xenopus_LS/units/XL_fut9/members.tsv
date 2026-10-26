@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8G9Q4	XENLA	fut9.L|Xelaev18027264m	XL_fut9:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3412
+A0A8J0VA12	XENLA	fut9.S|Xelaev18029350m	XL_fut9:S	sequence_rbh	100.00	90.4	3.6	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3412
+A0A8J1JLP9	XENTR	fut9|Xetrov90014222m	XL_fut9:XT	sequence_rbh	100.00	97.6	51.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3412

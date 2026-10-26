@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1MWQ6	XENLA	sgip1.L|Xelaev18022977m	XL_sgip1:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11242
+A0A8J1KKN1	XENLA	sgip1.S|Xelaev18025113m	XL_sgip1:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11242
+A0A8J1JFU3	XENTR	sgip1|Xetrov90011795m	XL_sgip1:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11242

@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0Q2P5	XENLA	smpd3-like.L|Xelaev18022478m	XL_smpd3-like:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11636
+A0A1L8GEM2	XENLA	smpd3-like.S|Xelaev18024739m	XL_smpd3-like:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11636
+F7BUA3	XENTR	smpd3-like|Xetrov90011295m	XL_smpd3-like:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11636

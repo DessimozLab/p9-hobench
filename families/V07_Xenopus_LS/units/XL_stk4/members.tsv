@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8ES34	XENLA	stk4.L|Xelaev18043241m	XL_stk4:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11959
+Q6PA14	XENLA	stk4.S|Xelaev18046001m	XL_stk4:S	sequence_rbh	99.80	100.0	5.6	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11959
+Q6P3Q4	XENTR	stk4|Xetrov90024776m	XL_stk4:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11959

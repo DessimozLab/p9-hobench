@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A9B5P4G7	XENLA	abhd17a.L|Xelaev18006186m	XL_abhd17a:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 54
+A0A8J1LSS8	XENLA	abhd17a.S|Xelaev18009721m	XL_abhd17a:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 54
+A0A8J0PG06	XENTR	abhd17a|Xetrov90001415m	XL_abhd17a:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 54

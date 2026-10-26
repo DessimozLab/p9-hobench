@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1KYT2	XENLA	ralyl.L|Xelaev18032146m	XL_ralyl:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10515
+A0A8J1L2T9	XENLA	ralyl.S|Xelaev18033839m	XL_ralyl:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10515
+Q0VFL7	XENTR	ralyl|Xetrov90016967m	XL_ralyl:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10515

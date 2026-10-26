@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0PWR0	XENLA	dynll1.L|Xelaev18007559m	XL_dynll1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2619
+A0A8J0QEL4	XENLA	dynll1.S|Xelaev18010464m	XL_dynll1:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2619
+A0A8J0PDR6	XENTR	dynll1|Xetrov90002866m	XL_dynll1:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2619

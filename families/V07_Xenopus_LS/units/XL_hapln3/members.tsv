@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0PNQ0	XENLA	hapln3.L|Xelaev18018364m	XL_hapln3:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3943
+A0A8J0V015	XENLA	hapln3.S|Xelaev18020504m	XL_hapln3:S	sequence_rbh	100.00	95.2	4.7	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3943
+A0A8J0PGT8	XENTR	hapln3|Xetrov90008939m	XL_hapln3:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3943

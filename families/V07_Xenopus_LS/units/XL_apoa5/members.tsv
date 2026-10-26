@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0Q9C1	XENLA	apoa5.L|Xelaev18035467m	XL_apoa5:L	sequence_rbh	99.10	100.0	13.1	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 495
+A0A1L8FFU4	XENLA	apoa5.S|Xelaev18037381m	XL_apoa5:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 495
+A0A6I8SNZ3	XENTR	apoa5|Xetrov90018751m	XL_apoa5:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 495

@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8GB37	XENLA	awat1.L|Xelaev18027788m	XL_awat1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 794
+A0A8J1KR67	XENLA	awat1.S|Xelaev18029863m	XL_awat1:S	sequence_rbh	100.00	94.7	9.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 794
+A0A8J0SXY0	XENTR	awat1|Xetrov90014831m	XL_awat1:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 794

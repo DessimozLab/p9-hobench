@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8HK08	XENLA	fam168a.L|Xelaev18014084m	XL_fam168a:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3016
+A0A8J0Q098	XENLA	fam168a.S|Xelaev18016383m	XL_fam168a:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3016
+F7AIM8	XENTR	fam168a|Xetrov90028165m	XL_fam168a:XT	sequence_rbh	99.60	100.0	33.9	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3016

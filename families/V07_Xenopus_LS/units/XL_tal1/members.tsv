@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8GMB6	XENLA	tal1.L|Xelaev18023141m	XL_tal1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12127
+O73823	XENLA	tal1.S|Xelaev18025248m	XL_tal1:S	sequence_rbh	99.70	100.0	20.1	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12127
+A0A8J0QEQ2	XENTR	tal1|Xetrov90011870m	XL_tal1:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12127

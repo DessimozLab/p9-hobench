@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0UEB8	XENLA	rabep1.L|Xelaev18012858m	XL_rabep1:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10474
+A0A8J1MG66	XENLA	rabep1.S|Xelaev18015435m	XL_rabep1:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10474
+A0A8J1J1P3	XENTR	rabep1|Xetrov90005730m	XL_rabep1:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10474

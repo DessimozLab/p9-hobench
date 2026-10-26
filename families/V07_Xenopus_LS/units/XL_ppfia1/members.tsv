@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8GIV1	XENLA	ppfia1.L|Xelaev18021901m	XL_ppfia1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10055
+A0A8J1N0U5	XENLA	ppfia1.S|Xelaev18024461m	XL_ppfia1:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10055
+A0A8J0QD71	XENTR	ppfia1|Xetrov90010268m	XL_ppfia1:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10055

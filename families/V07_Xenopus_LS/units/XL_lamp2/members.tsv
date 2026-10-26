@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1LGY5	XENLA	lamp2.L|Xelaev18038715m	XL_lamp2:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4848
+A0A8J1LND2	XENLA	lamp2.S|Xelaev18042091m	XL_lamp2:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4848
+F7D2C0	XENTR	lamp2|Xetrov90020365m	XL_lamp2:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4848

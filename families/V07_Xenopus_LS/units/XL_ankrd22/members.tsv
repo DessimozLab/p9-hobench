@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8FIH6	XENLA	ankrd22.L|Xelaev18034368m	XL_ankrd22:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 403
+A0A1L8FE20	XENLA	ankrd22.S|Xelaev18036760m	XL_ankrd22:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 403
+A0A8J0Q9S5	XENTR	ankrd22|Xetrov90017446m	XL_ankrd22:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 403

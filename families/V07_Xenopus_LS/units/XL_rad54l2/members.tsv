@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8GPA6	XENLA	rad54l2.L|Xelaev18023844m	XL_rad54l2:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10500
+A0A1L8GHC3	XENLA	rad54l2.S|Xelaev18025786m	XL_rad54l2:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10500
+A4IHD2	XENTR	rad54l2|Xetrov90012583m	XL_rad54l2:XT	sequence_rbh	99.90	100.0	99.9	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10500

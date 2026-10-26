@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8HXR6	XENLA	tmem215.L|Xelaev18006683m	XL_tmem215:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12493
+A0A1L8HNW8	XENLA	tmem215.S|Xelaev18009983m	XL_tmem215:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12493
+F7DQA0	XENTR	tmem215|Xetrov90002039m	XL_tmem215:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12493

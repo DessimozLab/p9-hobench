@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8ES72	XENLA	MGC89221.L|Xelaev18043255m	XL_MGC89221:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8517
+A0A1L8EKV2	XENLA	MGC89221.S|Xelaev18046015m	XL_MGC89221:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8517
+A0A8J0PD42	XENTR	MGC89221|Xetrov90024913m	XL_MGC89221:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8517

@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1M5W9	XENLA	ptgfrn.L|Xelaev18011192m	XL_ptgfrn:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10341
+A0A8J0UBM2	XENLA	ptgfrn.S|Xelaev18014496m	XL_ptgfrn:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10341
+F6ZYV1	XENTR	ptgfrn|Xetrov90003855m	XL_ptgfrn:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10341

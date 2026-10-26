@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8EXA7	XENLA	cpsf4.L|Xelaev18045064m	XL_cpsf4:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1967
+Q6DJP7	XENLA	cpsf4.S|Xelaev18047439m	XL_cpsf4:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1967
+Q66KE3	XENTR	cpsf4|Xetrov90023807m	XL_cpsf4:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1967

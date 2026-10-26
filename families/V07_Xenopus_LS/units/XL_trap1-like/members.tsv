@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8EYC8	XENLA	trap1-like.L|Xelaev18045445m	XL_trap1-like:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12694
+A0A1L8EQP6	XENLA	trap1-like.S|Xelaev18047705m	XL_trap1-like:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12694
+A0A6I8RDG5	XENTR	trap1-like|Xetrov90023289m	XL_trap1-like:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12694

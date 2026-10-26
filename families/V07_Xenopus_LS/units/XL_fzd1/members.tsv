@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+Q9I9M5	XENLA	fzd1.L|Xelaev18030849m	XL_fzd1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3420
+A0A8J0VQ70	XENLA	fzd1.S|Xelaev18032956m	XL_fzd1:S	sequence_rbh	100.00	97.9	3.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3420
+A0A8J0QGT4	XENTR	fzd1|Xetrov90015764m	XL_fzd1:XT	sequence_rbh	100.00	98.1	20.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3420

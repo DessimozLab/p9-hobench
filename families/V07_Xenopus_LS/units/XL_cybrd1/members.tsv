@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+Q6DDR3	XENLA	cybrd1.L|Xelaev18044686m	XL_cybrd1:L	sequence_rbh	99.60	100.0	8.8	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2149
+A0A1L8EP67	XENLA	cybrd1.S|Xelaev18047165m	XL_cybrd1:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2149
+Q5CZL8	XENTR	cybrd1|Xetrov90024280m	XL_cybrd1:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2149

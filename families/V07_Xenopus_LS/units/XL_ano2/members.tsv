@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0UQ16	XENLA	ano2.L|Xelaev18016901m	XL_ano2:L	sequence_rbh	100.00	94.5	8.7	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 432
+A0A1L8GR10	XENLA	ano2.S|Xelaev18019918m	XL_ano2:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 432
+A0A8J0SSS8	XENTR	ano2|Xetrov90007208m	XL_ano2:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 432

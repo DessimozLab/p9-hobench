@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1M9F0	XENLA	myo16.L|Xelaev18013074m	XL_myo16:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8861
+A0A8J1MGI1	XENLA	myo16.S|Xelaev18015613m	XL_myo16:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8861
+A0A6I8S7L5	XENTR	myo16|Xetrov90005968m	XL_myo16:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8861

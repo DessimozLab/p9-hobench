@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1LKM1	XENLA	ralgapa1.L|Xelaev18039933m	XL_ralgapa1:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10510
+A0A8J1LPV7	XENLA	ralgapa1.S|Xelaev18041050m	XL_ralgapa1:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10510
+A0A8J1ILQ6	XENTR	ralgapa1|Xetrov90021669m	XL_ralgapa1:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10510

@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8FIZ3	XENLA	oat.1.L|Xelaev18034537m	XL_oat_1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9370
+A0A8J0PY76	XENLA	oat.1.S|Xelaev18036837m	XL_oat_1:S	sequence_rbh	100.00	85.6	3.9	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9370
+A0A8J0PIL4	XENTR	oat.1|Xetrov90017548m	XL_oat_1:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9370

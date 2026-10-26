@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+Q2WFL8	XENLA	shisa2.L|Xelaev18013772m	XL_shisa2:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11288
+A0A1L8HAQ7	XENLA	shisa2.S|Xelaev18016220m	XL_shisa2:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11288
+A0A6I8S9Q8	XENTR	shisa2|Xetrov90006733m	XL_shisa2:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11288

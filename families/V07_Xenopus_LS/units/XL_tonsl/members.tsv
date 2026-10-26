@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8G0I6	XENLA	tonsl.L|Xelaev18032513m	XL_tonsl:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12627
+A0A8J1L3Q1	XENLA	tonsl.S|Xelaev18034113m	XL_tonsl:S	sequence_rbh	99.80	100.0	99.8	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12627
+A0A803JI00	XENTR	tonsl|Xetrov90026654m	XL_tonsl:XT	sequence_rbh	100.00	96.3	100.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12627

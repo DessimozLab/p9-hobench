@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8EUN9	XENLA	uts2r-like.L|Xelaev18044129m	XL_uts2r-like:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15107
+A0A1L8EN55	XENLA	uts2r-like.S|Xelaev18046761m	XL_uts2r-like:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15107
+A0A8J0R3I8	XENTR	uts2r-like|Xetrov90025635m	XL_uts2r-like:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15107

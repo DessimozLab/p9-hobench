@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0Q4G1	XENLA	prdx3.L|Xelaev18034304m	XL_prdx3:L	sequence_rbh	99.60	100.0	7.6	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10152
+A0A8J0PXP4	XENLA	prdx3.S|Xelaev18036680m	XL_prdx3:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10152
+A0A8J0PK37	XENTR	prdx3|Xetrov90030641m	XL_prdx3:XT	sequence_rbh	99.50	88.9	30.4	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10152

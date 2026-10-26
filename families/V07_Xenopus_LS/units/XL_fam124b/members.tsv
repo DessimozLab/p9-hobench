@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8GAR8	XENLA	fam124b.L|Xelaev18027772m	XL_fam124b:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2989
+A0A1L8G4H2	XENLA	fam124b.S|Xelaev18029848m	XL_fam124b:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2989
+Q66IK8	XENTR	fam124b|Xetrov90014813m	XL_fam124b:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2989

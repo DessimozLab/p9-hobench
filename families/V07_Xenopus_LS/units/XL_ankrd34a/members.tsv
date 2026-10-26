@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8FC24	XENLA	ankrd34a.L|Xelaev18040397m	XL_ankrd34a:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 408
+A0A1L8F4H1	XENLA	ankrd34a.S|Xelaev18042742m	XL_ankrd34a:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 408
+F7BFH4	XENTR	ankrd34a|Xetrov90022169m	XL_ankrd34a:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 408

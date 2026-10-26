@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1LTP8	XENLA	baiap3.L|Xelaev18045257m	XL_baiap3:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 846
+A0A8J1LYJ6	XENLA	baiap3.S|Xelaev18047569m	XL_baiap3:S	sequence_rbh	99.10	100.0	4.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 846
+F6YBZ9	XENTR	baiap3|Xetrov90023536m	XL_baiap3:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 846

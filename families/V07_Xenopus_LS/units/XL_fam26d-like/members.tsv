@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8G958	XENLA	fam26d-like.L|Xelaev18027146m	XL_fam26d-like:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3068
+A0A1L8G2Q6	XENLA	fam26d-like.S|Xelaev18029234m	XL_fam26d-like:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3068
+A0A6I8PXK7	XENTR	fam26d-like|Xetrov90013993m	XL_fam26d-like:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3068

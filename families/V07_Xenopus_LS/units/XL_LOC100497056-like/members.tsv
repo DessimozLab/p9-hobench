@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8HZI8	XENLA	LOC100497056-like.L|Xelaev18007330m	XL_LOC100497056-like:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 6918
+A0A8J0Q8N2	XENLA	LOC100497056-like.S|Xelaev18010297m	XL_LOC100497056-like:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 6918
+F7AN73	XENTR	LOC100497056-like|Xetrov90002595m	XL_LOC100497056-like:XT	sequence_rbh	99.80	100.0	66.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 6918

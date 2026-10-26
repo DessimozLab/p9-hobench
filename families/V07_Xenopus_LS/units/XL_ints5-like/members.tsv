@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8GJU2	XENLA	ints5-like.L|Xelaev18022258m	XL_ints5-like:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4399
+A0A1L8GCX3	XENLA	ints5-like.S|Xelaev18024201m	XL_ints5-like:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4399
+F6V4C4	XENTR	ints5-like|Xetrov90011175m	XL_ints5-like:XT	sequence_rbh	99.90	100.0	99.9	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4399

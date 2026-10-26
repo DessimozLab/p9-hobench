@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0PP15	XENLA	tvp23b.L|Xelaev18044190m	XL_tvp23b:L	sequence_rbh	99.50	100.0	3.4	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12877
+A0A9B5SZA2	XENLA	tvp23b.S|Xelaev18046806m	XL_tvp23b:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12877
+A0A8J0PD77	XENTR	tvp23b|Xetrov90025690m	XL_tvp23b:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12877

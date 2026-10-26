@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8EWH4	XENLA	znf804a.L|Xelaev18044796m	XL_znf804a:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15575
+A0A1L8EPH9	XENLA	znf804a.S|Xelaev18047248m	XL_znf804a:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15575
+A0A6I8QZQ8	XENTR	znf804a|Xetrov90024143m	XL_znf804a:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15575

@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8HW21	XENLA	apba3-like.L|Xelaev18006092m	XL_apba3-like:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 476
+A0A1L8HMX8	XENLA	apba3-like.S|Xelaev18009646m	XL_apba3-like:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 476
+A0A6I8QT23	XENTR	apba3-like|Xetrov90001320m	XL_apba3-like:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 476

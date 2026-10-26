@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0Q2T7	XENLA	dyrk3.L|Xelaev18012198m	XL_dyrk3:L	sequence_rbh	100.00	99.8	5.1	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2626
+A0A1L8H761	XENLA	dyrk3.S|Xelaev18014977m	XL_dyrk3:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2626
+F7CK14	XENTR	dyrk3|Xetrov90005108m	XL_dyrk3:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2626

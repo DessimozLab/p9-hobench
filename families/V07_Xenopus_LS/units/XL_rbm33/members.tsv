@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8FV92	XENLA	rbm33.L|Xelaev18030673m	XL_rbm33:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10596
+A0A1L8FQI8	XENLA	rbm33.S|Xelaev18032831m	XL_rbm33:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10596
+A0A803K989	XENTR	rbm33|Xetrov90015588m	XL_rbm33:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10596

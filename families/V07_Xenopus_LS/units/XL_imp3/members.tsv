@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0PV23	XENLA	imp3.L|Xelaev18023584m	XL_imp3:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4358
+A0A1L8GGY4	XENLA	imp3.S|Xelaev18025593m	XL_imp3:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4358
+A0A8J0PCY4	XENTR	imp3|Xetrov90012324m	XL_imp3:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4358

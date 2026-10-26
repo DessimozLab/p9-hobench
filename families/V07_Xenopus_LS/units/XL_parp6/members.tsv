@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1MMC7	XENLA	parp6.L|Xelaev18018022m	XL_parp6:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9549
+A0A8J1MTH1	XENLA	parp6.S|Xelaev18020792m	XL_parp6:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9549
+A0A8J0Q4S9	XENTR	parp6|Xetrov90008569m	XL_parp6:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9549

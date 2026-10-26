@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8GD37	XENLA	ppm1g.L|Xelaev18028440m	XL_ppm1g:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10080
+A0A8J0PQG1	XENLA	ppm1g.S|Xelaev18030319m	XL_ppm1g:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10080
+A0A6I8QJP0	XENTR	ppm1g|Xetrov90025894m	XL_ppm1g:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10080

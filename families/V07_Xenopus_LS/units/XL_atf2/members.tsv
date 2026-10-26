@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1LQZ1	XENLA	atf2.L|Xelaev18044748m	XL_atf2:L	sequence_rbh	100.00	98.2	4.1	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 684
+A0A1L8EPC5	XENLA	atf2.S|Xelaev18047215m	XL_atf2:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 684
+A0A6I8QVI2	XENTR	atf2|Xetrov90024207m	XL_atf2:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 684

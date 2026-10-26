@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1MV15	XENLA	nckipsd.L|Xelaev18024014m	XL_nckipsd:L	sequence_rbh	99.20	100.0	11.4	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8976
+A0A1L8GHQ7	XENLA	nckipsd.S|Xelaev18025918m	XL_nckipsd:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8976
+A0A8J0QDZ8	XENTR	nckipsd|Xetrov90012758m	XL_nckipsd:XT	sequence_rbh	99.80	89.4	99.8	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8976

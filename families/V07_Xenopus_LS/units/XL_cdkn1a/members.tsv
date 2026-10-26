@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8HE53	XENLA	cdkn1a.L|Xelaev18012016m	XL_cdkn1a:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1526
+A0A1L8H6B5	XENLA	cdkn1a.S|Xelaev18014699m	XL_cdkn1a:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1526
+A0A8J0QRF7	XENTR	cdkn1a|Xetrov90005148m	XL_cdkn1a:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1526

@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0PRK8	XENLA	fgfr4.L|Xelaev18017313m	XL_fgfr4:L	sequence_rbh	100.00	98.7	5.6	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3242
+A0A8J0PS20	XENLA	fgfr4.S|Xelaev18021368m	XL_fgfr4:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3242
+F6VYS9	XENTR	fgfr4|Xetrov90007725m	XL_fgfr4:XT	sequence_rbh	99.90	100.0	37.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3242

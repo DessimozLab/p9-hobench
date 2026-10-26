@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8ESL3	XENLA	smarcd2.L|Xelaev18043363m	XL_smarcd2:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11611
+A0A1L8EL76	XENLA	smarcd2.S|Xelaev18046104m	XL_smarcd2:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11611
+A0A8J0PLE5	XENTR	smarcd2|Xetrov90024849m	XL_smarcd2:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11611

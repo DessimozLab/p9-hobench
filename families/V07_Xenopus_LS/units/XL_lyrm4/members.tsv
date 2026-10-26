@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+Q6DCS1	XENLA	lyrm4.L|Xelaev18031604m	XL_lyrm4:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8167
+A0A8J0T6R1	XENLA	lyrm4.S|Xelaev18033411m	XL_lyrm4:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8167
+A0A6I8Q5L5	XENTR	lyrm4|Xetrov90016124m	XL_lyrm4:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8167

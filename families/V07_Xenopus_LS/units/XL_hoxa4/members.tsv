@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8FW30	XENLA	hoxa4.L|Xelaev18030988m	XL_hoxa4:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4116
+A0A1L8FRB4	XENLA	hoxa4.S|Xelaev18033071m	XL_hoxa4:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4116
+A0A6I8PMV0	XENTR	hoxa4|Xetrov90015906m	XL_hoxa4:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4116

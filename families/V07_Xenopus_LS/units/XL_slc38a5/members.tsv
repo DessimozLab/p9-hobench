@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8F5F8	XENLA	slc38a5.L|Xelaev18038112m	XL_slc38a5:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11494
+A0A8J1LN67	XENLA	slc38a5.S|Xelaev18042615m	XL_slc38a5:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11494
+A0A8J0PFA2	XENTR	slc38a5|Xetrov90019648m	XL_slc38a5:XT	sequence_rbh	99.80	100.0	33.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11494

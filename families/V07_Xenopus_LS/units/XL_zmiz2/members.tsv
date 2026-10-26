@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1MJ83	XENLA	zmiz2.L|Xelaev18018632m	XL_zmiz2:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15497
+A0A8J0UPB6	XENLA	zmiz2.S|Xelaev18020268m	XL_zmiz2:S	sequence_rbh	100.00	90.4	5.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15497
+A0A8J1JBA4	XENTR	zmiz2|Xetrov90009060m	XL_zmiz2:XT	sequence_rbh	100.00	93.4	42.8	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15497

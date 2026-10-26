@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0Q7G3	XENLA	fbxo34.L|Xelaev18039847m	XL_fbxo34:L	sequence_rbh	99.70	92.4	9.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3172
+A0A8J0Q5E7	XENLA	fbxo34.S|Xelaev18041104m	XL_fbxo34:S	sequence_rbh	99.70	93.0	9.1	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3172
+A0A8J0Q908	XENTR	fbxo34|Xetrov90021583m	XL_fbxo34:XT	sequence_rbh	100.00	92.4	100.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3172

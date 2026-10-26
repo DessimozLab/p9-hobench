@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8HE60	XENLA	themis2.L|Xelaev18012049m	XL_themis2:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12316
+A0A1L8H7L0	XENLA	themis2.S|Xelaev18015127m	XL_themis2:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12316
+F7AUV6	XENTR	themis2|Xetrov90004860m	XL_themis2:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12316

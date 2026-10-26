@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8GY16	XENLA	emx1.L|Xelaev18017335m	XL_emx1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2799
+A0A1L8GV07	XENLA	emx1.S|Xelaev18021347m	XL_emx1:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2799
+A0A6I8PUW5	XENTR	emx1|Xetrov90007763m	XL_emx1:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2799

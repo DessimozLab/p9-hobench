@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0PPI7	XENLA	rhog-like.2.L|Xelaev18013963m	XL_rhog-like_2:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10728
+A0A1L8HBF6	XENLA	rhog-like.2.S|Xelaev18016503m	XL_rhog-like_2:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10728
+A0A7D9NJV5	XENTR	rhog-like.2|Xetrov90025730m	XL_rhog-like_2:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10728

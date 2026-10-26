@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8GMM1	XENLA	zbtb37.L|Xelaev18023234m	XL_zbtb37:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15396
+A0A1L8GG02	XENLA	zbtb37.S|Xelaev18025313m	XL_zbtb37:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15396
+A0A803KCV4	XENTR	zbtb37|Xetrov90011960m	XL_zbtb37:XT	sequence_rbh	100.00	88.9	60.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15396

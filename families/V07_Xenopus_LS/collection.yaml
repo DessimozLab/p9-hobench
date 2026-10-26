@@ -1,0 +1,66 @@
+id: V07_Xenopus_LS
+name: Xenopus laevis L/S homeolog pairs with X. tropicalis orthologs (Session et al.
+  2016)
+panel: V
+collection: XLAEVIS
+layout: one unit (= one X. tropicalis locus with an L/S homeolog pair) per directory
+  under units/; each unit is a loadable family (hobench.reference.load_family)
+phenomena:
+- ALLO
+sources:
+- id: Session2016
+  pmid: 27762356
+  doi: 10.1038/nature19840
+  title: Genome evolution in the allotetraploid frog Xenopus laevis
+  year: 2016
+  source_method: synteny
+  locator: Supplementary Table 7_ Ks.xlsx sheet XT-XL.ortho (homeolog rows); Supplementary
+    Note 8.1
+  files:
+  - path: literature/papers/PMID27762356/raw/supp/Supplementary Table 7_ Ks.xlsx
+    sha256: 8a8ad02c592f822e2401873c37f2072016da38061a072e1fcd3aa85884729aa3
+  - path: literature/papers/PMID27762356/raw/supp/Supplementary Tables 1-11.docx
+    sha256: bcc1ac491526b58ccfd74d5b168817c5073a51606003f5817a72f93d3efa8e1a
+  - path: literature/papers/PMID27762356/raw/supp/08_supp1.pdf
+    sha256: 453475f896bebda9cfe2b4e89a59647d1683329d7faadadff6695e6556be8b19
+  - path: literature/papers/PMID27762356/fulltext.txt
+    sha256: ed23357be2905f2c93006d28b631aa7e993619ecc6300d5ee84eadb0eef71ede
+  - path: literature/papers/PMID27762356/raw/xenbase/XL_9.1_v1.8.3.2.primaryTranscripts.pep.fa.gz
+    sha256: cd618d9cd102a5fac6ff9ff5823bf9a68d6060dee1b88d8300f134a2980ecaf3
+  - path: literature/papers/PMID27762356/raw/xenbase/Xtropicalisv9.0.Named.primaryTrs.pep.fa.gz
+    sha256: f7140d7c30fdf10f7fb518c4d0ced822067dd321314fa4d67bc5481f1415d3bf
+  quote: Finally, we only accepted X. laevis homoeologues whose synteny and subgenome
+    identity agree with the BAC FISH map
+root_level: Xenopus
+root_single_copy: false
+complete_species: []
+decoys: []
+distinct_from: []
+tier_summary:
+  T2_D_ALLO: 500
+  T2_S_Xenopus: 500
+sampling:
+  seed: 20261026
+  max_units: 500
+  candidates_passing: 4671
+  units: 500
+  method: random.Random(seed).sample over passing units sorted by id
+counts:
+  source_homeolog_rows: 8806
+  gene_slots_by_status:
+    mapped: 20904
+    unmapped: 3489
+    ambiguous: 801
+    excluded: 1224
+  unit_rejections:
+    not all three genes uniquely mapped: 3119
+    names do not form one .L and one .S homeolog: 819
+    homology QC failed: 159
+    L and S proteins identical: 36
+    protein or unit id shared with another source row: 2
+protocol_version: 1
+notes: 'T2 rule: Session 2016 Table 7 homeolog rows (BLASTP + synteny/subgenome check
+  vs BAC-FISH map) -> D at the XENLA leaf tagged ALLO (L and S descend from two diploid
+  progenitors, so the L/S split is not a duplication inside the X. laevis lineage;
+  per PI/SYNTHESIS A6 it is encoded on the XENLA branch) and S between the pair and
+  the X. tropicalis gene at Xenopus.'

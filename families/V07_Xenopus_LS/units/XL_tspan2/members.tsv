@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8HDZ1	XENLA	tspan2.L|Xelaev18011985m	XL_tspan2:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12790
+A0A1L8H695	XENLA	tspan2.S|Xelaev18014674m	XL_tspan2:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12790
+A0A8J0Q8U6	XENTR	tspan2|Xetrov90005116m	XL_tspan2:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12790

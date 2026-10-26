@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0PQW0	XENLA	psmd6.L|Xelaev18024136m	XL_psmd6:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10303
+A0A8J0Q160	XENLA	psmd6.S|Xelaev18026021m	XL_psmd6:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10303
+A0A8J0QIZ6	XENTR	psmd6|Xetrov90012889m	XL_psmd6:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10303

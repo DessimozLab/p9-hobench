@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A9A9Z0J0	XENLA	ndufs3.L|Xelaev18021938m	XL_ndufs3:L	sequence_rbh	99.20	99.6	3.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9024
+A0A8J0Q2F0	XENLA	ndufs3.S|Xelaev18024431m	XL_ndufs3:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9024
+A0A8J0PCT1	XENTR	ndufs3|Xetrov90010346m	XL_ndufs3:XT	sequence_rbh	100.00	94.4	100.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9024

@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1KQG0	XENLA	ncoa1.L|Xelaev18028266m	XL_ncoa1:L	sequence_rbh	100.00	97.5	11.9	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8977
+A0A8J1KUQ2	XENLA	ncoa1.S|Xelaev18030223m	XL_ncoa1:S	sequence_rbh	100.00	98.3	11.9	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8977
+A0A8J1JJX9	XENTR	ncoa1|Xetrov90025716m	XL_ncoa1:XT	sequence_rbh	99.50	90.1	67.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8977

@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0PQV3	XENLA	acaa2.L|Xelaev18008452m	XL_acaa2:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 72
+A0A8J1M4E5	XENLA	acaa2.S|Xelaev18011100m	XL_acaa2:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 72
+A0A6I8RGB7	XENTR	acaa2|Xetrov90003787m	XL_acaa2:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 72

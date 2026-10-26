@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8H1R3	XENLA	spata18-like.L|Xelaev18018644m	XL_spata18-like:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11771
+A0A1L8GRZ0	XENLA	spata18-like.S|Xelaev18020256m	XL_spata18-like:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11771
+A0A6I8QHZ9	XENTR	spata18-like|Xetrov90009046m	XL_spata18-like:XT	sequence_rbh	100.00	95.3	11.1	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11771

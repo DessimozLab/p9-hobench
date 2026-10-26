@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J1L3Y4	XENLA	lipe.L|Xelaev18035985m	XL_lipe:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4946
+A0A8J1LFP3	XENLA	lipe.S|Xelaev18037747m	XL_lipe:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4946
+A0A6I8QE37	XENTR	lipe|Xetrov90019102m	XL_lipe:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4946

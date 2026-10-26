@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0TRM4	XENLA	col18a1.L|Xelaev18044797m	XL_col18a1:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1861
+A0A8J0U0F4	XENLA	col18a1.S|Xelaev18047249m	XL_col18a1:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1861
+A0A6I8S0F8	XENTR	col18a1|Xetrov90024140m	XL_col18a1:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1861

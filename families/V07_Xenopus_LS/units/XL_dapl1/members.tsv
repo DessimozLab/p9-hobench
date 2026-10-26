@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A3KMT2	XENLA	dapl1.L|Xelaev18044604m	XL_dapl1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2205
+A3KMU5	XENLA	dapl1.S|Xelaev18047120m	XL_dapl1:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2205
+Q28CI6	XENTR	dapl1|Xetrov90024375m	XL_dapl1:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2205

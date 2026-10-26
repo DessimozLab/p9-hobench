@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+Q32NJ2	XENLA	ccno.L|Xelaev18008286m	XL_ccno:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1402
+Q32NM1	XENLA	ccno.S|Xelaev18010955m	XL_ccno:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1402
+A0A8J0QJJ9	XENTR	ccno|Xetrov90003576m	XL_ccno:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1402

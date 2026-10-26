@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A1L8FK38	XENLA	neurog3.L|Xelaev18034898m	XL_neurog3:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9067
+A0A8J0QEE4	XENLA	neurog3.S|Xelaev18037155m	XL_neurog3:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9067
+A0A6I8PUY5	XENTR	neurog3|Xetrov90018222m	XL_neurog3:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9067

@@ -1,0 +1,4 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
+A0A8J0Q390	XENLA	tmem52.L|Xelaev18035617m	XL_tmem52:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12530
+A0A8J0T6S0	XENLA	tmem52.S|Xelaev18037495m	XL_tmem52:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12530
+F6W8H9	XENTR	tmem52|Xetrov90018550m	XL_tmem52:XT	sequence_rbh	100.00	99.6	100.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12530
