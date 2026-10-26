@@ -66,3 +66,14 @@ asserted node with file:line locators), build.py.
 - Panel Y has no HENBL, KAZNA, SACUV (YGOB columns → not_in_panel). Final: 26,173 members, 13 species, 1,591 WGD D
   nodes (1,341 single-species ohnolog pairs, 201 YEAST/CANGA track-resolved, 49 pseudo-ortholog D tagged LOSS),
   1,189 same-track YEAST–CANGA S nodes, unique mapping 98.8 %.
+
+## PI decision (after Y02): widened WGD interval
+All 1,591 WGD D nodes now carry lvl_lo=PostWGD, lvl_hi=Saccharomycetaceae ⇒ ohnolog merge ∈ [ZT_PostWGD,
+parent(Saccharomycetaceae)], because MH2015 find that a substantial fraction of ohnolog pairs coalesce before the KLE
+divergence, consistent with an allopolyploid origin: "We found that the pre-KLE duplication peak was more apparent in
+the subset of duplications leading to conserved pairs of ohnologs, which indicates that this ancestral duplication peak
+is indeed related to the observed WGD paralogous blocks" and "the main result that the majority of ohnologs have
+apparently diverged before the expected WGD" (PMID26252497; Y02 cross-check: 85/245 pairs labelled 'A - AB').
+Consequence: in the 525+6 units that contain a WGD D node, KLE vs post-WGD pairs are no longer asserted (root U;
+KLE vs ZT kept as S at Saccharomycetaceae); units without a WGD D keep KLE vs post-WGD orthologs at Saccharomycetaceae.
+Re-validated: 1,977 units, 0 errors; verify_provenance (assembled view) PASS, 0 errors/0 warnings.

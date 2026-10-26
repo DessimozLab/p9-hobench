@@ -17,7 +17,9 @@ Encoding (protocol v1 §2-3; SYNTHESIS A2 / ME-2, allopolyploid WGD):
   post-WGD part: for YEAST/CANGA with robust v1 tracks: D[WGD](trackA S(YEAST,CANGA), trackB S(...)) or
   S(YEAST,CANGA) (same track, single copies); other species with two copies -> per-species D[WGD];
   remaining single copies -> leaves under the U node (pseudo-orthology risk; not asserted).
-  WGD D nodes: lvl_lo = PostWGD, lvl_hi = ZT+WGD ancestor  =>  merge in [ZT+WGD, Saccharomycetaceae].
+  WGD D nodes: lvl_lo = PostWGD, lvl_hi = Saccharomycetaceae => merge in [ZT+WGD, parent(Saccharomycetaceae)]
+  (PI decision, MH2015 pre-KLE signal); units with a WGD D node: root U( S(KLE, ZT), post-WGD part ) so that
+  KLE vs post-WGD is unasserted there.
 Run from the project root:  python families/Y01_YGOB_pillars/build.py [--species-tree PATH]
 """
 from __future__ import annotations
@@ -106,6 +108,14 @@ QUOTES = {
     "parents": ("MH2015", "PMID26252497 fulltext, Results (parental lineages)",
                 "From now on, we consider the ZT cluster as the extant clade closest to one of the parents (parent "
                 "A), while the KLE cluster will be considered as the closest to the other parent (parent B)."),
+    "pre_kle_ohnologs": ("MH2015", "PMID26252497 fulltext, Results (duplication densities)",
+                         "Thus, a different species topology and a different duplication detection method do not alter "
+                         "the main result that the majority of ohnologs have apparently diverged before the expected "
+                         "WGD."),
+    "pre_kle_peak": ("MH2015", "PMID26252497 fulltext, Results",
+                     "We found that the pre-KLE duplication peak was more apparent in the subset of duplications "
+                     "leading to conserved pairs of ohnologs, which indicates that this ancestral duplication peak is "
+                     "indeed related to the observed WGD paralogous blocks"),
     "kle_split": ("MH2015", "PMID26252497 fulltext, Results",
                   "at the branch preceding the divergence between Saccharomyces and a clade containing the genera "
                   "Kluyveromyces, Lachancea, and Eremothecium"),
@@ -221,7 +231,7 @@ def main():
     L_HI = L_ZTW
     while st.parent(L_HI) != L_SAC:
         L_HI = st.parent(L_HI)
-    print(f"levels: PostWGD={L_POST} ZT+WGD={L_ZTW} WGD_lvl_hi={L_HI} Saccharomycetaceae={L_SAC} KLE={L_KLE} ZT={L_ZT}")
+    print(f"levels: PostWGD={L_POST} ZT+WGD={L_ZTW} WGD_lvl_hi={L_SAC} Saccharomycetaceae={L_SAC} KLE={L_KLE} ZT={L_ZT}")
 
     # ---- mapping indices
     idx = {c: load_index(c) for c in UPID if c in panel}
@@ -423,15 +433,9 @@ def build_unit(uid, ln, anc, mem, st, L_POST, L_ZTW, L_SAC, v1_by_outgene, entri
     zt = [m[3] for s in ZT for m in by_sp.get(s, [])]
     nodes, tags = [], set()
     n_assert_pairs = 0
-    # WGD interval upper bound: just below the youngest common ancestor of post-WGD with a KLE species present in
-    # this unit (= Saccharomycetaceae when KLE is monophyletic); without KLE genes: the panel-wide bound L_ZTW (L_HI)
-    hi = L_ZTW
-    kle_sp = [s for s in KLE if by_sp.get(s)]
-    if kle_sp:
-        b = max((st.lca(L_POST, s) for s in kle_sp), key=st.depth_of)
-        hi = L_POST
-        while st.parent(hi) != b:
-            hi = st.parent(hi)
+    # WGD interval (PI decision after Y02/MH2015): lvl_lo = PostWGD, lvl_hi = Saccharomycetaceae
+    # => merge in [ZT+WGD ancestor, parent(Saccharomycetaceae)]
+    hi = L_SAC
     WGD_ATTR = dict(lvl_lo=L_POST, lvl_hi=hi, tag="WGD", tier="T2", src="YGOBv7")
 
     def node(ev, kids, nid, **attr):
@@ -527,7 +531,20 @@ def build_unit(uid, ln, anc, mem, st, L_POST, L_ZTW, L_SAC, v1_by_outgene, entri
         kle_kids = kle
     else:
         kle_kids = [kle_node] if kle_node else []
-    if kle_kids and ztw:
+    has_wgd = any(isinstance(c, dict) and c["ev"] == "D" for c in post_children)
+    if kle_kids and ztw and has_wgd:
+        # ohnologs may split above Saccharomycetaceae: KLE vs post-WGD unasserted; KLE vs ZT stay orthologs
+        if zt_node is not None:
+            kz = node("S", kle_kids + [zt_node], f"{uid}_KLE_ZT", tier="T2", src="YGOBv7")
+            nodes.append(dict(assertion_id=f"{uid}_KLE_ZT", type="event", target=f"{uid}_KLE_ZT",
+                              genes="KLE x ZT", tier="T2", source_id="YGOBv7", what="S_Saccharomycetaceae_KLE_ZT",
+                              locator=f"{V7.name}:line {ln}", quote_key="pre_wgd_tracks",
+                              quote=QUOTES["pre_wgd_tracks"][2]))
+            n_assert_pairs += 1
+            root = node("U", [kz] + post_children, f"{uid}_root", tier="T2", src="YGOBv7")
+        else:
+            root = node("U", kle_kids + post_children, f"{uid}_root", tier="T2", src="YGOBv7")
+    elif kle_kids and ztw:
         root = node("S", kle_kids + [ztw], f"{uid}_root", tier="T2", src="YGOBv7")
         nodes.append(dict(assertion_id=f"{uid}_root", type="event", target=f"{uid}_root",
                           genes="KLE x (ZT,post-WGD)", tier="T2", source_id="YGOBv7", what="S_Saccharomycetaceae",
@@ -628,8 +645,8 @@ def write_collection_yaml(stats, L_POST, L_ZTW, L_SAC, mstat, nlines, partial):
         stats=dict(sorted(stats.items())),
         mapping=sorted([f"{s}:{st}={n}" for (s, st), n in mstat.items()]),
         complete_species=[], protocol_version=1,
-        notes="Encoding per SYNTHESIS A2/ME-2 (allopolyploid WGD): ohnologs D[lvl_lo=PostWGD,lvl_hi=ZT+WGD]; "
-              "KLE vs post-WGD orthologs at Saccharomycetaceae (root S); ZT vs post-WGD unasserted (U); "
+        notes="Encoding per SYNTHESIS A2/ME-2 + PI decision (allopolyploid WGD): ohnologs D[lvl_lo=PostWGD,lvl_hi=Saccharomycetaceae]; "
+              "KLE vs post-WGD orthologs at Saccharomycetaceae only in units without a WGD D node (else U); ZT vs post-WGD unasserted (U); "
               "cross-species post-WGD pairs asserted only where YGOB v1 tracks resolve YEAST/CANGA.")
     (FAM / "collection.yaml").write_text(yaml.safe_dump(meta, sort_keys=False, allow_unicode=True))
 

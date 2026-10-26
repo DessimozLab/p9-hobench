@@ -108,7 +108,8 @@ stats:
   node:event:D_WGD_ohnolog_pair: 1341
   node:event:D_WGD_pseudoortholog: 49
   node:event:D_WGD_tracks: 201
-  node:event:S_Saccharomycetaceae: 1963
+  node:event:S_Saccharomycetaceae: 1432
+  node:event:S_Saccharomycetaceae_KLE_ZT: 525
   node:event:S_preWGD: 3835
   node:event:S_same_track: 1189
   tag:LOSS: 486
@@ -159,6 +160,7 @@ mapping:
 - ZYGRC:unmapped=18
 complete_species: []
 protocol_version: 1
-notes: 'Encoding per SYNTHESIS A2/ME-2 (allopolyploid WGD): ohnologs D[lvl_lo=PostWGD,lvl_hi=ZT+WGD];
-  KLE vs post-WGD orthologs at Saccharomycetaceae (root S); ZT vs post-WGD unasserted
-  (U); cross-species post-WGD pairs asserted only where YGOB v1 tracks resolve YEAST/CANGA.'
+notes: 'Encoding per SYNTHESIS A2/ME-2 + PI decision (allopolyploid WGD): ohnologs
+  D[lvl_lo=PostWGD,lvl_hi=Saccharomycetaceae]; KLE vs post-WGD orthologs at Saccharomycetaceae
+  only in units without a WGD D node (else U); ZT vs post-WGD unasserted (U); cross-species
+  post-WGD pairs asserted only where YGOB v1 tracks resolve YEAST/CANGA.'
