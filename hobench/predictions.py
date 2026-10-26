@@ -5,14 +5,16 @@ mapping ``gene -> HOG id at L`` (only for genes of species below ``L``), plus th
 every HOG. Leaf (species) levels are implicit: every gene is its own HOG there.
 
 To keep memory bounded on whole-proteome outputs, parsers accept ``keep_genes``: only those
-genes' memberships are stored, but HOG sizes always count *all* genes (needed for the
-contamination metric). The evaluator passes the union of all reference members and decoys.
+genes' memberships are stored, but HOG sizes always count *all* genes; per-HOG gene counts
+are also recorded for the species in ``count_species`` (declared-complete species, needed for
+membership precision). The evaluator passes the union of all reference members and decoys.
 
-Parsers
+Parsers (all strict by default: inconsistencies raise :class:`PredictionError`)
 -------
-* :func:`read_orthoxml` — OrthoXML 0.3/0.5 (FastOMA, OMA). Level-induction follows pyHam
-  (see the function docstring and ``design/ENGINEERING_NOTES.md``).
-* :func:`read_orthofinder` — OrthoFinder ``Phylogenetic_Hierarchical_Orthogroups/N*.tsv``.
+* :func:`read_orthoxml` — OrthoXML 0.3/0.5 (FastOMA, OMA). Levels are mapped by clade
+  species set; duplication placement ``declared`` (default) or ``late`` (pyHam).
+* :func:`read_orthofinder` — OrthoFinder ``Phylogenetic_Hierarchical_Orthogroups/N*.tsv``
+  (root level from ``Orthogroups/Orthogroups.tsv`` when there is no ``N0.tsv``).
 * :func:`read_tsv` — simple ``level, hog_id, gene[, species]`` table.
 """
 from __future__ import annotations
@@ -23,11 +25,13 @@ import re
 from collections import Counter, defaultdict
 from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Callable, Iterable, Optional
+from typing import Iterable, Optional
 
 from .ids import Normalizer, make_normalizer
-from .newick import read_newick
+from .newick import Node, read_newick
 from .speciestree import SpeciesTree
+
+DUP_PLACEMENTS = ("declared", "late")
 
 
 class PredictionError(ValueError):
@@ -40,15 +44,17 @@ class Prediction:
     sizes: dict[str, dict[str, int]] = field(default_factory=dict)    # level -> hog -> n genes (all)
     gene_species: dict[str, str] = field(default_factory=dict)        # kept genes only
     meta: dict = field(default_factory=dict)
+    count_species: set[str] = field(default_factory=set)              # species counted per HOG
+    hog_species: dict[str, dict[str, dict[str, int]]] = field(default_factory=dict)  # level -> hog -> sp -> n
     _members: Optional[dict[str, dict[str, list[str]]]] = field(default=None, repr=False)
 
-    def add(self, level: str, hog: str, gene: Optional[str], strict: bool = True) -> None:
+    def add(self, level: str, hog: str, gene: Optional[str], strict: bool = True,
+            species: Optional[str] = None) -> None:
         """Register a gene in a HOG; ``gene=None`` only increments the HOG size (gene not kept).
+        ``species`` (the gene's species) is needed for species in ``count_species``.
 
-        A gene may belong to only one HOG per level. On a second, different assignment we raise
-        (``strict``) or keep the first one and count it in ``meta['membership_conflicts']``."""
-        self.sizes.setdefault(level, {})
-        self.sizes[level][hog] = self.sizes[level].get(hog, 0) + 1
+        A gene may belong to only one HOG per level: a second, different assignment raises
+        (``strict``) or keeps the first one and is counted in ``meta['membership_conflicts']``."""
         if gene is not None:
             lv = self.levels.setdefault(level, {})
             if gene in lv and lv[gene] != hog:
@@ -58,6 +64,11 @@ class Prediction:
                 self.meta["membership_conflicts"] = self.meta.get("membership_conflicts", 0) + 1
                 return
             lv[gene] = hog
+        self.sizes.setdefault(level, {})
+        self.sizes[level][hog] = self.sizes[level].get(hog, 0) + 1
+        if species is not None and species in self.count_species:
+            d = self.hog_species.setdefault(level, {}).setdefault(hog, {})
+            d[species] = d.get(species, 0) + 1
         self._members = None
 
     def hog(self, level: str, gene: str) -> Optional[str]:
@@ -85,17 +96,24 @@ class Prediction:
         return out
 
     def check(self, st: SpeciesTree) -> list[str]:
-        """Return problems: genes at a level their species is not below, non-nested HOGs."""
+        """Return problems: unknown levels, genes at a level their species is not below
+        (both fatal for scoring), and non-nested HOGs (informational; scored as given)."""
+        return self.fatal_problems(st) + self.nesting_problems(st)
+
+    def fatal_problems(self, st: SpeciesTree) -> list[str]:
         problems = []
         for lv, m in self.levels.items():
-            if lv not in st:
-                problems.append(f"level {lv!r} not in species tree")
+            if lv not in st or st.is_species(lv):
+                problems.append(f"level {lv!r} is not an internal level of the species tree")
                 continue
             clade = st.clade_species(lv)
             bad = [g for g in m if g in self.gene_species and self.gene_species[g] not in clade]
             if bad:
                 problems.append(f"level {lv!r}: {len(bad)} gene(s) whose species is not below it, e.g. {bad[:3]}")
-        # nesting: a HOG at L maps into a single HOG at parent(L)
+        return problems
+
+    def nesting_problems(self, st: SpeciesTree) -> list[str]:
+        problems = []
         for lv, m in self.levels.items():
             if lv not in st:
                 continue
@@ -143,7 +161,25 @@ class _H:
 class _G:
     gene: Optional[str]   # normalised ID, or None if not kept
     level: int            # species index
+    species: str
     dup: object = None
+
+
+def _clade_level_map(tool_root: Node, st: SpeciesTree, species_map: dict[str, str]) -> dict[str, int]:
+    """Map every node name of a tool's species tree/taxonomy to our level with the same clade
+    species set (names of nodes with no matching clade are absent)."""
+    out: dict[str, int] = {}
+    sets: dict[int, frozenset] = {}
+    for nd in tool_root.postorder():
+        if nd.is_leaf:
+            sets[id(nd)] = frozenset([species_map.get(nd.name, nd.name)])
+        else:
+            sets[id(nd)] = frozenset().union(*(sets[id(c)] for c in nd.children))
+        if nd.name:
+            ours = st.find_clade(sets[id(nd)]) if sets[id(nd)] <= set(st.species) else None
+            if ours is not None:
+                out[nd.name] = st.idx(ours)
+    return out
 
 
 def read_orthoxml(
@@ -154,73 +190,94 @@ def read_orthoxml(
     species_map: Optional[dict[str, str]] = None,
     level_map: Optional[dict[str, str]] = None,
     keep_genes: Optional[set[str]] = None,
-    strict: bool = False,
+    count_species: Optional[set[str]] = None,
+    tool_species_tree: Optional[str | Path] = None,
+    dup_placement: str = "declared",
+    strict: bool = True,
     ignore_unknown_species: bool = False,
 ) -> Prediction:
     """Parse OrthoXML (0.3 / 0.5) into a :class:`Prediction`, inducing HOGs at skipped levels.
 
-    **Level of a group.** An ``orthologGroup``'s level is, in order of preference, the name of
-    its ``taxonId`` in the file's ``<taxonomy>`` (OrthoXML 0.5), its ``TaxRange`` property
-    (``level_map`` can rename either), or the MRCA of its children (as pyHam does). A
-    ``geneRef`` sits at its species.
+    **Level of a group (E2).** Level *names* in the file (``taxonId`` → ``<taxonomy>`` name, or
+    the ``TaxRange`` property) are mapped to our levels **by clade species set**, using the
+    tool's own species tree: ``tool_species_tree`` (e.g. FastOMA's
+    ``species_tree_checked.nwk``) if given, else the file's ``<taxonomy>``, else our tree (by
+    name). ``level_map`` renames before lookup. Any name that cannot be mapped is a hard error.
+    A group with no level annotation gets the MRCA of its children (pyHam).
 
-    **Level induction (pyHam semantics).** A HOG exists at every level between a group's level
-    and the level of the group/gene below it:
+    **Duplication placement (E1).** ``declared`` (default): a ``paralogGroup`` inside a group
+    declared at level ``X`` is a duplication just below ``X``; each copy gets its own chain of
+    induced HOGs below ``X``. ``late`` (pyHam, sensitivity analysis): the duplication sits at
+    ``M = parent(MRCA(copy levels))``; if ``M`` is below ``X`` an induced HOG at ``M`` holds the
+    copies. Groups where the two readings differ are counted in
+    ``meta['dup_placement_ambiguous']``. Directly nested paralogGroups are one duplication.
 
-    1. *Duplications.* All copies of one ``paralogGroup`` (directly nested paralogGroups are
-       one duplication, as in pyHam) duplicated on the branch just above the MRCA of the
-       copies' levels: the duplication's level is ``M = parent(MRCA(copy levels))`` (pyHam's
-       ``DuplicationNode.set_MRCA``). If ``M`` is below the enclosing group's level ``X``, an
-       induced HOG at ``M`` holds the copies (they are together at ``M`` and above). Each copy
-       then gets its own chain of induced single-lineage HOGs from below ``M`` down to its own
-       level: copies are never together below ``M``. If ``M`` is above ``X`` the file is
-       inconsistent (pyHam raises); with ``strict=False`` we place the duplication at ``X`` and
-       record a warning.
-    2. *Skipped levels (non-paralog children).* Children of a HOG at ``X`` that are not
-       paralog copies and lie strictly below the same child level ``C`` of ``X`` are grouped
-       into one induced HOG at ``C`` (recursively), like pyHam's ``_resolve_missing_levels``:
-       no duplication was recorded between them, so they descend from one gene at ``C``.
-       Children sitting exactly at ``C`` remain separate HOGs at ``C``.
-    3. A child group at the same level as its parent is spliced into the parent (pyHam
-       collapses such "same-level" HOGs).
+    **Skipped levels.** Non-paralog children lying strictly below the same child level ``C``
+    of a group share one induced HOG at ``C`` (no duplication was recorded between them);
+    children exactly at ``C`` remain separate HOGs (pyHam ``_resolve_missing_levels``). A child
+    group at the same level as its parent, or a group declared at a species, is spliced in.
 
-    Each explicit or induced HOG node at level ``L`` yields one HOG at ``L`` whose genes are all
-    genes below that node.
+    With ``strict`` (default) inconsistencies raise: a declared level not above its members,
+    a duplication older than its group, a geneRef to an unknown gene, a gene in two groups.
+    ``strict=False`` repairs them and records warnings (sensitivity use only).
     """
     from lxml import etree
 
+    if dup_placement not in DUP_PLACEMENTS:
+        raise PredictionError(f"dup_placement must be one of {DUP_PLACEMENTS}")
     norm = make_normalizer(normalize)
     species_map = species_map or {}
     level_map = level_map or {}
-    pred = Prediction(meta={"format": "orthoxml", "source": str(path)})
+    pred = Prediction(meta={"format": "orthoxml", "source": str(path), "dup_placement": dup_placement},
+                      count_species=set(count_species or ()))
     warnings: list[str] = []
-    gene_info: dict[str, tuple[Optional[str], int]] = {}  # xml gene id -> (kept norm id, species idx)
+    gene_info: dict[str, tuple[Optional[str], int, str]] = {}
     taxon_names: dict[str, str] = {}
     unknown_species: set[str] = set()
     current_species: Optional[str] = None
     hog_counter = itertools.count()
     stats = Counter()
+    name_to_level: Optional[dict[str, int]] = None
+    if tool_species_tree is not None:
+        name_to_level = _clade_level_map(read_newick(Path(tool_species_tree).read_text()), st, species_map)
+        pred.meta["level_mapping"] = f"clade sets from {tool_species_tree}"
+    taxonomy_root: Optional[Node] = None
+    taxon_stack: list[Node] = []
+
+    def problem(msg: str) -> None:
+        if strict:
+            raise PredictionError(f"{path}: {msg}")
+        warnings.append(msg)
 
     def level_idx(name: Optional[str]) -> Optional[int]:
         if name is None:
             return None
         name = level_map.get(name, name)
-        return st.index.get(name)
+        if name_to_level is not None:
+            if name in name_to_level:
+                return name_to_level[name]
+        elif name in st.index:
+            return st.index[name]
+        raise PredictionError(f"{path}: level {name!r} cannot be mapped to a level of the panel species tree "
+                              f"(by clade species set); check the species tree given to the tool")
 
-    # ---- tree building helpers ----
     def parse_group(el) -> Optional[_H]:
         items: list = []
         props: dict[str, str] = {}
+
+        def gene_item(ch, dupkey):
+            gi = gene_info.get(ch.get("id"))
+            if gi is None:
+                problem(f"geneRef id={ch.get('id')!r} does not refer to a gene of a panel species")
+                stats["generef_unknown"] += 1
+                return
+            items.append(_G(gi[0], gi[1], gi[2], dupkey))
 
         def collect(e, dupkey):
             for ch in e:
                 t = _local(ch.tag)
                 if t == "geneRef":
-                    gi = gene_info.get(ch.get("id"))
-                    if gi is None:
-                        stats["generef_unknown"] += 1
-                        continue
-                    items.append(_G(gi[0], gi[1], dupkey))
+                    gene_item(ch, dupkey)
                 elif t == "orthologGroup":
                     h = parse_group(ch)
                     if h is not None:
@@ -234,11 +291,7 @@ def read_orthoxml(
             if t == "property":
                 props[ch.get("name")] = ch.get("value")
             elif t == "geneRef":
-                gi = gene_info.get(ch.get("id"))
-                if gi is None:
-                    stats["generef_unknown"] += 1
-                    continue
-                items.append(_G(gi[0], gi[1], None))
+                gene_item(ch, None)
             elif t == "orthologGroup":
                 h = parse_group(ch)
                 if h is not None:
@@ -251,34 +304,30 @@ def read_orthoxml(
         child_levels = [it.level for it in items]
         lvl = None
         if el.get("taxonId") is not None:
-            lvl = level_idx(taxon_names.get(el.get("taxonId")))
+            tname = taxon_names.get(el.get("taxonId"))
+            if tname is None:
+                raise PredictionError(f"{path}: group {el.get('id')!r}: taxonId {el.get('taxonId')!r} "
+                                      f"is not in the file's <taxonomy>")
+            lvl = level_idx(tname)
         if lvl is None:
             for key in ("TaxRange", "taxid"):
                 if props.get(key) is not None:
                     lvl = level_idx(props[key])
-                    if lvl is not None:
-                        break
-                    stats["taxrange_unknown"] += 1
+                    break
         mrca = st.lca_index(child_levels)
         if lvl is None:
-            # pyHam: a single child level -> its parent; otherwise the MRCA of the children
+            stats["level_from_mrca"] += 1
             if len(set(child_levels)) == 1:
                 lvl = int(st.parent_idx[mrca]) if st.parent_idx[mrca] >= 0 else mrca
             else:
                 lvl = mrca
         elif not st.anc[lvl, mrca]:
-            msg = (f"group {el.get('id')!r}: declared level {st.names[lvl]!r} is not above all its "
-                   f"members (their MRCA is {st.names[mrca]!r})")
-            if strict:
-                raise PredictionError(msg)
-            warnings.append(msg)
+            problem(f"group {el.get('id')!r}: declared level {st.names[lvl]!r} is not above all its "
+                    f"members (their MRCA is {st.names[mrca]!r})")
             lvl = mrca
         if st.is_leaf[lvl]:
-            # a group declared at a species (in-paralogs of one species): transparent, its genes
-            # are spliced into the enclosing group (our leaf levels are implicit singletons)
             stats["species_level_groups"] += 1
             return _H(level=lvl, children=items)
-        # same-level (or species-level) child groups: splice
         spliced = []
         for it in items:
             if isinstance(it, _H) and (it.level == lvl or st.is_leaf[it.level]):
@@ -289,8 +338,7 @@ def read_orthoxml(
                     spliced.append(c)
             else:
                 spliced.append(it)
-        items = spliced
-        node = _H(level=lvl, children=items)
+        node = _H(level=lvl, children=spliced)
         place_duplications(node)
         fill_levels(node)
         return node
@@ -304,26 +352,23 @@ def read_orthoxml(
             m = st.lca_index(c.level for c in copies)
             M = int(st.parent_idx[m])
             if M < 0 or not st.anc[node.level, M]:
-                msg = (f"duplication with copies at {sorted({st.names[c.level] for c in copies})} predates "
-                       f"its enclosing group at {st.names[node.level]!r}; placed just below the group")
-                if strict:
-                    raise PredictionError(msg)
-                warnings.append(msg)
+                problem(f"duplication with copies at {sorted({st.names[c.level] for c in copies})} predates "
+                        f"its enclosing group at {st.names[node.level]!r}")
                 M = node.level
             if M != node.level:
-                ind = _H(level=M, children=copies)
-                node.children = [c for c in node.children if c.dup is not key] + [ind]
-                fill_levels(ind)
+                stats["dup_placement_ambiguous"] += 1
+                if dup_placement == "late":
+                    ind = _H(level=M, children=copies)
+                    node.children = [c for c in node.children if c.dup is not key] + [ind]
+                    fill_levels(ind)
 
     def child_toward(parent_level: int, lvl: int) -> int:
-        """The child of ``parent_level`` on the path down to ``lvl``."""
         cur = lvl
         while st.parent_idx[cur] != parent_level:
             cur = int(st.parent_idx[cur])
         return cur
 
     def chain(item, parent_level: int):
-        """Wrap ``item`` in single-lineage induced HOGs up to (excluding) ``parent_level``."""
         cur = item
         p = int(st.parent_idx[cur.level])
         while p != parent_level:
@@ -354,14 +399,11 @@ def read_orthoxml(
         node.children = new_children
 
     def emit(root: _H) -> None:
-        """Assign ids to every node and record memberships; returns via pred."""
         stack = [(root, False)]
         genes_below: dict[int, list] = {}
         order = []
         while stack:  # postorder
             nd, done = stack.pop()
-            if isinstance(nd, _G):
-                continue
             if done:
                 order.append(nd)
             else:
@@ -371,19 +413,17 @@ def read_orthoxml(
             gl: list = []
             for c in nd.children:
                 if isinstance(c, _G):
-                    gl.append(c.gene)
+                    gl.append((c.gene, c.species))
                 else:
                     gl.extend(genes_below.pop(id(c)))
             genes_below[id(nd)] = gl
             hid = f"H{next(hog_counter)}"
             lvname = st.names[nd.level]
-            for g in gl:
-                pred.add(lvname, hid, g, strict=False)
+            for g, s in gl:
+                pred.add(lvname, hid, g, strict=strict, species=s)
             stats["hogs"] += 1
 
-    # ---- streaming parse ----
     context = etree.iterparse(str(path), events=("start", "end"), huge_tree=True, remove_comments=True)
-    taxon_stack: list = []
     for event, el in context:
         t = _local(el.tag)
         if event == "start":
@@ -394,19 +434,29 @@ def read_orthoxml(
                     unknown_species.add(name)
             elif t == "taxon":
                 taxon_names[el.get("id")] = el.get("name")
+                nd = Node(el.get("name"))
+                if taxon_stack:
+                    taxon_stack[-1].add_child(nd)
+                taxon_stack.append(nd)
             continue
-        # end events
-        if t == "gene":
+        if t == "taxon":
+            nd = taxon_stack.pop()
+            if not taxon_stack:
+                taxonomy_root = nd
+                if name_to_level is None:
+                    name_to_level = _clade_level_map(taxonomy_root, st, species_map)
+                    pred.meta["level_mapping"] = "clade sets from the file's <taxonomy>"
+        elif t == "gene":
             if current_species is None:
                 continue
             raw = el.get(id_attr) or el.get("protId") or el.get("geneId") or el.get("id")
             if current_species in st.index and st.is_leaf[st.index[current_species]]:
                 gid = norm(raw)
                 kept = _keep(keep_genes, gid)
-                gene_info[el.get("id")] = (kept, st.index[current_species])
+                gene_info[el.get("id")] = (kept, st.index[current_species], current_species)
                 if kept is not None:
                     if kept in pred.gene_species and pred.gene_species[kept] != current_species:
-                        warnings.append(f"gene ID {kept!r} occurs in two species")
+                        problem(f"gene ID {kept!r} occurs in two species")
                     pred.gene_species[kept] = current_species
             el.clear()
         elif t == "species":
@@ -419,6 +469,9 @@ def read_orthoxml(
                     raise PredictionError(
                         f"{path}: species not in the species tree: {sorted(unknown_species)[:10]} "
                         f"(use species_map or ignore_unknown_species=True)")
+                if name_to_level is None:
+                    pred.meta["level_mapping"] = "names of the panel species tree"
+                    name_to_level = None  # name lookup in our tree
                 roots = [el] if t == "orthologGroup" else [c for c in el if _local(c.tag) == "orthologGroup"]
                 for r in roots:
                     h = parse_group(r)
@@ -428,13 +481,15 @@ def read_orthoxml(
                 while el.getprevious() is not None:
                     del parent[0]
     pred.meta.update({"warnings": warnings, "stats": dict(stats),
+                      "dup_placement_ambiguous": stats.get("dup_placement_ambiguous", 0),
                       "unknown_species": sorted(unknown_species)})
     return pred
 
 
 # ========================================================================= OrthoFinder
 def _find_of_files(path: Path) -> tuple[Path, Optional[Path]]:
-    """Locate the HOG directory and the rooted species tree with node labels."""
+    """Locate the HOG directory and the rooted species tree with node labels (the
+    orthogroups file is ``<hog_dir>/../Orthogroups/Orthogroups.tsv``)."""
     p = Path(path)
     if p.is_file():
         hog_dir = p.parent
@@ -458,29 +513,27 @@ def read_orthofinder(
     normalize: str | Normalizer | None = "auto",
     species_map: Optional[dict[str, str]] = None,
     keep_genes: Optional[set[str]] = None,
-    induce_missing_levels: bool = True,
+    count_species: Optional[set[str]] = None,
+    allow_induced_levels: bool = False,
     orthogroups: Optional[str | Path] = None,
 ) -> Prediction:
     """Parse OrthoFinder (v2.5/3.x) ``Phylogenetic_Hierarchical_Orthogroups/N*.tsv``.
 
-    ``path`` may be the results directory, the HOG directory, or one ``N*.tsv`` file (then the
-    other files in that directory are read too). Each ``Nk.tsv`` lists the HOGs at OrthoFinder
-    species-tree node ``Nk`` (columns ``HOG``, ``OG``, ``Gene Tree Parent Clade``, then one
-    column per species with ``", "``-separated gene IDs). ``Nk`` is mapped to *our* level whose
-    clade has exactly the same species set, using OrthoFinder's
+    ``path`` may be the results directory, the HOG directory, or one ``N*.tsv`` file. Each
+    ``Nk.tsv`` lists the HOGs at OrthoFinder node ``Nk`` (columns ``HOG``, ``OG``, ``Gene Tree
+    Parent Clade``, then one column per species with ``", "``-separated gene IDs). ``Nk`` is
+    mapped to *our* level with exactly the same clade species set, using
     ``Species_Tree/SpeciesTree_rooted_node_labels.txt`` (or ``of_species_tree``).
 
-    OrthoFinder 3.x writes no file for the root node (``N0``); root-level groups are then the
-    orthogroups of ``Orthogroups/Orthogroups.tsv`` (or ``orthogroups=``; columns
-    ``Orthogroup`` then one per species). We check that every ``N*`` HOG is contained in the
-    orthogroup named in its ``OG`` column; violations are counted in
-    ``meta['n_hogs_not_nested_in_og']``.
+    OrthoFinder 3.x writes no file for the root node; root-level groups are then the
+    orthogroups of ``Orthogroups/Orthogroups.tsv`` (or ``orthogroups=``). Every ``N*`` HOG must
+    lie inside the OG named in its ``OG`` column (``meta['n_hogs_not_nested_in_og']``).
 
-    Our levels without an exactly matching OrthoFinder clade (e.g. OrthoFinder's tree was
-    rooted/resolved differently) are, if ``induce_missing_levels``, induced from the HOGs at
-    the smallest OrthoFinder clade containing them, restricted to genes below the level (i.e.
-    we assume no duplication between the two levels, as for skipped levels in OrthoXML). This
-    is recorded in ``meta['induced_levels']``.
+    **E3.** Every internal level of our tree must match an OrthoFinder clade (run OrthoFinder
+    with ``-s <panel tree>``); otherwise this raises. With ``allow_induced_levels`` (perturbed
+    species-tree experiments only) unmatched levels are induced from the smallest
+    OrthoFinder clade containing them, restricted to their species, and listed in
+    ``meta['induced_levels']``.
     """
     norm = make_normalizer(normalize)
     species_map = species_map or {}
@@ -517,10 +570,9 @@ def read_orthofinder(
     if not files and not og_path.exists():
         raise PredictionError(f"no N*.tsv files in {hog_dir} and no {og_path}")
     pred = Prediction(meta={"format": "orthofinder", "source": str(hog_dir), "of_to_ours": of_to_ours,
-                            "unmatched_of_nodes": unmatched_of})
+                            "unmatched_of_nodes": unmatched_of}, count_species=set(count_species or ()))
 
     def read_table(f: Path, first_species_col: int):
-        """Rows as (group id, {species: [genes]}) and, for HOG files, the OG column."""
         rows, og_of = [], {}
         with open(f, newline="") as fh:
             rd = csv.reader(fh, delimiter="\t")
@@ -539,7 +591,7 @@ def read_orthofinder(
                     og_of[row[0]] = row[1]
         return rows, og_of
 
-    of_hogs: dict[str, list[tuple[str, dict[str, list[str]]]]] = {}
+    of_hogs: dict[str, list] = {}
     og_column: dict[str, dict[str, str]] = {}
     for f in files:
         if f.stem in of_clades:
@@ -571,26 +623,27 @@ def read_orthofinder(
                     continue
                 for g in genes:
                     kept = _keep(keep_genes, g)
-                    pred.add(level, hid, kept, strict=False)
+                    pred.add(level, hid, kept, strict=True, species=s)
                     if kept is not None:
                         pred.gene_species[kept] = s
 
     for n, rows in of_hogs.items():
         if n in of_to_ours:
             add_hogs(of_to_ours[n], rows)
+    mapped = {of_to_ours[n] for n in of_hogs if n in of_to_ours}
+    missing = [lv for lv in st.levels if lv not in mapped]
     induced = {}
-    if induce_missing_levels:
-        mapped = {of_to_ours[n] for n in of_hogs if n in of_to_ours}
-        for lv in st.levels:
-            if lv in mapped:
-                continue
-            clade = st.clade_species(lv)
-            cands = [n for n in of_hogs if of_clades[n] >= clade]
-            if not cands:
-                continue
-            best = min(cands, key=lambda n: len(of_clades[n]))
-            induced[lv] = best
-            add_hogs(lv, of_hogs[best], restrict=clade, prefix=f"{lv}<")
+    if missing and not allow_induced_levels:
+        raise PredictionError(f"OrthoFinder output has no clade matching our level(s) {missing[:10]}; run "
+                              f"OrthoFinder with -s <panel tree> (or allow_induced_levels for perturbed-tree runs)")
+    for lv in missing:
+        clade = st.clade_species(lv)
+        cands = [n for n in of_hogs if of_clades[n] >= clade]
+        if not cands:
+            raise PredictionError(f"no OrthoFinder clade contains level {lv!r}")
+        best = min(cands, key=lambda n: len(of_clades[n]))
+        induced[lv] = best
+        add_hogs(lv, of_hogs[best], restrict=clade, prefix=f"{lv}<")
     pred.meta["induced_levels"] = induced
     return pred
 
@@ -601,13 +654,14 @@ def read_tsv(
     st: Optional[SpeciesTree] = None,
     normalize: str | Normalizer | None = "identity",
     keep_genes: Optional[set[str]] = None,
+    count_species: Optional[set[str]] = None,
     gene_species: Optional[dict[str, str]] = None,
 ) -> Prediction:
     """Read the simple baseline format: tab-separated ``level, hog_id, gene[, species]``
     with an optional header line starting with ``level``. HOG ids only need to be unique
-    within a level."""
+    within a level. The species column is required when ``count_species`` is non-empty."""
     norm = make_normalizer(normalize)
-    pred = Prediction(meta={"format": "tsv", "source": str(path)})
+    pred = Prediction(meta={"format": "tsv", "source": str(path)}, count_species=set(count_species or ()))
     with open(path, newline="") as fh:
         for i, row in enumerate(csv.reader(fh, delimiter="\t")):
             if not row or row[0].startswith("#"):
@@ -619,13 +673,13 @@ def read_tsv(
             level, hog, gene = row[0], row[1], norm(row[2])
             if st is not None and level not in st:
                 raise PredictionError(f"{path}:{i + 1}: unknown level {level!r}")
+            species = row[3] if len(row) > 3 and row[3] else (gene_species or {}).get(gene)
+            if pred.count_species and species is None:
+                raise PredictionError(f"{path}:{i + 1}: species column required (complete-species counting)")
             kept = _keep(keep_genes, gene)
-            pred.add(level, hog, kept, strict=False)
-            if kept is not None and len(row) > 3 and row[3]:
-                pred.gene_species[kept] = row[3]
-    if gene_species:
-        for g in pred.genes():
-            pred.gene_species.setdefault(g, gene_species.get(g, ""))
+            pred.add(level, hog, kept, strict=True, species=species)
+            if kept is not None and species:
+                pred.gene_species[kept] = species
     return pred
 
 

@@ -64,8 +64,8 @@ def test_flat_group_induces_all_levels(st, tmp_path, fams, fam_by_id):
     assert pred.check(st) == []
     assert pred.gene_species["DANRE_a"] == "DANRE"
     # on F1 this equals the species-tree-shaped prediction: 9/10 pairs (pseudo-orthologs wrong)
-    r = evaluate_family(fam_by_id["F1"], st, pred, panel_context(fams))
-    assert r["pair_merge"]["accuracy"] == pytest.approx(0.9)
+    r = evaluate_family(fam_by_id["F1"], st, pred, panel_context(fams, st))
+    assert r["pair_merge"]["accuracy_pairs"] == pytest.approx(0.9)
 
 
 def test_paralog_group_dup_at_enclosing_level(st, tmp_path):
@@ -83,23 +83,56 @@ def test_paralog_group_dup_at_enclosing_level(st, tmp_path):
     assert "Euteleostomi" not in pred.levels
 
 
-def test_paralog_group_dup_below_enclosing_level(st, tmp_path):
-    """Group at Euteleostomi: DANRE_g, MOUSE_z, CHICK_c and paralogGroup(HUMAN_x, HUMAN_y).
-    Copies are both HUMAN -> duplication level parent(HUMAN) = Mammalia, below the enclosing
-    Euteleostomi: an induced HOG at Mammalia holds {HUMAN_x, HUMAN_y} (pyHam's MRCA HOG).
-    It sits exactly at a child level of Amniota, so (as in pyHam) MOUSE_z gets its own
-    Mammalia HOG; at Amniota the Mammalia HOG, MOUSE_z and CHICK_c are grouped (no
-    duplication recorded between them); DANRE_g alone at Teleostei."""
+def test_paralog_group_dup_placement_declared_vs_late(st, tmp_path):
+    """Group declared at Euteleostomi: DANRE_g, MOUSE_z, CHICK_c and paralogGroup(HUMAN_x, HUMAN_y).
+
+    declared (E1, primary): the duplication is just below the declared level Euteleostomi, so
+    each copy has its own chain: HUMAN_x and HUMAN_y are apart at Amniota and Mammalia (merge
+    Euteleostomi); MOUSE_z and CHICK_c (non-paralogs strictly below Amniota) share an Amniota HOG.
+    late (pyHam): copies are both HUMAN -> duplication at parent(HUMAN) = Mammalia: an induced
+    Mammalia HOG holds both; MOUSE_z gets its own Mammalia HOG (pyHam); Amniota groups all four.
+    The readings differ -> dup_placement_ambiguous = 1."""
     p = orthoxml(tmp_path, ["HUMAN_x", "HUMAN_y", "MOUSE_z", "CHICK_c", "DANRE_g"],
                  f"<orthologGroup>{tr('Euteleostomi')}{{DANRE_g}}<paralogGroup>{{HUMAN_x}}{{HUMAN_y}}"
                  f"</paralogGroup>{{MOUSE_z}}{{CHICK_c}}</orthologGroup>")
-    pred = read_orthoxml(p, st)
-    assert same(pred, "Mammalia", "HUMAN_x", "HUMAN_y")
-    assert not same(pred, "Mammalia", "HUMAN_x", "MOUSE_z")
-    assert same(pred, "Amniota", "HUMAN_x", "MOUSE_z") and same(pred, "Amniota", "HUMAN_y", "CHICK_c")
-    assert pred.hog("Teleostei", "DANRE_g") is not None
-    assert len(set(pred.levels["Euteleostomi"].values())) == 1
-    assert pred.sizes["Amniota"][pred.hog("Amniota", "HUMAN_x")] == 4
+    d = read_orthoxml(p, st)
+    assert d.meta["dup_placement"] == "declared" and d.meta["dup_placement_ambiguous"] == 1
+    assert not same(d, "Amniota", "HUMAN_x", "HUMAN_y") and not same(d, "Mammalia", "HUMAN_x", "HUMAN_y")
+    assert same(d, "Amniota", "MOUSE_z", "CHICK_c") and not same(d, "Amniota", "HUMAN_x", "MOUSE_z")
+    assert same(d, "Euteleostomi", "HUMAN_x", "HUMAN_y")
+    late = read_orthoxml(p, st, dup_placement="late")
+    assert same(late, "Mammalia", "HUMAN_x", "HUMAN_y") and not same(late, "Mammalia", "HUMAN_x", "MOUSE_z")
+    assert same(late, "Amniota", "HUMAN_x", "MOUSE_z") and same(late, "Amniota", "HUMAN_y", "CHICK_c")
+    assert late.sizes["Amniota"][late.hog("Amniota", "HUMAN_x")] == 4
+    assert late.meta["dup_placement_ambiguous"] == 1
+
+
+def test_clade_level_mapping_E2(tmp_path):
+    """FastOMA renames short level names (KE -> internal_0). Levels are mapped by clade species
+    set via the file's <taxonomy> (or the tool tree), so our 'KE' is found; an unknown TaxRange
+    is a hard error."""
+    our = SpeciesTree.from_newick("((YEAST,CANGA)PostWGD,(KLULA,ASHGO)KE)Sacch;")
+    pred = read_orthoxml(FIX / "fastoma_excerpt.orthoxml", our)
+    assert "clade sets" in pred.meta["level_mapping"]
+    assert same(pred, "KE", "Q75A29", "Q6CL74") and same(pred, "PostWGD", "P10870", "Q6FNU3")
+    bad = tmp_path / "bad.orthoxml"
+    bad.write_text((FIX / "fastoma_excerpt.orthoxml").read_text().replace('value="internal_0"', 'value="Foo"')
+                   .replace('taxonId="5"', ""))
+    with pytest.raises(PredictionError, match="cannot be mapped"):
+        read_orthoxml(bad, our)
+    # explicit tool tree (species_tree_checked.nwk style) on a 0.3-style file without taxonomy
+    tool = tmp_path / "tool.nwk"
+    tool.write_text("((YEAST,CANGA)Saccharomycetaceae_WGD,(KLULA,ASHGO)internal_0)Saccharomycetaceae;")
+    nt = tmp_path / "notax.orthoxml"
+    txt = (FIX / "fastoma_excerpt.orthoxml").read_text()
+    import re
+    txt = re.sub(r"<taxonomy>.*?</taxonomy>", "", txt, flags=re.S)
+    txt = re.sub(r' taxonId="\d+"', "", txt)
+    nt.write_text(txt)
+    p2 = read_orthoxml(nt, our, tool_species_tree=tool)
+    assert same(p2, "KE", "Q75A29", "Q6CL74")
+    with pytest.raises(PredictionError, match="cannot be mapped"):
+        read_orthoxml(nt, our)   # names internal_0 / Saccharomycetaceae_WGD are not in our tree
 
 
 def test_nested_groups_and_v05_taxonomy(st, tmp_path, fams, fam_by_id):
@@ -115,8 +148,8 @@ def test_nested_groups_and_v05_taxonomy(st, tmp_path, fams, fam_by_id):
               '</paralogGroup></orthologGroup></orthologGroup>')
     genes = ["HUMAN_x", "MOUSE_x", "HUMAN_y", "MOUSE_y", "CHICK_g", "DANRE_g"]
     pred = read_orthoxml(orthoxml(tmp_path, genes, groups, taxonomy, version="0.5"), st)
-    r = evaluate_family(fam_by_id["F2"], st, pred, panel_context(fams))
-    assert r["pair_merge"]["accuracy"] == 1.0 and r["events"][0]["recovered"]
+    r = evaluate_family(fam_by_id["F2"], st, pred, panel_context(fams, st))
+    assert r["pair_merge"]["accuracy_pairs"] == 1.0 and r["events"][0]["recovered_0.8"]
 
 
 def test_level_from_mrca_when_unannotated(st, tmp_path):
@@ -135,15 +168,15 @@ def test_level_from_mrca_when_unannotated(st, tmp_path):
 def test_conflicts_and_unknown_species(st, tmp_path):
     p = orthoxml(tmp_path, ["HUMAN_1", "DANRE_1"],
                  f"<orthologGroup id='bad'>{tr('Mammalia')}{{HUMAN_1}}{{DANRE_1}}</orthologGroup>")
-    pred = read_orthoxml(p, st)  # lenient: falls back to the MRCA and records a warning
-    assert same(pred, "Euteleostomi", "HUMAN_1", "DANRE_1") and pred.meta["warnings"]
     with pytest.raises(PredictionError, match="declared level"):
-        read_orthoxml(p, st, strict=True)
+        read_orthoxml(p, st)                       # strict by default: no silent repair
+    pred = read_orthoxml(p, st, strict=False)      # sensitivity use: repaired + recorded
+    assert same(pred, "Euteleostomi", "HUMAN_1", "DANRE_1") and pred.meta["warnings"]
     st2 = SpeciesTree.from_newick("((HUMAN,MOUSE)Mammalia,CHICK)Amniota;")
     with pytest.raises(PredictionError, match="species not in the species tree"):
         read_orthoxml(p, st2)
-    pred2 = read_orthoxml(p, st2, ignore_unknown_species=True)
-    assert pred2.levels == {} or all(len(m) <= 1 for m in pred2.levels.values())
+    with pytest.raises(PredictionError, match="does not refer to a gene"):
+        read_orthoxml(p, st2, ignore_unknown_species=True)
 
 
 def test_keep_genes_and_sizes(st, tmp_path):
@@ -187,21 +220,26 @@ def test_fastoma_excerpt():
     assert not same(pred, "Saccharomycetaceae_WGD", "P10870", "Q12300")
     assert same(pred, "Saccharomycetaceae", "P10870", "Q12300")
     assert same(pred, "internal_0", "Q75A29", "Q6CL74")
-    # in-paralog group: paralogGroup of two KLULA genes directly in a root group (with a YEAST
-    # gene): duplication at parent(KLULA) = internal_0 -> induced HOG at internal_0
+    # in-paralog group: paralogGroup of two KLULA genes directly in a group declared at the root
+    # (with a YEAST gene). declared (E1): duplication just below the root -> the KLULA copies are
+    # apart at internal_0; late (pyHam): duplication at parent(KLULA) = internal_0 -> together.
     k1, k2, y = "Q6CR14", "Q6CVW9", "P22580"   # KLULA, KLULA, YEAST (AMDY_YEAST)
-    assert same(pred, "internal_0", k1, k2)
+    assert not same(pred, "internal_0", k1, k2) and same(pred, "Saccharomycetaceae", k1, k2)
+    assert pred.meta["dup_placement_ambiguous"] == 1
+    assert same(read_orthoxml(FIX / "fastoma_excerpt.orthoxml", st, dup_placement="late"), "internal_0", k1, k2)
     assert same(pred, "Saccharomycetaceae", k1, y) and pred.hog("internal_0", y) is None
     assert pred.hog("Saccharomycetaceae_WGD", y) is not None   # skipped level induced (singleton)
     fam = snf3_family()
-    r = evaluate_family(fam, st, pred, panel_context([fam]))
-    assert r["pair_merge"]["accuracy"] == 1.0 and r["events"][0]["recovered"]
+    r = evaluate_family(fam, st, pred, panel_context([fam], st))
+    assert r["pair_merge"]["accuracy_pairs"] == 1.0 and r["events"][0]["recovered_0.8"]
 
 
-def test_gene_in_two_root_groups_is_recorded_not_fatal(st, tmp_path):
+def test_gene_in_two_root_groups(st, tmp_path):
     p = orthoxml(tmp_path, ["HUMAN_1", "MOUSE_1", "CHICK_1"],
                  f"<orthologGroup>{tr('Mammalia')}{{HUMAN_1}}{{MOUSE_1}}</orthologGroup>"
                  f"<orthologGroup>{tr('Amniota')}{{HUMAN_1}}{{CHICK_1}}</orthologGroup>")
-    pred = read_orthoxml(p, st)
+    with pytest.raises(PredictionError, match="two HOGs"):
+        read_orthoxml(p, st)
+    pred = read_orthoxml(p, st, strict=False)
     assert pred.meta["membership_conflicts"] == 1
     assert same(pred, "Mammalia", "HUMAN_1", "MOUSE_1")   # first assignment kept

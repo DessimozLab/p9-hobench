@@ -21,7 +21,7 @@ from typing import Optional, Sequence
 import numpy as np
 import pandas as pd
 
-from .metrics import NOT_ASSERTED, reference_merge_matrix, reference_level_codes
+from .metrics import NOT_ASSERTED, reference_level_codes, reference_matrices
 from .newick import copy_tree
 from .predictions import Prediction
 from .reference import ReferenceFamily, reconcile
@@ -35,51 +35,58 @@ def _all_genes(families: Sequence[ReferenceFamily]) -> dict[str, str]:
     return out
 
 
+def _count_species(families: Sequence[ReferenceFamily]) -> set[str]:
+    return {s for f in families for s in f.complete_species}
+
+
 def reference_prediction(families: Sequence[ReferenceFamily], st: SpeciesTree,
                          check: bool = True, label: str = "positive") -> Prediction:
-    """Positive control. Genes in a U polytomy are grouped at the oldest level implied by
-    the U node (see ``metrics.fill_unresolved``); members not placed in the tree stay
-    singletons. ``meta['inconsistent_pairs']`` counts asserted-separate pairs that end up in
-    one component (0 for any reference that passes validation)."""
-    pred = Prediction(meta={"control": label})
+    """Positive control: reference-derived HOGs at every level (``metrics.representative_matrix``:
+    one consistent merge level inside every reference interval; U pairs grouped at the oldest
+    level implied inside the U node). Members not placed in the tree stay singletons.
+    ``meta['inconsistent_pairs']`` counts asserted pairs whose reference status at a level
+    (surely together / surely apart) disagrees with the components (0 for valid references)."""
+    pred = Prediction(meta={"control": label}, count_species=_count_species(families))
     bad = 0
     for fam in families:
         rf = reconcile(fam, st, check=check)
         codes = reference_level_codes(rf)
-        Mref = reference_merge_matrix(rf)
+        R = reference_matrices(rf)
+        gsp = fam.gene_species
         for L, lab in codes.items():
             lv = st.names[L]
             for k, g in enumerate(rf.genes):
                 if lab[k] >= 0:
-                    pred.add(lv, f"{fam.id}|{lv}|{lab[k]}", g)
-            # consistency: asserted pairs separate at L must be in different components
+                    pred.add(lv, f"{fam.id}|{lv}|{lab[k]}", g, species=gsp[g])
             idx = np.flatnonzero(lab >= 0)
             if len(idx) > 1:
-                sub = Mref[np.ix_(idx, idx)]
+                lo = R.lo[np.ix_(idx, idx)].astype(np.int64)
+                hi = R.hi[np.ix_(idx, idx)].astype(np.int64)
                 same = lab[idx][:, None] == lab[idx][None, :]
-                asserted = sub != NOT_ASSERTED
-                sep = asserted & ~((sub >= 0) & st.anc[L, np.where(sub >= 0, sub, 0)])
-                np.fill_diagonal(sep, False)
-                bad += int((sep & same).sum() // 2)
-        pred.gene_species.update({g: fam.gene_species[g] for g in rf.genes})
+                asserted = lo != NOT_ASSERTED
+                surely_same = asserted & (hi >= 0) & st.anc[L, np.where(hi >= 0, hi, 0)]
+                surely_apart = asserted & ((lo < 0) | ~st.anc[L, np.where(lo >= 0, lo, 0)])
+                np.fill_diagonal(surely_apart, False)
+                bad += int(((surely_apart & same) | (surely_same & ~same)).sum() // 2)
+        pred.gene_species.update({g: gsp[g] for g in rf.genes})
     pred.meta["inconsistent_pairs"] = bad
     return pred
 
 
 def all_singletons(families: Sequence[ReferenceFamily] = ()) -> Prediction:
-    pred = Prediction(meta={"control": "all_singletons"})
+    pred = Prediction(meta={"control": "all_singletons"}, count_species=_count_species(families))
     pred.gene_species.update(_all_genes(families))
     return pred
 
 
 def one_big_hog(families: Sequence[ReferenceFamily], st: SpeciesTree) -> Prediction:
-    pred = Prediction(meta={"control": "one_big_hog"})
+    pred = Prediction(meta={"control": "one_big_hog"}, count_species=_count_species(families))
     genes = _all_genes(families)
     for lv in st.levels:
         clade = st.clade_species(lv)
         for g, s in genes.items():
             if s in clade:
-                pred.add(lv, f"ALL|{lv}", g)
+                pred.add(lv, f"ALL|{lv}", g, species=s)
     pred.gene_species.update(genes)
     return pred
 
@@ -99,12 +106,13 @@ def random_relabel(pred: Prediction, seed: int, gene_species: Optional[dict[str,
         for a, b in zip(gs, p):
             perm[a] = gs[b]   # gene `a` takes the HOG memberships of gene `gs[b]`
     inv = {v: k for k, v in perm.items()}
-    out = Prediction(meta={"control": "random_relabel", "seed": seed})
+    out = Prediction(meta={"control": "random_relabel", "seed": seed}, count_species=set(pred.count_species))
     for lv, m in pred.levels.items():
         for g, h in m.items():
             out.add(lv, h, inv.get(g, g))
-    # sizes of HOGs are unchanged (unkept genes cannot move)
+    # sizes and per-species counts are unchanged (relabelling stays within species)
     out.sizes = {lv: dict(d) for lv, d in pred.sizes.items()}
+    out.hog_species = {lv: {h: dict(c) for h, c in d.items()} for lv, d in pred.hog_species.items()}
     out.gene_species = dict(gsp)
     out.gene_species.update({g: s for g, s in pred.gene_species.items() if g not in gsp})
     return out

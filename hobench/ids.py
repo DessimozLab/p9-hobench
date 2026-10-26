@@ -11,7 +11,9 @@ ID used in the reference families (``members.tsv: gene_id``).
 * ``first_token``    — first whitespace-separated token (FASTA header → ID)
 * ``uniprot``        — first token, then ``db|ACC|NAME`` → ``ACC``
 * ``auto``           — same as ``uniprot`` (safe on plain accessions too)
-* ``map:<path>``     — two-column TSV raw→canonical; IDs absent from the map go through ``auto``
+* ``map:<path>``     — two-column TSV raw→canonical (raw or its first token); an ID absent from
+  the map raises ``KeyError`` (no silent fallback)
+* ``map_or_auto:<path>`` — as ``map:`` but IDs absent from the map explicitly go through ``auto``
 * ``strip_version``  can be appended with ``+`` (e.g. ``auto+strip_version``): drop a trailing ``.N``
 """
 from __future__ import annotations
@@ -74,11 +76,17 @@ def make_normalizer(spec: str | Normalizer | None = "auto") -> Normalizer:
         return spec
     funcs: list[Normalizer] = []
     for part in spec.split("+"):
-        if part.startswith("map:"):
-            mapping = load_id_map(part[4:])
+        if part.startswith("map:") or part.startswith("map_or_auto:"):
+            fallback = part.startswith("map_or_auto:")
+            mapping = load_id_map(part.split(":", 1)[1])
 
-            def _m(x: str, _mapping=mapping) -> str:
-                return _mapping.get(x) or _mapping.get(first_token(x)) or uniprot(x)
+            def _m(x: str, _mapping=mapping, _fb=fallback) -> str:
+                v = _mapping.get(x) or _mapping.get(first_token(x))
+                if v is None:
+                    if not _fb:
+                        raise KeyError(f"ID {x!r} not in the ID map (use map_or_auto: to pass unmapped IDs through)")
+                    v = uniprot(x)
+                return v
 
             funcs.append(_m)
         elif part in _BUILTIN:

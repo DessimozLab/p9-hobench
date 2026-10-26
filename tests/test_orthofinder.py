@@ -50,8 +50,8 @@ def test_of25_style_with_n0(st, tmp_path, fams, fam_by_id):
     assert pred.hog("Mammalia", "HUMAN_x") == "N3.HOG0000000"      # decorated ID normalised
     assert pred.hog("Mammalia", "HUMAN_y") == "N3.HOG0000001"
     assert pred.gene_species["MOUSE_y"] == "MOUSE"
-    r = evaluate_family(fam_by_id["F2"], st, pred, panel_context(fams))
-    assert r["pair_merge"]["accuracy"] == 1.0 and r["events"][0]["recovered"]
+    r = evaluate_family(fam_by_id["F2"], st, pred, panel_context(fams, st))
+    assert r["pair_merge"]["accuracy_pairs"] == 1.0 and r["events"][0]["recovered_0.8"]
     # path may also point at the HOG directory or one N*.tsv file
     p2 = read_orthofinder(res / "Phylogenetic_Hierarchical_Orthogroups" / "N1.tsv", st)
     assert p2.levels == pred.levels
@@ -59,12 +59,15 @@ def test_of25_style_with_n0(st, tmp_path, fams, fam_by_id):
 
 def test_topology_mismatch_induces_level(st, tmp_path):
     """OrthoFinder's tree groups MOUSE with CHICK, so our Mammalia {HUMAN, MOUSE} has no
-    matching OrthoFinder clade; it is induced from the smallest OrthoFinder clade containing it
+    matching OrthoFinder clade: an error in main runs (E3); with allow_induced_levels it is induced from the smallest OrthoFinder clade containing it
     (N1 = {HUMAN, MOUSE, CHICK} = our Amniota), restricted to HUMAN and MOUSE genes."""
     of_tree = "((HUMAN:1,(MOUSE:1,CHICK:1)N3:1)N1:1,(DANRE:1,ORYLA:1)N2:1)N0;"
     files = {"N0": F2_FILES["N0"], "N1": F2_FILES["N1"], "N2": F2_FILES["N2"],
              "N3": [["N3.HOG0000000", "OG0000000", "n3", dec("CHICK_g"), "", "", dec("MOUSE_x", "MOUSE_y"), ""]]}
-    pred = read_orthofinder(write_of(tmp_path, of_tree, files), st)
+    res = write_of(tmp_path, of_tree, files)
+    with pytest.raises(PredictionError, match="no clade matching our level"):
+        read_orthofinder(res, st)                         # E3: strict by default
+    pred = read_orthofinder(res, st, allow_induced_levels=True)
     assert pred.meta["unmatched_of_nodes"] == ["N3"]
     assert pred.meta["induced_levels"] == {"Mammalia": "N1"}
     assert pred.hog("Mammalia", "HUMAN_x") == pred.hog("Mammalia", "MOUSE_y") == "Mammalia<N1.HOG0000000"
@@ -86,8 +89,8 @@ def test_of3_real_fixture_root_from_orthogroups():
     assert pred.hog("Saccharomycetaceae_WGD", "Q12300") == "N1.HOG0000102"
     assert pred.check(st) == []
     fam = snf3_family()
-    r = evaluate_family(fam, st, pred, panel_context([fam]))
-    assert r["pair_merge"]["accuracy"] == 1.0 and r["events"][0]["recovered"]
+    r = evaluate_family(fam, st, pred, panel_context([fam], st))
+    assert r["pair_merge"]["accuracy_pairs"] == 1.0 and r["events"][0]["recovered_0.8"]
 
 
 def test_of3_nesting_violation_detected(tmp_path):
