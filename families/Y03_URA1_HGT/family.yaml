@@ -1,0 +1,127 @@
+id: Y03_URA1_HGT
+name: 'Dihydroorotate dehydrogenase: HGT-acquired family-1A URA1 vs native family-2 URA9-type DHOD'
+panel: Y
+phenomena:
+- HGT
+- LOSS
+descriptors:
+  n_members: 16
+  n_species: 14
+  n_type1A: 7
+  n_type2: 9
+  species_with_both:
+  - LACTH
+  - TETPH
+  n_duplications: 0
+  n_hgt: 1
+  mapped_fraction: 1.0
+sources:
+- id: Hall2005
+  doi: 10.1128/EC.4.6.1102-1115.2005
+  pmid: '15947202'
+  title: Contribution of horizontal gene transfer to the evolution of Saccharomyces cerevisiae
+  year: 2005
+  source_method: phylogeny
+  locator: Introduction; Results (DHOD phylogeny, gene order)
+  quote: The DHOD-encoding gene found in S. cerevisiae, URA1 (YKL216W), appears to have entered the Saccharomycetaceae after
+    the divergence of the S. cerevisiae lineage from the Candida albicans lineage
+  files:
+  - path: literature/papers/PMID15947202/raw/fulltext.txt
+    sha256: 398f4bcd4222f82085a4ccd0c909deccbb492609f8edbfbc7b476a53efc217f0
+  - path: families/Y03_URA1_HGT/source_cache/genpept_CANAL.fa
+    sha256: 34fc2f69a29fb828362659ee3fc79e7acd1505a9bc27a1c234d65ea0231d27dd
+  - path: families/Y03_URA1_HGT/source_cache/genpept_CANGA.fa
+    sha256: 53b1f39c23ae8e0ebf4eb7098e09046a63804002515876ba2efe5166866bb731
+  - path: families/Y03_URA1_HGT/source_cache/genpept_KLULA.fa
+    sha256: 54af1db0313eafc2b5868faed9af1c59a6000f331266410d7579d46bf24ab22b
+  - path: families/Y03_URA1_HGT/source_cache/genpept_KLUMA.fa
+    sha256: 3b68a1e6e81157aced92c24ea750091e6de2f7bf21faf6750f53e08ec89ae40f
+  - path: families/Y03_URA1_HGT/source_cache/genpept_NAUCC.fa
+    sha256: adab27f97c20da6bd0336dace3506a1fc6bd464fa7092c30c95d3af203d14e2e
+  - path: families/Y03_URA1_HGT/source_cache/genpept_hall2005_all.fa
+    sha256: de727b475a9fe1bd874d4a2eb85a38b99ecea91ec8c7db22cc998cfcb53cfc61
+  - path: families/Y03_URA1_HGT/source_cache/seqmap_CANAL.tsv
+    sha256: 467569d5286de851b416479552e841ffe81b1a13106d9e1a844748c714c4b8ca
+  - path: families/Y03_URA1_HGT/source_cache/seqmap_CANGA.tsv
+    sha256: 66b833c517bb95fc275668b95e68285deb0e544e202119a8b60bc1b765e9154a
+  - path: families/Y03_URA1_HGT/source_cache/seqmap_KLULA.tsv
+    sha256: d4e6298d06e31508e985f9d62666471bed58dbdbaeed1b61b1a02eaa4d7b3047
+  - path: families/Y03_URA1_HGT/source_cache/seqmap_KLUMA.tsv
+    sha256: 763cfd5a0c0854d5622cd9c539b60310ba36927c153d2908b05f876970325b93
+  - path: families/Y03_URA1_HGT/source_cache/seqmap_NAUCC.tsv
+    sha256: c8dfeb9e5354f00437b3171bc7cd8e580b299cb15a35462b2e8c5632f91784f1
+- id: Gojkovic2004
+  doi: 10.1007/s00438-004-0995-7
+  pmid: '15014982'
+  title: Horizontal gene transfer promoted evolution of the ability to propagate under anaerobic conditions in yeasts
+  year: 2004
+  source_method: phylogeny
+  locator: abstract
+  quote: From the phylogenetic point of view, this enzyme is closely related to a bacterial DHODase from Lactococcus lactis.
+  files:
+  - path: literature/papers/PMID15014982/abstract.txt
+    sha256: dde468fe8722372a567970d7f4ba47dd45a2f727e48624ac7b568063871d6352
+- id: Bouwknegt2021
+  doi: 10.1186/s40694-021-00117-4
+  pmid: '34656184'
+  title: Class-II dihydroorotate dehydrogenases from three phylogenetically distant fungi support anaerobic pyrimidine biosynthesis
+  year: 2021
+  source_method: phylogeny
+  locator: Additional files 1 (ortholog FASTA) and 3 (RAxML-NG tree)
+  quote: as query yielded 331 fungal and 73 bacterial Ura9 orthologs (Additional file 1). These Ura9 orthologs were used to
+    calculate a maximum-likelihood phylogenetic tree
+  files:
+  - path: literature/papers/PMID34656184/fulltext.txt
+    sha256: a1ecbf9deb641dd9b2f69be0019949e65c70e4db566adb253e495440c512df1f
+  - path: literature/papers/PMID34656184/raw/supp/40694_2021_117_MOESM1_ESM.txt
+    sha256: 9509b1a8bb7e93a45c4eed13e572e457ea19898edf27f94834bc31705ab79f28
+  - path: literature/papers/PMID34656184/raw/supp/40694_2021_117_MOESM3_ESM.txt
+    sha256: c8e39ca7c4eeb492c086e2e65f78d7f16ac09f77a72917ada10e8032ca60d0d1
+- id: YGOBv7
+  doi: 10.1101/gr.3672305
+  pmid: '16169922'
+  title: YGOB v7 (Aug 2012) Pillars.tab (Wayback 2021-07-28, truncated)
+  year: 2012
+  source_method: synteny
+  locator: Pillars.tab line 4856
+  quote: TPHA0K00200 TBLA0B10140 --- NCAS0D03520 --- --- --- --- Suva_11.4 Skud_11.4 Smik_11.7 YKL216W --- ZYRO0D00396g TDEL0F05620
+    KLLA0C19360g --- --- SAKL0D15268g KLTH0F00308g Kwal_27.9662
+  files:
+  - path: literature/raw/B1/ygob/Pillars.TRUNCATED_wayback_20210728.tab
+    sha256: e8e12eda53a87cdd36963b951a718ffdfa86b0d989e8c06ea2c12611ecbe48c7
+  - path: literature/raw/B1/ygob/README
+    sha256: 162fb37cf0f7a50b44fae47f0d2c2f9b126b728660b65d9bee8d3175af8317f6
+  - path: families/Y03_URA1_HGT/source_cache/uniprot_ygob_ura1_loci.tsv
+    sha256: c21781fc851be407ce697c65becd946e66d4e13f6186eade24bd954239d607ff
+- id: YGOBv1
+  doi: 10.1101/gr.3672305
+  pmid: '16169922'
+  title: YGOB v1 (Sep 2005) Synteny_Klactis.tab
+  year: 2005
+  source_method: synteny
+  locator: v1_Synteny_Klactis.tab line 2061
+  quote: ???!!? KLLA0C19360g undef undef undef YKL216W Scas_652.19 undef
+  files:
+  - path: literature/raw/B1/ygob/wayback/v1_Synteny_Klactis.tab
+    sha256: e7d6f07ed49aa8dbf57080be9642181342c8edd728503dfb43d74c8c2b9392e3
+  - path: literature/raw/B1/ygob/wayback/v1_README.txt
+    sha256: aae82fe677820a582ab99331be919176828c98e37408188fa61b9e0f7eea435c
+root_single_copy: false
+complete_species: []
+decoys: []
+distinct_from: []
+tier_summary:
+  T1_events: 1
+  T1_H: 1
+  T2_nodes: 4
+  T3_nodes: 3
+  events_D: 0
+protocol_version: 1
+notes: 'Root H (T1, Hall 2005; Gojkovic 2004): URA1 (family 1A DHOD) entered the Saccharomycetaceae by HGT from Lactobacillales
+  (donor OUTSIDE panel) -> URA1 xenologs and native family-2 (URA9-type) DHODs are never in one HOG at any level. URA1 subtree
+  = YGOB pillar (synteny): KLE pair, ZT pair and KLE-vs-ZT are S (T2); post-WGD URA1 genes (YEAST, NAUCC, TETPH) hang from
+  a U node (valid under both panel trees) (pillar slots carry no track; YGOB v1 scores URA1 as non-syntenic in S. cerevisiae/S.
+  castellii). URA9 subtree = Bouwknegt 2021 Ura9 orthologs + Hall 2005 accessions; U except the Eremothecium pair (BS 94,
+  T3). Species with both types: LACTH, TETPH (KLULA has both per Hall 2005 but its family-2 gene has no identifier in any
+  source -> only URA1 listed). No member for NAUDC, KAZAF. YGOB unit YGOB_L04856 of Y01 holds the same 7 URA1 genes (gene-ownership
+  overlap; one of the two must drop them in the panel set).'

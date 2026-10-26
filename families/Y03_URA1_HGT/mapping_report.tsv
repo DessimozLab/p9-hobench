@@ -1,0 +1,37 @@
+original_id	species	label	gene_id	status	reason	locator	source
+TPHA0K00200	TETPH	URA1 (family 1A DHOD)	G8BZ26	mapped	gene_name_exact (UniProt locus/ORF name, 1 hit)	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 2	YGOBv7
+TBLA0B10140	HENBL	URA1 (family 1A DHOD)		not_in_panel	species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 3	YGOBv7
+NCAS0D03520	NAUCC	URA1 (family 1A DHOD)	Q6V3X0	mapped	gene_name_exact (UniProt locus/ORF name, 1 hit)	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 5	YGOBv7
+Suva_11.4	SACUV	URA1 (family 1A DHOD)		not_in_panel	species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 9	YGOBv7
+Skud_11.4	SAKUD	URA1 (family 1A DHOD)		not_in_panel	species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 10	YGOBv7
+Smik_11.7	SAMIK	URA1 (family 1A DHOD)		not_in_panel	species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 11	YGOBv7
+YKL216W	YEAST	URA1 (family 1A DHOD)	P28272	mapped	gene_name_exact (UniProt locus/ORF name, 1 hit)	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 12	YGOBv7
+ZYRO0D00396g	ZYGRC	URA1 (family 1A DHOD)	C5DUP9	mapped	gene_name_exact (UniProt locus/ORF name, 1 hit)	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 14	YGOBv7
+TDEL0F05620	TORDC	URA1 (family 1A DHOD)	G8ZXM9	mapped	gene_name_exact (UniProt locus/ORF name, 1 hit)	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 15	YGOBv7
+KLLA0C19360g	KLULA	URA1 (family 1A DHOD)	Q7Z895	mapped	gene_name_exact (UniProt locus/ORF name, 1 hit)	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 16	YGOBv7
+SAKL0D15268g	LAKLU	URA1 (family 1A DHOD)		not_in_panel	species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 19	YGOBv7
+KLTH0F00308g	LACTH	URA1 (family 1A DHOD)	C5DJY4	mapped	gene_name_exact (UniProt locus/ORF name, 1 hit)	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 20	YGOBv7
+Kwal_27.9662	LAWAL	URA1 (family 1A DHOD)		not_in_panel	species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 21	YGOBv7
+AAP39962	CANAL	DHOD (GenPept, Hall 2005)	Q874I4	mapped	exact sequence match	fulltext.txt Results 'URA1 gene phylogeny is consistent with horizontal transfer'	Hall2005
+AAQ57200	NAUCC	DHOD (GenPept, Hall 2005)	Q6V3X0	mapped	exact sequence match	fulltext.txt Results 'URA1 gene phylogeny is consistent with horizontal transfer'	Hall2005
+AAR17523	CANGA	DHOD (GenPept, Hall 2005)	Q6SZS5	mapped	exact sequence match	fulltext.txt Results 'URA1 gene phylogeny is consistent with horizontal transfer'	Hall2005
+AAQ01773	KLULA	DHOD (GenPept, Hall 2005)	Q7Z895	mapped	exact sequence match (paper prints 'AAR1773'; typo, see build.py)	fulltext.txt Results 'URA1 gene phylogeny is consistent with horizontal transfer'	Hall2005
+AAR17522	KLUMA	DHOD (GenPept, Hall 2005)		not_in_panel	K. marxianus: species not in panel Y	fulltext.txt Results 'URA1 gene phylogeny is consistent with horizontal transfer'	Hall2005
+AAQ01777	S. bayanus	DHOD (GenPept, Hall 2005)		not_in_panel	S. bayanus: species not in panel Y	fulltext.txt Results 'URA1 gene phylogeny is consistent with horizontal transfer'	Hall2005
+AAQ01778	S. mikatae	DHOD (GenPept, Hall 2005)		not_in_panel	S. mikatae: species not in panel Y	fulltext.txt Results 'URA1 gene phylogeny is consistent with horizontal transfer'	Hall2005
+AAQ01779	S. kluyveri (URA1)	DHOD (GenPept, Hall 2005)		not_in_panel	S. kluyveri (URA1): species not in panel Y	fulltext.txt Results 'URA1 gene phylogeny is consistent with horizontal transfer'	Hall2005
+AAQ57201	S. kluyveri (URA9)	DHOD (GenPept, Hall 2005)		not_in_panel	S. kluyveri (URA9): species not in panel Y	fulltext.txt Results 'URA1 gene phylogeny is consistent with horizontal transfer'	Hall2005
+AAQ01780	S. paradoxus	DHOD (GenPept, Hall 2005)		not_in_panel	S. paradoxus: species not in panel Y	fulltext.txt Results 'URA1 gene phylogeny is consistent with horizontal transfer'	Hall2005
+AAP04498	E. faecalis	DHOD (GenPept, Hall 2005)		not_in_panel	E. faecalis: species not in panel Y	fulltext.txt Results 'URA1 gene phylogeny is consistent with horizontal transfer'	Hall2005
+AAQ01774	L. mesenteroides	DHOD (GenPept, Hall 2005)		not_in_panel	L. mesenteroides: species not in panel Y	fulltext.txt Results 'URA1 gene phylogeny is consistent with horizontal transfer'	Hall2005
+AAQ01776	L. lactis subsp. cremoris	DHOD (GenPept, Hall 2005)		not_in_panel	L. lactis subsp. cremoris: species not in panel Y	fulltext.txt Results 'URA1 gene phylogeny is consistent with horizontal transfer'	Hall2005
+AAQ01775	L. lactis subsp. hordniae	DHOD (GenPept, Hall 2005)		not_in_panel	L. lactis subsp. hordniae: species not in panel Y	fulltext.txt Results 'URA1 gene phylogeny is consistent with horizontal transfer'	Hall2005
+P32747	SCHPO	Ura9 (Class-II DHOD)	P32747	mapped	exact UniProt accession in panel proteome	Additional file 1 (40694_2021_117_MOESM1_ESM.txt) FASTA header	Bouwknegt2021
+Q75CE1	ASHGO	Ura9 (Class-II DHOD)	Q75CE1	mapped	exact UniProt accession in panel proteome	Additional file 1 (40694_2021_117_MOESM1_ESM.txt) FASTA header	Bouwknegt2021
+Q874I4	CANAL	Ura9 (Class-II DHOD)	Q874I4	mapped	exact UniProt accession in panel proteome	Additional file 1 (40694_2021_117_MOESM1_ESM.txt) FASTA header	Bouwknegt2021
+A7TRX4	VANPO	Ura9 (Class-II DHOD)	A7TRX4	mapped	exact UniProt accession in panel proteome	Additional file 1 (40694_2021_117_MOESM1_ESM.txt) FASTA header	Bouwknegt2021
+C5DBT0	LACTH	Ura9 (Class-II DHOD)	C5DBT0	mapped	exact UniProt accession in panel proteome	Additional file 1 (40694_2021_117_MOESM1_ESM.txt) FASTA header	Bouwknegt2021
+G8BYI8	TETPH	Ura9 (Class-II DHOD)	G8BYI8	mapped	exact UniProt accession in panel proteome	Additional file 1 (40694_2021_117_MOESM1_ESM.txt) FASTA header	Bouwknegt2021
+G8JWU1	ERECY	Ura9 (Class-II DHOD)	G8JWU1	mapped	exact UniProt accession in panel proteome	Additional file 1 (40694_2021_117_MOESM1_ESM.txt) FASTA header	Bouwknegt2021
+Q6C8K4	YARLI	Ura9 (Class-II DHOD)	Q6C8K4	mapped	exact UniProt accession in panel proteome	Additional file 1 (40694_2021_117_MOESM1_ESM.txt) FASTA header	Bouwknegt2021
+396 accessions	-	Ura9 (Class-II DHOD)		not_in_panel	accession not in any panel-Y proteome (other fungi/bacteria)	Additional file 1	Bouwknegt2021

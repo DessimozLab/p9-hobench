@@ -1,0 +1,2 @@
+query_id	query_len	target_id	target_len	mapping_identity	identity_over_query	query_cov	target_cov	evalue	bitscore	method	status	flags	n_exact_targets	ambiguous_with
+AAQ57200	314	Q6V3X0	314	100.000	1.000	1.000	1.000	0		exact_sha256	exact		1	

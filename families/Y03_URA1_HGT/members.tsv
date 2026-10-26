@@ -1,0 +1,17 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	source	locator
+P28272	YEAST	YKL216W	URA1 (family 1A DHOD)	gene_name_exact	100.0	1.000	YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 12
+Q6V3X0	NAUCC	NCAS0D03520	URA1 (family 1A DHOD)	gene_name_exact	100.0	1.000	YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 5 | also Hall2005: AAQ57200
+G8BZ26	TETPH	TPHA0K00200	URA1 (family 1A DHOD)	gene_name_exact	100.0	1.000	YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 2
+C5DUP9	ZYGRC	ZYRO0D00396g	URA1 (family 1A DHOD)	gene_name_exact	100.0	1.000	YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 14
+G8ZXM9	TORDC	TDEL0F05620	URA1 (family 1A DHOD)	gene_name_exact	100.0	1.000	YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 15
+C5DJY4	LACTH	KLTH0F00308g	URA1 (family 1A DHOD)	gene_name_exact	100.0	1.000	YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 20
+Q7Z895	KLULA	KLLA0C19360g	URA1 (family 1A DHOD)	gene_name_exact	100.0	1.000	YGOBv7	Pillars.TRUNCATED_wayback_20210728.tab:line 4856 col 16 | also Hall2005: AAQ01773
+Q6SZS5	CANGA	AAR17523	URA9-type (family 2 DHOD)	exact_sequence	100.0	1.000	Hall2005	fulltext.txt Results 'URA1 gene phylogeny is consistent with horizontal transfer'; GenPept AAR17523
+A7TRX4	VANPO	A7TRX4	URA9-type (family 2 DHOD)	uniprot_accession	100.0	1.000	Bouwknegt2021	Additional file 1 (40694_2021_117_MOESM1_ESM.txt) FASTA header
+G8BYI8	TETPH	G8BYI8	URA9-type (family 2 DHOD)	uniprot_accession	100.0	1.000	Bouwknegt2021	Additional file 1 (40694_2021_117_MOESM1_ESM.txt) FASTA header
+C5DBT0	LACTH	C5DBT0	URA9-type (family 2 DHOD)	uniprot_accession	100.0	1.000	Bouwknegt2021	Additional file 1 (40694_2021_117_MOESM1_ESM.txt) FASTA header
+Q75CE1	ASHGO	Q75CE1	URA9-type (family 2 DHOD)	uniprot_accession	100.0	1.000	Bouwknegt2021	Additional file 1 (40694_2021_117_MOESM1_ESM.txt) FASTA header
+G8JWU1	ERECY	G8JWU1	URA9-type (family 2 DHOD)	uniprot_accession	100.0	1.000	Bouwknegt2021	Additional file 1 (40694_2021_117_MOESM1_ESM.txt) FASTA header
+Q874I4	CANAL	AAP39962	URA9-type (family 2 DHOD)	exact_sequence	100.0	1.000	Hall2005	fulltext.txt Results 'URA1 gene phylogeny is consistent with horizontal transfer'; GenPept AAP39962 | also Bouwknegt2021: Q874I4
+Q6C8K4	YARLI	Q6C8K4	URA9-type (family 2 DHOD)	uniprot_accession	100.0	1.000	Bouwknegt2021	Additional file 1 (40694_2021_117_MOESM1_ESM.txt) FASTA header
+P32747	SCHPO	P32747	URA9-type (family 2 DHOD)	uniprot_accession	100.0	1.000	Bouwknegt2021	Additional file 1 (40694_2021_117_MOESM1_ESM.txt) FASTA header
