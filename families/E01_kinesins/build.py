@@ -38,6 +38,7 @@ Q_X = ("We designated these additional tentative paralog families X1-X14")
 Q_COMPLETE = ("From these datasets, we extracted complete kinesin repertoires using HMMERv2.3.2 [22] to find all "
               "predicted proteins with a match to the Pfam 'kinesin motor domain' profile (PF00225; [69]).")
 ID_MIN, QCOV_MIN, MARGIN = 98.0, 0.80, 2.0
+DOM_QLEN, DOM_QCOV = 250, 0.90
 
 
 def sha(p):
@@ -132,7 +133,7 @@ def main():
             b = g.iloc[0]
             others = g[g.sseqid != b.sseqid]
             margin = b.pident - (others.iloc[0].pident if len(others) else 0.0)
-            best = dict(t=b.sseqid, pid=float(b.pident), qcov=b.length / b.qlen, tcov=b.length / b.slen,
+            best = dict(t=b.sseqid, pid=float(b.pident), qlen=int(b.qlen), qcov=b.length / b.qlen, tcov=b.length / b.slen,
                         margin=float(margin), rbh=rv_best.get(b.sseqid) == mk)
         good_motor = best and best["pid"] >= ID_MIN and best["qcov"] >= QCOV_MIN and best["rbh"] and best["margin"] >= MARGIN
         if len(cands) == 1:
@@ -154,10 +155,18 @@ def main():
                 rep.append({**base, "gene_id": "", "status": "ambiguous",
                             "reason": "ID maps to several panel entries: " + ",".join(sorted(cands))})
         else:
-            if good_motor:
+            if good_motor and best["qlen"] >= DOM_QLEN and best["qcov"] >= DOM_QCOV:
+                rep.append({**base, "gene_id": best["t"], "status": "mapped",
+                            "reason": (f"no ID route; motor-domain mapping (protocol v1.1): {best['pid']:.1f}% id over "
+                                       f"{best['qcov']:.0%} of a {best['qlen']}-aa query, RBH, margin {best['margin']:.1f}"),
+                            "_m": dict(mapping_method="sequence_domain_diamond", mapping_identity=f"{best['pid']:.1f}",
+                                       mapping_coverage="", mapping_qcov=f"{min(best['qcov'], 1.0):.3f}",
+                                       mapping_qlen=str(best["qlen"]), mapping_coverage_query=f"{min(best['qcov'], 1.0):.3f}",
+                                       mapping_margin=f"{best['margin']:.1f}", rbh="1")})
+            elif good_motor:
                 rep.append({**base, "gene_id": "", "status": "unmapped",
-                            "reason": (f"no ID route; motor domain only: {best['pid']:.1f}% id to {best['t']} over "
-                                       f"{best['qcov']:.0%} of query but {best['tcov']:.0%} of target (<80% coverage, protocol 0.5)")})
+                            "reason": (f"no ID route; motor domain {best['pid']:.1f}% id to {best['t']} but qlen {best['qlen']} / "
+                                       f"qcov {best['qcov']:.0%} below v1.1 domain rule (>=250 aa, >=90%)")})
             elif best:
                 rep.append({**base, "gene_id": "", "status": "unmapped",
                             "reason": f"no ID route; best motor-domain hit {best['t']} {best['pid']:.1f}% (qcov {best['qcov']:.0%}, margin {best['margin']:.1f}, rbh {best['rbh']})"})
@@ -301,7 +310,7 @@ def main():
         root_level="Eukaryota", root_single_copy=False,
         complete_species=complete, decoys=[], distinct_from=[],
         tier_summary=dict(T1_D_events=2, T2_S_nodes=None, T2_U_nodes=None),
-        protocol_version=1,
+        protocol_version=1.1,
         notes=("Kinesin-myosin homology: kinesin and myosin motor domains share a common P-loop NTPase fold/ancestry, so no "
                "distinct_from is declared between E01_kinesins and E06_myosins (homologous at fold level, but no "
                "orthology/paralogy level asserted). D nodes: (1) KIN_MAR_LECA = split among the 10 MAR families "
@@ -313,8 +322,8 @@ def main():
                "S polytomy (T2 rule b; no two panel-E species share a WGD, so rule-b pseudo-orthology exception does "
                "not apply); >1 gene in a species -> U (rule c). Mapping: GenBank/RefSeq -> UniProt ID mapping or exact "
                "gene-model names (JGI DRAFT names) in the panel proteome, cross-checked with the paper's motor-domain "
-               "sequence (DatasetS1); rows with only a motor-domain sequence (no ID route) fail the 80% target-coverage "
-               "rule and are reported unmapped. Source used old (2006-2007) proteome versions; Batde = strain JEL423 "
+               "sequence (DatasetS1); rows with only a motor-domain sequence (no ID route) are mapped under protocol v1.1 "
+               "(domain rule: >=98% id over >=90% of a >=250-aa motor domain, RBH, >=2-point margin; target coverage waived). Source used old (2006-2007) proteome versions; Batde = strain JEL423 "
                "(panel JAM81). Panel-E eukaryotes absent from the source: " + ", ".join(absent) +
                " (source has Phytophthora sojae, not P. ramorum; source code 'Capsp' is the annelid Capitella sp. I, not Capsaspora). complete_species = species with a genome-wide HMMER "
                "search in the source and >=90% of in-panel rows uniquely mapped; caveat: current gene models may "

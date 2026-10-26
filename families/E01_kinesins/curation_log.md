@@ -1,5 +1,5 @@
 # E01_kinesins curation log
-status: curated (headline-eligible: 82.2% of in-panel rows uniquely mapped)
+status: curated, protocol v1.1 (headline-eligible: 90.9% of in-panel rows uniquely mapped; 399 members, 19 species)
 
 ## Read
 - Wickstead, Gull & Richards 2010 BMC Evol Biol 10:110 (PMID 20423470, OA): full text (literature/papers/PMID20423470/fulltext.txt),
@@ -29,3 +29,7 @@ status: curated (headline-eligible: 82.2% of in-panel rows uniquely mapped)
 ## Problems
 - 1 ARATH row ambiguous; NAEGR 18/31 unmapped (JGI 'best proteins' ids not equal to UniProt DRAFT ids).
 - Time: ~1.5 h.
+
+## v1.1 update (PI decision)
+- Rows with only a motor-domain sequence are now mapped with mapping_method=sequence_domain_diamond: >=98% id over >=90% of a
+  >=250-aa motor domain, RBH, >=2-point margin (target coverage waived). 361 -> 399 members; CHLRE, BATDJ, ENTH1 now represented.
