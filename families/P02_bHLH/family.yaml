@@ -1,0 +1,112 @@
+id: P02_bHLH
+name: Plant bHLH transcription factors (26 subfamilies)
+panel: P
+phenomena:
+- DOM
+- DEEP
+descriptors:
+  n_members: 435
+  n_species: 5
+  n_in_panel_paper_members: 527
+  mapped_fraction: 0.825
+  mapped_fraction_by_species:
+    ARATH: 1.0
+    CHLRE: 0.333
+    ORYSJ: 0.902
+    PHYPA: 0.316
+    SELMO: 0.937
+  subfamilies_land:
+  - II
+  - III(a+c)
+  - III(d+e)
+  - IIIb
+  - IIIf
+  - IVa
+  - IVb
+  - IVc
+  - IVd
+  - IX
+  - Ia
+  - Ib(1)
+  - VII(a+b)
+  - VIIIa
+  - VIIIb
+  - VIIIc(1)
+  - VIIIc(2)
+  - Va
+  - XI
+  - XII
+  subfamilies_vascular_only:
+  - Vb
+  - X
+  - XIII
+  - XIV
+  subfamilies_angiosperm_only:
+  - Ib(2)
+  - XV
+  subfamily_support_ML_NJ_MP:
+    Vb: 96; 71; 60
+    VII(a+b): N/A; <50; <50
+    XI: 62; 57; 61
+    IX: 100; 92; 87
+    XV: 100; 97; 95
+    X: 100; 98; 92
+    VIIIb: 92; 60; <50
+    XIV: N/A; <50; <50
+    XIII: 100; 97; 100
+    VIIIa: 79; <50; <50
+    VIIIc(1): 88; 55; <50
+    VIIIc(2): 91; 50; <50
+    XII: 98; 69; <50
+    Ib(2): 89; <50; <50
+    Ib(1): 80; <50; <50
+    Ia: 100; 92; 84
+    II: 97; 79; 51
+    III(a+c): 96; <50; <50
+    IIIb: 99; <50; <50
+    III(d+e): 100; 78; <50
+    IVa: N/A; <50; <50
+    IVc: 100; <50; <50
+    IVb: 100; 88; 61
+    IIIf: N/A; <50; <50
+    IVd: 83; <50; <50
+    Va: 94; 98; 96
+sources:
+- id: PiresDolan2010
+  doi: 10.1093/molbev/msp288
+  pmid: '19942615'
+  pmcid: PMC2839125
+  title: Origin and diversification of basic-helix-loop-helix proteins in plants
+  year: 2010
+  source_method: phylogeny
+  locator: File009 (species/protein/locus), File011 (FASTA), Suppl. Fig. S2 subfamily table; Results
+  quote: Phylogenetic analyses suggest that plant bHLH proteins are monophyletic and constitute 26 subfamilies.
+  files:
+  - path: literature/raw/B2/supp/PMC2839125/msp288_mbe-09-0678-File009.xls
+    sha256: 4c20a7b9e103c8713f2284eee81f9d634ef5797508d5937a1943f3308d7448eb
+  - path: literature/raw/B2/supp/PMC2839125/msp288_mbe-09-0678-File011.txt
+    sha256: 65cd5b50a99eb470c6a5a17af97d5c04e2e44f80f5b36f6c88d8aa33e2da6699
+  - path: literature/raw/B2/supp/PMC2839125/msp288_2.pdf
+    sha256: 9c122c562a6f5d69558a9787ad769d556d0d9e7dd9581cd120d13b1864b973f0
+  - path: literature/papers/PMID19942615/fulltext.txt
+    sha256: e8bc4705a900154bb0cb44bbb5ae32c4873c8cf1ed81cc6b8a2239b65a46b84b
+  - path: literature/raw/P_shared/all.locus_brief_info.7.0
+    sha256: c8c546993cf583e80e1782df07e7f429663f7a89a22165c32bd2bca0e0b3a4dc
+root_level: Viridiplantae
+root_single_copy: false
+complete_species:
+- ARATH
+- ORYSJ
+- SELMO
+decoys: []
+distinct_from: []
+tier_summary:
+  U_T2: 27
+  D_T1: 3
+protocol_version: 1
+notes: 'Subfamily membership from the Suppl. Fig. S2 table (pypdf text). Subfamily ages follow the paper: the 20 subfamilies
+  with moss members existed in the moss/vascular ancestor (D lo=Embryophyta), subfamilies with lycophyte+angiosperm members
+  only (lo=Tracheophyta) and angiosperm-only subfamilies (lo=Mesangiospermae); all upper bounds ABOVE_RANGE because inter-subfamily
+  relationships are unresolved (paper: basal nodes have low support). Orphans and the chlorophyte proteins: U. Inside subfamilies:
+  U (paralogs; WGD lineages; no synteny curation). Pairs between the three age groups are U (the paper does not identify the
+  parent subfamily of the younger subfamilies).'

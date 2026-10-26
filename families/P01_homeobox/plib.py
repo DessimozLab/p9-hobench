@@ -14,7 +14,7 @@ import time
 import urllib.request
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[2]  # families/<ID>/plib.py -> project root
+ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT))
 
 from hobench.newick import Node  # noqa: E402
@@ -449,3 +449,40 @@ def write_assertions(path: Path, rows: list[dict], texts: dict[str, str]) -> Non
         fh.write("\t".join(cols) + "\n")
         for r in rows:
             fh.write("\t".join(str(r[c]).replace("\t", " ") for c in cols) + "\n")
+
+
+# --------------------------------------------------------------------------- rice MSU7 -> RAP (IRGSP-1.0) loci
+MSU_INFO = ROOT / "literature/raw/P_shared/all.locus_brief_info.7.0"
+_MSU: dict[str, tuple] = {}
+
+
+def msu_locus(locus: str):
+    """(chrom number, start, stop, strand) of an MSU7 locus (pseudomolecules = IRGSP-1.0 sequences)."""
+    if not _MSU:
+        with open(MSU_INFO) as fh:
+            next(fh)
+            for line in fh:
+                f = line.split("\t")
+                c, loc, s, e, o = f[0], f[1], int(f[3]), int(f[4]), f[5]
+                old = _MSU.get(loc)
+                _MSU[loc] = (c.replace("Chr", ""), min(s, old[1]) if old else s, max(e, old[2]) if old else e, o)
+    return _MSU.get(locus.split(".")[0])
+
+
+def msu_to_rap(cache: "JsonCache", locus: str):
+    """Unique RAP-DB protein-coding gene overlapping the MSU7 locus on the same strand by >=50 % of the MSU span
+    (Ensembl Plants IRGSP-1.0 annotation). Returns (rap_id, note) or ('', reason)."""
+    pos = msu_locus(locus)
+    if not pos:
+        return "", f"{locus} not in MSU7 locus table"
+    c, s, e, o = pos
+    genes = ensembl_overlap_genes(cache, "oryza_sativa", f"{c}:{s}-{e}")
+    strand = 1 if o == "+" else -1
+    good = []
+    for g in genes:
+        ov = min(e, g["end"]) - max(s, g["start"]) + 1
+        if g.get("strand") == strand and ov >= 0.5 * (e - s + 1):
+            good.append(g["id"])
+    if len(good) == 1:
+        return good[0], f"{locus} Chr{c}:{s}-{e}{o} -> RAP {good[0]} (unique same-strand overlap >=50 %)"
+    return "", f"{locus} Chr{c}:{s}-{e}{o}: {len(good)} RAP genes overlap ({good[:3]})"

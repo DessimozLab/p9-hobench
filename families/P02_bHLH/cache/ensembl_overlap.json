@@ -1,0 +1,908 @@
+{
+ "overlap|oryza_sativa|10:21863008-21867667": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os10t0556200-01.",
+   "description": null,
+   "end": 21867667,
+   "external_name": "OsbHLH113",
+   "feature_type": "gene",
+   "gene_id": "Os10g0556200",
+   "id": "Os10g0556200",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "10",
+   "source": "RAP2022-09-01",
+   "start": 21863032,
+   "strand": -1
+  }
+ ],
+ "overlap|oryza_sativa|10:344330-347794": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os10t0104300-00.",
+   "description": null,
+   "end": 347108,
+   "external_name": "OsbHLH023",
+   "feature_type": "gene",
+   "gene_id": "Os10g0104300",
+   "id": "Os10g0104300",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "10",
+   "source": "RAP2022-09-01",
+   "start": 345785,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|11:14568684-14571281": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os11t0442380-01.",
+   "description": null,
+   "end": 14571605,
+   "feature_type": "gene",
+   "gene_id": "Os11g0442380",
+   "id": "Os11g0442380",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "11",
+   "source": "RAP2022-09-01",
+   "start": 14568688,
+   "strand": 1
+  },
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os11t0442500-00.",
+   "description": null,
+   "end": 14571090,
+   "feature_type": "gene",
+   "gene_id": "Os11g0442500",
+   "id": "Os11g0442500",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "11",
+   "source": "RAP2022-09-01",
+   "start": 14569673,
+   "strand": -1
+  }
+ ],
+ "overlap|oryza_sativa|11:24982918-24984249": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os11t0634700-00.",
+   "description": null,
+   "end": 24984249,
+   "external_name": "OsbHLH132",
+   "feature_type": "gene",
+   "gene_id": "Os11g0634700",
+   "id": "Os11g0634700",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "11",
+   "source": "RAP2022-09-01",
+   "start": 24980227,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|11:2831601-2837707": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os11t0158500-01.",
+   "description": null,
+   "end": 2837702,
+   "external_name": "OsbHLH151",
+   "feature_type": "gene",
+   "gene_id": "Os11g0158500",
+   "id": "Os11g0158500",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "11",
+   "source": "RAP2022-09-01",
+   "start": 2835467,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|11:8583891-8586236": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os11t0258700-00.",
+   "description": null,
+   "end": 8587507,
+   "external_name": "OsbHLH014",
+   "feature_type": "gene",
+   "gene_id": "Os11g0258700",
+   "id": "Os11g0258700",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "11",
+   "source": "RAP2022-09-01",
+   "start": 8583891,
+   "strand": -1
+  }
+ ],
+ "overlap|oryza_sativa|12:18903675-18904665": [],
+ "overlap|oryza_sativa|12:25142777-25148196": [],
+ "overlap|oryza_sativa|12:25202156-25204363": [],
+ "overlap|oryza_sativa|12:25214547-25225410": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os12t0599550-00.",
+   "description": null,
+   "end": 25218542,
+   "external_name": "OsbHLH116",
+   "feature_type": "gene",
+   "gene_id": "Os12g0599550",
+   "id": "Os12g0599550",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "12",
+   "source": "RAP2022-09-01",
+   "start": 25216398,
+   "strand": -1
+  },
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os12t0599400-00.",
+   "description": null,
+   "end": 25215504,
+   "external_name": "OsbHLH116",
+   "feature_type": "gene",
+   "gene_id": "Os12g0599400",
+   "id": "Os12g0599400",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "12",
+   "source": "RAP2022-09-01",
+   "start": 25215052,
+   "strand": -1
+  }
+ ],
+ "overlap|oryza_sativa|1:18386293-18386927": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os01t0518300-00.",
+   "description": null,
+   "end": 18386927,
+   "feature_type": "gene",
+   "gene_id": "Os01g0518300",
+   "id": "Os01g0518300",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "1",
+   "source": "RAP2022-09-01",
+   "start": 18386243,
+   "strand": -1
+  }
+ ],
+ "overlap|oryza_sativa|1:22322069-22327371": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os01t0577300-01.",
+   "description": null,
+   "end": 22327456,
+   "external_name": "Rb",
+   "feature_type": "gene",
+   "gene_id": "Os01g0577300",
+   "id": "Os01g0577300",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "1",
+   "source": "RAP2022-09-01",
+   "start": 22301233,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|1:29271158-29273270": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os01t0705700-01.",
+   "description": null,
+   "end": 29273175,
+   "external_name": "OsICE1",
+   "feature_type": "gene",
+   "gene_id": "Os01g0705700",
+   "id": "Os01g0705700",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "1",
+   "source": "RAP2022-09-01",
+   "start": 29271158,
+   "strand": 1
+  },
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os01t0705750-00.",
+   "description": null,
+   "end": 29272886,
+   "feature_type": "gene",
+   "gene_id": "Os01g0705750",
+   "id": "Os01g0705750",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "1",
+   "source": "RAP2022-09-01",
+   "start": 29271397,
+   "strand": -1
+  }
+ ],
+ "overlap|oryza_sativa|1:3128992-3130722": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os01t0159800-02.",
+   "description": null,
+   "end": 3130722,
+   "external_name": "OsbHLH035",
+   "feature_type": "gene",
+   "gene_id": "Os01g0159800",
+   "id": "Os01g0159800",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "1",
+   "source": "RAP2022-09-01",
+   "start": 3129056,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|1:32714779-32716417": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os01t0773800-00.",
+   "description": null,
+   "end": 32716649,
+   "feature_type": "gene",
+   "gene_id": "Os01g0773800",
+   "id": "Os01g0773800",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "1",
+   "source": "RAP2022-09-01",
+   "start": 32714779,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|1:33272395-33274308": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os01t0784900-00.",
+   "description": null,
+   "end": 33274419,
+   "external_name": "OsbHLH069",
+   "feature_type": "gene",
+   "gene_id": "Os01g0784900",
+   "id": "Os01g0784900",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "1",
+   "source": "RAP2022-09-01",
+   "start": 33272134,
+   "strand": -1
+  }
+ ],
+ "overlap|oryza_sativa|1:455512-460716": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os01t0108400-00.",
+   "description": null,
+   "end": 457425,
+   "feature_type": "gene",
+   "gene_id": "Os01g0108400",
+   "id": "Os01g0108400",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "1",
+   "source": "RAP2022-09-01",
+   "start": 455707,
+   "strand": 1
+  },
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os01t0108500-00.",
+   "description": null,
+   "end": 461371,
+   "feature_type": "gene",
+   "gene_id": "Os01g0108500",
+   "id": "Os01g0108500",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "1",
+   "source": "RAP2022-09-01",
+   "start": 460177,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|1:5163291-5168424": [],
+ "overlap|oryza_sativa|2:20535321-20538749": [],
+ "overlap|oryza_sativa|2:20562533-20565664": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os02t0548100-00.",
+   "description": null,
+   "end": 20565664,
+   "external_name": "OsbHLH147",
+   "feature_type": "gene",
+   "gene_id": "Os02g0548100",
+   "id": "Os02g0548100",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "2",
+   "source": "RAP2022-09-01",
+   "start": 20562601,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|2:23643092-23651534": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os02t0603600-01.",
+   "description": null,
+   "end": 23651476,
+   "external_name": "OsbHLH110",
+   "feature_type": "gene",
+   "gene_id": "Os02g0603600",
+   "id": "Os02g0603600",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "2",
+   "source": "RAP2022-09-01",
+   "start": 23643455,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|2:31959228-31961185": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os02t0759000-01.",
+   "description": null,
+   "end": 31959951,
+   "external_name": "OsbHLH048",
+   "feature_type": "gene",
+   "gene_id": "Os02g0759000",
+   "id": "Os02g0759000",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "2",
+   "source": "RAP2022-09-01",
+   "start": 31958975,
+   "strand": -1
+  },
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os02t0759200-00.",
+   "description": null,
+   "end": 31959938,
+   "feature_type": "gene",
+   "gene_id": "Os02g0759200",
+   "id": "Os02g0759200",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "2",
+   "source": "RAP2022-09-01",
+   "start": 31959583,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|2:33833909-33838048": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os02t0795800-00.",
+   "description": null,
+   "end": 33837683,
+   "external_name": "OsbHLH114",
+   "feature_type": "gene",
+   "gene_id": "Os02g0795800",
+   "id": "Os02g0795800",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "2",
+   "source": "RAP2022-09-01",
+   "start": 33835931,
+   "strand": 1
+  },
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os02t0795850-00.",
+   "description": null,
+   "end": 33837607,
+   "feature_type": "gene",
+   "gene_id": "Os02g0795850",
+   "id": "Os02g0795850",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "2",
+   "source": "RAP2022-09-01",
+   "start": 33836943,
+   "strand": -1
+  }
+ ],
+ "overlap|oryza_sativa|2:7333138-7334086": [],
+ "overlap|oryza_sativa|3:23433316-23434712": [],
+ "overlap|oryza_sativa|3:24545115-24547175": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os03t0639350-00.",
+   "description": null,
+   "end": 24547092,
+   "feature_type": "gene",
+   "gene_id": "Os03g0639350",
+   "id": "Os03g0639350",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "3",
+   "source": "RAP2022-09-01",
+   "start": 24545058,
+   "strand": -1
+  },
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os03t0639300-01.",
+   "description": null,
+   "end": 24549550,
+   "external_name": "OsPIL12",
+   "feature_type": "gene",
+   "gene_id": "Os03g0639300",
+   "id": "Os03g0639300",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "3",
+   "source": "RAP2022-09-01",
+   "start": 24544511,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|3:26466179-26467185": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os03t0671000-00.",
+   "description": null,
+   "end": 26468970,
+   "external_name": "OsbHLH022",
+   "feature_type": "gene",
+   "gene_id": "Os03g0671000",
+   "id": "Os03g0671000",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "3",
+   "source": "RAP2022-09-01",
+   "start": 26466125,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|3:6826703-6832152": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os03t0229100-00.",
+   "description": null,
+   "end": 6832274,
+   "external_name": "OsbHLH019",
+   "feature_type": "gene",
+   "gene_id": "Os03g0229100",
+   "id": "Os03g0229100",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "3",
+   "source": "RAP2022-09-01",
+   "start": 6826703,
+   "strand": -1
+  }
+ ],
+ "overlap|oryza_sativa|3:6980639-6989636": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os03t0232000-01.",
+   "description": null,
+   "end": 6989544,
+   "external_name": "OsFbox136",
+   "feature_type": "gene",
+   "gene_id": "Os03g0232000",
+   "id": "Os03g0232000",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "3",
+   "source": "RAP2022-09-01",
+   "start": 6987949,
+   "strand": -1
+  },
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os03t0231950-01.",
+   "description": null,
+   "end": 6982645,
+   "external_name": "OsbHLH088",
+   "feature_type": "gene",
+   "gene_id": "Os03g0231950",
+   "id": "Os03g0231950",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "3",
+   "source": "RAP2022-09-01",
+   "start": 6980640,
+   "strand": -1
+  },
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os03t0232050-00.",
+   "description": null,
+   "end": 6989556,
+   "feature_type": "gene",
+   "gene_id": "Os03g0232050",
+   "id": "Os03g0232050",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "3",
+   "source": "RAP2022-09-01",
+   "start": 6988082,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|3:9513353-9518158": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os03t0279500-00.",
+   "description": null,
+   "end": 9515292,
+   "external_name": "OsbHLH078",
+   "feature_type": "gene",
+   "gene_id": "Os03g0279500",
+   "id": "Os03g0279500",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "3",
+   "source": "RAP2022-09-01",
+   "start": 9513940,
+   "strand": -1
+  }
+ ],
+ "overlap|oryza_sativa|4:13399728-13401220": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os04t0300600-00.",
+   "description": null,
+   "end": 13401045,
+   "external_name": "OsbHLH007",
+   "feature_type": "gene",
+   "gene_id": "Os04g0300600",
+   "id": "Os04g0300600",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "4",
+   "source": "RAP2022-09-01",
+   "start": 13399837,
+   "strand": -1
+  }
+ ],
+ "overlap|oryza_sativa|4:27915598-27939824": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os04t0557500-01.",
+   "description": null,
+   "end": 27939357,
+   "external_name": "Kala4",
+   "feature_type": "gene",
+   "gene_id": "Os04g0557500",
+   "id": "Os04g0557500",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "4",
+   "source": "RAP2022-09-01",
+   "start": 27915598,
+   "strand": -1
+  }
+ ],
+ "overlap|oryza_sativa|4:29877890-29881295": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os04t0590650-00.",
+   "description": null,
+   "end": 29879360,
+   "feature_type": "gene",
+   "gene_id": "Os04g0590650",
+   "id": "Os04g0590650",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "4",
+   "source": "RAP2022-09-01",
+   "start": 29878856,
+   "strand": -1
+  },
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os04t0590800-01.",
+   "description": null,
+   "end": 29881660,
+   "external_name": "OsbHLH050",
+   "feature_type": "gene",
+   "gene_id": "Os04g0590800",
+   "id": "Os04g0590800",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "4",
+   "source": "RAP2022-09-01",
+   "start": 29880299,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|5:22371205-22373569": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os05t0455400-02.",
+   "description": null,
+   "end": 22373569,
+   "external_name": "OsbHLH058",
+   "feature_type": "gene",
+   "gene_id": "Os05g0455400",
+   "id": "Os05g0455400",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "5",
+   "source": "RAP2022-09-01",
+   "start": 22371205,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|5:24663914-24666109": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os05t0501200-00.",
+   "description": null,
+   "end": 24666335,
+   "external_name": "OsbHLH067",
+   "feature_type": "gene",
+   "gene_id": "Os05g0501200",
+   "id": "Os05g0501200",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "5",
+   "source": "RAP2022-09-01",
+   "start": 24663679,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|5:29208619-29211341": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os05t0586300-01.",
+   "description": null,
+   "end": 29211341,
+   "external_name": "OsbHLH051",
+   "feature_type": "gene",
+   "gene_id": "Os05g0586300",
+   "id": "Os05g0586300",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "5",
+   "source": "RAP2022-09-01",
+   "start": 29208619,
+   "strand": -1
+  },
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os05t0586350-00.",
+   "description": null,
+   "end": 29209334,
+   "feature_type": "gene",
+   "gene_id": "Os05g0586350",
+   "id": "Os05g0586350",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "5",
+   "source": "RAP2022-09-01",
+   "start": 29208809,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|5:3355544-3355798": [],
+ "overlap|oryza_sativa|6:19490529-19494500": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os06t0526100-02.",
+   "description": null,
+   "end": 19494500,
+   "external_name": "OsbHLH054",
+   "feature_type": "gene",
+   "gene_id": "Os06g0526100",
+   "id": "Os06g0526100",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "6",
+   "source": "RAP2022-09-01",
+   "start": 19490529,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|6:22119339-22123157": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os06t0570900-00.",
+   "description": null,
+   "end": 22122825,
+   "external_name": "OsbHLH030",
+   "feature_type": "gene",
+   "gene_id": "Os06g0570900",
+   "id": "Os06g0570900",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "6",
+   "source": "RAP2022-09-01",
+   "start": 22119287,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|6:3273373-3276890": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os06t0164400-01.",
+   "description": null,
+   "end": 3276888,
+   "external_name": "OsbHLH108",
+   "feature_type": "gene",
+   "gene_id": "Os06g0164400",
+   "id": "Os06g0164400",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "6",
+   "source": "RAP2022-09-01",
+   "start": 3273390,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|6:4192207-4194416": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os06t0184000-01.",
+   "description": null,
+   "end": 4194484,
+   "external_name": "OsbHLH115",
+   "feature_type": "gene",
+   "gene_id": "Os06g0184000",
+   "id": "Os06g0184000",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "6",
+   "source": "RAP2022-09-01",
+   "start": 4192056,
+   "strand": -1
+  }
+ ],
+ "overlap|oryza_sativa|7:6062889-6069317": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os07t0211500-01.",
+   "description": null,
+   "end": 6069317,
+   "external_name": "Rc",
+   "feature_type": "gene",
+   "gene_id": "Os07g0211500",
+   "id": "Os07g0211500",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "7",
+   "source": "RAP2022-09-01",
+   "start": 6062889,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|8:24121860-24123906": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os08t0487700-00.",
+   "description": null,
+   "end": 24123906,
+   "external_name": "OsbHLH087",
+   "feature_type": "gene",
+   "gene_id": "Os08g0487700",
+   "id": "Os08g0487700",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "8",
+   "source": "RAP2022-09-01",
+   "start": 24121898,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|8:4644760-4648708": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os08t0179400-00.",
+   "description": null,
+   "end": 4648753,
+   "external_name": "OsbHLH070",
+   "feature_type": "gene",
+   "gene_id": "Os08g0179400",
+   "id": "Os08g0179400",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "8",
+   "source": "RAP2022-09-01",
+   "start": 4645325,
+   "strand": -1
+  }
+ ],
+ "overlap|oryza_sativa|9:14959367-14962769": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os09t0417400-00.",
+   "description": null,
+   "end": 14962878,
+   "external_name": "OsbHLH100",
+   "feature_type": "gene",
+   "gene_id": "Os09g0417400",
+   "id": "Os09g0417400",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "9",
+   "source": "RAP2022-09-01",
+   "start": 14959323,
+   "strand": -1
+  }
+ ],
+ "overlap|oryza_sativa|9:17565471-17566197": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os09t0463900-00.",
+   "description": null,
+   "end": 17566268,
+   "external_name": "OsbHLH043",
+   "feature_type": "gene",
+   "gene_id": "Os09g0463900",
+   "id": "Os09g0463900",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "9",
+   "source": "RAP2022-09-01",
+   "start": 17565471,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|9:19406189-19408388": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os09t0501600-01.",
+   "description": null,
+   "end": 19408388,
+   "external_name": "OsbHLH092",
+   "feature_type": "gene",
+   "gene_id": "Os09g0501600",
+   "id": "Os09g0501600",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "9",
+   "source": "RAP2022-09-01",
+   "start": 19406212,
+   "strand": -1
+  },
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os09t0501650-00.",
+   "description": null,
+   "end": 19408268,
+   "feature_type": "gene",
+   "gene_id": "Os09g0501650",
+   "id": "Os09g0501650",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "9",
+   "source": "RAP2022-09-01",
+   "start": 19406216,
+   "strand": 1
+  }
+ ],
+ "overlap|oryza_sativa|9:20268863-20269717": [
+  {
+   "assembly_name": "IRGSP-1.0",
+   "biotype": "protein_coding",
+   "canonical_transcript": "Os09t0519100-00.",
+   "description": null,
+   "end": 20269717,
+   "external_name": "OsbHLH167",
+   "feature_type": "gene",
+   "gene_id": "Os09g0519100",
+   "id": "Os09g0519100",
+   "logic_name": "rapdb_genes",
+   "seq_region_name": "9",
+   "source": "RAP2022-09-01",
+   "start": 20268863,
+   "strand": -1
+  }
+ ]
+}

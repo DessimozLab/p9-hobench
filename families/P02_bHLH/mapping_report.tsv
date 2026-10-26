@@ -1,0 +1,567 @@
+original_id	species	label	gene_id	status	reason	locator	source
+CmbHLH001	Cyanidioschyzon merolae	Orphans		not_in_panel	species not in panel P	File009 row 160; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+CvbHLH001	Chlorella vulgaris	Orphans		not_in_panel	species not in panel P	File009 row 164; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+CvbHLH002	Chlorella vulgaris	Orphans		not_in_panel	species not in panel P	File009 row 165; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+CvbHLH003	Chlorella vulgaris	Orphans		not_in_panel	species not in panel P	File009 row 166; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+CvbHLH004	Chlorella vulgaris	Orphans		not_in_panel	species not in panel P	File009 row 167; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OtbHLH001	Ostreococcus tauri	IVc		not_in_panel	species not in panel P	File009 row 341; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+VcbHLH001	Volvox carteri	Orphans		not_in_panel	species not in panel P	File009 row 543; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+VcbHLH002	Volvox carteri	Orphans		not_in_panel	species not in panel P	File009 row 544; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+VcbHLH003	Volvox carteri	Orphans		not_in_panel	species not in panel P	File009 row 545; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+Amq4	Amphimedon queenslandica	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 546	PiresDolan2010
+Amq7	Amphimedon queenslandica	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 547	PiresDolan2010
+Amq10	Amphimedon queenslandica	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 548	PiresDolan2010
+Amq12	Amphimedon queenslandica	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 549	PiresDolan2010
+Hs_ARNT	Homo sapiens	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 550	PiresDolan2010
+Hs_Emc	Homo sapiens	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 551	PiresDolan2010
+Hs_H/E	Homo sapiens	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 552	PiresDolan2010
+Hs_Max	Homo sapiens	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 553	PiresDolan2010
+Hs_MyoD	Homo sapiens	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 554	PiresDolan2010
+Sc_CBF1	Saccharomyces cerevisiae	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 555	PiresDolan2010
+Sc_HMS1	Saccharomyces cerevisiae	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 556	PiresDolan2010
+Sc_INO2	Saccharomyces cerevisiae	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 557	PiresDolan2010
+Sc_INO4	Saccharomyces cerevisiae	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 558	PiresDolan2010
+Sc_RTG1	Saccharomyces cerevisiae	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 559	PiresDolan2010
+Sc_RTG3	Saccharomyces cerevisiae	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 560	PiresDolan2010
+Sc_TYE7	Saccharomyces cerevisiae	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 561	PiresDolan2010
+Sc_PHO4	Saccharomyces cerevisiae	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 562	PiresDolan2010
+TpbHLH001	Thalassiosira pseudonana	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 563	PiresDolan2010
+TpbHLH002	Thalassiosira pseudonana	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 564	PiresDolan2010
+TpbHLH003	Thalassiosira pseudonana	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 565	PiresDolan2010
+TpbHLH004	Thalassiosira pseudonana	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 566	PiresDolan2010
+TpbHLH005	Thalassiosira pseudonana	not in Fig. S2 table		not_in_panel	species not in panel P	File009 row 567	PiresDolan2010
+AtbHLH001	ARATH	IIIf	Q9FN69	mapped	sequence_exact: identical sequence	File009 row 2; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH002	ARATH	IIIf	Q9CAD0	mapped	sequence_exact: identical sequence	File009 row 3; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH003	ARATH	III(d+e)	O23487	mapped	sequence_exact: identical sequence	File009 row 4; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH004	ARATH	III(d+e)	O49687	mapped	sequence_exact: identical sequence	File009 row 5; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH005	ARATH	III(d+e)	Q9FIP9	mapped	sequence_exact: identical sequence	File009 row 6; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH006	ARATH	III(d+e)	Q39204	mapped	sequence_exact: identical sequence	File009 row 7; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH007	ARATH	XI	Q93Y00	mapped	sequence_exact: identical sequence	File009 row 8; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH008	ARATH	VII(a+b)	O80536	mapped	sequence_exact: identical sequence	File009 row 9; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH009	ARATH	VII(a+b)	Q8W2F3	mapped	sequence_exact: identical sequence	File009 row 10; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH010	ARATH	II	Q84TK1	mapped	sequence_exact: identical sequence	File009 row 11; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH011	ARATH	IVb	Q8W2F2	mapped	sequence_exact: identical sequence	File009 row 12; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH012	ARATH	IIIf	Q8W2F1	mapped	sequence_exact: identical sequence	File009 row 13; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH013	ARATH	III(d+e)	Q9LNJ5	mapped	sequence_exact: identical sequence	File009 row 14; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH014	ARATH	III(d+e)	O23090	mapped	sequence_exact: identical sequence	File009 row 15; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH015	ARATH	VII(a+b)	Q8GZM7	mapped	sequence_unique: RBH, thresholds met; margin 52.8	File009 row 16; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH016	ARATH	VII(a+b)	Q8GZ38	mapped	sequence_exact: identical sequence	File009 row 17; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH017	ARATH	III(d+e)	Q9ZPY8	mapped	sequence_exact: identical sequence	File009 row 18; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH018	ARATH	IVa	Q1PF17	mapped	sequence_unique: RBH, thresholds met; margin 44.8	File009 row 19; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH019	ARATH	IVa	Q1PF16	mapped	sequence_exact: identical sequence	File009 row 20; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH020	ARATH	IVa	Q8S3F1	mapped	sequence_exact: identical sequence	File009 row 21; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH021	ARATH	Orphans	Q9ZVX2	mapped	sequence_exact: identical sequence	File009 row 22; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH022	ARATH	Orphans	O81900	mapped	sequence_exact: identical sequence	File009 row 23; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH023	ARATH	VII(a+b)	Q9SVU6	mapped	sequence_exact: identical sequence	File009 row 24; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH024	ARATH	VII(a+b)	Q9FUA4	mapped	sequence_exact: identical sequence	File009 row 25; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH025	ARATH	IVa	Q9T072	mapped	sequence_exact: identical sequence	File009 row 26; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH026	ARATH	VII(a+b)	Q9FE22	mapped	sequence_exact: identical sequence	File009 row 27; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH027	ARATH	III(a+c)	Q700E3	mapped	sequence_unique: RBH, thresholds met; margin 44.2	File009 row 28; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH028	ARATH	III(d+e)	Q9LUK7	mapped	sequence_exact: identical sequence	File009 row 29; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH029	ARATH	III(a+c)	Q0V7X4	mapped	sequence_exact: identical sequence	File009 row 30; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH030	ARATH	Vb	Q9S7Y1	mapped	sequence_exact: identical sequence	File009 row 31; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH031	ARATH	XII	Q0JXE7	mapped	exact_id: exact identifier mapping At1g59640->Q0JXE7 (single panel hit); sequence: unmapped (coverage q=0.84/t=0.64<0.8)	File009 row 32; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH032	ARATH	Vb	Q9LS08	mapped	sequence_exact: identical sequence	File009 row 33; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH033	ARATH	IIIb	Q9LPW3	mapped	exact_id: exact identifier mapping At1g12860->Q9LPW3 (single panel hit); sequence: unmapped (coverage q=0.54/t=1.00<0.8)	File009 row 34; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH034	ARATH	IVc	Q9LTC7	mapped	sequence_exact: identical sequence	File009 row 35; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH035	ARATH	III(a+c)	Q2HIV9	mapped	sequence_unique: RBH, thresholds met; margin 43.0	File009 row 36; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH036	ARATH	Ib(2)	Q9FLI1	mapped	sequence_exact: identical sequence	File009 row 37; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH037	ARATH	VIIIb	Q9SND4	mapped	sequence_exact: identical sequence	File009 row 38; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH038	ARATH	Ib(2)	Q9M1K1	mapped	sequence_exact: identical sequence	File009 row 39; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH039	ARATH	Ib(2)	Q9M1K0	mapped	sequence_exact: identical sequence	File009 row 40; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH040	ARATH	VIIIb	O81313	mapped	sequence_exact: identical sequence	File009 row 41; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH041	ARATH	IVd	Q9LTS4	mapped	sequence_exact: identical sequence	File009 row 42; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH042	ARATH	IIIf	Q9FT81	mapped	sequence_exact: identical sequence	File009 row 43; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH043	ARATH	VIIIb	Q9LXD8	mapped	sequence_exact: identical sequence	File009 row 44; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH044	ARATH	XII	Q8GZ13	mapped	sequence_exact: identical sequence	File009 row 45; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH045	ARATH	Ia	Q9M8K6	mapped	sequence_exact: identical sequence	File009 row 46; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH046	ARATH	Va	Q9LEZ3	mapped	exact_id: exact identifier mapping At5g08130->Q9LEZ3 (single panel hit); sequence: unmapped (coverage q=1.00/t=0.77<0.8)	File009 row 47; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH047	ARATH	IVb	Q9SN74	mapped	sequence_exact: identical sequence	File009 row 48; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH048	ARATH	XII	Q8VZ02	mapped	sequence_exact: identical sequence	File009 row 49; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH049	ARATH	XII	Q9CAA9	mapped	sequence_exact: identical sequence	File009 row 50; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH050	ARATH	XII	Q8GWK7	mapped	sequence_exact: identical sequence	File009 row 51; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH051	ARATH	Vb	Q9XEF0	mapped	sequence_exact: identical sequence	File009 row 52; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH052	ARATH	VIIIa	Q9SA82	mapped	sequence_exact: identical sequence	File009 row 53; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH053	ARATH	VIIIa	Q84RD0	mapped	sequence_exact: identical sequence	File009 row 54; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH054	ARATH	VIIIc(2)	Q8LEG1	mapped	sequence_exact: identical sequence	File009 row 55; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH055	ARATH	Ib(2)	Q9LN95	mapped	exact_id: exact identifier mapping At1g12540->Q9LN95 (single panel hit); sequence: unmapped (coverage q=1.00/t=0.77<0.8)	File009 row 56; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH056	ARATH	VII(a+b)	Q9SVU7	mapped	exact_id: exact identifier mapping At4g28800->Q9SVU7 (single panel hit); sequence: unmapped (identity 97.6<98.0)	File009 row 57; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH057	ARATH	Ia	Q9M128	mapped	sequence_exact: identical sequence	File009 row 58; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH058	ARATH	XII	Q93VJ4	mapped	sequence_exact: identical sequence	File009 row 59; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH059	ARATH	XI	O22768	mapped	sequence_exact: identical sequence	File009 row 60; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH060	ARATH	XII	Q3EAI1	mapped	sequence_exact: identical sequence	File009 row 61; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH061	ARATH	IIIb	Q9LXA9	mapped	sequence_exact: identical sequence	File009 row 62; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH062	ARATH	XII	Q9SRT2	mapped	sequence_exact: identical sequence	File009 row 63; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH063	ARATH	XII	Q8GY61	mapped	sequence_exact: identical sequence	File009 row 64; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH064	ARATH	XII	Q9ZPW3	mapped	sequence_unique: RBH, thresholds met; margin 42.2	File009 row 65; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH065	ARATH	VII(a+b)	Q84LH8	mapped	sequence_unique: RBH, thresholds met; margin 43.0	File009 row 66; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH066	ARATH	XI	Q9ZUG9	mapped	sequence_exact: identical sequence	File009 row 67; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH067	ARATH	Ia	Q700E4	mapped	sequence_exact: identical sequence	File009 row 68; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH068	ARATH	X	Q8S3D1	mapped	sequence_exact: identical sequence	File009 row 69; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH069	ARATH	XI	Q8S3D5	mapped	sequence_exact: identical sequence	File009 row 70; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH070	ARATH	Ia	O81037	mapped	sequence_exact: identical sequence	File009 row 71; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH071	ARATH	Ia	Q56XR0	mapped	sequence_exact: identical sequence	File009 row 72; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH072	ARATH	VII(a+b)	Q570R7	mapped	sequence_exact: identical sequence	File009 row 73; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH073	ARATH	VII(a+b)	Q9FHA2	mapped	sequence_exact: identical sequence	File009 row 74; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH074	ARATH	XII	Q6NKN9	mapped	sequence_exact: identical sequence	File009 row 75; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH075	ARATH	XII	A4D998	mapped	sequence_exact: identical sequence	File009 row 76; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH076	ARATH	XII	Q9C670	mapped	sequence_exact: identical sequence	File009 row 77; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH077	ARATH	XII	Q9LK48	mapped	sequence_exact: identical sequence	File009 row 78; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH078	ARATH	XII	Q9FJL4	mapped	sequence_exact: identical sequence	File009 row 79; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH079	ARATH	XII	Q9LV17	mapped	sequence_exact: identical sequence	File009 row 80; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH080	ARATH	IX	Q9C8P8	mapped	sequence_exact: identical sequence	File009 row 81; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH081	ARATH	IX	Q9M0R0	mapped	sequence_exact: identical sequence	File009 row 82; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH082	ARATH	XI	Q9LSQ3	mapped	sequence_exact: identical sequence	File009 row 83; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH083	ARATH	VIIIc(1)	Q9C707	mapped	sequence_exact: identical sequence	File009 row 84; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH084	ARATH	VIIIc(2)	Q7XHI9	mapped	sequence_exact: identical sequence	File009 row 85; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH085	ARATH	VIIIc(2)	Q84WK0	mapped	sequence_exact: identical sequence	File009 row 86; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH086	ARATH	VIIIc(1)	Q9FJ00	mapped	sequence_exact: identical sequence	File009 row 87; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH087	ARATH	VIIIb	Q8S3D2	mapped	sequence_exact: identical sequence	File009 row 88; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH088	ARATH	VIIIb	Q9FHA7	mapped	sequence_exact: identical sequence	File009 row 89; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH089	ARATH	II	Q9LND0	mapped	sequence_exact: identical sequence	File009 row 90; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH090	ARATH	Orphans	Q0WNR2	mapped	sequence_exact: identical sequence	File009 row 91; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH091	ARATH	II	Q8GX46	mapped	sequence_exact: identical sequence	File009 row 92; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH092	ARATH	IVd	Q9FIX5	mapped	sequence_exact: identical sequence	File009 row 93; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH093	ARATH	IIIb	Q9LSL1	mapped	sequence_exact: identical sequence	File009 row 94; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH094	ARATH	Ia	Q9SK91	mapped	sequence_exact: identical sequence	File009 row 95; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH095	ARATH	Ib(1)	Q9FXA3	mapped	sequence_exact: identical sequence	File009 row 96; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH096	ARATH	Ia	Q9C7T4	mapped	sequence_exact: identical sequence	File009 row 97; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH097	ARATH	Ia	Q56YJ8	mapped	sequence_exact: identical sequence	File009 row 98; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH098	ARATH	Ia	Q700C7	mapped	sequence_exact: identical sequence	File009 row 99; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH099	ARATH	Ia	Q9FKQ6	mapped	sequence_exact: identical sequence	File009 row 100; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH100	ARATH	Ib(2)	Q9ZVB5	mapped	sequence_exact: identical sequence	File009 row 101; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH101	ARATH	Ib(2)	Q9FYE6	mapped	sequence_exact: identical sequence	File009 row 102; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH102	ARATH	Va	Q9CAA4	mapped	sequence_exact: identical sequence	File009 row 103; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH103	ARATH	X	Q8VZ22	mapped	sequence_exact: identical sequence	File009 row 104; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH104	ARATH	IVc	Q8L467	mapped	sequence_exact: identical sequence	File009 row 105; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH105	ARATH	IVc	Q9FH37	mapped	sequence_exact: identical sequence	File009 row 106; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH106	ARATH	Vb	O80674	mapped	sequence_exact: identical sequence	File009 row 107; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH107	ARATH	Vb	Q9LET0	mapped	sequence_exact: identical sequence	File009 row 108; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH108	ARATH	Orphans	Q9FRI0	mapped	sequence_exact: identical sequence	File009 row 109; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH109	ARATH	Orphans	Q5XVH0	mapped	sequence_exact: identical sequence	File009 row 110; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH110	ARATH	X	Q9SFZ3	mapped	sequence_exact: identical sequence	File009 row 111; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH112	ARATH	X	Q94JL3	mapped	sequence_exact: identical sequence	File009 row 112; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH113	ARATH	X	Q9LT67	mapped	sequence_exact: identical sequence	File009 row 113; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH114	ARATH	X	Q9M0X8	mapped	exact_id: exact identifier mapping At4g05170->Q9M0X8 (single panel hit); sequence: unmapped (coverage q=1.00/t=0.80<0.8)	File009 row 114; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH115	ARATH	IVc	Q9C682	mapped	sequence_exact: identical sequence	File009 row 115; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH116	ARATH	IIIb	Q9LSE2	mapped	sequence_exact: identical sequence	File009 row 116; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH117	ARATH	VIIIa	Q9LRJ4	mapped	sequence_exact: identical sequence	File009 row 117; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH118	ARATH	Ib(2)	Q9STJ7	mapped	sequence_exact: identical sequence	File009 row 118; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH119	ARATH	VII(a+b)	Q8GT73	mapped	sequence_exact: identical sequence	File009 row 119; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH120	ARATH	Ib(2)	Q9FLI0	mapped	exact_id: exact identifier mapping At5g51790->Q9FLI0 (single panel hit); sequence: unmapped (identity 97.6<98.0)	File009 row 120; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH121	ARATH	IVb	Q9LT23	mapped	sequence_unique: RBH, thresholds met; margin 100.0	File009 row 121; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH122	ARATH	IX	Q9C690	mapped	sequence_exact: identical sequence	File009 row 122; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH123	ARATH	X	Q8GXT3	mapped	sequence_exact: identical sequence	File009 row 123; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH124	ARATH	VII(a+b)	Q8L5W8	mapped	sequence_exact: identical sequence	File009 row 124; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH125	ARATH	Ib(2)	Q9LQ08	mapped	sequence_exact: identical sequence	File009 row 125; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH126	ARATH	Ib(2)	Q9STJ6	mapped	sequence_exact: identical sequence	File009 row 126; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH127	ARATH	VII(a+b)	Q7XHI7	mapped	sequence_exact: identical sequence	File009 row 127; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH128	ARATH	IX	Q8H102	mapped	sequence_exact: identical sequence	File009 row 128; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH129	ARATH	IX	Q9ZW81	mapped	sequence_exact: identical sequence	File009 row 129; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH130	ARATH	IX	Q66GR3	mapped	sequence_exact: identical sequence	File009 row 130; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH132	ARATH	VII(a+b)	Q8L5W7	mapped	sequence_unique: RBH, thresholds met; margin 56.7	File009 row 131; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH134	ARATH	XV	Q9LXG5	mapped	sequence_exact: identical sequence	File009 row 132; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH135	ARATH	XV	Q9CA64	mapped	sequence_exact: identical sequence	File009 row 133; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH136	ARATH	XV	Q9FLE9	mapped	sequence_exact: identical sequence	File009 row 134; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH137	ARATH	XII	Q93W88	mapped	sequence_exact: identical sequence	File009 row 135; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH138	ARATH	II	F4IQQ9	mapped	sequence_exact: identical sequence	File009 row 136; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH139	ARATH	VIIIc(2)	Q3E7L7	mapped	sequence_exact: identical sequence	File009 row 137; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH140	ARATH	VIIIb	Q9M041	mapped	sequence_exact: identical sequence	File009 row 138; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH141	ARATH	Va	Q9FMB6	mapped	sequence_exact: identical sequence	File009 row 139; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH142	ARATH	XIV	Q9FMF4	mapped	sequence_exact: identical sequence	File009 row 140; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH143	ARATH	XIV	Q9FY69	mapped	sequence_exact: identical sequence	File009 row 141; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH144	ARATH	XIV	Q9ASX9	mapped	sequence_exact: identical sequence	File009 row 142; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH145	ARATH	XIV	Q9FGB0	mapped	sequence_exact: identical sequence	File009 row 143; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH146	ARATH	VIIIa	Q9SUM5	mapped	sequence_exact: identical sequence	File009 row 144; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH147	ARATH	Orphans	Q9LSN7	mapped	sequence_exact: identical sequence	File009 row 145; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH148	ARATH	Orphans	Q9C8Z9	mapped	sequence_exact: identical sequence	File009 row 146; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH149	ARATH	Orphans	O80482	mapped	sequence_exact: identical sequence	File009 row 147; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH150	ARATH	Orphans	Q9M9L6	mapped	sequence_exact: identical sequence	File009 row 148; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH151	ARATH	Orphans	O22901	mapped	sequence_exact: identical sequence	File009 row 149; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH153	ARATH	X	Q7XJU2	mapped	sequence_exact: identical sequence	File009 row 150; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH154	ARATH	X	Q7XJU1	mapped	sequence_exact: identical sequence	File009 row 151; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH155	ARATH	XIII	Q58G01	mapped	sequence_exact: identical sequence	File009 row 152; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH156	ARATH	XIII	Q9XIN0	mapped	sequence_exact: identical sequence	File009 row 153; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH157	ARATH	XIII	Q7XJU0	mapped	sequence_exact: identical sequence	File009 row 154; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH158	ARATH	Orphans	Q9SKX1	mapped	sequence_exact: identical sequence	File009 row 155; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH159	ARATH	Orphans	Q9M0B9	mapped	sequence_exact: identical sequence	File009 row 156; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH160	ARATH	Ib(2)	F4I8F9	mapped	exact_id: exact identifier mapping At1g71200->F4I8F9 (single panel hit); sequence: unmapped (identity 87.6<98.0)	File009 row 157; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH161	ARATH	XV	F4JCN9	mapped	sequence_exact: identical sequence	File009 row 158; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+AtbHLH162	ARATH	Ib(2)	F4JIJ7	mapped	sequence_exact: identical sequence	File009 row 159; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+CrbHLH001	CHLRE	Orphans		unmapped	sequence: unmapped (identity 94.7<98.0; coverage q=0.71/t=0.89<0.8); locus 'CHLREDRAFT_153934' gives no panel hit	File009 row 161; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+CrbHLH002	CHLRE	Orphans		unmapped	sequence: unmapped (identity 81.2<98.0); locus 'CHLREDRAFT_177225' gives no panel hit	File009 row 162; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+CrbHLH003	CHLRE	Orphans	A0A2K3CXZ3	mapped	sequence_exact: identical sequence	File009 row 163; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH001	ORYSJ	IIIb	Q5JK17	mapped	sequence_exact: identical sequence	File009 row 168; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH002	ORYSJ	IIIb	Q2R3F6	mapped	sequence_exact: identical sequence	File009 row 169; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH003	ORYSJ	IIIb	Q10S44	mapped	sequence_exact: identical sequence	File009 row 170; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH004	ORYSJ	IIIb	Q336V8	mapped	sequence_exact: identical sequence	File009 row 171; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH005	ORYSJ	Orphans	Q6YUS3	mapped	sequence_exact: identical sequence	File009 row 172; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH006	ORYSJ	III(a+c)	Q0JEB7	mapped	sequence_exact: identical sequence	File009 row 173; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH007	ORYSJ	III(a+c)	A0A0P0W8E2	mapped	exact_id: exact identifier mapping LOC_Os04g23440 -> Os04g0300600->A0A0P0W8E2 (single panel hit); sequence: unmapped (identity 90.1<98.0)	File009 row 174; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH008	ORYSJ	III(d+e)	Q0JP90	mapped	sequence_exact: identical sequence	File009 row 175; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH009	ORYSJ	III(d+e)	Q336P5	mapped	sequence_exact: identical sequence	File009 row 176; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH010	ORYSJ	III(d+e)	Q5N8F6	mapped	exact_id: exact identifier mapping LOC_Os01g50940 -> Os01g0705700->Q5N8F6 (single panel hit); sequence: unmapped (identity 97.3<98.0)	File009 row 177; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH011	ORYSJ	III(d+e)	Q6ZBI4	mapped	sequence_exact: identical sequence	File009 row 178; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH012	ORYSJ	IIIf	Q0JLS3	mapped	sequence_unique: RBH, thresholds met; margin 59.8	File009 row 179; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH013	ORYSJ	IIIf	Q7XPS3	mapped	sequence_exact: identical sequence	File009 row 180; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH014	ORYSJ	IIIf	A0A0P0Y0X8	mapped	exact_id: exact identifier mapping LOC_Os11g15210 -> Os11g0258700->A0A0P0Y0X8 (single panel hit); sequence: unmapped (identity 95.5<98.0)	File009 row 181; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH015	ORYSJ	IIIf	A0A0P0WDQ6	mapped	sequence_exact: identical sequence	File009 row 182; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH016	ORYSJ	IIIf	A0A0P0WDK6	mapped	exact_id: exact identifier mapping LOC_Os04g47059 -> Os04g0557500->A0A0P0WDK6 (single panel hit); sequence: unmapped (identity 61.6<98.0; coverage q=0.94/t=0.54<0.8)	File009 row 183; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH017	ORYSJ	IIIf	A0A0P0X425	mapped	exact_id: exact identifier mapping LOC_Os07g11020 -> Os07g0211500->A0A0P0X425 (single panel hit); sequence: unmapped (coverage q=0.62/t=0.66<0.8)	File009 row 184; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH018	ORYSJ	IVa	Q75GI1	mapped	sequence_exact: identical sequence	File009 row 185; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH019	ORYSJ	IVa	A0A0P0VUZ8	mapped	exact_id: exact identifier mapping LOC_Os03g12760 -> Os03g0229100->A0A0P0VUZ8 (single panel hit); sequence: unmapped (identity 59.2<98.0)	File009 row 186; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH020	ORYSJ	IVa	Q10FD6	mapped	sequence_exact: identical sequence	File009 row 187; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH021	ORYSJ	IVa	A0A0P0YCR0	mapped	sequence_unique: RBH, thresholds met; margin 54.1	File009 row 188; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH022	ORYSJ	IVa	A0A0N7KHT2	mapped	exact_id: exact identifier mapping LOC_Os03g46790 -> Os03g0671000->A0A0N7KHT2 (single panel hit); sequence: unmapped (coverage q=0.43/t=0.45<0.8)	File009 row 189; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH023	ORYSJ	IVa		unmapped	sequence: unmapped (coverage q=0.75/t=0.83<0.8); locus 'LOC_Os10g01530' gives no panel hit (LOC_Os10g01530 Chr10:344330-347794+: 0 RAP genes overlap ([]))	File009 row 190; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH024	ORYSJ	IVd	Q8S0C6	mapped	sequence_exact: identical sequence	File009 row 191; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH025	ORYSJ	IVd	Q5SMX4	mapped	sequence_exact: identical sequence	File009 row 192; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH026	ORYSJ	IVd		unmapped	sequence: unmapped (identity 73.5<98.0); locus 'LOC_Os01g09930' gives no panel hit (LOC_Os01g09930 Chr1:5163291-5168424+: 0 RAP genes overlap ([]))	File009 row 193; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH027	ORYSJ	IVd	A0A0P0UZP9	mapped	sequence_unique: RBH, thresholds met; margin 40.9	File009 row 194; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH028	ORYSJ	IVd	Q0DK30	mapped	sequence_exact: identical sequence	File009 row 195; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH029	ORYSJ	IVd	A0A0P0VGJ8	mapped	sequence_unique: RBH, thresholds met; margin 58.3	File009 row 196; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH030	ORYSJ	IVd	Q5Z610	mapped	exact_id: exact identifier mapping LOC_Os06g37410 -> Os06g0570900->Q5Z610 (single panel hit); sequence: unmapped (identity 95.5<98.0)	File009 row 197; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH031	ORYSJ	Va	Q6ZBQ2	mapped	sequence_exact: identical sequence	File009 row 198; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH032	ORYSJ	Va	Q69JI7	mapped	sequence_exact: identical sequence	File009 row 199; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH034	ORYSJ	Va	Q6Z339	mapped	sequence_unique: RBH, thresholds met; margin 100.0	File009 row 200; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH035	ORYSJ	Vb	A0A0P0UYC0	mapped	exact_id: exact identifier mapping LOC_Os01g06640 -> Os01g0159800->A0A0P0UYC0 (single panel hit); sequence: unmapped (coverage q=0.38/t=0.71<0.8)	File009 row 201; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH036	ORYSJ	Vb	Q75IR0	mapped	sequence_exact: identical sequence	File009 row 202; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH037	ORYSJ	Vb	Q9FTQ1	mapped	sequence_exact: identical sequence	File009 row 203; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH038	ORYSJ	Vb	Q6ZA99	mapped	sequence_exact: identical sequence	File009 row 204; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH039	ORYSJ	Vb	Q6ESL3	mapped	sequence_exact: identical sequence	File009 row 205; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH040	ORYSJ	Vb	Q10NS6	mapped	sequence_exact: identical sequence	File009 row 206; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH041	ORYSJ	Vb	Q7XZF8	mapped	sequence_exact: identical sequence	File009 row 207; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH042	ORYSJ	Vb	Q6ZJC8	mapped	sequence_exact: identical sequence	File009 row 208; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH043	ORYSJ	Vb	A0A0P0XNJ4	mapped	exact_id: exact identifier mapping LOC_Os09g28900 -> Os09g0463900->A0A0P0XNJ4 (single panel hit); sequence: unmapped (identity 61.7<98.0)	File009 row 209; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH044	ORYSJ	Ia	Q8H7N8	mapped	sequence_exact: identical sequence	File009 row 210; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH045	ORYSJ	Ia	Q7XF89	mapped	sequence_exact: identical sequence	File009 row 211; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH046	ORYSJ	Ia	A0A0P0XP10	mapped	sequence_exact: identical sequence	File009 row 212; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH047	ORYSJ	Ia	Q6YTU1	mapped	sequence_exact: identical sequence	File009 row 213; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH048	ORYSJ	Ia		unmapped	sequence: unmapped (identity 92.8<98.0; coverage q=0.46/t=1.00<0.8); locus 'LOC_Os02g52190' gives no panel hit (LOC_Os02g52190 Chr2:31959228-31961185-: 0 RAP genes overlap ([]))	File009 row 214; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH049	ORYSJ	Ia	A0A0P0VNG4	mapped	sequence_exact: identical sequence	File009 row 215; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH050	ORYSJ	Ia		unmapped	sequence: unmapped (identity 46.5<98.0; margin -5.6<2.0 over runner-up); locus 'LOC_Os04g50090' gives no panel hit (LOC_Os04g50090 Chr4:29877890-29881295+: 0 RAP genes overlap ([]))	File009 row 216; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH051	ORYSJ	Ia	A0A0P0WRG0	mapped	exact_id: exact identifier mapping LOC_Os05g50900 -> Os05g0586300->A0A0P0WRG0 (single panel hit); sequence: unmapped (coverage q=0.79/t=1.00<0.8)	File009 row 217; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH052	ORYSJ	Ia	A0A0N7KGH6	mapped	sequence_unique: RBH, thresholds met; margin 56.6	File009 row 218; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH053	ORYSJ	Ia	Q6ETQ5	mapped	sequence_exact: identical sequence	File009 row 219; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH054	ORYSJ	Ia	A0A0P0WXG4	mapped	exact_id: exact identifier mapping LOC_Os06g33450 -> Os06g0526100->A0A0P0WXG4 (single panel hit); sequence: unmapped (coverage q=0.74/t=0.92<0.8)	File009 row 220; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH055	ORYSJ	Ia	Q5KQG3	mapped	sequence_exact: identical sequence	File009 row 221; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH056	ORYSJ	Ib(2)	Q0JFZ0	mapped	sequence_unique: RBH, thresholds met; margin 99.6	File009 row 222; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH057	ORYSJ	IVc	A0A0P0X750	mapped	sequence_exact: identical sequence	File009 row 223; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH058	ORYSJ	IVc	A0A0P0WN34	mapped	exact_id: exact identifier mapping LOC_Os05g38140 -> Os05g0455400->A0A0P0WN34 (single panel hit); sequence: unmapped (coverage q=0.59/t=0.97<0.8)	File009 row 224; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH059	ORYSJ	IVc	Q6ZGM4	mapped	sequence_exact: identical sequence	File009 row 225; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH060	ORYSJ	IVc	Q6ZKI8	mapped	sequence_exact: identical sequence	File009 row 226; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH061	ORYSJ	IVb	Q2R1K8	mapped	sequence_exact: identical sequence	File009 row 227; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH062	ORYSJ	IVb	Q69V10	mapped	sequence_exact: identical sequence	File009 row 228; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH063	ORYSJ	IVb	Q10KL8	mapped	sequence_exact: identical sequence	File009 row 229; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH064	ORYSJ	IVb	Q67U21	mapped	sequence_exact: identical sequence	File009 row 230; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH065	ORYSJ	X	Q7X7U7	mapped	sequence_exact: identical sequence	File009 row 231; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH066	ORYSJ	X	Q94HA7	mapped	sequence_exact: identical sequence	File009 row 232; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH067	ORYSJ	X	A0A0P0WPD3	mapped	exact_id: exact identifier mapping LOC_Os05g42180 -> Os05g0501200->A0A0P0WPD3 (single panel hit); sequence: unmapped (coverage q=0.47/t=0.81<0.8)	File009 row 233; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH068	ORYSJ	X	A0A5S6R8C6	mapped	sequence_exact: identical sequence	File009 row 234; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH069	ORYSJ	X	A0A0P0V911	mapped	exact_id: exact identifier mapping LOC_Os01g57580 -> Os01g0784900->A0A0P0V911 (single panel hit); sequence: unmapped (coverage q=0.68/t=0.95<0.8)	File009 row 235; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH070	ORYSJ	X	A0A0P0XCY2	mapped	exact_id: exact identifier mapping LOC_Os08g08160 -> Os08g0179400->A0A0P0XCY2 (single panel hit); sequence: unmapped (identity 93.9<98.0; coverage q=0.63/t=0.87<0.8)	File009 row 236; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH071	ORYSJ	X	Q0JRE3	mapped	sequence_exact: identical sequence	File009 row 237; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH072	ORYSJ	X	Q0E228	mapped	sequence_exact: identical sequence	File009 row 238; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH073	ORYSJ	X	A0A0N7KKD4	mapped	sequence_exact: identical sequence	File009 row 239; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH074	ORYSJ	X	Q5NB28	mapped	sequence_exact: identical sequence	File009 row 240; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH075	ORYSJ	X	Q7XQJ2	mapped	sequence_exact: identical sequence	File009 row 241; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH076	ORYSJ	X	Q0DYS4	mapped	sequence_exact: identical sequence	File009 row 242; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH077	ORYSJ	X	Q0D6J9	mapped	sequence_exact: identical sequence	File009 row 243; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH078	ORYSJ	X		unmapped	sequence: unmapped (identity 97.7<98.0; coverage q=0.31/t=0.90<0.8); locus 'LOC_Os03g17130' gives no panel hit (LOC_Os03g17130 Chr3:9513353-9518158-: 0 RAP genes overlap ([]))	File009 row 244; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH079	ORYSJ	XII	Q6Z2G7	mapped	sequence_exact: identical sequence	File009 row 245; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH080	ORYSJ	XII	A3BV95	mapped	sequence_exact: identical sequence	File009 row 246; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH081	ORYSJ	XII	Q0J0G7	mapped	sequence_exact: identical sequence	File009 row 247; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH083	ORYSJ	XII	Q75M33	mapped	sequence_exact: identical sequence	File009 row 248; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH084	ORYSJ	XII	A0A0P0W2I2	mapped	sequence_unique: RBH, thresholds met; margin 45.4	File009 row 249; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH085	ORYSJ	XII	Q69JJ6	mapped	sequence_exact: identical sequence	File009 row 250; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH086	ORYSJ	XII	Q5VR96	mapped	sequence_exact: identical sequence	File009 row 251; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH087	ORYSJ	XII	A0A0P0XHK4	mapped	exact_id: exact identifier mapping LOC_Os08g38080 -> Os08g0487700->A0A0P0XHK4 (single panel hit); sequence: unmapped (identity 94.0<98.0)	File009 row 252; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH088	ORYSJ	XII		unmapped	sequence: unmapped (coverage q=0.47/t=0.81<0.8); locus 'LOC_Os03g12940' gives no panel hit (LOC_Os03g12940 Chr3:6980639-6989636-: 0 RAP genes overlap ([]))	File009 row 253; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH089	ORYSJ	XII	Q84T08	mapped	sequence_exact: identical sequence	File009 row 254; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH090	ORYSJ	XII	Q5N802	mapped	sequence_exact: identical sequence	File009 row 255; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH091	ORYSJ	XII	Q84QW1	mapped	sequence_exact: identical sequence	File009 row 256; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH092	ORYSJ	XII	Q0J0S0	mapped	exact_id: exact identifier mapping LOC_Os09g32510 -> Os09g0501600->Q0J0S0 (single panel hit); sequence: unmapped (identity 92.0<98.0)	File009 row 257; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH093	ORYSJ	XII	Q0JDZ1	mapped	sequence_exact: identical sequence	File009 row 258; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH094	ORYSJ	XII	Q69WS3	mapped	sequence_exact: identical sequence	File009 row 259; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH095	ORYSJ	XII	Q0DAY8	mapped	sequence_unique: RBH, thresholds met; margin 45.5	File009 row 260; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH096	ORYSJ	XI	Q69Y52	mapped	sequence_exact: identical sequence	File009 row 261; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH097	ORYSJ	XI	Q6Z7E7	mapped	sequence_exact: identical sequence	File009 row 262; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH098	ORYSJ	XI	Q7Y1H4	mapped	sequence_exact: identical sequence	File009 row 263; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH099	ORYSJ	XI	Q0D859	mapped	sequence_exact: identical sequence	File009 row 264; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH100	ORYSJ	XI	A0A0P0XN61	mapped	exact_id: exact identifier mapping LOC_Os09g25040 -> Os09g0417400->A0A0P0XN61 (single panel hit); sequence: unmapped (identity 75.8<98.0; coverage q=0.32/t=0.36<0.8; not reciprocal best (target best-matched by OsbHLH115))	File009 row 265; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH101	ORYSJ	VII(a+b)	A0A0P0WF46	mapped	sequence_exact: identical sequence	File009 row 266; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH102	ORYSJ	VII(a+b)	Q0IM00	mapped	sequence_unique: RBH, thresholds met; margin 55.8	File009 row 267; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH103	ORYSJ	VII(a+b)	Q6AUE8	mapped	exact_id: exact identifier mapping LOC_Os03g43810 -> Os03g0639300->Q6AUE8 (single panel hit); sequence: unmapped (coverage q=0.52/t=0.82<0.8)	File009 row 268; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH104	ORYSJ	VII(a+b)	A0A0P0X2F6	mapped	sequence_unique: RBH, thresholds met; margin 52.8	File009 row 269; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH105	ORYSJ	VII(a+b)	Q0JNI9	mapped	sequence_exact: identical sequence	File009 row 270; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH106	ORYSJ	VII(a+b)	Q6AT90	mapped	exact_id: exact identifier mapping LOC_Os05g04740->Q6AT90 (single panel hit); sequence: unmapped (identity 94.4<98.0)	File009 row 271; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH107	ORYSJ	VII(a+b)	A0A0P0VQW6	mapped	sequence_unique: RBH, thresholds met; margin 100.0	File009 row 272; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH108	ORYSJ	VII(a+b)	A0A0P0WTF9	mapped	exact_id: exact identifier mapping LOC_Os06g06900 -> Os06g0164400->A0A0P0WTF9 (single panel hit); sequence: unmapped (identity 58.8<98.0; coverage q=0.57/t=0.63<0.8; margin -21.7<2.0 over runner-up; not reciprocal best (target best-matched by OsbHLH107))	File009 row 273; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH109	ORYSJ	IX	Q5N8U8	mapped	sequence_exact: identical sequence	File009 row 274; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH110	ORYSJ	IX	A0A0P0VLP4	mapped	exact_id: exact identifier mapping LOC_Os02g39140 -> Os02g0603600->A0A0P0VLP4 (single panel hit); sequence: unmapped (coverage q=0.73/t=0.88<0.8)	File009 row 275; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH111	ORYSJ	IX	Q0JC65	mapped	sequence_exact: identical sequence	File009 row 276; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH112	ORYSJ	IX	Q6Z3R6	mapped	sequence_exact: identical sequence	File009 row 277; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH113	ORYSJ	VII(a+b)	A0A0P0XX67	mapped	exact_id: exact identifier mapping LOC_Os10g40740 -> Os10g0556200->A0A0P0XX67 (single panel hit); sequence: unmapped (coverage q=0.94/t=0.39<0.8)	File009 row 278; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH114	ORYSJ	XI		unmapped	sequence: unmapped (identity 57.7<98.0; not reciprocal best (target best-matched by OsbHLH115)); locus 'LOC_Os02g55250' gives no panel hit (LOC_Os02g55250 Chr2:33833909-33838048+: 0 RAP genes overlap ([]))	File009 row 279; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH115	ORYSJ	XI	A0A0P0WTJ8	mapped	exact_id: exact identifier mapping LOC_Os06g08500 -> Os06g0184000->A0A0P0WTJ8 (single panel hit); sequence: unmapped (identity 81.9<98.0)	File009 row 280; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH116	ORYSJ	VII(a+b)		unmapped	sequence: unmapped (coverage q=0.36/t=0.94<0.8); locus 'LOC_Os12g40730' gives no panel hit (LOC_Os12g40730 Chr12:25214547-25225410-: 0 RAP genes overlap ([]))	File009 row 281; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH117	ORYSJ	VIIIb	A0A0P0V4E3	mapped	sequence_exact: identical sequence	File009 row 282; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH118	ORYSJ	VIIIb	Q8S0N2	mapped	sequence_exact: identical sequence	File009 row 283; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH119	ORYSJ	VIIIb	A0A0P0WQ90	mapped	sequence_unique: RBH, thresholds met; margin 99.5	File009 row 284; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH120	ORYSJ	VIIIb	Q67TR8	mapped	sequence_exact: identical sequence	File009 row 285; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH121	ORYSJ	VIIIb	A0A0P0XGL9	mapped	sequence_exact: identical sequence	File009 row 286; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH122	ORYSJ	VIIIb	A0A0P0WUF9	mapped	sequence_unique: RBH, thresholds met; margin 98.6	File009 row 287; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH123	ORYSJ	VIIIb	Q7XAQ6	mapped	sequence_exact: identical sequence	File009 row 288; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH124	ORYSJ	VIIIb	C7J662	mapped	sequence_unique: RBH, thresholds met; margin 100.0	File009 row 289; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH125	ORYSJ	VIIIc(1)	Q0JRA9	mapped	sequence_exact: identical sequence	File009 row 290; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH126	ORYSJ	VIIIc(1)	Q0DY80	mapped	sequence_exact: identical sequence	File009 row 291; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH127	ORYSJ	VIIIc(1)	Q651K2	mapped	sequence_exact: identical sequence	File009 row 292; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH128	ORYSJ	VIIIc(2)	A0A0P0X817	mapped	sequence_unique: RBH, thresholds met; margin 100.0	File009 row 293; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH129	ORYSJ	VIIIc(2)	A0A0N7KGS8	mapped	sequence_unique: RBH, thresholds met; margin 100.0	File009 row 294; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH130	ORYSJ	VIIIc(2)	Q2QMV9	mapped	sequence_exact: identical sequence	File009 row 295; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH131	ORYSJ	VIIIc(2)		unmapped	sequence: unmapped (identity 54.6<98.0); locus 'LOC_Os03g42100' gives no panel hit (LOC_Os03g42100 Chr3:23433316-23434712-: 0 RAP genes overlap ([]))	File009 row 296; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH132	ORYSJ	VIIIc(2)	A0A0P0Y4I9	mapped	exact_id: exact identifier mapping LOC_Os11g41640 -> Os11g0634700->A0A0P0Y4I9 (single panel hit); sequence: unmapped (identity 95.3<98.0; coverage q=1.00/t=0.72<0.8)	File009 row 297; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH133	ORYSJ	VIIIc(2)	Q2QQ32	mapped	sequence_exact: identical sequence	File009 row 298; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH134	ORYSJ	VIIIc(2)	A0A0P0W3G1	mapped	sequence_unique: RBH, thresholds met; margin 100.0	File009 row 299; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH135	ORYSJ	VII(a+b)	Q2QMN2	mapped	sequence_exact: identical sequence	File009 row 300; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH136	ORYSJ	VII(a+b)		unmapped	sequence: unmapped (identity 57.6<98.0; coverage q=0.44/t=0.54<0.8); locus 'LOC_Os12g40710' gives no panel hit (LOC_Os12g40710 Chr12:25202156-25204363+: 0 RAP genes overlap ([]))	File009 row 301; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH137	ORYSJ	VII(a+b)		unmapped	sequence: unmapped (identity 84.7<98.0; coverage q=0.69/t=0.61<0.8); locus 'LOC_Os12g40630' gives no panel hit (LOC_Os12g40630 Chr12:25142777-25148196+: 0 RAP genes overlap ([]))	File009 row 302; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH138	ORYSJ	XIV	A0A0P0VZ61	mapped	sequence_unique: RBH, thresholds met; margin 100.0	File009 row 303; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH139	ORYSJ	XIV	Q6Z861	mapped	sequence_exact: identical sequence	File009 row 304; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH140	ORYSJ	XIV	Q10HE8	mapped	sequence_exact: identical sequence	File009 row 305; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH141	ORYSJ	II	Q7X8R0	mapped	sequence_exact: identical sequence	File009 row 306; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH142	ORYSJ	II	Q5JNS0	mapped	sequence_exact: identical sequence	File009 row 307; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH143	ORYSJ	IX	Q0J0Q4	mapped	sequence_exact: identical sequence	File009 row 308; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH144	ORYSJ	Ib(1)	Q0JD63	mapped	sequence_exact: identical sequence	File009 row 309; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH146	ORYSJ	Ib(1)		unmapped	sequence: unmapped (coverage q=0.61/t=0.94<0.8); locus 'LOC_Os02g34320' gives no panel hit (LOC_Os02g34320 Chr2:20535321-20538749+: 0 RAP genes overlap ([]))	File009 row 310; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH147	ORYSJ	Ib(2)	Q6YYG5	mapped	exact_id: exact identifier mapping LOC_Os02g34370 -> Os02g0548100->Q6YYG5 (single panel hit); sequence: unmapped (identity 95.1<98.0)	File009 row 311; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH148	ORYSJ	IVd	Q75KV9	mapped	sequence_exact: identical sequence	File009 row 312; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH149	ORYSJ	XIII	Q5N9E6	mapped	sequence_exact: identical sequence	File009 row 313; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH150	ORYSJ	XIII	Q0IPY1	mapped	sequence_exact: identical sequence	File009 row 314; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH151	ORYSJ	XIII		unmapped	sequence: unmapped (identity 66.3<98.0); locus 'LOC_Os11g06010' gives no panel hit (LOC_Os11g06010 Chr11:2831601-2837707+: 0 RAP genes overlap ([]))	File009 row 315; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH152	ORYSJ	VII(a+b)	Q10CH5	mapped	sequence_unique: RBH, thresholds met; margin 52.7	File009 row 316; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH153	ORYSJ	XV	Q10R47	mapped	sequence_exact: identical sequence	File009 row 317; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH154	ORYSJ	XV	Q7X742	mapped	sequence_exact: identical sequence	File009 row 318; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH155	ORYSJ	IIIb	Q5Z988	mapped	sequence_exact: identical sequence	File009 row 319; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH156	ORYSJ	III(a+c)	A0A0N7KIY3	mapped	exact_id: exact identifier mapping LOC_Os04g31290->A0A0N7KIY3 (single panel hit); sequence: unmapped (identity 91.9<98.0)	File009 row 320; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH157	ORYSJ	Orphans	Q6ETM0	mapped	sequence_exact: identical sequence	File009 row 321; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH158	ORYSJ	Orphans	A0A0P0WZT8	mapped	sequence_exact: identical sequence	File009 row 322; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH159	ORYSJ	Orphans		unmapped	sequence: unmapped (coverage q=0.43/t=0.33<0.8); locus 'LOC_Os05g06520' gives no panel hit (LOC_Os05g06520 Chr5:3355544-3355798+: 0 RAP genes overlap ([]))	File009 row 323; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH162	ORYSJ	Orphans	Q5WMQ1	mapped	sequence_exact: identical sequence	File009 row 324; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH163	ORYSJ	Orphans	Q8LII5	mapped	sequence_exact: identical sequence	File009 row 325; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH164	ORYSJ	Orphans	B9FXT3	mapped	exact_id: exact identifier mapping LOC_Os07g36460->B9FXT3 (single panel hit); sequence: unmapped (identity 97.0<98.0)	File009 row 326; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH165	ORYSJ	IIIf	A0A0P0V4D3	mapped	exact_id: exact identifier mapping LOC_Os01g39580 -> Os01g0577300->A0A0P0V4D3 (single panel hit); sequence: unmapped (identity 85.4<98.0; not reciprocal best (target best-matched by OsbHLH012))	File009 row 327; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH166	ORYSJ	Orphans	Q10LR1	mapped	sequence_exact: identical sequence	File009 row 328; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH167	ORYSJ	III(d+e)	A0A0P0XQ00	mapped	exact_id: exact identifier mapping LOC_Os09g34330 -> Os09g0519100->A0A0P0XQ00 (single panel hit); sequence: unmapped (identity 93.0<98.0)	File009 row 329; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH168	ORYSJ	Ib(2)		unmapped	sequence: unmapped (coverage q=0.64/t=1.00<0.8); locus 'LOC_Os01g01840' gives no panel hit (LOC_Os01g01840 Chr1:455512-460716+: 0 RAP genes overlap ([]))	File009 row 330; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH169	ORYSJ	Ib(2)	Q8W0N9	mapped	sequence_exact: identical sequence	File009 row 331; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH170	ORYSJ	Ib(2)	A0A0P0V3B5	mapped	exact_id: exact identifier mapping LOC_Os01g33400 -> Os01g0518300->A0A0P0V3B5 (single panel hit); sequence: unmapped (coverage q=0.34/t=0.31<0.8)	File009 row 332; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH171	ORYSJ	IVd	A0A0P0V8W1	mapped	exact_id: exact identifier mapping LOC_Os01g56690 -> Os01g0773800->A0A0P0V8W1 (single panel hit); sequence: unmapped (identity 95.2<98.0)	File009 row 333; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH172	ORYSJ	Ib(2)		unmapped	sequence: unmapped (identity 89.5<98.0); locus 'LOC_Os02g13670' gives no panel hit (LOC_Os02g13670 Chr2:7333138-7334086-: 0 RAP genes overlap ([]))	File009 row 334; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH173	ORYSJ	XV	Q6YUX0	mapped	sequence_exact: identical sequence	File009 row 335; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH174	ORYSJ	XV	Q0DDF6	mapped	sequence_exact: identical sequence	File009 row 336; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH175	ORYSJ	XV	Q338G6	mapped	sequence_exact: identical sequence	File009 row 337; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH176	ORYSJ	XII	A0A0P0Y1V2	mapped	exact_id: exact identifier mapping LOC_Os11g25560 -> Os11g0442500->A0A0P0Y1V2 (single panel hit); sequence: unmapped (identity 87.9<98.0)	File009 row 338; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH177	ORYSJ	XV	Q2R1J3	mapped	sequence_exact: identical sequence	File009 row 339; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+OsbHLH178	ORYSJ	VIIIa		unmapped	sequence: unmapped (no DIAMOND hit); locus 'LOC_Os12g31430' gives no panel hit (LOC_Os12g31430 Chr12:18903675-18904665+: 0 RAP genes overlap ([]))	File009 row 340; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH001	PHYPA	XII		unmapped	sequence: unmapped (coverage q=0.92/t=0.33<0.8); locus 'PHYPADRAFT_113607' gives no panel hit	File009 row 342; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH002	PHYPA	III(d+e)	A0A7I4F048	mapped	sequence_unique: RBH, thresholds met; margin 53.5	File009 row 343; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH003	PHYPA	Orphans		unmapped	sequence: unmapped (identity 85.5<98.0; coverage q=0.97/t=0.39<0.8; not reciprocal best (target best-matched by PpbHLH044)); locus 'PHYPADRAFT_118546' gives no panel hit	File009 row 344; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH004	PHYPA	IIIf		unmapped	sequence: unmapped (coverage q=0.52/t=0.67<0.8); locus 'PHYPADRAFT_119981' gives no panel hit	File009 row 345; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH005	PHYPA	IVd		unmapped	sequence: unmapped (coverage q=0.96/t=0.56<0.8); locus 'PHYPADRAFT_120233' gives no panel hit	File009 row 346; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH006	PHYPA	IX		unmapped	sequence: unmapped (coverage q=1.00/t=0.18<0.8); locus 'PHYPADRAFT_121037' gives no panel hit	File009 row 347; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH007	PHYPA	XII		unmapped	sequence: unmapped (identity 97.2<98.0; coverage q=0.92/t=0.36<0.8; margin -1.4<2.0 over runner-up); locus 'PHYPADRAFT_128346' gives no panel hit	File009 row 348; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH008	PHYPA	IX		unmapped	sequence: unmapped (coverage q=1.00/t=0.25<0.8; not reciprocal best (target best-matched by PpbHLH047)); locus 'PHYPADRAFT_130556' gives no panel hit	File009 row 349; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH009	PHYPA	VII(a+b)		unmapped	sequence: unmapped (identity 95.1<98.0; coverage q=1.00/t=0.11<0.8; margin -1.1<2.0 over runner-up; not reciprocal best (target best-matched by PpbHLH030)); locus 'PHYPADRAFT_130842' gives no panel hit	File009 row 350; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH010	PHYPA	Orphans		unmapped	sequence: unmapped (coverage q=1.00/t=0.20<0.8); locus 'PHYPADRAFT_136623' gives no panel hit	File009 row 351; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH011	PHYPA	IIIf		unmapped	sequence: unmapped (identity 60.8<98.0); locus 'PHYPADRAFT_140422' gives no panel hit	File009 row 352; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH012	PHYPA	XI		unmapped	sequence: unmapped (coverage q=1.00/t=0.49<0.8); locus 'PHYPADRAFT_141013' gives no panel hit	File009 row 353; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH013	PHYPA	XI		unmapped	sequence: unmapped (coverage q=1.00/t=0.48<0.8); locus 'PHYPADRAFT_143875' gives no panel hit	File009 row 354; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH014	PHYPA	IVc		unmapped	sequence: unmapped (coverage q=1.00/t=0.72<0.8); locus 'PHYPADRAFT_145569' gives no panel hit	File009 row 355; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH015	PHYPA	IX		unmapped	sequence: unmapped (coverage q=1.00/t=0.18<0.8; not reciprocal best (target best-matched by PpbHLH047)); locus 'PHYPADRAFT_148152' gives no panel hit	File009 row 356; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH016	PHYPA	IX		unmapped	sequence: unmapped (coverage q=1.00/t=0.31<0.8; not reciprocal best (target best-matched by PpbHLH094)); locus 'PHYPADRAFT_148201' gives no panel hit	File009 row 357; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH017	PHYPA	XII		unmapped	sequence: unmapped (coverage q=1.00/t=0.52<0.8); locus 'PHYPADRAFT_148564' gives no panel hit	File009 row 358; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH018	PHYPA	Ia		unmapped	sequence: unmapped (identity 88.5<98.0; coverage q=1.00/t=0.44<0.8); locus 'PHYPADRAFT_156270' gives no panel hit	File009 row 359; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH019	PHYPA	III(d+e)		unmapped	sequence: unmapped (identity 96.2<98.0; coverage q=0.72/t=0.94<0.8); locus 'PHYPADRAFT_158731' gives no panel hit	File009 row 360; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH020	PHYPA	IVd		unmapped	sequence: unmapped (identity 88.9<98.0); locus 'PHYPADRAFT_160137' gives no panel hit	File009 row 361; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH021	PHYPA	IIIb	A0A7I4CZ06	mapped	sequence_unique: RBH, thresholds met; margin 32.9	File009 row 362; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH022	PHYPA	IVa	A9RVJ2	mapped	sequence_exact: identical sequence	File009 row 363; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH023	PHYPA	Orphans		unmapped	sequence: unmapped (identity 84.8<98.0; coverage q=0.73/t=1.00<0.8); locus 'PHYPADRAFT_161497' gives no panel hit	File009 row 364; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH024	PHYPA	Orphans		unmapped	sequence: unmapped (coverage q=0.69/t=1.00<0.8); locus 'PHYPADRAFT_161996' gives no panel hit	File009 row 365; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH025	PHYPA	IVa		unmapped	sequence: unmapped (coverage q=0.75/t=0.96<0.8); locus 'PHYPADRAFT_162363' gives no panel hit	File009 row 366; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH026	PHYPA	VIIIb		unmapped	sequence: unmapped (coverage q=0.55/t=0.87<0.8); locus 'PHYPADRAFT_162880' gives no panel hit	File009 row 367; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH027	PHYPA	VIIIb		unmapped	sequence: unmapped (coverage q=0.78/t=1.00<0.8); locus 'PHYPADRAFT_163362' gives no panel hit	File009 row 368; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH028	PHYPA	VIIIc(2)	A9SAG4	mapped	sequence_exact: identical sequence	File009 row 369; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH029	PHYPA	VII(a+b)		unmapped	sequence: unmapped (coverage q=0.71/t=0.99<0.8); locus 'PHYPADRAFT_164347' gives no panel hit	File009 row 370; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH030	PHYPA	VII(a+b)		unmapped	sequence: unmapped (identity 97.1<98.0); locus 'PHYPADRAFT_164436' gives no panel hit	File009 row 371; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH031	PHYPA	III(d+e)		unmapped	sequence: unmapped (identity 96.9<98.0); locus 'PHYPADRAFT_164645' gives no panel hit	File009 row 372; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH032	PHYPA	III(d+e)	A0A7I4DGH4	mapped	sequence_unique: RBH, thresholds met; margin 52.4	File009 row 373; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH033	PHYPA	VIIIc(1)	A0A2K1L0R4	mapped	sequence_unique: RBH, thresholds met; margin 33.6	File009 row 374; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH034	PHYPA	Orphans		unmapped	sequence: unmapped (coverage q=0.74/t=1.00<0.8); locus 'PHYPADRAFT_165670' gives no panel hit	File009 row 375; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH035	PHYPA	VIIIb	A0A2K1J424	mapped	sequence_unique: RBH, thresholds met; margin 28.9	File009 row 376; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH036	PHYPA	Orphans		unmapped	sequence: unmapped (coverage q=0.80/t=1.00<0.8); locus 'PHYPADRAFT_166219' gives no panel hit	File009 row 377; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH037	PHYPA	Ib(1)		unmapped	sequence: unmapped (identity 94.8<98.0); locus 'PHYPADRAFT_166279' gives no panel hit	File009 row 378; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH038	PHYPA	Orphans		unmapped	sequence: unmapped (identity 94.9<98.0); locus 'PHYPADRAFT_166411' gives no panel hit	File009 row 379; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH039	PHYPA	IVb	A9SV25	mapped	sequence_exact: identical sequence	File009 row 380; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH040	PHYPA	Orphans		unmapped	sequence: unmapped (identity 93.7<98.0; coverage q=0.63/t=0.89<0.8); locus 'PHYPADRAFT_166769' gives no panel hit	File009 row 381; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH041	PHYPA	III(a+c)	A9SVD4	mapped	sequence_exact: identical sequence	File009 row 382; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH042	PHYPA	IVb		unmapped	sequence: unmapped (identity 97.3<98.0; coverage q=0.74/t=0.95<0.8); locus 'PHYPADRAFT_167103' gives no panel hit	File009 row 383; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH043	PHYPA	VIIIc(1)	A0A7I4FCA3	mapped	sequence_unique: RBH, thresholds met; margin 32.9	File009 row 384; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH044	PHYPA	Orphans		unmapped	sequence: unmapped (identity 96.7<98.0); locus 'PHYPADRAFT_167852' gives no panel hit	File009 row 385; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH045	PHYPA	VIIIb		unmapped	sequence: unmapped (coverage q=0.47/t=0.82<0.8); locus 'PHYPADRAFT_168015' gives no panel hit	File009 row 386; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH046	PHYPA	Va	A0A2K1JBG2	mapped	sequence_unique: RBH, thresholds met; margin 28.9	File009 row 387; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH047	PHYPA	IX	A0A7I4ELB4	mapped	sequence_unique: RBH, thresholds met; margin 32.1	File009 row 388; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH048	PHYPA	Ib(1)	A0A2K1ID39	mapped	sequence_unique: RBH, thresholds met; margin 39.1	File009 row 389; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH049	PHYPA	Orphans		unmapped	sequence: unmapped (coverage q=0.59/t=0.69<0.8); locus 'PHYPADRAFT_170794' gives no panel hit	File009 row 390; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH050	PHYPA	Orphans		unmapped	sequence: unmapped (coverage q=0.74/t=1.00<0.8); locus 'PHYPADRAFT_171257' gives no panel hit	File009 row 391; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH051	PHYPA	XII	A9TT60	mapped	sequence_exact: identical sequence	File009 row 392; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH052	PHYPA	Orphans	A9TYD9	mapped	sequence_exact: identical sequence	File009 row 393; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH053	PHYPA	III(a+c)		unmapped	sequence: unmapped (identity 80.0<98.0; coverage q=1.00/t=0.36<0.8); locus 'PHYPADRAFT_18085' gives no panel hit	File009 row 394; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH054	PHYPA	Ia		unmapped	sequence: unmapped (identity 83.3<98.0; coverage q=1.00/t=0.41<0.8); locus 'PHYPADRAFT_184221' gives no panel hit	File009 row 395; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH055	PHYPA	III(a+c)		unmapped	sequence: unmapped (coverage q=1.00/t=0.64<0.8); locus 'PHYPADRAFT_192553' gives no panel hit	File009 row 396; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH056	PHYPA	IVc	A9TJS4	mapped	sequence_exact: identical sequence	File009 row 397; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH057	PHYPA	IIIb	A0A7I4A5S4	mapped	sequence_unique: RBH, thresholds met; margin 27.6	File009 row 398; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH058	PHYPA	Orphans		unmapped	sequence: unmapped (identity 93.6<98.0; coverage q=0.59/t=0.72<0.8); locus 'PHYPADRAFT_229640' gives no panel hit	File009 row 399; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH059	PHYPA	Orphans	A0A7I4CGB6	mapped	sequence_unique: RBH, thresholds met; margin 39.5	File009 row 400; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH060	PHYPA	Orphans	A0A7I4EPL8	mapped	sequence_unique: RBH, thresholds met; margin 99.8	File009 row 401; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH061	PHYPA	Orphans		unmapped	sequence: unmapped (identity 96.0<98.0); locus 'PHYPADRAFT_230424' gives no panel hit	File009 row 402; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH062	PHYPA	IVd	A9SWT9	mapped	sequence_exact: identical sequence	File009 row 403; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH063	PHYPA	VIIIc(2)	A0A2K1KTQ2	mapped	sequence_unique: RBH, thresholds met; margin 61.6	File009 row 404; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH064	PHYPA	Orphans		unmapped	sequence: unmapped (coverage q=0.66/t=1.00<0.8); locus 'PHYPADRAFT_233706' gives no panel hit	File009 row 405; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH065	PHYPA	XII		unmapped	sequence: unmapped (coverage q=1.00/t=0.20<0.8; not reciprocal best (target best-matched by PpbHLH017)); locus 'PHYPADRAFT_27712' gives no panel hit	File009 row 406; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH066	PHYPA	IIIb		unmapped	sequence: unmapped (coverage q=1.00/t=0.12<0.8; margin 0.0<2.0 over runner-up; not reciprocal best (target best-matched by PpbHLH021)); locus 'PHYPADRAFT_28478' gives no panel hit	File009 row 407; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH067	PHYPA	Va		unmapped	sequence: unmapped (identity 40.9<98.0; coverage q=1.00/t=0.51<0.8; margin -46.8<2.0 over runner-up; not reciprocal best (target best-matched by PpbHLH046)); locus 'PHYPADRAFT_34992' gives no panel hit	File009 row 408; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH068	PHYPA	XII		unmapped	sequence: unmapped (identity 82.8<98.0; coverage q=0.99/t=0.36<0.8; margin -17.2<2.0 over runner-up; not reciprocal best (target best-matched by PpbHLH073)); locus 'PHYPADRAFT_36721' gives no panel hit	File009 row 409; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH069	PHYPA	VIIIb		unmapped	sequence: unmapped (coverage q=1.00/t=0.19<0.8; not reciprocal best (target best-matched by PpbHLH027)); locus 'PHYPADRAFT_47728' gives no panel hit	File009 row 410; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH070	PHYPA	XII		unmapped	sequence: unmapped (coverage q=1.00/t=0.34<0.8; not reciprocal best (target best-matched by PpbHLH017)); locus 'PHYPADRAFT_48139' gives no panel hit	File009 row 411; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH071	PHYPA	XII		unmapped	sequence: unmapped (coverage q=1.00/t=0.22<0.8); locus 'PHYPADRAFT_48206' gives no panel hit	File009 row 412; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH072	PHYPA	XII		unmapped	sequence: unmapped (coverage q=1.00/t=0.12<0.8); locus 'PHYPADRAFT_48248' gives no panel hit	File009 row 413; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH073	PHYPA	XII		unmapped	sequence: unmapped (identity 94.4<98.0; coverage q=1.00/t=0.35<0.8); locus 'PHYPADRAFT_48267' gives no panel hit	File009 row 414; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH074	PHYPA	VIIIa		unmapped	sequence: unmapped (coverage q=1.00/t=0.14<0.8; not reciprocal best (target best-matched by PpbHLH081)); locus 'PHYPADRAFT_49107' gives no panel hit	File009 row 415; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH075	PHYPA	IX		unmapped	sequence: unmapped (coverage q=1.00/t=0.15<0.8; not reciprocal best (target best-matched by PpbHLH047)); locus 'PHYPADRAFT_49171' gives no panel hit	File009 row 416; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH076	PHYPA	XII		unmapped	sequence: unmapped (coverage q=1.00/t=0.10<0.8; margin 0.0<2.0 over runner-up; not reciprocal best (target best-matched by PpbHLH071)); locus 'PHYPADRAFT_49174' gives no panel hit	File009 row 417; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH077	PHYPA	XII		unmapped	sequence: unmapped (coverage q=1.00/t=0.10<0.8; margin 0.0<2.0 over runner-up; not reciprocal best (target best-matched by PpbHLH071)); locus 'PHYPADRAFT_49175' gives no panel hit	File009 row 418; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH078	PHYPA	Orphans		unmapped	sequence: unmapped (coverage q=1.00/t=0.13<0.8); locus 'PHYPADRAFT_49470' gives no panel hit	File009 row 419; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH079	PHYPA	VII(a+b)		unmapped	sequence: unmapped (coverage q=1.00/t=0.11<0.8; not reciprocal best (target best-matched by PpbHLH030)); locus 'PHYPADRAFT_49637' gives no panel hit	File009 row 420; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH080	PHYPA	III(a+c)	A9RBH4	mapped	sequence_exact: identical sequence	File009 row 421; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH081	PHYPA	VIIIa	A0A2K1J9K3	mapped	sequence_unique: RBH, thresholds met; margin 32.4	File009 row 422; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH082	PHYPA	Orphans		unmapped	sequence: unmapped (coverage q=0.66/t=1.00<0.8); locus 'PHYPADRAFT_64941' gives no panel hit	File009 row 423; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH083	PHYPA	VIIIc(2)	A0A2K1ICK3	mapped	sequence_unique: RBH, thresholds met; margin 50.2	File009 row 424; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH084	PHYPA	IVc	A0A2K1KNP5	mapped	sequence_unique: RBH, thresholds met; margin 16.1	File009 row 425; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH085	PHYPA	IVb	A9RVD9	mapped	sequence_exact: identical sequence	File009 row 426; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH086	PHYPA	Va	A0A2K1JMX7	mapped	sequence_unique: RBH, thresholds met; margin 34.5	File009 row 427; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH087	PHYPA	Orphans		unmapped	sequence: unmapped (identity 97.8<98.0; coverage q=0.60/t=0.85<0.8); locus 'PHYPADRAFT_76229' gives no panel hit	File009 row 428; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH088	PHYPA	XII		unmapped	sequence: unmapped (identity 89.5<98.0; coverage q=0.32/t=0.37<0.8; not reciprocal best (target best-matched by PpbHLH007)); locus 'PHYPADRAFT_78099' gives no panel hit	File009 row 429; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH089	PHYPA	III(a+c)		unmapped	sequence: unmapped (coverage q=0.60/t=0.91<0.8); locus 'PHYPADRAFT_78495' gives no panel hit	File009 row 430; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH090	PHYPA	Orphans		unmapped	sequence: unmapped (coverage q=0.58/t=0.97<0.8); locus 'PHYPADRAFT_79459' gives no panel hit	File009 row 431; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH091	PHYPA	Orphans	A0A2K1K1K8	mapped	sequence_unique: RBH, thresholds met; margin 53.1	File009 row 432; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH092	PHYPA	II		unmapped	sequence: unmapped (identity 93.4<98.0; coverage q=0.53/t=0.95<0.8); locus 'PHYPADRAFT_81303' gives no panel hit	File009 row 433; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH093	PHYPA	Orphans		unmapped	sequence: unmapped (coverage q=0.76/t=0.91<0.8); locus 'PHYPADRAFT_81393' gives no panel hit	File009 row 434; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH094	PHYPA	IX	A0A7I4AFK0	mapped	sequence_unique: RBH, thresholds met; margin 37.1	File009 row 435; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH095	PHYPA	VIIIc(2)	A9T4P5	mapped	sequence_exact: identical sequence	File009 row 436; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH096	PHYPA	VIIIb	A0A2K1KM45	mapped	sequence_unique: RBH, thresholds met; margin 41.5	File009 row 437; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH097	PHYPA	Ib(1)		unmapped	sequence: unmapped (coverage q=0.73/t=0.97<0.8); locus 'PHYPADRAFT_98910' gives no panel hit	File009 row 438; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+PpbHLH098	PHYPA	II		unmapped	sequence: unmapped (identity 88.9<98.0; coverage q=0.74/t=0.97<0.8); locus 'PHYPADRAFT_99319' gives no panel hit	File009 row 439; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH001	SELMO	III(a+c)	D8RXD4	mapped	sequence_exact: identical sequence	File009 row 440; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH002	SELMO	XI	D8SZ78	mapped	sequence_exact: identical sequence	File009 row 441; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH003	SELMO	VIIIc(1)	D8RNS6	mapped	sequence_exact: identical sequence	File009 row 442; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH004	SELMO	VIIIc(1)	D8SXI2	mapped	sequence_exact: identical sequence	File009 row 443; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH005	SELMO	VIIIc(1)	D8RD17	mapped	sequence_exact: identical sequence	File009 row 444; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH006	SELMO	VIIIc(1)	D8RSN9	mapped	sequence_exact: identical sequence	File009 row 445; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH007	SELMO	Orphans		unmapped	sequence: ambiguous (margin 0.5<2.0 over runner-up); locus 'none' gives no panel hit	File009 row 446; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH008	SELMO	IVa	D8SXG2	mapped	sequence_exact: identical sequence	File009 row 447; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH009	SELMO	IX	D8SUX0	mapped	sequence_exact: identical sequence	File009 row 448; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH010	SELMO	XII	D8RGJ6	mapped	sequence_exact: identical sequence	File009 row 449; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH011	SELMO	IIIb	D8RIG6	mapped	sequence_exact: identical sequence	File009 row 450; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH012	SELMO	Orphans	D8R3A9	mapped	sequence_exact: identical sequence	File009 row 451; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH013	SELMO	X	D8SHL1	mapped	sequence_exact: identical sequence	File009 row 452; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH014	SELMO	X	D8RZP0	mapped	sequence_exact: identical sequence	File009 row 453; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH015	SELMO	Orphans	D8RSH9	mapped	sequence_exact: identical sequence	File009 row 454; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH016	SELMO	XIII	D8SSH3	mapped	sequence_exact: identical sequence	File009 row 455; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH017	SELMO	III(a+c)	D8RRH4	mapped	sequence_exact: identical sequence	File009 row 456; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH018	SELMO	VIIIc(2)	D8QWB7	mapped	sequence_exact: identical sequence	File009 row 457; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH019	SELMO	Ib(1)	D8RP23	mapped	sequence_exact: identical sequence	File009 row 458; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH020	SELMO	IVd	D8RGR8	mapped	sequence_exact: identical sequence	File009 row 459; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH021	SELMO	VII(a+b)	D8S5S0	mapped	sequence_exact: identical sequence	File009 row 460; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH022	SELMO	Orphans	D8SHZ7	mapped	sequence_exact: identical sequence	File009 row 461; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH023	SELMO	XII	D8R5U8	mapped	sequence_exact: identical sequence	File009 row 462; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH024	SELMO	XIV	D8SWA6	mapped	sequence_exact: identical sequence	File009 row 463; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH025	SELMO	IVa	D8RNU5	mapped	sequence_exact: identical sequence	File009 row 464; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH026	SELMO	Ib(1)	D8SSE0	mapped	sequence_exact: identical sequence	File009 row 465; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH027	SELMO	Orphans	D8R6H8	mapped	sequence_exact: identical sequence	File009 row 466; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH028	SELMO	XII	D8S1A0	mapped	sequence_exact: identical sequence	File009 row 467; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH029	SELMO	XIV	D8SIS4	mapped	sequence_exact: identical sequence	File009 row 468; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH030	SELMO	VII(a+b)	D8SMT6	mapped	sequence_exact: identical sequence	File009 row 469; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH031	SELMO	IIIb	D8SKS1	mapped	sequence_exact: identical sequence	File009 row 470; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH032	SELMO	Ib(1)	D8TCP6	mapped	sequence_exact: identical sequence	File009 row 471; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH033	SELMO	IX	D8R8Q3	mapped	sequence_exact: identical sequence	File009 row 472; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH034	SELMO	IVc	D8TBZ7	mapped	sequence_exact: identical sequence	File009 row 473; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH035	SELMO	IVd	D8QQZ5	mapped	sequence_exact: identical sequence	File009 row 474; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH036	SELMO	IVd	D8RKT0	mapped	sequence_exact: identical sequence	File009 row 475; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH037	SELMO	II	D8QZC5	mapped	sequence_exact: identical sequence	File009 row 476; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH038	SELMO	Orphans	D8SHK0	mapped	sequence_exact: identical sequence	File009 row 477; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH039	SELMO	XII		excluded	identical sequence to SmbHLH010 (both exactly = panel protein D8RGJ6); redundant entry for one panel gene (Selaginella v1 haplotype copy; protocol 0.6 identical copies) - SmbHLH010 kept	File009 row 478; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH040	SELMO	Orphans	D8SEM0	mapped	sequence_exact: identical sequence	File009 row 479; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH041	SELMO	IVc	D8QU30	mapped	sequence_exact: identical sequence	File009 row 480; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH042	SELMO	VIIIc(2)	D8S8S8	mapped	sequence_exact: identical sequence	File009 row 481; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH043	SELMO	IVd	D8R7Y7	mapped	sequence_exact: identical sequence	File009 row 482; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH044	SELMO	VIIIa	D8RJJ0	mapped	sequence_exact: identical sequence	File009 row 483; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH045	SELMO	XII		excluded	identical sequence to SmbHLH023 (both exactly = panel protein D8R5U8); redundant entry for one panel gene (Selaginella v1 haplotype copy; protocol 0.6 identical copies) - SmbHLH023 kept	File009 row 484; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH046	SELMO	Vb	D8RL49	mapped	sequence_exact: identical sequence	File009 row 485; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH047	SELMO	Orphans	D8R8X3	mapped	sequence_exact: identical sequence	File009 row 486; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH048	SELMO	Ib(1)	D8SNZ7	mapped	sequence_exact: identical sequence	File009 row 487; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH049	SELMO	Vb		excluded	identical sequence to SmbHLH046 (both exactly = panel protein D8RL49); redundant entry for one panel gene (Selaginella v1 haplotype copy; protocol 0.6 identical copies) - SmbHLH046 kept	File009 row 488; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH050	SELMO	IIIb		excluded	identical sequence to SmbHLH011 (both exactly = panel protein D8RIG6); redundant entry for one panel gene (Selaginella v1 haplotype copy; protocol 0.6 identical copies) - SmbHLH011 kept	File009 row 489; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH051	SELMO	VIIIb	D8RUG4	mapped	sequence_exact: identical sequence	File009 row 490; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH052	SELMO	Orphans	D8R9T5	mapped	sequence_exact: identical sequence	File009 row 491; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH053	SELMO	IIIb	D8QSQ4	mapped	sequence_exact: identical sequence	File009 row 492; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH054	SELMO	XIV	D8RCZ7	mapped	sequence_exact: identical sequence	File009 row 493; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH055	SELMO	II	D8RDP9	mapped	sequence_exact: identical sequence	File009 row 494; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH056	SELMO	Vb	D8S5R9	mapped	sequence_exact: identical sequence	File009 row 495; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH057	SELMO	XI	D8SCY3	mapped	sequence_exact: identical sequence	File009 row 496; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH058	SELMO	XI	D8R343	mapped	sequence_exact: identical sequence	File009 row 497; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH059	SELMO	IX	D8RYP6	mapped	sequence_exact: identical sequence	File009 row 498; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH060	SELMO	XIII	D8SZH8	mapped	sequence_exact: identical sequence	File009 row 499; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH061	SELMO	VII(a+b)	D8SCD3	mapped	sequence_exact: identical sequence	File009 row 500; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH062	SELMO	IIIb	D8REY2	mapped	sequence_exact: identical sequence	File009 row 501; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH063	SELMO	Vb		excluded	identical sequence to SmbHLH056 (both exactly = panel protein D8S5R9); redundant entry for one panel gene (Selaginella v1 haplotype copy; protocol 0.6 identical copies) - SmbHLH056 kept	File009 row 502; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH064	SELMO	X		excluded	identical sequence to SmbHLH013 (both exactly = panel protein D8SHL1); redundant entry for one panel gene (Selaginella v1 haplotype copy; protocol 0.6 identical copies) - SmbHLH013 kept	File009 row 503; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH065	SELMO	Orphans	D8S4H3	mapped	sequence_exact: identical sequence	File009 row 504; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH066	SELMO	IVd	D8S5D1	mapped	sequence_exact: identical sequence	File009 row 505; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH067	SELMO	X	D8RPY7	mapped	sequence_exact: identical sequence	File009 row 506; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH068	SELMO	XI	D8SH39	mapped	sequence_exact: identical sequence	File009 row 507; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH069	SELMO	IIIb	D8R1X7	mapped	sequence_exact: identical sequence	File009 row 508; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH070	SELMO	Orphans	D8QYR5	mapped	sequence_exact: identical sequence	File009 row 509; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH071	SELMO	VIIIa	D8QRB1	mapped	sequence_exact: identical sequence	File009 row 510; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH072	SELMO	VII(a+b)	D8SGL1	mapped	sequence_exact: identical sequence	File009 row 511; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH073	SELMO	IVc	D8QZZ7	mapped	sequence_exact: identical sequence	File009 row 512; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH074	SELMO	VIIIb	D8QWN0	mapped	sequence_exact: identical sequence	File009 row 513; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH075	SELMO	IIIb	D8QPQ4	mapped	sequence_exact: identical sequence	File009 row 514; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH076	SELMO	XI	D8SSS4	mapped	sequence_exact: identical sequence	File009 row 515; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH077	SELMO	IVd	D8T7I3	mapped	sequence_exact: identical sequence	File009 row 516; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH078	SELMO	IVb	D8SLD3	mapped	sequence_exact: identical sequence	File009 row 517; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH079	SELMO	XIV	D8RSR1	mapped	sequence_exact: identical sequence	File009 row 518; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH080	SELMO	Orphans	D8T5U8	mapped	sequence_exact: identical sequence	File009 row 519; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH081	SELMO	Ib(1)	D8SEH0	mapped	sequence_exact: identical sequence	File009 row 520; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH082	SELMO	IVc		excluded	identical sequence to SmbHLH041 (both exactly = panel protein D8QU30); redundant entry for one panel gene (Selaginella v1 haplotype copy; protocol 0.6 identical copies) - SmbHLH041 kept	File009 row 521; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH083	SELMO	Ia	D8TAA2	mapped	sequence_exact: identical sequence	File009 row 522; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH084	SELMO	II	D8QNH7	mapped	sequence_exact: identical sequence	File009 row 523; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH085	SELMO	XI		excluded	identical sequence to SmbHLH058 (both exactly = panel protein D8R343); redundant entry for one panel gene (Selaginella v1 haplotype copy; protocol 0.6 identical copies) - SmbHLH058 kept	File009 row 524; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH086	SELMO	Ia		unmapped	sequence: unmapped (identity 73.5<98.0; coverage q=0.94/t=0.32<0.8; margin 0.0<2.0 over runner-up); locus 'none' gives no panel hit	File009 row 525; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH087	SELMO	Ia		unmapped	sequence: unmapped (coverage q=1.00/t=0.36<0.8); locus 'none' gives no panel hit	File009 row 526; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH088	SELMO	Ia		unmapped	sequence: unmapped (coverage q=1.00/t=0.36<0.8; not reciprocal best (target best-matched by SmbHLH087)); locus 'none' gives no panel hit	File009 row 527; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH089	SELMO	IIIf	D8R7Y4	mapped	sequence_exact: identical sequence	File009 row 528; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH090	SELMO	VII(a+b)	D8SK13	mapped	sequence_exact: identical sequence	File009 row 529; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH091	SELMO	IX	D8QQ77	mapped	sequence_exact: identical sequence	File009 row 530; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH092	SELMO	IVd	D8RGR5	mapped	sequence_exact: identical sequence	File009 row 531; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH093	SELMO	XII	D8R134	mapped	sequence_exact: identical sequence	File009 row 532; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH094	SELMO	Ia	D8REM4	mapped	sequence_exact: identical sequence	File009 row 533; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH095	SELMO	Ia	D8RI62	mapped	sequence_exact: identical sequence	File009 row 534; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH096	SELMO	Va		unmapped	sequence: unmapped (coverage q=0.55/t=1.00<0.8); locus 'none' gives no panel hit	File009 row 535; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH097	SELMO	IIIf	D8QQZ9	mapped	sequence_exact: identical sequence	File009 row 536; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH098	SELMO	Va		unmapped	sequence: unmapped (identity 95.4<98.0; coverage q=0.56/t=1.00<0.8; not reciprocal best (target best-matched by SmbHLH096)); locus 'none' gives no panel hit	File009 row 537; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH099	SELMO	Orphans	D8T8N9	mapped	sequence_exact: identical sequence	File009 row 538; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH100	SELMO	Ia	D8T3L6	mapped	sequence_exact: identical sequence	File009 row 539; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH101	SELMO	VIIIc(1)	D8S5W0	mapped	sequence_exact: identical sequence	File009 row 540; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH102	SELMO	XIII	D8R879	mapped	sequence_exact: identical sequence	File009 row 541; subfamily: Suppl. Fig. S2 table	PiresDolan2010
+SmbHLH103	SELMO	VIIIc(1)	D8SMX2	mapped	sequence_exact: identical sequence	File009 row 542; subfamily: Suppl. Fig. S2 table	PiresDolan2010

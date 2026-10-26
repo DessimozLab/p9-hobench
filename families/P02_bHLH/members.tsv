@@ -1,0 +1,436 @@
+gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	source	locator
+Q9FN69	ARATH	AtbHLH001	IIIf	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 2; subfamily: Suppl. Fig. S2 table
+Q9CAD0	ARATH	AtbHLH002	IIIf	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 3; subfamily: Suppl. Fig. S2 table
+O23487	ARATH	AtbHLH003	III(d+e)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 4; subfamily: Suppl. Fig. S2 table
+O49687	ARATH	AtbHLH004	III(d+e)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 5; subfamily: Suppl. Fig. S2 table
+Q9FIP9	ARATH	AtbHLH005	III(d+e)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 6; subfamily: Suppl. Fig. S2 table
+Q39204	ARATH	AtbHLH006	III(d+e)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 7; subfamily: Suppl. Fig. S2 table
+Q93Y00	ARATH	AtbHLH007	XI	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 8; subfamily: Suppl. Fig. S2 table
+O80536	ARATH	AtbHLH008	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 9; subfamily: Suppl. Fig. S2 table
+Q8W2F3	ARATH	AtbHLH009	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 10; subfamily: Suppl. Fig. S2 table
+Q84TK1	ARATH	AtbHLH010	II	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 11; subfamily: Suppl. Fig. S2 table
+Q8W2F2	ARATH	AtbHLH011	IVb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 12; subfamily: Suppl. Fig. S2 table
+Q8W2F1	ARATH	AtbHLH012	IIIf	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 13; subfamily: Suppl. Fig. S2 table
+Q9LNJ5	ARATH	AtbHLH013	III(d+e)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 14; subfamily: Suppl. Fig. S2 table
+O23090	ARATH	AtbHLH014	III(d+e)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 15; subfamily: Suppl. Fig. S2 table
+Q8GZM7	ARATH	AtbHLH015	VII(a+b)	sequence_unique	100.0	1.0/0.851	PiresDolan2010	File009 row 16; subfamily: Suppl. Fig. S2 table
+Q8GZ38	ARATH	AtbHLH016	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 17; subfamily: Suppl. Fig. S2 table
+Q9ZPY8	ARATH	AtbHLH017	III(d+e)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 18; subfamily: Suppl. Fig. S2 table
+Q1PF17	ARATH	AtbHLH018	IVa	sequence_unique	99.7	1.0/1.0	PiresDolan2010	File009 row 19; subfamily: Suppl. Fig. S2 table
+Q1PF16	ARATH	AtbHLH019	IVa	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 20; subfamily: Suppl. Fig. S2 table
+Q8S3F1	ARATH	AtbHLH020	IVa	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 21; subfamily: Suppl. Fig. S2 table
+Q9ZVX2	ARATH	AtbHLH021	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 22; subfamily: Suppl. Fig. S2 table
+O81900	ARATH	AtbHLH022	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 23; subfamily: Suppl. Fig. S2 table
+Q9SVU6	ARATH	AtbHLH023	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 24; subfamily: Suppl. Fig. S2 table
+Q9FUA4	ARATH	AtbHLH024	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 25; subfamily: Suppl. Fig. S2 table
+Q9T072	ARATH	AtbHLH025	IVa	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 26; subfamily: Suppl. Fig. S2 table
+Q9FE22	ARATH	AtbHLH026	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 27; subfamily: Suppl. Fig. S2 table
+Q700E3	ARATH	AtbHLH027	III(a+c)	sequence_unique	100.0	0.886/0.856	PiresDolan2010	File009 row 28; subfamily: Suppl. Fig. S2 table
+Q9LUK7	ARATH	AtbHLH028	III(d+e)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 29; subfamily: Suppl. Fig. S2 table
+Q0V7X4	ARATH	AtbHLH029	III(a+c)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 30; subfamily: Suppl. Fig. S2 table
+Q9S7Y1	ARATH	AtbHLH030	Vb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 31; subfamily: Suppl. Fig. S2 table
+Q0JXE7	ARATH	AtbHLH031	XII	exact_id			PiresDolan2010	File009 row 32; subfamily: Suppl. Fig. S2 table
+Q9LS08	ARATH	AtbHLH032	Vb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 33; subfamily: Suppl. Fig. S2 table
+Q9LPW3	ARATH	AtbHLH033	IIIb	exact_id			PiresDolan2010	File009 row 34; subfamily: Suppl. Fig. S2 table
+Q9LTC7	ARATH	AtbHLH034	IVc	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 35; subfamily: Suppl. Fig. S2 table
+Q2HIV9	ARATH	AtbHLH035	III(a+c)	sequence_unique	99.6	1.0/1.0	PiresDolan2010	File009 row 36; subfamily: Suppl. Fig. S2 table
+Q9FLI1	ARATH	AtbHLH036	Ib(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 37; subfamily: Suppl. Fig. S2 table
+Q9SND4	ARATH	AtbHLH037	VIIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 38; subfamily: Suppl. Fig. S2 table
+Q9M1K1	ARATH	AtbHLH038	Ib(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 39; subfamily: Suppl. Fig. S2 table
+Q9M1K0	ARATH	AtbHLH039	Ib(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 40; subfamily: Suppl. Fig. S2 table
+O81313	ARATH	AtbHLH040	VIIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 41; subfamily: Suppl. Fig. S2 table
+Q9LTS4	ARATH	AtbHLH041	IVd	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 42; subfamily: Suppl. Fig. S2 table
+Q9FT81	ARATH	AtbHLH042	IIIf	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 43; subfamily: Suppl. Fig. S2 table
+Q9LXD8	ARATH	AtbHLH043	VIIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 44; subfamily: Suppl. Fig. S2 table
+Q8GZ13	ARATH	AtbHLH044	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 45; subfamily: Suppl. Fig. S2 table
+Q9M8K6	ARATH	AtbHLH045	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 46; subfamily: Suppl. Fig. S2 table
+Q9LEZ3	ARATH	AtbHLH046	Va	exact_id			PiresDolan2010	File009 row 47; subfamily: Suppl. Fig. S2 table
+Q9SN74	ARATH	AtbHLH047	IVb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 48; subfamily: Suppl. Fig. S2 table
+Q8VZ02	ARATH	AtbHLH048	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 49; subfamily: Suppl. Fig. S2 table
+Q9CAA9	ARATH	AtbHLH049	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 50; subfamily: Suppl. Fig. S2 table
+Q8GWK7	ARATH	AtbHLH050	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 51; subfamily: Suppl. Fig. S2 table
+Q9XEF0	ARATH	AtbHLH051	Vb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 52; subfamily: Suppl. Fig. S2 table
+Q9SA82	ARATH	AtbHLH052	VIIIa	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 53; subfamily: Suppl. Fig. S2 table
+Q84RD0	ARATH	AtbHLH053	VIIIa	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 54; subfamily: Suppl. Fig. S2 table
+Q8LEG1	ARATH	AtbHLH054	VIIIc(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 55; subfamily: Suppl. Fig. S2 table
+Q9LN95	ARATH	AtbHLH055	Ib(2)	exact_id			PiresDolan2010	File009 row 56; subfamily: Suppl. Fig. S2 table
+Q9SVU7	ARATH	AtbHLH056	VII(a+b)	exact_id			PiresDolan2010	File009 row 57; subfamily: Suppl. Fig. S2 table
+Q9M128	ARATH	AtbHLH057	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 58; subfamily: Suppl. Fig. S2 table
+Q93VJ4	ARATH	AtbHLH058	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 59; subfamily: Suppl. Fig. S2 table
+O22768	ARATH	AtbHLH059	XI	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 60; subfamily: Suppl. Fig. S2 table
+Q3EAI1	ARATH	AtbHLH060	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 61; subfamily: Suppl. Fig. S2 table
+Q9LXA9	ARATH	AtbHLH061	IIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 62; subfamily: Suppl. Fig. S2 table
+Q9SRT2	ARATH	AtbHLH062	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 63; subfamily: Suppl. Fig. S2 table
+Q8GY61	ARATH	AtbHLH063	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 64; subfamily: Suppl. Fig. S2 table
+Q9ZPW3	ARATH	AtbHLH064	XII	sequence_unique	99.4	1.0/1.0	PiresDolan2010	File009 row 65; subfamily: Suppl. Fig. S2 table
+Q84LH8	ARATH	AtbHLH065	VII(a+b)	sequence_unique	99.5	1.0/1.0	PiresDolan2010	File009 row 66; subfamily: Suppl. Fig. S2 table
+Q9ZUG9	ARATH	AtbHLH066	XI	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 67; subfamily: Suppl. Fig. S2 table
+Q700E4	ARATH	AtbHLH067	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 68; subfamily: Suppl. Fig. S2 table
+Q8S3D1	ARATH	AtbHLH068	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 69; subfamily: Suppl. Fig. S2 table
+Q8S3D5	ARATH	AtbHLH069	XI	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 70; subfamily: Suppl. Fig. S2 table
+O81037	ARATH	AtbHLH070	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 71; subfamily: Suppl. Fig. S2 table
+Q56XR0	ARATH	AtbHLH071	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 72; subfamily: Suppl. Fig. S2 table
+Q570R7	ARATH	AtbHLH072	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 73; subfamily: Suppl. Fig. S2 table
+Q9FHA2	ARATH	AtbHLH073	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 74; subfamily: Suppl. Fig. S2 table
+Q6NKN9	ARATH	AtbHLH074	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 75; subfamily: Suppl. Fig. S2 table
+A4D998	ARATH	AtbHLH075	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 76; subfamily: Suppl. Fig. S2 table
+Q9C670	ARATH	AtbHLH076	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 77; subfamily: Suppl. Fig. S2 table
+Q9LK48	ARATH	AtbHLH077	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 78; subfamily: Suppl. Fig. S2 table
+Q9FJL4	ARATH	AtbHLH078	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 79; subfamily: Suppl. Fig. S2 table
+Q9LV17	ARATH	AtbHLH079	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 80; subfamily: Suppl. Fig. S2 table
+Q9C8P8	ARATH	AtbHLH080	IX	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 81; subfamily: Suppl. Fig. S2 table
+Q9M0R0	ARATH	AtbHLH081	IX	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 82; subfamily: Suppl. Fig. S2 table
+Q9LSQ3	ARATH	AtbHLH082	XI	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 83; subfamily: Suppl. Fig. S2 table
+Q9C707	ARATH	AtbHLH083	VIIIc(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 84; subfamily: Suppl. Fig. S2 table
+Q7XHI9	ARATH	AtbHLH084	VIIIc(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 85; subfamily: Suppl. Fig. S2 table
+Q84WK0	ARATH	AtbHLH085	VIIIc(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 86; subfamily: Suppl. Fig. S2 table
+Q9FJ00	ARATH	AtbHLH086	VIIIc(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 87; subfamily: Suppl. Fig. S2 table
+Q8S3D2	ARATH	AtbHLH087	VIIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 88; subfamily: Suppl. Fig. S2 table
+Q9FHA7	ARATH	AtbHLH088	VIIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 89; subfamily: Suppl. Fig. S2 table
+Q9LND0	ARATH	AtbHLH089	II	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 90; subfamily: Suppl. Fig. S2 table
+Q0WNR2	ARATH	AtbHLH090	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 91; subfamily: Suppl. Fig. S2 table
+Q8GX46	ARATH	AtbHLH091	II	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 92; subfamily: Suppl. Fig. S2 table
+Q9FIX5	ARATH	AtbHLH092	IVd	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 93; subfamily: Suppl. Fig. S2 table
+Q9LSL1	ARATH	AtbHLH093	IIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 94; subfamily: Suppl. Fig. S2 table
+Q9SK91	ARATH	AtbHLH094	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 95; subfamily: Suppl. Fig. S2 table
+Q9FXA3	ARATH	AtbHLH095	Ib(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 96; subfamily: Suppl. Fig. S2 table
+Q9C7T4	ARATH	AtbHLH096	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 97; subfamily: Suppl. Fig. S2 table
+Q56YJ8	ARATH	AtbHLH097	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 98; subfamily: Suppl. Fig. S2 table
+Q700C7	ARATH	AtbHLH098	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 99; subfamily: Suppl. Fig. S2 table
+Q9FKQ6	ARATH	AtbHLH099	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 100; subfamily: Suppl. Fig. S2 table
+Q9ZVB5	ARATH	AtbHLH100	Ib(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 101; subfamily: Suppl. Fig. S2 table
+Q9FYE6	ARATH	AtbHLH101	Ib(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 102; subfamily: Suppl. Fig. S2 table
+Q9CAA4	ARATH	AtbHLH102	Va	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 103; subfamily: Suppl. Fig. S2 table
+Q8VZ22	ARATH	AtbHLH103	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 104; subfamily: Suppl. Fig. S2 table
+Q8L467	ARATH	AtbHLH104	IVc	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 105; subfamily: Suppl. Fig. S2 table
+Q9FH37	ARATH	AtbHLH105	IVc	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 106; subfamily: Suppl. Fig. S2 table
+O80674	ARATH	AtbHLH106	Vb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 107; subfamily: Suppl. Fig. S2 table
+Q9LET0	ARATH	AtbHLH107	Vb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 108; subfamily: Suppl. Fig. S2 table
+Q9FRI0	ARATH	AtbHLH108	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 109; subfamily: Suppl. Fig. S2 table
+Q5XVH0	ARATH	AtbHLH109	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 110; subfamily: Suppl. Fig. S2 table
+Q9SFZ3	ARATH	AtbHLH110	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 111; subfamily: Suppl. Fig. S2 table
+Q94JL3	ARATH	AtbHLH112	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 112; subfamily: Suppl. Fig. S2 table
+Q9LT67	ARATH	AtbHLH113	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 113; subfamily: Suppl. Fig. S2 table
+Q9M0X8	ARATH	AtbHLH114	X	exact_id			PiresDolan2010	File009 row 114; subfamily: Suppl. Fig. S2 table
+Q9C682	ARATH	AtbHLH115	IVc	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 115; subfamily: Suppl. Fig. S2 table
+Q9LSE2	ARATH	AtbHLH116	IIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 116; subfamily: Suppl. Fig. S2 table
+Q9LRJ4	ARATH	AtbHLH117	VIIIa	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 117; subfamily: Suppl. Fig. S2 table
+Q9STJ7	ARATH	AtbHLH118	Ib(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 118; subfamily: Suppl. Fig. S2 table
+Q8GT73	ARATH	AtbHLH119	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 119; subfamily: Suppl. Fig. S2 table
+Q9FLI0	ARATH	AtbHLH120	Ib(2)	exact_id			PiresDolan2010	File009 row 120; subfamily: Suppl. Fig. S2 table
+Q9LT23	ARATH	AtbHLH121	IVb	sequence_unique	100.0	1.0/0.843	PiresDolan2010	File009 row 121; subfamily: Suppl. Fig. S2 table
+Q9C690	ARATH	AtbHLH122	IX	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 122; subfamily: Suppl. Fig. S2 table
+Q8GXT3	ARATH	AtbHLH123	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 123; subfamily: Suppl. Fig. S2 table
+Q8L5W8	ARATH	AtbHLH124	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 124; subfamily: Suppl. Fig. S2 table
+Q9LQ08	ARATH	AtbHLH125	Ib(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 125; subfamily: Suppl. Fig. S2 table
+Q9STJ6	ARATH	AtbHLH126	Ib(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 126; subfamily: Suppl. Fig. S2 table
+Q7XHI7	ARATH	AtbHLH127	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 127; subfamily: Suppl. Fig. S2 table
+Q8H102	ARATH	AtbHLH128	IX	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 128; subfamily: Suppl. Fig. S2 table
+Q9ZW81	ARATH	AtbHLH129	IX	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 129; subfamily: Suppl. Fig. S2 table
+Q66GR3	ARATH	AtbHLH130	IX	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 130; subfamily: Suppl. Fig. S2 table
+Q8L5W7	ARATH	AtbHLH132	VII(a+b)	sequence_unique	100.0	1.0/0.953	PiresDolan2010	File009 row 131; subfamily: Suppl. Fig. S2 table
+Q9LXG5	ARATH	AtbHLH134	XV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 132; subfamily: Suppl. Fig. S2 table
+Q9CA64	ARATH	AtbHLH135	XV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 133; subfamily: Suppl. Fig. S2 table
+Q9FLE9	ARATH	AtbHLH136	XV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 134; subfamily: Suppl. Fig. S2 table
+Q93W88	ARATH	AtbHLH137	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 135; subfamily: Suppl. Fig. S2 table
+F4IQQ9	ARATH	AtbHLH138	II	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 136; subfamily: Suppl. Fig. S2 table
+Q3E7L7	ARATH	AtbHLH139	VIIIc(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 137; subfamily: Suppl. Fig. S2 table
+Q9M041	ARATH	AtbHLH140	VIIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 138; subfamily: Suppl. Fig. S2 table
+Q9FMB6	ARATH	AtbHLH141	Va	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 139; subfamily: Suppl. Fig. S2 table
+Q9FMF4	ARATH	AtbHLH142	XIV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 140; subfamily: Suppl. Fig. S2 table
+Q9FY69	ARATH	AtbHLH143	XIV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 141; subfamily: Suppl. Fig. S2 table
+Q9ASX9	ARATH	AtbHLH144	XIV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 142; subfamily: Suppl. Fig. S2 table
+Q9FGB0	ARATH	AtbHLH145	XIV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 143; subfamily: Suppl. Fig. S2 table
+Q9SUM5	ARATH	AtbHLH146	VIIIa	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 144; subfamily: Suppl. Fig. S2 table
+Q9LSN7	ARATH	AtbHLH147	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 145; subfamily: Suppl. Fig. S2 table
+Q9C8Z9	ARATH	AtbHLH148	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 146; subfamily: Suppl. Fig. S2 table
+O80482	ARATH	AtbHLH149	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 147; subfamily: Suppl. Fig. S2 table
+Q9M9L6	ARATH	AtbHLH150	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 148; subfamily: Suppl. Fig. S2 table
+O22901	ARATH	AtbHLH151	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 149; subfamily: Suppl. Fig. S2 table
+Q7XJU2	ARATH	AtbHLH153	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 150; subfamily: Suppl. Fig. S2 table
+Q7XJU1	ARATH	AtbHLH154	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 151; subfamily: Suppl. Fig. S2 table
+Q58G01	ARATH	AtbHLH155	XIII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 152; subfamily: Suppl. Fig. S2 table
+Q9XIN0	ARATH	AtbHLH156	XIII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 153; subfamily: Suppl. Fig. S2 table
+Q7XJU0	ARATH	AtbHLH157	XIII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 154; subfamily: Suppl. Fig. S2 table
+Q9SKX1	ARATH	AtbHLH158	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 155; subfamily: Suppl. Fig. S2 table
+Q9M0B9	ARATH	AtbHLH159	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 156; subfamily: Suppl. Fig. S2 table
+F4I8F9	ARATH	AtbHLH160	Ib(2)	exact_id			PiresDolan2010	File009 row 157; subfamily: Suppl. Fig. S2 table
+F4JCN9	ARATH	AtbHLH161	XV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 158; subfamily: Suppl. Fig. S2 table
+F4JIJ7	ARATH	AtbHLH162	Ib(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 159; subfamily: Suppl. Fig. S2 table
+A0A2K3CXZ3	CHLRE	CrbHLH003	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 163; subfamily: Suppl. Fig. S2 table
+Q5JK17	ORYSJ	OsbHLH001	IIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 168; subfamily: Suppl. Fig. S2 table
+Q2R3F6	ORYSJ	OsbHLH002	IIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 169; subfamily: Suppl. Fig. S2 table
+Q10S44	ORYSJ	OsbHLH003	IIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 170; subfamily: Suppl. Fig. S2 table
+Q336V8	ORYSJ	OsbHLH004	IIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 171; subfamily: Suppl. Fig. S2 table
+Q6YUS3	ORYSJ	OsbHLH005	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 172; subfamily: Suppl. Fig. S2 table
+Q0JEB7	ORYSJ	OsbHLH006	III(a+c)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 173; subfamily: Suppl. Fig. S2 table
+A0A0P0W8E2	ORYSJ	OsbHLH007	III(a+c)	exact_id			PiresDolan2010	File009 row 174; subfamily: Suppl. Fig. S2 table
+Q0JP90	ORYSJ	OsbHLH008	III(d+e)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 175; subfamily: Suppl. Fig. S2 table
+Q336P5	ORYSJ	OsbHLH009	III(d+e)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 176; subfamily: Suppl. Fig. S2 table
+Q5N8F6	ORYSJ	OsbHLH010	III(d+e)	exact_id			PiresDolan2010	File009 row 177; subfamily: Suppl. Fig. S2 table
+Q6ZBI4	ORYSJ	OsbHLH011	III(d+e)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 178; subfamily: Suppl. Fig. S2 table
+Q0JLS3	ORYSJ	OsbHLH012	IIIf	sequence_unique	100.0	0.921/0.968	PiresDolan2010	File009 row 179; subfamily: Suppl. Fig. S2 table
+Q7XPS3	ORYSJ	OsbHLH013	IIIf	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 180; subfamily: Suppl. Fig. S2 table
+A0A0P0Y0X8	ORYSJ	OsbHLH014	IIIf	exact_id			PiresDolan2010	File009 row 181; subfamily: Suppl. Fig. S2 table
+A0A0P0WDQ6	ORYSJ	OsbHLH015	IIIf	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 182; subfamily: Suppl. Fig. S2 table
+A0A0P0WDK6	ORYSJ	OsbHLH016	IIIf	exact_id			PiresDolan2010	File009 row 183; subfamily: Suppl. Fig. S2 table
+A0A0P0X425	ORYSJ	OsbHLH017	IIIf	exact_id			PiresDolan2010	File009 row 184; subfamily: Suppl. Fig. S2 table
+Q75GI1	ORYSJ	OsbHLH018	IVa	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 185; subfamily: Suppl. Fig. S2 table
+A0A0P0VUZ8	ORYSJ	OsbHLH019	IVa	exact_id			PiresDolan2010	File009 row 186; subfamily: Suppl. Fig. S2 table
+Q10FD6	ORYSJ	OsbHLH020	IVa	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 187; subfamily: Suppl. Fig. S2 table
+A0A0P0YCR0	ORYSJ	OsbHLH021	IVa	sequence_unique	100.0	0.926/0.889	PiresDolan2010	File009 row 188; subfamily: Suppl. Fig. S2 table
+A0A0N7KHT2	ORYSJ	OsbHLH022	IVa	exact_id			PiresDolan2010	File009 row 189; subfamily: Suppl. Fig. S2 table
+Q8S0C6	ORYSJ	OsbHLH024	IVd	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 191; subfamily: Suppl. Fig. S2 table
+Q5SMX4	ORYSJ	OsbHLH025	IVd	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 192; subfamily: Suppl. Fig. S2 table
+A0A0P0UZP9	ORYSJ	OsbHLH027	IVd	sequence_unique	100.0	0.83/1.0	PiresDolan2010	File009 row 194; subfamily: Suppl. Fig. S2 table
+Q0DK30	ORYSJ	OsbHLH028	IVd	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 195; subfamily: Suppl. Fig. S2 table
+A0A0P0VGJ8	ORYSJ	OsbHLH029	IVd	sequence_unique	98.7	0.963/0.96	PiresDolan2010	File009 row 196; subfamily: Suppl. Fig. S2 table
+Q5Z610	ORYSJ	OsbHLH030	IVd	exact_id			PiresDolan2010	File009 row 197; subfamily: Suppl. Fig. S2 table
+Q6ZBQ2	ORYSJ	OsbHLH031	Va	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 198; subfamily: Suppl. Fig. S2 table
+Q69JI7	ORYSJ	OsbHLH032	Va	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 199; subfamily: Suppl. Fig. S2 table
+Q6Z339	ORYSJ	OsbHLH034	Va	sequence_unique	100.0	0.889/1.0	PiresDolan2010	File009 row 200; subfamily: Suppl. Fig. S2 table
+A0A0P0UYC0	ORYSJ	OsbHLH035	Vb	exact_id			PiresDolan2010	File009 row 201; subfamily: Suppl. Fig. S2 table
+Q75IR0	ORYSJ	OsbHLH036	Vb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 202; subfamily: Suppl. Fig. S2 table
+Q9FTQ1	ORYSJ	OsbHLH037	Vb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 203; subfamily: Suppl. Fig. S2 table
+Q6ZA99	ORYSJ	OsbHLH038	Vb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 204; subfamily: Suppl. Fig. S2 table
+Q6ESL3	ORYSJ	OsbHLH039	Vb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 205; subfamily: Suppl. Fig. S2 table
+Q10NS6	ORYSJ	OsbHLH040	Vb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 206; subfamily: Suppl. Fig. S2 table
+Q7XZF8	ORYSJ	OsbHLH041	Vb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 207; subfamily: Suppl. Fig. S2 table
+Q6ZJC8	ORYSJ	OsbHLH042	Vb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 208; subfamily: Suppl. Fig. S2 table
+A0A0P0XNJ4	ORYSJ	OsbHLH043	Vb	exact_id			PiresDolan2010	File009 row 209; subfamily: Suppl. Fig. S2 table
+Q8H7N8	ORYSJ	OsbHLH044	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 210; subfamily: Suppl. Fig. S2 table
+Q7XF89	ORYSJ	OsbHLH045	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 211; subfamily: Suppl. Fig. S2 table
+A0A0P0XP10	ORYSJ	OsbHLH046	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 212; subfamily: Suppl. Fig. S2 table
+Q6YTU1	ORYSJ	OsbHLH047	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 213; subfamily: Suppl. Fig. S2 table
+A0A0P0VNG4	ORYSJ	OsbHLH049	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 215; subfamily: Suppl. Fig. S2 table
+A0A0P0WRG0	ORYSJ	OsbHLH051	Ia	exact_id			PiresDolan2010	File009 row 217; subfamily: Suppl. Fig. S2 table
+A0A0N7KGH6	ORYSJ	OsbHLH052	Ia	sequence_unique	99.3	0.935/0.875	PiresDolan2010	File009 row 218; subfamily: Suppl. Fig. S2 table
+Q6ETQ5	ORYSJ	OsbHLH053	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 219; subfamily: Suppl. Fig. S2 table
+A0A0P0WXG4	ORYSJ	OsbHLH054	Ia	exact_id			PiresDolan2010	File009 row 220; subfamily: Suppl. Fig. S2 table
+Q5KQG3	ORYSJ	OsbHLH055	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 221; subfamily: Suppl. Fig. S2 table
+Q0JFZ0	ORYSJ	OsbHLH056	Ib(2)	sequence_unique	99.6	1.0/1.0	PiresDolan2010	File009 row 222; subfamily: Suppl. Fig. S2 table
+A0A0P0X750	ORYSJ	OsbHLH057	IVc	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 223; subfamily: Suppl. Fig. S2 table
+A0A0P0WN34	ORYSJ	OsbHLH058	IVc	exact_id			PiresDolan2010	File009 row 224; subfamily: Suppl. Fig. S2 table
+Q6ZGM4	ORYSJ	OsbHLH059	IVc	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 225; subfamily: Suppl. Fig. S2 table
+Q6ZKI8	ORYSJ	OsbHLH060	IVc	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 226; subfamily: Suppl. Fig. S2 table
+Q2R1K8	ORYSJ	OsbHLH061	IVb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 227; subfamily: Suppl. Fig. S2 table
+Q69V10	ORYSJ	OsbHLH062	IVb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 228; subfamily: Suppl. Fig. S2 table
+Q10KL8	ORYSJ	OsbHLH063	IVb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 229; subfamily: Suppl. Fig. S2 table
+Q67U21	ORYSJ	OsbHLH064	IVb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 230; subfamily: Suppl. Fig. S2 table
+Q7X7U7	ORYSJ	OsbHLH065	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 231; subfamily: Suppl. Fig. S2 table
+Q94HA7	ORYSJ	OsbHLH066	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 232; subfamily: Suppl. Fig. S2 table
+A0A0P0WPD3	ORYSJ	OsbHLH067	X	exact_id			PiresDolan2010	File009 row 233; subfamily: Suppl. Fig. S2 table
+A0A5S6R8C6	ORYSJ	OsbHLH068	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 234; subfamily: Suppl. Fig. S2 table
+A0A0P0V911	ORYSJ	OsbHLH069	X	exact_id			PiresDolan2010	File009 row 235; subfamily: Suppl. Fig. S2 table
+A0A0P0XCY2	ORYSJ	OsbHLH070	X	exact_id			PiresDolan2010	File009 row 236; subfamily: Suppl. Fig. S2 table
+Q0JRE3	ORYSJ	OsbHLH071	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 237; subfamily: Suppl. Fig. S2 table
+Q0E228	ORYSJ	OsbHLH072	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 238; subfamily: Suppl. Fig. S2 table
+A0A0N7KKD4	ORYSJ	OsbHLH073	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 239; subfamily: Suppl. Fig. S2 table
+Q5NB28	ORYSJ	OsbHLH074	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 240; subfamily: Suppl. Fig. S2 table
+Q7XQJ2	ORYSJ	OsbHLH075	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 241; subfamily: Suppl. Fig. S2 table
+Q0DYS4	ORYSJ	OsbHLH076	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 242; subfamily: Suppl. Fig. S2 table
+Q0D6J9	ORYSJ	OsbHLH077	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 243; subfamily: Suppl. Fig. S2 table
+Q6Z2G7	ORYSJ	OsbHLH079	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 245; subfamily: Suppl. Fig. S2 table
+A3BV95	ORYSJ	OsbHLH080	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 246; subfamily: Suppl. Fig. S2 table
+Q0J0G7	ORYSJ	OsbHLH081	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 247; subfamily: Suppl. Fig. S2 table
+Q75M33	ORYSJ	OsbHLH083	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 248; subfamily: Suppl. Fig. S2 table
+A0A0P0W2I2	ORYSJ	OsbHLH084	XII	sequence_unique	99.3	0.826/1.0	PiresDolan2010	File009 row 249; subfamily: Suppl. Fig. S2 table
+Q69JJ6	ORYSJ	OsbHLH085	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 250; subfamily: Suppl. Fig. S2 table
+Q5VR96	ORYSJ	OsbHLH086	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 251; subfamily: Suppl. Fig. S2 table
+A0A0P0XHK4	ORYSJ	OsbHLH087	XII	exact_id			PiresDolan2010	File009 row 252; subfamily: Suppl. Fig. S2 table
+Q84T08	ORYSJ	OsbHLH089	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 254; subfamily: Suppl. Fig. S2 table
+Q5N802	ORYSJ	OsbHLH090	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 255; subfamily: Suppl. Fig. S2 table
+Q84QW1	ORYSJ	OsbHLH091	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 256; subfamily: Suppl. Fig. S2 table
+Q0J0S0	ORYSJ	OsbHLH092	XII	exact_id			PiresDolan2010	File009 row 257; subfamily: Suppl. Fig. S2 table
+Q0JDZ1	ORYSJ	OsbHLH093	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 258; subfamily: Suppl. Fig. S2 table
+Q69WS3	ORYSJ	OsbHLH094	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 259; subfamily: Suppl. Fig. S2 table
+Q0DAY8	ORYSJ	OsbHLH095	XII	sequence_unique	100.0	1.0/0.865	PiresDolan2010	File009 row 260; subfamily: Suppl. Fig. S2 table
+Q69Y52	ORYSJ	OsbHLH096	XI	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 261; subfamily: Suppl. Fig. S2 table
+Q6Z7E7	ORYSJ	OsbHLH097	XI	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 262; subfamily: Suppl. Fig. S2 table
+Q7Y1H4	ORYSJ	OsbHLH098	XI	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 263; subfamily: Suppl. Fig. S2 table
+Q0D859	ORYSJ	OsbHLH099	XI	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 264; subfamily: Suppl. Fig. S2 table
+A0A0P0XN61	ORYSJ	OsbHLH100	XI	exact_id			PiresDolan2010	File009 row 265; subfamily: Suppl. Fig. S2 table
+A0A0P0WF46	ORYSJ	OsbHLH101	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 266; subfamily: Suppl. Fig. S2 table
+Q0IM00	ORYSJ	OsbHLH102	VII(a+b)	sequence_unique	99.1	1.0/1.0	PiresDolan2010	File009 row 267; subfamily: Suppl. Fig. S2 table
+Q6AUE8	ORYSJ	OsbHLH103	VII(a+b)	exact_id			PiresDolan2010	File009 row 268; subfamily: Suppl. Fig. S2 table
+A0A0P0X2F6	ORYSJ	OsbHLH104	VII(a+b)	sequence_unique	99.2	0.926/0.972	PiresDolan2010	File009 row 269; subfamily: Suppl. Fig. S2 table
+Q0JNI9	ORYSJ	OsbHLH105	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 270; subfamily: Suppl. Fig. S2 table
+Q6AT90	ORYSJ	OsbHLH106	VII(a+b)	exact_id			PiresDolan2010	File009 row 271; subfamily: Suppl. Fig. S2 table
+A0A0P0VQW6	ORYSJ	OsbHLH107	VII(a+b)	sequence_unique	100.0	0.875/1.0	PiresDolan2010	File009 row 272; subfamily: Suppl. Fig. S2 table
+A0A0P0WTF9	ORYSJ	OsbHLH108	VII(a+b)	exact_id			PiresDolan2010	File009 row 273; subfamily: Suppl. Fig. S2 table
+Q5N8U8	ORYSJ	OsbHLH109	IX	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 274; subfamily: Suppl. Fig. S2 table
+A0A0P0VLP4	ORYSJ	OsbHLH110	IX	exact_id			PiresDolan2010	File009 row 275; subfamily: Suppl. Fig. S2 table
+Q0JC65	ORYSJ	OsbHLH111	IX	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 276; subfamily: Suppl. Fig. S2 table
+Q6Z3R6	ORYSJ	OsbHLH112	IX	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 277; subfamily: Suppl. Fig. S2 table
+A0A0P0XX67	ORYSJ	OsbHLH113	VII(a+b)	exact_id			PiresDolan2010	File009 row 278; subfamily: Suppl. Fig. S2 table
+A0A0P0WTJ8	ORYSJ	OsbHLH115	XI	exact_id			PiresDolan2010	File009 row 280; subfamily: Suppl. Fig. S2 table
+A0A0P0V4E3	ORYSJ	OsbHLH117	VIIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 282; subfamily: Suppl. Fig. S2 table
+Q8S0N2	ORYSJ	OsbHLH118	VIIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 283; subfamily: Suppl. Fig. S2 table
+A0A0P0WQ90	ORYSJ	OsbHLH119	VIIIb	sequence_unique	99.5	1.0/0.995	PiresDolan2010	File009 row 284; subfamily: Suppl. Fig. S2 table
+Q67TR8	ORYSJ	OsbHLH120	VIIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 285; subfamily: Suppl. Fig. S2 table
+A0A0P0XGL9	ORYSJ	OsbHLH121	VIIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 286; subfamily: Suppl. Fig. S2 table
+A0A0P0WUF9	ORYSJ	OsbHLH122	VIIIb	sequence_unique	98.6	1.0/0.991	PiresDolan2010	File009 row 287; subfamily: Suppl. Fig. S2 table
+Q7XAQ6	ORYSJ	OsbHLH123	VIIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 288; subfamily: Suppl. Fig. S2 table
+C7J662	ORYSJ	OsbHLH124	VIIIb	sequence_unique	100.0	1.0/0.99	PiresDolan2010	File009 row 289; subfamily: Suppl. Fig. S2 table
+Q0JRA9	ORYSJ	OsbHLH125	VIIIc(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 290; subfamily: Suppl. Fig. S2 table
+Q0DY80	ORYSJ	OsbHLH126	VIIIc(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 291; subfamily: Suppl. Fig. S2 table
+Q651K2	ORYSJ	OsbHLH127	VIIIc(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 292; subfamily: Suppl. Fig. S2 table
+A0A0P0X817	ORYSJ	OsbHLH128	VIIIc(2)	sequence_unique	100.0	1.0/0.946	PiresDolan2010	File009 row 293; subfamily: Suppl. Fig. S2 table
+A0A0N7KGS8	ORYSJ	OsbHLH129	VIIIc(2)	sequence_unique	100.0	1.0/0.95	PiresDolan2010	File009 row 294; subfamily: Suppl. Fig. S2 table
+Q2QMV9	ORYSJ	OsbHLH130	VIIIc(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 295; subfamily: Suppl. Fig. S2 table
+A0A0P0Y4I9	ORYSJ	OsbHLH132	VIIIc(2)	exact_id			PiresDolan2010	File009 row 297; subfamily: Suppl. Fig. S2 table
+Q2QQ32	ORYSJ	OsbHLH133	VIIIc(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 298; subfamily: Suppl. Fig. S2 table
+A0A0P0W3G1	ORYSJ	OsbHLH134	VIIIc(2)	sequence_unique	100.0	0.939/1.0	PiresDolan2010	File009 row 299; subfamily: Suppl. Fig. S2 table
+Q2QMN2	ORYSJ	OsbHLH135	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 300; subfamily: Suppl. Fig. S2 table
+A0A0P0VZ61	ORYSJ	OsbHLH138	XIV	sequence_unique	100.0	1.0/0.929	PiresDolan2010	File009 row 303; subfamily: Suppl. Fig. S2 table
+Q6Z861	ORYSJ	OsbHLH139	XIV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 304; subfamily: Suppl. Fig. S2 table
+Q10HE8	ORYSJ	OsbHLH140	XIV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 305; subfamily: Suppl. Fig. S2 table
+Q7X8R0	ORYSJ	OsbHLH141	II	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 306; subfamily: Suppl. Fig. S2 table
+Q5JNS0	ORYSJ	OsbHLH142	II	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 307; subfamily: Suppl. Fig. S2 table
+Q0J0Q4	ORYSJ	OsbHLH143	IX	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 308; subfamily: Suppl. Fig. S2 table
+Q0JD63	ORYSJ	OsbHLH144	Ib(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 309; subfamily: Suppl. Fig. S2 table
+Q6YYG5	ORYSJ	OsbHLH147	Ib(2)	exact_id			PiresDolan2010	File009 row 311; subfamily: Suppl. Fig. S2 table
+Q75KV9	ORYSJ	OsbHLH148	IVd	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 312; subfamily: Suppl. Fig. S2 table
+Q5N9E6	ORYSJ	OsbHLH149	XIII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 313; subfamily: Suppl. Fig. S2 table
+Q0IPY1	ORYSJ	OsbHLH150	XIII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 314; subfamily: Suppl. Fig. S2 table
+Q10CH5	ORYSJ	OsbHLH152	VII(a+b)	sequence_unique	100.0	0.962/0.988	PiresDolan2010	File009 row 316; subfamily: Suppl. Fig. S2 table
+Q10R47	ORYSJ	OsbHLH153	XV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 317; subfamily: Suppl. Fig. S2 table
+Q7X742	ORYSJ	OsbHLH154	XV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 318; subfamily: Suppl. Fig. S2 table
+Q5Z988	ORYSJ	OsbHLH155	IIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 319; subfamily: Suppl. Fig. S2 table
+A0A0N7KIY3	ORYSJ	OsbHLH156	III(a+c)	exact_id			PiresDolan2010	File009 row 320; subfamily: Suppl. Fig. S2 table
+Q6ETM0	ORYSJ	OsbHLH157	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 321; subfamily: Suppl. Fig. S2 table
+A0A0P0WZT8	ORYSJ	OsbHLH158	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 322; subfamily: Suppl. Fig. S2 table
+Q5WMQ1	ORYSJ	OsbHLH162	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 324; subfamily: Suppl. Fig. S2 table
+Q8LII5	ORYSJ	OsbHLH163	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 325; subfamily: Suppl. Fig. S2 table
+B9FXT3	ORYSJ	OsbHLH164	Orphans	exact_id			PiresDolan2010	File009 row 326; subfamily: Suppl. Fig. S2 table
+A0A0P0V4D3	ORYSJ	OsbHLH165	IIIf	exact_id			PiresDolan2010	File009 row 327; subfamily: Suppl. Fig. S2 table
+Q10LR1	ORYSJ	OsbHLH166	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 328; subfamily: Suppl. Fig. S2 table
+A0A0P0XQ00	ORYSJ	OsbHLH167	III(d+e)	exact_id			PiresDolan2010	File009 row 329; subfamily: Suppl. Fig. S2 table
+Q8W0N9	ORYSJ	OsbHLH169	Ib(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 331; subfamily: Suppl. Fig. S2 table
+A0A0P0V3B5	ORYSJ	OsbHLH170	Ib(2)	exact_id			PiresDolan2010	File009 row 332; subfamily: Suppl. Fig. S2 table
+A0A0P0V8W1	ORYSJ	OsbHLH171	IVd	exact_id			PiresDolan2010	File009 row 333; subfamily: Suppl. Fig. S2 table
+Q6YUX0	ORYSJ	OsbHLH173	XV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 335; subfamily: Suppl. Fig. S2 table
+Q0DDF6	ORYSJ	OsbHLH174	XV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 336; subfamily: Suppl. Fig. S2 table
+Q338G6	ORYSJ	OsbHLH175	XV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 337; subfamily: Suppl. Fig. S2 table
+A0A0P0Y1V2	ORYSJ	OsbHLH176	XII	exact_id			PiresDolan2010	File009 row 338; subfamily: Suppl. Fig. S2 table
+Q2R1J3	ORYSJ	OsbHLH177	XV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 339; subfamily: Suppl. Fig. S2 table
+A0A7I4F048	PHYPA	PpbHLH002	III(d+e)	sequence_unique	98.1	0.998/0.953	PiresDolan2010	File009 row 343; subfamily: Suppl. Fig. S2 table
+A0A7I4CZ06	PHYPA	PpbHLH021	IIIb	sequence_unique	100.0	1.0/0.916	PiresDolan2010	File009 row 362; subfamily: Suppl. Fig. S2 table
+A9RVJ2	PHYPA	PpbHLH022	IVa	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 363; subfamily: Suppl. Fig. S2 table
+A9SAG4	PHYPA	PpbHLH028	VIIIc(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 369; subfamily: Suppl. Fig. S2 table
+A0A7I4DGH4	PHYPA	PpbHLH032	III(d+e)	sequence_unique	100.0	0.94/1.0	PiresDolan2010	File009 row 373; subfamily: Suppl. Fig. S2 table
+A0A2K1L0R4	PHYPA	PpbHLH033	VIIIc(1)	sequence_unique	98.3	1.0/1.0	PiresDolan2010	File009 row 374; subfamily: Suppl. Fig. S2 table
+A0A2K1J424	PHYPA	PpbHLH035	VIIIb	sequence_unique	100.0	0.801/1.0	PiresDolan2010	File009 row 376; subfamily: Suppl. Fig. S2 table
+A9SV25	PHYPA	PpbHLH039	IVb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 380; subfamily: Suppl. Fig. S2 table
+A9SVD4	PHYPA	PpbHLH041	III(a+c)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 382; subfamily: Suppl. Fig. S2 table
+A0A7I4FCA3	PHYPA	PpbHLH043	VIIIc(1)	sequence_unique	99.1	0.829/0.995	PiresDolan2010	File009 row 384; subfamily: Suppl. Fig. S2 table
+A0A2K1JBG2	PHYPA	PpbHLH046	Va	sequence_unique	99.5	0.866/1.0	PiresDolan2010	File009 row 387; subfamily: Suppl. Fig. S2 table
+A0A7I4ELB4	PHYPA	PpbHLH047	IX	sequence_unique	99.8	0.892/0.979	PiresDolan2010	File009 row 388; subfamily: Suppl. Fig. S2 table
+A0A2K1ID39	PHYPA	PpbHLH048	Ib(1)	sequence_unique	100.0	0.857/1.0	PiresDolan2010	File009 row 389; subfamily: Suppl. Fig. S2 table
+A9TT60	PHYPA	PpbHLH051	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 392; subfamily: Suppl. Fig. S2 table
+A9TYD9	PHYPA	PpbHLH052	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 393; subfamily: Suppl. Fig. S2 table
+A9TJS4	PHYPA	PpbHLH056	IVc	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 397; subfamily: Suppl. Fig. S2 table
+A0A7I4A5S4	PHYPA	PpbHLH057	IIIb	sequence_unique	100.0	1.0/0.805	PiresDolan2010	File009 row 398; subfamily: Suppl. Fig. S2 table
+A0A7I4CGB6	PHYPA	PpbHLH059	Orphans	sequence_unique	99.7	0.803/0.921	PiresDolan2010	File009 row 400; subfamily: Suppl. Fig. S2 table
+A0A7I4EPL8	PHYPA	PpbHLH060	Orphans	sequence_unique	99.8	1.0/1.0	PiresDolan2010	File009 row 401; subfamily: Suppl. Fig. S2 table
+A9SWT9	PHYPA	PpbHLH062	IVd	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 403; subfamily: Suppl. Fig. S2 table
+A0A2K1KTQ2	PHYPA	PpbHLH063	VIIIc(2)	sequence_unique	98.4	1.0/1.0	PiresDolan2010	File009 row 404; subfamily: Suppl. Fig. S2 table
+A9RBH4	PHYPA	PpbHLH080	III(a+c)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 421; subfamily: Suppl. Fig. S2 table
+A0A2K1J9K3	PHYPA	PpbHLH081	VIIIa	sequence_unique	100.0	0.941/0.983	PiresDolan2010	File009 row 422; subfamily: Suppl. Fig. S2 table
+A0A2K1ICK3	PHYPA	PpbHLH083	VIIIc(2)	sequence_unique	99.2	0.878/0.952	PiresDolan2010	File009 row 424; subfamily: Suppl. Fig. S2 table
+A0A2K1KNP5	PHYPA	PpbHLH084	IVc	sequence_unique	100.0	0.955/0.807	PiresDolan2010	File009 row 425; subfamily: Suppl. Fig. S2 table
+A9RVD9	PHYPA	PpbHLH085	IVb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 426; subfamily: Suppl. Fig. S2 table
+A0A2K1JMX7	PHYPA	PpbHLH086	Va	sequence_unique	99.9	0.886/0.995	PiresDolan2010	File009 row 427; subfamily: Suppl. Fig. S2 table
+A0A2K1K1K8	PHYPA	PpbHLH091	Orphans	sequence_unique	100.0	1.0/0.983	PiresDolan2010	File009 row 432; subfamily: Suppl. Fig. S2 table
+A0A7I4AFK0	PHYPA	PpbHLH094	IX	sequence_unique	99.8	1.0/1.0	PiresDolan2010	File009 row 435; subfamily: Suppl. Fig. S2 table
+A9T4P5	PHYPA	PpbHLH095	VIIIc(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 436; subfamily: Suppl. Fig. S2 table
+A0A2K1KM45	PHYPA	PpbHLH096	VIIIb	sequence_unique	100.0	0.86/1.0	PiresDolan2010	File009 row 437; subfamily: Suppl. Fig. S2 table
+D8RXD4	SELMO	SmbHLH001	III(a+c)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 440; subfamily: Suppl. Fig. S2 table
+D8SZ78	SELMO	SmbHLH002	XI	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 441; subfamily: Suppl. Fig. S2 table
+D8RNS6	SELMO	SmbHLH003	VIIIc(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 442; subfamily: Suppl. Fig. S2 table
+D8SXI2	SELMO	SmbHLH004	VIIIc(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 443; subfamily: Suppl. Fig. S2 table
+D8RD17	SELMO	SmbHLH005	VIIIc(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 444; subfamily: Suppl. Fig. S2 table
+D8RSN9	SELMO	SmbHLH006	VIIIc(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 445; subfamily: Suppl. Fig. S2 table
+D8SXG2	SELMO	SmbHLH008	IVa	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 447; subfamily: Suppl. Fig. S2 table
+D8SUX0	SELMO	SmbHLH009	IX	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 448; subfamily: Suppl. Fig. S2 table
+D8RGJ6	SELMO	SmbHLH010	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 449; subfamily: Suppl. Fig. S2 table
+D8RIG6	SELMO	SmbHLH011	IIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 450; subfamily: Suppl. Fig. S2 table
+D8R3A9	SELMO	SmbHLH012	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 451; subfamily: Suppl. Fig. S2 table
+D8SHL1	SELMO	SmbHLH013	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 452; subfamily: Suppl. Fig. S2 table
+D8RZP0	SELMO	SmbHLH014	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 453; subfamily: Suppl. Fig. S2 table
+D8RSH9	SELMO	SmbHLH015	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 454; subfamily: Suppl. Fig. S2 table
+D8SSH3	SELMO	SmbHLH016	XIII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 455; subfamily: Suppl. Fig. S2 table
+D8RRH4	SELMO	SmbHLH017	III(a+c)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 456; subfamily: Suppl. Fig. S2 table
+D8QWB7	SELMO	SmbHLH018	VIIIc(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 457; subfamily: Suppl. Fig. S2 table
+D8RP23	SELMO	SmbHLH019	Ib(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 458; subfamily: Suppl. Fig. S2 table
+D8RGR8	SELMO	SmbHLH020	IVd	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 459; subfamily: Suppl. Fig. S2 table
+D8S5S0	SELMO	SmbHLH021	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 460; subfamily: Suppl. Fig. S2 table
+D8SHZ7	SELMO	SmbHLH022	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 461; subfamily: Suppl. Fig. S2 table
+D8R5U8	SELMO	SmbHLH023	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 462; subfamily: Suppl. Fig. S2 table
+D8SWA6	SELMO	SmbHLH024	XIV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 463; subfamily: Suppl. Fig. S2 table
+D8RNU5	SELMO	SmbHLH025	IVa	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 464; subfamily: Suppl. Fig. S2 table
+D8SSE0	SELMO	SmbHLH026	Ib(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 465; subfamily: Suppl. Fig. S2 table
+D8R6H8	SELMO	SmbHLH027	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 466; subfamily: Suppl. Fig. S2 table
+D8S1A0	SELMO	SmbHLH028	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 467; subfamily: Suppl. Fig. S2 table
+D8SIS4	SELMO	SmbHLH029	XIV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 468; subfamily: Suppl. Fig. S2 table
+D8SMT6	SELMO	SmbHLH030	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 469; subfamily: Suppl. Fig. S2 table
+D8SKS1	SELMO	SmbHLH031	IIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 470; subfamily: Suppl. Fig. S2 table
+D8TCP6	SELMO	SmbHLH032	Ib(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 471; subfamily: Suppl. Fig. S2 table
+D8R8Q3	SELMO	SmbHLH033	IX	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 472; subfamily: Suppl. Fig. S2 table
+D8TBZ7	SELMO	SmbHLH034	IVc	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 473; subfamily: Suppl. Fig. S2 table
+D8QQZ5	SELMO	SmbHLH035	IVd	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 474; subfamily: Suppl. Fig. S2 table
+D8RKT0	SELMO	SmbHLH036	IVd	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 475; subfamily: Suppl. Fig. S2 table
+D8QZC5	SELMO	SmbHLH037	II	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 476; subfamily: Suppl. Fig. S2 table
+D8SHK0	SELMO	SmbHLH038	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 477; subfamily: Suppl. Fig. S2 table
+D8SEM0	SELMO	SmbHLH040	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 479; subfamily: Suppl. Fig. S2 table
+D8QU30	SELMO	SmbHLH041	IVc	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 480; subfamily: Suppl. Fig. S2 table
+D8S8S8	SELMO	SmbHLH042	VIIIc(2)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 481; subfamily: Suppl. Fig. S2 table
+D8R7Y7	SELMO	SmbHLH043	IVd	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 482; subfamily: Suppl. Fig. S2 table
+D8RJJ0	SELMO	SmbHLH044	VIIIa	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 483; subfamily: Suppl. Fig. S2 table
+D8RL49	SELMO	SmbHLH046	Vb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 485; subfamily: Suppl. Fig. S2 table
+D8R8X3	SELMO	SmbHLH047	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 486; subfamily: Suppl. Fig. S2 table
+D8SNZ7	SELMO	SmbHLH048	Ib(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 487; subfamily: Suppl. Fig. S2 table
+D8RUG4	SELMO	SmbHLH051	VIIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 490; subfamily: Suppl. Fig. S2 table
+D8R9T5	SELMO	SmbHLH052	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 491; subfamily: Suppl. Fig. S2 table
+D8QSQ4	SELMO	SmbHLH053	IIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 492; subfamily: Suppl. Fig. S2 table
+D8RCZ7	SELMO	SmbHLH054	XIV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 493; subfamily: Suppl. Fig. S2 table
+D8RDP9	SELMO	SmbHLH055	II	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 494; subfamily: Suppl. Fig. S2 table
+D8S5R9	SELMO	SmbHLH056	Vb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 495; subfamily: Suppl. Fig. S2 table
+D8SCY3	SELMO	SmbHLH057	XI	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 496; subfamily: Suppl. Fig. S2 table
+D8R343	SELMO	SmbHLH058	XI	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 497; subfamily: Suppl. Fig. S2 table
+D8RYP6	SELMO	SmbHLH059	IX	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 498; subfamily: Suppl. Fig. S2 table
+D8SZH8	SELMO	SmbHLH060	XIII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 499; subfamily: Suppl. Fig. S2 table
+D8SCD3	SELMO	SmbHLH061	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 500; subfamily: Suppl. Fig. S2 table
+D8REY2	SELMO	SmbHLH062	IIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 501; subfamily: Suppl. Fig. S2 table
+D8S4H3	SELMO	SmbHLH065	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 504; subfamily: Suppl. Fig. S2 table
+D8S5D1	SELMO	SmbHLH066	IVd	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 505; subfamily: Suppl. Fig. S2 table
+D8RPY7	SELMO	SmbHLH067	X	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 506; subfamily: Suppl. Fig. S2 table
+D8SH39	SELMO	SmbHLH068	XI	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 507; subfamily: Suppl. Fig. S2 table
+D8R1X7	SELMO	SmbHLH069	IIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 508; subfamily: Suppl. Fig. S2 table
+D8QYR5	SELMO	SmbHLH070	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 509; subfamily: Suppl. Fig. S2 table
+D8QRB1	SELMO	SmbHLH071	VIIIa	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 510; subfamily: Suppl. Fig. S2 table
+D8SGL1	SELMO	SmbHLH072	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 511; subfamily: Suppl. Fig. S2 table
+D8QZZ7	SELMO	SmbHLH073	IVc	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 512; subfamily: Suppl. Fig. S2 table
+D8QWN0	SELMO	SmbHLH074	VIIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 513; subfamily: Suppl. Fig. S2 table
+D8QPQ4	SELMO	SmbHLH075	IIIb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 514; subfamily: Suppl. Fig. S2 table
+D8SSS4	SELMO	SmbHLH076	XI	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 515; subfamily: Suppl. Fig. S2 table
+D8T7I3	SELMO	SmbHLH077	IVd	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 516; subfamily: Suppl. Fig. S2 table
+D8SLD3	SELMO	SmbHLH078	IVb	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 517; subfamily: Suppl. Fig. S2 table
+D8RSR1	SELMO	SmbHLH079	XIV	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 518; subfamily: Suppl. Fig. S2 table
+D8T5U8	SELMO	SmbHLH080	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 519; subfamily: Suppl. Fig. S2 table
+D8SEH0	SELMO	SmbHLH081	Ib(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 520; subfamily: Suppl. Fig. S2 table
+D8TAA2	SELMO	SmbHLH083	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 522; subfamily: Suppl. Fig. S2 table
+D8QNH7	SELMO	SmbHLH084	II	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 523; subfamily: Suppl. Fig. S2 table
+D8R7Y4	SELMO	SmbHLH089	IIIf	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 528; subfamily: Suppl. Fig. S2 table
+D8SK13	SELMO	SmbHLH090	VII(a+b)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 529; subfamily: Suppl. Fig. S2 table
+D8QQ77	SELMO	SmbHLH091	IX	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 530; subfamily: Suppl. Fig. S2 table
+D8RGR5	SELMO	SmbHLH092	IVd	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 531; subfamily: Suppl. Fig. S2 table
+D8R134	SELMO	SmbHLH093	XII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 532; subfamily: Suppl. Fig. S2 table
+D8REM4	SELMO	SmbHLH094	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 533; subfamily: Suppl. Fig. S2 table
+D8RI62	SELMO	SmbHLH095	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 534; subfamily: Suppl. Fig. S2 table
+D8QQZ9	SELMO	SmbHLH097	IIIf	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 536; subfamily: Suppl. Fig. S2 table
+D8T8N9	SELMO	SmbHLH099	Orphans	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 538; subfamily: Suppl. Fig. S2 table
+D8T3L6	SELMO	SmbHLH100	Ia	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 539; subfamily: Suppl. Fig. S2 table
+D8S5W0	SELMO	SmbHLH101	VIIIc(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 540; subfamily: Suppl. Fig. S2 table
+D8R879	SELMO	SmbHLH102	XIII	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 541; subfamily: Suppl. Fig. S2 table
+D8SMX2	SELMO	SmbHLH103	VIIIc(1)	sequence_exact	100.0	1.0/1.0	PiresDolan2010	File009 row 542; subfamily: Suppl. Fig. S2 table

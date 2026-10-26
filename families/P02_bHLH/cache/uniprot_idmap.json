@@ -1,0 +1,2770 @@
+{
+ "uniprot|LOC_Os01g01600": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g01600",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g01840": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g01840",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g01870": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g01870",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g02110": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g02110",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g06640": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g06640",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g09900": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g09900",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g09930": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g09930",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g09990": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g09990",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g11910": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g11910",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g13000": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g13000",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g13460": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g13460",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g18290": [
+  {
+   "entry_name": "PIL15_ORYSJ",
+   "gene_name": "PIL15",
+   "id_type": "gene_name",
+   "length": "637",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os01g18290",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0JNI9"
+  }
+ ],
+ "uniprot|LOC_Os01g18870": [
+  {
+   "entry_name": "TIP2_ORYSJ",
+   "gene_name": "TIP2",
+   "id_type": "gene_name",
+   "length": "379",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os01g18870",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5JNS0"
+  }
+ ],
+ "uniprot|LOC_Os01g33400": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g33400",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g38610": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g38610",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g39330": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g39330",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g39480": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g39480",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g39580": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g39580",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g50940": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g50940",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g51140": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g51140",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g56690": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g56690",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g57580": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g57580",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g61480": [
+  {
+   "entry_name": "LAX1_ORYSJ",
+   "gene_name": "LAX1",
+   "id_type": "gene_name",
+   "length": "215",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os01g61480",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7XAQ6"
+  }
+ ],
+ "uniprot|LOC_Os01g64560": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g64560",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g67480": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g67480",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g68700": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g68700",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g70310": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g70310",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g72370": [
+  {
+   "entry_name": "IRO2_ORYSJ",
+   "gene_name": "IRO2",
+   "id_type": "gene_name",
+   "length": "247",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os01g72370",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0JFZ0"
+  }
+ ],
+ "uniprot|LOC_Os02g02480": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g02480",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g02820": [
+  {
+   "entry_name": "TDR_ORYSJ",
+   "gene_name": "TDR",
+   "id_type": "gene_name",
+   "length": "552",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os02g02820",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6YUS3"
+  }
+ ],
+ "uniprot|LOC_Os02g08220": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g08220",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g12820": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g12820",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g13670": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g13670",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g15760": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g15760",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g17680": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g17680",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g21090": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g21090",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g23823": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g23823",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g34320": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g34320",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g34370": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g34370",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g35660": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g35660",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g39140": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g39140",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g45010": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g45010",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g46560": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g46560",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g47660": [
+  {
+   "entry_name": "BCL2_ORYSJ",
+   "gene_name": "BCL2",
+   "id_type": "gene_name",
+   "length": "361",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os02g47660",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6Z2G7"
+  }
+ ],
+ "uniprot|LOC_Os02g48060": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g48060",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g49480": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g49480",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g51320": [
+  {
+   "entry_name": "ILI5_ORYSJ",
+   "gene_name": "ILI5",
+   "id_type": "gene_name",
+   "length": "88",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os02g51320",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6YUX0"
+  }
+ ],
+ "uniprot|LOC_Os02g52190": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g52190",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g55250": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g55250",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g56140": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g56140",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g03000": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g03000",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g04310": [
+  {
+   "entry_name": "BH003_ORYSJ",
+   "gene_name": "BHLH3",
+   "id_type": "gene_name",
+   "length": "354",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g04310",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q10S44"
+  }
+ ],
+ "uniprot|LOC_Os03g07540": [
+  {
+   "entry_name": "ILI3_ORYSJ",
+   "gene_name": "ILI3",
+   "id_type": "gene_name",
+   "length": "91",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g07540",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q10R47"
+  }
+ ],
+ "uniprot|LOC_Os03g08930": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g08930",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g10770": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g10770",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g12760": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g12760",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g12940": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g12940",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g15440": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g15440",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g17130": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g17130",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g21970": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g21970",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g26210": [
+  {
+   "entry_name": "IRO3_ORYSJ",
+   "gene_name": "IRO3",
+   "id_type": "gene_name",
+   "length": "252",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g26210",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q10KL8"
+  }
+ ],
+ "uniprot|LOC_Os03g27390": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g27390",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g39432": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g39432",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g42100": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g42100",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g43810": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g43810",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g46790": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g46790",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g46860": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g46860",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g51580": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g51580",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g51910": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g51910",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g53020": [
+  {
+   "entry_name": "BH148_ORYSJ",
+   "gene_name": "BHLH148",
+   "id_type": "gene_name",
+   "length": "299",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g53020",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q75KV9"
+  }
+ ],
+ "uniprot|LOC_Os03g55220": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g55220",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g55550": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g55550",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g56950": [
+  {
+   "entry_name": "PIL13_ORYSJ",
+   "gene_name": "PIL13",
+   "id_type": "gene_name",
+   "length": "410",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g56950",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q10CH5"
+  }
+ ],
+ "uniprot|LOC_Os03g58330": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g58330",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g58830": [
+  {
+   "entry_name": "BH089_ORYSJ",
+   "gene_name": "BHLH089",
+   "id_type": "gene_name",
+   "length": "265",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g58830",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q84T08"
+  }
+ ],
+ "uniprot|LOC_Os03g59670": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g59670",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os04g23440": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os04g23440",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os04g23550": [
+  {
+   "entry_name": "BH006_ORYSJ",
+   "gene_name": "BHLH6",
+   "id_type": "gene_name",
+   "length": "310",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os04g23550",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0JEB7"
+  }
+ ],
+ "uniprot|LOC_Os04g28280": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os04g28280",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os04g31290": [
+  {
+   "entry_name": "BH156_ORYSJ",
+   "gene_name": "BHLH156",
+   "id_type": "gene_name",
+   "length": "352",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os04g31290",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "A0A0N7KIY3"
+  }
+ ],
+ "uniprot|LOC_Os04g35010": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os04g35010",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os04g41229": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os04g41229",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os04g41570": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os04g41570",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os04g47040": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os04g47040",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os04g47059": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os04g47059",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os04g47080": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os04g47080",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os04g47810": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os04g47810",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os04g50090": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os04g50090",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os04g51070": [
+  {
+   "entry_name": "EAT1_ORYSJ",
+   "gene_name": "EAT1",
+   "id_type": "gene_name",
+   "length": "464",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os04g51070",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7X8R0"
+  }
+ ],
+ "uniprot|LOC_Os04g52770": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os04g52770",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os04g53990": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os04g53990",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os04g54900": [
+  {
+   "entry_name": "ILI1_ORYSJ",
+   "gene_name": "BHLH154",
+   "id_type": "gene_name",
+   "length": "104",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os04g54900",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7X742"
+  }
+ ],
+ "uniprot|LOC_Os05g01256": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os05g01256",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os05g04740": [
+  {
+   "entry_name": "APG_ORYSJ",
+   "gene_name": "APG",
+   "id_type": "gene_name",
+   "length": "505",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os05g04740",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6AT90"
+  }
+ ],
+ "uniprot|LOC_Os05g06520": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os05g06520",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os05g07120": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os05g07120",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os05g11070": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os05g11070",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os05g14010": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os05g14010",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os05g27090": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os05g27090",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os05g38140": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os05g38140",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os05g42180": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os05g42180",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os05g46370": [
+  {
+   "entry_name": "LF_ORYSJ",
+   "gene_name": "LF",
+   "id_type": "gene_name",
+   "length": "416",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os05g46370",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "A0A0P0WQ90"
+  }
+ ],
+ "uniprot|LOC_Os05g50900": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os05g50900",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os05g51820": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os05g51820",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os06g06900": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os06g06900",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os06g08500": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os06g08500",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os06g09370": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os06g09370",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os06g10820": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os06g10820",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os06g12210": [
+  {
+   "entry_name": "ILI4_ORYSJ",
+   "gene_name": "ILI4",
+   "id_type": "gene_name",
+   "length": "87",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os06g12210",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0DDF6"
+  }
+ ],
+ "uniprot|LOC_Os06g16400": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os06g16400",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os06g30090": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os06g30090",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os06g33450": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os06g33450",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os06g37410": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os06g37410",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os06g41060": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os06g41060",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os06g44320": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os06g44320",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os06g50900": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os06g50900",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os07g05010": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os07g05010",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os07g08440": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os07g08440",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os07g09590": [
+  {
+   "entry_name": "BH094_ORYSJ",
+   "gene_name": "BHLH094",
+   "id_type": "gene_name",
+   "length": "256",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os07g09590",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q69WS3"
+  }
+ ],
+ "uniprot|LOC_Os07g11020": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os07g11020",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os07g28890": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os07g28890",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os07g35870": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os07g35870",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os07g36460": [
+  {
+   "entry_name": "UDT1_ORYSJ",
+   "gene_name": "UDT1",
+   "id_type": "gene_name",
+   "length": "234",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os07g36460",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "B9FXT3"
+  }
+ ],
+ "uniprot|LOC_Os07g39940": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os07g39940",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os07g43530": [
+  {
+   "entry_name": "BH062_ORYSJ",
+   "gene_name": "BHLH062",
+   "id_type": "gene_name",
+   "length": "265",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os07g43530",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q69V10"
+  }
+ ],
+ "uniprot|LOC_Os07g47960": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os07g47960",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os08g01700": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os08g01700",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os08g04390": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os08g04390",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os08g08160": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os08g08160",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os08g33590": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os08g33590",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os08g36740": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os08g36740",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os08g37290": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os08g37290",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os08g37730": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os08g37730",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os08g38080": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os08g38080",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os08g38210": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os08g38210",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os08g39630": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os08g39630",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os08g41320": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os08g41320",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os08g42470": [
+  {
+   "entry_name": "BCL1_ORYSJ",
+   "gene_name": "BCL1",
+   "id_type": "gene_name",
+   "length": "291",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os08g42470",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "A3BV95"
+  }
+ ],
+ "uniprot|LOC_Os08g43070": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os08g43070",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os09g24490": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os09g24490",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os09g25040": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os09g25040",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os09g28210": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os09g28210",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os09g28900": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os09g28900",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os09g29360": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os09g29360",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os09g29830": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os09g29830",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os09g29930": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os09g29930",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os09g31300": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os09g31300",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os09g32510": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os09g32510",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os09g33580": [
+  {
+   "entry_name": "BC1_ORYSJ",
+   "gene_name": "BC1",
+   "id_type": "gene_name",
+   "length": "282",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os09g33580",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0J0G7"
+  }
+ ],
+ "uniprot|LOC_Os09g34330": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os09g34330",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os10g01530": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os10g01530",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os10g23050": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os10g23050",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os10g26460": [
+  {
+   "entry_name": "ILI7_ORYSJ",
+   "gene_name": "ILI7",
+   "id_type": "gene_name",
+   "length": "91",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os10g26460",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q338G6"
+  }
+ ],
+ "uniprot|LOC_Os10g39750": [
+  {
+   "entry_name": "BH004_ORYSJ",
+   "gene_name": "BHLH004",
+   "id_type": "gene_name",
+   "length": "380",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os10g39750",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q336V8"
+  }
+ ],
+ "uniprot|LOC_Os10g40740": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os10g40740",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os10g42430": [
+  {
+   "entry_name": "MYC2_ORYSJ",
+   "gene_name": "MYC2",
+   "id_type": "gene_name",
+   "length": "699",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os10g42430",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q336P5"
+  }
+ ],
+ "uniprot|LOC_Os11g06010": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os11g06010",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os11g15210": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os11g15210",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os11g25560": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os11g25560",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os11g32100": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os11g32100",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os11g38870": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os11g38870",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os11g39000": [
+  {
+   "entry_name": "ILI2_ORYSJ",
+   "gene_name": "ILI2",
+   "id_type": "gene_name",
+   "length": "101",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os11g39000",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q2R1J3"
+  }
+ ],
+ "uniprot|LOC_Os11g41640": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os11g41640",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os12g06330": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os12g06330",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os12g31430": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os12g31430",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os12g32400": [
+  {
+   "entry_name": "BH133_ORYSJ",
+   "gene_name": "BHLH133",
+   "id_type": "gene_name",
+   "length": "198",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os12g32400",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q2QQ32"
+  }
+ ],
+ "uniprot|LOC_Os12g39850": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os12g39850",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os12g40590": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os12g40590",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os12g40630": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os12g40630",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os12g40710": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os12g40710",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os12g40730": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os12g40730",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os12g41650": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os12g41650",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os12g43620": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os12g43620",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ]
+}
