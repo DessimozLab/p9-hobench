@@ -45,6 +45,11 @@ FAM = Path(__file__).resolve().parent
 FID = "Y01_YGOB_pillars"
 COLLECTION = "YGOB"
 CACHE = FAM / "source_cache"
+# PI decision: pillars excluded from this collection because they are encoded as a dedicated family elsewhere
+EXCLUDED_UNITS = {
+    "YGOB_L04856": "URA1/YKL216W (DHOD) acquired by HGT from bacteria; encoded with its HGT history in "
+                   "families/Y03_URA1_HGT (PI decision)",
+}
 YG = ROOT / "literature/raw/B1/ygob"
 V7 = YG / "Pillars.TRUNCATED_wayback_20210728.tab"
 V7_README = YG / "README.txt"  # verbatim copy of README
@@ -331,6 +336,8 @@ def main():
             reason = f"<{a.min_species} panel species mapped"
         elif frac < 0.8:
             reason = f"mapping {n_map}/{len(in_panel)} < 80%"
+        if not reason and uid in EXCLUDED_UNITS:
+            reason = "excluded: " + EXCLUDED_UNITS[uid]
         if reason:
             stats["unit_skipped:" + reason.split(" ")[0]] += 1
             for r in report:

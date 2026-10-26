@@ -77,3 +77,6 @@ apparently diverged before the expected WGD" (PMID26252497; Y02 cross-check: 85/
 Consequence: in the 525+6 units that contain a WGD D node, KLE vs post-WGD pairs are no longer asserted (root U;
 KLE vs ZT kept as S at Saccharomycetaceae); units without a WGD D keep KLE vs post-WGD orthologs at Saccharomycetaceae.
 Re-validated: 1,977 units, 0 errors; verify_provenance (assembled view) PASS, 0 errors/0 warnings.
+
+## PI decision: URA1 pillar excluded
+Unit YGOB_L04856 (YKL216W/URA1, DHOD acquired by HGT) is dropped via EXCLUDED_UNITS in build.py; it is encoded with its HGT history in families/Y03_URA1_HGT. Now 1,976 units; validate 0 errors; verify_provenance PASS.

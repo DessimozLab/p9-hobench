@@ -44211,19 +44211,19 @@ YGOB_L04852	not_a_unit: <4 panel species mapped	KAFR0D02290	KAZAF	1	mapped	H2AU2
 YGOB_L04853	not_a_unit: <4 panel species mapped	KAFR0D02400	KAZAF	1	mapped	H2AU37	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4853
 YGOB_L04854	not_a_unit: <4 panel species mapped	KAFR0D02490	KAZAF	1	mapped	H2AU46	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4854
 YGOB_L04855	not_a_unit: <4 panel species mapped	KAFR0D02500	KAZAF	1	mapped	H2AU47	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4855
-YGOB_L04856	unit	TPHA0K00200	TETPH	1	mapped	G8BZ26	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
-YGOB_L04856	unit	TBLA0B10140	HENBL	1	not_in_panel		species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
-YGOB_L04856	unit	NCAS0D03520	NAUCC	1	mapped	Q6V3X0	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
-YGOB_L04856	unit	Suva_11.4	SACUV	1	not_in_panel		species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
-YGOB_L04856	unit	Skud_11.4	Skud	1	not_in_panel		species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
-YGOB_L04856	unit	Smik_11.7	Smik	1	not_in_panel		species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
-YGOB_L04856	unit	YKL216W	YEAST	1	mapped	P28272	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
-YGOB_L04856	unit	ZYRO0D00396g	ZYGRC	0	mapped	C5DUP9	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
-YGOB_L04856	unit	TDEL0F05620	TORDC	0	mapped	G8ZXM9	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
-YGOB_L04856	unit	KLLA0C19360g	KLULA	0	mapped	Q7Z895	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
-YGOB_L04856	unit	SAKL0D15268g	Lkluyveri	0	not_in_panel		species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
-YGOB_L04856	unit	KLTH0F00308g	LACTH	0	mapped	C5DJY4	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
-YGOB_L04856	unit	Kwal_27.9662	Lwaltii	0	not_in_panel		species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
+YGOB_L04856	not_a_unit: excluded: URA1/YKL216W (DHOD) acquired by HGT from bacteria; encoded with its HGT history in families/Y03_URA1_HGT (PI decision)	TPHA0K00200	TETPH	1	mapped	G8BZ26	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
+YGOB_L04856	not_a_unit: excluded: URA1/YKL216W (DHOD) acquired by HGT from bacteria; encoded with its HGT history in families/Y03_URA1_HGT (PI decision)	TBLA0B10140	HENBL	1	not_in_panel		species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
+YGOB_L04856	not_a_unit: excluded: URA1/YKL216W (DHOD) acquired by HGT from bacteria; encoded with its HGT history in families/Y03_URA1_HGT (PI decision)	NCAS0D03520	NAUCC	1	mapped	Q6V3X0	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
+YGOB_L04856	not_a_unit: excluded: URA1/YKL216W (DHOD) acquired by HGT from bacteria; encoded with its HGT history in families/Y03_URA1_HGT (PI decision)	Suva_11.4	SACUV	1	not_in_panel		species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
+YGOB_L04856	not_a_unit: excluded: URA1/YKL216W (DHOD) acquired by HGT from bacteria; encoded with its HGT history in families/Y03_URA1_HGT (PI decision)	Skud_11.4	Skud	1	not_in_panel		species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
+YGOB_L04856	not_a_unit: excluded: URA1/YKL216W (DHOD) acquired by HGT from bacteria; encoded with its HGT history in families/Y03_URA1_HGT (PI decision)	Smik_11.7	Smik	1	not_in_panel		species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
+YGOB_L04856	not_a_unit: excluded: URA1/YKL216W (DHOD) acquired by HGT from bacteria; encoded with its HGT history in families/Y03_URA1_HGT (PI decision)	YKL216W	YEAST	1	mapped	P28272	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
+YGOB_L04856	not_a_unit: excluded: URA1/YKL216W (DHOD) acquired by HGT from bacteria; encoded with its HGT history in families/Y03_URA1_HGT (PI decision)	ZYRO0D00396g	ZYGRC	0	mapped	C5DUP9	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
+YGOB_L04856	not_a_unit: excluded: URA1/YKL216W (DHOD) acquired by HGT from bacteria; encoded with its HGT history in families/Y03_URA1_HGT (PI decision)	TDEL0F05620	TORDC	0	mapped	G8ZXM9	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
+YGOB_L04856	not_a_unit: excluded: URA1/YKL216W (DHOD) acquired by HGT from bacteria; encoded with its HGT history in families/Y03_URA1_HGT (PI decision)	KLLA0C19360g	KLULA	0	mapped	Q7Z895	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
+YGOB_L04856	not_a_unit: excluded: URA1/YKL216W (DHOD) acquired by HGT from bacteria; encoded with its HGT history in families/Y03_URA1_HGT (PI decision)	SAKL0D15268g	Lkluyveri	0	not_in_panel		species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
+YGOB_L04856	not_a_unit: excluded: URA1/YKL216W (DHOD) acquired by HGT from bacteria; encoded with its HGT history in families/Y03_URA1_HGT (PI decision)	KLTH0F00308g	LACTH	0	mapped	C5DJY4	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
+YGOB_L04856	not_a_unit: excluded: URA1/YKL216W (DHOD) acquired by HGT from bacteria; encoded with its HGT history in families/Y03_URA1_HGT (PI decision)	Kwal_27.9662	Lwaltii	0	not_in_panel		species not in panel Y	Pillars.TRUNCATED_wayback_20210728.tab:line 4856
 YGOB_L04857	not_a_unit: <4 panel species mapped	KAFR0D03690	KAZAF	1	mapped	H2AUG7	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4857
 YGOB_L04858	not_a_unit: <4 panel species mapped	KAFR0D03770	KAZAF	1	mapped	H2AUH5	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4858
 YGOB_L04859	not_a_unit: <4 panel species mapped	KAFR0D03840	KAZAF	1	mapped	H2AUI2	gene_name_exact	Pillars.TRUNCATED_wayback_20210728.tab:line 4859

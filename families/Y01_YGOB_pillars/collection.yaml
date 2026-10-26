@@ -108,17 +108,18 @@ stats:
   node:event:D_WGD_ohnolog_pair: 1341
   node:event:D_WGD_pseudoortholog: 49
   node:event:D_WGD_tracks: 201
-  node:event:S_Saccharomycetaceae: 1432
+  node:event:S_Saccharomycetaceae: 1431
   node:event:S_Saccharomycetaceae_KLE_ZT: 525
-  node:event:S_preWGD: 3835
+  node:event:S_preWGD: 3833
   node:event:S_same_track: 1189
   tag:LOSS: 486
   tag:WGD: 538
   track_resolved: 1120
   unit_skipped:<4: 2337
+  'unit_skipped:excluded:': 1
   unit_skipped:mapping: 26
   unit_skipped:no_asserted_pair: 10
-  units: 1977
+  units: 1976
 mapping:
 - ASHGO:mapped=1908
 - ASHGO:unmapped=20
