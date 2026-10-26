@@ -1,0 +1,75 @@
+id: P01_homeobox
+name: 'Plant homeobox superfamily (14 classes: KNOX, BEL, HD-ZIP I-IV, WOX, PLINC, PHD, DDT, NDX, LD, SAWADEE, PINTOX)'
+panel: P
+phenomena:
+- DOM
+- LOSS
+- DEEP
+descriptors:
+  n_members: 319
+  n_species: 8
+  n_in_panel_paper_members: 511
+  mapped_fraction: 0.624
+  mapped_fraction_by_species:
+    ARATH: 0.991
+    BRARP: 0.4
+    CHLRE: 0.0
+    MAIZE: 0.446
+    ORYSJ: 0.853
+    OSTLU: 1.0
+    PHAVU: 0.0
+    PHYPA: 0.167
+    SELMO: 0.711
+    SOYBN: 0.167
+    VITVI: 0.0
+  classes:
+  - BEL
+  - DDT
+  - HD-ZIP I
+  - HD-ZIP II
+  - HD-ZIP III
+  - HD-ZIP IV
+  - KNOX
+  - LD
+  - NDX
+  - PHD
+  - PINTOX
+  - PLINC
+  - SAWADEE
+  - TALE_unclassified
+  - WOX
+sources:
+- id: Mukherjee2009
+  doi: 10.1093/molbev/msp201
+  pmid: '19734295'
+  pmcid: PMC2775110
+  title: A comprehensive classification and evolutionary analysis of plant homeobox genes
+  year: 2009
+  source_method: phylogeny
+  locator: Supplementary table 1 (msp201_5.html); Results; Discussion 'Evolutionary History of Plant Homeobox Genes'
+  quote: All homeobox genes can be unambiguously classified by sequence evolutionary analysis into 14 distinct classes
+  files:
+  - path: literature/raw/B2/supp/PMC2775110/msp201_5.html
+    sha256: dadbd49697fef7c5339ea3c0453787a04a67e666bd0cb1c0349b16432f9f676b
+  - path: literature/papers/PMID19734295/fulltext.txt
+    sha256: 3f4365b569209b3340192e24890c9aac69cee7c68d32dc8ddf76a4110447d203
+root_level: Viridiplantae
+root_single_copy: false
+complete_species:
+- ARATH
+- OSTLU
+decoys: []
+distinct_from: []
+tier_summary:
+  U_T2: 18
+  D_T1: 5
+  S_T2: 2
+protocol_version: 1
+notes: 'Classes are the paper''s labels (Supplementary table 1). Inter-class relations are only asserted where the paper dates
+  the class origins (TALE vs non-TALE and KNOX vs BEL before plants; DDT, WOX, PINTOX in the green-plant ancestor; HD-ZIP
+  I-IV after the Chlorophyta/Streptophyta split and before the moss/vascular split; KNOX I vs II before the moss/vascular
+  split). Land-plant classes PLINC/PHD/NDX/LD/SAWADEE relative to each other and to DDT/WOX/PINTOX: U (parent class not identified;
+  the paper says inter-class topology is poorly supported). Within classes: U (many paralogs; WGD-descended lineages, no synteny
+  curation), except chlorophyte-vs-land S nodes for DDT/WOX/PINTOX. Rows labelled with codomains but no homeodomain (START
+  ONLY, PLINC ONLY, MEKHLA ONLY, ...) and pseudogenes are excluded. ORYSJ includes rows coded ''Os'' and ''Os_j'' (O. sativa;
+  the searched genome is japonica). Non-genome-wide species (VITVI, SOYBN, BRARP, PHAVU) contribute EST/cDNA-based rows only.'

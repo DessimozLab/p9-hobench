@@ -1,0 +1,903 @@
+original_id	species	label	gene_id	status	reason	locator	source
+NDX1	Lj	NDX		not_in_panel	species not in panel P	msp201_5.html row 91 (Gene Number 118)	Mukherjee2009
+NDX2	Lj	NDX		not_in_panel	species not in panel P	msp201_5.html row 93 (Gene Number 120)	Mukherjee2009
+HB2	Fb	PLINC		not_in_panel	species not in panel P	msp201_5.html row 95 (Gene Number 124)	Mukherjee2009
+HB1	Fb	PLINC		not_in_panel	species not in panel P	msp201_5.html row 112 (Gene Number 145)	Mukherjee2009
+HB3	Fb	PLINC		not_in_panel	species not in panel P	msp201_5.html row 113 (Gene Number 146)	Mukherjee2009
+HB4	Fb	PLINC		not_in_panel	species not in panel P	msp201_5.html row 114 (Gene Number 147)	Mukherjee2009
+WOX	Ph	WOX		not_in_panel	species not in panel P	msp201_5.html row 115 (Gene Number 148)	Mukherjee2009
+HB2	Pa	HD-ZIP IV START		not_in_panel	species not in panel P	msp201_5.html row 118 (Gene Number 155)	Mukherjee2009
+HB1	Ze	HD-ZIP III START MEKHLA		not_in_panel	species not in panel P	msp201_5.html row 120 (Gene Number 157)	Mukherjee2009
+At3g23080	ARATH	START ONLY		excluded	not a homeobox gene in the paper's classification (label 'START ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 123 (Gene Number 160)	Mukherjee2009
+At5g54170	ARATH	START ONLY		excluded	not a homeobox gene in the paper's classification (label 'START ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 124 (Gene Number 161)	Mukherjee2009
+At5g45560	ARATH	PH - START		excluded	not a homeobox gene in the paper's classification (label 'PH - START': codomain without HD / not counted in Table 2)	msp201_5.html row 125 (Gene Number 162)	Mukherjee2009
+At3g13062	ARATH	START ONLY		excluded	not a homeobox gene in the paper's classification (label 'START ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 126 (Gene Number 163)	Mukherjee2009
+At5g07260	ARATH	START - HD-SAD		excluded	not a homeobox gene in the paper's classification (label 'START - HD-SAD': codomain without HD / not counted in Table 2)	msp201_5.html row 127 (Gene Number 164)	Mukherjee2009
+At4g14500	ARATH	START ONLY		excluded	not a homeobox gene in the paper's classification (label 'START ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 128 (Gene Number 165)	Mukherjee2009
+At1g55960	ARATH	START ONLY		excluded	not a homeobox gene in the paper's classification (label 'START ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 129 (Gene Number 166)	Mukherjee2009
+F1M20.34	ARATH	PLINC ONLY		excluded	not a homeobox gene in the paper's classification (label 'PLINC ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 130 (Gene Number 153)	Mukherjee2009
+AY086885	ARATH	PLINC ONLY		excluded	not a homeobox gene in the paper's classification (label 'PLINC ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 131 (Gene Number 154)	Mukherjee2009
+PRHP	Pc	PHD ZINC FINGER		not_in_panel	species not in panel P	msp201_5.html row 133 (Gene Number 171)	Mukherjee2009
+F1L3.14	ARATH	no HD, other transcription factor		excluded	not a homeobox gene in the paper's classification (label 'no HD, other transcription factor': codomain without HD / not counted in Table 2)	msp201_5.html row 139 (Gene Number 177)	Mukherjee2009
+AaKNOX1	Aa	KNOX		not_in_panel	species not in panel P	msp201_5.html row 142 (Gene Number 207)	Mukherjee2009
+Mdh1	Ms	BEL		not_in_panel	species not in panel P	msp201_5.html row 143 (Gene Number 186)	Mukherjee2009
+JuBel1	Hv	BEL		not_in_panel	species not in panel P	msp201_5.html row 144 (Gene Number 181)	Mukherjee2009
+Bel30	St	BEL		not_in_panel	species not in panel P	msp201_5.html row 145 (Gene Number 198)	Mukherjee2009
+Bel5	St	BEL		not_in_panel	species not in panel P	msp201_5.html row 146 (Gene Number 199)	Mukherjee2009
+JuBel2	Hv	BEL		not_in_panel	species not in panel P	msp201_5.html row 148 (Gene Number 182)	Mukherjee2009
+PKn2	In	KNOX		not_in_panel	species not in panel P	msp201_5.html row 151 (Gene Number 183)	Mukherjee2009
+TKn3	Le	KNOX		not_in_panel	species not in panel P	msp201_5.html row 152 (Gene Number 184)	Mukherjee2009
+NTH22	Nt	KNOX		not_in_panel	species not in panel P	msp201_5.html row 153 (Gene Number 187)	Mukherjee2009
+Bel11	St	BEL		not_in_panel	species not in panel P	msp201_5.html row 154 (Gene Number 200)	Mukherjee2009
+Bel29	St	BEL		not_in_panel	species not in panel P	msp201_5.html row 155 (Gene Number 201)	Mukherjee2009
+Bel22	St	BEL		not_in_panel	species not in panel P	msp201_5.html row 157 (Gene Number 202)	Mukherjee2009
+Bel13	St	BEL		not_in_panel	species not in panel P	msp201_5.html row 158 (Gene Number 203)	Mukherjee2009
+Bel14	St	BEL		not_in_panel	species not in panel P	msp201_5.html row 159 (Gene Number 204)	Mukherjee2009
+POTH1	St	KNOX		not_in_panel	species not in panel P	msp201_5.html row 162 (Gene Number 205)	Mukherjee2009
+DOH1	Dg	KNOX		not_in_panel	species not in panel P	msp201_5.html row 163 (Gene Number 179)	Mukherjee2009
+HOX7	Lp	DDT		not_in_panel	species not in panel P	msp201_5.html row 165 (Gene Number 185)	Mukherjee2009
+At4g25330	ARATH	SAWADEE ONLY		excluded	not a homeobox gene in the paper's classification (label 'SAWADEE ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 168 (Gene Number 178)	Mukherjee2009
+HB1	Ft	PLINC		not_in_panel	species not in panel P	msp201_5.html row 170 (Gene Number 151)	Mukherjee2009
+Sawhb1a	Lc	SAWADEE		not_in_panel	species not in panel P	msp201_5.html row 176 (Gene Number 215)	Mukherjee2009
+Sawhb1b	Lc	SAWADEE		not_in_panel	species not in panel P	msp201_5.html row 177 (Gene Number 216)	Mukherjee2009
+LjT02G18	Lc	SAWADEE ONLY		not_in_panel	species not in panel P	msp201_5.html row 178 (Gene Number 217)	Mukherjee2009
+Saw1	Le	SAWADEE ONLY		not_in_panel	species not in panel P	msp201_5.html row 179 (Gene Number 219)	Mukherjee2009
+Saw1	Pb	SAWADEE ONLY		not_in_panel	species not in panel P	msp201_5.html row 180 (Gene Number 220)	Mukherjee2009
+Pint1	St	PINTOX		not_in_panel	species not in panel P	msp201_5.html row 182 (Gene Number 223)	Mukherjee2009
+Pint1	Pb	PINTOX		not_in_panel	species not in panel P	msp201_5.html row 183 (Gene Number 224)	Mukherjee2009
+At4g26920	ARATH	START - HD-SAD		excluded	not a homeobox gene in the paper's classification (label 'START - HD-SAD': codomain without HD / not counted in Table 2)	msp201_5.html row 185 (Gene Number 226)	Mukherjee2009
+At4g19040	ARATH	PH - START		excluded	not a homeobox gene in the paper's classification (label 'PH - START': codomain without HD / not counted in Table 2)	msp201_5.html row 186 (Gene Number 227)	Mukherjee2009
+BNLGHi6313	Gh	HD-ZIP III START MEKHLA		not_in_panel	species not in panel P	msp201_5.html row 187 (Gene Number 228)	Mukherjee2009
+Mdh3	Md	HD-ZIP IV START		not_in_panel	species not in panel P	msp201_5.html row 188 (Gene Number 229)	Mukherjee2009
+At3g54800	ARATH	PH - START		excluded	not a homeobox gene in the paper's classification (label 'PH - START': codomain without HD / not counted in Table 2)	msp201_5.html row 189 (Gene Number 230)	Mukherjee2009
+At2g28320	ARATH	PH - START		excluded	not a homeobox gene in the paper's classification (label 'PH - START': codomain without HD / not counted in Table 2)	msp201_5.html row 190 (Gene Number 231)	Mukherjee2009
+F26F4.4	Ce	TM - START		not_in_panel	species not in panel P	msp201_5.html row 191 (Gene Number 232)	Mukherjee2009
+K02D3.2	Ce	START ONLY		not_in_panel	species not in panel P	msp201_5.html row 192 (Gene Number 233)	Mukherjee2009
+T28D6.7	Ce	START ONLY		not_in_panel	species not in panel P	msp201_5.html row 193 (Gene Number 234)	Mukherjee2009
+F25H2.6	Ce	PH - START		not_in_panel	species not in panel P	msp201_5.html row 194 (Gene Number 235)	Mukherjee2009
+C06H2.2	Ce	START ONLY		not_in_panel	species not in panel P	msp201_5.html row 195 (Gene Number 236)	Mukherjee2009
+GEI-1	Ce	RhoGAP - START		not_in_panel	species not in panel P	msp201_5.html row 196 (Gene Number 237)	Mukherjee2009
+F52F12.7	Ce	START ONLY		not_in_panel	species not in panel P	msp201_5.html row 197 (Gene Number 238)	Mukherjee2009
+RHOGAP88C	Dm	RhoGAP - START		not_in_panel	species not in panel P	msp201_5.html row 198 (Gene Number 239)	Mukherjee2009
+GH07688	Dm	PH - START		not_in_panel	species not in panel P	msp201_5.html row 199 (Gene Number 240)	Mukherjee2009
+CG6565	Dm	START ONLY		not_in_panel	species not in panel P	msp201_5.html row 200 (Gene Number 241)	Mukherjee2009
+CG3522	Dm	TM - START		not_in_panel	species not in panel P	msp201_5.html row 201 (Gene Number 242)	Mukherjee2009
+STARD8	Hs	RhoGAP - START		not_in_panel	species not in panel P	msp201_5.html row 202 (Gene Number 243)	Mukherjee2009
+MGC38133	Mm	RhoGAP - START		not_in_panel	species not in panel P	msp201_5.html row 203 (Gene Number 244)	Mukherjee2009
+OS19L20	ORYSJ	PLINC ONLY		excluded	not a homeobox gene in the paper's classification (label 'PLINC ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 205 (Gene Number 246)	Mukherjee2009
+At3g42670	ARATH	SAWADEE - like (SNF2?)		excluded	not a homeobox gene in the paper's classification (label 'SAWADEE - like (SNF2?)': codomain without HD / not counted in Table 2)	msp201_5.html row 208 (Gene Number 249)	Mukherjee2009
+At5g20420	ARATH	SAWADEE - like (SNF2?)		excluded	not a homeobox gene in the paper's classification (label 'SAWADEE - like (SNF2?)': codomain without HD / not counted in Table 2)	msp201_5.html row 209 (Gene Number 250)	Mukherjee2009
+P0034A04.120	ORYSJ	SAWADEE - like		excluded	not a homeobox gene in the paper's classification (label 'SAWADEE - like': codomain without HD / not counted in Table 2)	msp201_5.html row 210 (Gene Number 251)	Mukherjee2009
+HOX1	Gh	HD-ZIP IV START		not_in_panel	species not in panel P	msp201_5.html row 215 (Gene Number 256)	Mukherjee2009
+OJ1339_B08.1-1	ORYSJ	START WITHOUT HOMEODOMAIN		excluded	not a homeobox gene in the paper's classification (label 'START WITHOUT HOMEODOMAIN': codomain without HD / not counted in Table 2)	msp201_5.html row 254 (Gene Number 303)	Mukherjee2009
+OSJNBa0019F11.22	(J)	PH + START WITHOUT HD		not_in_panel	species not in panel P	msp201_5.html row 255 (Gene Number 304)	Mukherjee2009
+OSJNBb0015I11.18	ORYSJ	HD-ZIP 2 PSEUDOGENE		excluded	pseudogene (protocol 0.6)	msp201_5.html row 258 (Gene Number 312)	Mukherjee2009
+chr6.13189445	ORYSJ	PLINC ONLY		excluded	not a homeobox gene in the paper's classification (label 'PLINC ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 294 (Gene Number 391)	Mukherjee2009
+chr8.20630519	ORYSJ	PLINC ONLY		excluded	not a homeobox gene in the paper's classification (label 'PLINC ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 295 (Gene Number 392)	Mukherjee2009
+chr9.13375981	ORYSJ	PLINC ONLY		excluded	not a homeobox gene in the paper's classification (label 'PLINC ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 296 (Gene Number 393)	Mukherjee2009
+chr9.13395289	ORYSJ	PLINC ONLY		excluded	not a homeobox gene in the paper's classification (label 'PLINC ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 297 (Gene Number 394)	Mukherjee2009
+chr9.1298361	ORYSJ	PLINC ONLY		excluded	not a homeobox gene in the paper's classification (label 'PLINC ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 298 (Gene Number 395)	Mukherjee2009
+chr5.13787121	ORYSJ	DDT_pseudogene		excluded	pseudogene (protocol 0.6)	msp201_5.html row 311 (Gene Number 416)	Mukherjee2009
+OSJNBb0016M10.1	ORYSJ	HD-ZIP III (Pseudogene)		excluded	pseudogene (protocol 0.6)	msp201_5.html row 314 (Gene Number 419)	Mukherjee2009
+OSJNBb0094O03.2	ORYSJ	KNOX I (PSEUDOGENE)		excluded	pseudogene (protocol 0.6)	msp201_5.html row 318 (Gene Number 423)	Mukherjee2009
+syc1245_d	bS6301	MEKHLA ONLY		not_in_panel	species not in panel P	msp201_5.html row 320 (Gene Number 432)	Mukherjee2009
+tll1464	bTe	MEKHLA ONLY		not_in_panel	species not in panel P	msp201_5.html row 321 (Gene Number 433)	Mukherjee2009
+Tery02002933	bTer	MEKHLA ONLY		not_in_panel	species not in panel P	msp201_5.html row 322 (Gene Number 434)	Mukherjee2009
+NE0286	bNe	MEKHLA ONLY		not_in_panel	species not in panel P	msp201_5.html row 323 (Gene Number 435)	Mukherjee2009
+MCA0608	bMc	MEKHLA ONLY		not_in_panel	species not in panel P	msp201_5.html row 324 (Gene Number 436)	Mukherjee2009
+alr4836	bN7120	MEKHLA ONLY		not_in_panel	species not in panel P	msp201_5.html row 325 (Gene Number 437)	Mukherjee2009
+Avar03003223	bAv	MEKHLA ONLY		not_in_panel	species not in panel P	msp201_5.html row 326 (Gene Number 438)	Mukherjee2009
+Chut02001746	bCh	MEKHLA ONLY		not_in_panel	species not in panel P	msp201_5.html row 327 (Gene Number 439)	Mukherjee2009
+PMT2160	bPm	MEKHLA ONLY		not_in_panel	species not in panel P	msp201_5.html row 328 (Gene Number 440)	Mukherjee2009
+SYNW2364	bS8102	MEKHLA ONLY		not_in_panel	species not in panel P	msp201_5.html row 329 (Gene Number 441)	Mukherjee2009
+slr0325	bS6803	MEKHLA ONLY		not_in_panel	species not in panel P	msp201_5.html row 330 (Gene Number 442)	Mukherjee2009
+BPSL1625	bBp	MEKHLA ONLY		not_in_panel	species not in panel P	msp201_5.html row 331 (Gene Number 443)	Mukherjee2009
+XAC1124	bXa	MEKHLA ONLY		not_in_panel	species not in panel P	msp201_5.html row 332 (Gene Number 444)	Mukherjee2009
+XOO0879	bXo	MEKHLA ONLY		not_in_panel	species not in panel P	msp201_5.html row 333 (Gene Number 445)	Mukherjee2009
+Psyr03002369	bPs	MEKHLA ONLY		not_in_panel	species not in panel P	msp201_5.html row 334 (Gene Number 446)	Mukherjee2009
+Bucepa03000072	bBc	MEKHLA ONLY		not_in_panel	species not in panel P	msp201_5.html row 335 (Gene Number 447)	Mukherjee2009
+P0635G10.24	ORYSJ	HD-ZIP 2 (PSEUDOGENE)		excluded	pseudogene (protocol 0.6)	msp201_5.html row 339 (Gene Number 452)	Mukherjee2009
+P0707C02.4	ORYSJ	PLINC ONLY		excluded	not a homeobox gene in the paper's classification (label 'PLINC ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 346 (Gene Number 461)	Mukherjee2009
+Os11g13930	ORYSJ	PLINC ONLY		excluded	not a homeobox gene in the paper's classification (label 'PLINC ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 347 (Gene Number 462)	Mukherjee2009
+ROA	Am	nan		not_in_panel	species not in panel P	msp201_5.html row 348 (Gene Number 463)	Mukherjee2009
+BnHB6	Bn	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 349 (Gene Number 464)	Mukherjee2009
+BL3	Le	BEL		not_in_panel	species not in panel P	msp201_5.html row 350 (Gene Number 465)	Mukherjee2009
+azm482510	MAIZE	BEL (Pseudogene)		excluded	pseudogene (protocol 0.6)	msp201_5.html row 399 (Gene Number 519)	Mukherjee2009
+PsLD	Ps	LD		not_in_panel	species not in panel P	msp201_5.html row 472 (Gene Number 601)	Mukherjee2009
+545258	Pt	DDT		not_in_panel	species not in panel P	msp201_5.html row 476 (Gene Number 606)	Mukherjee2009
+580947	Pt	DDT		not_in_panel	species not in panel P	msp201_5.html row 477 (Gene Number 607)	Mukherjee2009
+594629	Pt	DDT		not_in_panel	species not in panel P	msp201_5.html row 478 (Gene Number 608)	Mukherjee2009
+562180	Pt	DDT		not_in_panel	species not in panel P	msp201_5.html row 479 (Gene Number 609)	Mukherjee2009
+64642	Pt	DDT		not_in_panel	species not in panel P	msp201_5.html row 480 (Gene Number 610)	Mukherjee2009
+79402	Pt	DDT (D-TOX A, NO DDT)		not_in_panel	species not in panel P	msp201_5.html row 481 (Gene Number 611)	Mukherjee2009
+572774	Pt	NDX		not_in_panel	species not in panel P	msp201_5.html row 482 (Gene Number 612)	Mukherjee2009
+552637	Pt	NDX		not_in_panel	species not in panel P	msp201_5.html row 483 (Gene Number 613)	Mukherjee2009
+578185	Pt	PINTOX (PSEUDOGENE)		not_in_panel	species not in panel P	msp201_5.html row 484 (Gene Number 614)	Mukherjee2009
+561871	Pt	PINTOX		not_in_panel	species not in panel P	msp201_5.html row 485 (Gene Number 615)	Mukherjee2009
+LD	Pt	LD		not_in_panel	species not in panel P	msp201_5.html row 486 (Gene Number 616)	Mukherjee2009
+KNAT4	Pt	KNOX II		not_in_panel	species not in panel P	msp201_5.html row 487 (Gene Number 617)	Mukherjee2009
+KNAT3	Pt	KNOX II		not_in_panel	species not in panel P	msp201_5.html row 488 (Gene Number 618)	Mukherjee2009
+672778	Pt	KNOX II		not_in_panel	species not in panel P	msp201_5.html row 489 (Gene Number 619)	Mukherjee2009
+738080	Pt	KNOX II		not_in_panel	species not in panel P	msp201_5.html row 490 (Gene Number 620)	Mukherjee2009
+KNAT3b	Pt	KNOX II		not_in_panel	species not in panel P	msp201_5.html row 491 (Gene Number 621)	Mukherjee2009
+ATH1	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 492 (Gene Number 622)	Mukherjee2009
+KNAT7	Pt	KNOX II		not_in_panel	species not in panel P	msp201_5.html row 493 (Gene Number 623)	Mukherjee2009
+581961	Pt	KNOX		not_in_panel	species not in panel P	msp201_5.html row 494 (Gene Number 624)	Mukherjee2009
+570713	Pt	KNOX		not_in_panel	species not in panel P	msp201_5.html row 495 (Gene Number 625)	Mukherjee2009
+61066	Pt	KNOX		not_in_panel	species not in panel P	msp201_5.html row 496 (Gene Number 626)	Mukherjee2009
+88373	Pt	KNOX		not_in_panel	species not in panel P	msp201_5.html row 497 (Gene Number 627)	Mukherjee2009
+575800	Pt	HD-ZIP IV		not_in_panel	species not in panel P	msp201_5.html row 498 (Gene Number 628)	Mukherjee2009
+658310	Pt	KNOX		not_in_panel	species not in panel P	msp201_5.html row 499 (Gene Number 629)	Mukherjee2009
+HOX3	Pt	HD-ZIP IV		not_in_panel	species not in panel P	msp201_5.html row 500 (Gene Number 630)	Mukherjee2009
+ANL2	Pt	HD-ZIP IV		not_in_panel	species not in panel P	msp201_5.html row 501 (Gene Number 631)	Mukherjee2009
+662050	Pt	KNOX		not_in_panel	species not in panel P	msp201_5.html row 502 (Gene Number 632)	Mukherjee2009
+KNAT6	Pt	KNOX		not_in_panel	species not in panel P	msp201_5.html row 503 (Gene Number 633)	Mukherjee2009
+HAT5	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 504 (Gene Number 634)	Mukherjee2009
+568092	Pt	KNOX		not_in_panel	species not in panel P	msp201_5.html row 505 (Gene Number 635)	Mukherjee2009
+KN1	PT	KNOX		not_in_panel	species not in panel P	msp201_5.html row 506 (Gene Number 636)	Mukherjee2009
+684208	Pt	HD-ZIP IV		not_in_panel	species not in panel P	msp201_5.html row 507 (Gene Number 637)	Mukherjee2009
+592887	Pt	HD-ZIP IV		not_in_panel	species not in panel P	msp201_5.html row 508 (Gene Number 638)	Mukherjee2009
+HOX2	Pt	HD-ZIP IV		not_in_panel	species not in panel P	msp201_5.html row 509 (Gene Number 639)	Mukherjee2009
+BL3	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 510 (Gene Number 640)	Mukherjee2009
+Bel29L	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 511 (Gene Number 641)	Mukherjee2009
+Bel1	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 512 (Gene Number 642)	Mukherjee2009
+Bel30	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 513 (Gene Number 643)	Mukherjee2009
+Bel13	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 514 (Gene Number 644)	Mukherjee2009
+Bel	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 515 (Gene Number 645)	Mukherjee2009
+BELHB	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 516 (Gene Number 646)	Mukherjee2009
+563081	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 517 (Gene Number 647)	Mukherjee2009
+belli	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 518 (Gene Number 648)	Mukherjee2009
+bel29	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 519 (Gene Number 649)	Mukherjee2009
+bel13l	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 520 (Gene Number 650)	Mukherjee2009
+576501	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 521 (Gene Number 651)	Mukherjee2009
+bel29li	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 522 (Gene Number 652)	Mukherjee2009
+H1	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 523 (Gene Number 653)	Mukherjee2009
+546547	Pt	HD-ZIP IV		not_in_panel	species not in panel P	msp201_5.html row 524 (Gene Number 654)	Mukherjee2009
+93443	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 525 (Gene Number 655)	Mukherjee2009
+unknon	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 526 (Gene Number 656)	Mukherjee2009
+HD56	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 527 (Gene Number 657)	Mukherjee2009
+SlHDL1	Sl	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 528 (Gene Number 658)	Mukherjee2009
+655260	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 529 (Gene Number 659)	Mukherjee2009
+70493	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 530 (Gene Number 660)	Mukherjee2009
+HB	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 531 (Gene Number 661)	Mukherjee2009
+HBLZ	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 532 (Gene Number 663)	Mukherjee2009
+HOX3l	Pt	HD-ZIP IV		not_in_panel	species not in panel P	msp201_5.html row 533 (Gene Number 664)	Mukherjee2009
+88244	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 534 (Gene Number 665)	Mukherjee2009
+unknown	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 535 (Gene Number 666)	Mukherjee2009
+HB7	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 536 (Gene Number 667)	Mukherjee2009
+696444	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 537 (Gene Number 668)	Mukherjee2009
+565244	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 538 (Gene Number 669)	Mukherjee2009
+736296	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 539 (Gene Number 670)	Mukherjee2009
+687113	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 540 (Gene Number 671)	Mukherjee2009
+731421	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 541 (Gene Number 672)	Mukherjee2009
+703426	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 542 (Gene Number 673)	Mukherjee2009
+98386	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 543 (Gene Number 674)	Mukherjee2009
+568845	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 544 (Gene Number 675)	Mukherjee2009
+548258	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 545 (Gene Number 676)	Mukherjee2009
+64014	Pt	HD-ZIP IV		not_in_panel	species not in panel P	msp201_5.html row 546 (Gene Number 677)	Mukherjee2009
+594622	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 547 (Gene Number 678)	Mukherjee2009
+343725	Pt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 548 (Gene Number 680)	Mukherjee2009
+97015	Pt	HD-ZIP IV		not_in_panel	species not in panel P	msp201_5.html row 549 (Gene Number 681)	Mukherjee2009
+356671	Pt	HD-ZIP IV		not_in_panel	species not in panel P	msp201_5.html row 550 (Gene Number 682)	Mukherjee2009
+HB5	Pt	HD-ZIP III		not_in_panel	species not in panel P	msp201_5.html row 551 (Gene Number 683)	Mukherjee2009
+HB6	Pt	HD-ZIP III		not_in_panel	species not in panel P	msp201_5.html row 552 (Gene Number 684)	Mukherjee2009
+705160	Pt	HD-ZIP III		not_in_panel	species not in panel P	msp201_5.html row 553 (Gene Number 685)	Mukherjee2009
+707748	Pt	HD-ZIP III		not_in_panel	species not in panel P	msp201_5.html row 554 (Gene Number 686)	Mukherjee2009
+58503	Pt	HD-ZIP III		not_in_panel	species not in panel P	msp201_5.html row 555 (Gene Number 687)	Mukherjee2009
+79919	Pt	HD-ZIP III		not_in_panel	species not in panel P	msp201_5.html row 556 (Gene Number 688)	Mukherjee2009
+741921	Pt	HD-ZIP III		not_in_panel	species not in panel P	msp201_5.html row 557 (Gene Number 689)	Mukherjee2009
+685537	Pt	HD-ZIP III		not_in_panel	species not in panel P	msp201_5.html row 558 (Gene Number 690)	Mukherjee2009
+700555	Pt	HD-ZIP IV		not_in_panel	species not in panel P	msp201_5.html row 559 (Gene Number 691)	Mukherjee2009
+552123	Pt	HD-ZIP IV		not_in_panel	species not in panel P	msp201_5.html row 560 (Gene Number 692)	Mukherjee2009
+HB2	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 561 (Gene Number 694)	Mukherjee2009
+HB1	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 562 (Gene Number 695)	Mukherjee2009
+711025	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 563 (Gene Number 696)	Mukherjee2009
+550759	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 564 (Gene Number 697)	Mukherjee2009
+661686	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 565 (Gene Number 698)	Mukherjee2009
+666295	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 566 (Gene Number 699)	Mukherjee2009
+586070	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 567 (Gene Number 700)	Mukherjee2009
+591986	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 568 (Gene Number 701)	Mukherjee2009
+555728	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 569 (Gene Number 702)	Mukherjee2009
+85719	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 570 (Gene Number 703)	Mukherjee2009
+85720	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 571 (Gene Number 704)	Mukherjee2009
+573986	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 572 (Gene Number 705)	Mukherjee2009
+558091	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 573 (Gene Number 706)	Mukherjee2009
+64407	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 574 (Gene Number 707)	Mukherjee2009
+WOX	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 575 (Gene Number 708)	Mukherjee2009
+WOX5	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 576 (Gene Number 709)	Mukherjee2009
+656212	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 577 (Gene Number 710)	Mukherjee2009
+587553	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 578 (Gene Number 711)	Mukherjee2009
+689700	Pt	WOX		not_in_panel	species not in panel P	msp201_5.html row 579 (Gene Number 712)	Mukherjee2009
+60860	Pt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 580 (Gene Number 713)	Mukherjee2009
+96034	Pt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 581 (Gene Number 715)	Mukherjee2009
+545934	Pt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 582 (Gene Number 716)	Mukherjee2009
+545846	Pt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 583 (Gene Number 717)	Mukherjee2009
+ZFHD	Pt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 584 (Gene Number 718)	Mukherjee2009
+ZFHD2	Pt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 585 (Gene Number 719)	Mukherjee2009
+593930	Pt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 586 (Gene Number 720)	Mukherjee2009
+ZFHD3	Pt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 587 (Gene Number 721)	Mukherjee2009
+ZFHD4	Pt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 588 (Gene Number 722)	Mukherjee2009
+58385	Pt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 589 (Gene Number 723)	Mukherjee2009
+719528	Pt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 590 (Gene Number 724)	Mukherjee2009
+592275	Pt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 591 (Gene Number 725)	Mukherjee2009
+738823	Pt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 592 (Gene Number 726)	Mukherjee2009
+580638	Pt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 593 (Gene Number 727)	Mukherjee2009
+569389	Pt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 594 (Gene Number 728)	Mukherjee2009
+659311	Pt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 595 (Gene Number 729)	Mukherjee2009
+HAT3.1	Pt	PHD ZINC FINGER		not_in_panel	species not in panel P	msp201_5.html row 596 (Gene Number 730)	Mukherjee2009
+92101	Pt	PHD ZINC FINGER		not_in_panel	species not in panel P	msp201_5.html row 597 (Gene Number 731)	Mukherjee2009
+PHDZF	Pt	PHD ZINC FINGER		not_in_panel	species not in panel P	msp201_5.html row 598 (Gene Number 732)	Mukherjee2009
+560666	Pt	PHD ZINC FINGER		not_in_panel	species not in panel P	msp201_5.html row 599 (Gene Number 733)	Mukherjee2009
+745407	Pt	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 600 (Gene Number 734)	Mukherjee2009
+650344	Pt	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 601 (Gene Number 735)	Mukherjee2009
+HAT14L	Pt	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 602 (Gene Number 737)	Mukherjee2009
+HDZIP	Pt	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 603 (Gene Number 738)	Mukherjee2009
+735065	Pt	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 604 (Gene Number 739)	Mukherjee2009
+711127	Pt	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 605 (Gene Number 740)	Mukherjee2009
+Hat3.1L	Pt	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 606 (Gene Number 741)	Mukherjee2009
+740060	Pt	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 607 (Gene Number 742)	Mukherjee2009
+591798	Pt	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 608 (Gene Number 743)	Mukherjee2009
+72115	Pt	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 609 (Gene Number 744)	Mukherjee2009
+HDLZL	Pt	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 610 (Gene Number 745)	Mukherjee2009
+H1L	Pt	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 611 (Gene Number 746)	Mukherjee2009
+566499	Pt	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 612 (Gene Number 747)	Mukherjee2009
+353837	Pt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 613 (Gene Number 749)	Mukherjee2009
+HAT22L	Pt	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 614 (Gene Number 750)	Mukherjee2009
+728097	Pt	SAWADEE		not_in_panel	species not in panel P	msp201_5.html row 615 (Gene Number 751)	Mukherjee2009
+BEL1L	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 616 (Gene Number 752)	Mukherjee2009
+QSH-1L	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 617 (Gene Number 753)	Mukherjee2009
+81874	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 618 (Gene Number 754)	Mukherjee2009
+554402	Pt	BEL		not_in_panel	species not in panel P	msp201_5.html row 619 (Gene Number 755)	Mukherjee2009
+LD2	Pt	LD		not_in_panel	species not in panel P	msp201_5.html row 620 (Gene Number 756)	Mukherjee2009
+unkn	Pt	HD-ZIP IV		not_in_panel	species not in panel P	msp201_5.html row 621 (Gene Number 757)	Mukherjee2009
+roc1L	Pt	HD-ZIP IV		not_in_panel	species not in panel P	msp201_5.html row 622 (Gene Number 758)	Mukherjee2009
+DDT	Pt	DDT		not_in_panel	species not in panel P	msp201_5.html row 623 (Gene Number 759)	Mukherjee2009
+103566	Pt	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 624 (Gene Number 760)	Mukherjee2009
+AC158497.2	Mt	DDT		not_in_panel	species not in panel P	msp201_5.html row 627 (Gene Number 764)	Mukherjee2009
+AC146692.14	Mt	DDT		not_in_panel	species not in panel P	msp201_5.html row 628 (Gene Number 765)	Mukherjee2009
+AC123547_12.1	Mt	PHD ZINC FINGER		not_in_panel	species not in panel P	msp201_5.html row 629 (Gene Number 766)	Mukherjee2009
+AC4343	Mt	NDX		not_in_panel	species not in panel P	msp201_5.html row 630 (Gene Number 767)	Mukherjee2009
+NDX	Bo	NDX		not_in_panel	species not in panel P	msp201_5.html row 631 (Gene Number 768)	Mukherjee2009
+NDX3	Lc	NDX		not_in_panel	species not in panel P	msp201_5.html row 632 (Gene Number 770)	Mukherjee2009
+S_4382	Pt	HD-ZIP 2 (Double Homeobox)		not_in_panel	species not in panel P	msp201_5.html row 633 (Gene Number 772)	Mukherjee2009
+AC144724_32.1	Mt	SAWADEE		not_in_panel	species not in panel P	msp201_5.html row 634 (Gene Number 773)	Mukherjee2009
+BT014275.1	Lc	SAWDEE ONLY		not_in_panel	species not in panel P	msp201_5.html row 635 (Gene Number 774)	Mukherjee2009
+Pintox	Mt	PINTOX		not_in_panel	species not in panel P	msp201_5.html row 636 (Gene Number 777)	Mukherjee2009
+SGN-U273703	St	nan		not_in_panel	species not in panel P	msp201_5.html row 637 (Gene Number 778)	Mukherjee2009
+SGN-U296095	St	nan		not_in_panel	species not in panel P	msp201_5.html row 638 (Gene Number 779)	Mukherjee2009
+SGN-U237531	Ly	nan		not_in_panel	species not in panel P	msp201_5.html row 639 (Gene Number 780)	Mukherjee2009
+SGN-U229755	Le	pintox		not_in_panel	species not in panel P	msp201_5.html row 640 (Gene Number 782)	Mukherjee2009
+NDX	Ta	NDX		not_in_panel	species not in panel P	msp201_5.html row 643 (Gene Number 787)	Mukherjee2009
+HAZ1	Ta	PHD ZINC FINGER		not_in_panel	species not in panel P	msp201_5.html row 644 (Gene Number 788)	Mukherjee2009
+PRHA	Ta	PHD ZINC FINGER		not_in_panel	species not in panel P	msp201_5.html row 645 (Gene Number 789)	Mukherjee2009
+PHDZF	Lc	PHD ZINC FINGER		not_in_panel	species not in panel P	msp201_5.html row 646 (Gene Number 790)	Mukherjee2009
+NDX	Le	NDX		not_in_panel	species not in panel P	msp201_5.html row 647 (Gene Number 791)	Mukherjee2009
+NDX	Gh	NDX		not_in_panel	species not in panel P	msp201_5.html row 649 (Gene Number 793)	Mukherjee2009
+NDX	Ac	NDX		not_in_panel	species not in panel P	msp201_5.html row 650 (Gene Number 794)	Mukherjee2009
+NDX	St	NDX		not_in_panel	species not in panel P	msp201_5.html row 651 (Gene Number 795)	Mukherjee2009
+LD	Ac	LD		not_in_panel	species not in panel P	msp201_5.html row 653 (Gene Number 797)	Mukherjee2009
+LD	St	LD		not_in_panel	species not in panel P	msp201_5.html row 654 (Gene Number 798)	Mukherjee2009
+BL4	Le	BEL		not_in_panel	species not in panel P	msp201_5.html row 656 (Gene Number 801)	Mukherjee2009
+DDT	Le	DDT		not_in_panel	species not in panel P	msp201_5.html row 657 (Gene Number 802)	Mukherjee2009
+DDT	St	DDT		not_in_panel	species not in panel P	msp201_5.html row 658 (Gene Number 803)	Mukherjee2009
+bel	Le	BEL		not_in_panel	species not in panel P	msp201_5.html row 659 (Gene Number 805)	Mukherjee2009
+H1	Mt	BEL		not_in_panel	species not in panel P	msp201_5.html row 660 (Gene Number 806)	Mukherjee2009
+LD	Mt	LD		not_in_panel	species not in panel P	msp201_5.html row 662 (Gene Number 809)	Mukherjee2009
+pintox	Sb	PINTOX		not_in_panel	species not in panel P	msp201_5.html row 663 (Gene Number 812)	Mukherjee2009
+pint	As	PINTOX		not_in_panel	species not in panel P	msp201_5.html row 664 (Gene Number 814)	Mukherjee2009
+pint	Ta	PINTOX		not_in_panel	species not in panel P	msp201_5.html row 665 (Gene Number 815)	Mukherjee2009
+sawadee	Cs	SAWADEE		not_in_panel	species not in panel P	msp201_5.html row 666 (Gene Number 816)	Mukherjee2009
+sawadee	Pta	SAWADEE		not_in_panel	species not in panel P	msp201_5.html row 668 (Gene Number 819)	Mukherjee2009
+sawadee	St	SAWADEE		not_in_panel	species not in panel P	msp201_5.html row 669 (Gene Number 820)	Mukherjee2009
+sawa	Ta	SAWADEE		not_in_panel	species not in panel P	msp201_5.html row 670 (Gene Number 821)	Mukherjee2009
+wox13	St	WOX		not_in_panel	species not in panel P	msp201_5.html row 684 (Gene Number 839)	Mukherjee2009
+wox13	Cs	WOX		not_in_panel	species not in panel P	msp201_5.html row 685 (Gene Number 840)	Mukherjee2009
+wox13	Le	WOX		not_in_panel	species not in panel P	msp201_5.html row 686 (Gene Number 841)	Mukherjee2009
+wox13	Mt	WOX		not_in_panel	species not in panel P	msp201_5.html row 687 (Gene Number 842)	Mukherjee2009
+wox13	Ga	WOX		not_in_panel	species not in panel P	msp201_5.html row 689 (Gene Number 844)	Mukherjee2009
+wox12	Cs	WOX		not_in_panel	species not in panel P	msp201_5.html row 691 (Gene Number 846)	Mukherjee2009
+wox12	Mt	WOX		not_in_panel	species not in panel P	msp201_5.html row 692 (Gene Number 847)	Mukherjee2009
+wox12	Pta	WOX		not_in_panel	species not in panel P	msp201_5.html row 693 (Gene Number 848)	Mukherjee2009
+at5g66700	Bo	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 694 (Gene Number 849)	Mukherjee2009
+at4g36740	Bn	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 695 (Gene Number 850)	Mukherjee2009
+at2g18550	Bn	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 696 (Gene Number 851)	Mukherjee2009
+at5g03790	Bo	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 697 (Gene Number 852)	Mukherjee2009
+at2g36610	Bo	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 698 (Gene Number 853)	Mukherjee2009
+athb-12	Bn	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 699 (Gene Number 854)	Mukherjee2009
+athb-7	Bn	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 700 (Gene Number 855)	Mukherjee2009
+athb-7l	Bn	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 701 (Gene Number 856)	Mukherjee2009
+T7N9.11	Bo	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 702 (Gene Number 857)	Mukherjee2009
+athb-1	Bn	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 703 (Gene Number 858)	Mukherjee2009
+at1g26960	Bn	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 704 (Gene Number 859)	Mukherjee2009
+athb-13	Bn	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 705 (Gene Number 860)	Mukherjee2009
+athb-16	Bn	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 707 (Gene Number 863)	Mukherjee2009
+athb-5	Bn	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 708 (Gene Number 864)	Mukherjee2009
+wox13	Bn	WOX		not_in_panel	species not in panel P	msp201_5.html row 710 (Gene Number 866)	Mukherjee2009
+pale-2	Bo	WOX		not_in_panel	species not in panel P	msp201_5.html row 711 (Gene Number 867)	Mukherjee2009
+wox10	Bo	WOX		not_in_panel	species not in panel P	msp201_5.html row 712 (Gene Number 868)	Mukherjee2009
+WOX	Bo	WOX		not_in_panel	species not in panel P	msp201_5.html row 713 (Gene Number 869)	Mukherjee2009
+wox6	Bo	WOX		not_in_panel	species not in panel P	msp201_5.html row 714 (Gene Number 870)	Mukherjee2009
+wox12	Bo	WOX		not_in_panel	species not in panel P	msp201_5.html row 715 (Gene Number 871)	Mukherjee2009
+wox11	Bo	WOX		not_in_panel	species not in panel P	msp201_5.html row 716 (Gene Number 872)	Mukherjee2009
+wox4	Bo	WOX		not_in_panel	species not in panel P	msp201_5.html row 718 (Gene Number 874)	Mukherjee2009
+wox5	Bo	WOX		not_in_panel	species not in panel P	msp201_5.html row 719 (Gene Number 875)	Mukherjee2009
+wox8	Bo	WOX		not_in_panel	species not in panel P	msp201_5.html row 720 (Gene Number 876)	Mukherjee2009
+wox9	Bo	WOX		not_in_panel	species not in panel P	msp201_5.html row 721 (Gene Number 877)	Mukherjee2009
+wox1	Bo	WOX		not_in_panel	species not in panel P	msp201_5.html row 722 (Gene Number 878)	Mukherjee2009
+at5g05770	Bo	WOX		not_in_panel	species not in panel P	msp201_5.html row 723 (Gene Number 879)	Mukherjee2009
+wox2	Bo	WOX		not_in_panel	species not in panel P	msp201_5.html row 724 (Gene Number 880)	Mukherjee2009
+WOX1	Mt	WOX		not_in_panel	species not in panel P	msp201_5.html row 726 (Gene Number 888)	Mukherjee2009
+Blh2	Ca	BEL		not_in_panel	species not in panel P	msp201_5.html row 728 (Gene Number 890)	Mukherjee2009
+At5g02030	Mt	BEL		not_in_panel	species not in panel P	msp201_5.html row 729 (Gene Number 891)	Mukherjee2009
+PLINC	Mt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 730 (Gene Number 892)	Mukherjee2009
+ZF-HD	Mt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 731 (Gene Number 893)	Mukherjee2009
+at2g18350	Mt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 732 (Gene Number 894)	Mukherjee2009
+hb2	Mt	PLINC		not_in_panel	species not in panel P	msp201_5.html row 733 (Gene Number 895)	Mukherjee2009
+at4g24660	Lj	PLINC		not_in_panel	species not in panel P	msp201_5.html row 734 (Gene Number 896)	Mukherjee2009
+at5g42780	Bn	PLINC		not_in_panel	species not in panel P	msp201_5.html row 735 (Gene Number 897)	Mukherjee2009
+at5g42780	Bo	PLINC		not_in_panel	species not in panel P	msp201_5.html row 736 (Gene Number 898)	Mukherjee2009
+at4g24660	Bo	PLINC		not_in_panel	species not in panel P	msp201_5.html row 737 (Gene Number 899)	Mukherjee2009
+at1g75240	Bo	PLINC		not_in_panel	species not in panel P	msp201_5.html row 738 (Gene Number 900)	Mukherjee2009
+at3g28920	Bo	PLINC		not_in_panel	species not in panel P	msp201_5.html row 739 (Gene Number 901)	Mukherjee2009
+at3g50890	Bo	PLINC		not_in_panel	species not in panel P	msp201_5.html row 740 (Gene Number 902)	Mukherjee2009
+KNAT7	St	KNOX		not_in_panel	species not in panel P	msp201_5.html row 741 (Gene Number 903)	Mukherjee2009
+Thox2	Le	KNOX		not_in_panel	species not in panel P	msp201_5.html row 742 (Gene Number 904)	Mukherjee2009
+athb-2	Mt	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 743 (Gene Number 905)	Mukherjee2009
+hat22	Lj	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 744 (Gene Number 906)	Mukherjee2009
+HDZ2	Mt	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 745 (Gene Number 907)	Mukherjee2009
+CRHB1	Cri	HD-ZIP III		not_in_panel	species not in panel P	msp201_5.html row 748 (Gene Number 910)	Mukherjee2009
+CRHB2	Cri	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 749 (Gene Number 911)	Mukherjee2009
+CRHB3	Cri	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 750 (Gene Number 912)	Mukherjee2009
+CRHB4	Cri	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 751 (Gene Number 913)	Mukherjee2009
+CRHB5	Cri	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 752 (Gene Number 914)	Mukherjee2009
+CRHB6	Cri	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 753 (Gene Number 915)	Mukherjee2009
+CRHB7	Cri	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 754 (Gene Number 916)	Mukherjee2009
+CRHB8	Cri	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 755 (Gene Number 917)	Mukherjee2009
+CRHB9	Cri	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 756 (Gene Number 918)	Mukherjee2009
+CRHB10	Cri	HD-ZIP 2		not_in_panel	species not in panel P	msp201_5.html row 757 (Gene Number 919)	Mukherjee2009
+CRHB11	Cri	HD-ZIP 1		not_in_panel	species not in panel P	msp201_5.html row 758 (Gene Number 920)	Mukherjee2009
+sawa	St	SAWADEE ONLY		not_in_panel	species not in panel P	msp201_5.html row 759 (Gene Number 921)	Mukherjee2009
+sawa	MAIZE	SAWADEE ONLY		excluded	not a homeobox gene in the paper's classification (label 'SAWADEE ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 760 (Gene Number 922)	Mukherjee2009
+OSJNBa0073E05.5	ORYSJ	SAWADEE ONLY		excluded	not a homeobox gene in the paper's classification (label 'SAWADEE ONLY': codomain without HD / not counted in Table 2)	msp201_5.html row 761 (Gene Number 923)	Mukherjee2009
+sawa	Pta	nan		not_in_panel	species not in panel P	msp201_5.html row 762 (Gene Number 924)	Mukherjee2009
+ddt	CHLRE	DDT_WSD motif		excluded	not a homeobox gene in the paper's classification (label 'DDT_WSD motif': codomain without HD / not counted in Table 2)	msp201_5.html row 763 (Gene Number 925)	Mukherjee2009
+sca_6P	PHYPA	PSEUDOGENE (PLINC)		excluded	pseudogene (protocol 0.6)	msp201_5.html row 794 (Gene Number 965)	Mukherjee2009
+C7_761P	ORYSJ	PSEUDOGENE HD-ZIP 2		excluded	pseudogene (protocol 0.6)	msp201_5.html row 816 (Gene Number 990)	Mukherjee2009
+C6_203P	ORYSJ	WOX PSEUDOGENE		excluded	pseudogene (protocol 0.6)	msp201_5.html row 818 (Gene Number 993)	Mukherjee2009
+14g01660	Ot	nan		not_in_panel	species not in panel P	msp201_5.html row 824 (Gene Number 1017)	Mukherjee2009
+5g03950	Ot	PINTOX		not_in_panel	species not in panel P	msp201_5.html row 829 (Gene Number 1022)	Mukherjee2009
+SCO29	Cm	nan		not_in_panel	species not in panel P	msp201_5.html row 830 (Gene Number 1023)	Mukherjee2009
+SCO79	Cm	nan		not_in_panel	species not in panel P	msp201_5.html row 831 (Gene Number 1024)	Mukherjee2009
+SCO204	Cm	TALE / KNOX		not_in_panel	species not in panel P	msp201_5.html row 832 (Gene Number 1025)	Mukherjee2009
+SCO44	Cm	TALE / BEL		not_in_panel	species not in panel P	msp201_5.html row 833 (Gene Number 1026)	Mukherjee2009
+SC204b	Cm	TALE / KNOX		not_in_panel	species not in panel P	msp201_5.html row 834 (Gene Number 1027)	Mukherjee2009
+4g04460	Ot	TALE / KNOX		not_in_panel	species not in panel P	msp201_5.html row 835 (Gene Number 1028)	Mukherjee2009
+9g03810	Ot	BEL		not_in_panel	species not in panel P	msp201_5.html row 836 (Gene Number 1029)	Mukherjee2009
+17g00530	Ot	BEL		not_in_panel	species not in panel P	msp201_5.html row 837 (Gene Number 1030)	Mukherjee2009
+SCO176	Cm	TALE / KNOX		not_in_panel	species not in panel P	msp201_5.html row 838 (Gene Number 1031)	Mukherjee2009
+13g01350	Ot	WOX		not_in_panel	species not in panel P	msp201_5.html row 839 (Gene Number 1034)	Mukherjee2009
+18g01880	Ot	nan		not_in_panel	species not in panel P	msp201_5.html row 841 (Gene Number 1036)	Mukherjee2009
+18758	OSTLU	nan		excluded	unrecognised class label 'nan'	msp201_5.html row 842 (Gene Number 1037)	Mukherjee2009
+013721	VITVI	nan		excluded	unrecognised class label 'nan'	msp201_5.html row 843 (Gene Number 1038)	Mukherjee2009
+hypo	Tp	nan		not_in_panel	species not in panel P	msp201_5.html row 844 (Gene Number 1039)	Mukherjee2009
+HD-ZIPIII-2P	ORYSJ	HD-ZIP III (Pseudogene)		excluded	pseudogene (protocol 0.6)	msp201_5.html row 845 (Gene Number 1040)	Mukherjee2009
+HD-ZIPIII-3P	ORYSJ	HD-ZIP III (Pseudogene)		excluded	pseudogene (protocol 0.6)	msp201_5.html row 846 (Gene Number 1041)	Mukherjee2009
+87098	OSTLU	nan		excluded	unrecognised class label 'nan'	msp201_5.html row 849 (Gene Number 1044)	Mukherjee2009
+92794	OSTLU	nan		excluded	unrecognised class label 'nan'	msp201_5.html row 850 (Gene Number 1045)	Mukherjee2009
+CMJ244C	Cm	DDT		not_in_panel	species not in panel P	msp201_5.html row 852 (Gene Number 1047)	Mukherjee2009
+Ot17g00800	nan	START ONLY		not_in_panel	species not in panel P	msp201_5.html row 853 (Gene Number 1048)	Mukherjee2009
+OSTLU_25655	nan	START ONLY		not_in_panel	species not in panel P	msp201_5.html row 854 (Gene Number 1049)	Mukherjee2009
+188173	nan	START ONLY		not_in_panel	species not in panel P	msp201_5.html row 855 (Gene Number 1050)	Mukherjee2009
+417475P	SELMO	pseudogene		excluded	pseudogene (protocol 0.6)	msp201_5.html row 863 (Gene Number 1061)	Mukherjee2009
+sca_18	VITVI	nan		excluded	unrecognised class label 'nan'	msp201_5.html row 868 (Gene Number 1067)	Mukherjee2009
+ATHB-16	ARATH	HD-ZIP 1	Q940J1	mapped	sequence_exact: identical sequence	msp201_5.html row 1 (Gene Number 1)	Mukherjee2009
+BEL1	ARATH	BEL	Q38897	mapped	sequence_exact: identical sequence	msp201_5.html row 2 (Gene Number 2)	Mukherjee2009
+At5g52170	ARATH	HD-ZIP IV START	Q9LTK3	mapped	sequence_exact: identical sequence	msp201_5.html row 3 (Gene Number 3)	Mukherjee2009
+At5g02030	ARATH	BEL	Q9LZM8	mapped	sequence_exact: identical sequence	msp201_5.html row 4 (Gene Number 4)	Mukherjee2009
+At5g03790	ARATH	HD-ZIP 1	Q9LZR0	mapped	sequence_unique: RBH, thresholds met; margin 51.4	msp201_5.html row 5 (Gene Number 5)	Mukherjee2009
+At5g66700	ARATH	HD-ZIP 1	Q9LVR0	mapped	sequence_exact: identical sequence	msp201_5.html row 6 (Gene Number 6)	Mukherjee2009
+At5g53980	ARATH	HD-ZIP 1	Q9FN29	mapped	sequence_exact: identical sequence	msp201_5.html row 7 (Gene Number 7)	Mukherjee2009
+KNAT4	ARATH	KNOX II	P48001	mapped	sequence_unique: RBH, thresholds met; margin 15.7	msp201_5.html row 8 (Gene Number 8)	Mukherjee2009
+KNAT3	ARATH	KNOX II	P48000	mapped	sequence_unique: RBH, thresholds met; margin 15.8	msp201_5.html row 9 (Gene Number 9)	Mukherjee2009
+ATHB-5	ARATH	HD-ZIP 1	P46667	mapped	sequence_exact: identical sequence	msp201_5.html row 10 (Gene Number 10)	Mukherjee2009
+At5g17320	ARATH	HD-ZIP IV START	Q9FFI0	mapped	sequence_exact: identical sequence	msp201_5.html row 11 (Gene Number 12)	Mukherjee2009
+WOX13	ARATH	WOX	O81788	mapped	sequence_exact: identical sequence	msp201_5.html row 12 (Gene Number 13)	Mukherjee2009
+KNAT5	ARATH	KNOX II	P48002	mapped	sequence_exact: identical sequence	msp201_5.html row 13 (Gene Number 14)	Mukherjee2009
+At4g17710	ARATH	HD-ZIP IV START	Q8L7H4	mapped	sequence_exact: identical sequence	msp201_5.html row 14 (Gene Number 15)	Mukherjee2009
+KNAT1	ARATH	KNOX I	P46639	mapped	sequence_exact: identical sequence	msp201_5.html row 15 (Gene Number 16)	Mukherjee2009
+At4g34610	ARATH	BEL	O65685	mapped	sequence_exact: identical sequence	msp201_5.html row 16 (Gene Number 17)	Mukherjee2009
+HAT1	ARATH	HD-ZIP 2	P46600	mapped	sequence_exact: identical sequence	msp201_5.html row 17 (Gene Number 18)	Mukherjee2009
+HAT22	ARATH	HD-ZIP 2	P46604	mapped	sequence_exact: identical sequence	msp201_5.html row 18 (Gene Number 19)	Mukherjee2009
+At4g36740	ARATH	HD-ZIP 1	O23208	mapped	sequence_unique: RBH, thresholds met; margin 34.3	msp201_5.html row 19 (Gene Number 20)	Mukherjee2009
+ATH1	ARATH	BEL	P48731	mapped	sequence_exact: identical sequence	msp201_5.html row 20 (Gene Number 21)	Mukherjee2009
+HAT3	ARATH	HD-ZIP 2	P46602	mapped	sequence_exact: identical sequence	msp201_5.html row 21 (Gene Number 22)	Mukherjee2009
+ATHB-1	ARATH	HD-ZIP 1	Q02283	mapped	sequence_exact: identical sequence	msp201_5.html row 22 (Gene Number 23)	Mukherjee2009
+At3g01220	ARATH	HD-ZIP 1	Q8LAT0	mapped	sequence_exact: identical sequence	msp201_5.html row 23 (Gene Number 24)	Mukherjee2009
+ATHB-12	ARATH	HD-ZIP 1	Q9M276	mapped	sequence_exact: identical sequence	msp201_5.html row 24 (Gene Number 25)	Mukherjee2009
+At3g03260	ARATH	HD-ZIP IV START	Q9M9P4	mapped	sequence_unique: RBH, thresholds met; margin 50.6	msp201_5.html row 25 (Gene Number 26)	Mukherjee2009
+HAT9	ARATH	HD-ZIP 2	P46603	mapped	sequence_exact: identical sequence	msp201_5.html row 26 (Gene Number 27)	Mukherjee2009
+At2g16400	ARATH	BEL	Q9SIW1	mapped	sequence_exact: identical sequence	msp201_5.html row 27 (Gene Number 28)	Mukherjee2009
+PHB	ARATH	HD-ZIP III START MEKHLA	O04291	mapped	sequence_unique: RBH, thresholds met; margin 14.7	msp201_5.html row 28 (Gene Number 29)	Mukherjee2009
+ATHB-17	ARATH	HD-ZIP 2	Q8S9N6	mapped	sequence_exact: identical sequence	msp201_5.html row 29 (Gene Number 30)	Mukherjee2009
+ATHB-4	ARATH	HD-ZIP 2	P92953	mapped	sequence_exact: identical sequence	msp201_5.html row 30 (Gene Number 31)	Mukherjee2009
+At2g18550	ARATH	HD-ZIP 1	Q9ZU70	mapped	sequence_exact: identical sequence	msp201_5.html row 31 (Gene Number 32)	Mukherjee2009
+At1g19700	ARATH	BEL	Q9FXG8	mapped	sequence_exact: identical sequence	msp201_5.html row 32 (Gene Number 33)	Mukherjee2009
+At1g26960	ARATH	HD-ZIP 1	Q8LFD3	mapped	sequence_exact: identical sequence	msp201_5.html row 33 (Gene Number 34)	Mukherjee2009
+At1g70920	ARATH	HD-ZIP 2	Q8GXM7	mapped	sequence_exact: identical sequence	msp201_5.html row 34 (Gene Number 35)	Mukherjee2009
+ATHB-13	ARATH	HD-ZIP 1	Q8LC03	mapped	sequence_exact: identical sequence	msp201_5.html row 35 (Gene Number 37)	Mukherjee2009
+BLH3	ARATH	BEL	Q9FWS9	mapped	exact_id: exact identifier mapping AT1G75410->Q9FWS9; NP_177674->Q9FWS9 (single hit in panel proteome); sequence: unmapped (identity 90.9<98.0)	msp201_5.html row 36 (Gene Number 38)	Mukherjee2009
+At1g17920	ARATH	HD-ZIP IV START	Q9LMT8	mapped	sequence_exact: identical sequence	msp201_5.html row 37 (Gene Number 39)	Mukherjee2009
+At1g05230	ARATH	HD-ZIP IV START	Q94C37	mapped	sequence_exact: identical sequence	msp201_5.html row 38 (Gene Number 40)	Mukherjee2009
+At1g73360	ARATH	HD-ZIP IV START	Q9FX31	mapped	sequence_exact: identical sequence	msp201_5.html row 39 (Gene Number 41)	Mukherjee2009
+At1g34650	ARATH	HD-ZIP IV START	Q9S9Z0	mapped	sequence_exact: identical sequence	msp201_5.html row 40 (Gene Number 42)	Mukherjee2009
+CNA	ARATH	HD-ZIP III START MEKHLA	Q9ZU11	mapped	sequence_unique: RBH, thresholds met; margin 23.8	msp201_5.html row 41 (Gene Number 43)	Mukherjee2009
+At4g04890	ARATH	HD-ZIP IV START	Q93V99	mapped	sequence_exact: identical sequence	msp201_5.html row 42 (Gene Number 44)	Mukherjee2009
+BLH1	ARATH	BEL	Q9SJ56	mapped	sequence_unique: RBH, thresholds met; margin 59.7	msp201_5.html row 43 (Gene Number 45)	Mukherjee2009
+BLH4	ARATH	BEL	Q94KL5	mapped	sequence_unique: RBH, thresholds met; margin 46.5	msp201_5.html row 44 (Gene Number 46)	Mukherjee2009
+KNAT7	ARATH	KNOX II	Q9FPQ8	mapped	sequence_exact: identical sequence	msp201_5.html row 45 (Gene Number 47)	Mukherjee2009
+FWA	ARATH	HD-ZIP IV START	Q9FVI6	mapped	sequence_unique: RBH, thresholds met; margin 56.2	msp201_5.html row 46 (Gene Number 49)	Mukherjee2009
+KNAT6	ARATH	KNOX I	Q84JS6	mapped	sequence_unique: RBH, thresholds met; margin 28.5	msp201_5.html row 47 (Gene Number 50)	Mukherjee2009
+PALE-2	ARATH	WOX	Q9LM84	mapped	sequence_exact: identical sequence	msp201_5.html row 48 (Gene Number 51)	Mukherjee2009
+T7N9.11	ARATH	HD-ZIP 1		ambiguous	identifier maps to several panel proteins: AT1G27050->P0CJ66; AAF79854->P0CJ65,P0CJ66; sequence: unmapped (identity 90.0<98.0; coverage q=0.51/t=1.00<0.8)	msp201_5.html row 49 (Gene Number 52)	Mukherjee2009
+PHV	ARATH	HD-ZIP III START MEKHLA	O04292	mapped	sequence_unique: RBH, thresholds met; margin 14.7	msp201_5.html row 50 (Gene Number 58)	Mukherjee2009
+At2g27220	ARATH	BEL	Q8S897	mapped	sequence_exact: identical sequence	msp201_5.html row 51 (Gene Number 59)	Mukherjee2009
+REV	ARATH	HD-ZIP III START MEKHLA	Q9SE43	mapped	sequence_unique: RBH, thresholds met; margin 33.4	msp201_5.html row 52 (Gene Number 60)	Mukherjee2009
+KNAT2	ARATH	KNOX I	P46640	mapped	sequence_unique: RBH, thresholds met; margin 27.7	msp201_5.html row 53 (Gene Number 61)	Mukherjee2009
+BLH2	ARATH	BEL	Q9SW80	mapped	sequence_unique: RBH, thresholds met; margin 47.4	msp201_5.html row 54 (Gene Number 62)	Mukherjee2009
+ANL2	ARATH	HD-ZIP IV START	Q0WV12	mapped	sequence_unique: RBH, thresholds met; margin 38.9	msp201_5.html row 55 (Gene Number 63)	Mukherjee2009
+ATHB-6	ARATH	HD-ZIP 1	P46668	mapped	sequence_exact: identical sequence	msp201_5.html row 56 (Gene Number 64)	Mukherjee2009
+HD-GL2-1	ARATH	HD-ZIP IV START	Q9M2E8	mapped	sequence_unique: RBH, thresholds met; margin 40.5	msp201_5.html row 57 (Gene Number 65)	Mukherjee2009
+STM	ARATH	KNOX I	Q38874	mapped	sequence_unique: RBH, thresholds met; margin 41.8	msp201_5.html row 58 (Gene Number 66)	Mukherjee2009
+ATML1	ARATH	HD-ZIP IV START	Q8RWU4	mapped	sequence_unique: RBH, thresholds met; margin 10.8	msp201_5.html row 59 (Gene Number 67)	Mukherjee2009
+GL2	ARATH	HD-ZIP IV START	P46607	mapped	sequence_unique: RBH, thresholds met; margin 58.4	msp201_5.html row 60 (Gene Number 69)	Mukherjee2009
+HAT3.1	ARATH	PHD ZINC FINGER	Q04996	mapped	sequence_unique: RBH, thresholds met; margin 99.1	msp201_5.html row 61 (Gene Number 72)	Mukherjee2009
+HAT7	ARATH	HD-ZIP 1	Q00466	mapped	sequence_exact: identical sequence	msp201_5.html row 62 (Gene Number 74)	Mukherjee2009
+ATHB-7	ARATH	HD-ZIP 1	P46897	mapped	sequence_unique: RBH, thresholds met; margin 42.6	msp201_5.html row 63 (Gene Number 75)	Mukherjee2009
+HAT2	ARATH	HD-ZIP 2	P46601	mapped	sequence_exact: identical sequence	msp201_5.html row 64 (Gene Number 80)	Mukherjee2009
+HAT14	ARATH	HD-ZIP 2	P46665	mapped	sequence_exact: identical sequence	msp201_5.html row 65 (Gene Number 81)	Mukherjee2009
+ATHB-2	ARATH	HD-ZIP 2	Q05466	mapped	sequence_unique: RBH, thresholds met; margin 28.7	msp201_5.html row 66 (Gene Number 83)	Mukherjee2009
+At2g36610	ARATH	HD-ZIP 1	Q4PSR7	mapped	exact_id: exact identifier mapping AT2G36610->Q4PSR7 (single hit in panel proteome); sequence: unmapped (identity 75.3<98.0; coverage q=0.77/t=0.88<0.8)	msp201_5.html row 67 (Gene Number 86)	Mukherjee2009
+At2g32370	ARATH	HD-ZIP IV START	Q9ZV65	mapped	sequence_unique: RBH, thresholds met; margin 42.3	msp201_5.html row 68 (Gene Number 87)	Mukherjee2009
+At5g46880	ARATH	HD-ZIP IV START	Q9FJS2	mapped	sequence_unique: RBH, thresholds met; margin 46.0	msp201_5.html row 69 (Gene Number 88)	Mukherjee2009
+ATHB-8	ARATH	HD-ZIP III START MEKHLA	Q39123	mapped	sequence_unique: RBH, thresholds met; margin 23.8	msp201_5.html row 70 (Gene Number 89)	Mukherjee2009
+HOX7	ARATH	DDT	F4HY56	mapped	sequence_unique: RBH, thresholds met; margin 51.1	msp201_5.html row 71 (Gene Number 91)	Mukherjee2009
+At5g44180	ARATH	DDT	Q9FFH1	mapped	sequence_exact: identical sequence	msp201_5.html row 72 (Gene Number 92)	Mukherjee2009
+WOX10	ARATH	WOX	Q9LM83	mapped	sequence_exact: identical sequence	msp201_5.html row 73 (Gene Number 93)	Mukherjee2009
+At2g27990	ARATH	BEL	Q9SJJ3	mapped	sequence_exact: identical sequence	msp201_5.html row 74 (Gene Number 94)	Mukherjee2009
+PRHA	ARATH	PHD ZINC FINGER	P48785	mapped	sequence_exact: identical sequence	msp201_5.html row 75 (Gene Number 95)	Mukherjee2009
+HD14	ARATH	D-TOX A, NO DDT	F4JI72	mapped	sequence_unique: RBH, thresholds met; margin 100.0	msp201_5.html row 76 (Gene Number 96)	Mukherjee2009
+wuschel	ARATH	WOX	Q9SB92	mapped	sequence_unique: RBH, thresholds met; margin 99.3	msp201_5.html row 77 (Gene Number 101)	Mukherjee2009
+WOX6	ARATH	WOX	Q9ZVF5	mapped	sequence_exact: identical sequence	msp201_5.html row 78 (Gene Number 102)	Mukherjee2009
+WOX12	ARATH	WOX	Q8GY25	mapped	sequence_unique: RBH, thresholds met; margin 41.1	msp201_5.html row 79 (Gene Number 103)	Mukherjee2009
+WOX11	ARATH	WOX	Q6X7J3	mapped	exact_id: exact identifier mapping AT3G03660->Q6X7J3 (single hit in panel proteome); sequence: unmapped (identity 90.4<98.0)	msp201_5.html row 80 (Gene Number 104)	Mukherjee2009
+At3g18380	ARATH	SAWADEE	Q8RWJ7	mapped	sequence_exact: identical sequence	msp201_5.html row 81 (Gene Number 105)	Mukherjee2009
+At1g15215	ARATH	SAWADEE	Q9XI47	mapped	sequence_exact: identical sequence	msp201_5.html row 82 (Gene Number 106)	Mukherjee2009
+PRS	ARATH	WOX	Q9SIB4	mapped	sequence_exact: identical sequence	msp201_5.html row 83 (Gene Number 107)	Mukherjee2009
+WOX4	ARATH	WOX	Q6X7J9	mapped	sequence_unique: RBH, thresholds met; margin 99.2	msp201_5.html row 84 (Gene Number 108)	Mukherjee2009
+WOX5	ARATH	WOX	Q8H1D2	mapped	exact_id: exact identifier mapping AT3G11260->Q8H1D2; NP_187735->Q8H1D2 (single hit in panel proteome); sequence: unmapped (identity 90.1<98.0)	msp201_5.html row 85 (Gene Number 111)	Mukherjee2009
+WOX8	ARATH	WOX	Q6X7J5	mapped	exact_id: exact identifier mapping AT5G45980->Q6X7J5; NP_199410->Q6X7J5 (single hit in panel proteome); sequence: unmapped (identity 88.0<98.0; coverage q=0.78/t=1.00<0.8)	msp201_5.html row 86 (Gene Number 112)	Mukherjee2009
+WOX9	ARATH	WOX	Q6X7J4	mapped	sequence_exact: identical sequence	msp201_5.html row 87 (Gene Number 113)	Mukherjee2009
+WOX1	ARATH	WOX	Q6X7K0	mapped	exact_id: exact identifier mapping AT3G18010->Q6X7K0; NP_188428->Q6X7K0 (single hit in panel proteome); sequence: unmapped (identity 94.8<98.0)	msp201_5.html row 88 (Gene Number 115)	Mukherjee2009
+At5g05770	ARATH	WOX	Q9FFK0	mapped	exact_id: exact identifier mapping AT5G05770->Q9FFK0; NP_196196->Q9FFK0 (single hit in panel proteome); sequence: unmapped (identity 59.9<98.0; margin -27.2<2.0 over runner-up; not reciprocal best (target best-matched by row85)) [sequence best hit Q8H1D2 differs]	msp201_5.html row 89 (Gene Number 116)	Mukherjee2009
+NDX1	ARATH	NDX	F4JI44	mapped	exact_id: exact identifier mapping AT4G03090->F4JI44 (single hit in panel proteome); sequence: unmapped (identity 96.9<98.0)	msp201_5.html row 90 (Gene Number 117)	Mukherjee2009
+NDX1	SOYBN	NDX		unmapped	sequence: unmapped (coverage q=1.00/t=0.67<0.8); identifiers none usable give no panel hit	msp201_5.html row 92 (Gene Number 119)	Mukherjee2009
+At2g02540	ARATH	PLINC	O64722	mapped	sequence_exact: identical sequence	msp201_5.html row 94 (Gene Number 123)	Mukherjee2009
+At4g24660	ARATH	PLINC	Q9SB61	mapped	sequence_exact: identical sequence	msp201_5.html row 96 (Gene Number 125)	Mukherjee2009
+At5g65410	ARATH	PLINC	Q9FKP8	mapped	sequence_exact: identical sequence	msp201_5.html row 97 (Gene Number 126)	Mukherjee2009
+At2g18350	ARATH	PLINC	Q9ZPW7	mapped	sequence_exact: identical sequence	msp201_5.html row 98 (Gene Number 127)	Mukherjee2009
+At5g15210	ARATH	PLINC	Q9LXG0	mapped	sequence_exact: identical sequence	msp201_5.html row 99 (Gene Number 129)	Mukherjee2009
+At1g75240	ARATH	PLINC	Q9FRL5	mapped	sequence_exact: identical sequence	msp201_5.html row 100 (Gene Number 130)	Mukherjee2009
+At1g69600	ARATH	PLINC	Q9SEZ1	mapped	sequence_exact: identical sequence	msp201_5.html row 101 (Gene Number 131)	Mukherjee2009
+At5g60480	ARATH	PLINC	Q9FKJ9	mapped	sequence_unique: RBH, thresholds met; margin 43.7	msp201_5.html row 102 (Gene Number 133)	Mukherjee2009
+At3g50890	ARATH	PLINC	Q9SVL0	mapped	sequence_exact: identical sequence	msp201_5.html row 103 (Gene Number 134)	Mukherjee2009
+At5g42780	ARATH	PLINC	Q9FMY7	mapped	sequence_unique: RBH, thresholds met; margin 62.3	msp201_5.html row 104 (Gene Number 135)	Mukherjee2009
+At1g14687	ARATH	PLINC	Q9LQW3	mapped	sequence_exact: identical sequence	msp201_5.html row 105 (Gene Number 136)	Mukherjee2009
+At1g14440	ARATH	PLINC	Q9M9S0	mapped	sequence_exact: identical sequence	msp201_5.html row 106 (Gene Number 137)	Mukherjee2009
+At3g28920	ARATH	PLINC	Q9LHF0	mapped	sequence_exact: identical sequence	msp201_5.html row 107 (Gene Number 140)	Mukherjee2009
+MCL19.5	ARATH	WOX	F4KG06	mapped	exact_id: exact identifier mapping AT5G46010->F4KG06 (single hit in panel proteome); sequence: unmapped (coverage q=0.31/t=0.99<0.8)	msp201_5.html row 108 (Gene Number 141)	Mukherjee2009
+At5g11270	ARATH	PINTOX	Q8H0V5	mapped	sequence_exact: identical sequence	msp201_5.html row 109 (Gene Number 142)	Mukherjee2009
+LD	ARATH	LD	Q38796	mapped	sequence_unique: RBH, thresholds met; margin 99.6	msp201_5.html row 110 (Gene Number 143)	Mukherjee2009
+10A19I.6	ORYSJ	PLINC	Q688U3	mapped	exact_id: exact identifier mapping LOC_Os05g50310->Q688U3 (single hit in panel proteome); sequence: unmapped (coverage q=0.57/t=0.84<0.8)	msp201_5.html row 111 (Gene Number 144)	Mukherjee2009
+49D11.22	ORYSJ	PLINC	Q8S3Q9	mapped	sequence_exact: identical sequence	msp201_5.html row 116 (Gene Number 149)	Mukherjee2009
+At1g75430	ARATH	BEL	Q1PFD1	mapped	exact_id: exact identifier mapping AT1G75430->Q1PFD1; AAG13063->Q1PFD1 (single hit in panel proteome); sequence: unmapped (coverage q=0.54/t=0.91<0.8)	msp201_5.html row 117 (Gene Number 150)	Mukherjee2009
+OCL1	MAIZE	HD-ZIP IV START	A0A804N0U2	mapped	sequence_unique: RBH, thresholds met; margin 36.3	msp201_5.html row 119 (Gene Number 156)	Mukherjee2009
+Pphb10	PHYPA	HD-ZIP III START MEKHLA	A0A7I4ACG5	mapped	sequence_unique: RBH, thresholds met; margin 8.6	msp201_5.html row 121 (Gene Number 158)	Mukherjee2009
+B1015E06	ORYSJ	HD-ZIP III START MEKHLA	Q5QMZ9	mapped	sequence_unique: RBH, thresholds met; margin 40.6	msp201_5.html row 122 (Gene Number 159)	Mukherjee2009
+P0007F06.8	ORYSJ	DDT		unmapped	sequence: unmapped (identity 63.9<98.0; coverage q=0.67/t=0.88<0.8; not reciprocal best (target best-matched by row300)); identifiers ['BAB84369'] give no panel hit	msp201_5.html row 132 (Gene Number 167)	Mukherjee2009
+HAZ1	ORYSJ	PHD ZINC FINGER	Q8H991	mapped	sequence_exact: identical sequence	msp201_5.html row 134 (Gene Number 172)	Mukherjee2009
+HOX1B	MAIZE	PHD ZINC FINGER		unmapped	sequence: ambiguous (margin -0.2<2.0 over runner-up); identifiers none usable give no panel hit	msp201_5.html row 135 (Gene Number 173)	Mukherjee2009
+HOX2A	MAIZE	PHD ZINC FINGER	A0A1D6NC34	mapped	sequence_unique: RBH, thresholds met; margin 15.4	msp201_5.html row 136 (Gene Number 174)	Mukherjee2009
+HOX2B	MAIZE	PHD ZINC FINGER	A0A1D6GBR7	mapped	sequence_unique: RBH, thresholds met; margin 14.2	msp201_5.html row 137 (Gene Number 175)	Mukherjee2009
+HOX1A	MAIZE	PHD ZINC FINGER	P46605	mapped	sequence_exact: identical sequence	msp201_5.html row 138 (Gene Number 176)	Mukherjee2009
+MKN1-3	PHYPA	TALE / KNOX	A0A2K1KL61	mapped	sequence_unique: RBH, thresholds met; margin 48.5	msp201_5.html row 140 (Gene Number 197)	Mukherjee2009
+GSP1	CHLRE	TALE / KNOX		unmapped	sequence: unmapped (identity 97.9<98.0); identifiers ['AAL14119'] give no panel hit	msp201_5.html row 141 (Gene Number 180)	Mukherjee2009
+OJ1123F12.2	ORYSJ	BEL		unmapped	sequence: unmapped (coverage q=0.65/t=0.94<0.8); identifiers ['LOC_Os03g06930', 'AAM15780'] give no panel hit	msp201_5.html row 147 (Gene Number 188)	Mukherjee2009
+qSH-1	ORYSJ	BEL	Q941S9	mapped	sequence_exact: identical sequence	msp201_5.html row 149 (Gene Number 189)	Mukherjee2009
+OSJNBa0053C23.7	ORYSJ	BEL	Q8LN25	mapped	sequence_exact: identical sequence	msp201_5.html row 150 (Gene Number 190)	Mukherjee2009
+Os03g47740	ORYSJ	BEL	Q9AYD9	mapped	sequence_unique: RBH, thresholds met; margin 24.8	msp201_5.html row 156 (Gene Number 191)	Mukherjee2009
+P0514G12.24	ORYSJ	BEL	Q0DF87	mapped	sequence_exact: identical sequence	msp201_5.html row 160 (Gene Number 192)	Mukherjee2009
+Os03g47730	ORYSJ	BEL	Q9AYD8	mapped	sequence_exact: identical sequence	msp201_5.html row 161 (Gene Number 193)	Mukherjee2009
+NDX1	ORYSJ	NDX		unmapped	sequence: unmapped (coverage q=0.12/t=0.63<0.8); identifiers ['LOC_Os05g09630'] give no panel hit	msp201_5.html row 164 (Gene Number 194)	Mukherjee2009
+LD	ORYSJ	LD		unmapped	sequence: unmapped (coverage q=0.30/t=0.98<0.8); identifiers ['LOC_Os01g70810', 'BAB64183'] give no panel hit	msp201_5.html row 166 (Gene Number 196)	Mukherjee2009
+LD	MAIZE	LD	A0A804N818	mapped	sequence_unique: RBH, thresholds met; margin 98.6	msp201_5.html row 167 (Gene Number 206)	Mukherjee2009
+At5g39760	ARATH	PLINC	Q9FIW9	mapped	sequence_exact: identical sequence	msp201_5.html row 169 (Gene Number 139)	Mukherjee2009
+P0457B11.16	ORYSJ	PINTOX	Q69XL0	mapped	sequence_exact: identical sequence	msp201_5.html row 171 (Gene Number 210)	Mukherjee2009
+J033073M23	ORYSJ	SAWADEE	Q67W46	mapped	sequence_exact: identical sequence	msp201_5.html row 172 (Gene Number 211)	Mukherjee2009
+J023039B22	ORYSJ	SAWADEE	Q6ES95	mapped	sequence_unique: RBH, thresholds met; margin 59.1	msp201_5.html row 173 (Gene Number 212)	Mukherjee2009
+J013073N05	ORYSJ	SAWADEE		unmapped	sequence: unmapped (identity 70.5<98.0; coverage q=0.85/t=0.65<0.8); identifiers none usable give no panel hit	msp201_5.html row 174 (Gene Number 213)	Mukherjee2009
+PCO140607	MAIZE	SAWADEE		unmapped	sequence: unmapped (coverage q=1.00/t=0.68<0.8); identifiers none usable give no panel hit	msp201_5.html row 175 (Gene Number 214)	Mukherjee2009
+Pint1	VITVI	PINTOX		unmapped	sequence: unmapped (identity 92.2<98.0); identifiers none usable give no panel hit	msp201_5.html row 181 (Gene Number 222)	Mukherjee2009
+Pint1	MAIZE	PINTOX		unmapped	sequence: unmapped (coverage q=1.00/t=0.41<0.8); identifiers none usable give no panel hit	msp201_5.html row 184 (Gene Number 225)	Mukherjee2009
+GLABRA2	ORYSJ	HD-ZIP IV START	Q5JMF3	mapped	exact_id: exact identifier mapping BAB61212->Q5JMF3 (single hit in panel proteome); sequence: unmapped (identity 95.5<98.0)	msp201_5.html row 204 (Gene Number 245)	Mukherjee2009
+At4g12750	ARATH	DDT	F4JRF5	mapped	exact_id: exact identifier mapping AT4G12750->F4JRF5; CAB40992->F4JRF5 (single hit in panel proteome); sequence: unmapped (identity 95.9<98.0)	msp201_5.html row 206 (Gene Number 247)	Mukherjee2009
+P0594D10.101	ORYSJ	DDT		unmapped	sequence: unmapped (identity 25.3<98.0; coverage q=0.72/t=0.73<0.8; not reciprocal best (target best-matched by row300)); identifiers none usable give no panel hit	msp201_5.html row 207 (Gene Number 248)	Mukherjee2009
+03g50920	ORYSJ	PLINC	Q10DV5	mapped	sequence_exact: identical sequence	msp201_5.html row 211 (Gene Number 252)	Mukherjee2009
+Os86G13	ORYSJ	PLINC	Q7X7N3	mapped	sequence_exact: identical sequence	msp201_5.html row 212 (Gene Number 253)	Mukherjee2009
+OCL2	MAIZE	HD-ZIP IV START		unmapped	sequence: unmapped (identity 93.3<98.0); identifiers ['CAB96422'] give no panel hit	msp201_5.html row 213 (Gene Number 254)	Mukherjee2009
+OCL3	MAIZE	HD-ZIP IV START	G2J5R7	mapped	sequence_unique: RBH, thresholds met; margin 41.7	msp201_5.html row 214 (Gene Number 255)	Mukherjee2009
+OCL5	MAIZE	HD-ZIP IV START	A0A804NML4	mapped	sequence_unique: RBH, thresholds met; margin 9.9	msp201_5.html row 216 (Gene Number 257)	Mukherjee2009
+Oshox4	ORYSJ	HD-ZIP 1	Q6K498	mapped	sequence_exact: identical sequence	msp201_5.html row 217 (Gene Number 258)	Mukherjee2009
+Roc5	ORYSJ	HD-ZIP IV START	Q6EPF0	mapped	sequence_exact: identical sequence	msp201_5.html row 218 (Gene Number 259)	Mukherjee2009
+P0453G03.37	ORYSJ	HD-ZIP 1	Q7XI85	mapped	sequence_exact: identical sequence	msp201_5.html row 219 (Gene Number 260)	Mukherjee2009
+OSH45	ORYSJ	KNOX II	Q0J6N4	mapped	sequence_exact: identical sequence	msp201_5.html row 220 (Gene Number 261)	Mukherjee2009
+HOS59	ORYSJ	KNOX II	Q94LW4	mapped	sequence_unique: RBH, thresholds met; margin 12.2	msp201_5.html row 221 (Gene Number 262)	Mukherjee2009
+OSJNBa0091P11.3	ORYSJ	HD-ZIP 1	Q8S7W9	mapped	sequence_exact: identical sequence	msp201_5.html row 222 (Gene Number 263)	Mukherjee2009
+OJ1217B09.11	ORYSJ	HD-ZIP 1	Q10QP3	mapped	sequence_exact: identical sequence	msp201_5.html row 223 (Gene Number 264)	Mukherjee2009
+Roc1	ORYSJ	HD-ZIP IV	Q6ZAR0	mapped	sequence_unique: RBH, thresholds met; margin 17.1	msp201_5.html row 224 (Gene Number 265)	Mukherjee2009
+P0454H12.19	ORYSJ	WOX	Q5QMM3	mapped	sequence_exact: identical sequence	msp201_5.html row 225 (Gene Number 266)	Mukherjee2009
+Roc3	ORYSJ	HD-ZIP IV	Q336P2	mapped	sequence_exact: identical sequence	msp201_5.html row 226 (Gene Number 267)	Mukherjee2009
+OSH1	ORYSJ	KNOX I	P46609	mapped	sequence_exact: identical sequence	msp201_5.html row 227 (Gene Number 268)	Mukherjee2009
+Oshox1	ORYSJ	HD-ZIP 2	Q7XC54	mapped	exact_id: exact identifier mapping LOC_Os10g41230->Q7XC54 (single hit in panel proteome); sequence: unmapped (identity 96.1<98.0)	msp201_5.html row 228 (Gene Number 269)	Mukherjee2009
+OJ1017C11.5	ORYSJ	HD-ZIP 2	Q8GRL4	mapped	sequence_exact: identical sequence	msp201_5.html row 229 (Gene Number 270)	Mukherjee2009
+Oshox5	ORYSJ	HD-ZIP 1	Q6ZA74	mapped	sequence_unique: RBH, thresholds met; margin 99.7	msp201_5.html row 230 (Gene Number 271)	Mukherjee2009
+HAT4	ORYSJ	HD-ZIP 2	Q0JB92	mapped	exact_id: exact identifier mapping LOC_Os04g46350->Q0JB92; CAE05141->Q0JB92 (single hit in panel proteome); sequence: unmapped (identity 76.0<98.0; coverage q=0.57/t=0.81<0.8)	msp201_5.html row 231 (Gene Number 272)	Mukherjee2009
+OSJNBb0044I14.6	ORYSJ	HD-ZIP 1	Q94GL5	mapped	sequence_exact: identical sequence	msp201_5.html row 232 (Gene Number 273)	Mukherjee2009
+Oshox6	ORYSJ	HD-ZIP 1	Q651Z5	mapped	sequence_unique: RBH, thresholds met; margin 98.8	msp201_5.html row 233 (Gene Number 274)	Mukherjee2009
+Roc2	ORYSJ	HD-ZIP IV	Q0J9X2	mapped	sequence_unique: RBH, thresholds met; margin 16.5	msp201_5.html row 234 (Gene Number 275)	Mukherjee2009
+OSJNBa0096E22.15	ORYSJ	HD-ZIP 2	Q7G737	mapped	sequence_exact: identical sequence	msp201_5.html row 235 (Gene Number 276)	Mukherjee2009
+Oshox3	ORYSJ	HD-ZIP 2	Q0JKX1	mapped	sequence_exact: identical sequence	msp201_5.html row 236 (Gene Number 279)	Mukherjee2009
+OSH6	ORYSJ	KNOX I	Q9FP29	mapped	sequence_exact: identical sequence	msp201_5.html row 237 (Gene Number 280)	Mukherjee2009
+Roc4	ORYSJ	HD-ZIP IV	Q7Y0V9	mapped	sequence_unique: RBH, thresholds met; margin 26.4	msp201_5.html row 238 (Gene Number 281)	Mukherjee2009
+Hox10	ORYSJ	HD-ZIP III START MEKHLA	Q6TAQ6	mapped	sequence_unique: RBH, thresholds met; margin 12.1	msp201_5.html row 239 (Gene Number 283)	Mukherjee2009
+HOS66	ORYSJ	KNOX II	Q94LW3	mapped	sequence_exact: identical sequence	msp201_5.html row 240 (Gene Number 284)	Mukherjee2009
+OSJNBb0063G05.13	ORYSJ	WOX	Q0JKK6	mapped	exact_id: exact identifier mapping LOC_Os01g47710->Q0JKK6 (single hit in panel proteome); sequence: unmapped (identity 79.7<98.0)	msp201_5.html row 241 (Gene Number 285)	Mukherjee2009
+Hox9	ORYSJ	HD-ZIP III START MEKHLA	Q9AV49	mapped	sequence_unique: RBH, thresholds met; margin 12.1	msp201_5.html row 242 (Gene Number 286)	Mukherjee2009
+OSH15	ORYSJ	KNOX I	O80416	mapped	exact_id: exact identifier mapping LOC_Os07g03770->O80416 (single hit in panel proteome); sequence: unmapped (coverage q=0.57/t=0.99<0.8)	msp201_5.html row 243 (Gene Number 287)	Mukherjee2009
+Hox8	ORYSJ	HD-ZIP 1	Q338Z7	mapped	sequence_exact: identical sequence	msp201_5.html row 244 (Gene Number 288)	Mukherjee2009
+OSJNBb0103I08.6	ORYSJ	HD-ZIP 1	Q7XUJ5	mapped	exact_id: exact identifier mapping LOC_Os04g45810->Q7XUJ5; CAD41267->Q7XUJ5 (single hit in panel proteome); sequence: unmapped (coverage q=0.81/t=0.76<0.8)	msp201_5.html row 245 (Gene Number 289)	Mukherjee2009
+Hox7	ORYSJ	HD-ZIP 2	Q0E0A6	mapped	sequence_exact: identical sequence	msp201_5.html row 246 (Gene Number 290)	Mukherjee2009
+OSTF1	ORYSJ	HD-ZIP IV	Q5ZAY0	mapped	sequence_unique: RBH, thresholds met; margin 65.9	msp201_5.html row 247 (Gene Number 294)	Mukherjee2009
+OSJNBb0075O18.108	ORYSJ	HD-ZIP IV	A0A0N7KPL6	mapped	sequence_unique: RBH, thresholds met; margin 61.9	msp201_5.html row 248 (Gene Number 295)	Mukherjee2009
+hb3	ORYSJ	WOX	Q7XTV3	mapped	exact_id: exact identifier mapping LOC_Os04g55590->Q7XTV3; CAD88982->Q7XTV3 (single hit in panel proteome); sequence: unmapped (identity 85.2<98.0)	msp201_5.html row 249 (Gene Number 297)	Mukherjee2009
+P0496H07.20	ORYSJ	WOX	Q5W7C3	mapped	exact_id: exact identifier mapping LOC_Os05g02730->Q5W7C3; AAV44211->Q5W7C3 (single hit in panel proteome); sequence: unmapped (identity 95.1<98.0)	msp201_5.html row 250 (Gene Number 298)	Mukherjee2009
+WOX5	ORYSJ	WOX	Q8W0F1	mapped	sequence_exact: identical sequence	msp201_5.html row 251 (Gene Number 299)	Mukherjee2009
+P0408C03.16	ORYSJ	WOX	Q8LR86	mapped	sequence_exact: identical sequence	msp201_5.html row 252 (Gene Number 300)	Mukherjee2009
+rough_sheath1	ORYSJ	KNOX I	Q10ED2	mapped	sequence_exact: identical sequence	msp201_5.html row 253 (Gene Number 302)	Mukherjee2009
+Hox2	ORYSJ	HD-ZIP 2	Q5VPE3	mapped	sequence_exact: identical sequence	msp201_5.html row 256 (Gene Number 309)	Mukherjee2009
+P0409D09.32	ORYSJ	HD-ZIP IV		unmapped	sequence: unmapped (identity 45.8<98.0; coverage q=0.58/t=0.10<0.8; not reciprocal best (target best-matched by row259)); identifiers ['LOC_Os07g24350', 'BAC83419'] give no panel hit	msp201_5.html row 257 (Gene Number 310)	Mukherjee2009
+Roc8	ORYSJ	HD-ZIP IV	Q69T58	mapped	exact_id: exact identifier mapping LOC_Os06g10600->Q69T58; BAC77161->Q69T58 (single hit in panel proteome); sequence: unmapped (identity 97.5<98.0)	msp201_5.html row 259 (Gene Number 313)	Mukherjee2009
+Roc6	ORYSJ	HD-ZIP IV	Q7Y0V7	mapped	sequence_unique: RBH, thresholds met; margin 38.9	msp201_5.html row 260 (Gene Number 315)	Mukherjee2009
+HOS58	ORYSJ	KNOX II	Q0E3C3	mapped	sequence_unique: RBH, thresholds met; margin 14.2	msp201_5.html row 261 (Gene Number 319)	Mukherjee2009
+OSH10	ORYSJ	KNOX I	Q75LX7	mapped	sequence_exact: identical sequence	msp201_5.html row 262 (Gene Number 320)	Mukherjee2009
+OSH3	ORYSJ	KNOX I	Q948L5	mapped	exact_id: exact identifier mapping LOC_Os03g51710->Q948L5; BAA79223->Q948L5 (single hit in panel proteome); sequence: unmapped (identity 94.0<98.0)	msp201_5.html row 263 (Gene Number 321)	Mukherjee2009
+AK108246.1	ORYSJ	PLINC	Q6YXH5	mapped	sequence_exact: identical sequence	msp201_5.html row 264 (Gene Number 326)	Mukherjee2009
+AK109528.1	ORYSJ	PLINC	Q6ZB90	mapped	sequence_exact: identical sequence	msp201_5.html row 265 (Gene Number 327)	Mukherjee2009
+J023022H01	ORYSJ	PLINC	Q6ER21	mapped	exact_id: exact identifier mapping LOC_Os09g24820->Q6ER21 (single hit in panel proteome); sequence: unmapped (identity 76.5<98.0)	msp201_5.html row 266 (Gene Number 328)	Mukherjee2009
+PRHA	ORYSJ	PHD ZINC FINGER	Q6Z441	mapped	sequence_exact: identical sequence	msp201_5.html row 267 (Gene Number 332)	Mukherjee2009
+ATH1	ORYSJ	BEL	A0A0P0VGQ2	mapped	sequence_exact: identical sequence	msp201_5.html row 268 (Gene Number 333)	Mukherjee2009
+J023088C15	ORYSJ	BEL	Q10SF7	mapped	sequence_exact: identical sequence	msp201_5.html row 269 (Gene Number 335)	Mukherjee2009
+HOX16	ORYSJ	HD-ZIP 1	Q6YWR4	mapped	sequence_exact: identical sequence	msp201_5.html row 270 (Gene Number 337)	Mukherjee2009
+J033086M14	ORYSJ	HD-ZIP III START MEKHLA	Q2QM96	mapped	sequence_unique: RBH, thresholds met; margin 12.5	msp201_5.html row 271 (Gene Number 343)	Mukherjee2009
+J033124M18	ORYSJ	HD-ZIP III START MEKHLA	Q6AST1	mapped	sequence_unique: RBH, thresholds met; margin 12.6	msp201_5.html row 272 (Gene Number 345)	Mukherjee2009
+J023022M14	ORYSJ	BEL		unmapped	sequence: unmapped (coverage q=0.52/t=0.72<0.8); identifiers ['LOC_Os12g06340'] give no panel hit	msp201_5.html row 273 (Gene Number 346)	Mukherjee2009
+OJ1613_G04.7	ORYSJ	HD-ZIP IV	A3BPF2	mapped	sequence_exact: identical sequence	msp201_5.html row 274 (Gene Number 348)	Mukherjee2009
+J023133E06	ORYSJ	BEL	Q60EM7	mapped	sequence_exact: identical sequence	msp201_5.html row 275 (Gene Number 353)	Mukherjee2009
+OSJNBa0084K01.18	ORYSJ	WOX	Q7XM13	mapped	sequence_unique: RBH, thresholds met; margin 99.7	msp201_5.html row 276 (Gene Number 355)	Mukherjee2009
+Os07g48560.1	ORYSJ	WOX	Q0D3I7	mapped	sequence_exact: identical sequence	msp201_5.html row 277 (Gene Number 356)	Mukherjee2009
+OSJNBa0096E03	ORYSJ	WOX		ambiguous	2 paper rows (row278, row319) map to the same panel protein Q33DK1	msp201_5.html row 278 (Gene Number 357)	Mukherjee2009
+sca198	CHLRE	TALE / KNOX		unmapped	sequence: unmapped (identity 69.0<98.0; coverage q=0.91/t=0.65<0.8); identifiers none usable give no panel hit	msp201_5.html row 279 (Gene Number 358)	Mukherjee2009
+sca_218	CHLRE	BEL		unmapped	sequence: unmapped (coverage q=0.94/t=0.03<0.8); identifiers none usable give no panel hit	msp201_5.html row 280 (Gene Number 363)	Mukherjee2009
+sca_267	PHYPA	PHD ZINC FINGER		unmapped	sequence: unmapped (identity 71.1<98.0); identifiers none usable give no panel hit	msp201_5.html row 281 (Gene Number 365)	Mukherjee2009
+Pphb1	PHYPA	HD-ZIP 1		unmapped	sequence: unmapped (coverage q=0.86/t=0.65<0.8); identifiers none usable give no panel hit	msp201_5.html row 282 (Gene Number 366)	Mukherjee2009
+Pphb2	PHYPA	HD-ZIP 1		unmapped	sequence: unmapped (coverage q=0.68/t=0.99<0.8); identifiers none usable give no panel hit	msp201_5.html row 283 (Gene Number 367)	Mukherjee2009
+pphb3	PHYPA	HD-ZIP 2		unmapped	sequence: unmapped (identity 84.3<98.0; not reciprocal best (target best-matched by row786)); identifiers none usable give no panel hit	msp201_5.html row 284 (Gene Number 368)	Mukherjee2009
+pphb4	PHYPA	HD-ZIP 2		unmapped	sequence: unmapped (coverage q=0.76/t=0.85<0.8; margin 0.7<2.0 over runner-up); identifiers none usable give no panel hit	msp201_5.html row 285 (Gene Number 369)	Mukherjee2009
+Pphb5	PHYPA	HD-ZIP 1		unmapped	sequence: unmapped (identity 94.0<98.0); identifiers none usable give no panel hit	msp201_5.html row 286 (Gene Number 370)	Mukherjee2009
+pphb6	PHYPA	HD-ZIP 1		unmapped	sequence: unmapped (identity 94.8<98.0); identifiers none usable give no panel hit	msp201_5.html row 287 (Gene Number 371)	Mukherjee2009
+Pphb7	PHYPA	HD-ZIP 1		unmapped	sequence: unmapped (coverage q=0.99/t=0.73<0.8); identifiers none usable give no panel hit	msp201_5.html row 288 (Gene Number 372)	Mukherjee2009
+Pphb8	PHYPA	HD-ZIP 1		unmapped	sequence: unmapped (identity 89.0<98.0); identifiers none usable give no panel hit	msp201_5.html row 289 (Gene Number 373)	Mukherjee2009
+Pphb9	PHYPA	HD-ZIP 1	A0A2K1LB91	mapped	sequence_unique: RBH, thresholds met; margin 46.0	msp201_5.html row 290 (Gene Number 374)	Mukherjee2009
+MKN2	PHYPA	TALE / KNOX		unmapped	sequence: unmapped (identity 49.8<98.0; coverage q=0.61/t=0.54<0.8; margin -4.3<2.0 over runner-up; not reciprocal best (target best-matched by row819)); identifiers ['AAK61308'] give no panel hit	msp201_5.html row 291 (Gene Number 375)	Mukherjee2009
+MKN4	PHYPA	TALE / KNOX		unmapped	sequence: unmapped (coverage q=0.49/t=1.00<0.8); identifiers ['AAK62559'] give no panel hit	msp201_5.html row 292 (Gene Number 376)	Mukherjee2009
+P0524F03	ORYSJ	PLINC	Q6Z528	mapped	sequence_exact: identical sequence	msp201_5.html row 293 (Gene Number 387)	Mukherjee2009
+C114607	ORYSJ	PLINC	Q53N87	mapped	sequence_exact: identical sequence	msp201_5.html row 299 (Gene Number 396)	Mukherjee2009
+J023095K21	ORYSJ	DDT		unmapped	sequence: unmapped (coverage q=0.71/t=0.94<0.8); identifiers ['LOC_Os05g48820'] give no panel hit	msp201_5.html row 300 (Gene Number 398)	Mukherjee2009
+OSJNBb0053D02.14	ORYSJ	WOX	A3B6V0	mapped	exact_id: exact identifier mapping AAT77402->A3B6V0 (single hit in panel proteome); sequence: unmapped (identity 84.1<98.0)	msp201_5.html row 301 (Gene Number 399)	Mukherjee2009
+chr11.2890181	ORYSJ	BEL		unmapped	sequence: unmapped (coverage q=0.62/t=1.00<0.8); identifiers ['LOC_Os11g06020'] give no panel hit	msp201_5.html row 302 (Gene Number 402)	Mukherjee2009
+Hox12	ORYSJ	HD-ZIP 1	Q10QF2	mapped	sequence_exact: identical sequence	msp201_5.html row 303 (Gene Number 403)	Mukherjee2009
+OSJNBa0050G13.4	ORYSJ	HD-ZIP 2	Q67UX6	mapped	sequence_exact: identical sequence	msp201_5.html row 304 (Gene Number 404)	Mukherjee2009
+chr9.11448991	ORYSJ	HD-ZIP 1	A3BYC1	mapped	sequence_exact: identical sequence	msp201_5.html row 305 (Gene Number 406)	Mukherjee2009
+OSJNBa0035I24.10	ORYSJ	KNOX I	Q75LX9	mapped	sequence_exact: identical sequence	msp201_5.html row 306 (Gene Number 409)	Mukherjee2009
+HOX28	ORYSJ	HD-ZIP 2	Q5VPE5	mapped	sequence_exact: identical sequence	msp201_5.html row 307 (Gene Number 411)	Mukherjee2009
+P0028E05.36	ORYSJ	HD-ZIP 2	Q5Z6F6	mapped	sequence_exact: identical sequence	msp201_5.html row 308 (Gene Number 412)	Mukherjee2009
+OSH71	ORYSJ	KNOX I	Q7GDL5	mapped	sequence_exact: identical sequence	msp201_5.html row 309 (Gene Number 413)	Mukherjee2009
+GRMP00000161188	ORYSJ	HD-ZIP 2		unmapped	sequence: unmapped (identity 50.7<98.0; coverage q=0.24/t=0.23<0.8; not reciprocal best (target best-matched by row228)); identifiers none usable give no panel hit	msp201_5.html row 310 (Gene Number 414)	Mukherjee2009
+chr8.19818982	ORYSJ	HD-ZIP III		unmapped	sequence: unmapped (identity 91.3<98.0; coverage q=0.85/t=0.08<0.8; not reciprocal best (target best-matched by row239)); identifiers ['LOC_Os08g32990'] give no panel hit	msp201_5.html row 312 (Gene Number 417)	Mukherjee2009
+OSJNBa0072F13.15	ORYSJ	HD-ZIP III	Q6AU46	mapped	sequence_exact: identical sequence	msp201_5.html row 313 (Gene Number 418)	Mukherjee2009
+P0048B08.20	ORYSJ	HD-ZIP 1	Q6H6S3	mapped	sequence_exact: identical sequence	msp201_5.html row 315 (Gene Number 420)	Mukherjee2009
+Hox11	ORYSJ	HD-ZIP 2	Q67UE2	mapped	sequence_exact: identical sequence	msp201_5.html row 316 (Gene Number 421)	Mukherjee2009
+HOX27	ORYSJ	HD-ZIP 2	Q6YPD0	mapped	sequence_exact: identical sequence	msp201_5.html row 317 (Gene Number 422)	Mukherjee2009
+chr11.67345	ORYSJ	WOX		ambiguous	2 paper rows (row278, row319) map to the same panel protein Q33DK1	msp201_5.html row 319 (Gene Number 428)	Mukherjee2009
+1g44430	ORYSJ	PLINC	Q5VM82	mapped	sequence_exact: identical sequence	msp201_5.html row 336 (Gene Number 448)	Mukherjee2009
+Os12g10630.1	ORYSJ	PLINC	Q2QW44	mapped	sequence_exact: identical sequence	msp201_5.html row 337 (Gene Number 449)	Mukherjee2009
+OSJNBb0092C08.26	ORYSJ	HD-ZIP 1	Q6Z248	mapped	sequence_exact: identical sequence	msp201_5.html row 338 (Gene Number 450)	Mukherjee2009
+P0456F09.31	ORYSJ	BEL	Q0DBI4	mapped	sequence_unique: RBH, thresholds met; margin 100.0	msp201_5.html row 340 (Gene Number 453)	Mukherjee2009
+OSJNBa0079G12.10	ORYSJ	BEL		unmapped	sequence: unmapped (identity 97.5<98.0); identifiers ['LOC_Os03g52239', 'AAT77875'] give no panel hit	msp201_5.html row 341 (Gene Number 454)	Mukherjee2009
+Os03g20910.1	ORYSJ	WOX	Q10M29	mapped	sequence_exact: identical sequence	msp201_5.html row 342 (Gene Number 455)	Mukherjee2009
+Os07g34880.1	ORYSJ	WOX	A3BKM2	mapped	sequence_exact: identical sequence	msp201_5.html row 343 (Gene Number 456)	Mukherjee2009
+WOX2	ARATH	WOX	Q6X7K1	mapped	sequence_unique: RBH, thresholds met; margin 99.6	msp201_5.html row 344 (Gene Number 457)	Mukherjee2009
+Os12g43950.1	ORYSJ	BEL	Q2QLM6	mapped	sequence_exact: identical sequence	msp201_5.html row 345 (Gene Number 459)	Mukherjee2009
+AZM469357	MAIZE	HD-ZIP 1		unmapped	sequence: ambiguous (not reciprocal best (target best-matched by row381)); identifiers none usable give no panel hit	msp201_5.html row 351 (Gene Number 467)	Mukherjee2009
+AZM4123376	MAIZE	BEL		unmapped	sequence: unmapped (identity 84.9<98.0; coverage q=0.57/t=0.84<0.8); identifiers none usable give no panel hit	msp201_5.html row 352 (Gene Number 468)	Mukherjee2009
+AZM412884	MAIZE	BEL	A0A804NAY0	mapped	sequence_unique: RBH, thresholds met; margin 39.9	msp201_5.html row 353 (Gene Number 469)	Mukherjee2009
+AZM4112646	MAIZE	HD-ZIP 1	A0A804QAA6	mapped	sequence_unique: RBH, thresholds met; margin 15.0	msp201_5.html row 354 (Gene Number 470)	Mukherjee2009
+AZM433210	MAIZE	HD-ZIP 1		unmapped	sequence: unmapped (identity 65.5<98.0; coverage q=0.80/t=0.78<0.8; margin -5.6<2.0 over runner-up; not reciprocal best (target best-matched by row422)); identifiers none usable give no panel hit	msp201_5.html row 355 (Gene Number 471)	Mukherjee2009
+AZM4113431	MAIZE	HD-ZIP 1	A0A804LEE9	mapped	sequence_unique: RBH, thresholds met; margin 22.9	msp201_5.html row 356 (Gene Number 472)	Mukherjee2009
+AZM440326	MAIZE	KNOX II	A0A804P3W5	mapped	sequence_unique: RBH, thresholds met; margin 3.6	msp201_5.html row 357 (Gene Number 473)	Mukherjee2009
+AZM451939	MAIZE	KNOX II		unmapped	sequence: unmapped (coverage q=0.78/t=0.64<0.8; not reciprocal best (target best-matched by row357)); identifiers none usable give no panel hit	msp201_5.html row 358 (Gene Number 474)	Mukherjee2009
+AZM422699	MAIZE	HD-ZIP 1		unmapped	sequence: unmapped (identity 85.8<98.0); identifiers none usable give no panel hit	msp201_5.html row 359 (Gene Number 475)	Mukherjee2009
+AZM433571	MAIZE	HD-ZIP IV		unmapped	sequence: unmapped (identity 87.2<98.0; not reciprocal best (target best-matched by row373)); identifiers none usable give no panel hit	msp201_5.html row 360 (Gene Number 476)	Mukherjee2009
+AZM436536	MAIZE	WOX		unmapped	sequence: unmapped (identity 90.7<98.0); identifiers none usable give no panel hit	msp201_5.html row 361 (Gene Number 477)	Mukherjee2009
+lg3	MAIZE	KNOX	A0A804N2P2	mapped	sequence_exact: identical sequence	msp201_5.html row 362 (Gene Number 478)	Mukherjee2009
+AZM468848	MAIZE	HD-ZIP IV	G2J5R8	mapped	sequence_unique: RBH, thresholds met; margin 54.5	msp201_5.html row 363 (Gene Number 479)	Mukherjee2009
+RS1	MAIZE	KNOX	Q41853	mapped	sequence_exact: identical sequence	msp201_5.html row 364 (Gene Number 480)	Mukherjee2009
+AZM415595	MAIZE	BEL		unmapped	sequence: unmapped (coverage q=1.00/t=0.42<0.8; not reciprocal best (target best-matched by row389)); identifiers none usable give no panel hit	msp201_5.html row 365 (Gene Number 481)	Mukherjee2009
+AZM415717	MAIZE	HD-ZIP 2		unmapped	sequence: unmapped (identity 97.0<98.0); identifiers none usable give no panel hit	msp201_5.html row 366 (Gene Number 482)	Mukherjee2009
+AZM4123312	MAIZE	HD-ZIP 2	A0A804LUL0	mapped	sequence_exact: identical sequence	msp201_5.html row 367 (Gene Number 483)	Mukherjee2009
+AZM412421	MAIZE	HD-ZIP 2	A0A1D6K8L3	mapped	sequence_unique: RBH, thresholds met; margin 99.4	msp201_5.html row 368 (Gene Number 486)	Mukherjee2009
+AZM4134425	MAIZE	HD-ZIP 1		unmapped	sequence: unmapped (identity 97.3<98.0); identifiers none usable give no panel hit	msp201_5.html row 369 (Gene Number 487)	Mukherjee2009
+AZM413795	MAIZE	HD-ZIP 1	A0A804RAJ0	mapped	sequence_unique: RBH, thresholds met; margin 23.6	msp201_5.html row 370 (Gene Number 489)	Mukherjee2009
+AZM4496	MAIZE	HD-ZIP 1		unmapped	sequence: unmapped (identity 91.2<98.0); identifiers none usable give no panel hit	msp201_5.html row 371 (Gene Number 490)	Mukherjee2009
+AZM4492	MAIZE	HD-ZIP 1	A0A804MQ49	mapped	sequence_unique: RBH, thresholds met; margin 29.4	msp201_5.html row 372 (Gene Number 491)	Mukherjee2009
+AZM433388	MAIZE	HD-ZIP IV	G2J5S7	mapped	sequence_unique: RBH, thresholds met; margin 9.5	msp201_5.html row 373 (Gene Number 492)	Mukherjee2009
+AZM411894	MAIZE	HD-ZIP IV		unmapped	sequence: unmapped (identity 92.2<98.0; margin -3.4<2.0 over runner-up); identifiers none usable give no panel hit	msp201_5.html row 374 (Gene Number 493)	Mukherjee2009
+AZM482754	MAIZE	HD-ZIP 2		unmapped	sequence: unmapped (identity 94.3<98.0); identifiers none usable give no panel hit	msp201_5.html row 375 (Gene Number 494)	Mukherjee2009
+AZM468795	MAIZE	BEL		unmapped	sequence: unmapped (identity 96.1<98.0; coverage q=1.00/t=0.49<0.8; not reciprocal best (target best-matched by row353)); identifiers none usable give no panel hit	msp201_5.html row 376 (Gene Number 495)	Mukherjee2009
+AZM415860	MAIZE	HD-ZIP III		unmapped	sequence: unmapped (coverage q=1.00/t=0.23<0.8; not reciprocal best (target best-matched by row396)); identifiers none usable give no panel hit	msp201_5.html row 377 (Gene Number 496)	Mukherjee2009
+AZM4102410	MAIZE	HD-ZIP 2		unmapped	sequence: unmapped (identity 89.9<98.0); identifiers none usable give no panel hit	msp201_5.html row 378 (Gene Number 497)	Mukherjee2009
+AZM469560	MAIZE	HD-ZIP 2	K7VB56	mapped	sequence_exact: identical sequence	msp201_5.html row 379 (Gene Number 498)	Mukherjee2009
+AZM41192	MAIZE	HD-ZIP 2		unmapped	sequence: unmapped (coverage q=0.80/t=0.93<0.8); identifiers none usable give no panel hit	msp201_5.html row 380 (Gene Number 499)	Mukherjee2009
+AZM469358	MAIZE	HD-ZIP 1	A0A804MP20	mapped	sequence_unique: RBH, thresholds met; margin 25.2	msp201_5.html row 381 (Gene Number 500)	Mukherjee2009
+AZM459693	MAIZE	HD-ZIP 1		unmapped	sequence: unmapped (coverage q=1.00/t=0.61<0.8); identifiers none usable give no panel hit	msp201_5.html row 382 (Gene Number 501)	Mukherjee2009
+AZM459694	MAIZE	HD-ZIP 1		unmapped	sequence: unmapped (coverage q=0.77/t=0.53<0.8); identifiers none usable give no panel hit	msp201_5.html row 383 (Gene Number 502)	Mukherjee2009
+AZM4114470	MAIZE	HD-ZIP 2	A0A804P4I3	mapped	sequence_exact: identical sequence	msp201_5.html row 384 (Gene Number 503)	Mukherjee2009
+AZM483405	MAIZE	HD-ZIP 1	A0A804LQ49	mapped	sequence_unique: RBH, thresholds met; margin 35.1	msp201_5.html row 385 (Gene Number 504)	Mukherjee2009
+AZM4124075	MAIZE	HD-ZIP 1		unmapped	sequence: unmapped (identity 94.4<98.0); identifiers none usable give no panel hit	msp201_5.html row 386 (Gene Number 505)	Mukherjee2009
+AZM4102187	MAIZE	HD-ZIP 1	A0A096S6J0	mapped	sequence_unique: RBH, thresholds met; margin 28.9	msp201_5.html row 387 (Gene Number 506)	Mukherjee2009
+AZM433493	MAIZE	HD-ZIP 1	A0A804MCH6	mapped	sequence_exact: identical sequence	msp201_5.html row 388 (Gene Number 507)	Mukherjee2009
+AZM4135396	MAIZE	BEL	A0A804LSC0	mapped	sequence_unique: RBH, thresholds met; margin 34.9	msp201_5.html row 389 (Gene Number 508)	Mukherjee2009
+AZM481646	MAIZE	BEL		unmapped	sequence: unmapped (coverage q=1.00/t=0.53<0.8); identifiers none usable give no panel hit	msp201_5.html row 390 (Gene Number 509)	Mukherjee2009
+AZM459025	MAIZE	HD-ZIP IV		unmapped	sequence: unmapped (identity 95.1<98.0; coverage q=0.67/t=0.19<0.8; not reciprocal best (target best-matched by row395)); identifiers none usable give no panel hit	msp201_5.html row 391 (Gene Number 511)	Mukherjee2009
+AZM449714	MAIZE	HD-ZIP IV		unmapped	sequence: unmapped (identity 94.8<98.0); identifiers none usable give no panel hit	msp201_5.html row 392 (Gene Number 512)	Mukherjee2009
+AZM425844	MAIZE	HD-ZIP IV		unmapped	sequence: unmapped (identity 94.5<98.0; coverage q=1.00/t=0.43<0.8; not reciprocal best (target best-matched by row216)); identifiers none usable give no panel hit	msp201_5.html row 393 (Gene Number 513)	Mukherjee2009
+AZM469787	MAIZE	HD-ZIP IV		unmapped	sequence: unmapped (coverage q=0.98/t=0.38<0.8; not reciprocal best (target best-matched by row213)); identifiers none usable give no panel hit	msp201_5.html row 394 (Gene Number 514)	Mukherjee2009
+AZM449742	MAIZE	HD-ZIP IV		unmapped	sequence: unmapped (identity 97.4<98.0); identifiers none usable give no panel hit	msp201_5.html row 395 (Gene Number 515)	Mukherjee2009
+RLD1	MAIZE	HD-ZIP III	A0A804RBF3	mapped	sequence_unique: RBH, thresholds met; margin 2.5	msp201_5.html row 396 (Gene Number 516)	Mukherjee2009
+AZM459893	MAIZE	HD-ZIP IV		unmapped	sequence: unmapped (coverage q=0.86/t=0.49<0.8; not reciprocal best (target best-matched by row119)); identifiers none usable give no panel hit	msp201_5.html row 397 (Gene Number 517)	Mukherjee2009
+AZM479832	MAIZE	BEL	A0A804LMM1	mapped	sequence_exact: identical sequence	msp201_5.html row 398 (Gene Number 518)	Mukherjee2009
+AZM440231	MAIZE	BEL	A0A804PHF8	mapped	sequence_exact: identical sequence	msp201_5.html row 400 (Gene Number 520)	Mukherjee2009
+AZM41448	MAIZE	BEL	A0A804R2Z5	mapped	sequence_exact: identical sequence	msp201_5.html row 401 (Gene Number 521)	Mukherjee2009
+AZM413533	MAIZE	BEL	A0A804LCP2	mapped	sequence_exact: identical sequence	msp201_5.html row 402 (Gene Number 522)	Mukherjee2009
+AZM459391	MAIZE	KNOX II	A0A804LCN4	mapped	sequence_unique: RBH, thresholds met; margin 3.0	msp201_5.html row 403 (Gene Number 523)	Mukherjee2009
+gn1	MAIZE	KNOX	Q7XYR8	mapped	sequence_exact: identical sequence	msp201_5.html row 404 (Gene Number 526)	Mukherjee2009
+PUEIN13TD	MAIZE	KNOX		unmapped	sequence: unmapped (coverage q=1.00/t=0.47<0.8; margin 0.0<2.0 over runner-up); identifiers none usable give no panel hit	msp201_5.html row 405 (Gene Number 527)	Mukherjee2009
+kn1	MAIZE	KNOX	P24345	mapped	sequence_exact: identical sequence	msp201_5.html row 406 (Gene Number 528)	Mukherjee2009
+AZM460538	MAIZE	WOX		unmapped	sequence: unmapped (identity 93.6<98.0; coverage q=0.83/t=0.68<0.8; not reciprocal best (target best-matched by row361)); identifiers none usable give no panel hit	msp201_5.html row 407 (Gene Number 529)	Mukherjee2009
+AZM4112167	MAIZE	WOX		unmapped	sequence: unmapped (identity 59.4<98.0; not reciprocal best (target best-matched by row419)); identifiers none usable give no panel hit	msp201_5.html row 408 (Gene Number 530)	Mukherjee2009
+AZM4125614	MAIZE	WOX		unmapped	sequence: unmapped (coverage q=1.00/t=0.69<0.8); identifiers none usable give no panel hit	msp201_5.html row 409 (Gene Number 531)	Mukherjee2009
+AZM494294	MAIZE	WOX		unmapped	sequence: unmapped (identity 57.2<98.0); identifiers none usable give no panel hit	msp201_5.html row 410 (Gene Number 532)	Mukherjee2009
+AZM433152	MAIZE	WOX	A0A804RJB1	mapped	sequence_exact: identical sequence	msp201_5.html row 411 (Gene Number 533)	Mukherjee2009
+WOX3A	MAIZE	WOX	Q70UV1	mapped	sequence_exact: identical sequence	msp201_5.html row 412 (Gene Number 534)	Mukherjee2009
+WOX3B	MAIZE	WOX	Q6S3I3	mapped	sequence_exact: identical sequence	msp201_5.html row 413 (Gene Number 535)	Mukherjee2009
+AZM4114386	MAIZE	WOX	A0A1D6INR9	mapped	sequence_unique: RBH, thresholds met; margin 41.3	msp201_5.html row 414 (Gene Number 536)	Mukherjee2009
+AZM459561	MAIZE	WOX		unmapped	sequence: unmapped (identity 86.0<98.0); identifiers none usable give no panel hit	msp201_5.html row 415 (Gene Number 537)	Mukherjee2009
+AZM41894	MAIZE	WOX	A0A1D6DUR9	mapped	sequence_exact: identical sequence	msp201_5.html row 416 (Gene Number 538)	Mukherjee2009
+AZM480034	MAIZE	WOX	A0A804NAT2	mapped	sequence_exact: identical sequence	msp201_5.html row 417 (Gene Number 539)	Mukherjee2009
+AZM437879	MAIZE	WOX	A0A804UNA9	mapped	sequence_exact: identical sequence	msp201_5.html row 418 (Gene Number 540)	Mukherjee2009
+AZM4112173	MAIZE	WOX		unmapped	sequence: unmapped (identity 97.5<98.0; coverage q=0.65/t=0.46<0.8); identifiers none usable give no panel hit	msp201_5.html row 419 (Gene Number 541)	Mukherjee2009
+AZM433006	MAIZE	WOX	K7VNC3	mapped	sequence_unique: RBH, thresholds met; margin 20.3	msp201_5.html row 420 (Gene Number 542)	Mukherjee2009
+AZM4124691	MAIZE	HD-ZIP 1		unmapped	sequence: unmapped (identity 91.9<98.0; coverage q=0.58/t=0.65<0.8); identifiers none usable give no panel hit	msp201_5.html row 421 (Gene Number 543)	Mukherjee2009
+AZM433132	MAIZE	HD-ZIP 1		unmapped	sequence: unmapped (identity 65.8<98.0; coverage q=0.81/t=0.78<0.8; margin -32.5<2.0 over runner-up); identifiers none usable give no panel hit	msp201_5.html row 422 (Gene Number 544)	Mukherjee2009
+AZM479999	MAIZE	HD-ZIP 1		unmapped	sequence: unmapped (coverage q=0.48/t=0.99<0.8); identifiers none usable give no panel hit	msp201_5.html row 423 (Gene Number 545)	Mukherjee2009
+AZM470295	MAIZE	HD-ZIP 1		unmapped	sequence: unmapped (identity 95.1<98.0; coverage q=0.69/t=0.80<0.8); identifiers none usable give no panel hit	msp201_5.html row 424 (Gene Number 546)	Mukherjee2009
+AZM4123732	MAIZE	HD-ZIP III		unmapped	sequence: unmapped (identity 92.3<98.0; coverage q=1.00/t=0.32<0.8; not reciprocal best (target best-matched by row396)); identifiers none usable give no panel hit	msp201_5.html row 425 (Gene Number 547)	Mukherjee2009
+AZM4134917	MAIZE	HD-ZIP III	Q147T1	mapped	sequence_unique: RBH, thresholds met; margin 37.5	msp201_5.html row 426 (Gene Number 548)	Mukherjee2009
+AZM434905	MAIZE	HD-ZIP III		unmapped	sequence: unmapped (coverage q=0.99/t=0.20<0.8; not reciprocal best (target best-matched by row396)); identifiers none usable give no panel hit	msp201_5.html row 427 (Gene Number 549)	Mukherjee2009
+AZM4125576	MAIZE	HD-ZIP III		unmapped	sequence: unmapped (coverage q=0.86/t=0.09<0.8; not reciprocal best (target best-matched by row396)); identifiers none usable give no panel hit	msp201_5.html row 428 (Gene Number 550)	Mukherjee2009
+AZM452133	MAIZE	HD-ZIP III		unmapped	sequence: unmapped (coverage q=0.84/t=0.39<0.8); identifiers none usable give no panel hit	msp201_5.html row 429 (Gene Number 551)	Mukherjee2009
+AZM480571	MAIZE	BEL		unmapped	sequence: unmapped (coverage q=1.00/t=0.39<0.8); identifiers none usable give no panel hit	msp201_5.html row 430 (Gene Number 552)	Mukherjee2009
+AZM468793	MAIZE	BEL	A0A804QLL5	mapped	sequence_exact: identical sequence	msp201_5.html row 431 (Gene Number 554)	Mukherjee2009
+AZM4123919	MAIZE	BEL		unmapped	sequence: unmapped (identity 93.6<98.0); identifiers none usable give no panel hit	msp201_5.html row 432 (Gene Number 555)	Mukherjee2009
+lg4a	MAIZE	KNOX	A0A804UH30	mapped	sequence_exact: identical sequence	msp201_5.html row 433 (Gene Number 557)	Mukherjee2009
+AZM432736	MAIZE	KNOX		unmapped	sequence: unmapped (identity 78.7<98.0); identifiers none usable give no panel hit	msp201_5.html row 434 (Gene Number 558)	Mukherjee2009
+AZM4113483	MAIZE	KNOX		unmapped	sequence: unmapped (identity 95.0<98.0; coverage q=0.79/t=0.54<0.8); identifiers none usable give no panel hit	msp201_5.html row 435 (Gene Number 559)	Mukherjee2009
+AZM4113484	MAIZE	KNOX	A0A804P956	mapped	sequence_exact: identical sequence	msp201_5.html row 436 (Gene Number 560)	Mukherjee2009
+AZM448186	MAIZE	KNOX II		unmapped	sequence: unmapped (identity 95.1<98.0; coverage q=0.99/t=0.45<0.8; margin 0.8<2.0 over runner-up; not reciprocal best (target best-matched by row403)); identifiers none usable give no panel hit	msp201_5.html row 437 (Gene Number 561)	Mukherjee2009
+AZM411895	MAIZE	HD-ZIP IV		unmapped	sequence: unmapped (identity 96.2<98.0; margin 1.1<2.0 over runner-up; not reciprocal best (target best-matched by row374)); identifiers none usable give no panel hit	msp201_5.html row 438 (Gene Number 562)	Mukherjee2009
+AZM423101	MAIZE	HD-ZIP IV		unmapped	sequence: unmapped (identity 84.0<98.0); identifiers none usable give no panel hit	msp201_5.html row 439 (Gene Number 563)	Mukherjee2009
+AZM459048	MAIZE	HD-ZIP IV		unmapped	sequence: unmapped (identity 95.1<98.0; coverage q=0.96/t=0.36<0.8); identifiers none usable give no panel hit	msp201_5.html row 440 (Gene Number 564)	Mukherjee2009
+PUBHC67TD	MAIZE	HD-ZIP IV		unmapped	sequence: unmapped (identity 94.9<98.0; coverage q=1.00/t=0.05<0.8; not reciprocal best (target best-matched by row444)); identifiers none usable give no panel hit	msp201_5.html row 441 (Gene Number 565)	Mukherjee2009
+AZM4118271	MAIZE	HD-ZIP 1		unmapped	sequence: unmapped (identity 85.9<98.0; not reciprocal best (target best-matched by row387)); identifiers none usable give no panel hit	msp201_5.html row 442 (Gene Number 566)	Mukherjee2009
+AZM459622	MAIZE	BEL		unmapped	sequence: unmapped (coverage q=1.00/t=0.37<0.8; not reciprocal best (target best-matched by row389)); identifiers none usable give no panel hit	msp201_5.html row 443 (Gene Number 567)	Mukherjee2009
+AZM4101813	MAIZE	HD-ZIP IV	A0A804NCA9	mapped	sequence_unique: RBH, thresholds met; margin 66.1	msp201_5.html row 444 (Gene Number 568)	Mukherjee2009
+AZM4125558	MAIZE	DDT		unmapped	sequence: unmapped (coverage q=0.95/t=0.13<0.8); identifiers none usable give no panel hit	msp201_5.html row 445 (Gene Number 569)	Mukherjee2009
+AZM4127189	MAIZE	PHD ZINC FINGER		unmapped	sequence: unmapped (coverage q=1.00/t=0.15<0.8); identifiers none usable give no panel hit	msp201_5.html row 446 (Gene Number 570)	Mukherjee2009
+AZM4136622	MAIZE	DDT		unmapped	sequence: unmapped (coverage q=0.91/t=0.13<0.8); identifiers none usable give no panel hit	msp201_5.html row 447 (Gene Number 571)	Mukherjee2009
+AZM470519	MAIZE	DDT		unmapped	sequence: unmapped (identity 86.6<98.0; coverage q=0.97/t=0.11<0.8); identifiers none usable give no panel hit	msp201_5.html row 448 (Gene Number 572)	Mukherjee2009
+AZM4102658	MAIZE	WOX		unmapped	sequence: unmapped (coverage q=1.00/t=0.80<0.8); identifiers none usable give no panel hit	msp201_5.html row 449 (Gene Number 574)	Mukherjee2009
+AZM418314	MAIZE	BEL		unmapped	sequence: unmapped (identity 84.0<98.0; coverage q=1.00/t=0.13<0.8; not reciprocal best (target best-matched by row642)); identifiers none usable give no panel hit	msp201_5.html row 450 (Gene Number 576)	Mukherjee2009
+AZM480132	MAIZE	HD-ZIP 1		unmapped	sequence: unmapped (identity 70.1<98.0); identifiers none usable give no panel hit	msp201_5.html row 451 (Gene Number 577)	Mukherjee2009
+AZM469136	MAIZE	PLINC	A0A804Q9Y9	mapped	sequence_unique: RBH, thresholds met; margin 31.3	msp201_5.html row 452 (Gene Number 579)	Mukherjee2009
+AZM469135	MAIZE	PLINC	A0A1D6KLI5	mapped	sequence_unique: RBH, thresholds met; margin 33.9	msp201_5.html row 453 (Gene Number 580)	Mukherjee2009
+AZM469137	MAIZE	PLINC		unmapped	sequence: unmapped (coverage q=0.80/t=1.00<0.8); identifiers none usable give no panel hit	msp201_5.html row 454 (Gene Number 581)	Mukherjee2009
+AZM4102039	MAIZE	PLINC	A0A804NKU4	mapped	sequence_unique: RBH, thresholds met; margin 54.5	msp201_5.html row 455 (Gene Number 582)	Mukherjee2009
+AZM4133887	MAIZE	PLINC	K7US38	mapped	sequence_unique: RBH, thresholds met; margin 31.3	msp201_5.html row 456 (Gene Number 583)	Mukherjee2009
+AZM440826	MAIZE	PLINC	K7VTF4	mapped	sequence_unique: RBH, thresholds met; margin 38.7	msp201_5.html row 457 (Gene Number 584)	Mukherjee2009
+AZM4102052	MAIZE	PLINC	A0A060CVP0	mapped	sequence_unique: RBH, thresholds met; margin 50.4	msp201_5.html row 458 (Gene Number 585)	Mukherjee2009
+AZM471437	MAIZE	PLINC	A0A804LWA7	mapped	sequence_exact: identical sequence	msp201_5.html row 459 (Gene Number 586)	Mukherjee2009
+AZM4112288	MAIZE	PLINC	A0A804QAB9	mapped	sequence_unique: RBH, thresholds met; margin 20.4	msp201_5.html row 460 (Gene Number 587)	Mukherjee2009
+AZM4103322	MAIZE	PLINC	A0A060CVL0	mapped	sequence_unique: RBH, thresholds met; margin 20.9	msp201_5.html row 461 (Gene Number 588)	Mukherjee2009
+AZM4125499	MAIZE	PLINC		unmapped	sequence: unmapped (coverage q=0.71/t=0.77<0.8); identifiers none usable give no panel hit	msp201_5.html row 462 (Gene Number 589)	Mukherjee2009
+AZM450375	MAIZE	PLINC		unmapped	sequence: unmapped (identity 97.9<98.0; coverage q=1.00/t=0.66<0.8); identifiers none usable give no panel hit	msp201_5.html row 463 (Gene Number 590)	Mukherjee2009
+AZM4143572	MAIZE	PLINC		unmapped	sequence: unmapped (coverage q=0.95/t=0.71<0.8); identifiers none usable give no panel hit	msp201_5.html row 464 (Gene Number 591)	Mukherjee2009
+AZM440689	MAIZE	PLINC	A0A060D582	mapped	sequence_exact: identical sequence	msp201_5.html row 465 (Gene Number 592)	Mukherjee2009
+AZM469305	MAIZE	PLINC	A0A1D6GJ08	mapped	sequence_exact: identical sequence	msp201_5.html row 466 (Gene Number 593)	Mukherjee2009
+AZM460603	MAIZE	PLINC		unmapped	sequence: unmapped (coverage q=0.68/t=0.15<0.8); identifiers none usable give no panel hit	msp201_5.html row 467 (Gene Number 594)	Mukherjee2009
+AZM435952	MAIZE	PLINC		unmapped	sequence: unmapped (identity 76.5<98.0; coverage q=0.83/t=0.28<0.8; margin -0.3<2.0 over runner-up; not reciprocal best (target best-matched by row460)); identifiers none usable give no panel hit	msp201_5.html row 468 (Gene Number 595)	Mukherjee2009
+AZM458776	MAIZE	HD-ZIP 2		unmapped	sequence: unmapped (identity 96.7<98.0; coverage q=0.84/t=0.25<0.8; not reciprocal best (target best-matched by row681)); identifiers none usable give no panel hit	msp201_5.html row 469 (Gene Number 596)	Mukherjee2009
+kip	MAIZE	BEL		unmapped	sequence: unmapped (identity 94.2<98.0); identifiers ['AAL92498'] give no panel hit	msp201_5.html row 470 (Gene Number 597)	Mukherjee2009
+AZM490167	MAIZE	NDX		unmapped	sequence: unmapped (identity 77.2<98.0; margin 1.5<2.0 over runner-up); identifiers none usable give no panel hit	msp201_5.html row 471 (Gene Number 600)	Mukherjee2009
+PF02183	ORYSJ	HD-ZIP 2		unmapped	sequence: unmapped (identity 74.8<98.0); identifiers ['LOC_Os05g50130'] give no panel hit	msp201_5.html row 473 (Gene Number 603)	Mukherjee2009
+AZM4669	MAIZE	HD-ZIP 2	A0A804NG85	mapped	sequence_unique: RBH, thresholds met; margin 31.1	msp201_5.html row 474 (Gene Number 604)	Mukherjee2009
+AZM456808	MAIZE	DDT		unmapped	sequence: unmapped (coverage q=1.00/t=0.06<0.8; not reciprocal best (target best-matched by row445)); identifiers none usable give no panel hit	msp201_5.html row 475 (Gene Number 605)	Mukherjee2009
+C770070	CHLRE	PINTOX		unmapped	sequence: unmapped (coverage q=0.87/t=0.68<0.8); identifiers none usable give no panel hit	msp201_5.html row 625 (Gene Number 761)	Mukherjee2009
+C460085	CHLRE	DDT		unmapped	sequence: unmapped (identity 90.5<98.0); identifiers none usable give no panel hit	msp201_5.html row 626 (Gene Number 762)	Mukherjee2009
+Gm_002_226607	SOYBN	PINTOX		unmapped	sequence: unmapped (coverage q=1.00/t=0.31<0.8); identifiers none usable give no panel hit	msp201_5.html row 641 (Gene Number 783)	Mukherjee2009
+134498.1	MAIZE	BEL		unmapped	sequence: unmapped (identity 94.5<98.0; coverage q=1.00/t=0.14<0.8); identifiers none usable give no panel hit	msp201_5.html row 642 (Gene Number 784)	Mukherjee2009
+NDX	PHAVU	NDX		unmapped	sequence: unmapped (coverage q=1.00/t=0.23<0.8; margin 0.0<2.0 over runner-up); identifiers none usable give no panel hit	msp201_5.html row 648 (Gene Number 792)	Mukherjee2009
+LD	PHAVU	LD		unmapped	sequence: unmapped (identity 88.7<98.0; coverage q=1.00/t=0.22<0.8); identifiers none usable give no panel hit	msp201_5.html row 652 (Gene Number 796)	Mukherjee2009
+LD	SOYBN	LD		unmapped	sequence: unmapped (coverage q=1.00/t=0.15<0.8); identifiers none usable give no panel hit	msp201_5.html row 655 (Gene Number 799)	Mukherjee2009
+H1	SOYBN	BEL		unmapped	sequence: unmapped (coverage q=1.00/t=0.30<0.8); identifiers none usable give no panel hit	msp201_5.html row 661 (Gene Number 807)	Mukherjee2009
+sawadee	MAIZE	SAWADEE		unmapped	sequence: unmapped (coverage q=1.00/t=0.67<0.8); identifiers none usable give no panel hit	msp201_5.html row 667 (Gene Number 818)	Mukherjee2009
+DR785099	MAIZE	SAWADEE	A0A804QAD0	mapped	sequence_unique: RBH, thresholds met; margin 58.2	msp201_5.html row 671 (Gene Number 822)	Mukherjee2009
+hox6	MAIZE	HD-ZIP 1		unmapped	sequence: unmapped (identity 61.5<98.0; coverage q=0.47/t=0.39<0.8; not reciprocal best (target best-matched by row372)); identifiers none usable give no panel hit	msp201_5.html row 672 (Gene Number 823)	Mukherjee2009
+TF1	MAIZE	HD-ZIP IV START		unmapped	sequence: unmapped (identity 84.2<98.0; coverage q=0.43/t=0.21<0.8; not reciprocal best (target best-matched by row444)); identifiers none usable give no panel hit	msp201_5.html row 673 (Gene Number 824)	Mukherjee2009
+azm411998	MAIZE	HD-ZIP IV		unmapped	sequence: unmapped (coverage q=0.87/t=0.51<0.8); identifiers none usable give no panel hit	msp201_5.html row 674 (Gene Number 825)	Mukherjee2009
+hox12	MAIZE	HD-ZIP 1	A0A804LFP0	mapped	sequence_exact: identical sequence	msp201_5.html row 675 (Gene Number 826)	Mukherjee2009
+hox7l	MAIZE	HD-ZIP 2		unmapped	sequence: unmapped (coverage q=1.00/t=0.53<0.8); identifiers none usable give no panel hit	msp201_5.html row 676 (Gene Number 827)	Mukherjee2009
+hat22l	MAIZE	HD-ZIP 2	A0A804LP87	mapped	sequence_exact: identical sequence	msp201_5.html row 677 (Gene Number 828)	Mukherjee2009
+OJ1017C11.5l	MAIZE	HD-ZIP 2		unmapped	sequence: unmapped (identity 97.3<98.0; coverage q=1.00/t=0.51<0.8; not reciprocal best (target best-matched by row378)); identifiers none usable give no panel hit	msp201_5.html row 678 (Gene Number 829)	Mukherjee2009
+hat4	MAIZE	HD-ZIP 2	A0A804MCA9	mapped	sequence_unique: RBH, thresholds met; margin 19.0	msp201_5.html row 679 (Gene Number 830)	Mukherjee2009
+LZ	MAIZE	HD-ZIP 2	A0A804PCN3	mapped	sequence_exact: identical sequence	msp201_5.html row 680 (Gene Number 831)	Mukherjee2009
+AZM426155	MAIZE	HD-ZIP 2	A0A1D6GUM4	mapped	sequence_unique: RBH, thresholds met; margin 19.1	msp201_5.html row 681 (Gene Number 832)	Mukherjee2009
+AZM415448	MAIZE	HD-ZIP 2	A0A1D6LP04	mapped	sequence_unique: RBH, thresholds met; margin 45.2	msp201_5.html row 682 (Gene Number 833)	Mukherjee2009
+hox10	MAIZE	HD-ZIP III		unmapped	sequence: unmapped (coverage q=0.52/t=0.27<0.8; not reciprocal best (target best-matched by row396)); identifiers none usable give no panel hit	msp201_5.html row 683 (Gene Number 834)	Mukherjee2009
+wox13	PHAVU	WOX		unmapped	sequence: unmapped (coverage q=1.00/t=0.59<0.8); identifiers none usable give no panel hit	msp201_5.html row 688 (Gene Number 843)	Mukherjee2009
+WOX13	SOYBN	WOX	I1JST9	mapped	sequence_unique: RBH, thresholds met; margin 6.5	msp201_5.html row 690 (Gene Number 845)	Mukherjee2009
+at3g01220	BRARP	HD-ZIP 1		unmapped	sequence: unmapped (coverage q=0.80/t=0.32<0.8; not reciprocal best (target best-matched by row727)); identifiers none usable give no panel hit	msp201_5.html row 706 (Gene Number 861)	Mukherjee2009
+at5g53980	BRARP	HD-ZIP 1	M4E1N7	mapped	sequence_exact: identical sequence	msp201_5.html row 709 (Gene Number 865)	Mukherjee2009
+prs	BRARP	WOX		unmapped	sequence: unmapped (coverage q=1.00/t=0.59<0.8); identifiers none usable give no panel hit	msp201_5.html row 717 (Gene Number 873)	Mukherjee2009
+WOX2	SOYBN	WOX		unmapped	sequence: unmapped (coverage q=1.00/t=0.76<0.8); identifiers none usable give no panel hit	msp201_5.html row 725 (Gene Number 887)	Mukherjee2009
+hat7	BRARP	HD_ZIP 1		unmapped	sequence: unmapped (identity 88.6<98.0; coverage q=0.91/t=0.48<0.8; margin -9.5<2.0 over runner-up); identifiers none usable give no panel hit	msp201_5.html row 727 (Gene Number 889)	Mukherjee2009
+HDZ2	PHAVU	HD-ZIP 1		unmapped	sequence: unmapped (identity 94.8<98.0); identifiers ['AAK84886'] give no panel hit	msp201_5.html row 746 (Gene Number 908)	Mukherjee2009
+hat1	BRARP	HD-ZIP 2	M4DLV8	mapped	sequence_exact: identical sequence	msp201_5.html row 747 (Gene Number 909)	Mukherjee2009
+sca_188	PHYPA	HD-ZIP III START MEKHLA	A0A7I4DSX6	mapped	sequence_unique: RBH, thresholds met; margin 8.9	msp201_5.html row 764 (Gene Number 926)	Mukherjee2009
+sca_55	PHYPA	HD-ZIP III START MEKHLA		unmapped	sequence: unmapped (identity 97.6<98.0); identifiers none usable give no panel hit	msp201_5.html row 765 (Gene Number 927)	Mukherjee2009
+sca_67	PHYPA	HD-ZIP III START MEKHLA	A0A7I3ZZX7	mapped	sequence_unique: RBH, thresholds met; margin 11.6	msp201_5.html row 766 (Gene Number 928)	Mukherjee2009
+sca_15	PHYPA	HD-ZIP III START MEKHLA		unmapped	sequence: unmapped (identity 95.4<98.0); identifiers none usable give no panel hit	msp201_5.html row 767 (Gene Number 929)	Mukherjee2009
+HDZ43	PHYPA	HD-ZIP IV START		unmapped	sequence: unmapped (identity 97.3<98.0; coverage q=0.75/t=0.78<0.8; not reciprocal best (target best-matched by row770)); identifiers none usable give no panel hit	msp201_5.html row 768 (Gene Number 930)	Mukherjee2009
+HDZ42	PHYPA	HD-ZIP IV START		unmapped	sequence: unmapped (identity 87.4<98.0; coverage q=0.80/t=0.73<0.8; margin 1.1<2.0 over runner-up; not reciprocal best (target best-matched by row771)); identifiers none usable give no panel hit	msp201_5.html row 769 (Gene Number 931)	Mukherjee2009
+HDZ41	PHYPA	HD-ZIP IV START		unmapped	sequence: unmapped (identity 96.4<98.0); identifiers none usable give no panel hit	msp201_5.html row 770 (Gene Number 932)	Mukherjee2009
+HDZ44	PHYPA	HD-ZIP IV START	A0A2K1L9I5	mapped	sequence_unique: RBH, thresholds met; margin 17.4	msp201_5.html row 771 (Gene Number 933)	Mukherjee2009
+sca_65a	PHYPA	HD-ZIP 1		unmapped	sequence: unmapped (identity 91.6<98.0); identifiers none usable give no panel hit	msp201_5.html row 772 (Gene Number 935)	Mukherjee2009
+sca_65b	PHYPA	HD-ZIP 1		unmapped	sequence: unmapped (identity 93.4<98.0); identifiers none usable give no panel hit	msp201_5.html row 773 (Gene Number 936)	Mukherjee2009
+sca_28	PHYPA	HD-ZIP 1		unmapped	sequence: unmapped (identity 85.4<98.0); identifiers none usable give no panel hit	msp201_5.html row 774 (Gene Number 937)	Mukherjee2009
+sca_31	PHYPA	HD-ZIP 1		unmapped	sequence: unmapped (identity 82.3<98.0; coverage q=0.53/t=0.98<0.8); identifiers none usable give no panel hit	msp201_5.html row 775 (Gene Number 938)	Mukherjee2009
+sca_154	PHYPA	HD-ZIP 1		unmapped	sequence: unmapped (coverage q=0.58/t=1.00<0.8); identifiers none usable give no panel hit	msp201_5.html row 776 (Gene Number 939)	Mukherjee2009
+sca_34	PHYPA	HD-ZIP 1		unmapped	sequence: unmapped (coverage q=0.72/t=1.00<0.8); identifiers none usable give no panel hit	msp201_5.html row 777 (Gene Number 940)	Mukherjee2009
+sca_35	PHYPA	HD-ZIP 1	A0A2K1K5M0	mapped	sequence_unique: RBH, thresholds met; margin 33.2	msp201_5.html row 778 (Gene Number 941)	Mukherjee2009
+sca_77	PHYPA	HD-ZIP 1		unmapped	sequence: unmapped (identity 93.1<98.0; coverage q=0.76/t=0.80<0.8); identifiers none usable give no panel hit	msp201_5.html row 779 (Gene Number 942)	Mukherjee2009
+sca_143	PHYPA	HD-ZIP 1		unmapped	sequence: unmapped (coverage q=0.60/t=0.98<0.8); identifiers none usable give no panel hit	msp201_5.html row 780 (Gene Number 943)	Mukherjee2009
+sca_4	PHYPA	HD-ZIP 1		unmapped	sequence: unmapped (identity 83.2<98.0); identifiers none usable give no panel hit	msp201_5.html row 781 (Gene Number 949)	Mukherjee2009
+sca_42	PHYPA	HD-ZIP 2		unmapped	sequence: unmapped (identity 81.2<98.0; margin 1.6<2.0 over runner-up); identifiers none usable give no panel hit	msp201_5.html row 782 (Gene Number 951)	Mukherjee2009
+sca_42b	PHYPA	HD-ZIP 2		unmapped	sequence: unmapped (coverage q=0.47/t=0.42<0.8; not reciprocal best (target best-matched by row285)); identifiers none usable give no panel hit	msp201_5.html row 783 (Gene Number 952)	Mukherjee2009
+sca_454	PHYPA	HD-ZIP 2		unmapped	sequence: unmapped (identity 83.2<98.0; margin 0.0<2.0 over runner-up); identifiers none usable give no panel hit	msp201_5.html row 784 (Gene Number 954)	Mukherjee2009
+sca_203	PHYPA	HD-ZIP 2	A0A2K1K481	mapped	sequence_unique: RBH, thresholds met; margin 19.1	msp201_5.html row 785 (Gene Number 955)	Mukherjee2009
+sca_53	PHYPA	HD-ZIP 2	A0A2K1KH98	mapped	sequence_unique: RBH, thresholds met; margin 11.6	msp201_5.html row 786 (Gene Number 956)	Mukherjee2009
+sca_230	PHYPA	PLINC		unmapped	sequence: unmapped (coverage q=0.43/t=0.25<0.8; not reciprocal best (target best-matched by row789)); identifiers none usable give no panel hit	msp201_5.html row 787 (Gene Number 958)	Mukherjee2009
+sca_491	PHYPA	PLINC		unmapped	sequence: unmapped (coverage q=0.95/t=0.70<0.8); identifiers none usable give no panel hit	msp201_5.html row 788 (Gene Number 959)	Mukherjee2009
+sca_165	PHYPA	PLINC		unmapped	sequence: unmapped (coverage q=1.00/t=0.78<0.8); identifiers none usable give no panel hit	msp201_5.html row 789 (Gene Number 960)	Mukherjee2009
+sca_153	PHYPA	PLINC		unmapped	sequence: unmapped (coverage q=0.78/t=0.78<0.8); identifiers none usable give no panel hit	msp201_5.html row 790 (Gene Number 961)	Mukherjee2009
+sca_3	PHYPA	PLINC	A0A2K1J0V6	mapped	sequence_exact: identical sequence	msp201_5.html row 791 (Gene Number 962)	Mukherjee2009
+PpZHD1	PHYPA	PLINC	Q4F944	mapped	sequence_exact: identical sequence	msp201_5.html row 792 (Gene Number 963)	Mukherjee2009
+sca_47	PHYPA	PLINC		unmapped	sequence: unmapped (identity 93.6<98.0; coverage q=0.29/t=0.71<0.8; not reciprocal best (target best-matched by row790)); identifiers none usable give no panel hit	msp201_5.html row 793 (Gene Number 964)	Mukherjee2009
+sca_12	PHYPA	PLINC		unmapped	sequence: unmapped (identity 92.9<98.0); identifiers none usable give no panel hit	msp201_5.html row 795 (Gene Number 966)	Mukherjee2009
+sca_259	PHYPA	PLINC		unmapped	sequence: unmapped (identity 56.1<98.0; coverage q=1.00/t=0.80<0.8); identifiers none usable give no panel hit	msp201_5.html row 796 (Gene Number 967)	Mukherjee2009
+sca_31a	PHYPA	PLINC		unmapped	sequence: unmapped (coverage q=1.00/t=0.43<0.8); identifiers none usable give no panel hit	msp201_5.html row 797 (Gene Number 968)	Mukherjee2009
+sca_13	PHYPA	PLINC		unmapped	sequence: unmapped (identity 74.1<98.0; coverage q=0.44/t=0.11<0.8; not reciprocal best (target best-matched by row789)); identifiers none usable give no panel hit	msp201_5.html row 798 (Gene Number 969)	Mukherjee2009
+sca_217	PHYPA	WOX		unmapped	sequence: unmapped (coverage q=0.58/t=0.36<0.8); identifiers none usable give no panel hit	msp201_5.html row 799 (Gene Number 970)	Mukherjee2009
+sca_224	PHYPA	WOX		unmapped	sequence: unmapped (identity 82.4<98.0; coverage q=0.81/t=0.53<0.8; not reciprocal best (target best-matched by row801)); identifiers none usable give no panel hit	msp201_5.html row 800 (Gene Number 971)	Mukherjee2009
+sca_29	PHYPA	WOX		unmapped	sequence: unmapped (identity 91.3<98.0); identifiers none usable give no panel hit	msp201_5.html row 801 (Gene Number 972)	Mukherjee2009
+sca_44	PHYPA	SAWADEE		unmapped	sequence: unmapped (coverage q=1.00/t=0.61<0.8); identifiers none usable give no panel hit	msp201_5.html row 802 (Gene Number 973)	Mukherjee2009
+sca_311	PHYPA	LD		unmapped	sequence: unmapped (identity 67.8<98.0; coverage q=0.72/t=0.69<0.8); identifiers none usable give no panel hit	msp201_5.html row 803 (Gene Number 974)	Mukherjee2009
+sca_20	PHYPA	PINTOX		unmapped	sequence: unmapped (coverage q=1.00/t=0.77<0.8); identifiers none usable give no panel hit	msp201_5.html row 804 (Gene Number 975)	Mukherjee2009
+sca_15b	PHYPA	DDT		unmapped	sequence: unmapped (identity 72.4<98.0); identifiers none usable give no panel hit	msp201_5.html row 805 (Gene Number 976)	Mukherjee2009
+sca_419	PHYPA	DDT		unmapped	sequence: unmapped (identity 82.0<98.0; coverage q=0.38/t=0.79<0.8); identifiers none usable give no panel hit	msp201_5.html row 806 (Gene Number 977)	Mukherjee2009
+sca_89	PHYPA	DDT		unmapped	sequence: unmapped (identity 81.7<98.0; coverage q=0.95/t=0.79<0.8); identifiers none usable give no panel hit	msp201_5.html row 807 (Gene Number 978)	Mukherjee2009
+sca_55b	PHYPA	PHD ZINC FINGER		unmapped	sequence: unmapped (identity 78.8<98.0; coverage q=0.76/t=0.86<0.8); identifiers none usable give no panel hit	msp201_5.html row 808 (Gene Number 979)	Mukherjee2009
+sca_99	PHYPA	NDX		unmapped	sequence: unmapped (identity 74.0<98.0); identifiers none usable give no panel hit	msp201_5.html row 809 (Gene Number 981)	Mukherjee2009
+sca_213	PHYPA	NDX		unmapped	sequence: unmapped (identity 81.4<98.0); identifiers none usable give no panel hit	msp201_5.html row 810 (Gene Number 982)	Mukherjee2009
+sca_258	PHYPA	BEL		unmapped	sequence: unmapped (identity 68.1<98.0; coverage q=1.00/t=0.54<0.8); identifiers none usable give no panel hit	msp201_5.html row 811 (Gene Number 983)	Mukherjee2009
+sca_220	PHYPA	BEL		unmapped	sequence: unmapped (identity 71.0<98.0; coverage q=1.00/t=0.56<0.8); identifiers none usable give no panel hit	msp201_5.html row 812 (Gene Number 984)	Mukherjee2009
+sca_115	PHYPA	BEL		unmapped	sequence: unmapped (identity 81.5<98.0; coverage q=0.50/t=0.51<0.8); identifiers none usable give no panel hit	msp201_5.html row 813 (Gene Number 985)	Mukherjee2009
+sca_52	PHYPA	BEL		unmapped	sequence: unmapped (coverage q=0.99/t=0.18<0.8); identifiers none usable give no panel hit	msp201_5.html row 814 (Gene Number 986)	Mukherjee2009
+sca_77b	PHYPA	TALE / KNOX		unmapped	sequence: unmapped (coverage q=0.71/t=0.73<0.8); identifiers none usable give no panel hit	msp201_5.html row 815 (Gene Number 988)	Mukherjee2009
+Os08g14400.1	ORYSJ	WOX	Q6Z3L4	mapped	sequence_exact: identical sequence	msp201_5.html row 817 (Gene Number 992)	Mukherjee2009
+sca_235	PHYPA	TALE / KNOX		unmapped	sequence: unmapped (coverage q=0.83/t=0.66<0.8); identifiers none usable give no panel hit	msp201_5.html row 819 (Gene Number 996)	Mukherjee2009
+22759	VITVI	DDT		unmapped	sequence: unmapped (coverage q=0.91/t=0.42<0.8); identifiers none usable give no panel hit	msp201_5.html row 820 (Gene Number 1012)	Mukherjee2009
+03176	VITVI	DDT		unmapped	sequence: unmapped (coverage q=0.37/t=0.84<0.8); identifiers none usable give no panel hit	msp201_5.html row 821 (Gene Number 1013)	Mukherjee2009
+28554	VITVI	DDT		unmapped	sequence: unmapped (identity 88.5<98.0; coverage q=0.61/t=0.97<0.8); identifiers ['CAN65380'] give no panel hit	msp201_5.html row 822 (Gene Number 1014)	Mukherjee2009
+006312	VITVI	PHD		unmapped	sequence: unmapped (coverage q=0.94/t=0.59<0.8); identifiers ['CAN68079'] give no panel hit	msp201_5.html row 823 (Gene Number 1016)	Mukherjee2009
+89717	OSTLU	DDT	A4SB05	mapped	sequence_exact: identical sequence	msp201_5.html row 825 (Gene Number 1018)	Mukherjee2009
+06666	VITVI	NDX		unmapped	sequence: unmapped (identity 95.4<98.0); identifiers ['CAN67843'] give no panel hit	msp201_5.html row 826 (Gene Number 1019)	Mukherjee2009
+Con_6100	VITVI	LD		unmapped	sequence: unmapped (identity 83.1<98.0); identifiers none usable give no panel hit	msp201_5.html row 827 (Gene Number 1020)	Mukherjee2009
+13721	VITVI	SAWADEE		unmapped	sequence: unmapped (identity 97.1<98.0); identifiers ['CAN77675'] give no panel hit	msp201_5.html row 828 (Gene Number 1021)	Mukherjee2009
+27102	OSTLU	WOX	A4S6F9	mapped	sequence_exact: identical sequence	msp201_5.html row 840 (Gene Number 1035)	Mukherjee2009
+33640	OSTLU	BEL	A4S314	mapped	sequence_exact: identical sequence	msp201_5.html row 847 (Gene Number 1042)	Mukherjee2009
+93841	OSTLU	BEL	A4S8X4	mapped	sequence_unique: RBH, thresholds met; margin 100.0	msp201_5.html row 848 (Gene Number 1043)	Mukherjee2009
+5313	OSTLU	TALE / KNOX	A4RWJ2	mapped	sequence_exact: identical sequence	msp201_5.html row 851 (Gene Number 1046)	Mukherjee2009
+135843	SELMO	TALE / KNOX	D8TAX1	mapped	sequence_unique: RBH, thresholds met; margin 33.7	msp201_5.html row 856 (Gene Number 1054)	Mukherjee2009
+90744	SELMO	TALE / KNOX	D8RD78	mapped	sequence_exact: identical sequence	msp201_5.html row 857 (Gene Number 1055)	Mukherjee2009
+18217	SELMO	HD-ZIP 2		unmapped	sequence: unmapped (coverage q=0.28/t=0.98<0.8); identifiers ['SELMODRAFT_18217'] give no panel hit	msp201_5.html row 858 (Gene Number 1056)	Mukherjee2009
+68227	SELMO	TALE / BEL	D8RCT5	mapped	exact_id: exact identifier mapping SELMODRAFT_68227->D8RCT5 (single hit in panel proteome); sequence: unmapped (identity 97.7<98.0; coverage q=0.34/t=1.00<0.8) [sequence best hit D8TB84 differs]	msp201_5.html row 859 (Gene Number 1057)	Mukherjee2009
+159366	SELMO	TALE / KNOX	D8SY74	mapped	sequence_exact: identical sequence	msp201_5.html row 860 (Gene Number 1058)	Mukherjee2009
+415291	SELMO	TALE / KNOX	D8RVM5	mapped	sequence_exact: identical sequence	msp201_5.html row 861 (Gene Number 1059)	Mukherjee2009
+39529	SELMO	TALE / KNOX		unmapped	sequence: unmapped (identity 83.0<98.0; coverage q=0.46/t=0.71<0.8); identifiers ['SELMODRAFT_39529'] give no panel hit	msp201_5.html row 862 (Gene Number 1060)	Mukherjee2009
+sca_40	SELMO	TALE		unmapped	sequence: unmapped (identity 50.0<98.0; coverage q=0.07/t=0.14<0.8; not reciprocal best (target best-matched by row862)); identifiers none usable give no panel hit	msp201_5.html row 864 (Gene Number 1062)	Mukherjee2009
+80869	SELMO	TALE / BEL	D8QYH2	mapped	sequence_exact: identical sequence	msp201_5.html row 865 (Gene Number 1063)	Mukherjee2009
+407891	SELMO	TALE	D8R539	mapped	sequence_exact: identical sequence	msp201_5.html row 866 (Gene Number 1064)	Mukherjee2009
+19476	SELMO	HD-ZIP 2	D8RLG4	mapped	exact_id: exact identifier mapping SELMODRAFT_19476->D8RLG4 (single hit in panel proteome); sequence: unmapped (identity 96.6<98.0; coverage q=0.29/t=0.90<0.8) [sequence best hit D8RMX9 differs]	msp201_5.html row 867 (Gene Number 1065)	Mukherjee2009
+422900	SELMO	DDT	D8SJX2	mapped	sequence_exact: identical sequence	msp201_5.html row 869 (Gene Number 1068)	Mukherjee2009
+438630	SELMO	PHD ZINC FINGER	D8QX61	mapped	sequence_exact: identical sequence	msp201_5.html row 870 (Gene Number 1069)	Mukherjee2009
+447019	SELMO	DDT	D8SW30	mapped	sequence_exact: identical sequence	msp201_5.html row 871 (Gene Number 1070)	Mukherjee2009
+270225	SELMO	HD-ZIP III START MEKHLA	D8QNI3	mapped	sequence_exact: identical sequence	msp201_5.html row 872 (Gene Number 1071)	Mukherjee2009
+270954	SELMO	HD-ZIP III START MEKHLA	D8RMG4	mapped	sequence_exact: identical sequence	msp201_5.html row 873 (Gene Number 1072)	Mukherjee2009
+77000	SELMO	HD-ZIP III START MEKHLA	D8QT80	mapped	sequence_exact: identical sequence	msp201_5.html row 874 (Gene Number 1073)	Mukherjee2009
+81609	SELMO	HD-ZIP 2	D8R0G9	mapped	sequence_exact: identical sequence	msp201_5.html row 875 (Gene Number 1074)	Mukherjee2009
+139631	SELMO	HD-ZIP 1	D8QQV4	mapped	sequence_exact: identical sequence	msp201_5.html row 876 (Gene Number 1075)	Mukherjee2009
+6792	SELMO	HD-ZIP 1	D8RD82	mapped	sequence_exact: identical sequence	msp201_5.html row 877 (Gene Number 1076)	Mukherjee2009
+405582	SELMO	SAWADEE	D8QZ18	mapped	sequence_exact: identical sequence	msp201_5.html row 878 (Gene Number 1077)	Mukherjee2009
+402076	SELMO	PINTOX	D8QPI1	mapped	exact_id: exact identifier mapping SELMODRAFT_402076->D8QPI1 (single hit in panel proteome); sequence: unmapped (identity 76.0<98.0; coverage q=0.65/t=0.50<0.8)	msp201_5.html row 879 (Gene Number 1078)	Mukherjee2009
+89770	SELMO	LD	D8RAQ4	mapped	sequence_exact: identical sequence	msp201_5.html row 880 (Gene Number 1079)	Mukherjee2009
+68508	SELMO	PLINC	D8R3P4	mapped	sequence_exact: identical sequence	msp201_5.html row 881 (Gene Number 1080)	Mukherjee2009
+85536	SELMO	PLINC	D8R5F8	mapped	sequence_exact: identical sequence	msp201_5.html row 882 (Gene Number 1081)	Mukherjee2009
+59934	SELMO	PLINC	D8SD39	mapped	sequence_exact: identical sequence	msp201_5.html row 883 (Gene Number 1082)	Mukherjee2009
+59936	SELMO	PLINC	D8S3H4	mapped	sequence_exact: identical sequence	msp201_5.html row 884 (Gene Number 1083)	Mukherjee2009
+17503	SELMO	PLINC	D8SEU6	mapped	sequence_exact: identical sequence	msp201_5.html row 885 (Gene Number 1084)	Mukherjee2009
+411966	SELMO	SAWADEE	D8RJL5	mapped	exact_id: exact identifier mapping SELMODRAFT_411966->D8RJL5 (single hit in panel proteome); sequence: unmapped (identity 79.0<98.0; coverage q=1.00/t=0.37<0.8)	msp201_5.html row 886 (Gene Number 1085)	Mukherjee2009
+4561	SELMO	WOX		unmapped	sequence: unmapped (coverage q=0.75/t=0.37<0.8); identifiers ['SELMODRAFT_4561'] give no panel hit	msp201_5.html row 887 (Gene Number 1086)	Mukherjee2009
+39729	SELMO	WOX		unmapped	sequence: unmapped (coverage q=1.00/t=0.26<0.8; margin 0.0<2.0 over runner-up); identifiers ['SELMODRAFT_39729'] give no panel hit	msp201_5.html row 888 (Gene Number 1087)	Mukherjee2009
+84611	SELMO	WOX		unmapped	sequence: unmapped (coverage q=0.94/t=0.24<0.8); identifiers ['SELMODRAFT_84611'] give no panel hit	msp201_5.html row 889 (Gene Number 1088)	Mukherjee2009
+417553	SELMO	WOX	D8S2U5	mapped	sequence_exact: identical sequence	msp201_5.html row 890 (Gene Number 1089)	Mukherjee2009
+115439	SELMO	WOX	D8SF49	mapped	sequence_exact: identical sequence	msp201_5.html row 891 (Gene Number 1090)	Mukherjee2009
+446032	SELMO	NDX	D8SN55	mapped	sequence_exact: identical sequence	msp201_5.html row 892 (Gene Number 1091)	Mukherjee2009
+39737	SELMO	WOX		unmapped	sequence: unmapped (coverage q=1.00/t=0.32<0.8); identifiers ['SELMODRAFT_39737'] give no panel hit	msp201_5.html row 893 (Gene Number 1092)	Mukherjee2009
+18196	SELMO	HD-ZIP 2	D8RGY1	mapped	sequence_exact: identical sequence	msp201_5.html row 894 (Gene Number 1093)	Mukherjee2009
+sca_89	SELMO	TALE		unmapped	sequence: unmapped (identity 47.1<98.0; coverage q=0.13/t=0.22<0.8; not reciprocal best (target best-matched by row896)); identifiers none usable give no panel hit	msp201_5.html row 895 (Gene Number 1094)	Mukherjee2009
+sca_10	SELMO	TALE		unmapped	sequence: unmapped (identity 72.3<98.0; coverage q=0.39/t=0.33<0.8); identifiers none usable give no panel hit	msp201_5.html row 896 (Gene Number 1095)	Mukherjee2009
+sca_119	SELMO	TALE		unmapped	sequence: unmapped (identity 46.0<98.0; coverage q=0.34/t=0.12<0.8; not reciprocal best (target best-matched by row856)); identifiers none usable give no panel hit	msp201_5.html row 897 (Gene Number 1098)	Mukherjee2009
+HDZ44	SELMO	HD-ZIP IV START		unmapped	sequence: ambiguous (margin 0.1<2.0 over runner-up); identifiers ['DAA05774'] give no panel hit	msp201_5.html row 898 (Gene Number 1099)	Mukherjee2009
+HDZ43	SELMO	HD-ZIP IV START	D8QT09	mapped	sequence_exact: identical sequence	msp201_5.html row 899 (Gene Number 1100)	Mukherjee2009
+HDZ42	SELMO	HD-ZIP IV START	D8SP82	mapped	sequence_unique: RBH, thresholds met; margin 2.3	msp201_5.html row 900 (Gene Number 1101)	Mukherjee2009
+HDZ41	SELMO	HD-ZIP IV START		unmapped	sequence: unmapped (identity 79.6<98.0; margin -9.1<2.0 over runner-up); identifiers ['DAA05771'] give no panel hit	msp201_5.html row 901 (Gene Number 1102)	Mukherjee2009
+1440000	SELMO	TALE / BEL		unmapped	sequence: unmapped (coverage q=0.43/t=0.38<0.8); identifiers ['SELMODRAFT_1440000'] give no panel hit	msp201_5.html row 902 (Gene Number 1105)	Mukherjee2009

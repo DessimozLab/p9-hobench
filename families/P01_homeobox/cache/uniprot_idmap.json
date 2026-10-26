@@ -1,0 +1,4446 @@
+{
+ "uniprot|AAA56900": [
+  {
+   "entry_name": "HAT14_ARATH",
+   "gene_name": "HAT14",
+   "id_type": "genbank_protein",
+   "length": "336",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAA56900",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "P46665"
+  }
+ ],
+ "uniprot|AAA56901": [
+  {
+   "entry_name": "HAT2_ARATH",
+   "gene_name": "HAT2",
+   "id_type": "genbank_protein",
+   "length": "283",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAA56901",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "P46601"
+  }
+ ],
+ "uniprot|AAC69146": [
+  {
+   "entry_name": "WOX9_ARATH",
+   "gene_name": "WOX9",
+   "id_type": "genbank_protein",
+   "length": "378",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAC69146",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q6X7J4"
+  }
+ ],
+ "uniprot|AAC69941": [
+  {
+   "entry_name": "HDG3_ARATH",
+   "gene_name": "HDG3",
+   "id_type": "genbank_protein",
+   "length": "725",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAC69941",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9ZV65"
+  }
+ ],
+ "uniprot|AAD13611": [
+  {
+   "entry_name": "Q9SYT6_MAIZE",
+   "gene_name": "lg3",
+   "id_type": "genbank_protein",
+   "length": "295",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAD13611",
+   "reviewed": "no",
+   "taxid": "4577",
+   "uniparc": "",
+   "uniprot_acc": "Q9SYT6"
+  }
+ ],
+ "uniprot|AAD37696": [
+  {
+   "entry_name": "HOX3_ORYSI",
+   "gene_name": "HOX3",
+   "id_type": "genbank_protein",
+   "length": "229",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "taxon_differs_from_requested(39947)",
+   "original_id": "AAD37696",
+   "reviewed": "yes",
+   "taxid": "39946",
+   "uniparc": "",
+   "uniprot_acc": "Q9XH38"
+  }
+ ],
+ "uniprot|AAD37697": [
+  {
+   "entry_name": "HOX4_ORYSI",
+   "gene_name": "HOX4",
+   "id_type": "genbank_protein",
+   "length": "277",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "taxon_differs_from_requested(39947)",
+   "original_id": "AAD37697",
+   "reviewed": "yes",
+   "taxid": "39946",
+   "uniparc": "",
+   "uniprot_acc": "Q9XH37"
+  }
+ ],
+ "uniprot|AAD37698": [
+  {
+   "entry_name": "HOX5_ORYSI",
+   "gene_name": "HOX5",
+   "id_type": "genbank_protein",
+   "length": "350",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "taxon_differs_from_requested(39947)",
+   "original_id": "AAD37698",
+   "reviewed": "yes",
+   "taxid": "39946",
+   "uniparc": "",
+   "uniprot_acc": "Q9XH36"
+  }
+ ],
+ "uniprot|AAD37699": [
+  {
+   "entry_name": "HOX6_ORYSI",
+   "gene_name": "HOX6",
+   "id_type": "genbank_protein",
+   "length": "249",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "taxon_differs_from_requested(39947)",
+   "original_id": "AAD37699",
+   "reviewed": "yes",
+   "taxid": "39946",
+   "uniparc": "",
+   "uniprot_acc": "Q9XH35"
+  }
+ ],
+ "uniprot|AAD39678": [
+  {
+   "entry_name": "SHH1_ARATH",
+   "gene_name": "SHH1",
+   "id_type": "genbank_protein",
+   "length": "258",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAD39678",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9XI47"
+  }
+ ],
+ "uniprot|AAD41726": [
+  {
+   "entry_name": "ATHB6_ARATH",
+   "gene_name": "ATHB-6",
+   "id_type": "genbank_protein",
+   "length": "311",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAD41726",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "P46668"
+  }
+ ],
+ "uniprot|AAD46064": [
+  {
+   "entry_name": "ATB16_ARATH",
+   "gene_name": "ATHB-16",
+   "id_type": "genbank_protein",
+   "length": "294",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAD46064",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q940J1"
+  }
+ ],
+ "uniprot|AAD47139": [
+  {
+   "entry_name": "ANL2_ARATH",
+   "gene_name": "ANL2",
+   "id_type": "genbank_protein",
+   "length": "802",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAD47139",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q0WV12"
+  }
+ ],
+ "uniprot|AAD51349": [
+  {
+   "entry_name": "BLH2_ARATH",
+   "gene_name": "BLH2",
+   "id_type": "genbank_protein",
+   "length": "739",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAD51349",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9SW80"
+  }
+ ],
+ "uniprot|AAF16763": [
+  {
+   "entry_name": "RLT1_ARATH",
+   "gene_name": "RLT1",
+   "id_type": "genbank_protein",
+   "length": "1705",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAF16763",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "F4HY56"
+  }
+ ],
+ "uniprot|AAF19752": [
+  {
+   "entry_name": "ATBH9_ARATH",
+   "gene_name": "ATHB-9",
+   "id_type": "genbank_protein",
+   "length": "841",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAF19752",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "O04292"
+  }
+ ],
+ "uniprot|AAF79854": [
+  {
+   "entry_name": "ATB54_ARATH",
+   "gene_name": "ATHB-54",
+   "id_type": "genbank_protein",
+   "length": "227",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 2,
+   "note": "",
+   "original_id": "AAF79854",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "P0CJ65"
+  },
+  {
+   "entry_name": "Y1705_ARATH",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "205",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 2,
+   "note": "",
+   "original_id": "AAF79854",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "P0CJ66"
+  }
+ ],
+ "uniprot|AAF80616": [
+  {
+   "entry_name": "WOX14_ARATH",
+   "gene_name": "WOX14",
+   "id_type": "genbank_protein",
+   "length": "211",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAF80616",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9LM84"
+  }
+ ],
+ "uniprot|AAF87007": [
+  {
+   "entry_name": "KNAT6_ARATH",
+   "gene_name": "KNAT6",
+   "id_type": "genbank_protein",
+   "length": "327",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAF87007",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q84JS6"
+  }
+ ],
+ "uniprot|AAG09302": [
+  {
+   "entry_name": "FWA_ARATH",
+   "gene_name": "HDG6",
+   "id_type": "genbank_protein",
+   "length": "686",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAG09302",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9FVI6"
+  }
+ ],
+ "uniprot|AAG13063": [
+  {
+   "entry_name": "BLH11_ARATH",
+   "gene_name": "BLH11",
+   "id_type": "genbank_protein",
+   "length": "290",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAG13063",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q1PFD1"
+  }
+ ],
+ "uniprot|AAG40858": [
+  {
+   "entry_name": "KNAT7_ARATH",
+   "gene_name": "KNAT7",
+   "id_type": "genbank_protein",
+   "length": "291",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAG40858",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9FPQ8"
+  }
+ ],
+ "uniprot|AAK00974": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "AAK00974",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|AAK43834": [
+  {
+   "entry_name": "BLH4_ARATH",
+   "gene_name": "BLH4",
+   "id_type": "genbank_protein",
+   "length": "627",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAK43834",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q94KL5"
+  }
+ ],
+ "uniprot|AAK43836": [
+  {
+   "entry_name": "BLH1_ARATH",
+   "gene_name": "BLH1",
+   "id_type": "genbank_protein",
+   "length": "680",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAK43836",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9SJ56"
+  }
+ ],
+ "uniprot|AAK61308": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "AAK61308",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|AAK61309": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "AAK61309",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|AAK62559": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "AAK62559",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|AAK84886": [
+  {
+   "entry_name": "Q93XA4_PHAVU",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "327",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAK84886",
+   "reviewed": "no",
+   "taxid": "3885",
+   "uniparc": "",
+   "uniprot_acc": "Q93XA4"
+  }
+ ],
+ "uniprot|AAK96704": [
+  {
+   "entry_name": "BEL1_ARATH",
+   "gene_name": "BEL1",
+   "id_type": "genbank_protein",
+   "length": "611",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAK96704",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q38897"
+  }
+ ],
+ "uniprot|AAL14119": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "AAL14119",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|AAL84311": [
+  {
+   "entry_name": "HOX21_ORYSJ",
+   "gene_name": "HOX21",
+   "id_type": "genbank_protein",
+   "length": "366",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAL84311",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q8S7W9"
+  }
+ ],
+ "uniprot|AAL92498": [
+  {
+   "entry_name": "Q8RXA9_MAIZE",
+   "gene_name": "kip",
+   "id_type": "genbank_protein",
+   "length": "359",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAL92498",
+   "reviewed": "no",
+   "taxid": "4577",
+   "uniparc": "",
+   "uniprot_acc": "Q8RXA9"
+  }
+ ],
+ "uniprot|AAM15780": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "AAM15780",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|AAM88627": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "AAM88627",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|AAM88945": [
+  {
+   "entry_name": "TF1_ORYSJ",
+   "gene_name": "TF1",
+   "id_type": "genbank_protein",
+   "length": "709",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAM88945",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5ZAY0"
+  }
+ ],
+ "uniprot|AAO00684": [
+  {
+   "entry_name": "HOX19_ORYSJ",
+   "gene_name": "HOX19",
+   "id_type": "genbank_protein",
+   "length": "292",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAO00684",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q8GRL4"
+  }
+ ],
+ "uniprot|AAO47728": [
+  {
+   "entry_name": "HOX2_ORYSI",
+   "gene_name": "HOX2",
+   "id_type": "genbank_protein",
+   "length": "308",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "taxon_differs_from_requested(39947)",
+   "original_id": "AAO47728",
+   "reviewed": "yes",
+   "taxid": "39946",
+   "uniparc": "",
+   "uniprot_acc": "Q84U86"
+  }
+ ],
+ "uniprot|AAO72604": [
+  {
+   "entry_name": "Q84P83_ORYSJ",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "300",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAO72604",
+   "reviewed": "no",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q84P83"
+  }
+ ],
+ "uniprot|AAP31409": [
+  {
+   "entry_name": "Q84N17_MAIZE",
+   "gene_name": "lg4a",
+   "id_type": "genbank_protein",
+   "length": "307",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAP31409",
+   "reviewed": "no",
+   "taxid": "4577",
+   "uniparc": "",
+   "uniprot_acc": "Q84N17"
+  }
+ ],
+ "uniprot|AAP37131": [
+  {
+   "entry_name": "WOX2_ARATH",
+   "gene_name": "WOX2",
+   "id_type": "genbank_protein",
+   "length": "260",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAP37131",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q6X7K1"
+  }
+ ],
+ "uniprot|AAP76320": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "AAP76320",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|AAP76321": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "AAP76321",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|AAQ55491": [
+  {
+   "entry_name": "Q6V9T0_ORYSI",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "292",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "taxon_differs_from_requested(39947)",
+   "original_id": "AAQ55491",
+   "reviewed": "no",
+   "taxid": "39946",
+   "uniparc": "",
+   "uniprot_acc": "Q6V9T0"
+  }
+ ],
+ "uniprot|AAQ55492": [
+  {
+   "entry_name": "HOX8_ORYSI",
+   "gene_name": "HOX8",
+   "id_type": "genbank_protein",
+   "length": "281",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "taxon_differs_from_requested(39947)",
+   "original_id": "AAQ55492",
+   "reviewed": "yes",
+   "taxid": "39946",
+   "uniparc": "",
+   "uniprot_acc": "Q6V9S9"
+  }
+ ],
+ "uniprot|AAR04340": [
+  {
+   "entry_name": "HOX10_ORYSJ",
+   "gene_name": "HOX10",
+   "id_type": "genbank_protein",
+   "length": "839",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAR04340",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6TAQ6"
+  }
+ ],
+ "uniprot|AAR87205": [
+  {
+   "entry_name": "KNOS5_ORYSJ",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "337",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAR87205",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q75LX9"
+  }
+ ],
+ "uniprot|AAR97952": [
+  {
+   "entry_name": "Q6RF30_MAIZE",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "840",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAR97952",
+   "reviewed": "no",
+   "taxid": "4577",
+   "uniparc": "",
+   "uniprot_acc": "Q6RF30"
+  }
+ ],
+ "uniprot|AAS68138": [
+  {
+   "entry_name": "HOX11_ORYSJ",
+   "gene_name": "HOX11",
+   "id_type": "genbank_protein",
+   "length": "362",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAS68138",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q67UE2"
+  }
+ ],
+ "uniprot|AAS83421": [
+  {
+   "entry_name": "HOX28_ORYSJ",
+   "gene_name": "HOX28",
+   "id_type": "genbank_protein",
+   "length": "256",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAS83421",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5VPE5"
+  }
+ ],
+ "uniprot|AAS83422": [
+  {
+   "entry_name": "HOX12_ORYSI",
+   "gene_name": "HOX12",
+   "id_type": "genbank_protein",
+   "length": "239",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "taxon_differs_from_requested(39947)",
+   "original_id": "AAS83422",
+   "reviewed": "yes",
+   "taxid": "39946",
+   "uniparc": "",
+   "uniprot_acc": "A2XDK5"
+  }
+ ],
+ "uniprot|AAT77402": [
+  {
+   "entry_name": "WOX12_ORYSJ",
+   "gene_name": "WOX12",
+   "id_type": "genbank_protein",
+   "length": "515",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAT77402",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "A3B6V0"
+  }
+ ],
+ "uniprot|AAT77875": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "AAT77875",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|AAT85055": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "AAT85055",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|AAV44211": [
+  {
+   "entry_name": "WOX2_ORYSJ",
+   "gene_name": "WOX2",
+   "id_type": "genbank_protein",
+   "length": "286",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "AAV44211",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5W7C3"
+  }
+ ],
+ "uniprot|AAW34245": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "AAW34245",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|AAZ07989": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "AAZ07989",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|AYO84367": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "AYO84367",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|BAA79223": [
+  {
+   "entry_name": "KNOS7_ORYSJ",
+   "gene_name": "OSH3",
+   "id_type": "genbank_protein",
+   "length": "365",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAA79223",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q948L5"
+  }
+ ],
+ "uniprot|BAA79225": [
+  {
+   "entry_name": "KNOS8_ORYSJ",
+   "gene_name": "OSH43",
+   "id_type": "genbank_protein",
+   "length": "341",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAA79225",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q10ED2"
+  }
+ ],
+ "uniprot|BAA79226": [
+  {
+   "entry_name": "KNOSA_ORYSJ",
+   "gene_name": "OSH71",
+   "id_type": "genbank_protein",
+   "length": "311",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAA79226",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7GDL5"
+  }
+ ],
+ "uniprot|BAB09842": [
+  {
+   "entry_name": "REV_ARATH",
+   "gene_name": "REV",
+   "id_type": "genbank_protein",
+   "length": "842",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAB09842",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9SE43"
+  }
+ ],
+ "uniprot|BAB55658": [
+  {
+   "entry_name": "KNOS2_ORYSJ",
+   "gene_name": "HOS58",
+   "id_type": "genbank_protein",
+   "length": "313",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAB55658",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0E3C3"
+  }
+ ],
+ "uniprot|BAB55660": [
+  {
+   "entry_name": "KNOS3_ORYSJ",
+   "gene_name": "HOS66",
+   "id_type": "genbank_protein",
+   "length": "314",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAB55660",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q94LW3"
+  }
+ ],
+ "uniprot|BAB61212": [
+  {
+   "entry_name": "ROC9_ORYSJ",
+   "gene_name": "ROC9",
+   "id_type": "genbank_protein",
+   "length": "816",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAB61212",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5JMF3"
+  }
+ ],
+ "uniprot|BAB64183": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "BAB64183",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|BAB84369": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "BAB84369",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|BAB85750": [
+  {
+   "entry_name": "ROC1_ORYSJ",
+   "gene_name": "ROC1",
+   "id_type": "genbank_protein",
+   "length": "784",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAB85750",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6ZAR0"
+  }
+ ],
+ "uniprot|BAB85943": [
+  {
+   "entry_name": "Q7GBX1_ORYSJ",
+   "gene_name": "qSH-1",
+   "id_type": "genbank_protein",
+   "length": "612",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAB85943",
+   "reviewed": "no",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7GBX1"
+  }
+ ],
+ "uniprot|BAB90504": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "BAB90504",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|BAB92205": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "BAB92205",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|BAC24807": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "BAC24807",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|BAC77156": [
+  {
+   "entry_name": "ROC3_ORYSJ",
+   "gene_name": "ROC3",
+   "id_type": "genbank_protein",
+   "length": "882",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAC77156",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q336P2"
+  }
+ ],
+ "uniprot|BAC77158": [
+  {
+   "entry_name": "ROC5_ORYSJ",
+   "gene_name": "ROC5",
+   "id_type": "genbank_protein",
+   "length": "804",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAC77158",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6EPF0"
+  }
+ ],
+ "uniprot|BAC77159": [
+  {
+   "entry_name": "ROC6_ORYSJ",
+   "gene_name": "ROC6",
+   "id_type": "genbank_protein",
+   "length": "872",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAC77159",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7Y0V7"
+  }
+ ],
+ "uniprot|BAC77161": [
+  {
+   "entry_name": "ROC8_ORYSJ",
+   "gene_name": "ROC8",
+   "id_type": "genbank_protein",
+   "length": "710",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAC77161",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q69T58"
+  }
+ ],
+ "uniprot|BAC79833": [
+  {
+   "entry_name": "HOX14_ORYSJ",
+   "gene_name": "HOX14",
+   "id_type": "genbank_protein",
+   "length": "240",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAC79833",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7XI85"
+  }
+ ],
+ "uniprot|BAC83419": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "BAC83419",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|BAD01388": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "BAD01388",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|BAD09869": [
+  {
+   "entry_name": "ZHD10_ORYSJ",
+   "gene_name": "ZHD10",
+   "id_type": "genbank_protein",
+   "length": "359",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD09869",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6Z528"
+  }
+ ],
+ "uniprot|BAD10283": [
+  {
+   "entry_name": "HOX20_ORYSJ",
+   "gene_name": "HOX20",
+   "id_type": "genbank_protein",
+   "length": "269",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD10283",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6Z248"
+  }
+ ],
+ "uniprot|BAD17827": [
+  {
+   "entry_name": "HOX27_ORYSJ",
+   "gene_name": "HOX27",
+   "id_type": "genbank_protein",
+   "length": "354",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD17827",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6YPD0"
+  }
+ ],
+ "uniprot|BAD25576": [
+  {
+   "entry_name": "HOX24_ORYSJ",
+   "gene_name": "HOX24",
+   "id_type": "genbank_protein",
+   "length": "261",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD25576",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6H6S3"
+  }
+ ],
+ "uniprot|BAD38043": [
+  {
+   "entry_name": "HOX26_ORYSJ",
+   "gene_name": "HOX26",
+   "id_type": "genbank_protein",
+   "length": "248",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD38043",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q67UX6"
+  }
+ ],
+ "uniprot|BAD53835": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "BAD53835",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|BAD54463": [
+  {
+   "entry_name": "HOX18_ORYSJ",
+   "gene_name": "HOX18",
+   "id_type": "genbank_protein",
+   "length": "256",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD54463",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5Z6F6"
+  }
+ ],
+ "uniprot|BAD69443": [
+  {
+   "entry_name": "ZHD5_ORYSJ",
+   "gene_name": "ZHD5",
+   "id_type": "genbank_protein",
+   "length": "232",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "BAD69443",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5VM82"
+  }
+ ],
+ "uniprot|CAB40992": [
+  {
+   "entry_name": "RLT3_ARATH",
+   "gene_name": "RLT3",
+   "id_type": "genbank_protein",
+   "length": "1131",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "CAB40992",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "F4JRF5"
+  }
+ ],
+ "uniprot|CAB45018": [
+  {
+   "entry_name": "HDG1_ARATH",
+   "gene_name": "HDG1",
+   "id_type": "genbank_protein",
+   "length": "808",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "CAB45018",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9M2E8"
+  }
+ ],
+ "uniprot|CAB51059": [
+  {
+   "entry_name": "Q9XGD7_MAIZE",
+   "gene_name": "ocl1",
+   "id_type": "genbank_protein",
+   "length": "784",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "CAB51059",
+   "reviewed": "no",
+   "taxid": "4577",
+   "uniparc": "",
+   "uniprot_acc": "Q9XGD7"
+  }
+ ],
+ "uniprot|CAB79752": [
+  {
+   "entry_name": "PRH_ARATH",
+   "gene_name": "PRH",
+   "id_type": "genbank_protein",
+   "length": "796",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "CAB79752",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "P48785"
+  }
+ ],
+ "uniprot|CAB96422": [
+  {
+   "entry_name": "Q9LEE9_MAIZE",
+   "gene_name": "ocl2",
+   "id_type": "genbank_protein",
+   "length": "725",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "CAB96422",
+   "reviewed": "no",
+   "taxid": "4577",
+   "uniparc": "",
+   "uniprot_acc": "Q9LEE9"
+  }
+ ],
+ "uniprot|CAB96423": [
+  {
+   "entry_name": "Q9LEE8_MAIZE",
+   "gene_name": "ocl3",
+   "id_type": "genbank_protein",
+   "length": "863",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "CAB96423",
+   "reviewed": "no",
+   "taxid": "4577",
+   "uniparc": "",
+   "uniprot_acc": "Q9LEE8"
+  }
+ ],
+ "uniprot|CAB96425": [
+  {
+   "entry_name": "Q9LEE6_MAIZE",
+   "gene_name": "ocl5",
+   "id_type": "genbank_protein",
+   "length": "795",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "CAB96425",
+   "reviewed": "no",
+   "taxid": "4577",
+   "uniparc": "",
+   "uniprot_acc": "Q9LEE6"
+  }
+ ],
+ "uniprot|CAD41267": [
+  {
+   "entry_name": "HOX22_ORYSJ",
+   "gene_name": "HOX22",
+   "id_type": "genbank_protein",
+   "length": "276",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "CAD41267",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7XUJ5"
+  }
+ ],
+ "uniprot|CAD88982": [
+  {
+   "entry_name": "WOX4_ORYSJ",
+   "gene_name": "WOX4",
+   "id_type": "genbank_protein",
+   "length": "236",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "CAD88982",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7XTV3"
+  }
+ ],
+ "uniprot|CAE05141": [
+  {
+   "entry_name": "HOX17_ORYSJ",
+   "gene_name": "HOX17",
+   "id_type": "genbank_protein",
+   "length": "247",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "CAE05141",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0JB92"
+  }
+ ],
+ "uniprot|CAN65380": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "CAN65380",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|CAN67843": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "CAN67843",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|CAN68079": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "CAN68079",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|CAN77675": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "CAN77675",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|DAA05771": [
+  {
+   "entry_name": "Q147T0_SELML",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "815",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "DAA05771",
+   "reviewed": "no",
+   "taxid": "88036",
+   "uniparc": "",
+   "uniprot_acc": "Q147T0"
+  }
+ ],
+ "uniprot|DAA05772": [
+  {
+   "entry_name": "Q147S9_SELML",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "694",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "DAA05772",
+   "reviewed": "no",
+   "taxid": "88036",
+   "uniparc": "",
+   "uniprot_acc": "Q147S9"
+  }
+ ],
+ "uniprot|DAA05773": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via EMBL-GenBank-DDBJ_CDS,EMBL-GenBank-DDBJ_CDS,RefSeq_Protein",
+   "original_id": "DAA05773",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|DAA05774": [
+  {
+   "entry_name": "Q147S7_SELML",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "786",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "DAA05774",
+   "reviewed": "no",
+   "taxid": "88036",
+   "uniparc": "",
+   "uniprot_acc": "Q147S7"
+  }
+ ],
+ "uniprot|DAA05778": [
+  {
+   "entry_name": "Q147S3_PHYPA",
+   "gene_name": "",
+   "id_type": "genbank_protein",
+   "length": "809",
+   "mapping_method": "EMBL-GenBank-DDBJ_CDS",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "DAA05778",
+   "reviewed": "no",
+   "taxid": "3218",
+   "uniparc": "",
+   "uniprot_acc": "Q147S3"
+  }
+ ],
+ "uniprot|LOC_Os01g10320": [
+  {
+   "entry_name": "HOX29_ORYSJ",
+   "gene_name": "HOX29",
+   "id_type": "gene_name",
+   "length": "868",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os01g10320",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5QMZ9"
+  }
+ ],
+ "uniprot|LOC_Os01g19694": [
+  {
+   "entry_name": "KNOS1_ORYSJ",
+   "gene_name": "OSH6",
+   "id_type": "gene_name",
+   "length": "301",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os01g19694",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q9FP29"
+  }
+ ],
+ "uniprot|LOC_Os01g44430": [
+  {
+   "entry_name": "ZHD5_ORYSJ",
+   "gene_name": "ZHD5",
+   "id_type": "gene_name",
+   "length": "232",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os01g44430",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5VM82"
+  }
+ ],
+ "uniprot|LOC_Os01g45570": [
+  {
+   "entry_name": "HOX3_ORYSJ",
+   "gene_name": "HOX3",
+   "id_type": "gene_name",
+   "length": "229",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os01g45570",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0JKX1"
+  }
+ ],
+ "uniprot|LOC_Os01g47710": [
+  {
+   "entry_name": "WOX7_ORYSJ",
+   "gene_name": "WOX7",
+   "id_type": "gene_name",
+   "length": "533",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os01g47710",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0JKK6"
+  }
+ ],
+ "uniprot|LOC_Os01g57890": [
+  {
+   "entry_name": "TF1_ORYSJ",
+   "gene_name": "TF1",
+   "id_type": "gene_name",
+   "length": "709",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os01g57890",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5ZAY0"
+  }
+ ],
+ "uniprot|LOC_Os01g60270": [
+  {
+   "entry_name": "WOX8_ORYSJ",
+   "gene_name": "WOX8",
+   "id_type": "gene_name",
+   "length": "267",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os01g60270",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5QMM3"
+  }
+ ],
+ "uniprot|LOC_Os01g62310": [
+  {
+   "entry_name": "WOX5_ORYSJ",
+   "gene_name": "WOX5",
+   "id_type": "gene_name",
+   "length": "313",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os01g62310",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q8LR86"
+  }
+ ],
+ "uniprot|LOC_Os01g62920": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g62920",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os01g63510": [
+  {
+   "entry_name": "WOX9_ORYSJ",
+   "gene_name": "WOX9",
+   "id_type": "gene_name",
+   "length": "200",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os01g63510",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q8W0F1"
+  }
+ ],
+ "uniprot|LOC_Os01g70810": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os01g70810",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g05450": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g05450",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g05640": [
+  {
+   "entry_name": "HOX26_ORYSJ",
+   "gene_name": "HOX26",
+   "id_type": "gene_name",
+   "length": "248",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os02g05640",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q67UX6"
+  }
+ ],
+ "uniprot|LOC_Os02g08544": [
+  {
+   "entry_name": "KNOS2_ORYSJ",
+   "gene_name": "HOS58",
+   "id_type": "gene_name",
+   "length": "313",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os02g08544",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0E3C3"
+  }
+ ],
+ "uniprot|LOC_Os02g13310": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os02g13310",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os02g35770": [
+  {
+   "entry_name": "HOX7_ORYSJ",
+   "gene_name": "HOX7",
+   "id_type": "gene_name",
+   "length": "349",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os02g35770",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0E0A6"
+  }
+ ],
+ "uniprot|LOC_Os02g43330": [
+  {
+   "entry_name": "HOX24_ORYSJ",
+   "gene_name": "HOX24",
+   "id_type": "gene_name",
+   "length": "261",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os02g43330",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6H6S3"
+  }
+ ],
+ "uniprot|LOC_Os02g45250": [
+  {
+   "entry_name": "ROC5_ORYSJ",
+   "gene_name": "ROC5",
+   "id_type": "gene_name",
+   "length": "804",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os02g45250",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6EPF0"
+  }
+ ],
+ "uniprot|LOC_Os02g47770": [
+  {
+   "entry_name": "ZHD7_ORYSJ",
+   "gene_name": "ZHD7",
+   "id_type": "gene_name",
+   "length": "427",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os02g47770",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q8S3Q9"
+  }
+ ],
+ "uniprot|LOC_Os02g49700": [
+  {
+   "entry_name": "HOX16_ORYSJ",
+   "gene_name": "HOX16",
+   "id_type": "gene_name",
+   "length": "343",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os02g49700",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6YWR4"
+  }
+ ],
+ "uniprot|LOC_Os03g01890": [
+  {
+   "entry_name": "HOX10_ORYSJ",
+   "gene_name": "HOX10",
+   "id_type": "gene_name",
+   "length": "839",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g01890",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6TAQ6"
+  }
+ ],
+ "uniprot|LOC_Os03g03164": [
+  {
+   "entry_name": "KNOS3_ORYSJ",
+   "gene_name": "HOS66",
+   "id_type": "gene_name",
+   "length": "314",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g03164",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q94LW3"
+  }
+ ],
+ "uniprot|LOC_Os03g03260": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g03260",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g06930": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g06930",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g07450": [
+  {
+   "entry_name": "HOX21_ORYSJ",
+   "gene_name": "HOX21",
+   "id_type": "gene_name",
+   "length": "366",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g07450",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q8S7W9"
+  }
+ ],
+ "uniprot|LOC_Os03g08960": [
+  {
+   "entry_name": "HOX13_ORYSJ",
+   "gene_name": "HOX13",
+   "id_type": "gene_name",
+   "length": "311",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g08960",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q10QP3"
+  }
+ ],
+ "uniprot|LOC_Os03g10210": [
+  {
+   "entry_name": "HOX12_ORYSJ",
+   "gene_name": "HOX12",
+   "id_type": "gene_name",
+   "length": "239",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g10210",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q10QF2"
+  }
+ ],
+ "uniprot|LOC_Os03g12860": [
+  {
+   "entry_name": "HOX19_ORYSJ",
+   "gene_name": "HOX19",
+   "id_type": "gene_name",
+   "length": "292",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g12860",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q8GRL4"
+  }
+ ],
+ "uniprot|LOC_Os03g20910": [
+  {
+   "entry_name": "WOX6_ORYSJ",
+   "gene_name": "WOX6",
+   "id_type": "gene_name",
+   "length": "328",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g20910",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q10M29"
+  }
+ ],
+ "uniprot|LOC_Os03g43930": [
+  {
+   "entry_name": "HOX32_ORYSJ",
+   "gene_name": "HOX32",
+   "id_type": "gene_name",
+   "length": "859",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g43930",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6AST1"
+  }
+ ],
+ "uniprot|LOC_Os03g47016": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g47016",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g47036": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g47036",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g47730": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g47730",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g47740": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g47740",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g50920": [
+  {
+   "entry_name": "ZHD11_ORYSJ",
+   "gene_name": "ZHD11",
+   "id_type": "gene_name",
+   "length": "238",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g50920",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q10DV5"
+  }
+ ],
+ "uniprot|LOC_Os03g51690": [
+  {
+   "entry_name": "KNOS6_ORYSJ",
+   "gene_name": "OSH1",
+   "id_type": "gene_name",
+   "length": "361",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g51690",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "P46609"
+  }
+ ],
+ "uniprot|LOC_Os03g51710": [
+  {
+   "entry_name": "KNOS7_ORYSJ",
+   "gene_name": "OSH3",
+   "id_type": "gene_name",
+   "length": "365",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g51710",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q948L5"
+  }
+ ],
+ "uniprot|LOC_Os03g52239": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os03g52239",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os03g56110": [
+  {
+   "entry_name": "KNOS8_ORYSJ",
+   "gene_name": "OSH43",
+   "id_type": "gene_name",
+   "length": "341",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os03g56110",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q10ED2"
+  }
+ ],
+ "uniprot|LOC_Os04g35500": [
+  {
+   "entry_name": "ZHD8_ORYSJ",
+   "gene_name": "ZHD8",
+   "id_type": "gene_name",
+   "length": "283",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os04g35500",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7X7N3"
+  }
+ ],
+ "uniprot|LOC_Os04g45810": [
+  {
+   "entry_name": "HOX22_ORYSJ",
+   "gene_name": "HOX22",
+   "id_type": "gene_name",
+   "length": "276",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os04g45810",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7XUJ5"
+  }
+ ],
+ "uniprot|LOC_Os04g46350": [
+  {
+   "entry_name": "HOX17_ORYSJ",
+   "gene_name": "HOX17",
+   "id_type": "gene_name",
+   "length": "247",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os04g46350",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0JB92"
+  }
+ ],
+ "uniprot|LOC_Os04g48070": [
+  {
+   "entry_name": "ROC4_ORYSJ",
+   "gene_name": "ROC4",
+   "id_type": "gene_name",
+   "length": "813",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os04g48070",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7Y0V9"
+  }
+ ],
+ "uniprot|LOC_Os04g53540": [
+  {
+   "entry_name": "ROC2_ORYSJ",
+   "gene_name": "ROC2",
+   "id_type": "gene_name",
+   "length": "784",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os04g53540",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0J9X2"
+  }
+ ],
+ "uniprot|LOC_Os04g55590": [
+  {
+   "entry_name": "WOX4_ORYSJ",
+   "gene_name": "WOX4",
+   "id_type": "gene_name",
+   "length": "236",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os04g55590",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7XTV3"
+  }
+ ],
+ "uniprot|LOC_Os04g56780": [
+  {
+   "entry_name": "WOX1_ORYSJ",
+   "gene_name": "WOX1",
+   "id_type": "gene_name",
+   "length": "289",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os04g56780",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7XM13"
+  }
+ ],
+ "uniprot|LOC_Os05g02730": [
+  {
+   "entry_name": "WOX2_ORYSJ",
+   "gene_name": "WOX2",
+   "id_type": "gene_name",
+   "length": "286",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os05g02730",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5W7C3"
+  }
+ ],
+ "uniprot|LOC_Os05g03884": [
+  {
+   "entry_name": "KNOSA_ORYSJ",
+   "gene_name": "OSH71",
+   "id_type": "gene_name",
+   "length": "311",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os05g03884",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7GDL5"
+  }
+ ],
+ "uniprot|LOC_Os05g09630": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os05g09630",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os05g38120": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os05g38120",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os05g48820": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os05g48820",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os05g50130": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os05g50130",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os05g50310": [
+  {
+   "entry_name": "ZHD6_ORYSJ",
+   "gene_name": "ZHD6",
+   "id_type": "gene_name",
+   "length": "255",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os05g50310",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q688U3"
+  }
+ ],
+ "uniprot|LOC_Os06g01934": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os06g01934",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os06g04850": [
+  {
+   "entry_name": "HOX28_ORYSJ",
+   "gene_name": "HOX28",
+   "id_type": "gene_name",
+   "length": "256",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os06g04850",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5VPE5"
+  }
+ ],
+ "uniprot|LOC_Os06g04870": [
+  {
+   "entry_name": "HOX2_ORYSJ",
+   "gene_name": "HOX2",
+   "id_type": "gene_name",
+   "length": "308",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os06g04870",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5VPE3"
+  }
+ ],
+ "uniprot|LOC_Os06g10600": [
+  {
+   "entry_name": "ROC8_ORYSJ",
+   "gene_name": "ROC8",
+   "id_type": "gene_name",
+   "length": "710",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os06g10600",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q69T58"
+  }
+ ],
+ "uniprot|LOC_Os06g12400": [
+  {
+   "entry_name": "HAZ1_ORYSJ",
+   "gene_name": "HAZ1",
+   "id_type": "gene_name",
+   "length": "792",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os06g12400",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q8H991"
+  }
+ ],
+ "uniprot|LOC_Os06g29020": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os06g29020",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os06g36680": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os06g36680",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os06g39906": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os06g39906",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os06g43860": [
+  {
+   "entry_name": "KNOSB_ORYSJ",
+   "gene_name": "HOS59",
+   "id_type": "gene_name",
+   "length": "323",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os06g43860",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q94LW4"
+  }
+ ],
+ "uniprot|LOC_Os06g48290": [
+  {
+   "entry_name": "HOX18_ORYSJ",
+   "gene_name": "HOX18",
+   "id_type": "gene_name",
+   "length": "256",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os06g48290",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q5Z6F6"
+  }
+ ],
+ "uniprot|LOC_Os07g03770": [
+  {
+   "entry_name": "KNOSC_ORYSJ",
+   "gene_name": "OSH15",
+   "id_type": "gene_name",
+   "length": "355",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os07g03770",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "O80416"
+  }
+ ],
+ "uniprot|LOC_Os07g24350": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os07g24350",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os07g34880": [
+  {
+   "entry_name": "WOX13_ORYSJ",
+   "gene_name": "WOX13",
+   "id_type": "gene_name",
+   "length": "306",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os07g34880",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "A3BKM2"
+  }
+ ],
+ "uniprot|LOC_Os07g39320": [
+  {
+   "entry_name": "HOX14_ORYSJ",
+   "gene_name": "HOX14",
+   "id_type": "gene_name",
+   "length": "240",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os07g39320",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7XI85"
+  }
+ ],
+ "uniprot|LOC_Os07g48560": [
+  {
+   "entry_name": "WOX11_ORYSJ",
+   "gene_name": "WOX11",
+   "id_type": "gene_name",
+   "length": "262",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os07g48560",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0D3I7"
+  }
+ ],
+ "uniprot|LOC_Os08g04190": [
+  {
+   "entry_name": "ROC7_ORYSJ",
+   "gene_name": "ROC7",
+   "id_type": "gene_name",
+   "length": "749",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os08g04190",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "A3BPF2"
+  }
+ ],
+ "uniprot|LOC_Os08g08820": [
+  {
+   "entry_name": "ROC1_ORYSJ",
+   "gene_name": "ROC1",
+   "id_type": "gene_name",
+   "length": "784",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os08g08820",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6ZAR0"
+  }
+ ],
+ "uniprot|LOC_Os08g14400": [
+  {
+   "entry_name": "WOX10_ORYSJ",
+   "gene_name": "WOX10",
+   "id_type": "gene_name",
+   "length": "284",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os08g14400",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6Z3L4"
+  }
+ ],
+ "uniprot|LOC_Os08g19590": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os08g19590",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os08g19650": [
+  {
+   "entry_name": "KNOSD_ORYSJ",
+   "gene_name": "OSH45",
+   "id_type": "gene_name",
+   "length": "374",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os08g19650",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q0J6N4"
+  }
+ ],
+ "uniprot|LOC_Os08g32080": [
+  {
+   "entry_name": "HOX5_ORYSJ",
+   "gene_name": "HOX5",
+   "id_type": "gene_name",
+   "length": "349",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os08g32080",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6ZA74"
+  }
+ ],
+ "uniprot|LOC_Os08g32990": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os08g32990",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os08g34010": [
+  {
+   "entry_name": "ZHD10_ORYSJ",
+   "gene_name": "ZHD10",
+   "id_type": "gene_name",
+   "length": "359",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os08g34010",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6Z528"
+  }
+ ],
+ "uniprot|LOC_Os08g36220": [
+  {
+   "entry_name": "HOX27_ORYSJ",
+   "gene_name": "HOX27",
+   "id_type": "gene_name",
+   "length": "354",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os08g36220",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6YPD0"
+  }
+ ],
+ "uniprot|LOC_Os08g37400": [
+  {
+   "entry_name": "ZHD2_ORYSJ",
+   "gene_name": "ZHD2",
+   "id_type": "gene_name",
+   "length": "290",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os08g37400",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6ZB90"
+  }
+ ],
+ "uniprot|LOC_Os08g37580": [
+  {
+   "entry_name": "HOX20_ORYSJ",
+   "gene_name": "HOX20",
+   "id_type": "gene_name",
+   "length": "269",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os08g37580",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6Z248"
+  }
+ ],
+ "uniprot|LOC_Os09g21180": [
+  {
+   "entry_name": "HOX25_ORYSJ",
+   "gene_name": "HOX25",
+   "id_type": "gene_name",
+   "length": "320",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os09g21180",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "A3BYC1"
+  }
+ ],
+ "uniprot|LOC_Os09g24820": [
+  {
+   "entry_name": "ZHD9_ORYSJ",
+   "gene_name": "ZHD9",
+   "id_type": "gene_name",
+   "length": "341",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os09g24820",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6ER21"
+  }
+ ],
+ "uniprot|LOC_Os09g27450": [
+  {
+   "entry_name": "HOX11_ORYSJ",
+   "gene_name": "HOX11",
+   "id_type": "gene_name",
+   "length": "362",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os09g27450",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q67UE2"
+  }
+ ],
+ "uniprot|LOC_Os09g29130": [
+  {
+   "entry_name": "ZHD1_ORYSJ",
+   "gene_name": "ZHD1",
+   "id_type": "gene_name",
+   "length": "279",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os09g29130",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6YXH5"
+  }
+ ],
+ "uniprot|LOC_Os09g29460": [
+  {
+   "entry_name": "HOX4_ORYSJ",
+   "gene_name": "HOX4",
+   "id_type": "gene_name",
+   "length": "277",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os09g29460",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q6K498"
+  }
+ ],
+ "uniprot|LOC_Os09g35760": [
+  {
+   "entry_name": "ROC6_ORYSJ",
+   "gene_name": "ROC6",
+   "id_type": "gene_name",
+   "length": "872",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os09g35760",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7Y0V7"
+  }
+ ],
+ "uniprot|LOC_Os09g35910": [
+  {
+   "entry_name": "HOX6_ORYSJ",
+   "gene_name": "HOX6",
+   "id_type": "gene_name",
+   "length": "249",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os09g35910",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q651Z5"
+  }
+ ],
+ "uniprot|LOC_Os10g01470": [
+  {
+   "entry_name": "HOX15_ORYSJ",
+   "gene_name": "HOX15",
+   "id_type": "gene_name",
+   "length": "247",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os10g01470",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7G737"
+  }
+ ],
+ "uniprot|LOC_Os10g23090": [
+  {
+   "entry_name": "HOX8_ORYSJ",
+   "gene_name": "HOX8",
+   "id_type": "gene_name",
+   "length": "305",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os10g23090",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q338Z7"
+  }
+ ],
+ "uniprot|LOC_Os10g26500": [
+  {
+   "entry_name": "HOX23_ORYSJ",
+   "gene_name": "HOX23",
+   "id_type": "gene_name",
+   "length": "351",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os10g26500",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q94GL5"
+  }
+ ],
+ "uniprot|LOC_Os10g33960": [
+  {
+   "entry_name": "HOX9_ORYSJ",
+   "gene_name": "HOX9",
+   "id_type": "gene_name",
+   "length": "840",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os10g33960",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q9AV49"
+  }
+ ],
+ "uniprot|LOC_Os10g39030": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os10g39030",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os10g41230": [
+  {
+   "entry_name": "HOX1_ORYSJ",
+   "gene_name": "HOX1",
+   "id_type": "gene_name",
+   "length": "311",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os10g41230",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q7XC54"
+  }
+ ],
+ "uniprot|LOC_Os10g42490": [
+  {
+   "entry_name": "ROC3_ORYSJ",
+   "gene_name": "ROC3",
+   "id_type": "gene_name",
+   "length": "882",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os10g42490",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q336P2"
+  }
+ ],
+ "uniprot|LOC_Os11g01130": [
+  {
+   "entry_name": "WOX3_ORYSJ",
+   "gene_name": "WOX3; ",
+   "id_type": "gene_name",
+   "length": "203",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os11g01130",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q33DK1"
+  }
+ ],
+ "uniprot|LOC_Os11g06020": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os11g06020",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os12g01120": [
+  {
+   "entry_name": "WOX3_ORYSJ",
+   "gene_name": "WOX3; ",
+   "id_type": "gene_name",
+   "length": "203",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os12g01120",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q33DK1"
+  }
+ ],
+ "uniprot|LOC_Os12g06340": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os12g06340",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|LOC_Os12g10630": [
+  {
+   "entry_name": "ZHD3_ORYSJ",
+   "gene_name": "ZHD3",
+   "id_type": "gene_name",
+   "length": "329",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os12g10630",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q2QW44"
+  }
+ ],
+ "uniprot|LOC_Os12g41860": [
+  {
+   "entry_name": "HOX33_ORYSJ",
+   "gene_name": "HOX33",
+   "id_type": "gene_name",
+   "length": "855",
+   "mapping_method": "Gene_Name+taxon=39947",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "LOC_Os12g41860",
+   "reviewed": "yes",
+   "taxid": "39947",
+   "uniparc": "",
+   "uniprot_acc": "Q2QM96"
+  }
+ ],
+ "uniprot|LOC_Os12g43950": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "gene_name",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via Gene_Name",
+   "original_id": "LOC_Os12g43950",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_172015": [
+  {
+   "entry_name": "HDG2_ARATH",
+   "gene_name": "HDG2",
+   "id_type": "refseq_protein",
+   "length": "721",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_172015",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q94C37"
+  }
+ ],
+ "uniprot|NP_173400": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_173400",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_174724": [
+  {
+   "entry_name": "HDG10_ARATH",
+   "gene_name": "HDG10",
+   "id_type": "refseq_protein",
+   "length": "708",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_174724",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9S9Z0"
+  }
+ ],
+ "uniprot|NP_175145": [
+  {
+   "entry_name": "WOX4_ARATH",
+   "gene_name": "WOX4",
+   "id_type": "refseq_protein",
+   "length": "251",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_175145",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q6X7J9"
+  }
+ ],
+ "uniprot|NP_175627": [
+  {
+   "entry_name": "ATB15_ARATH",
+   "gene_name": "ATHB-15",
+   "id_type": "refseq_protein",
+   "length": "836",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_175627",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9ZU11"
+  }
+ ],
+ "uniprot|NP_177118": [
+  {
+   "entry_name": "ZHD11_ARATH",
+   "gene_name": "ZHD11",
+   "id_type": "refseq_protein",
+   "length": "242",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_177118",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9SEZ1"
+  }
+ ],
+ "uniprot|NP_177136": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_177136",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_177208": [
+  {
+   "entry_name": "KNAT2_ARATH",
+   "gene_name": "KNAT2",
+   "id_type": "refseq_protein",
+   "length": "310",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_177208",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "P46640"
+  }
+ ],
+ "uniprot|NP_177248": [
+  {
+   "entry_name": "A9Z1E8_ARATH",
+   "gene_name": "ATHB18",
+   "id_type": "refseq_protein",
+   "length": "206",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_177248",
+   "reviewed": "no",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "A9Z1E8"
+  }
+ ],
+ "uniprot|NP_177479": [
+  {
+   "entry_name": "HDG11_ARATH",
+   "gene_name": "HDG11",
+   "id_type": "refseq_protein",
+   "length": "722",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_177479",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9FX31"
+  }
+ ],
+ "uniprot|NP_177674": [
+  {
+   "entry_name": "BLH3_ARATH",
+   "gene_name": "BLH3",
+   "id_type": "refseq_protein",
+   "length": "524",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_177674",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9FWS9"
+  }
+ ],
+ "uniprot|NP_178252": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_178252",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_179233": [
+  {
+   "entry_name": "BLH7_ARATH",
+   "gene_name": "BLH7",
+   "id_type": "refseq_protein",
+   "length": "482",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_179233",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9SIW1"
+  }
+ ],
+ "uniprot|NP_179445": [
+  {
+   "entry_name": "ATB21_ARATH",
+   "gene_name": "ATHB-21",
+   "id_type": "refseq_protein",
+   "length": "220",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_179445",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9ZU70"
+  }
+ ],
+ "uniprot|NP_179865": [
+  {
+   "entry_name": "HAT9_ARATH",
+   "gene_name": "HAT9",
+   "id_type": "refseq_protein",
+   "length": "274",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_179865",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "P46603"
+  }
+ ],
+ "uniprot|NP_180290": [
+  {
+   "entry_name": "BLH5_ARATH",
+   "gene_name": "BLH5",
+   "id_type": "refseq_protein",
+   "length": "431",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_180290",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q8S897"
+  }
+ ],
+ "uniprot|NP_180366": [
+  {
+   "entry_name": "BLH8_ARATH",
+   "gene_name": "BLH8",
+   "id_type": "refseq_protein",
+   "length": "584",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_180366",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9SJJ3"
+  }
+ ],
+ "uniprot|NP_181018": [
+  {
+   "entry_name": "ATB14_ARATH",
+   "gene_name": "ATHB-14",
+   "id_type": "refseq_protein",
+   "length": "852",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_181018",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "O04291"
+  }
+ ],
+ "uniprot|NP_182018": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_182018",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_186771": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_186771",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_186796": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_186796",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_186976": [
+  {
+   "entry_name": "HDG8_ARATH",
+   "gene_name": "HDG8",
+   "id_type": "refseq_protein",
+   "length": "699",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_186976",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9M9P4"
+  }
+ ],
+ "uniprot|NP_187735": [
+  {
+   "entry_name": "WOX5_ARATH",
+   "gene_name": "WOX5",
+   "id_type": "refseq_protein",
+   "length": "182",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_187735",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q8H1D2"
+  }
+ ],
+ "uniprot|NP_188428": [
+  {
+   "entry_name": "WOX1_ARATH",
+   "gene_name": "WOX1",
+   "id_type": "refseq_protein",
+   "length": "350",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_188428",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q6X7K0"
+  }
+ ],
+ "uniprot|NP_190658": [
+  {
+   "entry_name": "ZHD7_ARATH",
+   "gene_name": "ZHD7",
+   "id_type": "refseq_protein",
+   "length": "249",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_190658",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9SVL0"
+  }
+ ],
+ "uniprot|NP_191598": [
+  {
+   "entry_name": "HAT3_ARATH",
+   "gene_name": "HAT3",
+   "id_type": "refseq_protein",
+   "length": "315",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_191598",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "P46602"
+  }
+ ],
+ "uniprot|NP_191748": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_191748",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_192555": [
+  {
+   "entry_name": "KNAT1_ARATH",
+   "gene_name": "KNAT1",
+   "id_type": "refseq_protein",
+   "length": "398",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_192555",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "P46639"
+  }
+ ],
+ "uniprot|NP_193476": [
+  {
+   "entry_name": "HAT1_ARATH",
+   "gene_name": "HAT1",
+   "id_type": "refseq_protein",
+   "length": "282",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_193476",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "P46600"
+  }
+ ],
+ "uniprot|NP_193506": [
+  {
+   "entry_name": "HDG4_ARATH",
+   "gene_name": "HDG4",
+   "id_type": "refseq_protein",
+   "length": "709",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_193506",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q8L7H4"
+  }
+ ],
+ "uniprot|NP_194932": [
+  {
+   "entry_name": "KNAT5_ARATH",
+   "gene_name": "KNAT5",
+   "id_type": "refseq_protein",
+   "length": "383",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_194932",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "P48002"
+  }
+ ],
+ "uniprot|NP_195014": [
+  {
+   "entry_name": "ATHB8_ARATH",
+   "gene_name": "ATHB-8",
+   "id_type": "refseq_protein",
+   "length": "833",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_195014",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q39123"
+  }
+ ],
+ "uniprot|NP_195024": [
+  {
+   "entry_name": "ATH1_ARATH",
+   "gene_name": "ATH1",
+   "id_type": "refseq_protein",
+   "length": "473",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_195024",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "P48731"
+  }
+ ],
+ "uniprot|NP_195187": [
+  {
+   "entry_name": "BLH6_ARATH",
+   "gene_name": "BLH6",
+   "id_type": "refseq_protein",
+   "length": "532",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_195187",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "O65685"
+  }
+ ],
+ "uniprot|NP_195280": [
+  {
+   "entry_name": "WOX13_ARATH",
+   "gene_name": "WOX13",
+   "id_type": "refseq_protein",
+   "length": "268",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_195280",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "O81788"
+  }
+ ],
+ "uniprot|NP_195392": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_195392",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_195493": [
+  {
+   "entry_name": "HAT22_ARATH",
+   "gene_name": "HAT22",
+   "id_type": "refseq_protein",
+   "length": "278",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_195493",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "P46604"
+  }
+ ],
+ "uniprot|NP_195823": [
+  {
+   "entry_name": "BLH9_ARATH",
+   "gene_name": "BLH9",
+   "id_type": "refseq_protein",
+   "length": "575",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_195823",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9LZM8"
+  }
+ ],
+ "uniprot|NP_195999": [
+  {
+   "entry_name": "ATB51_ARATH",
+   "gene_name": "ATHB-51",
+   "id_type": "refseq_protein",
+   "length": "235",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_195999",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9LZR0"
+  }
+ ],
+ "uniprot|NP_196196": [
+  {
+   "entry_name": "WOX7_ARATH",
+   "gene_name": "WOX7",
+   "id_type": "refseq_protein",
+   "length": "122",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_196196",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9FFK0"
+  }
+ ],
+ "uniprot|NP_196667": [
+  {
+   "entry_name": "KNAT4_ARATH",
+   "gene_name": "KNAT4",
+   "id_type": "refseq_protein",
+   "length": "393",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_196667",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "P48001"
+  }
+ ],
+ "uniprot|NP_196688": [
+  {
+   "entry_name": "OCP3_ARATH",
+   "gene_name": "OCP3",
+   "id_type": "refseq_protein",
+   "length": "354",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_196688",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q8H0V5"
+  }
+ ],
+ "uniprot|NP_197234": [
+  {
+   "entry_name": "HDG9_ARATH",
+   "gene_name": "HDG9",
+   "id_type": "refseq_protein",
+   "length": "718",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_197234",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9FFI0"
+  }
+ ],
+ "uniprot|NP_197283": [
+  {
+   "entry_name": "WOX12_ARATH",
+   "gene_name": "WOX12",
+   "id_type": "refseq_protein",
+   "length": "268",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_197283",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q8GY25"
+  }
+ ],
+ "uniprot|NP_197904": [
+  {
+   "entry_name": "KNAT3_ARATH",
+   "gene_name": "KNAT3",
+   "id_type": "refseq_protein",
+   "length": "431",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_197904",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "P48000"
+  }
+ ],
+ "uniprot|NP_199410": [
+  {
+   "entry_name": "WOX8_ARATH",
+   "gene_name": "WOX8",
+   "id_type": "refseq_protein",
+   "length": "325",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_199410",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q6X7J5"
+  }
+ ],
+ "uniprot|NP_199413": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_199413",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_200030": [
+  {
+   "entry_name": "HDG7_ARATH",
+   "gene_name": "HDG7",
+   "id_type": "refseq_protein",
+   "length": "682",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_200030",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9LTK3"
+  }
+ ],
+ "uniprot|NP_200209": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_200209",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_201334": [
+  {
+   "entry_name": "ATHB5_ARATH",
+   "gene_name": "ATHB-5",
+   "id_type": "refseq_protein",
+   "length": "312",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_201334",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "P46667"
+  }
+ ],
+ "uniprot|NP_201471": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_201471",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_563956": [
+  {
+   "entry_name": "ZHD14_ARATH",
+   "gene_name": "ZHD14",
+   "id_type": "refseq_protein",
+   "length": "168",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_563956",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9LQW3"
+  }
+ ],
+ "uniprot|NP_564268": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_564268",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_565263": [
+  {
+   "entry_name": "WOX6_ARATH",
+   "gene_name": "WOX6",
+   "id_type": "refseq_protein",
+   "length": "271",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_565263",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9ZVF5"
+  }
+ ],
+ "uniprot|NP_568309": [
+  {
+   "entry_name": "HAT7_ARATH",
+   "gene_name": "HAT7",
+   "id_type": "refseq_protein",
+   "length": "314",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 2,
+   "note": "",
+   "original_id": "NP_568309",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q00466"
+  },
+  {
+   "entry_name": "B5RID5_ARATH",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "314",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 2,
+   "note": "",
+   "original_id": "NP_568309",
+   "reviewed": "no",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "B5RID5"
+  }
+ ],
+ "uniprot|NP_568570": [
+  {
+   "entry_name": "ZHD10_ARATH",
+   "gene_name": "ZHD10",
+   "id_type": "refseq_protein",
+   "length": "334",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "NP_568570",
+   "reviewed": "yes",
+   "taxid": "3702",
+   "uniparc": "",
+   "uniprot_acc": "Q9FIW9"
+  }
+ ],
+ "uniprot|NP_911093": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_911093",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_912562": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_912562",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_914102": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_914102",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_915421": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_915421",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_915549": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_915549",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_915983": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_915983",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_919487": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_919487",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_921391": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_921391",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|NP_922733": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "NP_922733",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|XP_001420936": [
+  {
+   "entry_name": "A4S6F9_OSTLU",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "206",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "XP_001420936",
+   "reviewed": "no",
+   "taxid": "436017",
+   "uniparc": "",
+   "uniprot_acc": "A4S6F9"
+  }
+ ],
+ "uniprot|XP_001422692": [
+  {
+   "entry_name": "A4SB05_OSTLU",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "383",
+   "mapping_method": "RefSeq_Protein",
+   "n_hits": 1,
+   "note": "",
+   "original_id": "XP_001422692",
+   "reviewed": "no",
+   "taxid": "436017",
+   "uniparc": "",
+   "uniprot_acc": "A4SB05"
+  }
+ ],
+ "uniprot|XP_464749": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "XP_464749",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|XP_469241": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "XP_469241",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ],
+ "uniprot|XP_474234": [
+  {
+   "entry_name": "",
+   "gene_name": "",
+   "id_type": "refseq_protein",
+   "length": "",
+   "mapping_method": "unmapped",
+   "n_hits": 0,
+   "note": "no UniProtKB match via RefSeq_Protein,RefSeq_Protein,UniProtKB_AC-ID",
+   "original_id": "XP_474234",
+   "reviewed": "",
+   "taxid": "",
+   "uniparc": "",
+   "uniprot_acc": ""
+  }
+ ]
+}
