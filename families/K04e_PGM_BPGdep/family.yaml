@@ -4,7 +4,7 @@ name: 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) —
 panel: K
 collection: K04_isofunctional_decoys
 phenomena:
-- CONV
+- ANALOG
 descriptors:
   n_members: 6
   n_species: 5

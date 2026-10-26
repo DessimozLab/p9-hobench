@@ -4,7 +4,7 @@ name: Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) — non-
 panel: K
 collection: K04_isofunctional_decoys
 phenomena:
-- CONV
+- ANALOG
 descriptors:
   n_members: 12
   n_species: 12

@@ -3,7 +3,7 @@ name: Class II lysyl-tRNA synthetase (LysRS-II) — non-homologous isofunctional
 panel: K
 collection: K04_isofunctional_decoys
 phenomena:
-- CONV
+- ANALOG
 descriptors:
   n_members: 16
   n_species: 14

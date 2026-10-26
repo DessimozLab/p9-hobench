@@ -3,7 +3,7 @@ name: Fe/Mn superoxide dismutase — non-homologous isofunctional counterpart of
 panel: K
 collection: K04_isofunctional_decoys
 phenomena:
-- CONV
+- ANALOG
 descriptors:
   n_members: 19
   n_species: 14

@@ -3,7 +3,7 @@ name: Class I lysyl-tRNA synthetase (LysRS-I) — non-homologous isofunctional c
 panel: K
 collection: K04_isofunctional_decoys
 phenomena:
-- CONV
+- ANALOG
 descriptors:
   n_members: 6
   n_species: 6

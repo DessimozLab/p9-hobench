@@ -270,7 +270,7 @@ def main() -> None:
         name=f"{f['form']} — non-homologous isofunctional counterpart of {f['partner']} (EC {f['ec']})",
         panel=PANEL,
         collection="K04_isofunctional_decoys",
-        phenomena=["CONV"],
+        phenomena=["ANALOG"],
         descriptors=dict(n_members=len(members), n_species=len(cnt), n_duplications=0, ec=f["ec"], cog=f["cog"],
                          multicopy_species=sorted(s for s, c in cnt.items() if c > 1),
                          mapped_fraction=round(n_map / n_den, 3) if n_den else None),
