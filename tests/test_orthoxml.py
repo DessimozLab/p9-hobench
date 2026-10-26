@@ -243,3 +243,24 @@ def test_gene_in_two_root_groups(st, tmp_path):
     pred = read_orthoxml(p, st, strict=False)
     assert pred.meta["membership_conflicts"] == 1
     assert same(pred, "Mammalia", "HUMAN_1", "MOUSE_1")   # first assignment kept
+
+
+def test_gzipped_orthoxml_equals_plain(st, tmp_path):
+    """FastOMA writes FastOMA_HOGs.orthoxml.gz; the reader must accept it (parser fix, 2026-10-26)."""
+    import gzip
+    genes = ["HUMAN_1", "MOUSE_1", "CHICK_1", "DANRE_a", "ORYLA_b"]
+    p = orthoxml(tmp_path, genes, f"<orthologGroup id='g1'>{tr('Euteleostomi')}" +
+                 "".join("{" + g + "}" for g in genes) + "</orthologGroup>")
+    pz = tmp_path / "x.orthoxml.gz"
+    pz.write_bytes(gzip.compress(Path(p).read_bytes()))
+    a, b = read_orthoxml(p, st), read_orthoxml(pz, st)
+    assert {k: sorted(v) for k, v in a.levels.items()} == {k: sorted(v) for k, v in b.levels.items()}
+
+
+def test_gzipped_tsv_baseline(tmp_path):
+    import gzip
+    from hobench.predictions import read_tsv
+    t = "level\thog_id\tgene\tspecies\nA\tH1\tg1\tS1\nA\tH1\tg2\tS2\n"
+    (tmp_path / "a.tsv").write_text(t)
+    (tmp_path / "a.tsv.gz").write_bytes(gzip.compress(t.encode()))
+    assert read_tsv(tmp_path / "a.tsv").levels == read_tsv(tmp_path / "a.tsv.gz").levels

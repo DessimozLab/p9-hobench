@@ -1,0 +1,167 @@
+{
+ "hobench_git": {
+  "commit": "86b9ad7ec5a43062d6e8014d9e0616d04ba96de7",
+  "dirty": true
+ },
+ "script": "scripts/evaluate_panel.py",
+ "panel": "Y",
+ "mode": "full",
+ "panel_tree_sha256": "35f3d1c80fe1ee4fa800fe0bb21e1d14dbdd92f59426b098e329c765c881a8be",
+ "panel_species_tsv_sha256": "18dbc4899d1eb933bbb59d152daa069bd3afa3ad83518d530864f784d4cac4b7",
+ "families_tree_hash": "4c74e70a56d02866e14121f62be3afcb4f1d70fc5033d03e7165149a067a6e36",
+ "families_manifest_present": false,
+ "families_manifest_differences": null,
+ "n_families": 1977,
+ "n_non_headline": 0,
+ "seeds_relabel": [
+  20261026,
+  314159,
+  271828,
+  161803,
+  141421,
+  173205,
+  223606,
+  244949,
+  264575,
+  282842
+ ],
+ "n_boot": 2000,
+ "runs": {
+  "fastoma/default_declared": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/fastoma_default",
+   "prediction_sha256": "371b79ed50856f4b2bd3162ebff03e5237e76fd449bdc200ba10f83396cf26d1",
+   "manifest_sha256": "97182f666b6095da64f957c6f8188ca9541dd7582c07ac5a2e28b65212e7bf30",
+   "manifest_git_commit": "e2f4e87746e2c793203fc2f9eb04db6173e1db6f",
+   "prediction_meta": {
+    "format": "orthoxml",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/fastoma_default/FastOMA_HOGs.orthoxml.gz",
+    "dup_placement": "declared",
+    "level_mapping": "clade sets from /scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/fastoma_default/species_tree_checked.nwk",
+    "stats": {
+     "hogs": 78343,
+     "dup_placement_ambiguous": 327
+    },
+    "dup_placement_ambiguous": 327,
+    "unknown_species": []
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "fastoma/default_late": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/fastoma_default",
+   "prediction_sha256": "371b79ed50856f4b2bd3162ebff03e5237e76fd449bdc200ba10f83396cf26d1",
+   "manifest_sha256": "97182f666b6095da64f957c6f8188ca9541dd7582c07ac5a2e28b65212e7bf30",
+   "manifest_git_commit": "e2f4e87746e2c793203fc2f9eb04db6173e1db6f",
+   "prediction_meta": {
+    "format": "orthoxml",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/fastoma_default/FastOMA_HOGs.orthoxml.gz",
+    "dup_placement": "late",
+    "level_mapping": "clade sets from /scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/fastoma_default/species_tree_checked.nwk",
+    "stats": {
+     "hogs": 77516,
+     "dup_placement_ambiguous": 327
+    },
+    "dup_placement_ambiguous": 327,
+    "unknown_species": []
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "of_flat/default": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/of_flat_default",
+   "prediction_sha256": "a0eb9f8a890a7ab6c953cd0b72319e1e371e710e8d0049d917eb4cb47e76a334",
+   "manifest_sha256": "f7e7bafa203545671a96384a4e10ac10b88883ece78bf2a0df2fc5f43d12544d",
+   "manifest_git_commit": "2bbcc702b5650af8fe4a266562bd97b0e3b99928",
+   "prediction_meta": {
+    "format": "tsv",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/of_flat_default/hogs.tsv.gz"
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "of_flat/dendroblast": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/of_flat_dendroblast",
+   "prediction_sha256": "166be901f0902e515d4ec423977880e160780f5e2f7851188c79ba048f97700a",
+   "manifest_sha256": "947b46e797bf80ed5c96337024b32fdfa99a3e944b2f09da31d17c95966c66ab",
+   "manifest_git_commit": "2bbcc702b5650af8fe4a266562bd97b0e3b99928",
+   "prediction_meta": {
+    "format": "tsv",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/of_flat_dendroblast/hogs.tsv.gz"
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "orthofinder/default": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/orthofinder_default",
+   "prediction_sha256": "4f245ad29772a186da88d4a9f7d59bdc12afaf41d1c01be9a1d86f557ddc9120",
+   "manifest_sha256": "0b0b19d48ea249547c226151082c92610b3f9fb3244f49e3b568f9bbd52dd835",
+   "manifest_git_commit": "e2f4e87746e2c793203fc2f9eb04db6173e1db6f",
+   "prediction_meta": {
+    "format": "orthofinder",
+    "source": "/tmp/hobench_eval_cache/Y/full/orthofinder_default/Phylogenetic_Hierarchical_Orthogroups",
+    "of_to_ours": {
+     "N9": "Eremothecium",
+     "N6": "Kluyveromyces_Eremothecium",
+     "N4": "KLE_clade",
+     "N7": "ZT_clade",
+     "N14": "Naumovozyma",
+     "N12": "Naumovozyma_Kazachstania",
+     "N13": "Saccharomyces_Nakaseomyces",
+     "N10": "PostWGD_crown",
+     "N11": "Vanderwaltozyma_Tetrapisispora",
+     "N8": "PostWGD",
+     "N5": "ZT_PostWGD",
+     "N3": "Saccharomycetaceae",
+     "N2": "CUG_Saccharomycetaceae",
+     "N1": "Saccharomycotina",
+     "N0": "Ascomycota"
+    },
+    "unmatched_of_nodes": [],
+    "root_from_orthogroups": "/tmp/hobench_eval_cache/Y/full/orthofinder_default/Orthogroups/Orthogroups.tsv",
+    "n_hogs_not_nested_in_og": 0,
+    "induced_levels": {}
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "orthofinder/dendroblast": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/orthofinder_dendroblast",
+   "prediction_sha256": "898ff8af07f39c2dec1814b63b8f559c024c5ec3bd8ca5ce15286a0c976e93f5",
+   "manifest_sha256": "7fd0d2e07e5bb2cb3718973bbe734580563ba1e3689673c00fc09a69c066ad5c",
+   "manifest_git_commit": "2bbcc702b5650af8fe4a266562bd97b0e3b99928",
+   "prediction_meta": {
+    "format": "orthofinder",
+    "source": "/tmp/hobench_eval_cache/Y/full/orthofinder_dendroblast/Phylogenetic_Hierarchical_Orthogroups",
+    "of_to_ours": {
+     "N9": "Eremothecium",
+     "N6": "Kluyveromyces_Eremothecium",
+     "N4": "KLE_clade",
+     "N7": "ZT_clade",
+     "N14": "Naumovozyma",
+     "N12": "Naumovozyma_Kazachstania",
+     "N13": "Saccharomyces_Nakaseomyces",
+     "N10": "PostWGD_crown",
+     "N11": "Vanderwaltozyma_Tetrapisispora",
+     "N8": "PostWGD",
+     "N5": "ZT_PostWGD",
+     "N3": "Saccharomycetaceae",
+     "N2": "CUG_Saccharomycetaceae",
+     "N1": "Saccharomycotina",
+     "N0": "Ascomycota"
+    },
+    "unmatched_of_nodes": [],
+    "root_from_orthogroups": "/tmp/hobench_eval_cache/Y/full/orthofinder_dendroblast/Orthogroups/Orthogroups.tsv",
+    "n_hogs_not_nested_in_og": 0,
+    "induced_levels": {}
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  }
+ }
+}

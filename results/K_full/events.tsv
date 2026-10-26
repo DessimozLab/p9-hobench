@@ -1,0 +1,11 @@
+family	collection	method	variant	event	ev	level	tags	n_copies	n_pairs	frac_correct	separation	cohesion_min	merge_side	frac_over_split	frac_over_merged	modal_pred_merge	recovered_0.5	recovered_0.8
+K02_trGTPases		positive_control	reference	TU_G_dup	D	LUCA	DEEP	2	540	1	1	1	1	0	0	inf	1	1
+K02_trGTPases		all_singletons		TU_G_dup	D	LUCA	DEEP	2	540	1	1	0	1	0	0	inf	0	0
+K02_trGTPases		one_hog_per_family		TU_G_dup	D	LUCA	DEEP	2	540	0	0	1	1	0	1	LUCA	0	0
+K02_trGTPases		random_relabel	mean10	TU_G_dup	D	LUCA	DEEP	2	540	0.981481	0.981481	0.0130719	1	0	0.0185185	inf	0	0
+K02_trGTPases		fastoma	default_declared	TU_G_dup	D	LUCA	DEEP	2	540	1	1	0	1	0	0	inf	0	0
+K02_trGTPases		fastoma	default_late	TU_G_dup	D	LUCA	DEEP	2	540	1	1	0	1	0	0	inf	0	0
+K02_trGTPases		of_flat	default	TU_G_dup	D	LUCA	DEEP	2	540	1	1	0.431373	1	0	0	inf	0	0
+K02_trGTPases		of_flat	dendroblast	TU_G_dup	D	LUCA	DEEP	2	540	1	1	0.496732	1	0	0	inf	0	0
+K02_trGTPases		orthofinder	default	TU_G_dup	D	LUCA	DEEP	2	540	1	1	0.431373	1	0	0	inf	0	0
+K02_trGTPases		orthofinder	dendroblast	TU_G_dup	D	LUCA	DEEP	2	540	1	1	0.496732	1	0	0	inf	0	0

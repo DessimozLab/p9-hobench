@@ -20,6 +20,7 @@ Parsers (all strict by default: inconsistencies raise :class:`PredictionError`)
 from __future__ import annotations
 
 import csv
+import gzip
 import itertools
 import re
 from collections import Counter, defaultdict
@@ -423,7 +424,9 @@ def read_orthoxml(
                 pred.add(lvname, hid, g, strict=strict, species=s)
             stats["hogs"] += 1
 
-    context = etree.iterparse(str(path), events=("start", "end"), huge_tree=True, remove_comments=True)
+    # .gz input is decompressed explicitly (lxml's path-based iterparse does not do it; FastOMA output is gzipped)
+    src = gzip.open(path, "rb") if str(path).endswith(".gz") else str(path)
+    context = etree.iterparse(src, events=("start", "end"), huge_tree=True, remove_comments=True)
     for event, el in context:
         t = _local(el.tag)
         if event == "start":
@@ -662,7 +665,7 @@ def read_tsv(
     within a level. The species column is required when ``count_species`` is non-empty."""
     norm = make_normalizer(normalize)
     pred = Prediction(meta={"format": "tsv", "source": str(path)}, count_species=set(count_species or ()))
-    with open(path, newline="") as fh:
+    with (gzip.open(path, "rt", newline="") if str(path).endswith(".gz") else open(path, newline="")) as fh:
         for i, row in enumerate(csv.reader(fh, delimiter="\t")):
             if not row or row[0].startswith("#"):
                 continue
