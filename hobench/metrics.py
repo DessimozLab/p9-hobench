@@ -676,6 +676,8 @@ def family_integrity(rf: ReconciledFamily, st: SpeciesTree, pred: Prediction, ct
         if top is not None and pred.hog_size(*top) < 2:
             return None
         return top
+    # a member of a single-gene RefOG that is alone (no HOG / singleton HOG) is exactly right:
+    # it is its own PredOG; for larger RefOGs such members are "missing" (as in OrthoBench)
 
     key_of = {g: top_hog(g) for g in refog_of}
     decoys = ctx.decoys.get(F.id, set()) | set(F.decoys)
@@ -736,6 +738,11 @@ def family_integrity(rf: ReconciledFamily, st: SpeciesTree, pred: Prediction, ct
         nR = len(genes)
         keys = Counter(key_of[g] for g in genes)
         missing = keys.pop(None, 0)
+        if nR == 1 and missing:
+            k1 = ("<single>", genes[0])
+            pog[k1] = {"own": Counter({r_: 1}), "n_members": 1, "contam": 0, "complete_nonmembers": 0,
+                       "other_family": 0, "size": 1}
+            keys, missing = Counter({k1: 1}), 0
         n_missing += missing
         overl = {k: c for k, c in keys.items()}
         tot_w += nR

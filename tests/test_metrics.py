@@ -354,3 +354,19 @@ def test_large_family_is_fast(st):
     # one-big-HOG gets only the 400*10 within-copy pairs right
     assert r2["pair_merge"]["accuracy_pairs"] == pytest.approx(4000 / (2000 * 1999 / 2))
     assert t1 - t0 < 60 and t2 - t1 < 60, (t1 - t0, t2 - t1)
+
+
+def test_u_root_over_interval_duplication_positive_control(st):
+    """Regression (found on YGOB units): root U over a D whose lvl_lo lies above the U's LCA
+    mapping. U((HUMAN_a,HUMAN_b)D[lvl_lo=Mammalia,lvl_hi=Amniota], MOUSE_c): the D has no
+    constraining ancestor -> merge [Amniota, inf]; the family level is raised to the D's lvl_lo
+    (Mammalia), where the reference fixes no grouping across the U: 3 singleton RefOGs. The
+    positive control (everyone alone at Mammalia) is perfect, including integrity."""
+    f = make_family("UR", "((HUMAN_a,HUMAN_b)[&&NHX:ev=D:lvl_lo=Mammalia:lvl_hi=Amniota],MOUSE_c)[&&NHX:ev=U];")
+    rf = reconcile(f, st)
+    assert st.names[rf.family_level] == "Mammalia"
+    pos = controls.reference_prediction([f], st)
+    r = evaluate_family(f, st, pos, panel_context([f], st))
+    sc = family_scalars(r)
+    assert r["integrity"]["n_refogs"] == 3
+    assert sc["merge_accuracy_node"] == 1.0 and sc["membership_f1"] == 1.0 and sc["exact_pct"] == 100.0

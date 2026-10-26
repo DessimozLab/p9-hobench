@@ -8,8 +8,8 @@ On-disk format — one directory per family, ``families/<FAMILY_ID>/`` (see
     collections such as YGOB pillars: each family is one *unit* of the collection),
     ``phenomena`` (tags), ``sources`` (list of ``{id, doi and/or pmid, figure/table/locator,
     quote, source_method}``), ``members`` (default ``members.tsv``), ``tree`` (default
-    ``reference_tree.nhx``), ``root_level`` (family scope level; default = level of the tree
-    root), ``root_single_copy`` (bool, default false: the family was a single gene at
+    ``reference_tree.nhx``), ``root_level`` (family scope level; default = the oldest of the
+    tree root's level, every D/H level and every finite D/H merge upper bound), ``root_single_copy`` (bool, default false: the family was a single gene at
     ``root_level`` — or, without ``root_level``, at the parent of the root node's level),
     ``complete_species`` (species whose membership is declared complete), ``decoys`` (gene IDs
     asserted NON-homologous to this family), ``distinct_from`` (``[{family, at_level, src}]``:
@@ -185,14 +185,35 @@ def load_family(directory: str | Path) -> ReferenceFamily:
 
 
 def load_families(root: str | Path, panel: Optional[str] = None) -> list[ReferenceFamily]:
-    """Load every ``<root>/*/family.yaml`` (sorted by directory name); optionally keep only
-    families whose ``panel`` field equals ``panel``."""
+    """Load every ``<root>/*/family.yaml`` and every collection unit
+    ``<root>/<C>/units/*/family.yaml`` of a directory with ``collection.yaml`` (sorted by path;
+    units inherit ``collection`` and ``panel`` from ``collection.yaml`` when they lack them —
+    a conflicting value is an error). Optionally keep only families of one ``panel``."""
     out = []
     for d in sorted(Path(root).iterdir()):
-        if d.is_dir() and (d / "family.yaml").exists():
-            fam = load_family(d)
-            if panel is None or fam.panel == panel:
-                out.append(fam)
+        if not d.is_dir():
+            continue
+        if (d / "family.yaml").exists():
+            fams = [load_family(d)]
+        elif (d / "collection.yaml").exists():
+            cmeta = yaml.safe_load((d / "collection.yaml").read_text()) or {}
+            cid = cmeta.get("collection") or cmeta.get("id") or d.name
+            fams = []
+            for u in sorted((d / "units").iterdir()) if (d / "units").is_dir() else []:
+                if not (u / "family.yaml").exists():
+                    continue
+                fam = load_family(u)
+                for key, val in (("collection", cid), ("panel", cmeta.get("panel"))):
+                    if val is None:
+                        continue
+                    if fam.meta.get(key) in (None, ""):
+                        fam.meta[key] = val
+                    elif str(fam.meta[key]) != str(val):
+                        raise ReferenceError(f"{u}: {key} {fam.meta[key]!r} conflicts with collection.yaml ({val!r})")
+                fams.append(fam)
+        else:
+            continue
+        out.extend(f for f in fams if panel is None or f.panel == panel)
     return out
 
 
@@ -553,7 +574,19 @@ def _annotate(fam: ReferenceFamily, st: SpeciesTree) -> tuple[ValidationReport, 
                         f"reference-tree root ({st.names[top_lo]!r})")
     if r.errors:
         return r, None
-    fam_level = root_level if root_level is not None else top_lo
+    if root_level is not None:
+        fam_level = root_level
+    else:
+        # default family level: the oldest of the root's level, every D/H level and every finite
+        # D/H merge upper bound (levels on the root's lineage only); INF bounds (root
+        # duplications) do not raise it
+        fam_level = top_lo
+        for e in events:
+            if e.ev not in ("D", "H"):
+                continue
+            for v in (e.lvl_lo, e.merge_hi):
+                if v >= 0 and st.anc[v, fam_level] and st.depth[v] < st.depth[fam_level]:
+                    fam_level = v
     return r, ReconciledFamily(fam, st, genes, gindex, sp_idx, fam_level, events)
 
 
