@@ -98,7 +98,7 @@ def tool_versions(tool: str) -> dict:
         v["diamond"] = C.capture(["diamond", "version"])
     if tool == "fastoma":
         v["nextflow"] = C.capture(["nextflow", "-v"])
-        v["fastoma_python"] = C.capture([sys.executable, "-c",
+        v["fastoma_python"] = C.capture([str(C.CONDA_BIN / "python"), "-c",
                                          "import importlib.metadata as m;print(m.version('FastOMA'))"])
         v["fastoma_workflow_git"] = C.capture(["git", "-C", str(C.ROOT / "tools" / "FastOMA"),
                                                "describe", "--tags", "--always"])
@@ -153,6 +153,34 @@ def assemble_hogmaps(fasta_dir: Path, codes: list[str], hogmap_dir: Path, out_di
                       "n_ids": len(ids), "n_from_precomputed": len(seen),
                       "n_searched_now": len(missing)}
     return recs
+
+
+def hogmaps_complete(panel: C.Panel, hogmap_dir: Path) -> list[str]:
+    """Species whose precomputed hogmap is missing or does not yet cover every FASTA ID."""
+    bad = []
+    for code, fa in panel.fastas.items():
+        hm = hogmap_dir / f"{code}.fa.hogmap"
+        if not hm.exists():
+            bad.append(code)
+            continue
+        ids = {C.fasta_id(h) for h, _ in C.read_fasta(fa)}
+        with open(hm) as fh:
+            seen = {ln.split("\t", 1)[0] for ln in fh if not ln.startswith("!")}
+        if not ids <= seen:
+            bad.append(code)
+    return bad
+
+
+def wait_for_hogmaps(panel: C.Panel, hogmap_dir: Path, minutes: float) -> list[str]:
+    """Poll until all precomputed hogmaps are complete or the timeout expires (another agent
+    may still be producing them; avoids running a second set of 14 GB omamer processes)."""
+    t_end = time.time() + 60 * minutes
+    while True:
+        bad = hogmaps_complete(panel, hogmap_dir)
+        if not bad or time.time() >= t_end:
+            return bad
+        C.log(f"waiting for hogmaps: {bad}")
+        time.sleep(120)
 
 
 # ----------------------------------------------------------------------------- tools
@@ -213,6 +241,8 @@ def run_fastoma(panel, args, work: Path, out_dir: Path, man: dict) -> None:
     man["inputs"] = stage_inputs(panel, inp / "proteome")
     shutil.copyfile(panel.tree_path, inp / "species_tree.nwk")
     omamer_db = Path(args.omamer_db).resolve()
+    if args.wait_hogmaps > 0:
+        man["hogmaps_incomplete_after_wait"] = wait_for_hogmaps(panel, Path(args.hogmap_dir), args.wait_hogmaps)
     man["omamer_db"] = {"path": str(omamer_db), "sha256": C.sha256_cached(omamer_db)}
     man["hogmaps"] = assemble_hogmaps(inp / "proteome", panel.codes, Path(args.hogmap_dir), inp / "hogmap_in",
                                       omamer_db, work, threads=min(4, int(args.threads)))
@@ -326,6 +356,8 @@ def main(argv=None) -> int:
     ap.add_argument("--mem-gb", type=int, default=30, help="FastOMA executor memory cap")
     ap.add_argument("--omamer-db", default=str(DEFAULT_OMAMER_DB))
     ap.add_argument("--hogmap-dir", default=str(DEFAULT_HOGMAP_DIR))
+    ap.add_argument("--wait-hogmaps", type=float, default=0,
+                    help="FastOMA: wait up to N minutes for complete precomputed hogmaps")
     ap.add_argument("--panels-root", type=Path, default=None)
     ap.add_argument("--runs-root", type=Path, default=None)
     ap.add_argument("--work-root", type=Path, default=C.WORK_ROOT)
