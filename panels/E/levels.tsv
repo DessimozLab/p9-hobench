@@ -1,0 +1,35 @@
+level_id	tree	ncbi_taxid	ncbi_name	ncbi_exact	literature_name	children	n_species	contested	alternative	citation	note
+LUCA	main	131567	cellular organisms	y	LUCA (Bacteria / Archaea+Eukaryota split)	Bacteria,Archaea_Eukaryota	34	y	three-domain tree (eukaryotes sister to Archaea)	Williams2020 doi:10.1038/s41559-019-1040-x; Coleman2021 doi:10.1126/science.abe0511	
+Bacteria	main	2	Bacteria	y	Bacteria	Terrabacteria,Pseudomonadota	4	n		Coleman2021 doi:10.1126/science.abe0511	rooted between Terrabacteria and Gracilicutes
+Terrabacteria	main	1783272	Bacillati	y	Terrabacteria	BACSU,SYNY3	2	n		Coleman2021 doi:10.1126/science.abe0511	
+Pseudomonadota	main	1224	Pseudomonadota	y	Pseudomonadota (Alpha + Gamma)	ECOLI,BRADU	2	n		Parks2022GTDB doi:10.1093/nar/gkab776	mitochondrial ancestry (BRADU)
+Archaea_Eukaryota	main	131567	cellular organisms	n	Archaea + Eukaryota (two-domain)	Euryarchaeota,TACK_Asgard_Eukaryota	30	y	Eukaryota sister to monophyletic Archaea	Williams2020 doi:10.1038/s41559-019-1040-x; Eme2023 doi:10.1038/s41586-023-06186-2	
+Euryarchaeota	main	28890	Methanobacteriota	y	Euryarchaeota	THEKO,HALSA	2	n		Williams2020 doi:10.1038/s41559-019-1040-x	
+TACK_Asgard_Eukaryota	main	131567	cellular organisms	n	TACK + Asgard + Eukaryota	TACK,Asgard_Eukaryota	28	y	TACK sister to Euryarchaeota+Asgard	Williams2020 doi:10.1038/s41559-019-1040-x; Eme2023 doi:10.1038/s41586-023-06186-2	
+TACK	main	1783275	Thermoproteati	y	TACK	NITMS,SACS2	2	n		Williams2020 doi:10.1038/s41559-019-1040-x	
+Asgard_Eukaryota	main	131567	cellular organisms	n	Asgard archaea + Eukaryota	LOKOS,Eukaryota	26	y	eukaryotes nested within Asgard (Heimdallarchaeia; Eme 2023) - same panel topology since only Lokiarchaeia is sampled	Eme2023 doi:10.1038/s41586-023-06186-2; Zaremba2017 doi:10.1038/nature21031; Williams2020 doi:10.1038/s41559-019-1040-x	
+Eukaryota	main	2759	Eukaryota	y	Eukaryota (LECA)	Amorphea,Diphoda	25	y	root between Discoba and the rest, or within Excavata	Derelle2015 doi:10.1073/pnas.1420657112; Burki2020 doi:10.1016/j.tree.2019.08.008	root between Opimoda and Diphoda
+Amorphea	main	2759	Eukaryota	n	Amorphea (= Opimoda in this panel: no malawimonads/CRuMs)	Amoebozoa,Obazoa	15	n		Derelle2015 doi:10.1073/pnas.1420657112; Burki2020 doi:10.1016/j.tree.2019.08.008	
+Amoebozoa	main	2605435	Evosea	y	Amoebozoa	DICDI,ENTH1	2	n		Burki2020 doi:10.1016/j.tree.2019.08.008	
+Obazoa	main	2759	Eukaryota	n	Obazoa (Apusomonadida + Opisthokonta)	THETR,Opisthokonta	13	n		Brown2013 doi:10.1098/rspb.2013.1755; Burki2020 doi:10.1016/j.tree.2019.08.008	
+Opisthokonta	main	33154	Opisthokonta	y	Opisthokonta	Fungi,Holozoa	12	n		Burki2020 doi:10.1016/j.tree.2019.08.008	
+Fungi	main	4751	Fungi	y	Fungi (incl. Microsporidia)	ENCCU,Chytridiomycota_Dikarya	4	y	Microsporidia long-branch placement (attraction to other fast taxa)	CapellaGutierrez2012 doi:10.1186/1741-7007-10-47; James2006 doi:10.1038/nature05110	
+Chytridiomycota_Dikarya	main	4751	Fungi	n	Chytridiomycota + Dikarya	BATDJ,Ascomycota	3	n		James2006 doi:10.1038/nature05110	
+Ascomycota	main	716545	saccharomyceta	y	Ascomycota	YEAST,NEUCR	2	n		James2006 doi:10.1038/nature05110	
+Holozoa	main	33154	Opisthokonta	n	Holozoa	CAPO3,Choanozoa	8	n		Burki2020 doi:10.1016/j.tree.2019.08.008	
+Choanozoa	main	33154	Opisthokonta	n	Choanoflagellata + Metazoa	MONBE,Metazoa	7	n		Burki2020 doi:10.1016/j.tree.2019.08.008	
+Metazoa	main	33208	Metazoa	y	Metazoa	MNELE,Myriazoa	6	y	sponges-first (species_tree_alt.nwk; Simion 2017, Redmond 2021) vs ctenophores-first (main; Whelan 2015, Schultz 2023); may reflect systematic error (Kapli 2020)	Schultz2023 doi:10.1038/s41586-023-05936-6; Whelan2015 doi:10.1073/pnas.1503453112; Simion2017 doi:10.1016/j.cub.2017.02.031; Redmond2021 doi:10.1038/s41467-021-22074-7; Kapli2020 doi:10.1126/sciadv.abc5162	score root-agnostically
+Myriazoa	main	33208	Metazoa	n	Porifera + ParaHoxozoa (ctenophores-first)	AMPQE,ParaHoxozoa	5	y	alt: Ctenophora_ParaHoxozoa	Schultz2023 doi:10.1038/s41586-023-05936-6; Whelan2015 doi:10.1073/pnas.1503453112	
+ParaHoxozoa	main	6072	Eumetazoa	n	ParaHoxozoa (Placozoa + Cnidaria + Bilateria)	TRIAD,Planulozoa	4	y	Placozoa sister to Cnidaria	Laumer2019 doi:10.1098/rspb.2019.0831	
+Planulozoa	main	6072	Eumetazoa	n	Cnidaria + Bilateria	NEMVE,Bilateria	3	y	Placozoa+Cnidaria clade	Laumer2019 doi:10.1098/rspb.2019.0831	
+Bilateria	main	33213	Bilateria	y	Bilateria	HUMAN,DROME	2	n		Laumer2019 doi:10.1098/rspb.2019.0831	
+Diphoda	main	2759	Eukaryota	n	Diphoda (Diaphoretickes + Discoba + Metamonada)	Diaphoretickes,Discoba_Metamonada	10	y	Excavata monophyletic or root within it	Derelle2015 doi:10.1073/pnas.1420657112; Burki2020 doi:10.1016/j.tree.2019.08.008	
+Diaphoretickes	main	2759	Eukaryota	n	Diaphoretickes	Archaeplastida,Stramenopiles_Alveolata	7	n		Burki2020 doi:10.1016/j.tree.2019.08.008	
+Archaeplastida	main	2759	Eukaryota	n	Archaeplastida	CYAME,Viridiplantae	3	y	Archaeplastida non-monophyletic (cryptists inside)	Burki2020 doi:10.1016/j.tree.2019.08.008	
+Viridiplantae	main	33090	Viridiplantae	y	Viridiplantae	ARATH,CHLRE	2	n		OneKP2019 doi:10.1038/s41586-019-1693-2	
+Stramenopiles_Alveolata	main	2698737	Sar	y	SAR without Rhizaria (TSAR)	Stramenopiles,Alveolata	4	n		Burki2020 doi:10.1016/j.tree.2019.08.008	no Rhizaria in panel
+Stramenopiles	main	33634	Stramenopiles	y	Stramenopiles	THAPS,PHYRM	2	n		Burki2020 doi:10.1016/j.tree.2019.08.008	
+Alveolata	main	33630	Alveolata	y	Alveolata	PLAF7,ICHMU	2	n		Burki2020 doi:10.1016/j.tree.2019.08.008	
+Discoba_Metamonada	main	2759	Eukaryota	n	Discoba + Metamonada (excavates)	Discoba,GIAIC	3	y	Discoba and Metamonada not sisters	Derelle2015 doi:10.1073/pnas.1420657112; Burki2020 doi:10.1016/j.tree.2019.08.008	
+Discoba	main	2611352	Discoba	y	Discoba	TRYB2,NAEGR	2	n		Burki2020 doi:10.1016/j.tree.2019.08.008	
+Ctenophora_ParaHoxozoa	alt_only	6072	Eumetazoa	y	Ctenophora + ParaHoxozoa (sponges-first; alternative tree only)	MNELE,ParaHoxozoa	5	y	alt only	Simion2017 doi:10.1016/j.cub.2017.02.031; Redmond2021 doi:10.1038/s41467-021-22074-7	

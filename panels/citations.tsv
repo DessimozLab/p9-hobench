@@ -1,12 +1,44 @@
 key	doi	status	title	journal	year	checked	source
+Amborella2013	10.1126/science.1241089	VERIFIED	The Amborella genome and the evolution of flowering plants.	Science	2013	2026-10-26	Europe PMC REST search DOI:
+Betancur2017	10.1186/s12862-017-0958-3	VERIFIED	Phylogenetic classification of bony fishes.	BMC Evol Biol	2017	2026-10-26	Europe PMC REST search DOI:
+Braasch2016	10.1038/ng.3526	VERIFIED	The spotted gar genome illuminates vertebrate evolution and facilitates human-teleost comparisons.	Nat Genet	2016	2026-10-26	Europe PMC REST search DOI:
+Brown2013	10.1098/rspb.2013.1755	VERIFIED	Phylogenomics demonstrates that breviate flagellates are related to opisthokonts and apusomonads.	Proc Biol Sci	2013	2026-10-26	Europe PMC REST search DOI:
+Burki2020	10.1016/j.tree.2019.08.008	VERIFIED	The New Tree of Eukaryotes.	Trends Ecol Evol	2020	2026-10-26	Europe PMC REST search DOI:
+CapellaGutierrez2012	10.1186/1741-7007-10-47	VERIFIED	Phylogenomics supports microsporidia as the earliest diverging clade of sequenced fungi.	BMC Biol	2012	2026-10-26	Europe PMC REST search DOI:
 Coleman2021	10.1126/science.abe0511	VERIFIED	A rooted phylogeny resolves early bacterial evolution.	Science	2021	2026-10-26	Europe PMC REST search DOI:
+Delsuc2006	10.1038/nature04336	VERIFIED	Tunicates and not cephalochordates are the closest living relatives of vertebrates.	Nature	2006	2026-10-26	Europe PMC REST search DOI:
+Derelle2015	10.1073/pnas.1420657112	VERIFIED	Bacterial proteins pinpoint a single eukaryotic root.	Proc Natl Acad Sci U S A	2015	2026-10-26	Europe PMC REST search DOI:
 Eme2023	10.1038/s41586-023-06186-2	VERIFIED	Inference and reconstruction of the heimdallarchaeial ancestry of eukaryotes.	Nature	2023	2026-10-26	Europe PMC REST search DOI:
+Harris2020	10.1016/j.cub.2020.03.048	VERIFIED	Phylogenomic Evidence for the Monophyly of Bryophytes and the Reductive Evolution of Stomata.	Curr Biol	2020	2026-10-26	Europe PMC REST search DOI:
 Hug2016	10.1038/nmicrobiol.2016.48	VERIFIED	A new view of the tree of life.	Nat Microbiol	2016	2026-10-26	Europe PMC REST search DOI:
+Hughes2018	10.1073/pnas.1719358115	VERIFIED	Comprehensive phylogeny of ray-finned fishes (Actinopterygii) based on transcriptomic and genomic data.	Proc Natl Acad Sci U S A	2018	2026-10-26	Europe PMC REST search DOI:
+Irisarri2017	10.1038/s41559-017-0240-5	VERIFIED	Phylotranscriptomic consolidation of the jawed vertebrate timetree.	Nat Ecol Evol	2017	2026-10-26	Europe PMC REST search DOI:
+James2006	10.1038/nature05110	VERIFIED	Reconstructing the early evolution of Fungi using a six-gene phylogeny.	Nature	2006	2026-10-26	Europe PMC REST search DOI:
+Kapli2020	10.1126/sciadv.abc5162	VERIFIED	Topology-dependent asymmetry in systematic errors affects phylogenetic placement of Ctenophora and Xenacoelomorpha.	Sci Adv	2020	2026-10-26	Europe PMC REST search DOI:
+Laumer2019	10.1098/rspb.2019.0831	VERIFIED	Revisiting metazoan phylogeny with genomic sampling of all phyla.	Proc Biol Sci	2019	2026-10-26	Europe PMC REST search DOI:
+Lien2016	10.1038/nature17164	VERIFIED	The Atlantic salmon genome provides insights into rediploidization.	Nature	2016	2026-10-26	Europe PMC REST search DOI:
 MarcetHouben2015	10.1371/journal.pbio.1002220	VERIFIED	Beyond the Whole-Genome Duplication: Phylogenetic Evidence for an Ancient Interspecies Hybridization in the Baker's Yeast Lineage.	PLoS Biol	2015	2026-10-26	Europe PMC REST search DOI:
+Meyer2021lungfish	10.1038/s41586-021-03198-8	VERIFIED	Giant lungfish genome elucidates the conquest of land by vertebrates.	Nature	2021	2026-10-26	Europe PMC REST search DOI:
+Nakatani2021	10.1038/s41467-021-24573-z	VERIFIED	Reconstruction of proto-vertebrate, proto-cyclostome and proto-gnathostome genomes provides new insights into early vertebrate evolution.	Nat Commun	2021	2026-10-26	Europe PMC REST search DOI:
+OneKP2019	10.1038/s41586-019-1693-2	VERIFIED	One thousand plant transcriptomes and the phylogenomics of green plants.	Nature	2019	2026-10-26	Europe PMC REST search DOI:
 Parks2018	10.1038/nbt.4229	VERIFIED	A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life.	Nat Biotechnol	2018	2026-10-26	Europe PMC REST search DOI:
 Parks2022GTDB	10.1093/nar/gkab776	VERIFIED	GTDB: an ongoing census of bacterial and archaeal diversity through a phylogenetically consistent, rank normalized and complete genome-based taxonomy.	Nucleic Acids Res	2022	2026-10-26	Europe PMC REST search DOI:
+Putnam2008	10.1038/nature06967	VERIFIED	The amphioxus genome and the evolution of the chordate karyotype.	Nature	2008	2026-10-26	Europe PMC REST search DOI:
+Puttick2018	10.1016/j.cub.2018.01.063	VERIFIED	The Interrelationships of Land Plants and the Nature of the Ancestral Embryophyte.	Curr Biol	2018	2026-10-26	Europe PMC REST search DOI:
+Qiu2006	10.1073/pnas.0603335103	VERIFIED	The deepest divergences in land plants inferred from phylogenomic evidence.	Proc Natl Acad Sci U S A	2006	2026-10-26	Europe PMC REST search DOI:
+Redmond2021	10.1038/s41467-021-22074-7	VERIFIED	Evidence for sponges as sister to all other animals from partitioned phylogenomics with mixture models and recoding.	Nat Commun	2021	2026-10-26	Europe PMC REST search DOI:
+Robertson2017	10.1186/s13059-017-1241-z	VERIFIED	Lineage-specific rediploidization is a mechanism to explain time-lags between genome duplication and evolutionary diversification.	Genome Biol	2017	2026-10-26	Europe PMC REST search DOI:
+Schmutz2010	10.1038/nature08670	VERIFIED	Genome sequence of the palaeopolyploid soybean.	Nature	2010	2026-10-26	Europe PMC REST search DOI:
+Schultz2023	10.1038/s41586-023-05936-6	VERIFIED	Ancient gene linkages support ctenophores as sister to other animals.	Nature	2023	2026-10-26	Europe PMC REST search DOI:
+Session2016	10.1038/nature19840	VERIFIED	Genome evolution in the allotetraploid frog Xenopus laevis.	Nature	2016	2026-10-26	Europe PMC REST search DOI:
 Shen2016	10.1534/g3.116.034744	VERIFIED	Reconstructing the Backbone of the Saccharomycotina Yeast Phylogeny Using Genome-Scale Data.	G3 (Bethesda)	2016	2026-10-26	Europe PMC REST search DOI:
 Shen2018	10.1016/j.cell.2018.10.023	VERIFIED	Tempo and Mode of Genome Evolution in the Budding Yeast Subphylum.	Cell	2018	2026-10-26	Europe PMC REST search DOI:
+Simakov2020	10.1038/s41559-020-1156-z	VERIFIED	Deeply conserved synteny resolves early events in vertebrate evolution.	Nat Ecol Evol	2020	2026-10-26	Europe PMC REST search DOI:
+Simion2017	10.1016/j.cub.2017.02.031	VERIFIED	A Large and Consistent Phylogenomic Dataset Supports Sponges as the Sister Group to All Other Animals.	Curr Biol	2017	2026-10-26	Europe PMC REST search DOI:
+Wang2011Brassica	10.1038/ng.919	VERIFIED	The genome of the mesopolyploid crop species Brassica rapa.	Nat Genet	2011	2026-10-26	Europe PMC REST search DOI:
+Whelan2015	10.1073/pnas.1503453112	VERIFIED	Error, signal, and the placement of Ctenophora sister to all other animals.	Proc Natl Acad Sci U S A	2015	2026-10-26	Europe PMC REST search DOI:
 Williams2020	10.1038/s41559-019-1040-x	VERIFIED	Phylogenomics provides robust support for a two-domains tree of life.	Nat Ecol Evol	2020	2026-10-26	Europe PMC REST search DOI:
 Wolfe2015	10.1371/journal.pbio.1002221	VERIFIED	Origin of the Yeast Whole-Genome Duplication.	PLoS Biol	2015	2026-10-26	Europe PMC REST search DOI:
 WolfeShields1997	10.1038/42711	VERIFIED	Molecular evidence for an ancient duplication of the entire yeast genome.	Nature	1997	2026-10-26	Europe PMC REST search DOI:
+Zaremba2017	10.1038/nature21031	VERIFIED	Asgard archaea illuminate the origin of eukaryotic cellular complexity.	Nature	2017	2026-10-26	Europe PMC REST search DOI:
+Zuntini2024	10.1038/s41586-024-07324-0	VERIFIED	Phylogenomics and the rise of the angiosperms.	Nature	2024	2026-10-26	Europe PMC REST search DOI:

@@ -1,0 +1,18 @@
+level_id	tree	ncbi_taxid	ncbi_name	ncbi_exact	literature_name	children	n_species	contested	alternative	citation	note
+Chordata	main	7711	Chordata	y	Chordata	BRAFL,Olfactores	17	n		Putnam2008 doi:10.1038/nature06967; Delsuc2006 doi:10.1038/nature04336	root; BRAFL = pre-1R outgroup
+Olfactores	main	7711	Chordata	n	Olfactores (tunicates + vertebrates)	CIOIN,Vertebrata	16	y	Euchordata: cephalochordates sister to vertebrates (species_tree_alt.nwk)	Delsuc2006 doi:10.1038/nature04336	Delsuc 2006 phylogenomics; tunicates fast-evolving
+Vertebrata	main	7742	Vertebrata	y	Vertebrata	PETMA,Gnathostomata	15	n		Simakov2020 doi:10.1038/s41559-020-1156-z; Nakatani2021 doi:10.1038/s41467-021-24573-z	1R on branch into Vertebrata (Simakov 2020); timing relative to cyclostome split contested (Nakatani 2021: cyclostomes after 1R, plus cyclostome-specific hexaploidization) -> interval event
+Gnathostomata	main	7776	Gnathostomata	y	Gnathostomata	CALMI,Euteleostomi	14	n		Simakov2020 doi:10.1038/s41559-020-1156-z; Nakatani2021 doi:10.1038/s41467-021-24573-z; Irisarri2017 doi:10.1038/s41559-017-0240-5	2R (allotetraploid) on branch into Gnathostomata per Simakov 2020 / Nakatani 2021
+Euteleostomi	main	117571	Euteleostomi	y	Osteichthyes (bony vertebrates)	Neopterygii,Sarcopterygii	13	n		Irisarri2017 doi:10.1038/s41559-017-0240-5	
+Neopterygii	main	41665	Neopterygii	y	Neopterygii (Holostei + Teleostei)	LEPOC,Teleostei	7	n		Betancur2017 doi:10.1186/s12862-017-0958-3; Hughes2018 doi:10.1073/pnas.1719358115; Braasch2016 doi:10.1038/ng.3526	gar = unduplicated pre-3R outgroup
+Teleostei	main	186625	Clupeocephala	y	Teleostei (sampled crown = Clupeocephala; no Elopomorpha/Osteoglossomorpha)	DANRE,Euteleosteomorpha	6	n		Hughes2018 doi:10.1073/pnas.1719358115; Betancur2017 doi:10.1186/s12862-017-0958-3	teleost 3R (TGD) on branch into Teleostei
+Euteleosteomorpha	main	1489388	Euteleosteomorpha	y	Euteleosteomorpha	Protacanthopterygii,ORYLA	5	n		Betancur2017 doi:10.1186/s12862-017-0958-3; Hughes2018 doi:10.1073/pnas.1719358115	
+Protacanthopterygii	main	41705	Protacanthopterygii	y	Esociformes + Salmoniformes	ESOLU,Salmonidae	4	n		Betancur2017 doi:10.1186/s12862-017-0958-3; Lien2016 doi:10.1038/nature17164	pike = unduplicated outgroup of Ss4R
+Salmonidae	main	8015	Salmonidae	y	Salmonidae	CORBA,Salmoninae	3	n		Lien2016 doi:10.1038/nature17164; Robertson2017 doi:10.1186/s13059-017-1241-z	Ss4R on branch into Salmonidae; LORe regions rediploidized independently in Coregoninae and Salmoninae (Robertson 2017) -> per-lineage D events
+Salmoninae	main	504568	Salmoninae	y	Salmoninae (Salmo + Oncorhynchus)	SALSA,ONCMY	2	n		Robertson2017 doi:10.1186/s13059-017-1241-z	
+Sarcopterygii	main	8287	Sarcopterygii	y	Sarcopterygii	LATCH,Tetrapoda	6	n		Meyer2021lungfish doi:10.1038/s41586-021-03198-8; Irisarri2017 doi:10.1038/s41559-017-0240-5	coelacanth outside lungfish+tetrapods; no lungfish in panel
+Tetrapoda	main	32523	Tetrapoda	y	Tetrapoda	Xenopus,Amniota	5	n		Irisarri2017 doi:10.1038/s41559-017-0240-5	
+Xenopus	main	8353	Xenopus	y	Xenopus	XENTR,XENLA	2	n		Session2016 doi:10.1038/nature19840	X. laevis allotetraploidy (L/S) = D on the XENLA leaf
+Amniota	main	32524	Amniota	y	Amniota	CHICK,Euarchontoglires	3	n		Irisarri2017 doi:10.1038/s41559-017-0240-5	
+Euarchontoglires	main	314146	Euarchontoglires	y	Euarchontoglires	HUMAN,MOUSE	2	n		Irisarri2017 doi:10.1038/s41559-017-0240-5	
+Euchordata	alt_only	7711	Chordata	n	Cephalochordata + Vertebrata (alternative tree only)	BRAFL,Vertebrata	16	y	alt only	Delsuc2006 doi:10.1038/nature04336	

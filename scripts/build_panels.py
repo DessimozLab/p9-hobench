@@ -56,17 +56,62 @@ CIT = {
     "Parks2022GTDB": "10.1093/nar/gkab776",
     "Williams2020": "10.1038/s41559-019-1040-x",
     "Eme2023": "10.1038/s41586-023-06186-2",
+    # vertebrates
+    "Delsuc2006": "10.1038/nature04336",
+    "Irisarri2017": "10.1038/s41559-017-0240-5",
+    "Betancur2017": "10.1186/s12862-017-0958-3",
+    "Hughes2018": "10.1073/pnas.1719358115",
+    "Meyer2021lungfish": "10.1038/s41586-021-03198-8",
+    "Simakov2020": "10.1038/s41559-020-1156-z",
+    "Nakatani2021": "10.1038/s41467-021-24573-z",
+    "Braasch2016": "10.1038/ng.3526",
+    "Lien2016": "10.1038/nature17164",
+    "Robertson2017": "10.1186/s13059-017-1241-z",
+    "Session2016": "10.1038/nature19840",
+    "Putnam2008": "10.1038/nature06967",
+    # eukaryotes
+    "Burki2020": "10.1016/j.tree.2019.08.008",
+    "Derelle2015": "10.1073/pnas.1420657112",
+    "Whelan2015": "10.1073/pnas.1503453112",
+    "Schultz2023": "10.1038/s41586-023-05936-6",
+    "Simion2017": "10.1016/j.cub.2017.02.031",
+    "Redmond2021": "10.1038/s41467-021-22074-7",
+    "Kapli2020": "10.1126/sciadv.abc5162",
+    "Laumer2019": "10.1098/rspb.2019.0831",
+    "Brown2013": "10.1098/rspb.2013.1755",
+    "James2006": "10.1038/nature05110",
+    "CapellaGutierrez2012": "10.1186/1741-7007-10-47",
+    "Zaremba2017": "10.1038/nature21031",
+    # plants
+    "OneKP2019": "10.1038/s41586-019-1693-2",
+    "Puttick2018": "10.1016/j.cub.2018.01.063",
+    "Harris2020": "10.1016/j.cub.2020.03.048",
+    "Qiu2006": "10.1073/pnas.0603335103",
+    "Amborella2013": "10.1126/science.1241089",
+    "Zuntini2024": "10.1038/s41586-024-07324-0",
+    "Schmutz2010": "10.1038/nature08670",
+    "Wang2011Brassica": "10.1038/ng.919",
+    "Jiao2011": "10.1038/nature09916",
 }
 
 # ---------------------------------------------------------------------------------------------------------------
 # Extra species beyond the survey-C core lists: code -> (upid, why)
 EXTRA = {
-    "V": {},
-    "P": {},
+    "V": {"ONCMY": ("UP000694395", "rainbow trout (Ss4R salmonid; Salmoninae); reference proteome"),
+          "ESOLU": ("UP000265140", "northern pike (Esociformes; unduplicated sister lineage of salmonids for Ss4R)"),
+          "CORBA": ("UP000502089", "Coregonus sp. 'balchen' (Coregoninae; splits LORe/AORe Ss4R regions, "
+                                   "SYNTHESIS A5); NON-reference proteome, UniParc sequences")},
+    "P": {"PHAVU": ("UP000000226", "common bean (Phaseoleae; splits the soybean-specific WGD from the "
+                                   "older legume WGD, SYNTHESIS A6)")},
 }
+# species needing the stricter sequence-mapping identity threshold (hobench.panel STRICT_SPECIES + Coregonus)
+STRICT = {"XENLA", "SALSA", "ONCMY", "CORBA"}
 
 # Species-specific notes added to the `why` column
 NOTES = {
+    "CORBA": "UniProt mnemonic 9TELE is not species-specific, code CORBA chosen here; UniParc UPIs as IDs "
+             "(41,647 distinct sequences for 41,750 proteins); no gene-level canonical collapsing (QC: OMArk)",
+    "ONCMY": "PI request named it OMYKI; UniProt/OMA mnemonic ONCMY used (already in hobench STRICT_SPECIES)",
     "ZYGRC": "FTP canonical file not found because REST omits superkingdom; fetched via REST stream (4,987 = geneCount)",
 }
 
@@ -195,6 +240,150 @@ LEVELS = {
     },
 }
 
+# ---------------------------------------------------------------------------------------------------------------
+# Panel V. Chordate backbone: tunicates sister to vertebrates (Delsuc 2006); jawed-vertebrate timetree
+# (Irisarri 2017); ray-finned fishes Betancur-R 2017 / Hughes 2018 (gar = Holostei sister to Teleostei;
+# Otomorpha (zebrafish) sister to Euteleosteomorpha; Esociformes sister to Salmoniformes; Coregoninae sister to
+# Salmoninae). Only topology; no polytomy needed resolving except the trivial ones of the NCBI tree.
+TREES["V"] = ("(BRAFL,(CIOIN,(PETMA,(CALMI,((LEPOC,(DANRE,((ESOLU,(CORBA,(SALSA,ONCMY)Salmoninae)Salmonidae)"
+              "Protacanthopterygii,ORYLA)Euteleosteomorpha)Teleostei)Neopterygii,(LATCH,((XENTR,XENLA)Xenopus,"
+              "(CHICK,(HUMAN,MOUSE)Euarchontoglires)Amniota)Tetrapoda)Sarcopterygii)Euteleostomi)Gnathostomata)"
+              "Vertebrata)Olfactores)Chordata;")
+# Alternative: "Euchordata" (cephalochordates sister to vertebrates), the pre-2006 consensus refuted by Delsuc 2006.
+ALT_TREES["V"] = TREES["V"].replace("(BRAFL,(CIOIN,(PETMA", "(CIOIN,(BRAFL,(PETMA").replace(
+    ")Vertebrata)Olfactores)Chordata;", ")Vertebrata)Euchordata)Chordata;")
+LEVELS["V"] = {
+    "Chordata": ("Chordata", "n", "", ["Putnam2008", "Delsuc2006"], "root; BRAFL = pre-1R outgroup"),
+    "Olfactores": ("Olfactores (tunicates + vertebrates)", "y",
+                   "Euchordata: cephalochordates sister to vertebrates (species_tree_alt.nwk)", ["Delsuc2006"],
+                   "Delsuc 2006 phylogenomics; tunicates fast-evolving"),
+    "Vertebrata": ("Vertebrata", "n", "", ["Simakov2020", "Nakatani2021"],
+                   "1R on branch into Vertebrata (Simakov 2020); timing relative to cyclostome split contested "
+                   "(Nakatani 2021: cyclostomes after 1R, plus cyclostome-specific hexaploidization) -> interval event"),
+    "Gnathostomata": ("Gnathostomata", "n", "", ["Simakov2020", "Nakatani2021", "Irisarri2017"],
+                      "2R (allotetraploid) on branch into Gnathostomata per Simakov 2020 / Nakatani 2021"),
+    "Euteleostomi": ("Osteichthyes (bony vertebrates)", "n", "", ["Irisarri2017"], ""),
+    "Neopterygii": ("Neopterygii (Holostei + Teleostei)", "n", "", ["Betancur2017", "Hughes2018", "Braasch2016"],
+                    "gar = unduplicated pre-3R outgroup"),
+    "Teleostei": ("Teleostei (sampled crown = Clupeocephala; no Elopomorpha/Osteoglossomorpha)", "n", "", ["Hughes2018", "Betancur2017"], "teleost 3R (TGD) on branch into Teleostei"),
+    "Euteleosteomorpha": ("Euteleosteomorpha", "n", "", ["Betancur2017", "Hughes2018"], ""),
+    "Protacanthopterygii": ("Esociformes + Salmoniformes", "n", "", ["Betancur2017", "Lien2016"],
+                            "pike = unduplicated outgroup of Ss4R"),
+    "Salmonidae": ("Salmonidae", "n", "", ["Lien2016", "Robertson2017"],
+                   "Ss4R on branch into Salmonidae; LORe regions rediploidized independently in Coregoninae and "
+                   "Salmoninae (Robertson 2017) -> per-lineage D events"),
+    "Salmoninae": ("Salmoninae (Salmo + Oncorhynchus)", "n", "", ["Robertson2017"], ""),
+    "Sarcopterygii": ("Sarcopterygii", "n", "", ["Meyer2021lungfish", "Irisarri2017"],
+                      "coelacanth outside lungfish+tetrapods; no lungfish in panel"),
+    "Tetrapoda": ("Tetrapoda", "n", "", ["Irisarri2017"], ""),
+    "Xenopus": ("Xenopus", "n", "", ["Session2016"], "X. laevis allotetraploidy (L/S) = D on the XENLA leaf"),
+    "Amniota": ("Amniota", "n", "", ["Irisarri2017"], ""),
+    "Euarchontoglires": ("Euarchontoglires", "n", "", ["Irisarri2017"], ""),
+    "Euchordata": ("Cephalochordata + Vertebrata (alternative tree only)", "y", "alt only", ["Delsuc2006"], ""),
+}
+
+# Panel E. Two-domain tree: eukaryotes nested in Archaea as sister to Asgard (Williams 2020; Eme 2023), TACK
+# sister to Asgard+Eukaryota; bacterial part as panel K. Eukaryotic root between Opimoda (here = Amorphea) and
+# Diphoda (Derelle 2015; Excavata not monophyletic: Discoba + Metamonada on the Diphoda side); supergroups after
+# Burki 2020; Obazoa (apusomonads sister to opisthokonts, Brown 2013); Microsporidia earliest-diverging sequenced
+# fungi (Capella-Gutierrez 2012; James 2006). Animal root: ctenophores-first (Whelan 2015; Schultz 2023 synteny),
+# Placozoa sister to Cnidaria+Bilateria (Laumer 2019 = ParaHoxozoa); alternative sponges-first.
+TREES["E"] = ("(((BACSU,SYNY3)Terrabacteria,(ECOLI,BRADU)Pseudomonadota)Bacteria,((THEKO,HALSA)Euryarchaeota,"
+              "((NITMS,SACS2)TACK,(LOKOS,(((DICDI,ENTH1)Amoebozoa,(THETR,((ENCCU,(BATDJ,(YEAST,NEUCR)Ascomycota)"
+              "Chytridiomycota_Dikarya)Fungi,(CAPO3,(MONBE,(MNELE,(AMPQE,(TRIAD,(NEMVE,(HUMAN,DROME)Bilateria)"
+              "Planulozoa)ParaHoxozoa)Myriazoa)Metazoa)Choanozoa)Holozoa)Opisthokonta)Obazoa)Amorphea,"
+              "(((CYAME,(ARATH,CHLRE)Viridiplantae)Archaeplastida,((THAPS,PHYRM)Stramenopiles,(PLAF7,ICHMU)Alveolata)"
+              "Stramenopiles_Alveolata)Diaphoretickes,((TRYB2,NAEGR)Discoba,GIAIC)Discoba_Metamonada)Diphoda)"
+              "Eukaryota)Asgard_Eukaryota)TACK_Asgard_Eukaryota)Archaea_Eukaryota)LUCA;")
+ALT_TREES["E"] = TREES["E"].replace("(MNELE,(AMPQE,(TRIAD,(NEMVE,(HUMAN,DROME)Bilateria)Planulozoa)ParaHoxozoa)Myriazoa)",
+                                    "(AMPQE,(MNELE,(TRIAD,(NEMVE,(HUMAN,DROME)Bilateria)Planulozoa)ParaHoxozoa)"
+                                    "Ctenophora_ParaHoxozoa)")
+LEVELS["E"] = {
+    "LUCA": ("LUCA (Bacteria / Archaea+Eukaryota split)", "y", "three-domain tree (eukaryotes sister to Archaea)",
+             ["Williams2020", "Coleman2021"], ""),
+    "Bacteria": ("Bacteria", "n", "", ["Coleman2021"], "rooted between Terrabacteria and Gracilicutes"),
+    "Terrabacteria": ("Terrabacteria", "n", "", ["Coleman2021"], ""),
+    "Pseudomonadota": ("Pseudomonadota (Alpha + Gamma)", "n", "", ["Parks2022GTDB"], "mitochondrial ancestry (BRADU)"),
+    "Archaea_Eukaryota": ("Archaea + Eukaryota (two-domain)", "y", "Eukaryota sister to monophyletic Archaea",
+                          ["Williams2020", "Eme2023"], ""),
+    "Euryarchaeota": ("Euryarchaeota", "n", "", ["Williams2020"], ""),
+    "TACK_Asgard_Eukaryota": ("TACK + Asgard + Eukaryota", "y", "TACK sister to Euryarchaeota+Asgard",
+                              ["Williams2020", "Eme2023"], ""),
+    "TACK": ("TACK", "n", "", ["Williams2020"], ""),
+    "Asgard_Eukaryota": ("Asgard archaea + Eukaryota", "y", "eukaryotes nested within Asgard (Heimdallarchaeia; "
+                         "Eme 2023) - same panel topology since only Lokiarchaeia is sampled",
+                         ["Eme2023", "Zaremba2017", "Williams2020"], ""),
+    "Eukaryota": ("Eukaryota (LECA)", "y", "root between Discoba and the rest, or within Excavata",
+                  ["Derelle2015", "Burki2020"], "root between Opimoda and Diphoda"),
+    "Amorphea": ("Amorphea (= Opimoda in this panel: no malawimonads/CRuMs)", "n", "", ["Derelle2015", "Burki2020"], ""),
+    "Amoebozoa": ("Amoebozoa", "n", "", ["Burki2020"], ""),
+    "Obazoa": ("Obazoa (Apusomonadida + Opisthokonta)", "n", "", ["Brown2013", "Burki2020"], ""),
+    "Opisthokonta": ("Opisthokonta", "n", "", ["Burki2020"], ""),
+    "Fungi": ("Fungi (incl. Microsporidia)", "y", "Microsporidia long-branch placement (attraction to other fast taxa)",
+              ["CapellaGutierrez2012", "James2006"], ""),
+    "Chytridiomycota_Dikarya": ("Chytridiomycota + Dikarya", "n", "", ["James2006"], ""),
+    "Ascomycota": ("Ascomycota", "n", "", ["James2006"], ""),
+    "Holozoa": ("Holozoa", "n", "", ["Burki2020"], ""),
+    "Choanozoa": ("Choanoflagellata + Metazoa", "n", "", ["Burki2020"], ""),
+    "Metazoa": ("Metazoa", "y", "sponges-first (species_tree_alt.nwk; Simion 2017, Redmond 2021) vs "
+                "ctenophores-first (main; Whelan 2015, Schultz 2023); may reflect systematic error (Kapli 2020)",
+                ["Schultz2023", "Whelan2015", "Simion2017", "Redmond2021", "Kapli2020"], "score root-agnostically"),
+    "Myriazoa": ("Porifera + ParaHoxozoa (ctenophores-first)", "y", "alt: Ctenophora_ParaHoxozoa",
+                 ["Schultz2023", "Whelan2015"], ""),
+    "ParaHoxozoa": ("ParaHoxozoa (Placozoa + Cnidaria + Bilateria)", "y", "Placozoa sister to Cnidaria",
+                    ["Laumer2019"], ""),
+    "Planulozoa": ("Cnidaria + Bilateria", "y", "Placozoa+Cnidaria clade", ["Laumer2019"], ""),
+    "Bilateria": ("Bilateria", "n", "", ["Laumer2019"], ""),
+    "Diphoda": ("Diphoda (Diaphoretickes + Discoba + Metamonada)", "y", "Excavata monophyletic or root within it",
+                ["Derelle2015", "Burki2020"], ""),
+    "Diaphoretickes": ("Diaphoretickes", "n", "", ["Burki2020"], ""),
+    "Archaeplastida": ("Archaeplastida", "y", "Archaeplastida non-monophyletic (cryptists inside)", ["Burki2020"], ""),
+    "Viridiplantae": ("Viridiplantae", "n", "", ["OneKP2019"], ""),
+    "Stramenopiles_Alveolata": ("SAR without Rhizaria (TSAR)", "n", "", ["Burki2020"], "no Rhizaria in panel"),
+    "Stramenopiles": ("Stramenopiles", "n", "", ["Burki2020"], ""),
+    "Alveolata": ("Alveolata", "n", "", ["Burki2020"], ""),
+    "Discoba_Metamonada": ("Discoba + Metamonada (excavates)", "y", "Discoba and Metamonada not sisters",
+                           ["Derelle2015", "Burki2020"], ""),
+    "Discoba": ("Discoba", "n", "", ["Burki2020"], ""),
+    "Ctenophora_ParaHoxozoa": ("Ctenophora + ParaHoxozoa (sponges-first; alternative tree only)", "y", "alt only",
+                               ["Simion2017", "Redmond2021"], ""),
+}
+
+# Panel P. OneKP 2019 backbone; bryophyte monophyly (Puttick 2018; Harris 2020; OneKP 2019) - with only a
+# liverwort and a moss this is the Setaphyta node; Amborella sister to all other angiosperms (Amborella 2013;
+# Zuntini 2024); Vitales sister to the remaining rosids; Brassicaceae (malvids) and Fabaceae (fabids) as eurosids.
+TREES["P"] = ("((OSTLU,CHLRE)Chlorophyta,(KLENI,((MARPO,PHYPA)Setaphyta,(SELMO,(AMBTC,((ORYSJ,MAIZE)Poaceae,(VITVI,"
+              "((ARATH,BRARP)Brassicaceae,(SOYBN,PHAVU)Phaseoleae)Eurosids)Rosids)Mesangiospermae)Magnoliopsida)"
+              "Tracheophyta)Embryophyta)Streptophyta)Viridiplantae;")
+# Alternative: liverworts sister to all other land plants (bryophyte paraphyly; Qiu 2006).
+ALT_TREES["P"] = TREES["P"].replace("((MARPO,PHYPA)Setaphyta,(SELMO,", "(MARPO,(PHYPA,(SELMO,").replace(
+    ")Tracheophyta)Embryophyta)", ")Tracheophyta)Mosses_Tracheophyta)Embryophyta)")
+LEVELS["P"] = {
+    "Viridiplantae": ("Viridiplantae", "n", "", ["OneKP2019"], "root"),
+    "Chlorophyta": ("Chlorophyta", "n", "", ["OneKP2019"], ""),
+    "Streptophyta": ("Streptophyta", "n", "", ["OneKP2019", "Puttick2018"],
+                     "KLENI = Klebsormidiophyceae; Zygnematophyceae (land-plant sister) not sampled"),
+    "Embryophyta": ("Embryophyta (land plants)", "n", "", ["Puttick2018", "OneKP2019"], ""),
+    "Setaphyta": ("Setaphyta (liverworts + mosses; bryophytes)", "y",
+                  "bryophyte paraphyly, liverworts-first (species_tree_alt.nwk; Qiu 2006)",
+                  ["Puttick2018", "Harris2020", "OneKP2019", "Qiu2006"], ""),
+    "Tracheophyta": ("Tracheophyta", "n", "", ["OneKP2019"], ""),
+    "Magnoliopsida": ("Angiospermae", "y", "Amborella+Nymphaeales sister to other angiosperms (same panel topology; "
+                      "no Nymphaeales sampled)", ["Amborella2013", "Zuntini2024", "OneKP2019"],
+                      "epsilon (angiosperm) WGD on branch into Magnoliopsida; zeta (seed plant) on the same panel "
+                      "branch since no gymnosperm is sampled (Jiao 2011)"),
+    "Mesangiospermae": ("Mesangiospermae (monocots + eudicots)", "n", "", ["Zuntini2024"], ""),
+    "Poaceae": ("Poaceae", "n", "", ["Zuntini2024"], "rho WGD before the rice/maize split; maize tetraploidy on MAIZE leaf"),
+    "Rosids": ("Rosids incl. Vitales (core eudicot representatives)", "n", "", ["Zuntini2024"],
+               "gamma hexaploidy before the VITVI split"),
+    "Eurosids": ("Eurosids (malvids + fabids)", "n", "", ["Zuntini2024"], ""),
+    "Brassicaceae": ("Brassicaceae", "n", "", ["Wang2011Brassica"],
+                     "alpha/beta WGDs before ARATH/BRARP split; Brassica triplication on BRARP leaf"),
+    "Phaseoleae": ("Phaseoleae (Glycine + Phaseolus)", "n", "", ["Schmutz2010"],
+                   "legume WGD (~59 Ma) before the split; Glycine WGD (~13 Ma) on SOYBN leaf"),
+    "Mosses_Tracheophyta": ("mosses + vascular plants (alternative tree only)", "y", "alt only", ["Qiu2006"], ""),
+}
+
 
 # ---------------------------------------------------------------------------------------------------------------
 def sha256_file(p: Path) -> str:
@@ -256,7 +445,7 @@ def build_species(panel: str, check_sha: bool) -> list[dict]:
                          mnemonic=uniprot_mnemonic(d / "header_map.tsv"), uniprot_release=m["uniprot_release"],
                          proteome_type=m["proteome_type"], fetch_source=m["source"],
                          fasta_path=os.path.relpath(fa, ROOT), n_proteins=n, sha256=sha,
-                         source_set=s["source_set"], why=why))
+                         source_set=s["source_set"], strict_mapping=int(s["code"] in STRICT), why=why))
     # remove stale links
     codes = {r["code"] for r in rows}
     for f in (pdir / "proteomes").glob("*.fa"):

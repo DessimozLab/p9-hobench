@@ -1,0 +1,15 @@
+level_id	tree	ncbi_taxid	ncbi_name	ncbi_exact	literature_name	children	n_species	contested	alternative	citation	note
+Viridiplantae	main	33090	Viridiplantae	y	Viridiplantae	Chlorophyta,Streptophyta	14	n		OneKP2019 doi:10.1038/s41586-019-1693-2	root
+Chlorophyta	main	3041	Chlorophyta	y	Chlorophyta	OSTLU,CHLRE	2	n		OneKP2019 doi:10.1038/s41586-019-1693-2	
+Streptophyta	main	35493	Streptophyta	y	Streptophyta	KLENI,Embryophyta	12	n		OneKP2019 doi:10.1038/s41586-019-1693-2; Puttick2018 doi:10.1016/j.cub.2018.01.063	KLENI = Klebsormidiophyceae; Zygnematophyceae (land-plant sister) not sampled
+Embryophyta	main	3193	Embryophyta	y	Embryophyta (land plants)	Setaphyta,Tracheophyta	11	n		Puttick2018 doi:10.1016/j.cub.2018.01.063; OneKP2019 doi:10.1038/s41586-019-1693-2	
+Setaphyta	main	3193	Embryophyta	n	Setaphyta (liverworts + mosses; bryophytes)	MARPO,PHYPA	2	y	bryophyte paraphyly, liverworts-first (species_tree_alt.nwk; Qiu 2006)	Puttick2018 doi:10.1016/j.cub.2018.01.063; Harris2020 doi:10.1016/j.cub.2020.03.048; OneKP2019 doi:10.1038/s41586-019-1693-2; Qiu2006 doi:10.1073/pnas.0603335103	
+Tracheophyta	main	58023	Tracheophyta	y	Tracheophyta	SELMO,Magnoliopsida	9	n		OneKP2019 doi:10.1038/s41586-019-1693-2	
+Magnoliopsida	main	3398	Magnoliopsida	y	Angiospermae	AMBTC,Mesangiospermae	8	y	Amborella+Nymphaeales sister to other angiosperms (same panel topology; no Nymphaeales sampled)	Amborella2013 doi:10.1126/science.1241089; Zuntini2024 doi:10.1038/s41586-024-07324-0; OneKP2019 doi:10.1038/s41586-019-1693-2	epsilon (angiosperm) WGD on branch into Magnoliopsida; zeta (seed plant) on the same panel branch since no gymnosperm is sampled (Jiao 2011)
+Mesangiospermae	main	1437183	Mesangiospermae	y	Mesangiospermae (monocots + eudicots)	Poaceae,Rosids	7	n		Zuntini2024 doi:10.1038/s41586-024-07324-0	
+Poaceae	main	4479	Poaceae	y	Poaceae	ORYSJ,MAIZE	2	n		Zuntini2024 doi:10.1038/s41586-024-07324-0	rho WGD before the rice/maize split; maize tetraploidy on MAIZE leaf
+Rosids	main	71275	rosids	y	Rosids incl. Vitales (core eudicot representatives)	VITVI,Eurosids	5	n		Zuntini2024 doi:10.1038/s41586-024-07324-0	gamma hexaploidy before the VITVI split
+Eurosids	main	71275	rosids	n	Eurosids (malvids + fabids)	Brassicaceae,Phaseoleae	4	n		Zuntini2024 doi:10.1038/s41586-024-07324-0	
+Brassicaceae	main	3700	Brassicaceae	y	Brassicaceae	ARATH,BRARP	2	n		Wang2011Brassica doi:10.1038/ng.919	alpha/beta WGDs before ARATH/BRARP split; Brassica triplication on BRARP leaf
+Phaseoleae	main	163735	Phaseoleae	y	Phaseoleae (Glycine + Phaseolus)	SOYBN,PHAVU	2	n		Schmutz2010 doi:10.1038/nature08670	legume WGD (~59 Ma) before the split; Glycine WGD (~13 Ma) on SOYBN leaf
+Mosses_Tracheophyta	alt_only	3193	Embryophyta	n	mosses + vascular plants (alternative tree only)	PHYPA,Tracheophyta	10	y	alt only	Qiu2006 doi:10.1073/pnas.0603335103	
