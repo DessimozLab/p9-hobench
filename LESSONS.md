@@ -1,12 +1,15 @@
 # LESSONS — process rules for running this project efficiently
 (one line per rule, with evidence; pruned at each milestone)
 
-- Activate tools by prepending conda_envs/ortho/bin to PATH (orthofinder/nextflow fail without it: java/module not found). Evidence: M0 env check.
-- Usable RAM is ~50 GB (slurm cgroup), NOT the 503 GB shown by free; omamer+LUCA needs 14 GB/process → cap parallel omamer at 2. Evidence: 4 parallel omamer killed; numpy probe died after 48 GB (M0).
-- Put tool work dirs (nextflow -work-dir, OrthoFinder temp) on local NVMe /tmp (679 GB free), not on /scratch: FastOMA on 4 yeasts spent 31 min sys vs 22 min user time (11.5 min wall) from small-file I/O on scratch. Evidence: runs/timing (M0).
-- Nextflow/FastOMA needs absolute paths for --input/--output_folder ("Not a valid path value"). Evidence: first FastOMA attempt failed in 1 s.
-- Never let demo/test scripts write into shared data dirs (data/proteomes): toolkit demo wiped 109 freshly downloaded proteomes. Evidence: M1, re-download needed.
-- Never run >5 subagents concurrently: 13 parallel Opus agents exhausted the account session limit within ~1 h and ALL died mid-task (lost T+1h05→T+4h54). Prefer resuming agents (SendMessage) over relaunching; prefer Sonnet for table parsing/engineering; tell agents to grep/head instead of reading big files. Evidence: rate-limit 429 at ~14:20 UTC, reset 18:10 UTC.
-- Run negative controls on real data before trusting a metric: all-singletons scored 0.86 YGOB event recovery (> both tools), exposing untestable events (unbounded interval + single-gene copies). Evidence: results/Y_full first pass (T+11h).
-- Ask humans for papers early: the REQUESTED.md list (posted T+0h45) was ~90% fulfilled within 1.5 h; checking the folder only at T+10h delayed use of globin/Xenopus/kinome sources. Check requested/ every milestone (scripts/check_requested.sh).
-- Verify "literature" tables for hidden tool provenance: Braasch 2016 ohnolog tables derive from Ensembl Compara (denylisted) — caught only at curation time. Evidence: V05 cancelled (T+11h).
+- Prepend conda_envs/ortho/bin to PATH and use absolute paths for nextflow/FastOMA --input/--output_folder. Evidence: M0 env check (java/module not found); first FastOMA attempt failed in 1 s.
+- Plan for ~50 GB usable RAM (cgroup), not the 503 GB `free` shows; cap parallel omamer at 2 (14 GB each). Evidence: 4 parallel omamer killed; numpy probe died at 48 GB (M0).
+- Put tool work dirs (nextflow -work-dir, OrthoFinder temp) on local NVMe /tmp, not /scratch. Evidence: FastOMA on 4 yeasts, 31 min sys vs 22 min user, 11.5 min wall (M0).
+- Never let demo/test scripts write into shared data dirs. Evidence: toolkit demo wiped 109 downloaded proteomes (M1).
+- Cap concurrent agents at <=4-5; resume (SendMessage) rather than relaunch; use Sonnet for parsing/engineering; tell agents to grep/head big files. Evidence: 13 agents hit 429 at T+1h05, all died (lost ~3.8 h); second outage ~20:20-23:10 UTC (D5, D8).
+- Run negative controls (all-singletons, flat baseline, trivial predictors) on real data before trusting any metric. Evidence: round-1 reviewers + toys found point-level refs and trivial-predictor wins; singletons scored 0.86 YGOB event recovery, exposing untestable events (ERRATA E1, E2).
+- Use independent multi-reviewer rounds on design before building at scale. Evidence: round 1 (7 reviewers) found real defects (interval refs, beta-lactamase error, silent FastOMA renaming); fixed in DESIGN v1 (M2).
+- Ask humans for papers/data early and check requested/ every milestone (scripts/check_requested.sh). Evidence: REQUESTED.md ~90% fulfilled in 1.5 h but not checked until T+10h; ~45/50 delivered (M1, M4).
+- Check "literature" tables for hidden tool provenance (denylist audit early, not at curation end). Evidence: Braasch 2016 ohnologs derive from Ensembl Compara, V05 cancelled (T+11h); audit_sources.py found 0 violations after.
+- Make provenance mechanical: parsers, verified quotes, blind re-derivation, freeze by hash/tag; pre-register thresholds and do not relax. Evidence: blind verification 21/22 pass; 80% mapping rule kept (D7, D3, M4).
+- Abandon fast with a logged reason when a family lacks panel-species IDs (check >=4 panel species up front). Evidence: K03, E09, E10, P06, Y04 abandoned; E06 and P01 stayed non-headline (M3).
+- Cut scope early when budget is the bottleneck, and freeze as soon as launched work finishes. Evidence: D8 cut six items; D9 froze at T+10h30 vs T+12 target (M4).
