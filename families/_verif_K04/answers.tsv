@@ -1,0 +1,61 @@
+item_id	answer	evidence
+K04.1.031	COG1685 Archaeal shikimate kinase	cog20_panelK.csv row for WP_010902901.1 (species HALSA); name from cog-20.def.tab
+K04.1.032	COG0696 Phosphoglycerate mutase (BPG-independent	cog20_panelK.csv row for WP_010873233.1 (species SYNY3); name from cog-20.def.tab
+K04.1.033	COG0703 Shikimate kinase	cog20_panelK.csv row for NP_206956.1 (species HELPY); name from cog-20.def.tab
+K04.1.034	COG0588 Phosphoglycerate mutase (BPG-dependent)	cog20_panelK.csv row for NP_220241.1 (species CHLTR); name from cog-20.def.tab
+K04.1.035	COG1190 Lysyl-tRNA synthetase (class II)	cog20_panelK.csv row for NP_213822.1 (species AQUAE); name from cog-20.def.tab
+K04.1.036	COG1384 Lysyl-tRNA synthetase, class I	cog20_panelK.csv row for WP_012309955.1 (species KORCO); name from cog-20.def.tab
+K04.1.037	COG0588 Phosphoglycerate mutase (BPG-dependent)	cog20_panelK.csv row for NP_810573.1 (species BACTN); name from cog-20.def.tab
+K04.1.038	COG0605 Superoxide dismutase	cog20_panelK.csv row for NP_253056.1 (species PSEAE); name from cog-20.def.tab
+K04.1.039	COG1190 Lysyl-tRNA synthetase (class II)	cog20_panelK.csv row for NP_811035.1 (species BACTN); name from cog-20.def.tab
+K04.1.040	COG2032 Cu/Zn superoxide dismutase	cog20_panelK.csv row for NP_389822.1 (species BACSU); name from cog-20.def.tab
+K04.1.041	COG1685 Archaeal shikimate kinase	cog20_panelK.csv row for WP_010870958.1 (species METJA); name from cog-20.def.tab
+K04.1.042	COG2032 Cu/Zn superoxide dismutase	cog20_panelK.csv row for AAM05808.1 (species METAC); name from cog-20.def.tab
+K04.1.043	COG1384 Lysyl-tRNA synthetase, class I	cog20_panelK.csv row for WP_010870043.1 (species METJA); name from cog-20.def.tab
+K04.1.044	COG1685 Archaeal shikimate kinase	cog20_panelK.csv row for WP_052568331.1 (species KORCO); name from cog-20.def.tab
+K04.1.045	COG0696 Phosphoglycerate mutase (BPG-independent	cog20_panelK.csv row for NP_207765.1 (species HELPY); name from cog-20.def.tab
+K04.1.046	COG1190 Lysyl-tRNA synthetase (class II)	cog20_panelK.csv row for NP_712176.1 (species LEPIN); name from cog-20.def.tab
+K04.1.047	COG0169 Shikimate 5-dehydrogenase / COG0710 3-dehydroquinate dehydratase	cog20_panelK.csv row for NP_219879.1 (species CHLTR); name from cog-20.def.tab
+K04.1.048	COG0710 3-dehydroquinate dehydratase	cog20_panelK.csv row for ABX12447.1 (species NITMS); name from cog-20.def.tab
+K04.1.049	COG1685 Archaeal shikimate kinase	cog20_panelK.csv row for ABX12445.1 (species NITMS); name from cog-20.def.tab
+K04.1.050	COG2032 Cu/Zn superoxide dismutase	cog20_panelK.csv row for NP_295269.1 (species DEIRA); name from cog-20.def.tab
+K04.1.051	COG0710 3-dehydroquinate dehydratase	cog20_panelK.csv row for WP_052567961.1 (species KORCO); name from cog-20.def.tab
+K04.1.052	COG0710 3-dehydroquinate dehydratase	cog20_panelK.csv row for AAM07932.1 (species METAC); name from cog-20.def.tab
+K04.1.053	COG0605 Superoxide dismutase	cog20_panelK.csv row for NP_416173.1 (species ECOLI); name from cog-20.def.tab
+K04.1.054	COG1190 Lysyl-tRNA synthetase (class II)	cog20_panelK.csv row for NP_387963.1 (species BACSU); name from cog-20.def.tab
+K04.1.055	COG0588 Phosphoglycerate mutase (BPG-dependent)	cog20_panelK.csv row for NP_810018.1 (species BACTN); name from cog-20.def.tab
+K04.1.056	COG0605 Superoxide dismutase	cog20_panelK.csv row for WP_010902860.1 (species HALSA); name from cog-20.def.tab
+K04.1.057	COG0696 Phosphoglycerate mutase (BPG-independent	cog20_panelK.csv row for AAM06734.1 (species METAC); name from cog-20.def.tab
+K04.1.058	COG0337 3-dehydroquinate synthetase / COG0703 Shikimate kinase	cog20_panelK.csv row for NP_228159.1 (species THEMA); name from cog-20.def.tab
+K04.1.059	COG1685 Archaeal shikimate kinase	cog20_panelK.csv row for WP_011249219.1 (species THEKO); name from cog-20.def.tab
+K04.1.060	COG1190 Lysyl-tRNA synthetase (class II)	cog20_panelK.csv row for NP_220300.1 (species CHLTR); name from cog-20.def.tab
+K04.1.001	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: LysRS-I (1IRX, Adenine nucleotide alpha hydrolase-like) vs LysRS-II (1BBU, class II aaRS))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.002	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: LysRS-I (1IRX, Adenine nucleotide alpha hydrolase-like) vs LysRS-II (1BBU, class II aaRS))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.003	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: LysRS-I (1IRX, Adenine nucleotide alpha hydrolase-like) vs LysRS-II (1BBU, class II aaRS))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.004	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: LysRS-II (1BBU) vs LysRS-I (1IRX))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.005	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: LysRS-II (1BBU) vs LysRS-I (1IRX))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.006	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: LysRS-II (1BBU) vs LysRS-I (1IRX))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.007	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: FeMn SOD (1ISA) vs CuZn SOD (1ESO))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.008	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: FeMn SOD (1ISA) vs CuZn SOD (1ESO))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.009	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: FeMn SOD (1ISA) vs CuZn SOD (1ESO))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.010	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: CuZn SOD (1ESO) vs FeMn SOD (1ISA))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.011	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: CuZn SOD (1ESO) vs FeMn SOD (1ISA))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.012	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: CuZn SOD (1ESO) vs FeMn SOD (1ISA))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.013	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: PGM-like (1E59) vs alkaline-phosphatase-like iPGM (1EJJ))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.014	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: PGM-like (1E59) vs alkaline-phosphatase-like iPGM (1EJJ))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.015	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: PGM-like (1E59) vs alkaline-phosphatase-like iPGM (1EJJ))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.016	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: iPGM (1EJJ) vs dPGM (1E59))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.017	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: iPGM (1EJJ) vs dPGM (1E59))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.018	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: iPGM (1EJJ) vs dPGM (1E59))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.019	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: P-loop SK (1SHK) vs GHMP kinase fold)	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.020	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: P-loop SK (1SHK) vs GHMP kinase fold)	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.021	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: P-loop SK (1SHK) vs GHMP kinase fold)	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.022	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: GHMP SK vs P-loop SK (1SHK))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.023	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: GHMP SK vs P-loop SK (1SHK))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.024	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: GHMP SK vs P-loop SK (1SHK))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.025	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: DHQase I TIM barrel (1QFE) vs DHQase II flavodoxin-like (1UQR))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.026	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: DHQase I TIM barrel (1QFE) vs DHQase II flavodoxin-like (1UQR))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.027	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: DHQase I TIM barrel (1QFE) vs DHQase II flavodoxin-like (1UQR))	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.028	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: DHQase II flavodoxin-like vs DHQase I TIM barrel)	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.029	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: DHQase II flavodoxin-like vs DHQase I TIM barrel)	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)
+K04.1.030	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: DHQase II flavodoxin-like vs DHQase I TIM barrel)	Table S2 EC rows list both forms with different SCOP folds and SupFam; paper calls these NISE (analogous, non-homologous)

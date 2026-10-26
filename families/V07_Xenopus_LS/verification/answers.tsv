@@ -1,0 +1,61 @@
+item_id	answer	evidence
+V07_Xenopus_LS.1.001	L	Ks.xlsx XT-XL.ortho row 10515: id matches XL.SeqID1 (.L); class homeolog
+V07_Xenopus_LS.1.002	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.003	L	Ks.xlsx XT-XL.ortho row 893: id matches XL.SeqID1 (.L); class homeolog
+V07_Xenopus_LS.1.004	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.005	L	Ks.xlsx XT-XL.ortho row 11266: id matches XL.SeqID1 (.L); class homeolog
+V07_Xenopus_LS.1.006	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.007	L	Ks.xlsx XT-XL.ortho row 3068: id matches XL.SeqID1 (.L); class homeolog
+V07_Xenopus_LS.1.008	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.009	L	Ks.xlsx XT-XL.ortho row 2994: id matches XL.SeqID1 (.L); class homeolog
+V07_Xenopus_LS.1.010	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.011	XT	Ks.xlsx XT-XL.ortho row 2757: id matches XT.SeqID (X. tropicalis ortholog); class homeolog
+V07_Xenopus_LS.1.012	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.013	S	Ks.xlsx XT-XL.ortho row 3435: id matches XL.SeqID2 (.S); class homeolog
+V07_Xenopus_LS.1.014	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.015	XT	Ks.xlsx XT-XL.ortho row 4652: id matches XT.SeqID (X. tropicalis ortholog); class homeolog
+V07_Xenopus_LS.1.016	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.017	XT	Ks.xlsx XT-XL.ortho row 8969: id matches XT.SeqID (X. tropicalis ortholog); class homeolog
+V07_Xenopus_LS.1.018	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.019	L	Ks.xlsx XT-XL.ortho row 15575: id matches XL.SeqID1 (.L); class homeolog
+V07_Xenopus_LS.1.020	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.021	XT	Ks.xlsx XT-XL.ortho row 497: id matches XT.SeqID (X. tropicalis ortholog); class homeolog
+V07_Xenopus_LS.1.022	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.023	L	Ks.xlsx XT-XL.ortho row 804: id matches XL.SeqID1 (.L); class homeolog
+V07_Xenopus_LS.1.024	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.025	XT	Ks.xlsx XT-XL.ortho row 729: id matches XT.SeqID (X. tropicalis ortholog); class homeolog
+V07_Xenopus_LS.1.026	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.027	L	Ks.xlsx XT-XL.ortho row 3237: id matches XL.SeqID1 (.L); class homeolog
+V07_Xenopus_LS.1.028	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.029	XT	Ks.xlsx XT-XL.ortho row 403: id matches XT.SeqID (X. tropicalis ortholog); class homeolog
+V07_Xenopus_LS.1.030	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.031	L	Ks.xlsx XT-XL.ortho row 7777: id matches XL.SeqID1 (.L); class homeolog
+V07_Xenopus_LS.1.032	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.033	S	Ks.xlsx XT-XL.ortho row 2161: id matches XL.SeqID2 (.S); class homeolog
+V07_Xenopus_LS.1.034	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.035	S	Ks.xlsx XT-XL.ortho row 3905: id matches XL.SeqID2 (.S); class homeolog
+V07_Xenopus_LS.1.036	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.037	S	Ks.xlsx XT-XL.ortho row 13405: id matches XL.SeqID2 (.S); class homeolog
+V07_Xenopus_LS.1.038	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.039	XT	Ks.xlsx XT-XL.ortho row 11270: id matches XT.SeqID (X. tropicalis ortholog); class homeolog
+V07_Xenopus_LS.1.040	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.041	L	Ks.xlsx XT-XL.ortho row 981: id matches XL.SeqID1 (.L); class homeolog
+V07_Xenopus_LS.1.042	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.043	S	Ks.xlsx XT-XL.ortho row 3360: id matches XL.SeqID2 (.S); class homeolog
+V07_Xenopus_LS.1.044	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.045	S	Ks.xlsx XT-XL.ortho row 9469: id matches XL.SeqID2 (.S); class homeolog
+V07_Xenopus_LS.1.046	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.047	S	Ks.xlsx XT-XL.ortho row 15506: id matches XL.SeqID2 (.S); class homeolog
+V07_Xenopus_LS.1.048	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.049	L	Ks.xlsx XT-XL.ortho row 10893: id matches XL.SeqID1 (.L); class homeolog
+V07_Xenopus_LS.1.050	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.051	L	Ks.xlsx XT-XL.ortho row 12694: id matches XL.SeqID1 (.L); class homeolog
+V07_Xenopus_LS.1.052	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.053	L	Ks.xlsx XT-XL.ortho row 10500: id matches XL.SeqID1 (.L); class homeolog
+V07_Xenopus_LS.1.054	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.055	XT	Ks.xlsx XT-XL.ortho row 10507: id matches XT.SeqID (X. tropicalis ortholog); class homeolog
+V07_Xenopus_LS.1.056	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.057	XT	Ks.xlsx XT-XL.ortho row 3587: id matches XT.SeqID (X. tropicalis ortholog); class homeolog
+V07_Xenopus_LS.1.058	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows
+V07_Xenopus_LS.1.059	XT	Ks.xlsx XT-XL.ortho row 11288: id matches XT.SeqID (X. tropicalis ortholog); class homeolog
+V07_Xenopus_LS.1.060	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	Session2016 results: L and S sets descend from two distinct diploid progenitors; Ks.xlsx homeolog rows

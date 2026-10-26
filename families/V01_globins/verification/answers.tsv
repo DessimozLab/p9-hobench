@@ -1,0 +1,38 @@
+item_id	answer	evidence
+V01_globins.1.001	Gb14	Supp tables txt line 38; name field: Amphioxus Gb14 + Branchiostoma floridae 
+V01_globins.1.002	Cygb1	Supp tables txt line 184; name field: Zebrafish Cygb1 + Danio rerio Teleostei 
+V01_globins.1.003	Ngb	Supp tables txt line 80; name field: Chicken_Ngb Gallus gallus Tetrapoda Chor
+V01_globins.1.004	Gb2	Supp tables txt line 40; name field: Amphioxus Gb2 + Branchiostoma floridae C
+V01_globins.1.005	Cygb	Supp tables txt line 84; name field: Frog Cygb + Xenopus tropicalis Tetrapoda
+V01_globins.1.006	Cygb	Supp tables txt line 75; name field: Chicken_Cygb Gallus gallus Tetrapoda Cho
+V01_globins.1.007	Ngb	Supp tables txt line 106; name field: Human_Ngb + Homo sapiens Tetrapoda Chord
+V01_globins.1.008	Mb	Supp tables txt line 79; name field: Chicken_Mb Gallus gallus Tetrapoda Chord
+V01_globins.1.009	Cygb1	Supp tables txt line 107; name field: Medaka_Cygb1 Oryzias latipes Teleostei C
+V01_globins.1.010	Gb8	Supp tables txt line 46; name field: Amphioxus Gb8 + Branchiostoma floridae C
+V01_globins.1.011	Ngb	Supp tables txt line 195; name field: Zebrafish Ngb + Danio rerio Teleostei Ch
+V01_globins.1.012	Hb_PMII	Supp tables txt line 154; name field: Sea_lamprey_Hb_PMII Petromyzon marinus C
+V01_globins.1.013	Hbb	Supp tables txt line 193; name field: Zebrafish Hbb + Danio rerio Teleostei Ch
+V01_globins.1.014	Hbb	Supp tables txt line 88; name field: Frog Hbb + Xenopus tropicalis Tetrapoda 
+V01_globins.1.015	Hbb	Supp tables txt line 78; name field: Chicken_Hbb Gallus gallus Tetrapoda Chor
+V01_globins.1.016	Gb6	Supp tables txt line 44; name field: Amphioxus Gb6 + Branchiostoma floridae C
+V01_globins.1.017	Gb9	Supp tables txt line 47; name field: Amphioxus Gb9 + Branchiostoma floridae C
+V01_globins.1.018	Mb	Supp tables txt line 105; name field: Human_Mb + Homo sapiens Tetrapoda Chorda
+V01_globins.1.019	Cygb2	Supp tables txt line 108; name field: Medaka_Cygb2 Oryzias latipes Teleostei C
+V01_globins.1.020	Mb	Supp tables txt line 194; name field: Zebrafish Mb Danio rerio Teleostei Chord
+V01_globins.1.021	GbX	Supp tables txt line 85; name field: Frog GbX + Xenopus tropicalis Tetrapoda 
+V01_globins.1.022	Hba	Supp tables txt line 77; name field: Chicken_Hba Gallus gallus Tetrapoda Chor
+V01_globins.1.023	GbY	Supp tables txt line 86; name field: Frog GbY + Xenopus tropicalis Tetrapoda 
+V01_globins.1.024	Cygb2	Supp tables txt line 185; name field: Zebrafish Cygb2 + Danio rerio Teleostei 
+V01_globins.1.025	Hbb	Supp tables txt line 111; name field: Medaka_Hbb Oryzias latipes Teleostei Cho
+V01_globins.1.026	GbE	Supp tables txt line 76; name field: Chicken_GbE + Gallus gallus Tetrapoda Ch
+V01_globins.1.027	Hbb	Supp tables txt line 104; name field: Human_Hbb + Homo sapiens Tetrapoda Chord
+V01_globins.1.028	Cygb	Supp tables txt line 102; name field: Human_Cygb + Homo sapiens Tetrapoda Chor
+V01_globins.1.029	Gb15	Supp tables txt line 39; name field: Amphioxus Gb15 + Branchiostoma floridae 
+V01_globins.1.030	Gb13	Supp tables txt line 37; name field: Amphioxus Gb13 + Branchiostoma floridae 
+V01_globins.1.031	Mb vs GbE duplication predated the gnathostome radiation (GbE then lost outside birds): [Gnathostomata, ABOVE_RANGE] (older bound not stated; 2012a places Mb/GbE pair in a WGD-derived paralogon)	Hoffmann2010 Results: Mb and GbE derive from duplication that predated the gnathostome radiation
+V01_globins.1.032	Cygb vs Mb/GbE: product of the second WGD in the vertebrate common ancestor (cyclostome Hb is sister of gnathostome Cygb, so lineages present in vertebrate ancestor): lvl=Vertebrata	Hoffmann2012a Results/Discussion: Hb, Mb, Cygb precursors = paralogous products of two WGDs in vertebrate common ancestor
+V01_globins.1.033	alpha vs beta Hb: tandem duplication after gnathostomes diverged from jawless fishes: lvl=Gnathostomata	Hoffmann2010 Intro: progenitors of alpha and beta globin arose via tandem duplication after the gnathostome common ancestor diverged from jawless fishes
+V01_globins.1.034	(Cygb, Mb, GbE, cyclostome Hb) vs (alpha/beta Hb, GbY): duplication of ancestral single-copy globin in the vertebrate stem lineage: lvl=Vertebrata	Hoffmann2010 Discussion: duplication in the stem lineage of vertebrates gave the alpha/beta Hb lineage and the Mb/Cygb/cyclostome Hb lineage
+V01_globins.1.035	GbX vs amphioxus clade-3 globins (Gb3,6,13,14): GbX/clade split predates protostome-deuterostome split: [Chordata, ABOVE_RANGE]	Hoffmann2012b Results: GbX clade (clade 2) and clade 3 contain acorn worm/acoel members; GbX and Ngb derive from duplications that predate origin of deuterostomes
+V01_globins.1.036	vertebrate-specific globin clade vs amphioxus/Ciona globins (clade 1 vs others): predates Chordata root: [Chordata, ABOVE_RANGE]	Hoffmann2012b Results: globin clades shared with hemichordate/acoel globins; duplications predate deuterostomes
+V01_globins.1.037	Ngb vs the rest: Ngb arose by duplication predating the origin of deuterostomes: [Chordata, ABOVE_RANGE]	Hoffmann2012b Intro/Results (Ngb and GbX derive from duplications that predate the origin of deuterostomes)

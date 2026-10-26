@@ -1,0 +1,61 @@
+item_id	family	kind	verdict	claimed	answer	note
+K04.1.001	K04	decoy	AGREE	nonhomologous	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: LysRS-I (1IRX, Adenine nucleotide alpha hydrolase-like) vs LysRS-II (1BBU, class II aaRS))	
+K04.1.002	K04	distinct_from	AGREE	K04b_LysRS_II at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: LysRS-I (1IRX, Adenine nucleotide alpha hydrolase-like) vs LysRS-II (1BBU, class II aaRS))	
+K04.1.003	K04	distinct_from	AGREE	K04b_LysRS_II at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: LysRS-I (1IRX, Adenine nucleotide alpha hydrolase-like) vs LysRS-II (1BBU, class II aaRS))	
+K04.1.004	K04	decoy	AGREE	nonhomologous	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: LysRS-II (1BBU) vs LysRS-I (1IRX))	
+K04.1.005	K04	distinct_from	AGREE	K04a_LysRS_I at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: LysRS-II (1BBU) vs LysRS-I (1IRX))	
+K04.1.006	K04	distinct_from	AGREE	K04a_LysRS_I at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: LysRS-II (1BBU) vs LysRS-I (1IRX))	
+K04.1.007	K04	decoy	AGREE	nonhomologous	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: FeMn SOD (1ISA) vs CuZn SOD (1ESO))	
+K04.1.008	K04	distinct_from	AGREE	K04d_SOD_CuZn at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: FeMn SOD (1ISA) vs CuZn SOD (1ESO))	
+K04.1.009	K04	distinct_from	AGREE	K04d_SOD_CuZn at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: FeMn SOD (1ISA) vs CuZn SOD (1ESO))	
+K04.1.010	K04	decoy	AGREE	nonhomologous	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: CuZn SOD (1ESO) vs FeMn SOD (1ISA))	
+K04.1.011	K04	distinct_from	AGREE	K04c_SOD_FeMn at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: CuZn SOD (1ESO) vs FeMn SOD (1ISA))	
+K04.1.012	K04	distinct_from	AGREE	K04c_SOD_FeMn at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: CuZn SOD (1ESO) vs FeMn SOD (1ISA))	
+K04.1.013	K04	decoy	AGREE	nonhomologous	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: PGM-like (1E59) vs alkaline-phosphatase-like iPGM (1EJJ))	
+K04.1.014	K04	distinct_from	AGREE	K04f_PGM_BPGindep at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: PGM-like (1E59) vs alkaline-phosphatase-like iPGM (1EJJ))	
+K04.1.015	K04	distinct_from	AGREE	K04f_PGM_BPGindep at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: PGM-like (1E59) vs alkaline-phosphatase-like iPGM (1EJJ))	
+K04.1.016	K04	decoy	AGREE	nonhomologous	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: iPGM (1EJJ) vs dPGM (1E59))	
+K04.1.017	K04	distinct_from	AGREE	K04e_PGM_BPGdep at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: iPGM (1EJJ) vs dPGM (1E59))	
+K04.1.018	K04	distinct_from	AGREE	K04e_PGM_BPGdep at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: iPGM (1EJJ) vs dPGM (1E59))	
+K04.1.019	K04	decoy	AGREE	nonhomologous	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: P-loop SK (1SHK) vs GHMP kinase fold)	
+K04.1.020	K04	distinct_from	AGREE	K04h_SK_GHMP at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: P-loop SK (1SHK) vs GHMP kinase fold)	
+K04.1.021	K04	distinct_from	AGREE	K04h_SK_GHMP at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: P-loop SK (1SHK) vs GHMP kinase fold)	
+K04.1.022	K04	decoy	AGREE	nonhomologous	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: GHMP SK vs P-loop SK (1SHK))	
+K04.1.023	K04	distinct_from	AGREE	K04g_SK_Ploop at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: GHMP SK vs P-loop SK (1SHK))	
+K04.1.024	K04	distinct_from	AGREE	K04g_SK_Ploop at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: GHMP SK vs P-loop SK (1SHK))	
+K04.1.025	K04	decoy	AGREE	nonhomologous	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: DHQase I TIM barrel (1QFE) vs DHQase II flavodoxin-like (1UQR))	
+K04.1.026	K04	distinct_from	AGREE	K04j_DHQase_II at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: DHQase I TIM barrel (1QFE) vs DHQase II flavodoxin-like (1UQR))	
+K04.1.027	K04	distinct_from	AGREE	K04j_DHQase_II at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: DHQase I TIM barrel (1QFE) vs DHQase II flavodoxin-like (1UQR))	
+K04.1.028	K04	decoy	AGREE	nonhomologous	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: DHQase II flavodoxin-like vs DHQase I TIM barrel)	
+K04.1.029	K04	distinct_from	AGREE	K04i_DHQase_I at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: DHQase II flavodoxin-like vs DHQase I TIM barrel)	
+K04.1.030	K04	distinct_from	AGREE	K04i_DHQase_I at_level=ALL	non-homologous: different folds / NISE pair (Omelchenko2010 Table S2: DHQase II flavodoxin-like vs DHQase I TIM barrel)	
+K04.1.031	K04	member	AGREE	GHMP-kinase-type archaeal shikimate kinase (COG1685)	COG1685 Archaeal shikimate kinase	
+K04.1.032	K04	member	AGREE	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (iPGM, GpmI) (COG0696)	COG0696 Phosphoglycerate mutase (BPG-independent	
+K04.1.033	K04	member	AGREE	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)	COG0703 Shikimate kinase	
+K04.1.034	K04	member	AGREE	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)	COG0588 Phosphoglycerate mutase (BPG-dependent)	
+K04.1.035	K04	member	AGREE	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	COG1190 Lysyl-tRNA synthetase (class II)	
+K04.1.036	K04	member	AGREE	Class I lysyl-tRNA synthetase (LysRS-I) (COG1384)	COG1384 Lysyl-tRNA synthetase, class I	
+K04.1.037	K04	member	AGREE	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)	COG0588 Phosphoglycerate mutase (BPG-dependent)	
+K04.1.038	K04	member	AGREE	Fe/Mn superoxide dismutase (COG0605)	COG0605 Superoxide dismutase	
+K04.1.039	K04	member	AGREE	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	COG1190 Lysyl-tRNA synthetase (class II)	
+K04.1.040	K04	member	AGREE	Cu/Zn superoxide dismutase (COG2032)	COG2032 Cu/Zn superoxide dismutase	
+K04.1.041	K04	member	AGREE	GHMP-kinase-type archaeal shikimate kinase (COG1685)	COG1685 Archaeal shikimate kinase	
+K04.1.042	K04	member	AGREE	Cu/Zn superoxide dismutase (COG2032)	COG2032 Cu/Zn superoxide dismutase	
+K04.1.043	K04	member	AGREE	Class I lysyl-tRNA synthetase (LysRS-I) (COG1384)	COG1384 Lysyl-tRNA synthetase, class I	
+K04.1.044	K04	member	AGREE	GHMP-kinase-type archaeal shikimate kinase (COG1685)	COG1685 Archaeal shikimate kinase	
+K04.1.045	K04	member	AGREE	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (iPGM, GpmI) (COG0696)	COG0696 Phosphoglycerate mutase (BPG-independent	
+K04.1.046	K04	member	AGREE	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	COG1190 Lysyl-tRNA synthetase (class II)	
+K04.1.047	K04	member	AGREE	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)	COG0169 Shikimate 5-dehydrogenase / COG0710 3-dehydroquinate dehydratase	
+K04.1.048	K04	member	AGREE	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)	COG0710 3-dehydroquinate dehydratase	
+K04.1.049	K04	member	AGREE	GHMP-kinase-type archaeal shikimate kinase (COG1685)	COG1685 Archaeal shikimate kinase	
+K04.1.050	K04	member	AGREE	Cu/Zn superoxide dismutase (COG2032)	COG2032 Cu/Zn superoxide dismutase	
+K04.1.051	K04	member	AGREE	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)	COG0710 3-dehydroquinate dehydratase	
+K04.1.052	K04	member	AGREE	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)	COG0710 3-dehydroquinate dehydratase	
+K04.1.053	K04	member	AGREE	Fe/Mn superoxide dismutase (COG0605)	COG0605 Superoxide dismutase	
+K04.1.054	K04	member	AGREE	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	COG1190 Lysyl-tRNA synthetase (class II)	
+K04.1.055	K04	member	AGREE	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)	COG0588 Phosphoglycerate mutase (BPG-dependent)	
+K04.1.056	K04	member	AGREE	Fe/Mn superoxide dismutase (COG0605)	COG0605 Superoxide dismutase	
+K04.1.057	K04	member	AGREE	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (iPGM, GpmI) (COG0696)	COG0696 Phosphoglycerate mutase (BPG-independent	
+K04.1.058	K04	member	AGREE	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)	COG0337 3-dehydroquinate synthetase / COG0703 Shikimate kinase	
+K04.1.059	K04	member	AGREE	GHMP-kinase-type archaeal shikimate kinase (COG1685)	COG1685 Archaeal shikimate kinase	
+K04.1.060	K04	member	AGREE	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)	COG1190 Lysyl-tRNA synthetase (class II)	

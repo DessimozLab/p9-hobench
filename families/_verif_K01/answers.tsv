@@ -1,0 +1,31 @@
+item_id	answer	evidence
+K01_RPROT.1.001	COG0093 Ribosomal protein L14	cog20_panelK.csv row for NP_229290.1 (species THEMA); name from cog-20.def.tab
+K01_RPROT.1.002	COG0098 Ribosomal protein S5	cog20_panelK.csv row for NP_214129.1 (species AQUAE); name from cog-20.def.tab
+K01_RPROT.1.003	COG0261 Ribosomal protein L21	cog20_panelK.csv row for NP_207094.1 (species HELPY); name from cog-20.def.tab
+K01_RPROT.1.004	COG0091 Ribosomal protein L22	cog20_panelK.csv row for NP_229295.1 (species THEMA); name from cog-20.def.tab
+K01_RPROT.1.005	COG0359 Ribosomal protein L9	cog20_panelK.csv row for NP_418624.1 (species ECOLI); name from cog-20.def.tab
+K01_RPROT.1.006	COG0088 Ribosomal protein L4	cog20_panelK.csv row for NP_710921.1 (species LEPIN); name from cog-20.def.tab
+K01_RPROT.1.007	COG0090 Ribosomal protein L2	cog20_panelK.csv row for WP_010871976.1 (species SYNY3); name from cog-20.def.tab
+K01_RPROT.1.008	COG0198 Ribosomal protein L24	cog20_panelK.csv row for NP_710931.1 (species LEPIN); name from cog-20.def.tab
+K01_RPROT.1.009	COG0230 Ribosomal protein L34	cog20_panelK.csv row for NP_418158.1 (species ECOLI); name from cog-20.def.tab
+K01_RPROT.1.010	COG0200 Ribosomal protein L15	cog20_panelK.csv row for WP_011250470.1 (species THEKO); name from cog-20.def.tab
+K01_RPROT.1.011	COG0255 Ribosomal protein L29	cog20_panelK.csv row for NP_212997.1 (species AQUAE); name from cog-20.def.tab
+K01_RPROT.1.012	COG0333 Ribosomal protein L32	cog20_panelK.csv row for NP_812744.1 (species BACTN); name from cog-20.def.tab
+K01_RPROT.1.013	COG0099 Ribosomal protein S13	cog20_panelK.csv row for WP_011250457.1 (species THEKO); name from cog-20.def.tab
+K01_RPROT.1.014	COG0087 Ribosomal protein L3	cog20_panelK.csv row for WP_083758224.1 (species KORCO); name from cog-20.def.tab
+K01_RPROT.1.015	COG0092 Ribosomal protein S3	cog20_panelK.csv row for WP_010903240.1 (species HALSA); name from cog-20.def.tab
+K01_RPROT.1.016	COG0228 Ribosomal protein S16	cog20_panelK.csv row for NP_295018.1 (species DEIRA); name from cog-20.def.tab
+K01_RPROT.1.017	COG0096 Ribosomal protein S8	cog20_panelK.csv row for WP_010869971.1 (species METJA); name from cog-20.def.tab
+K01_RPROT.1.018	COG0081 Ribosomal protein L1	cog20_panelK.csv row for NP_418411.1 (species ECOLI); name from cog-20.def.tab
+K01_RPROT.1.019	COG0197 Ribosomal protein L16/L10AE	cog20_panelK.csv row for NP_208104.1 (species HELPY); name from cog-20.def.tab
+K01_RPROT.1.020	COG0185 Ribosomal protein S19	cog20_panelK.csv row for NP_294038.1 (species DEIRA); name from cog-20.def.tab
+K01_RPROT.1.021	COG0203 Ribosomal protein L17	cog20_panelK.csv row for NP_208084.1 (species HELPY); name from cog-20.def.tab
+K01_RPROT.1.022	COG0335 Ribosomal protein L19	cog20_panelK.csv row for NP_207938.1 (species HELPY); name from cog-20.def.tab
+K01_RPROT.1.023	COG1841 Ribosomal protein L30/L7E	cog20_panelK.csv row for NP_811621.1 (species BACTN); name from cog-20.def.tab
+K01_RPROT.1.024	COG0103 Ribosomal protein S9	cog20_panelK.csv row for NP_293899.1 (species DEIRA); name from cog-20.def.tab
+K01_RPROT.1.025	COG0291 Ribosomal protein L35	cog20_panelK.csv row for NP_251432.1 (species PSEAE); name from cog-20.def.tab
+K01_RPROT.1.026	COG0089 Ribosomal protein L23	cog20_panelK.csv row for WP_010903236.1 (species HALSA); name from cog-20.def.tab
+K01_RPROT.1.027	COG0522 Ribosomal protein S4 or related protein	cog20_panelK.csv row for WP_010869685.1 (species METJA); name from cog-20.def.tab
+K01_RPROT.1.028	COG0102 Ribosomal protein L13	cog20_panelK.csv row for WP_010902817.1 (species HALSA); name from cog-20.def.tab
+K01_RPROT.1.029	COG0080 Ribosomal protein L11	cog20_panelK.csv row for WP_012309988.1 (species KORCO); name from cog-20.def.tab
+K01_RPROT.1.030	COG0268 Ribosomal protein S20	cog20_panelK.csv row for NP_253253.1 (species PSEAE); name from cog-20.def.tab

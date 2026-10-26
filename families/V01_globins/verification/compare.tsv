@@ -1,0 +1,38 @@
+item_id	family	kind	verdict	claimed	answer	note
+V01_globins.1.001	V01_globins	member	AGREE	Amphioxus Gb14 [Gb14]	Gb14	
+V01_globins.1.002	V01_globins	member	AGREE	Zebrafish Cygb1 [Cygb]	Cygb1	
+V01_globins.1.003	V01_globins	member	AGREE	Chicken_Ngb [Ngb]	Ngb	
+V01_globins.1.004	V01_globins	member	AGREE	Amphioxus Gb2 [Gb2]	Gb2	
+V01_globins.1.005	V01_globins	member	AGREE	Frog Cygb [Cygb]	Cygb	
+V01_globins.1.006	V01_globins	member	AGREE	Chicken_Cygb [Cygb]	Cygb	
+V01_globins.1.007	V01_globins	member	AGREE	Human_Ngb [Ngb]	Ngb	
+V01_globins.1.008	V01_globins	member	AGREE	Chicken_Mb [Mb]	Mb	
+V01_globins.1.009	V01_globins	member	AGREE	Medaka_Cygb1 [Cygb]	Cygb1	
+V01_globins.1.010	V01_globins	member	AGREE	Amphioxus Gb8 [Gb8]	Gb8	
+V01_globins.1.011	V01_globins	member	AGREE	Zebrafish Ngb [Ngb]	Ngb	
+V01_globins.1.012	V01_globins	member	AGREE	Sea_lamprey_Hb_PMII [PMII]	Hb_PMII	
+V01_globins.1.013	V01_globins	member	AGREE	Zebrafish Hbb [Hbb]	Hbb	
+V01_globins.1.014	V01_globins	member	AGREE	Frog Hbb [Hbb]	Hbb	
+V01_globins.1.015	V01_globins	member	AGREE	Chicken_Hbb [Hbb]	Hbb	
+V01_globins.1.016	V01_globins	member	AGREE	Amphioxus Gb6 [Gb6]	Gb6	
+V01_globins.1.017	V01_globins	member	AGREE	Amphioxus Gb9 [Gb9]	Gb9	
+V01_globins.1.018	V01_globins	member	AGREE	Human_Mb [Mb]	Mb	
+V01_globins.1.019	V01_globins	member	AGREE	Medaka_Cygb2 [Cygb]	Cygb2	
+V01_globins.1.020	V01_globins	member	AGREE	Zebrafish Mb [Mb]	Mb	
+V01_globins.1.021	V01_globins	member	AGREE	Frog GbX [GbX]	GbX	
+V01_globins.1.022	V01_globins	member	AGREE	Chicken_Hba [Hba]	Hba	
+V01_globins.1.023	V01_globins	member	AGREE	Frog GbY [GbY]	GbY	
+V01_globins.1.024	V01_globins	member	AGREE	Zebrafish Cygb2 [Cygb]	Cygb2	
+V01_globins.1.025	V01_globins	member	AGREE	Medaka_Hbb [Hbb]	Hbb	
+V01_globins.1.026	V01_globins	member	AGREE	Chicken_GbE [GbE]	GbE	
+V01_globins.1.027	V01_globins	member	AGREE	Human_Hbb [Hbb]	Hbb	
+V01_globins.1.028	V01_globins	member	AGREE	Human_Cygb [Cygb]	Cygb	
+V01_globins.1.029	V01_globins	member	AGREE	Amphioxus Gb15 [Gb15]	Gb15	
+V01_globins.1.030	V01_globins	member	AGREE	Amphioxus Gb13 [Gb13]	Gb13	
+V01_globins.1.031	V01_globins	event	AGREE	ev=D;lvl_lo=Gnathostomata;lvl_hi=Vertebrata	Mb vs GbE duplication predated the gnathostome radiation (GbE then lost outside birds): [Gnathostomata, ABOVE_RANGE] (older bound not stated; 2012a places Mb/GbE pair in a WGD-derived paralogon)	hi=Vertebrata derivable: Mb/GbE lineage is a product of the vertebrate-ancestor WGD (Hoffmann2012a)
+V01_globins.1.032	V01_globins	event	DISAGREE	ev=D;lvl_lo=Gnathostomata;lvl_hi=Vertebrata;tag=WGD	Cygb vs Mb/GbE: product of the second WGD in the vertebrate common ancestor (cyclostome Hb is sister of gnathostome Cygb, so lineages present in vertebrate ancestor): lvl=Vertebrata	claimed [Gnathostomata,Vertebrata] includes gnathostome stem; Hoffmann2012a/2010: cyclostome Hb is sister of gnathostome Cygb => Cygb lineage already in the vertebrate common ancestor => Vertebrata stem. Hedge-superset (protocol s2 permits intervals when 2R-lamprey timing contested) - minor
+V01_globins.1.033	V01_globins	event	DISAGREE	ev=D;lvl_lo=Gnathostomata;lvl_hi=Vertebrata;tag=TAND	alpha vs beta Hb: tandem duplication after gnathostomes diverged from jawless fishes: lvl=Gnathostomata	claimed [Gnathostomata,Vertebrata,TAND] includes Vertebrata stem; Hoffmann2010: alpha/beta tandem duplication AFTER gnathostome ancestor diverged from jawless fishes => Gnathostomata stem only. Hedge-superset - minor
+V01_globins.1.034	V01_globins	event	AGREE	ev=D;lvl=Vertebrata;tag=WGD	(Cygb, Mb, GbE, cyclostome Hb) vs (alpha/beta Hb, GbY): duplication of ancestral single-copy globin in the vertebrate stem lineage: lvl=Vertebrata	
+V01_globins.1.035	V01_globins	event	AGREE	ev=D;lvl_lo=Chordata;lvl_hi=ABOVE_RANGE	GbX vs amphioxus clade-3 globins (Gb3,6,13,14): GbX/clade split predates protostome-deuterostome split: [Chordata, ABOVE_RANGE]	
+V01_globins.1.036	V01_globins	event	AGREE	ev=D;lvl_lo=Chordata;lvl_hi=ABOVE_RANGE	vertebrate-specific globin clade vs amphioxus/Ciona globins (clade 1 vs others): predates Chordata root: [Chordata, ABOVE_RANGE]	
+V01_globins.1.037	V01_globins	event	AGREE	ev=D;lvl_lo=Chordata;lvl_hi=ABOVE_RANGE	Ngb vs the rest: Ngb arose by duplication predating the origin of deuterostomes: [Chordata, ABOVE_RANGE]	

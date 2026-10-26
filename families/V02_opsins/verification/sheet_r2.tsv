@@ -1,0 +1,12 @@
+item_id	family	unit	kind	genes	species	original_id_in_paper	source	locator	node_id
+V02_opsins.2.001	V02_opsins		member	Q8AYM7	DANRE	ENSDARG00000044279	Lagman2013	S1 sheet OPN row 43	
+V02_opsins.2.002	V02_opsins		member	H2M5N5	ORYLA	ENSORLG00000010979	Lagman2013	S1 sheet OPN row 64	
+V02_opsins.2.003	V02_opsins		member	Q9W6A7	DANRE	ENSDARG00000044862	Lagman2013	S1 sheet OPN row 39	
+V02_opsins.2.004	V02_opsins		member	P04000	HUMAN	ENSG00000102076	Lagman2013	S1 sheet OPN row 3	
+V02_opsins.2.005	V02_opsins		member	P03999	HUMAN	ENSG00000128617	Lagman2013	S1 sheet OPN row 4	
+V02_opsins.2.006	V02_opsins		member	P08100	HUMAN	ENSG00000163914	Lagman2013	S1 sheet OPN row 7	
+V02_opsins.2.007	V02_opsins		member	W5N608	LEPOC	Loc LG5 RH1 1 (LG5:40451366)	Lagman2013	S1 sheet OPN row 36	
+V02_opsins.2.008	V02_opsins		member	W5NBV9	LEPOC	Loc LG1 LWS (LG1:2606021)	Lagman2013	S1 sheet OPN row 32	
+V02_opsins.2.009	V02_opsins		member	W5NBW6	LEPOC	Loc LG1 SWS2 (LG1:2621104)	Lagman2013	S1 sheet OPN row 33	
+V02_opsins.2.010	V02_opsins		member	P28682	CHICK	P28682.1	Lagman2013	S1 sheet OPN row 19	
+V02_opsins.2.011	V02_opsins		member	H3ARP3	LATCH	ENSLACG00000010843	Lagman2013	S1 sheet OPN row 29	

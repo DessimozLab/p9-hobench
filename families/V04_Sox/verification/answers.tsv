@@ -1,0 +1,48 @@
+item_id	answer	evidence
+V04_Sox.1.001	sox21a	S6 sheet row 26 col 4: cell ENSDARP00000049338; column header at row 20
+V04_Sox.1.002	sox12	S6 sheet row 24 col 11: cell ENSLACG00000007378; column header at row 20
+V04_Sox.1.003	sox10/sox10b	S6 sheet row 43 col 12: cell Chr:LG12:35402506:35402583; column header at row 38
+V04_Sox.1.004	sox9a	S6 sheet row 44 col 9: cell ENSDARP00000006945; column header at row 38
+V04_Sox.1.005	sox14/sox14a	S6 sheet row 25 col 2: cell Chr:LG14:11801117:11801317; column header at row 20
+V04_Sox.1.006	sox8b	S6 sheet row 44 col 8: cell ENSDARP00000055054; column header at row 38
+V04_Sox.1.007	sox6/sox6a	S6 sheet row 41 col 3: cell ENSG00000110693; column header at row 38
+V04_Sox.1.008	sox1b	S6 sheet row 8 col 3: cell ENSDARP00000026510; column header at row 2
+V04_Sox.1.009	sox30	S6 sheet row 58 col 7: cell ENSMUSG00000040489; column header at row 56
+V04_Sox.1.010	sox5	S6 sheet row 41 col 2: cell ENSG00000134532; column header at row 38
+V04_Sox.1.011	sox4a	S6 sheet row 26 col 7: cell ENSDARP00000002932; column header at row 20
+V04_Sox.1.012	sox6b	S6 sheet row 50 col 4: cell ENSORLG00000001260; column header at row 38
+V04_Sox.1.013	sox19b	S6 sheet row 8 col 7: cell ENSDARP00000058909; column header at row 2
+V04_Sox.1.014	sox21/sox21b	S6 sheet row 23 col 5: cell ENSG00000125285; column header at row 20
+V04_Sox.1.015	sox11b	S6 sheet row 26 col 10: cell ENSDARP00000122216; column header at row 20
+V04_Sox.1.016	sox7	S6 sheet row 58 col 2: cell ENSMUSG00000063060; column header at row 56
+V04_Sox.1.017	sox9/sox9b	S6 sheet row 44 col 10: cell ENSDARP00000064499; column header at row 38
+V04_Sox.1.018	sox8/sox8a	S6 sheet row 44 col 7: cell ENSDARP00000088889; column header at row 38
+V04_Sox.1.019	sox1/sox1a	S6 sheet row 4 col 2: cell ENSMUSG00000096014; column header at row 2
+V04_Sox.1.020	sox32	S6 sheet row 68 col 5: cell ENSORLG00000011529; column header at row 56
+V04_Sox.1.021	sox18	S6 sheet row 59 col 4: cell ENSG00000203883; column header at row 56
+V04_Sox.1.022	sox13	S6 sheet row 41 col 5: cell ENSG00000143842; column header at row 38
+V04_Sox.1.023	sox15/sox19a	S6 sheet row 7 col 6: cell Chr:LG2:63676502:63676702; column header at row 2
+V04_Sox.1.024	sox11/sox11a	S6 sheet row 24 col 9: cell ENSLACG00000014788; column header at row 20
+V04_Sox.1.025	sox4/sox4b	S6 sheet row 32 col 8: cell ENSORLG00000005001; column header at row 20
+V04_Sox.1.026	sox17	S6 sheet row 58 col 3: cell ENSMUSG00000025902; column header at row 56
+V04_Sox.1.027	sox14b	S6 sheet row 26 col 3: cell ENSDARP00000014591; column header at row 20
+V04_Sox.1.028	sox2	S6 sheet row 7 col 4: cell Chr:LG14:176045:176245; column header at row 2
+V04_Sox.1.029	sox3	S6 sheet row 7 col 5: cell Chr:LG7:46761732:46761932; column header at row 2
+V04_Sox.1.030	sox12	S6 sheet row 22 col 11: cell ENSMUSG00000051817; column header at row 20
+V04_Sox.1.031	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	Voldoire2017 Results: all sox duplicates (except sox17/32) derive from the teleost-specific WGD; 3R
+V04_Sox.1.032	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	Voldoire2017 Results: all sox duplicates (except sox17/32) derive from the teleost-specific WGD; 3R
+V04_Sox.1.034	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	Voldoire2017 Results: all sox duplicates (except sox17/32) derive from the teleost-specific WGD; 3R
+V04_Sox.1.035	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	Voldoire2017 Results: all sox duplicates (except sox17/32) derive from the teleost-specific WGD; 3R
+V04_Sox.1.037	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	Voldoire2017 Results: all sox duplicates (except sox17/32) derive from the teleost-specific WGD; 3R
+V04_Sox.1.038	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	Voldoire2017 Results: all sox duplicates (except sox17/32) derive from the teleost-specific WGD; 3R
+V04_Sox.1.040	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	Voldoire2017 Results: all sox duplicates (except sox17/32) derive from the teleost-specific WGD; 3R
+V04_Sox.1.042	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	Voldoire2017 Results: all sox duplicates (except sox17/32) derive from the teleost-specific WGD; 3R
+V04_Sox.1.043	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	Voldoire2017 Results: all sox duplicates (except sox17/32) derive from the teleost-specific WGD; 3R
+V04_Sox.1.045	sox17/sox32 small-scale (tandem) duplication present in all analysed teleosts: lvl=Teleostei (TAND)	Voldoire2017 Results para 1 / S2 Fig: sox32 a duplicate of sox17 probably via SSD, same chromosome, in all teleost genomes
+V04_Sox.1.033	within-group sox paralog split from the two WGD rounds at base of vertebrates: Vertebrata stem (lvl=Vertebrata; cyclostome placement not specified)	Voldoire2017 Introduction para 4: two to four sox genes per group as consequence of two WGD at base of vertebrates
+V04_Sox.1.036	within-group sox paralog split from the two WGD rounds at base of vertebrates: Vertebrata stem (lvl=Vertebrata; cyclostome placement not specified)	Voldoire2017 Introduction para 4: two to four sox genes per group as consequence of two WGD at base of vertebrates
+V04_Sox.1.039	within-group sox paralog split from the two WGD rounds at base of vertebrates: Vertebrata stem (lvl=Vertebrata; cyclostome placement not specified)	Voldoire2017 Introduction para 4: two to four sox genes per group as consequence of two WGD at base of vertebrates
+V04_Sox.1.041	within-group sox paralog split from the two WGD rounds at base of vertebrates: Vertebrata stem (lvl=Vertebrata; cyclostome placement not specified)	Voldoire2017 Introduction para 4: two to four sox genes per group as consequence of two WGD at base of vertebrates
+V04_Sox.1.044	within-group sox paralog split from the two WGD rounds at base of vertebrates: Vertebrata stem (lvl=Vertebrata; cyclostome placement not specified)	Voldoire2017 Introduction para 4: two to four sox genes per group as consequence of two WGD at base of vertebrates
+V04_Sox.1.046	within-group sox paralog split from the two WGD rounds at base of vertebrates: Vertebrata stem (lvl=Vertebrata; cyclostome placement not specified)	Voldoire2017 Introduction para 4: two to four sox genes per group as consequence of two WGD at base of vertebrates
+V04_Sox.1.047	sox groups A-H present in all bilaterians: group-level splits predate panel root: [Chordata, ABOVE_RANGE]	Voldoire2017 Introduction para 4: groups present in all bilaterians

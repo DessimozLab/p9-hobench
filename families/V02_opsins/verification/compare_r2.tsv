@@ -1,0 +1,12 @@
+item_id	family	kind	verdict	claimed	answer	note
+V02_opsins.2.001	V02_opsins	member	AGREE	RH2:opn1mw3 [Dre 6 opn1mw3]	RH2	
+V02_opsins.2.002	V02_opsins	member	AGREE	RH1 [Ola 7 RH1 1]	RH1	
+V02_opsins.2.003	V02_opsins	member	AGREE	LWS:opn1lw1 [Dre 11 opn1lw1]	LWS	
+V02_opsins.2.004	V02_opsins	member	AGREE	LWS:OPN1LW [Hsa X OPN1LW]	LWS	
+V02_opsins.2.005	V02_opsins	member	AGREE	SWS1:OPN1SW [Hsa 7 OPN1SW]	SWS1	
+V02_opsins.2.006	V02_opsins	member	AGREE	RH1:RHO [Hsa 3 RHO]	RH1	
+V02_opsins.2.007	V02_opsins	member	AGREE	RH1 [Loc LG5 RH1 1]	RH1	
+V02_opsins.2.008	V02_opsins	member	AGREE	LWS [Loc LG1 LWS]	LWS	
+V02_opsins.2.009	V02_opsins	member	AGREE	SWS2 [Loc LG1 SWS2]	SWS2	
+V02_opsins.2.010	V02_opsins	member	AGREE	SWS2 [Gga SWS2]	SWS2	
+V02_opsins.2.011	V02_opsins	member	AGREE	SWS2 [Lch SWS2]	SWS2	

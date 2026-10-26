@@ -1,0 +1,36 @@
+item_id	family	kind	verdict	claimed	answer	note
+E02_ARF.1.001	E02_ARF	member	AGREE	Arl17	Arl17	
+E02_ARF.1.002	E02_ARF	member	AGREE	Arf4	Arf4	
+E02_ARF.1.003	E02_ARF	member	AGREE	Arf1	Arf1	
+E02_ARF.1.004	E02_ARF	member	AGREE	SRb	SRb	
+E02_ARF.1.005	E02_ARF	member	AGREE	Arl15	Arl15	
+E02_ARF.1.006	E02_ARF	member	AGREE	(Arl2)	Arl2	
+E02_ARF.1.007	E02_ARF	member	AGREE	Arl1	Arl1	
+E02_ARF.1.008	E02_ARF	member	AGREE	Arl16	Arl16	
+E02_ARF.1.009	E02_ARF	member	AGREE	(SarB)	SarB	
+E02_ARF.1.010	E02_ARF	member	AGREE	Arl20	Arl20	
+E02_ARF.1.011	E02_ARF	member	AGREE	Arl18	Arl18	
+E02_ARF.1.012	E02_ARF	member	AGREE	Sar1	Sar1	
+E02_ARF.1.013	E02_ARF	member	AGREE	(ArlRhodo)	ArlRhodo	
+E02_ARF.1.014	E02_ARF	member	AGREE	Arl3	Arl3	
+E02_ARF.1.015	E02_ARF	member	AGREE	(unannotated)	unannotated	
+E02_ARF.1.016	E02_ARF	member	AGREE	(Arf1)	Arf1	
+E02_ARF.1.017	E02_ARF	member	AGREE	Arl5	Arl5	
+E02_ARF.1.018	E02_ARF	member	AGREE	Arfrp1	Arfrp1	
+E02_ARF.1.019	E02_ARF	member	AGREE	ArfB	ArfB	
+E02_ARF.1.020	E02_ARF	member	AGREE	Arl11/14	Arl11/14	
+E02_ARF.1.021	E02_ARF	member	AGREE	Arf6	Arf6	
+E02_ARF.1.022	E02_ARF	member	AGREE	Arl10	Arl10	
+E02_ARF.1.023	E02_ARF	member	AGREE	(Arf1/6)	Arf1/6	
+E02_ARF.1.024	E02_ARF	member	AGREE	Arl8	Arl8	
+E02_ARF.1.025	E02_ARF	member	AGREE	(Arl19)	Arl19	
+E02_ARF.1.026	E02_ARF	member	AGREE	Arl4	Arl4	
+E02_ARF.1.027	E02_ARF	member	AGREE	Arl13	Arl13	
+E02_ARF.1.028	E02_ARF	member	AGREE	Arl6	Arl6	
+E02_ARF.1.029	E02_ARF	member	AGREE	Arl2	Arl2	
+E02_ARF.1.030	E02_ARF	member	AGREE	TRIM23	TRIM23	
+E02_ARF.1.031	E02_ARF	event	AGREE	ev=D	vertebrate-specific duplication (Arf1 -> Arf1,2,3): within Bilateria, on the HUMAN lineage in panel E (terminal-branch-level; no panel level between Bilateria and HUMAN)	D without lvl = default lineage-specific interval (single-species vertebrate duplication on HUMAN lineage)
+E02_ARF.1.032	E02_ARF	event	AGREE	ev=D	vertebrate-specific duplication (Arf4 -> Arf4,5): HUMAN-lineage, below Bilateria	D without lvl = default lineage-specific interval (single-species vertebrate duplication on HUMAN lineage)
+E02_ARF.1.033	E02_ARF	event	AGREE	ev=D;lvl=Holozoa	Holozoa stem: lvl=Holozoa (Arf1/Arf4 common origin placed in Holozoa ancestor)	
+E02_ARF.1.034	E02_ARF	event	AGREE	ev=D;lvl_lo=Eukaryota;lvl_hi=ABOVE_RANGE	ancient paralogs predate/at Eukaryota stem: [Eukaryota, ABOVE_RANGE]	
+E02_ARF.1.035	E02_ARF	event	AGREE	ev=D	vertebrate-specific duplications of Arl4 (Arl4a/c/d): HUMAN-lineage, below Bilateria	D without lvl = default lineage-specific interval (single-species vertebrate duplication on HUMAN lineage)

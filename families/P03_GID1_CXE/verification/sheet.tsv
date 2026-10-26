@@ -1,0 +1,33 @@
+item_id	family	unit	kind	genes	species	original_id_in_paper	source	locator	node_id
+P03_GID1_CXE.1.001	P03_GID1_CXE		member	U5D7P6	AMBTC	Amborella trichopoda_GID1	Yoshida2018	Dataset S2 row 252	
+P03_GID1_CXE.1.002	P03_GID1_CXE		member	A0A7I4D8E6	PHYPA	PpGID1L-1	Yoshida2018	Dataset S2 row 5	
+P03_GID1_CXE.1.003	P03_GID1_CXE		member	F6HTZ8	VITVI	Vitis vinifera_GID1a	Yoshida2018	Dataset S2 row 226	
+P03_GID1_CXE.1.004	P03_GID1_CXE		member	I1JFE7	SOYBN	Glycine max_GID1b-3	Yoshida2018	Dataset S2 row 151	
+P03_GID1_CXE.1.005	P03_GID1_CXE		member	D8RP41	SELMO	Selaginella moellendorffii_GID1-2	Yoshida2018	Dataset S2 row 260	
+P03_GID1_CXE.1.006	P03_GID1_CXE		member	D8SVY3	SELMO	SmCXE4	Yoshida2018	Dataset S2 row 15	
+P03_GID1_CXE.1.007	P03_GID1_CXE		member	Q6L545	ORYSJ	Oryza sativa_GID1	Yoshida2018	Dataset S2 row 236	
+P03_GID1_CXE.1.008	P03_GID1_CXE		member	A0A7I4ALL0	PHYPA	PpGID1L-2	Yoshida2018	Dataset S2 row 6	
+P03_GID1_CXE.1.009	P03_GID1_CXE		member	I1LBF7	SOYBN	Glycine max_GID1a-1	Yoshida2018	Dataset S2 row 147	
+P03_GID1_CXE.1.010	P03_GID1_CXE		member	V7BI43	PHAVU	Phaseolus vulgaris_GID1b-2	Yoshida2018	Dataset S2 row 200	
+P03_GID1_CXE.1.011	P03_GID1_CXE		member	D8S651	SELMO	Selaginella moellendorffii_GID1-1	Yoshida2018	Dataset S2 row 259	
+P03_GID1_CXE.1.012	P03_GID1_CXE		member	D8S362	SELMO	SmCXE15	Yoshida2018	Dataset S2 row 26	
+P03_GID1_CXE.1.013	P03_GID1_CXE		member	A0A1D6M449	MAIZE	Zea mays_GID1-1	Yoshida2018	Dataset S2 row 250	
+P03_GID1_CXE.1.014	P03_GID1_CXE		member	D8SBA2	SELMO	SmGID1L-1	Yoshida2018	Dataset S2 row 11	
+P03_GID1_CXE.1.015	P03_GID1_CXE		member	Q9MAA7	ARATH	Arabidopsis thaliana_GID1a	Yoshida2018	Dataset S2 row 99	
+P03_GID1_CXE.1.016	P03_GID1_CXE		member	I1L7Z8	SOYBN	Glycine max_GID1b-2	Yoshida2018	Dataset S2 row 150	
+P03_GID1_CXE.1.017	P03_GID1_CXE		member	Q9LFR7	ARATH	AtCXE17	Yoshida2018	Dataset S2 row 90	
+P03_GID1_CXE.1.018	P03_GID1_CXE		member	V7BGX3	PHAVU	Phaseolus vulgaris_GID1a	Yoshida2018	Dataset S2 row 198	
+P03_GID1_CXE.1.019	P03_GID1_CXE		member	Q9LYC1	ARATH	Arabidopsis thaliana_GID1b	Yoshida2018	Dataset S2 row 101	
+P03_GID1_CXE.1.020	P03_GID1_CXE		member	A0A0P0WTX9	ORYSJ	OsCXE34	Yoshida2018	Dataset S2 row 61	
+P03_GID1_CXE.1.021	P03_GID1_CXE		member	Q940G6	ARATH	Arabidopsis thaliana_GID1c	Yoshida2018	Dataset S2 row 100	
+P03_GID1_CXE.1.022	P03_GID1_CXE		member	V7CW67	PHAVU	Phaseolus vulgaris_GID1b-1	Yoshida2018	Dataset S2 row 199	
+P03_GID1_CXE.1.023	P03_GID1_CXE		member	D8RTA2	SELMO	SmCXE8	Yoshida2018	Dataset S2 row 19	
+P03_GID1_CXE.1.024	P03_GID1_CXE		member	K7N568	SOYBN	Glycine max_GID1a-2	Yoshida2018	Dataset S2 row 148	
+P03_GID1_CXE.1.025	P03_GID1_CXE		member	A0A1X9T4C9	VITVI	Vitis vinifera_GID1b	Yoshida2018	Dataset S2 row 227	
+P03_GID1_CXE.1.026	P03_GID1_CXE		member	Q6ZDG3	ORYSJ	OsCXE26	Yoshida2018	Dataset S2 row 53	
+P03_GID1_CXE.1.027	P03_GID1_CXE		member	I1JNP5	SOYBN	Glycine max_GID1b-1	Yoshida2018	Dataset S2 row 149	
+P03_GID1_CXE.1.028	P03_GID1_CXE		member	D8RYH1	SELMO	SmCXE11	Yoshida2018	Dataset S2 row 22	
+P03_GID1_CXE.1.029	P03_GID1_CXE		member	D8RB59	SELMO	SmCXE12	Yoshida2018	Dataset S2 row 23	
+P03_GID1_CXE.1.030	P03_GID1_CXE		member	A0A0P0X2H6	ORYSJ	OsCXE17	Yoshida2018	Dataset S2 row 44	
+P03_GID1_CXE.1.031	P03_GID1_CXE		event	Q9MAA7,Q940G6,I1LBF7,K7N568,V7BGX3,F6HTZ8,Q9LYC1,I1JNP5,...(+5)	ARATH,PHAVU,SOYBN,VITVI	Arabidopsis thaliana_GID1a,Arabidopsis thaliana_GID1c,Glycine max_GID1a-1,Glycine max_GID1a-2,Phaseolus vulgaris_GID1a,Vitis vinifera_GID1a	Yoshida2018	Discussion	D_GID1_AB
+P03_GID1_CXE.1.032	P03_GID1_CXE		event	D8RB57,D8RWM4,D8RB62,D8SVY3,D8RAV6,D8R003,D8RB67,D8RTA2,...(+81)	AMBTC,ARATH,MAIZE,ORYSJ,PHAVU,SELMO,SOYBN,VITVI	SmCXE1,SmCXE2,SmCXE3,SmCXE4,SmCXE5,SmCXE6	Yoshida2018	Introduction || Results, Establishment of GID1 from CXEs	D_GID1_origin

@@ -1,0 +1,38 @@
+item_id	family	unit	kind	genes	species	original_id_in_paper	source	locator	node_id
+V01_globins.1.001	V01_globins		member	C3Y097	BRAFL	CBL51563	Hoffmann2012b	Supplementary Table S1 (PDF text line 38)	
+V01_globins.1.002	V01_globins		member	Q8UUR3	DANRE	NP_694484	Hoffmann2012b	Supplementary Table S1 (PDF text line 184)	
+V01_globins.1.003	V01_globins		member	A0A8V0XQ36	CHICK	NP_001026722	Hoffmann2012b	Supplementary Table S1 (PDF text line 80)	
+V01_globins.1.004	V01_globins		member	A0A9J7L0D0	BRAFL	CBL51551	Hoffmann2012b	Supplementary Table S1 (PDF text line 40)	
+V01_globins.1.005	V01_globins		member	A0A8J0PE97	XENTR	NP_001006870	Hoffmann2012b	Supplementary Table S1 (PDF text line 84)	
+V01_globins.1.006	V01_globins		member	A0A8V1ACS2	CHICK	NP_001008789	Hoffmann2012b	Supplementary Table S1 (PDF text line 75)	
+V01_globins.1.007	V01_globins		member	Q9NPG2	HUMAN	NP_067080	Hoffmann2012b	Supplementary Table S1 (PDF text line 106)	
+V01_globins.1.008	V01_globins		member	P02197	CHICK	NP_001161224	Hoffmann2012b	Supplementary Table S1 (PDF text line 79)	
+V01_globins.1.009	V01_globins		member	Q575T0	ORYLA	NP_001098237	Hoffmann2012b	Supplementary Table S1 (PDF text line 107)	
+V01_globins.1.010	V01_globins		member	A0A9J7L058	BRAFL	CBL51557	Hoffmann2012b	Supplementary Table S1 (PDF text line 46)	
+V01_globins.1.011	V01_globins		member	Q90YJ2	DANRE	NP_571928	Hoffmann2012b	Supplementary Table S1 (PDF text line 195)	
+V01_globins.1.012	V01_globins		member	P02208	PETMA	P02208	Hoffmann2012b	Supplementary Table S1 (PDF text line 154)	
+V01_globins.1.013	V01_globins		member	Q90486	DANRE	NP_571095	Hoffmann2012b	Supplementary Table S1 (PDF text line 193)	
+V01_globins.1.014	V01_globins		member	P07429	XENTR	NP_988859	Hoffmann2012b	Supplementary Table S1 (PDF text line 88)	
+V01_globins.1.015	V01_globins		member	P02128	CHICK	NP_001075173	Hoffmann2012b	Supplementary Table S1 (PDF text line 78)	
+V01_globins.1.016	V01_globins		member	A0A9J7HJB7	BRAFL	CBL51555	Hoffmann2012b	Supplementary Table S1 (PDF text line 44)	
+V01_globins.1.017	V01_globins		member	C3YSB7	BRAFL	CBL51558	Hoffmann2012b	Supplementary Table S1 (PDF text line 47)	
+V01_globins.1.018	V01_globins		member	P02144	HUMAN	NP_976311	Hoffmann2012b	Supplementary Table S1 (PDF text line 105)	
+V01_globins.1.019	V01_globins		member	Q575S9	ORYLA	NP_001098238	Hoffmann2012b	Supplementary Table S1 (PDF text line 108)	
+V01_globins.1.020	V01_globins		member	Q6VN46	DANRE	NP_956880	Hoffmann2012b	Supplementary Table S1 (PDF text line 194)	
+V01_globins.1.021	V01_globins		member	A0A8J0PFH6	XENTR	NP_001011196	Hoffmann2012b	Supplementary Table S1 (PDF text line 85)	
+V01_globins.1.022	V01_globins		member	P01994	CHICK	NP_001004376	Hoffmann2012b	Supplementary Table S1 (PDF text line 77)	
+V01_globins.1.023	V01_globins		member	A0A8J0QUY2	XENTR	BC158411	Hoffmann2012b	Supplementary Table S1 (PDF text line 86)	
+V01_globins.1.024	V01_globins		member	Q575S8	DANRE	NP_001019395	Hoffmann2012b	Supplementary Table S1 (PDF text line 185)	
+V01_globins.1.025	V01_globins		member	H2LCY1	ORYLA	ENSORLG00000003020	Hoffmann2012b	Supplementary Table S1 (PDF text line 111)	
+V01_globins.1.026	V01_globins		member	A0A8V0YHC7	CHICK	NP_001008786	Hoffmann2012b	Supplementary Table S1 (PDF text line 76)	
+V01_globins.1.027	V01_globins		member	P68871	HUMAN	NP_000509	Hoffmann2012b	Supplementary Table S1 (PDF text line 104)	
+V01_globins.1.028	V01_globins		member	Q8WWM9	HUMAN	NP_599030	Hoffmann2012b	Supplementary Table S1 (PDF text line 102)	
+V01_globins.1.029	V01_globins		member	A0A9J7MNG5	BRAFL	CBL51564	Hoffmann2012b	Supplementary Table S1 (PDF text line 39)	
+V01_globins.1.030	V01_globins		member	C3YZ50	BRAFL	CBL51562	Hoffmann2012b	Supplementary Table S1 (PDF text line 37)	
+V01_globins.1.031	V01_globins		event	Q6VN46,P02197,P02144,A0A8V0YHC7	CHICK,DANRE,HUMAN	NP_956880,NP_001161224,NP_976311,NP_001008786	Hoffmann2010	Hoffmann 2010 Discussion	V01_globins.D2
+V01_globins.1.032	V01_globins		event	Q575T0,Q575S9,Q8UUR3,Q575S8,A0A8J0PE97,A0A8V1ACS2,Q8WWM9,Q6VN46,...(+3)	CHICK,DANRE,HUMAN,ORYLA,XENTR	NP_001098237,NP_001098238,NP_694484,NP_001019395,NP_001006870,NP_001008789	Hoffmann2012a	Hoffmann 2012a Discussion	V01_globins.D4
+V01_globins.1.033	V01_globins		event	H2LKT8,Q90487,P07428,P01994,P69905,H2LCY1,Q90486,P07429,...(+2)	CHICK,DANRE,HUMAN,ORYLA,XENTR	ENSORLG00000005267,NP_571332,NP_988860,NP_001004376,NP_000549,ENSORLG00000003020	Hoffmann2012a	Hoffmann 2012a Discussion || Hoffmann 2012a Discussion	V01_globins.D8
+V01_globins.1.034	V01_globins		event	P02208,P09967,P09968,Q575T0,Q575S9,Q8UUR3,Q575S8,A0A8J0PE97,...(+17)	CHICK,DANRE,HUMAN,ORYLA,PETMA,XENTR	P02208,P09967,P09968,NP_001098237,NP_001098238,NP_694484	Hoffmann2010,Hoffmann2012a	Hoffmann 2012a Discussion; Hoffmann 2010 Results || Hoffmann 2012a Discussion; Hoffmann 2010 Results || Hoffmann 2012a Discussion; Hoffmann 2010 Results	V01_globins.D10
+V01_globins.1.035	V01_globins		event	H2MRF9,A0A8J0PFH6,C3YZ50,C3Y097,A0A9J7M9S1,A0A9J7HJB7	BRAFL,ORYLA,XENTR	ENSORLG00000017054,NP_001011196,CBL51562,CBL51563,CBL51552,CBL51555	Hoffmann2012b	Hoffmann 2012b Results || Hoffmann 2012b Results	V01_globins.D13
+V01_globins.1.036	V01_globins		event	A0A9J7MNB9,A0A9J7KXK8,A0A9J7MNG5,A0A9J7L0D0,A0A9J7KWT8,C3YSB7,F6SP24,P02208,...(+30)	BRAFL,CHICK,CIOIN,DANRE,HUMAN,ORYLA,PETMA,XENTR	CBL51550,CBL51559,CBL51564,CBL51551,CBL51556,CBL51558	Hoffmann2012b	Hoffmann 2012b Results || Hoffmann 2012b Results	V01_globins.D14
+V01_globins.1.037	V01_globins		event	A0A9J7KGQ7,Q90YJ2,A0A8V0XQ36,Q9NPG2,A0A9J7MNB9,A0A9J7KXK8,A0A9J7MNG5,A0A9J7L0D0,...(+34)	BRAFL,CHICK,CIOIN,DANRE,HUMAN,ORYLA,PETMA,XENTR	CBL51553,NP_571928,NP_001026722,NP_067080,CBL51550,CBL51559	Hoffmann2012b	Hoffmann 2012b Results || Hoffmann 2012b Results || Hoffmann 2012b Results	V01_globins.D15

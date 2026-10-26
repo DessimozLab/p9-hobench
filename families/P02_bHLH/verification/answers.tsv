@@ -1,0 +1,34 @@
+item_id	answer	evidence
+P02_bHLH.1.001	subfamily II	Suppl Fig S2 table (msp288_2.pdf) lists AtbHLH138; File009 row 136 confirms protein
+P02_bHLH.1.002	subfamily XI	Suppl Fig S2 table (msp288_2.pdf) lists OsbHLH097; File009 row 262 confirms protein
+P02_bHLH.1.003	subfamily XII	Suppl Fig S2 table (msp288_2.pdf) lists AtbHLH064; File009 row 65 confirms protein
+P02_bHLH.1.004	subfamily IIIf	Suppl Fig S2 table (msp288_2.pdf) lists OsbHLH015; File009 row 182 confirms protein
+P02_bHLH.1.005	subfamily XIV	Suppl Fig S2 table (msp288_2.pdf) lists AtbHLH143; File009 row 141 confirms protein
+P02_bHLH.1.006	subfamily Ib(1)	Suppl Fig S2 table (msp288_2.pdf) lists SmbHLH081; File009 row 520 confirms protein
+P02_bHLH.1.007	Orphan (no subfamily)	Suppl Fig S2 table row "Orphans" lists AtbHLH022
+P02_bHLH.1.008	subfamily VIIIb	Suppl Fig S2 table (msp288_2.pdf) lists OsbHLH118; File009 row 283 confirms protein
+P02_bHLH.1.009	subfamily III(d+e)	Suppl Fig S2 table (msp288_2.pdf) lists AtbHLH006; File009 row 7 confirms protein
+P02_bHLH.1.010	subfamily IVd	Suppl Fig S2 table (msp288_2.pdf) lists SmbHLH066; File009 row 505 confirms protein
+P02_bHLH.1.011	subfamily X	Suppl Fig S2 table (msp288_2.pdf) lists OsbHLH071; File009 row 237 confirms protein
+P02_bHLH.1.012	subfamily III(a+c)	Suppl Fig S2 table (msp288_2.pdf) lists SmbHLH001; File009 row 440 confirms protein
+P02_bHLH.1.013	subfamily Vb	Suppl Fig S2 table (msp288_2.pdf) lists AtbHLH107; File009 row 108 confirms protein
+P02_bHLH.1.014	subfamily VIIIc(1)	Suppl Fig S2 table (msp288_2.pdf) lists OsbHLH126; File009 row 291 confirms protein
+P02_bHLH.1.015	subfamily VIIIc(2)	Suppl Fig S2 table (msp288_2.pdf) lists AtbHLH139; File009 row 137 confirms protein
+P02_bHLH.1.016	subfamily IVa	Suppl Fig S2 table (msp288_2.pdf) lists OsbHLH021; File009 row 188 confirms protein
+P02_bHLH.1.017	subfamily Ia	Suppl Fig S2 table (msp288_2.pdf) lists OsbHLH044; File009 row 210 confirms protein
+P02_bHLH.1.018	subfamily IVc	Suppl Fig S2 table (msp288_2.pdf) lists OsbHLH060; File009 row 226 confirms protein
+P02_bHLH.1.019	subfamily VIIIa	Suppl Fig S2 table (msp288_2.pdf) lists SmbHLH071; File009 row 510 confirms protein
+P02_bHLH.1.020	subfamily IVb	Suppl Fig S2 table (msp288_2.pdf) lists OsbHLH061; File009 row 227 confirms protein
+P02_bHLH.1.021	subfamily IX	Suppl Fig S2 table (msp288_2.pdf) lists SmbHLH009; File009 row 448 confirms protein
+P02_bHLH.1.022	subfamily VII(a+b)	Suppl Fig S2 table (msp288_2.pdf) lists AtbHLH056; File009 row 57 confirms protein
+P02_bHLH.1.023	subfamily Va	Suppl Fig S2 table (msp288_2.pdf) lists AtbHLH102; File009 row 103 confirms protein
+P02_bHLH.1.024	subfamily Ib(2)	Suppl Fig S2 table (msp288_2.pdf) lists AtbHLH055; File009 row 56 confirms protein
+P02_bHLH.1.025	subfamily IIIb	Suppl Fig S2 table (msp288_2.pdf) lists SmbHLH053; File009 row 492 confirms protein
+P02_bHLH.1.026	subfamily XV	Suppl Fig S2 table (msp288_2.pdf) lists AtbHLH161; File009 row 158 confirms protein
+P02_bHLH.1.027	subfamily XIII	Suppl Fig S2 table (msp288_2.pdf) lists AtbHLH156; File009 row 153 confirms protein
+P02_bHLH.1.028	subfamily II	Suppl Fig S2 table (msp288_2.pdf) lists SmbHLH084; File009 row 523 confirms protein
+P02_bHLH.1.029	subfamily XI	Suppl Fig S2 table (msp288_2.pdf) lists SmbHLH057; File009 row 496 confirms protein
+P02_bHLH.1.030	subfamily XII	Suppl Fig S2 table (msp288_2.pdf) lists SmbHLH010; File009 row 449 confirms protein
+P02_bHLH.1.031	20 subfamilies (with moss + vascular members) established by common ancestor of mosses and vascular plants: [Embryophyta, ABOVE_RANGE] (inter-subfamily order unresolved)	PiresDolan2010 fig 3 caption/Results: 20 subfamilies already established in common ancestor of vascular plants and mosses
+P02_bHLH.1.032	3 subfamilies with angiosperm+lycophyte but no moss members: [Tracheophyta, ABOVE_RANGE]	PiresDolan2010 Results: 23 include angiosperm and lycophyte, 20 also moss
+P02_bHLH.1.033	3 subfamilies with only angiosperm (Arabidopsis+rice) members: [Mesangiospermae, ABOVE_RANGE]	PiresDolan2010 Results: 3 include only angiosperm proteins (only A.thaliana and O.sativa sampled => Mesangiospermae)

@@ -1,0 +1,32 @@
+item_id	family	kind	verdict	claimed	answer	note
+E06_myosins.1.001	E06_myosins	member	AGREE	Myo2	class 2	class number from name equals claimed
+E06_myosins.1.002	E06_myosins	member	AGREE	Myo23	class 23	class number from name equals claimed
+E06_myosins.1.003	E06_myosins	member	AGREE	Myo39	class 39	class number from name equals claimed
+E06_myosins.1.004	E06_myosins	member	AGREE	Myo1	class 1	class number from name equals claimed
+E06_myosins.1.005	E06_myosins	member	AGREE	Myo6	class 6	class number from name equals claimed
+E06_myosins.1.006	E06_myosins	member	AGREE	Myo14	class 14	class number from name equals claimed
+E06_myosins.1.007	E06_myosins	member	AGREE	Myo37	class 37	class number from name equals claimed
+E06_myosins.1.008	E06_myosins	member	AGREE	orphan	orphan (no class number in name)	CoMyo_A: letter-suffix name (no class number) = orphan sequence (locator class orphan; paper: unclassified orphans)
+E06_myosins.1.009	E06_myosins	member	AGREE	Myo29	class 29	class number from name equals claimed
+E06_myosins.1.010	E06_myosins	member	AGREE	Myo49	class 49	class number from name equals claimed
+E06_myosins.1.011	E06_myosins	member	AGREE	Myo9	class 9	class number from name equals claimed
+E06_myosins.1.012	E06_myosins	member	AGREE	Myo46	class 46	class number from name equals claimed
+E06_myosins.1.013	E06_myosins	member	AGREE	Myo45	class 45	class number from name equals claimed
+E06_myosins.1.014	E06_myosins	member	AGREE	Myo41	class 41	class number from name equals claimed
+E06_myosins.1.015	E06_myosins	member	AGREE	Myo22	class 22	class number from name equals claimed
+E06_myosins.1.016	E06_myosins	member	AGREE	Myo10	class 10	class number from name equals claimed
+E06_myosins.1.017	E06_myosins	member	AGREE	Myo3	class 3	class number from name equals claimed
+E06_myosins.1.018	E06_myosins	member	AGREE	Myo48	class 48	class number from name equals claimed
+E06_myosins.1.019	E06_myosins	member	AGREE	Myo18	class 18	class number from name equals claimed
+E06_myosins.1.020	E06_myosins	member	AGREE	Myo35	class 35	class number from name equals claimed
+E06_myosins.1.021	E06_myosins	member	AGREE	Myo19	class 19	class number from name equals claimed
+E06_myosins.1.022	E06_myosins	member	AGREE	Myo30	class 30	class number from name equals claimed
+E06_myosins.1.023	E06_myosins	member	AGREE	Myo27	class 27	class number from name equals claimed
+E06_myosins.1.024	E06_myosins	member	AGREE	Myo17	class 17	class number from name equals claimed
+E06_myosins.1.025	E06_myosins	member	AGREE	Myo42	class 42	class number from name equals claimed
+E06_myosins.1.026	E06_myosins	member	AGREE	Myo24	class 24	class number from name equals claimed
+E06_myosins.1.027	E06_myosins	member	AGREE	Myo15	class 15	class number from name equals claimed
+E06_myosins.1.028	E06_myosins	member	AGREE	Myo13	class 13	class number from name equals claimed
+E06_myosins.1.029	E06_myosins	member	AGREE	Myo26	class 26	class number from name equals claimed
+E06_myosins.1.030	E06_myosins	member	AGREE	Myo4	class 4	class number from name equals claimed
+E06_myosins.1.031	E06_myosins	event	AGREE	ev=D;lvl_lo=Eukaryota;lvl_hi=ABOVE_RANGE	myosin classes present in LECA, duplications at/before Eukaryota stem: [Eukaryota, ABOVE_RANGE]	two myosins already in LECA (class-1 prototype + ancestor of all other classes): split at/before Eukaryota stem

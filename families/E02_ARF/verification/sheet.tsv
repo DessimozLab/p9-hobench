@@ -1,0 +1,36 @@
+item_id	family	unit	kind	genes	species	original_id_in_paper	source	locator	node_id
+E02_ARF.1.001	E02_ARF		member	A0A2K3D316	CHLRE	CreArl17a	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 1602: CreArl17a	
+E02_ARF.1.002	E02_ARF		member	A0A0D2WNE0	CAPO3	CowArf4	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 580: CowArf4	
+E02_ARF.1.003	E02_ARF		member	P36397	ARATH	AthARFA1c	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 1437: AthARFA1c	
+E02_ARF.1.004	E02_ARF		member	Q7S3M6	NEUCR	NcrSRb	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 693: NcrSRb	
+E02_ARF.1.005	E02_ARF		member	Q9NXU5	HUMAN	HsaArl15	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 29: HsaArl15	
+E02_ARF.1.006	E02_ARF		member	M1VA06	CYAME	CmeArl2	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 1629: CmeArl2	
+E02_ARF.1.007	E02_ARF		member	B3RK59	TRIAD	TadArl1	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 460: TadArl1	
+E02_ARF.1.008	E02_ARF		member	Q9VPP8	DROME	DmeArl16	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 197: DmeArl16	
+E02_ARF.1.009	E02_ARF		member	Q54Y14	DICDI	DdiSarB	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 911: DdiSarB	
+E02_ARF.1.010	E02_ARF		member	A9V9Z7	MONBE	MbrArl20b	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 545: MbrArl20b	
+E02_ARF.1.011	E02_ARF		member	D2W227	NAEGR	NgrArl18	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 1376: NgrArl18	
+E02_ARF.1.012	E02_ARF		member	Q9VD29	DROME	DmeSar1	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 200: DmeSar1	
+E02_ARF.1.013	E02_ARF		member	M1VFR2	CYAME	CmeArlRhodo	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 1627: CmeArlRhodo	
+E02_ARF.1.014	E02_ARF		member	A9V542	MONBE	MbrArl3b	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 549: MbrArl3b	
+E02_ARF.1.015	E02_ARF		member	Q9VD65	DROME	DmeArlX1	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 198: DmeArlX1	
+E02_ARF.1.016	E02_ARF		member	Q55AR1	DICDI	DdiArf12	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 901: DdiArf12	
+E02_ARF.1.017	E02_ARF		member	Q96KC2	HUMAN	HsaArl5b	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 19: HsaArl5b	
+E02_ARF.1.018	E02_ARF		member	M1VCF0	CYAME	CmeArfrp1	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 1630: CmeArfrp1	
+E02_ARF.1.019	E02_ARF		member	A8ILA3	CHLRE	CreArfB1	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 1591: CreArfB1	
+E02_ARF.1.020	E02_ARF		member	Q969Q4	HUMAN	HsaArl11	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 25: HsaArl11	
+E02_ARF.1.021	E02_ARF		member	A0A0D2WH02	CAPO3	CowArf6	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 581: CowArf6	
+E02_ARF.1.022	E02_ARF		member	Q8N8L6	HUMAN	HsaArl10	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 24: HsaArl10	
+E02_ARF.1.023	E02_ARF		member	D2VSZ4	NAEGR	NgrArfX	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 1354: NgrArfX	
+E02_ARF.1.024	E02_ARF		member	Q96BM9	HUMAN	HsaArl8a	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 21: HsaArl8a	
+E02_ARF.1.025	E02_ARF		member	A0ACF8YY10	MNELE	MleArl19d	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 491: MleArl19d	
+E02_ARF.1.026	E02_ARF		member	P49703	HUMAN	HsaArl4d	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 17: HsaArl4d	
+E02_ARF.1.027	E02_ARF		member	D2VGQ9	NAEGR	NgrArl13	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 1374: NgrArl13	
+E02_ARF.1.028	E02_ARF		member	Q9H0F7	HUMAN	HsaArl6	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 20: HsaArl6	
+E02_ARF.1.029	E02_ARF		member	B8BXL9	THAPS	TpsArl2	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 2128: TpsArl2	
+E02_ARF.1.030	E02_ARF		member	P36406	HUMAN	HsaTRIM23	Vargova2021	Supplementary_table_1.xlsx (in literature/papers/PMID34247240/raw/supp/evab157_supplementary_data.zip) row 11: HsaTRIM23	
+E02_ARF.1.031	E02_ARF		event	P61204,P84077	HUMAN	HsaArf3,HsaArf1	Vargova2021	literature/papers/PMID34247240/fulltext.txt (Results)	Arf1_holozoa_HUMAN_dup
+E02_ARF.1.032	E02_ARF		event	P18085,P84085	HUMAN	HsaArf4,HsaArf5	Vargova2021	literature/papers/PMID34247240/fulltext.txt (Results)	Arf4_HUMAN_dup
+E02_ARF.1.033	E02_ARF		event	A0A0D2U3B7,P61209,P61204,P84077,A9V847,A7S214,B3RQZ1,A0A1X7VS60,...(+7)	AMPQE,CAPO3,DROME,HUMAN,MNELE,MONBE,NEMVE,TRIAD	CowArf1,DmeArf1,HsaArf3,HsaArf1,MbrArf1a,NveArf1b	Vargova2021	literature/papers/PMID34247240/fulltext.txt (Results) || literature/papers/PMID34247240/fulltext.txt (Results)	Arf1_Arf4_Holozoa
+E02_ARF.1.034	E02_ARF		event	F4NRM0,M1UVH6,A8BSW7,Q7RVM2,Q7KQL3,B8BS84,A0A0L0D303,A0A1P8BDK6,...(+235)	AMPQE,ARATH,BATDJ,CAPO3,CHLRE,CYAME,DICDI,DROME,ENTH1,GIAIC,	BdeArf1,CmeArf1,GinArf1,NcrArf1,PfaArf1,TpsArf1	Vargova2021	literature/papers/PMID34247240/fulltext.txt (Results) || literature/papers/PMID34247240/fulltext.txt (Results)	ARF_LECA
+E02_ARF.1.035	E02_ARF		event	P40617,P49703,P56559	HUMAN	HsaArl4a,HsaArl4d,HsaArl4c	Vargova2021	literature/papers/PMID34247240/fulltext.txt (Results)	Arl4_HUMAN_dup

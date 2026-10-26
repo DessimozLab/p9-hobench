@@ -1,0 +1,32 @@
+item_id	answer	evidence
+E04_tubulins.1.001	Tub2 (beta-tubulin)	name HsTub2A in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.002	Tub1 (alpha-tubulin)	name NvTub1I in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.003	Tub5 (epsilon-tubulin)	name CrTub5 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.004	Tub6 (zeta-tubulin)	name TbTub6 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.005	Tub3 (gamma-tubulin)	name NgTub3 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.006	Tub4 (delta-tubulin)	name TbTub4 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.007	Tub2 (beta-tubulin)	name NvTub2G in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.008	Tub1 (alpha-tubulin)	name DdTub1B in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.009	Tub5 (epsilon-tubulin)	name NgTub5 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.010	Tub6 (zeta-tubulin)	name NgTub6 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.011	Tub3 (gamma-tubulin)	name ImTub3 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.012	Tub4 (delta-tubulin)	name NvTub4 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.013	Tub2 (beta-tubulin)	name NgTub2G in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.014	Tub1 (alpha-tubulin)	name DmTub1E in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.015	Tub5 (epsilon-tubulin)	name HsTub5 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.016	Tub6 (zeta-tubulin)	name ImTub6 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.017	Tub3 (gamma-tubulin)	name NcTub3 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.018	Tub4 (delta-tubulin)	name MbTub4 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.019	Tub2 (beta-tubulin)	name EhTub2B in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.020	Tub1 (alpha-tubulin)	name CoTub1 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.021	Tub5 (epsilon-tubulin)	name AmqTub5 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.022	Tub6 (zeta-tubulin)	name TiaTub6 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.023	Tub3 (gamma-tubulin)	name Bad_bTub3 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.024	Tub4 (delta-tubulin)	name NgTub4 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.025	Tub2 (beta-tubulin)	name HsTub2Ib in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.026	Tub1 (alpha-tubulin)	name HsTub1C in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.027	Tub5 (epsilon-tubulin)	name Pf_aTub5 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.028	Tub6 (zeta-tubulin)	name NvTub6 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.029	Tub3 (gamma-tubulin)	name CoTub3 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.030	Tub4 (delta-tubulin)	name AmqTub4 in tubulin_alignment.fas; Tub1=alpha,Tub2=beta,Tub3=gamma (fulltext note), Tub4=delta,Tub5=epsilon (supp chr coords), Tub6=zeta
+E04_tubulins.1.031	six subfamilies' ancestors present in LECA: [Eukaryota, ABOVE_RANGE]	Findeisen2014 Discussion: six major tubulin subfamilies, ancestor of each present in LCA of eukaryotes (fig 7)

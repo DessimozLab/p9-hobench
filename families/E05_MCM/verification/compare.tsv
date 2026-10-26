@@ -1,0 +1,33 @@
+item_id	family	kind	verdict	claimed	answer	note
+E05_MCM.1.001	E05_MCM	member	AGREE	Mcm4	Mcm4	
+E05_MCM.1.002	E05_MCM	member	AGREE	Mcm6	Mcm6	
+E05_MCM.1.003	E05_MCM	member	AGREE	Mcm2	Mcm2	
+E05_MCM.1.004	E05_MCM	member	AGREE	archaeal_MCM	archaeal MCM (outgroup, not Mcm2-9)	
+E05_MCM.1.005	E05_MCM	member	AGREE	Mcm8	Mcm8	
+E05_MCM.1.006	E05_MCM	member	AGREE	Mcm9	Mcm9	
+E05_MCM.1.007	E05_MCM	member	AGREE	Mcm5	Mcm5	
+E05_MCM.1.008	E05_MCM	member	AGREE	Mcm3	Mcm3	
+E05_MCM.1.009	E05_MCM	member	AGREE	Mcm7	Mcm7	
+E05_MCM.1.010	E05_MCM	member	AGREE	Mcm4	Mcm4	
+E05_MCM.1.011	E05_MCM	member	AGREE	Mcm6	Mcm6	
+E05_MCM.1.012	E05_MCM	member	AGREE	Mcm2	Mcm2	
+E05_MCM.1.013	E05_MCM	member	AGREE	Mcm8	Mcm8	
+E05_MCM.1.014	E05_MCM	member	AGREE	Mcm9	Mcm9	
+E05_MCM.1.015	E05_MCM	member	AGREE	Mcm5	Mcm5	
+E05_MCM.1.016	E05_MCM	member	AGREE	Mcm3	Mcm3	
+E05_MCM.1.017	E05_MCM	member	AGREE	Mcm7	Mcm7	
+E05_MCM.1.018	E05_MCM	member	AGREE	Mcm4	Mcm4	
+E05_MCM.1.019	E05_MCM	member	AGREE	Mcm6	Mcm6	
+E05_MCM.1.020	E05_MCM	member	AGREE	Mcm2	Mcm2	
+E05_MCM.1.021	E05_MCM	member	AGREE	Mcm8	Mcm8	
+E05_MCM.1.022	E05_MCM	member	AGREE	Mcm9	Mcm9	
+E05_MCM.1.023	E05_MCM	member	AGREE	Mcm5	Mcm5	
+E05_MCM.1.024	E05_MCM	member	AGREE	Mcm3	Mcm3	
+E05_MCM.1.025	E05_MCM	member	AGREE	Mcm7	Mcm7	
+E05_MCM.1.026	E05_MCM	member	AGREE	Mcm4	Mcm4	
+E05_MCM.1.027	E05_MCM	member	AGREE	Mcm6	Mcm6	
+E05_MCM.1.028	E05_MCM	member	AGREE	Mcm2	Mcm2	
+E05_MCM.1.029	E05_MCM	member	AGREE	Mcm8	Mcm8	
+E05_MCM.1.030	E05_MCM	member	AGREE	Mcm9	Mcm9	
+E05_MCM.1.031	E05_MCM	event	AGREE	ev=D;tag=LSE	lineage-specific duplication in NAEGR (two Mcm3 in Naegleria): terminal NAEGR branch, below Discoba	031 default lineage-specific (NAEGR). 032 hi=Asgard_Eukaryota is derivable (single-copy MCM in sampled Euryarchaeota and TACK tips of Additional file 4); verifier initially left hi open
+E05_MCM.1.032	E05_MCM	event	AGREE	ev=D;lvl_lo=Eukaryota;lvl_hi=Asgard_Eukaryota	Mcm2-9 duplications before LECA: [Eukaryota, ABOVE_RANGE] (paper gives no older bound)	031 default lineage-specific (NAEGR). 032 hi=Asgard_Eukaryota is derivable (single-copy MCM in sampled Euryarchaeota and TACK tips of Additional file 4); verifier initially left hi open

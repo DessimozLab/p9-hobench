@@ -1,0 +1,32 @@
+item_id	family	unit	kind	genes	species	original_id_in_paper	source	locator	node_id
+K02_trGTPases.1.001	K02_trGTPases		member	Q9XD38	LEPIN	NP_710918.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.002	K02_trGTPases		member	Q58448	METJA	WP_010870561.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.003	K02_trGTPases		member	P35021	SACS2	WP_010922916.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.004	K02_trGTPases		member	P38525	THEMA	NP_229303.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.005	K02_trGTPases		member	Q9R342	DEIRA	NP_294032.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.006	K02_trGTPases		member	Q8TRC3	METAC	AAM04676.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.007	K02_trGTPases		member	P56003	HELPY	NP_207997.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.008	K02_trGTPases		member	Q55421	SYNY3	WP_010873748.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.009	K02_trGTPases		member	P0CE47	ECOLI	NP_417798.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.010	K02_trGTPases		member	P0A6M8	ECOLI	NP_417799.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.011	K02_trGTPases		member	P0CD71	CHLTR	NP_219827.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.012	K02_trGTPases		member	Q9I244	PSEAE	NP_250761.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.013	K02_trGTPases		member	P74227	SYNY3	WP_010872941.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.014	K02_trGTPases		member	O66428	AQUAE	NP_212986.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.015	K02_trGTPases		member	Q5JFZ4	THEKO	WP_011249263.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.016	K02_trGTPases		member	P80868	BACSU	NP_387993.2	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.017	K02_trGTPases		member	P9WNN1	MYCTU	NP_215199.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.018	K02_trGTPases		member	P28371	SYNY3	WP_010874145.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.019	K02_trGTPases		member	Q57770	METJA	WP_010869821.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.020	K02_trGTPases		member	Q8A474	BACTN	NP_811641.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.021	K02_trGTPases		member	Q8A463	BACTN	NP_811652.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.022	K02_trGTPases		member	Q9RXC2	DEIRA	NP_294116.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.023	K02_trGTPases		member	O66429	AQUAE	NP_212987.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.024	K02_trGTPases		member	P9WNM9	MYCTU	NP_214634.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.025	K02_trGTPases		member	P0CE48	ECOLI	NP_418407.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.026	K02_trGTPases		member	P56002	HELPY	NP_207986.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.027	K02_trGTPases		member	P33166	BACSU	NP_387994.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.028	K02_trGTPases		member	Q9HWD2	PSEAE	NP_252956.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.029	K02_trGTPases		member	B1L713	KORCO	WP_052568509.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.030	K02_trGTPases		member	P74228	SYNY3	WP_010872942.1	COG2020	cog20_panelK.csv	
+K02_trGTPases.1.031	K02_trGTPases		event	P09591,P56003,P33166,P9WNN1,P0CD71,P74227,Q9R342,P13537,...(+39)	AQUAE,BACSU,BACTN,CHLTR,DEIRA,ECOLI,HALSA,HELPY,KORCO,LEPIN,	NP_252955.1,NP_207997.1,NP_387994.1,NP_215199.1,NP_219827.1,WP_010872941.1	Baldauf1996,Iwabe1989	fulltext.txt Abstract, sentence 1 || fulltext.txt Abstract	TU_G_dup

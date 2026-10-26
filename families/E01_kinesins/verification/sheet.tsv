@@ -1,0 +1,33 @@
+item_id	family	unit	kind	genes	species	original_id_in_paper	source	locator	node_id
+E01_kinesins.1.001	E01_kinesins		member	Q9P2P6	HUMAN	Homsa_StARD9	Wickstead2010	S3.XLS sheet Suppl_info row 577: Homsa_StARD9	
+E01_kinesins.1.002	E01_kinesins		member	D2VG82	NAEGR	Naegr_39261	Wickstead2010	S3.XLS sheet Suppl_info row 724: Naegr_39261	
+E01_kinesins.1.003	E01_kinesins		member	Q6S000	DICDI	Dicdi_kif12	Wickstead2010	S3.XLS sheet Suppl_info row 342: Dicdi_kif12	
+E01_kinesins.1.004	E01_kinesins		member	B3S8F7	TRIAD	Triad_31193	Wickstead2010	S3.XLS sheet Suppl_info row 1534: Triad_31193	
+E01_kinesins.1.005	E01_kinesins		member	D2VA45	NAEGR	Naegr_32337	Wickstead2010	S3.XLS sheet Suppl_info row 719: Naegr_32337	
+E01_kinesins.1.006	E01_kinesins		member	D2VIS7	NAEGR	Naegr_34430	Wickstead2010	S3.XLS sheet Suppl_info row 723: Naegr_34430	
+E01_kinesins.1.007	E01_kinesins		member	Q8I5U0	PLAF7	Plafa_PFL0545w	Wickstead2010	S3.XLS sheet Suppl_info row 1152: Plafa_PFL0545w	
+E01_kinesins.1.008	E01_kinesins		member	Q8IBK2	PLAF7	Plafa_PF07_0104	Wickstead2010	S3.XLS sheet Suppl_info row 1147: Plafa_PF07_0104	
+E01_kinesins.1.009	E01_kinesins		member	A7RLG6	NEMVE	Nemve_85870	Wickstead2010	S3.XLS sheet Suppl_info row 790: Nemve_85870	
+E01_kinesins.1.010	E01_kinesins		member	Q38CW6	TRYB2	Trybr_Tb09.244.2560	Wickstead2010	S3.XLS sheet Suppl_info row 1574: Trybr_Tb09.244.2560	
+E01_kinesins.1.011	E01_kinesins		member	Q9VZF5	DROME	Drome_pavarotti	Wickstead2010	S3.XLS sheet Suppl_info row 378: Drome_pavarotti	
+E01_kinesins.1.012	E01_kinesins		member	Q38CC9	TRYB2	Trybr_Tb10.70.6990	Wickstead2010	S3.XLS sheet Suppl_info row 1580: Trybr_Tb10.70.6990	
+E01_kinesins.1.013	E01_kinesins		member	B3RLP4	TRIAD	Triad_52074	Wickstead2010	S3.XLS sheet Suppl_info row 1539: Triad_52074	
+E01_kinesins.1.014	E01_kinesins		member	F4I1T9	ARATH	Arath_AT1G55550.1	Wickstead2010	S3.XLS sheet Suppl_info row 35: Arath_AT1G55550.1	
+E01_kinesins.1.015	E01_kinesins		member	Q9UIL4	HUMAN	Homsa_KIF25	Wickstead2010	S3.XLS sheet Suppl_info row 524: Homsa_KIF25	
+E01_kinesins.1.016	E01_kinesins		member	Q2KJY2	HUMAN	Homsa_KIF26B	Wickstead2010	S3.XLS sheet Suppl_info row 528: Homsa_KIF26B	
+E01_kinesins.1.017	E01_kinesins		member	P17210	DROME	Drome_CG7765-PA	Wickstead2010	S3.XLS sheet Suppl_info row 356: Drome_CG7765-PA	
+E01_kinesins.1.018	E01_kinesins		member	B8BZH7	THAPS	Thaps_262186	Wickstead2010	S3.XLS sheet Suppl_info row 1485: Thaps_262186	
+E01_kinesins.1.019	E01_kinesins		member	A8JFG3	CHLRE	Chlre_FLA10	Wickstead2010	S3.XLS sheet Suppl_info row 279: Chlre_FLA10	
+E01_kinesins.1.020	E01_kinesins		member	A9V6W0	MONBE	Monbr_21653	Wickstead2010	S3.XLS sheet Suppl_info row 690: Monbr_21653	
+E01_kinesins.1.021	E01_kinesins		member	O60333	HUMAN	Homsa_KIF1B	Wickstead2010	S3.XLS sheet Suppl_info row 506: Homsa_KIF1B	
+E01_kinesins.1.022	E01_kinesins		member	Q9LPC6	ARATH	Arath_AT1G01950.1	Wickstead2010	S3.XLS sheet Suppl_info row 30: Arath_AT1G01950.1	
+E01_kinesins.1.023	E01_kinesins		member	Q54UC9	DICDI	Dicdi_ksnC	Wickstead2010	S3.XLS sheet Suppl_info row 347: Dicdi_ksnC	
+E01_kinesins.1.024	E01_kinesins		member	A8B4E4	GIAIC	Giala_GL50803_16224	Wickstead2010	S3.XLS sheet Suppl_info row 460: Giala_GL50803_16224	
+E01_kinesins.1.025	E01_kinesins		member	Q9VKW4	DROME	Drome_Klp31E	Wickstead2010	S3.XLS sheet Suppl_info row 366: Drome_Klp31E	
+E01_kinesins.1.026	E01_kinesins		member	B3RWP1	TRIAD	Triad_56826	Wickstead2010	S3.XLS sheet Suppl_info row 1546: Triad_56826	
+E01_kinesins.1.027	E01_kinesins		member	Q9VKI0	DROME	Drome_CENP-meta	Wickstead2010	S3.XLS sheet Suppl_info row 354: Drome_CENP-meta	
+E01_kinesins.1.028	E01_kinesins		member	D2V728	NAEGR	Naegr_64648	Wickstead2010	S3.XLS sheet Suppl_info row 729: Naegr_64648	
+E01_kinesins.1.029	E01_kinesins		member	B3RL23	TRIAD	Triad_1085	Wickstead2010	S3.XLS sheet Suppl_info row 1520: Triad_1085	
+E01_kinesins.1.030	E01_kinesins		member	B8C6R2	THAPS	Thaps_15610	Wickstead2010	S3.XLS sheet Suppl_info row 1481: Thaps_15610	
+E01_kinesins.1.031	E01_kinesins		event	A7RVQ1,A8BQA5,A8I9T2,B3S877,D2V728,Q57VI2,Q9HAQ2,A0A2K3E741,...(+10)	CHLRE,GIAIC,HUMAN,MONBE,NAEGR,NEMVE,THAPS,TRIAD,TRYB2	Nemve_234547,Giala_Kinesin-9b,Chlre_KLP1,Triad_30839,Naegr_64648,Trybr_Tb927.7.6290	Wickstead2010	literature/papers/PMID20423470/fulltext.txt Results, same paragraph (9A and 9B listed separately in the MAR)	K9A_9B_LECA
+E01_kinesins.1.032	E01_kinesins		event	A7RG40,A8BUN4,A9V624,B3RQY5,O60282,P17210,P33176,Q12840,...(+255)	ARATH,BATDJ,CHLRE,CYAME,DICDI,DROME,ENCCU,ENTH1,GIAIC,HUMAN,	Nemve_227907,Giala_Kinesin-1,Monbr_21638,Triad_54045,Homsa_KIF5C,Drome_CG7765-PA	Wickstead2010	literature/papers/PMID20423470/fulltext.txt Results, 'The kinesin repertoire of the last common eukaryotic ancestor', para 4 || literature/papers/PMID20423470/fulltext.txt Results, same paragraph	KIN_MAR_LECA

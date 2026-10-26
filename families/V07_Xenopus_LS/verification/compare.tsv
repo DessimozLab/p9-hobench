@@ -1,0 +1,61 @@
+item_id	family	kind	verdict	claimed	answer	note
+V07_Xenopus_LS.1.001	V07_Xenopus_LS	member	AGREE	XL_ralyl:L	L	
+V07_Xenopus_LS.1.002	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.003	V07_Xenopus_LS	member	AGREE	XL_bcorl1:L	L	
+V07_Xenopus_LS.1.004	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.005	V07_Xenopus_LS	member	AGREE	XL_sh3bp5l:L	L	
+V07_Xenopus_LS.1.006	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.007	V07_Xenopus_LS	member	AGREE	XL_fam26d-like:L	L	
+V07_Xenopus_LS.1.008	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.009	V07_Xenopus_LS	member	AGREE	XL_fam134a:L	L	
+V07_Xenopus_LS.1.010	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.011	V07_Xenopus_LS	member	AGREE	XL_elf5l:XT	XT	
+V07_Xenopus_LS.1.012	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.013	V07_Xenopus_LS	member	AGREE	XL_g6pc-like_1:S	S	
+V07_Xenopus_LS.1.014	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.015	V07_Xenopus_LS	member	AGREE	XL_kiaa0319l:XT	XT	
+V07_Xenopus_LS.1.016	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.017	V07_Xenopus_LS	member	AGREE	XL_nceh1:XT	XT	
+V07_Xenopus_LS.1.018	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.019	V07_Xenopus_LS	member	AGREE	XL_znf804a:L	L	
+V07_Xenopus_LS.1.020	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.021	V07_Xenopus_LS	member	AGREE	XL_apobec2:XT	XT	
+V07_Xenopus_LS.1.022	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.023	V07_Xenopus_LS	member	AGREE	XL_b3galt6:L	L	
+V07_Xenopus_LS.1.024	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.025	V07_Xenopus_LS	member	AGREE	XL_atp2a3:XT	XT	
+V07_Xenopus_LS.1.026	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.027	V07_Xenopus_LS	member	AGREE	XL_fgfbp2:L	L	
+V07_Xenopus_LS.1.028	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.029	V07_Xenopus_LS	member	AGREE	XL_ankrd22:XT	XT	
+V07_Xenopus_LS.1.030	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.031	V07_Xenopus_LS	member	AGREE	XL_LOC101734256:L	L	
+V07_Xenopus_LS.1.032	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.033	V07_Xenopus_LS	member	AGREE	XL_cyp26b1:S	S	
+V07_Xenopus_LS.1.034	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.035	V07_Xenopus_LS	member	AGREE	XL_guca1c:S	S	
+V07_Xenopus_LS.1.036	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.037	V07_Xenopus_LS	member	AGREE	XL_Xetrov90016672m:S	S	
+V07_Xenopus_LS.1.038	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.039	V07_Xenopus_LS	member	AGREE	XL_sh3glb1:XT	XT	
+V07_Xenopus_LS.1.040	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.041	V07_Xenopus_LS	member	AGREE	XL_bri3:L	L	
+V07_Xenopus_LS.1.042	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.043	V07_Xenopus_LS	member	AGREE	XL_foxq1:S	S	
+V07_Xenopus_LS.1.044	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.045	V07_Xenopus_LS	member	AGREE	XL_otx1:S	S	
+V07_Xenopus_LS.1.046	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.047	V07_Xenopus_LS	member	AGREE	XL_znf106:S	S	
+V07_Xenopus_LS.1.048	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.049	V07_Xenopus_LS	member	AGREE	XL_rpn1:L	L	
+V07_Xenopus_LS.1.050	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.051	V07_Xenopus_LS	member	AGREE	XL_trap1-like:L	L	
+V07_Xenopus_LS.1.052	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.053	V07_Xenopus_LS	member	AGREE	XL_rad54l2:L	L	
+V07_Xenopus_LS.1.054	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.055	V07_Xenopus_LS	member	AGREE	XL_rai2:XT	XT	
+V07_Xenopus_LS.1.056	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.057	V07_Xenopus_LS	member	AGREE	XL_ghsr:XT	XT	
+V07_Xenopus_LS.1.058	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl
+V07_Xenopus_LS.1.059	V07_Xenopus_LS	member	AGREE	XL_shisa2:XT	XT	
+V07_Xenopus_LS.1.060	V07_Xenopus_LS	event	AGREE	ev=D;tag=ALLO	ALLO homeolog L/S pair in X. laevis (allotetraploid origin): XENLA lineage-specific (default terminal XENLA level), after XENLA/XENTR split	ALLO homeolog pair: L/S divergence after XENLA/XENTR split => XENLA terminal branch = default level of a D without lvl

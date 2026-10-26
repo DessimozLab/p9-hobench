@@ -1,0 +1,32 @@
+item_id	family	kind	verdict	claimed	answer	note
+E07c_adaptins_scaffold.1.001	E07c_adaptins_scaffold	member	AGREE	TTRAY1	TTRAY1	
+E07c_adaptins_scaffold.1.002	E07c_adaptins_scaffold	member	AGREE	COPI-ALPHA	COPI ALPHA	
+E07c_adaptins_scaffold.1.003	E07c_adaptins_scaffold	member	AGREE	TTRAY2	TTRAY2	
+E07c_adaptins_scaffold.1.004	E07c_adaptins_scaffold	member	AGREE	COPI-BETAprime	COPI BETA'	
+E07c_adaptins_scaffold.1.005	E07c_adaptins_scaffold	member	AGREE	TTRAY1	TTRAY1	
+E07c_adaptins_scaffold.1.006	E07c_adaptins_scaffold	member	AGREE	COPI-ALPHA	COPI ALPHA	
+E07c_adaptins_scaffold.1.007	E07c_adaptins_scaffold	member	AGREE	TTRAY2	TTRAY2	
+E07c_adaptins_scaffold.1.008	E07c_adaptins_scaffold	member	AGREE	COPI-BETAprime	COPI BETA'	
+E07c_adaptins_scaffold.1.009	E07c_adaptins_scaffold	member	AGREE	COPI-ALPHA	COPI ALPHA	
+E07c_adaptins_scaffold.1.010	E07c_adaptins_scaffold	member	AGREE	TTRAY2	TTRAY2	
+E07c_adaptins_scaffold.1.011	E07c_adaptins_scaffold	member	AGREE	COPI-BETAprime	COPI BETA'	
+E07c_adaptins_scaffold.1.012	E07c_adaptins_scaffold	member	AGREE	COPI-ALPHA	COPI ALPHA	
+E07c_adaptins_scaffold.1.013	E07c_adaptins_scaffold	member	AGREE	TTRAY2	TTRAY2	
+E07c_adaptins_scaffold.1.014	E07c_adaptins_scaffold	member	AGREE	COPI-BETAprime	COPI BETA'	
+E07c_adaptins_scaffold.1.015	E07c_adaptins_scaffold	member	AGREE	COPI-ALPHA	COPI ALPHA	
+E07c_adaptins_scaffold.1.016	E07c_adaptins_scaffold	member	AGREE	TTRAY2	TTRAY2	
+E07c_adaptins_scaffold.1.017	E07c_adaptins_scaffold	member	AGREE	COPI-BETAprime	COPI BETA'	
+E07c_adaptins_scaffold.1.018	E07c_adaptins_scaffold	member	AGREE	COPI-ALPHA	COPI ALPHA	
+E07c_adaptins_scaffold.1.019	E07c_adaptins_scaffold	member	AGREE	COPI-BETAprime	COPI BETA'	
+E07c_adaptins_scaffold.1.020	E07c_adaptins_scaffold	member	AGREE	COPI-ALPHA	COPI ALPHA	
+E07c_adaptins_scaffold.1.021	E07c_adaptins_scaffold	member	AGREE	COPI-BETAprime	COPI BETA'	
+E07c_adaptins_scaffold.1.022	E07c_adaptins_scaffold	member	AGREE	COPI-ALPHA	COPI ALPHA	
+E07c_adaptins_scaffold.1.023	E07c_adaptins_scaffold	member	AGREE	COPI-BETAprime	COPI BETA'	
+E07c_adaptins_scaffold.1.024	E07c_adaptins_scaffold	member	AGREE	COPI-ALPHA	COPI ALPHA	
+E07c_adaptins_scaffold.1.025	E07c_adaptins_scaffold	member	AGREE	COPI-BETAprime	COPI BETA'	
+E07c_adaptins_scaffold.1.026	E07c_adaptins_scaffold	member	AGREE	COPI-ALPHA	COPI ALPHA	
+E07c_adaptins_scaffold.1.027	E07c_adaptins_scaffold	member	AGREE	COPI-BETAprime	COPI BETA'	
+E07c_adaptins_scaffold.1.028	E07c_adaptins_scaffold	member	AGREE	COPI-ALPHA	COPI ALPHA	
+E07c_adaptins_scaffold.1.029	E07c_adaptins_scaffold	member	AGREE	COPI-BETAprime	COPI BETA'	
+E07c_adaptins_scaffold.1.030	E07c_adaptins_scaffold	member	AGREE	COPI-ALPHA	COPI ALPHA	
+E07c_adaptins_scaffold.1.031	E07c_adaptins_scaffold	event	AGREE	ev=D;lvl_lo=Eukaryota;lvl_hi=ABOVE_RANGE	duplication prior to LECA: [Eukaryota, ABOVE_RANGE]	

@@ -1,0 +1,32 @@
+item_id	family	kind	verdict	claimed	answer	note
+E07a_adaptins_large.1.001	E07a_adaptins_large	member	AGREE	AP5-beta	AP5-beta	
+E07a_adaptins_large.1.002	E07a_adaptins_large	member	AGREE	AP4-beta	AP4-beta	
+E07a_adaptins_large.1.003	E07a_adaptins_large	member	AGREE	TPLATE	TPLATE	
+E07a_adaptins_large.1.004	E07a_adaptins_large	member	AGREE	AP5-zeta	AP5-zeta	
+E07a_adaptins_large.1.005	E07a_adaptins_large	member	AGREE	TSAUCER	TSAUCER	
+E07a_adaptins_large.1.006	E07a_adaptins_large	member	AGREE	AP1-gamma	AP1-gamma	
+E07a_adaptins_large.1.007	E07a_adaptins_large	member	AGREE	COPI-BETA	COPI beta	
+E07a_adaptins_large.1.008	E07a_adaptins_large	member	AGREE	AP4-epsilon	AP4-epsilon	
+E07a_adaptins_large.1.009	E07a_adaptins_large	member	AGREE	AP3-beta	AP3-beta	
+E07a_adaptins_large.1.010	E07a_adaptins_large	member	AGREE	COPI-GAMMA	COPI gamma	
+E07a_adaptins_large.1.011	E07a_adaptins_large	member	AGREE	AP3-delta	AP3-delta	
+E07a_adaptins_large.1.012	E07a_adaptins_large	member	AGREE	AP1/2-beta	AP1/2-beta	
+E07a_adaptins_large.1.013	E07a_adaptins_large	member	AGREE	AP2-alpha	AP2-alpha	
+E07a_adaptins_large.1.014	E07a_adaptins_large	member	AGREE	AP5-beta	AP5-beta	
+E07a_adaptins_large.1.015	E07a_adaptins_large	member	AGREE	AP4-beta	AP4-beta	
+E07a_adaptins_large.1.016	E07a_adaptins_large	member	AGREE	TPLATE	TPLATE	
+E07a_adaptins_large.1.017	E07a_adaptins_large	member	AGREE	AP5-zeta	AP5-zeta	
+E07a_adaptins_large.1.018	E07a_adaptins_large	member	AGREE	TSAUCER	TSAUCER	
+E07a_adaptins_large.1.019	E07a_adaptins_large	member	AGREE	AP1-gamma	AP1-gamma	
+E07a_adaptins_large.1.020	E07a_adaptins_large	member	AGREE	COPI-BETA	COPI beta	
+E07a_adaptins_large.1.021	E07a_adaptins_large	member	AGREE	AP4-epsilon	AP4-epsilon	
+E07a_adaptins_large.1.022	E07a_adaptins_large	member	AGREE	AP3-beta	AP3-beta	
+E07a_adaptins_large.1.023	E07a_adaptins_large	member	AGREE	COPI-GAMMA	COPI gamma	
+E07a_adaptins_large.1.024	E07a_adaptins_large	member	AGREE	AP3-delta	AP3-delta	
+E07a_adaptins_large.1.025	E07a_adaptins_large	member	AGREE	AP1/2-beta	AP1/2-beta	
+E07a_adaptins_large.1.026	E07a_adaptins_large	member	AGREE	AP2-alpha	AP2-alpha	
+E07a_adaptins_large.1.027	E07a_adaptins_large	member	AGREE	AP5-beta	AP5-beta	
+E07a_adaptins_large.1.028	E07a_adaptins_large	member	AGREE	AP4-beta	AP4-beta	
+E07a_adaptins_large.1.029	E07a_adaptins_large	member	AGREE	TPLATE	TPLATE	
+E07a_adaptins_large.1.030	E07a_adaptins_large	member	AGREE	AP5-zeta	AP5-zeta	
+E07a_adaptins_large.1.031	E07a_adaptins_large	event	AGREE	ev=D;lvl_lo=Eukaryota;lvl_hi=ABOVE_RANGE	duplications giving the large subunit families of AP/COPI/TSET predate/at LECA: [Eukaryota, ABOVE_RANGE]	

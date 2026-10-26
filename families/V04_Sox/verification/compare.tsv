@@ -1,0 +1,48 @@
+item_id	family	kind	verdict	claimed	answer	note
+V04_Sox.1.001	V04_Sox	member	AGREE	sox21a	sox21a	
+V04_Sox.1.002	V04_Sox	member	AGREE	sox12	sox12	
+V04_Sox.1.003	V04_Sox	member	AGREE	sox10b	sox10/sox10b	
+V04_Sox.1.004	V04_Sox	member	AGREE	sox9a	sox9a	
+V04_Sox.1.005	V04_Sox	member	AGREE	sox14a	sox14/sox14a	
+V04_Sox.1.006	V04_Sox	member	AGREE	sox8b	sox8b	
+V04_Sox.1.007	V04_Sox	member	AGREE	sox6a	sox6/sox6a	
+V04_Sox.1.008	V04_Sox	member	AGREE	sox1b	sox1b	
+V04_Sox.1.009	V04_Sox	member	AGREE	sox30	sox30	
+V04_Sox.1.010	V04_Sox	member	AGREE	sox5	sox5	
+V04_Sox.1.011	V04_Sox	member	AGREE	sox4a	sox4a	
+V04_Sox.1.012	V04_Sox	member	AGREE	sox6b	sox6b	
+V04_Sox.1.013	V04_Sox	member	AGREE	sox19b	sox19b	
+V04_Sox.1.014	V04_Sox	member	AGREE	sox21b	sox21/sox21b	
+V04_Sox.1.015	V04_Sox	member	AGREE	sox11b	sox11b	
+V04_Sox.1.016	V04_Sox	member	AGREE	sox7	sox7	
+V04_Sox.1.017	V04_Sox	member	AGREE	sox9b	sox9/sox9b	
+V04_Sox.1.018	V04_Sox	member	AGREE	sox8a	sox8/sox8a	
+V04_Sox.1.019	V04_Sox	member	AGREE	sox1a	sox1/sox1a	
+V04_Sox.1.020	V04_Sox	member	AGREE	sox32	sox32	
+V04_Sox.1.021	V04_Sox	member	AGREE	sox18	sox18	
+V04_Sox.1.022	V04_Sox	member	AGREE	sox13	sox13	
+V04_Sox.1.023	V04_Sox	member	AGREE	sox19a	sox15/sox19a	
+V04_Sox.1.024	V04_Sox	member	AGREE	sox11a	sox11/sox11a	
+V04_Sox.1.025	V04_Sox	member	AGREE	sox4b	sox4/sox4b	
+V04_Sox.1.026	V04_Sox	member	AGREE	sox17	sox17	
+V04_Sox.1.027	V04_Sox	member	AGREE	sox14b	sox14b	
+V04_Sox.1.028	V04_Sox	member	AGREE	sox2	sox2	
+V04_Sox.1.029	V04_Sox	member	AGREE	sox3	sox3	
+V04_Sox.1.030	V04_Sox	member	AGREE	sox12	sox12	
+V04_Sox.1.031	V04_Sox	event	AGREE	ev=D;lvl=Teleostei;tag=WGD	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	
+V04_Sox.1.032	V04_Sox	event	AGREE	ev=D;lvl=Teleostei;tag=WGD	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	
+V04_Sox.1.033	V04_Sox	event	AGREE	ev=D;lvl_lo=Gnathostomata;lvl_hi=Vertebrata;tag=WGD	within-group sox paralog split from the two WGD rounds at base of vertebrates: Vertebrata stem (lvl=Vertebrata; cyclostome placement not specified)	source says 2 WGD at base of vertebrates, cyclostome placement not given; [Gnathostomata,Vertebrata] spans both candidate stems (protocol s2 interval for contested 2R timing)
+V04_Sox.1.034	V04_Sox	event	AGREE	ev=D;lvl=Teleostei;tag=WGD	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	
+V04_Sox.1.035	V04_Sox	event	AGREE	ev=D;lvl=Teleostei;tag=WGD	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	
+V04_Sox.1.036	V04_Sox	event	AGREE	ev=D;lvl_lo=Gnathostomata;lvl_hi=Vertebrata;tag=WGD	within-group sox paralog split from the two WGD rounds at base of vertebrates: Vertebrata stem (lvl=Vertebrata; cyclostome placement not specified)	source says 2 WGD at base of vertebrates, cyclostome placement not given; [Gnathostomata,Vertebrata] spans both candidate stems (protocol s2 interval for contested 2R timing)
+V04_Sox.1.037	V04_Sox	event	AGREE	ev=D;lvl=Teleostei;tag=WGD	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	
+V04_Sox.1.038	V04_Sox	event	AGREE	ev=D;lvl=Teleostei;tag=WGD	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	
+V04_Sox.1.039	V04_Sox	event	AGREE	ev=D;lvl_lo=Gnathostomata;lvl_hi=Vertebrata;tag=WGD	within-group sox paralog split from the two WGD rounds at base of vertebrates: Vertebrata stem (lvl=Vertebrata; cyclostome placement not specified)	source says 2 WGD at base of vertebrates, cyclostome placement not given; [Gnathostomata,Vertebrata] spans both candidate stems (protocol s2 interval for contested 2R timing)
+V04_Sox.1.040	V04_Sox	event	AGREE	ev=D;lvl=Teleostei;tag=WGD	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	
+V04_Sox.1.041	V04_Sox	event	AGREE	ev=D;lvl_lo=Gnathostomata;lvl_hi=Vertebrata;tag=WGD	within-group sox paralog split from the two WGD rounds at base of vertebrates: Vertebrata stem (lvl=Vertebrata; cyclostome placement not specified)	source says 2 WGD at base of vertebrates, cyclostome placement not given; [Gnathostomata,Vertebrata] spans both candidate stems (protocol s2 interval for contested 2R timing)
+V04_Sox.1.042	V04_Sox	event	AGREE	ev=D;lvl=Teleostei;tag=WGD	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	
+V04_Sox.1.043	V04_Sox	event	AGREE	ev=D;lvl=Teleostei;tag=WGD	teleost-specific WGD duplicate pair (sox Na/Nb): lvl=Teleostei	
+V04_Sox.1.044	V04_Sox	event	AGREE	ev=D;lvl_lo=Gnathostomata;lvl_hi=Vertebrata;tag=WGD	within-group sox paralog split from the two WGD rounds at base of vertebrates: Vertebrata stem (lvl=Vertebrata; cyclostome placement not specified)	source says 2 WGD at base of vertebrates, cyclostome placement not given; [Gnathostomata,Vertebrata] spans both candidate stems (protocol s2 interval for contested 2R timing)
+V04_Sox.1.045	V04_Sox	event	AGREE	ev=D;lvl=Teleostei;tag=SSD	sox17/sox32 small-scale (tandem) duplication present in all analysed teleosts: lvl=Teleostei (TAND)	
+V04_Sox.1.046	V04_Sox	event	AGREE	ev=D;lvl_lo=Gnathostomata;lvl_hi=Vertebrata;tag=WGD	within-group sox paralog split from the two WGD rounds at base of vertebrates: Vertebrata stem (lvl=Vertebrata; cyclostome placement not specified)	source says 2 WGD at base of vertebrates, cyclostome placement not given; [Gnathostomata,Vertebrata] spans both candidate stems (protocol s2 interval for contested 2R timing)
+V04_Sox.1.047	V04_Sox	event	AGREE	ev=D;lvl_lo=Chordata;lvl_hi=ABOVE_RANGE	sox groups A-H present in all bilaterians: group-level splits predate panel root: [Chordata, ABOVE_RANGE]	

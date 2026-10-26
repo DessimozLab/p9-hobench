@@ -1,0 +1,33 @@
+item_id	family	kind	verdict	claimed	answer	note
+P03_GID1_CXE.1.001	P03_GID1_CXE	member	AGREE	GID1_BA	GID1	
+P03_GID1_CXE.1.002	P03_GID1_CXE	member	AGREE	CXE_GID1-like	GID1-like (GID1L)	GID1-like CXE naming equivalence; Rosids node in panel P = (VITVI,Eurosids) = core eudicots; VITVI has GID1a and GID1b
+P03_GID1_CXE.1.003	P03_GID1_CXE	member	AGREE	GID1_A	GID1	
+P03_GID1_CXE.1.004	P03_GID1_CXE	member	AGREE	GID1_B	GID1	
+P03_GID1_CXE.1.005	P03_GID1_CXE	member	AGREE	GID1_L	GID1	
+P03_GID1_CXE.1.006	P03_GID1_CXE	member	AGREE	CXE	CXE	
+P03_GID1_CXE.1.007	P03_GID1_CXE	member	AGREE	GID1_M	GID1	
+P03_GID1_CXE.1.008	P03_GID1_CXE	member	AGREE	CXE_GID1-like	GID1-like (GID1L)	GID1-like CXE naming equivalence; Rosids node in panel P = (VITVI,Eurosids) = core eudicots; VITVI has GID1a and GID1b
+P03_GID1_CXE.1.009	P03_GID1_CXE	member	AGREE	GID1_A	GID1	
+P03_GID1_CXE.1.010	P03_GID1_CXE	member	AGREE	GID1_B	GID1	
+P03_GID1_CXE.1.011	P03_GID1_CXE	member	AGREE	GID1_L	GID1	
+P03_GID1_CXE.1.012	P03_GID1_CXE	member	AGREE	CXE	CXE	
+P03_GID1_CXE.1.013	P03_GID1_CXE	member	AGREE	GID1_M	GID1	
+P03_GID1_CXE.1.014	P03_GID1_CXE	member	AGREE	CXE_GID1-like	GID1-like (GID1L)	GID1-like CXE naming equivalence; Rosids node in panel P = (VITVI,Eurosids) = core eudicots; VITVI has GID1a and GID1b
+P03_GID1_CXE.1.015	P03_GID1_CXE	member	AGREE	GID1_A	GID1	
+P03_GID1_CXE.1.016	P03_GID1_CXE	member	AGREE	GID1_B	GID1	
+P03_GID1_CXE.1.017	P03_GID1_CXE	member	AGREE	CXE	CXE	
+P03_GID1_CXE.1.018	P03_GID1_CXE	member	AGREE	GID1_A	GID1	
+P03_GID1_CXE.1.019	P03_GID1_CXE	member	AGREE	GID1_B	GID1	
+P03_GID1_CXE.1.020	P03_GID1_CXE	member	AGREE	CXE	CXE	
+P03_GID1_CXE.1.021	P03_GID1_CXE	member	AGREE	GID1_A	GID1	
+P03_GID1_CXE.1.022	P03_GID1_CXE	member	AGREE	GID1_B	GID1	
+P03_GID1_CXE.1.023	P03_GID1_CXE	member	AGREE	CXE	CXE	
+P03_GID1_CXE.1.024	P03_GID1_CXE	member	AGREE	GID1_A	GID1	
+P03_GID1_CXE.1.025	P03_GID1_CXE	member	AGREE	GID1_B	GID1	
+P03_GID1_CXE.1.026	P03_GID1_CXE	member	AGREE	CXE	CXE	
+P03_GID1_CXE.1.027	P03_GID1_CXE	member	AGREE	GID1_B	GID1	
+P03_GID1_CXE.1.028	P03_GID1_CXE	member	AGREE	CXE	CXE	
+P03_GID1_CXE.1.029	P03_GID1_CXE	member	AGREE	CXE	CXE	
+P03_GID1_CXE.1.030	P03_GID1_CXE	member	AGREE	CXE	CXE	
+P03_GID1_CXE.1.031	P03_GID1_CXE	event	AGREE	ev=D;lvl=Rosids	A/B-type GID1 split at/just before or after establishment of core eudicots; VITVI has both A and B so before the VITVI/Rosids split: on stem of the (VITVI,Rosids) core-eudicot node (no named panel level) or the preceding branch up to Mesangiospermae/eudicot stem; not later than that	GID1-like CXE naming equivalence; Rosids node in panel P = (VITVI,Eurosids) = core eudicots; VITVI has GID1a and GID1b
+P03_GID1_CXE.1.032	P03_GID1_CXE	event	AGREE	ev=D;lvl_lo=Tracheophyta;lvl_hi=ABOVE_RANGE	GID1 clade separated from CXE ancestor before lycophyte/euphyllophyte split: lower bound Tracheophyta [Tracheophyta, ABOVE_RANGE]	

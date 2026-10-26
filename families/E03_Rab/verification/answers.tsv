@@ -1,0 +1,45 @@
+item_id	answer	evidence
+E03_Rab.1.001	Rab7 (supergroup III)	record 21 in 1741-7007-10-71-S6.TXT header ArTh_Rab7A2; supergroup file; family from gene name
+E03_Rab.1.002	Rab7 (supergroup III)	record 14 in 1741-7007-10-71-S6.TXT header ArTh_Rab7B1_2; supergroup file; family from gene name
+E03_Rab.1.003	RabX6 (supergroup I)	record 317 in 1741-7007-10-71-S4.TXT header DrMe_RabX6; supergroup file; family from gene name
+E03_Rab.1.004	Rab27 (supergroup I)	record 24 in 1741-7007-10-71-S4.TXT header HoSa_Rab27a; supergroup file; family from gene name
+E03_Rab.1.005	Rab28 (supergroup VI)	record 13 in 1741-7007-10-71-S9.TXT header PhRa_Rab28A; supergroup file; family from gene name
+E03_Rab.1.006	Rab5 (supergroup II)	record 57 in 1741-7007-10-71-S5.TXT header PlFa_Rab5A; supergroup file; family from gene name
+E03_Rab.1.007	Rab25 (supergroup IV)	record 283 in 1741-7007-10-71-S7.TXT header HoSa_Rab25; supergroup file; family from gene name
+E03_Rab.1.008	Rab22 (supergroup II)	record 234 in 1741-7007-10-71-S5.TXT header ArTh_Rab22; supergroup file; family from gene name
+E03_Rab.1.009	Rab1 (supergroup I)	record 386 in 1741-7007-10-71-S4.TXT header HoSa_Rab1b; supergroup file; family from gene name
+E03_Rab.1.010	Rab6 (supergroup V)	record 54 in 1741-7007-10-71-S8.TXT header ArTh_Rab6A; supergroup file; family from gene name
+E03_Rab.1.011	Rab2 (supergroup IV)	record 148 in 1741-7007-10-71-S7.TXT header ThPs_Rab2A; supergroup file; family from gene name
+E03_Rab.1.012	Rab28 (supergroup VI)	record 9 in 1741-7007-10-71-S9.TXT header PhRa_Rab28B; supergroup file; family from gene name
+E03_Rab.1.013	Rab10 (supergroup I)	record 547 in 1741-7007-10-71-S4.TXT header NeVe_Rab10; supergroup file; family from gene name
+E03_Rab.1.014	Rab33 (supergroup I)	record 310 in 1741-7007-10-71-S4.TXT header HoSa_Rab33a; supergroup file; family from gene name
+E03_Rab.1.015	Ypt53 (supergroup II)	record 47 in 1741-7007-10-71-S5.TXT header SaCe_Ypt53; supergroup file; family from gene name
+E03_Rab.1.016	Rab36 (supergroup I)	record 242 in 1741-7007-10-71-S4.TXT header NaGr_Rab36; supergroup file; family from gene name
+E03_Rab.1.017	Rab28 (supergroup VI)	record 15 in 1741-7007-10-71-S9.TXT header AmQu_Rab28; supergroup file; family from gene name
+E03_Rab.1.018	Rab18 (supergroup I)	record 211 in 1741-7007-10-71-S4.TXT header ArTh_Rab18B; supergroup file; family from gene name
+E03_Rab.1.019	Rab7 (supergroup III)	record 109 in 1741-7007-10-71-S6.TXT header HoSa_Rab7b; supergroup file; family from gene name
+E03_Rab.1.020	Rab3 (supergroup I)	record 155 in 1741-7007-10-71-S4.TXT header MoBr_Rab3_8_10_13_27; supergroup file; family from gene name
+E03_Rab.1.021	Rab2 (supergroup IV)	record 171 in 1741-7007-10-71-S7.TXT header HoSa_Rab2a; supergroup file; family from gene name
+E03_Rab.1.022	Ypt10 (supergroup II)	record 119 in 1741-7007-10-71-S5.TXT header SaCe_Ypt10; supergroup file; family from gene name
+E03_Rab.1.023	Rab7 (supergroup III)	record 124 in 1741-7007-10-71-S6.TXT header NeVe_Rab7L1_2; supergroup file; family from gene name
+E03_Rab.1.024	Rab40 (supergroup I)	record 92 in 1741-7007-10-71-S4.TXT header HoSa_Rab40b; supergroup file; family from gene name
+E03_Rab.1.025	Rab11 (supergroup IV)	record 227 in 1741-7007-10-71-S7.TXT header ArTh_Rab11B4_6; supergroup file; family from gene name
+E03_Rab.1.026	Rab5 (supergroup II)	record 86 in 1741-7007-10-71-S5.TXT header HoSa_Rab5c; supergroup file; family from gene name
+E03_Rab.1.027	Rab3 (supergroup I)	record 479 in 1741-7007-10-71-S4.TXT header HoSa_Rab3c; supergroup file; family from gene name
+E03_Rab.1.028	Rab11 (supergroup IV)	record 348 in 1741-7007-10-71-S7.TXT header ArTh_Rab11B2; supergroup file; family from gene name
+E03_Rab.1.029	Rab42 (supergroup IV)	record 203 in 1741-7007-10-71-S7.TXT header HoSa_Rab42; supergroup file; family from gene name
+E03_Rab.1.030	Rab1 (supergroup I)	record 363 in 1741-7007-10-71-S4.TXT header ThPs_Rab1A; supergroup file; family from gene name
+E03_Rab.1.031	vertebrate(+)-specific duplication; HUMAN lineage below Bilateria (no panel-E level between Bilateria and HUMAN)	Kloepper2012 Results: Rab8 (Rab8b, Rab13: two in vertebrates)
+E03_Rab.1.034	vertebrate(+)-specific duplication; HUMAN lineage below Bilateria (no panel-E level between Bilateria and HUMAN)	Kloepper2012 Results: Rab5 quadrupled in vertebrates
+E03_Rab.1.035	vertebrate(+)-specific duplication; HUMAN lineage below Bilateria (no panel-E level between Bilateria and HUMAN)	Kloepper2012 Results: Rab22 duplication in vertebrates
+E03_Rab.1.038	vertebrate(+)-specific duplication; HUMAN lineage below Bilateria (no panel-E level between Bilateria and HUMAN)	Kloepper2012 Results: Rab32 duplicated in vertebrates (Rab38)
+E03_Rab.1.040	vertebrate(+)-specific duplication; HUMAN lineage below Bilateria (no panel-E level between Bilateria and HUMAN)	Kloepper2012 Results: Rab4 duplicated in vertebrates
+E03_Rab.1.042	vertebrate(+)-specific duplication; HUMAN lineage below Bilateria (no panel-E level between Bilateria and HUMAN)	Kloepper2012 Results: Rab6a/6b + primate Rab41
+E03_Rab.1.032	Bilateria stem: lvl=Bilateria	Results Rab18: duplication in bilateria (Rab40)
+E03_Rab.1.037	Opisthokonta stem: lvl=Opisthokonta	Results Rab7: Rab9 appeared with the opisthokonts
+E03_Rab.1.033	member Rabs of SGI all present in LECA: [Eukaryota, ABOVE_RANGE]	Kloepper2012: 20 LECA Rabs arranged in six supergroups
+E03_Rab.1.036	member Rabs of SGII all present in LECA: [Eukaryota, ABOVE_RANGE]	Kloepper2012: 20 LECA Rabs arranged in six supergroups
+E03_Rab.1.039	member Rabs of SGIII all present in LECA: [Eukaryota, ABOVE_RANGE]	Kloepper2012: 20 LECA Rabs arranged in six supergroups
+E03_Rab.1.041	member Rabs of SGIV all present in LECA: [Eukaryota, ABOVE_RANGE]	Kloepper2012: 20 LECA Rabs arranged in six supergroups
+E03_Rab.1.043	member Rabs of SGVI all present in LECA: [Eukaryota, ABOVE_RANGE]	Kloepper2012: 20 LECA Rabs arranged in six supergroups
+E03_Rab.1.044	six supergroups already distinct in LECA: [Eukaryota, ABOVE_RANGE]	Kloepper2012 Abstract/Discussion: twenty LECA Rabs in six supergroups

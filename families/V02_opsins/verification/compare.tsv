@@ -1,0 +1,35 @@
+item_id	family	kind	verdict	claimed	answer	note
+V02_opsins.1.001	V02_opsins	member	AGREE	SWS1:opn1sw [Xtr opn1sw]	SWS1	
+V02_opsins.1.002	V02_opsins	member	AGREE	LWS:Opn1lw [Mmu X Opn1lw]	LWS	
+V02_opsins.1.003	V02_opsins	member	AGREE	RH1 [Ola 7 RH1 2]	RH1	
+V02_opsins.1.004	V02_opsins	member	AGREE	LWS [Ola 5 LWS 1]	LWS	
+V02_opsins.1.005	V02_opsins	member	AGREE	LWS:opn1lw2 [Dre 11 opn1lw2]	LWS	
+V02_opsins.1.006	V02_opsins	member	AGREE	RH1:exorh [Dre exorh]	RH1	
+V02_opsins.1.007	V02_opsins	member	AGREE	RH2 [Loc LG3 RH2]	RH2	
+V02_opsins.1.008	V02_opsins	member	AGREE	SWS1:opn1sw1 [Dre 4 opn1sw1]	SWS1	
+V02_opsins.1.009	V02_opsins	member	AGREE	RH1 [Lch RH1]	RH1	
+V02_opsins.1.010	V02_opsins	member	AGREE	SWS2 [Xtr SWS2]	SWS2	
+V02_opsins.1.011	V02_opsins	member	AGREE	RH2:opn1mw1 [Dre 6 opn1mw1]	RH2	
+V02_opsins.1.012	V02_opsins	member	AGREE	LWS:opn1lw [Xtr opn1lw]	LWS	
+V02_opsins.1.013	V02_opsins	member	AGREE	RH1:Rho [Mmu 6 Rho]	RH1	
+V02_opsins.1.014	V02_opsins	member	AGREE	RH1 [Loc LG5 RH1 2]	RH1	
+V02_opsins.1.015	V02_opsins	member	AGREE	SWS1 [Loc LG8 SWS1 1]	SWS1	
+V02_opsins.1.016	V02_opsins	member	AGREE	RH2 [Ola RH2 1]	RH2	
+V02_opsins.1.017	V02_opsins	member	AGREE	LWS:OPN1LW [Gga LWS]	LWS	
+V02_opsins.1.018	V02_opsins	member	AGREE	SWS1:OPN1SW [Gga SWS1]	SWS1	
+V02_opsins.1.019	V02_opsins	member	AGREE	RH2:opn1mw4 [Dre 6 opn1mw4]	RH2	
+V02_opsins.1.020	V02_opsins	member	AGREE	RH1:rho [Xtr rho]	RH1	
+V02_opsins.1.021	V02_opsins	member	AGREE	SWS1 [Ola SWS1]	SWS1	
+V02_opsins.1.022	V02_opsins	member	AGREE	RH2:OPNG [Gga 26 RH2]	RH2	
+V02_opsins.1.023	V02_opsins	member	AGREE	RH1:rho [Dre 8 rho]	RH1	
+V02_opsins.1.024	V02_opsins	member	AGREE	RH1:rhol [Dre 11 rhol]	RH1	
+V02_opsins.1.025	V02_opsins	member	AGREE	SWS1 [Loc LG8 SWS1 2]	SWS1	
+V02_opsins.1.026	V02_opsins	member	AGREE	RH2 [Lch RH2]	RH2	
+V02_opsins.1.027	V02_opsins	member	AGREE	SWS1:Opn1sw [Mmu 6 Opn1sw]	SWS1	
+V02_opsins.1.028	V02_opsins	member	AGREE	RH2:opn1mw2 [Dre 6 opn1mw2]	RH2	
+V02_opsins.1.029	V02_opsins	member	AGREE	RH1:RHO [Gga 12 RH1]	RH1	
+V02_opsins.1.030	V02_opsins	member	AGREE	SWS2:opn1sw2 [Dre 11 opn1sw2]	SWS2	
+V02_opsins.1.031	V02_opsins	event	AGREE	ev=D;tag=TAND	lineage-specific local (tandem, ~8 kb) duplication in spotted gar LEPOC: terminal LEPOC branch below Neopterygii (tag TAND)	D without lvl = default lineage-specific tandem duplication in LEPOC
+V02_opsins.1.032	V02_opsins	event	AGREE	ev=D;lvl=Neopterygii;tag=RETRO	RH1 copies: intron-less RH1 retrotransposed early in actinopterygian evolution before gar/teleost split => Neopterygii stem (lvl=Neopterygii); paper allows 3R (Teleostei) origin for the teleost pair	
+V02_opsins.1.033	V02_opsins	event	DISAGREE	ev=D;lvl_lo=Gnathostomata;lvl_hi=Vertebrata;tag=WGD	2R opsin quadruplication (RH1/RH2/SWS1/SWS2 split) before lamprey-gnathostome divergence: [Vertebrata, upper bound not stated (basal vertebrate 2R)] i.e. Vertebrata stem or older	claimed [Gnathostomata,Vertebrata] includes gnathostome stem; Lagman2013 Discussion explicitly places the 2R opsin duplications before the lamprey-gnathostome divergence (orthologs of all four in lamprey) => Vertebrata stem; minor (hedge, claim is a superset)
+V02_opsins.1.034	V02_opsins	event	AGREE	ev=D;lvl_lo=Vertebrata;lvl_hi=ABOVE_RANGE;tag=TAND	LWS vs rest: ancestral tandem pair existed in vertebrate ancestor and was then quadrupled in 2R: at/before Vertebrata stem [Vertebrata, ABOVE_RANGE]	

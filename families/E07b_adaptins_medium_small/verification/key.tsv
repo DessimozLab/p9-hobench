@@ -1,0 +1,32 @@
+item_id	kind	claimed
+E07b_adaptins_medium_small.1.001	member	AP1-sigma
+E07b_adaptins_medium_small.1.002	member	AP4-sigma
+E07b_adaptins_medium_small.1.003	member	(AP Mu:Atha1Mi1)
+E07b_adaptins_medium_small.1.004	member	AP2-mu
+E07b_adaptins_medium_small.1.005	member	TSPOON
+E07b_adaptins_medium_small.1.006	member	AP2-sigma
+E07b_adaptins_medium_small.1.007	member	(AP Mu:Ehis1Mi1)
+E07b_adaptins_medium_small.1.008	member	COPI-DELTA
+E07b_adaptins_medium_small.1.009	member	AP3-sigma
+E07b_adaptins_medium_small.1.010	member	(AP Mu:Ehis2Mi1)
+E07b_adaptins_medium_small.1.011	member	AP5-sigma
+E07b_adaptins_medium_small.1.012	member	AP4-mu
+E07b_adaptins_medium_small.1.013	member	COPI-ZETA
+E07b_adaptins_medium_small.1.014	member	AP5-mu
+E07b_adaptins_medium_small.1.015	member	AP1-mu
+E07b_adaptins_medium_small.1.016	member	TCUP
+E07b_adaptins_medium_small.1.017	member	AP3-mu
+E07b_adaptins_medium_small.1.018	member	AP1-sigma
+E07b_adaptins_medium_small.1.019	member	AP4-sigma
+E07b_adaptins_medium_small.1.020	member	AP2-mu
+E07b_adaptins_medium_small.1.021	member	TSPOON
+E07b_adaptins_medium_small.1.022	member	AP2-sigma
+E07b_adaptins_medium_small.1.023	member	COPI-DELTA
+E07b_adaptins_medium_small.1.024	member	AP3-sigma
+E07b_adaptins_medium_small.1.025	member	AP5-sigma
+E07b_adaptins_medium_small.1.026	member	AP4-mu
+E07b_adaptins_medium_small.1.027	member	COPI-ZETA
+E07b_adaptins_medium_small.1.028	member	AP5-mu
+E07b_adaptins_medium_small.1.029	member	AP1-mu
+E07b_adaptins_medium_small.1.030	member	TCUP
+E07b_adaptins_medium_small.1.031	event	ev=D;lvl_lo=Eukaryota;lvl_hi=ABOVE_RANGE

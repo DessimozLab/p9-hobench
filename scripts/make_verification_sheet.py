@@ -7,6 +7,7 @@ plus ALL D/H events (from reference_tree.nhx), decoys and distinct_from rows. Ou
 import csv, os, re, sys, random, glob
 F = 'families'; SEED = 20261026
 EXTRA = '--extra' in sys.argv
+ONLY = [a.split('=',1)[1] for a in sys.argv if a.startswith('--only=')]
 ROUND = 2 if EXTRA else 1
 csv.field_size_limit(10**9)
 
@@ -86,6 +87,8 @@ def family_items(dirp, fam, nmem, rng, unit=None, exclude=()):
     return items
 
 def write(outdir, fam, items):
+    if ONLY and fam not in ONLY and not any(o in outdir for o in ONLY): return
+    if EXTRA: items = [i for i in items if i['kind'] == 'member']
     os.makedirs(outdir, exist_ok=True)
     sp = f'{outdir}/sheet.tsv'; kp = f'{outdir}/key.tsv'
     rnd = '' if ROUND == 1 else '_r2'
@@ -121,6 +124,7 @@ def collection(name, unitdirs, out, nunits=30):
         items += family_items(u, os.path.basename(u), 1, r, unit=os.path.basename(u))
     write(out, name, items)
 collection('Y01_YGOB_pillars', glob.glob(f'{F}/Y01_YGOB_pillars/units/*'), f'{F}/Y01_YGOB_pillars/verification')
+collection('V07_Xenopus_LS', glob.glob(f'{F}/V07_Xenopus_LS/units/*'), f'{F}/V07_Xenopus_LS/verification')
 collection('K01_RPROT', glob.glob(f'{F}/K01_RPROT_*'), f'{F}/_verif_K01')
 # K04a-j: one pooled sample
 r = rng_for('K04'); k4 = sorted(glob.glob(f'{F}/K04?_*')); pool = []

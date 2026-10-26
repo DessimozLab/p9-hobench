@@ -1,0 +1,92 @@
+item_id	answer	evidence
+V03_Hox.1.001	Hoxb4	symbol of MGI:96185 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.002	hoxc12.L	symbol of XB-GENE-6252388 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.003	hoxb9	symbol of XB-GENE-963094 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.004	hoxa1a	symbol of ZDB-GENE-000823-5 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.005	hoxc10	symbol of XB-GENE-486915 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.006	hoxc12a	symbol of ZDB-GENE-000822-6 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.007	hoxd4.S	symbol of XB-GENE-17335561 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.008	Hoxc8	symbol of MGI:96198 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.009	hoxa13a	symbol of ZDB-GENE-990415-5 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.010	HOXD3	symbol of HGNC:5137 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.011	hoxc11	symbol of XB-GENE-486585 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.012	hoxc4	symbol of XB-GENE-967141 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.013	HOXA10	symbol of HGNC:5100 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.014	hoxc10a	symbol of ZDB-GENE-990415-110 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.015	hoxa9a	symbol of ZDB-GENE-000823-1 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.016	hoxc10.L	symbol of XB-GENE-486919 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.017	Hoxd10	symbol of MGI:96202 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.018	HOXA9	symbol of HGNC:5109 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.019	hoxb6.S	symbol of XB-GENE-1006009 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.020	hoxb1b	symbol of ZDB-GENE-980526-290 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.021	HOXD12	symbol of HGNC:5135 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.022	hoxc6a	symbol of ZDB-GENE-990415-113 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.023	HOXC12	symbol of HGNC:5124 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.024	HOXA7	symbol of HGNC:5108 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.025	hoxa10	symbol of XB-GENE-478888 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.026	HOXD8	symbol of HGNC:5139 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.027	hoxb1a	symbol of ZDB-GENE-990415-101 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.028	HOXA1	symbol of HGNC:5099 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.029	hoxa1.S	symbol of XB-GENE-6252179 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.030	hoxc9	symbol of XB-GENE-482330 in nomenclature file (Xenbase/ZFIN/MGI/HGNC raw)
+V03_Hox.1.031	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D1 symbols hoxa1.L,hoxa1.S
+V03_Hox.1.032	zebrafish hoxNa/hoxNb ohnolog pair = teleost-specific 3R: Teleostei stem (lvl=Teleostei)	V03_Hox.D2 symbols hoxb1a,hoxb1b
+V03_Hox.1.033	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D3 symbols hoxb1.L,hoxb1.S
+V03_Hox.1.034	Hox cluster A/B/C/D paralogs of one paralogy group = 2R: Vertebrata stem (lvl=Vertebrata; sources say early vertebrates, lamprey placement not given)	Kumar2024 gene-clusters paragraph: in early vertebrates 2R produced four paralogous Hox clusters; V03_Hox.D4 symbols hoxa1a,hoxa
+V03_Hox.1.035	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D5 symbols hoxa2.L,hoxa2.S
+V03_Hox.1.036	Hox cluster A/B/C/D paralogs of one paralogy group = 2R: Vertebrata stem (lvl=Vertebrata; sources say early vertebrates, lamprey placement not given)	Kumar2024 gene-clusters paragraph: in early vertebrates 2R produced four paralogous Hox clusters; V03_Hox.D6 symbols hoxa2b,hoxa
+V03_Hox.1.037	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D7 symbols hoxa3.S,hoxa3.L
+V03_Hox.1.038	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D8 symbols hoxb3.S,hoxb3.L
+V03_Hox.1.039	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D9 symbols hoxc3.L,hoxc3.S
+V03_Hox.1.040	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D10 symbols hoxd3.L,hoxd3.S
+V03_Hox.1.041	Hox cluster A/B/C/D paralogs of one paralogy group = 2R: Vertebrata stem (lvl=Vertebrata; sources say early vertebrates, lamprey placement not given)	Kumar2024 gene-clusters paragraph: in early vertebrates 2R produced four paralogous Hox clusters; V03_Hox.D11 symbols hoxa3a,hox
+V03_Hox.1.042	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D12 symbols hoxa4.S,hoxa4.L
+V03_Hox.1.043	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D13 symbols hoxb4.S,hoxb4.L
+V03_Hox.1.044	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D14 symbols hoxc4.L,hoxc4.S
+V03_Hox.1.045	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D15 symbols hoxd4.L,hoxd4.S
+V03_Hox.1.046	Hox cluster A/B/C/D paralogs of one paralogy group = 2R: Vertebrata stem (lvl=Vertebrata; sources say early vertebrates, lamprey placement not given)	Kumar2024 gene-clusters paragraph: in early vertebrates 2R produced four paralogous Hox clusters; V03_Hox.D16 symbols hoxa4a,hox
+V03_Hox.1.047	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D17 symbols hoxa5.S,hoxa5.L
+V03_Hox.1.048	zebrafish hoxNa/hoxNb ohnolog pair = teleost-specific 3R: Teleostei stem (lvl=Teleostei)	V03_Hox.D18 symbols hoxb5a,hoxb5b
+V03_Hox.1.049	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D19 symbols hoxb5.S,hoxb5.L
+V03_Hox.1.050	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D20 symbols hoxc5.L,hoxc5.S
+V03_Hox.1.051	Hox cluster A/B/C/D paralogs of one paralogy group = 2R: Vertebrata stem (lvl=Vertebrata; sources say early vertebrates, lamprey placement not given)	Kumar2024 gene-clusters paragraph: in early vertebrates 2R produced four paralogous Hox clusters; V03_Hox.D21 symbols hoxa5a,hox
+V03_Hox.1.052	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D22 symbols hoxa6.L,hoxa6.S
+V03_Hox.1.053	zebrafish hoxNa/hoxNb ohnolog pair = teleost-specific 3R: Teleostei stem (lvl=Teleostei)	V03_Hox.D23 symbols hoxb6a,hoxb6b
+V03_Hox.1.054	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D24 symbols hoxb6.S,hoxb6.L
+V03_Hox.1.055	zebrafish hoxNa/hoxNb ohnolog pair = teleost-specific 3R: Teleostei stem (lvl=Teleostei)	V03_Hox.D25 symbols hoxc6a,hoxc6b
+V03_Hox.1.056	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D26 symbols hoxc6.S,hoxc6.L
+V03_Hox.1.057	Hox cluster A/B/C/D paralogs of one paralogy group = 2R: Vertebrata stem (lvl=Vertebrata; sources say early vertebrates, lamprey placement not given)	Kumar2024 gene-clusters paragraph: in early vertebrates 2R produced four paralogous Hox clusters; V03_Hox.D27 symbols hoxa6,hoxa
+V03_Hox.1.058	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D28 symbols hoxa7.L,hoxa7.S
+V03_Hox.1.059	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D29 symbols hoxb7.S,hoxb7.L
+V03_Hox.1.060	Hox cluster A/B/C/D paralogs of one paralogy group = 2R: Vertebrata stem (lvl=Vertebrata; sources say early vertebrates, lamprey placement not given)	Kumar2024 gene-clusters paragraph: in early vertebrates 2R produced four paralogous Hox clusters; V03_Hox.D30 symbols hoxa7,hoxa
+V03_Hox.1.061	zebrafish hoxNa/hoxNb ohnolog pair = teleost-specific 3R: Teleostei stem (lvl=Teleostei)	V03_Hox.D31 symbols hoxb8a,hoxb8b
+V03_Hox.1.062	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D32 symbols hoxd8.L,hoxd8.S
+V03_Hox.1.063	Hox cluster A/B/C/D paralogs of one paralogy group = 2R: Vertebrata stem (lvl=Vertebrata; sources say early vertebrates, lamprey placement not given)	Kumar2024 gene-clusters paragraph: in early vertebrates 2R produced four paralogous Hox clusters; V03_Hox.D33 symbols hoxb8a,hox
+V03_Hox.1.064	Hox cluster A/B/C/D paralogs of one paralogy group = 2R: Vertebrata stem (lvl=Vertebrata; sources say early vertebrates, lamprey placement not given)	Kumar2024 gene-clusters paragraph: in early vertebrates 2R produced four paralogous Hox clusters; V03_Hox.D59 symbols hoxa6,hoxa
+V03_Hox.1.065	zebrafish hoxNa/hoxNb ohnolog pair = teleost-specific 3R: Teleostei stem (lvl=Teleostei)	V03_Hox.D34 symbols hoxa9a,hoxa9b
+V03_Hox.1.066	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D35 symbols hoxa9.S,hoxa9.L
+V03_Hox.1.067	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D36 symbols hoxb9.S,hoxb9.L
+V03_Hox.1.068	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D37 symbols hoxc9.S,hoxc9.L
+V03_Hox.1.069	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D38 symbols hoxd9.S,hoxd9.L
+V03_Hox.1.070	Hox cluster A/B/C/D paralogs of one paralogy group = 2R: Vertebrata stem (lvl=Vertebrata; sources say early vertebrates, lamprey placement not given)	Kumar2024 gene-clusters paragraph: in early vertebrates 2R produced four paralogous Hox clusters; V03_Hox.D39 symbols hoxa9a,hox
+V03_Hox.1.071	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D40 symbols hoxa10.L,hoxa10.S
+V03_Hox.1.072	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D41 symbols hoxc10.L,hoxc10.S
+V03_Hox.1.073	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D42 symbols hoxd10.L,hoxd10.S
+V03_Hox.1.074	Hox cluster A/B/C/D paralogs of one paralogy group = 2R: Vertebrata stem (lvl=Vertebrata; sources say early vertebrates, lamprey placement not given)	Kumar2024 gene-clusters paragraph: in early vertebrates 2R produced four paralogous Hox clusters; V03_Hox.D43 symbols hoxa10b,ho
+V03_Hox.1.075	zebrafish hoxNa/hoxNb ohnolog pair = teleost-specific 3R: Teleostei stem (lvl=Teleostei)	V03_Hox.D44 symbols hoxa11a,hoxa11b
+V03_Hox.1.076	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D45 symbols hoxa11.S,hoxa11.L
+V03_Hox.1.077	zebrafish hoxNa/hoxNb ohnolog pair = teleost-specific 3R: Teleostei stem (lvl=Teleostei)	V03_Hox.D46 symbols hoxc11a,hoxc11b
+V03_Hox.1.078	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D47 symbols hoxc11.L,hoxc11.S
+V03_Hox.1.079	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D48 symbols hoxd11.L,hoxd11.S
+V03_Hox.1.080	Hox cluster A/B/C/D paralogs of one paralogy group = 2R: Vertebrata stem (lvl=Vertebrata; sources say early vertebrates, lamprey placement not given)	Kumar2024 gene-clusters paragraph: in early vertebrates 2R produced four paralogous Hox clusters; V03_Hox.D49 symbols hoxa11a,ho
+V03_Hox.1.081	zebrafish hoxNa/hoxNb ohnolog pair = teleost-specific 3R: Teleostei stem (lvl=Teleostei)	V03_Hox.D50 symbols hoxc12a,hoxc12b
+V03_Hox.1.082	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D51 symbols hoxc12.L,hoxc12.S
+V03_Hox.1.083	Hox cluster A/B/C/D paralogs of one paralogy group = 2R: Vertebrata stem (lvl=Vertebrata; sources say early vertebrates, lamprey placement not given)	Kumar2024 gene-clusters paragraph: in early vertebrates 2R produced four paralogous Hox clusters; V03_Hox.D52 symbols hoxc12a,ho
+V03_Hox.1.084	zebrafish hoxNa/hoxNb ohnolog pair = teleost-specific 3R: Teleostei stem (lvl=Teleostei)	V03_Hox.D53 symbols hoxa13a,hoxa13b
+V03_Hox.1.085	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D54 symbols hoxa13.S,hoxa13.L
+V03_Hox.1.086	zebrafish hoxNa/hoxNb ohnolog pair = teleost-specific 3R: Teleostei stem (lvl=Teleostei)	V03_Hox.D55 symbols hoxc13a,hoxc13b
+V03_Hox.1.087	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D56 symbols hoxc13.S,hoxc13.L
+V03_Hox.1.088	ALLO homeologs: L/S pair of X. laevis (allotetraploidy); XENLA terminal lineage, after XENLA/XENTR split (panel level Xenopus is parent)	V03_Hox.D57 symbols hoxd13.S,hoxd13.L
+V03_Hox.1.089	Hox cluster A/B/C/D paralogs of one paralogy group = 2R: Vertebrata stem (lvl=Vertebrata; sources say early vertebrates, lamprey placement not given)	Kumar2024 gene-clusters paragraph: in early vertebrates 2R produced four paralogous Hox clusters; V03_Hox.D58 symbols hoxa13a,ho
+V03_Hox.1.090	Hox cluster A/B/C/D paralogs of one paralogy group = 2R: Vertebrata stem (lvl=Vertebrata; sources say early vertebrates, lamprey placement not given)	Kumar2024 gene-clusters paragraph: in early vertebrates 2R produced four paralogous Hox clusters; V03_Hox.D60 symbols hoxa9a,hox
+V03_Hox.1.091	Hox cluster A/B/C/D paralogs of one paralogy group = 2R: Vertebrata stem (lvl=Vertebrata; sources say early vertebrates, lamprey placement not given)	Kumar2024 gene-clusters paragraph: in early vertebrates 2R produced four paralogous Hox clusters; V03_Hox.D61 symbols hoxa1a,hox

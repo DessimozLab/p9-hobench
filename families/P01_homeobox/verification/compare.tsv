@@ -1,0 +1,36 @@
+item_id	family	kind	verdict	claimed	answer	note
+P01_homeobox.1.001	P01_homeobox	member	AGREE	PINTOX	PINTOX	
+P01_homeobox.1.002	P01_homeobox	member	AGREE	HD-ZIP IV	HD-ZIP IV	
+P01_homeobox.1.003	P01_homeobox	member	AGREE	KNOX	KNOX	
+P01_homeobox.1.004	P01_homeobox	member	AGREE	PLINC	PLINC	
+P01_homeobox.1.005	P01_homeobox	member	AGREE	PHD	PHD ZINC FINGER	
+P01_homeobox.1.006	P01_homeobox	member	AGREE	HD-ZIP II	HD-ZIP 2	HD-ZIP I/II vs 1/2 numeral naming only
+P01_homeobox.1.007	P01_homeobox	member	AGREE	HD-ZIP III	HD-ZIP III START MEKHLA	
+P01_homeobox.1.008	P01_homeobox	member	AGREE	DDT	DDT	
+P01_homeobox.1.009	P01_homeobox	member	AGREE	SAWADEE	SAWADEE	
+P01_homeobox.1.010	P01_homeobox	member	AGREE	BEL	BEL	
+P01_homeobox.1.011	P01_homeobox	member	AGREE	WOX	WOX	
+P01_homeobox.1.012	P01_homeobox	member	AGREE	LD	LD	
+P01_homeobox.1.013	P01_homeobox	member	AGREE	KNOX|KNOX I	KNOX I	
+P01_homeobox.1.014	P01_homeobox	member	AGREE	NDX	NDX	
+P01_homeobox.1.015	P01_homeobox	member	AGREE	KNOX|KNOX II	KNOX II	
+P01_homeobox.1.016	P01_homeobox	member	AGREE	TALE_unclassified	TALE	
+P01_homeobox.1.017	P01_homeobox	member	AGREE	HD-ZIP I	HD-ZIP 1	HD-ZIP I/II vs 1/2 numeral naming only
+P01_homeobox.1.018	P01_homeobox	member	AGREE	PINTOX	PINTOX	
+P01_homeobox.1.019	P01_homeobox	member	AGREE	HD-ZIP IV	HD-ZIP IV	
+P01_homeobox.1.020	P01_homeobox	member	AGREE	KNOX	KNOX	
+P01_homeobox.1.021	P01_homeobox	member	AGREE	PLINC	PLINC	
+P01_homeobox.1.022	P01_homeobox	member	AGREE	PHD	PHD ZINC FINGER	
+P01_homeobox.1.023	P01_homeobox	member	AGREE	HD-ZIP II	HD-ZIP 2	HD-ZIP I/II vs 1/2 numeral naming only
+P01_homeobox.1.024	P01_homeobox	member	AGREE	HD-ZIP III	HD-ZIP III START MEKHLA	
+P01_homeobox.1.025	P01_homeobox	member	AGREE	DDT	DDT	
+P01_homeobox.1.026	P01_homeobox	member	AGREE	SAWADEE	SAWADEE	
+P01_homeobox.1.027	P01_homeobox	member	AGREE	BEL	BEL	
+P01_homeobox.1.028	P01_homeobox	member	AGREE	WOX	WOX	
+P01_homeobox.1.029	P01_homeobox	member	AGREE	LD	LD	
+P01_homeobox.1.030	P01_homeobox	member	AGREE	KNOX|KNOX I	KNOX I	
+P01_homeobox.1.031	P01_homeobox	event	AGREE	ev=D;lvl_lo=Embryophyta;lvl_hi=ABOVE_RANGE	KNOX I / KNOX II both present in common ancestor of moss and vascular plants: [Embryophyta, ABOVE_RANGE]	
+P01_homeobox.1.032	P01_homeobox	event	AGREE	ev=D;lvl_lo=Viridiplantae;lvl_hi=ABOVE_RANGE	KNOX and BEL (TALE classes) present in green plants and Rhodophyta: predates the panel root: [Viridiplantae, ABOVE_RANGE]	
+P01_homeobox.1.033	P01_homeobox	event	AGREE	ev=D;lvl_lo=Viridiplantae;lvl_hi=ABOVE_RANGE	DDT, WOX, PINTOX classes arose in the last common ancestor of green plants: Viridiplantae (root-level, [Viridiplantae, ABOVE_RANGE])	
+P01_homeobox.1.034	P01_homeobox	event	AGREE	ev=D;lvl_lo=Embryophyta;lvl_hi=Streptophyta	HD-ZIP I-IV (and LD, SAWADEE, NDX, PHD, PLINC) classes originated before moss/vascular split, possibly before land transition (Chara HD-ZIP III): [Embryophyta, Streptophyta]	
+P01_homeobox.1.035	P01_homeobox	event	AGREE	ev=D;lvl_lo=Viridiplantae;lvl_hi=ABOVE_RANGE	TALE vs non-TALE present in common ancestor of plants and animals: predates the panel root: [Viridiplantae, ABOVE_RANGE]	

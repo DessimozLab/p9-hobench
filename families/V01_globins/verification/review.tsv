@@ -1,0 +1,4 @@
+item_id	verdict	note
+V01_globins.1.031	AGREE	hi=Vertebrata derivable: Mb/GbE lineage is a product of the vertebrate-ancestor WGD (Hoffmann2012a)
+V01_globins.1.032	DISAGREE	claimed [Gnathostomata,Vertebrata] includes gnathostome stem; Hoffmann2012a/2010: cyclostome Hb is sister of gnathostome Cygb => Cygb lineage already in the vertebrate common ancestor => Vertebrata stem. Hedge-superset (protocol s2 permits intervals when 2R-lamprey timing contested) - minor
+V01_globins.1.033	DISAGREE	claimed [Gnathostomata,Vertebrata,TAND] includes Vertebrata stem; Hoffmann2010: alpha/beta tandem duplication AFTER gnathostome ancestor diverged from jawless fishes => Gnathostomata stem only. Hedge-superset - minor

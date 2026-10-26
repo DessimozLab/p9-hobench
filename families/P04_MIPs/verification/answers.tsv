@@ -1,0 +1,35 @@
+item_id	answer	evidence
+P04_MIPs.1.001	TIP2 (TIP subfamily)	ZmTIP2.3 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.002	TIP6 (TIP subfamily)	PpTIP6.3 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.003	NIP2 (NIP subfamily)	ZmNIP2.1 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.004	NIP4 (NIP subfamily)	AtNIP4.1 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.005	GIP1 (GIP subfamily)	PpGIP1.1 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.006	NIP6 (NIP subfamily)	AtNIP6.1 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.007	NIP7 (NIP subfamily)	AtNIP7.1 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.008	TIP3 (TIP subfamily)	AtTIP3.1 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.009	NIP3 (NIP subfamily)	OsNIP3;2 found in Anderberg2012 Table A2; subfamily from name prefix
+P04_MIPs.1.010	XIP1 (XIP subfamily)	PpXIP1.2 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.011	TIP4 (TIP subfamily)	ZmTIP4.1 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.012	PIP1 (PIP subfamily)	AtPIP1.1 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.013	NIP5 (NIP subfamily)	PpNIP5.3 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.014	NIP1 (NIP subfamily)	ZmNIP1.1 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.015	PIP2 (PIP subfamily)	AtPIP2.4 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.016	SIP2 (SIP subfamily)	ZmSIP2.1 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.017	TIP1 (TIP subfamily)	OsTIP1;2 found in Anderberg2012 Table A2; subfamily from name prefix
+P04_MIPs.1.018	PIP3 (PIP subfamily)	PpPIP3.1 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.019	SIP1 (SIP subfamily)	ZmSIP1.1 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.020	TIP5 (TIP subfamily)	ZmTIP5.1 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.021	TIP2 (TIP subfamily)	AtTIP2.3 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.022	TIP6 (TIP subfamily)	PpTIP6.4 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.023	NIP2 (NIP subfamily)	ZmNIP2.3 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.024	NIP4 (NIP subfamily)	OsNIP4;1 found in Anderberg2012 Table A2; subfamily from name prefix
+P04_MIPs.1.025	TIP3 (TIP subfamily)	AtTIP3.2 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.026	NIP3 (NIP subfamily)	PpNIP3.1 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.027	TIP4 (TIP subfamily)	ZmTIP4.4 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.028	PIP1 (PIP subfamily)	AtPIP1.5 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.029	NIP5 (NIP subfamily)	PpNIP5.2 found in S1.pdf alignment; subfamily from name prefix
+P04_MIPs.1.030	NIP1 (NIP subfamily)	OsNIP1;4 found in Anderberg2012 Table A2; subfamily from name prefix
+P04_MIPs.1.031	PIP1/PIP2 groups both present in moss (PpPIP1;x, PpPIP2;x) and vascular plants: [Embryophyta, ABOVE_RANGE]	DanielsonJohanson2008 Discussion 'PIPs': PpPIP3;1 basal to both PIP1s and PIP2s; moss has PIP1 and PIP2
+P04_MIPs.1.032	TIP specialised groups (TIP1-5) absent from primitive vascular plants, evolved in common ancestor of seed plants: Magnoliopsida stem in panel P (no gymnosperms in panel) [lo=Magnoliopsida; hi=Magnoliopsida]	Anderberg2012 Abstract: specialised TIP groups evolved later in a common ancestor of seed plants
+P04_MIPs.1.033	SIP2 evolved only in angiosperms (SIP1 in all terrestrial plants): Magnoliopsida stem (angiosperm) lo=Magnoliopsida	Anderberg2012 Discussion: SIP2s have only evolved in the angiosperms whereas SIP1s are present in all terrestrial plants
+P04_MIPs.1.034	MIP subfamilies (PIP,TIP,NIP,SIP,GIP,HIP,XIP) all established before moss/vascular split: [Embryophyta, ABOVE_RANGE]	Anderberg2012/DanielsonJohanson2008: seven subfamilies identified in moss; 6 of 7 in Selaginella

@@ -1,0 +1,33 @@
+item_id	family	kind	verdict	claimed	answer	note
+E01_kinesins.1.001	E01_kinesins	member	AGREE	Kinesin-3|3B	Kinesin-3|3B	
+E01_kinesins.1.002	E01_kinesins	member	AGREE	Kinesin-3|3A	Kinesin-3|3A	
+E01_kinesins.1.003	E01_kinesins	member	AGREE	Kinesin-6	Kinesin-6	
+E01_kinesins.1.004	E01_kinesins	member	AGREE	Kinesin-8|8B	Kinesin-8|8B	
+E01_kinesins.1.005	E01_kinesins	member	AGREE	Kinesin-13|13C	Kinesin-13|13C	
+E01_kinesins.1.006	E01_kinesins	member	AGREE	X11	X11	
+E01_kinesins.1.007	E01_kinesins	member	AGREE	X3	X3	
+E01_kinesins.1.008	E01_kinesins	member	AGREE	Kinesin-20	Kinesin-20	
+E01_kinesins.1.009	E01_kinesins	member	AGREE	X8	X8	
+E01_kinesins.1.010	E01_kinesins	member	AGREE	X2	X2	
+E01_kinesins.1.011	E01_kinesins	member	AGREE	Kinesin-6|6A	Kinesin-6|6A	
+E01_kinesins.1.012	E01_kinesins	member	AGREE	X1	X1	
+E01_kinesins.1.013	E01_kinesins	member	AGREE	Kinesin-2|2B	Kinesin-2|2B	
+E01_kinesins.1.014	E01_kinesins	member	AGREE	Kinesin-14	Kinesin-14	
+E01_kinesins.1.015	E01_kinesins	member	AGREE	Kinesin-14|14D	Kinesin-14|14D	
+E01_kinesins.1.016	E01_kinesins	member	AGREE	X7	X7	
+E01_kinesins.1.017	E01_kinesins	member	AGREE	Kinesin-1|1A	Kinesin-1|1A	
+E01_kinesins.1.018	E01_kinesins	member	AGREE	X12	X12	
+E01_kinesins.1.019	E01_kinesins	member	AGREE	Kinesin-2	Kinesin-2	
+E01_kinesins.1.020	E01_kinesins	member	AGREE	Kinesin-4/10	Kinesin-4/10	
+E01_kinesins.1.021	E01_kinesins	member	AGREE	Kinesin-3|3C	Kinesin-3|3C	
+E01_kinesins.1.022	E01_kinesins	member	AGREE	Kinesin-19	Kinesin-19	
+E01_kinesins.1.023	E01_kinesins	member	AGREE	Kinesin-1|1B	Kinesin-1|1B	
+E01_kinesins.1.024	E01_kinesins	member	AGREE	X13	X13	
+E01_kinesins.1.025	E01_kinesins	member	AGREE	Kinesin-4/10|4/10A	Kinesin-4/10|4/10A	
+E01_kinesins.1.026	E01_kinesins	member	AGREE	Kinesin-2|2A	Kinesin-2|2A	
+E01_kinesins.1.027	E01_kinesins	member	AGREE	Kinesin-7	Kinesin-7	
+E01_kinesins.1.028	E01_kinesins	member	AGREE	Kinesin-9|9A	Kinesin-9|9A	
+E01_kinesins.1.029	E01_kinesins	member	AGREE	Kinesin-2|2C	Kinesin-2|2C	
+E01_kinesins.1.030	E01_kinesins	member	AGREE	Kinesin-15	Kinesin-15	
+E01_kinesins.1.031	E01_kinesins	event	AGREE	ev=D;lvl_lo=Eukaryota;lvl_hi=ABOVE_RANGE	duplication at or before the Eukaryota stem: interval [Eukaryota, ABOVE_RANGE]	
+E01_kinesins.1.032	E01_kinesins	event	AGREE	ev=D;lvl_lo=Eukaryota;lvl_hi=ABOVE_RANGE	duplications among MAR families at or before Eukaryota stem: [Eukaryota, ABOVE_RANGE]	

@@ -1,0 +1,36 @@
+item_id	answer	evidence
+P01_homeobox.1.001	PINTOX	msp201_5.html row 879 (Gene Number 1078, name 402076, acc ) col Gene Classes
+P01_homeobox.1.002	HD-ZIP IV	msp201_5.html row 248 (Gene Number 295, name OSJNBb0075O18.108, acc BAD01388) col Gene Classes
+P01_homeobox.1.003	KNOX	msp201_5.html row 404 (Gene Number 526, name gn1, acc AAP76320) col Gene Classes
+P01_homeobox.1.004	PLINC	msp201_5.html row 884 (Gene Number 1083, name 59936, acc ) col Gene Classes
+P01_homeobox.1.005	PHD ZINC FINGER	msp201_5.html row 134 (Gene Number 172, name HAZ1, acc AB081340) col Gene Classes
+P01_homeobox.1.006	HD-ZIP 2	msp201_5.html row 246 (Gene Number 290, name Hox7, acc AAQ55491) col Gene Classes
+P01_homeobox.1.007	HD-ZIP III START MEKHLA	msp201_5.html row 70 (Gene Number 89, name ATHB-8, acc NP_195014) col Gene Classes
+P01_homeobox.1.008	DDT	msp201_5.html row 71 (Gene Number 91, name HOX7, acc AAF16763) col Gene Classes
+P01_homeobox.1.009	SAWADEE	msp201_5.html row 81 (Gene Number 105, name At3g18380, acc AY093042) col Gene Classes
+P01_homeobox.1.010	BEL	msp201_5.html row 345 (Gene Number 459, name Os12g43950.1, acc ) col Gene Classes
+P01_homeobox.1.011	WOX	msp201_5.html row 80 (Gene Number 104, name WOX11, acc NM_111237) col Gene Classes
+P01_homeobox.1.012	LD	msp201_5.html row 167 (Gene Number 206, name LD, acc AF166527) col Gene Classes
+P01_homeobox.1.013	KNOX I	msp201_5.html row 262 (Gene Number 320, name OSH10, acc XP_469241) col Gene Classes
+P01_homeobox.1.014	NDX	msp201_5.html row 892 (Gene Number 1091, name 446032, acc ) col Gene Classes
+P01_homeobox.1.015	KNOX II	msp201_5.html row 240 (Gene Number 284, name HOS66, acc BAB55660) col Gene Classes
+P01_homeobox.1.016	TALE	msp201_5.html row 866 (Gene Number 1064, name 407891, acc ) col Gene Classes
+P01_homeobox.1.017	HD-ZIP 1	msp201_5.html row 303 (Gene Number 403, name Hox12, acc AAS83422) col Gene Classes
+P01_homeobox.1.018	PINTOX	msp201_5.html row 109 (Gene Number 142, name At5g11270, acc NP_196688) col Gene Classes
+P01_homeobox.1.019	HD-ZIP IV	msp201_5.html row 224 (Gene Number 265, name Roc1, acc BAB85750) col Gene Classes
+P01_homeobox.1.020	KNOX	msp201_5.html row 362 (Gene Number 478, name lg3, acc AAD13611) col Gene Classes
+P01_homeobox.1.021	PLINC	msp201_5.html row 102 (Gene Number 133, name At5g60480, acc NM_125441) col Gene Classes
+P01_homeobox.1.022	PHD ZINC FINGER	msp201_5.html row 61 (Gene Number 72, name HAT3.1, acc Q04996) col Gene Classes
+P01_homeobox.1.023	HD-ZIP 2	msp201_5.html row 64 (Gene Number 80, name HAT2, acc AAA56901) col Gene Classes
+P01_homeobox.1.024	HD-ZIP III START MEKHLA	msp201_5.html row 271 (Gene Number 343, name J033086M14, acc AK102183) col Gene Classes
+P01_homeobox.1.025	DDT	msp201_5.html row 825 (Gene Number 1018, name 89717, acc XP_001422692) col Gene Classes
+P01_homeobox.1.026	SAWADEE	msp201_5.html row 173 (Gene Number 212, name J023039B22, acc AK069895) col Gene Classes
+P01_homeobox.1.027	BEL	msp201_5.html row 398 (Gene Number 518, name AZM479832, acc ) col Gene Classes
+P01_homeobox.1.028	WOX	msp201_5.html row 48 (Gene Number 51, name PALE-2, acc AAF80616) col Gene Classes
+P01_homeobox.1.029	LD	msp201_5.html row 110 (Gene Number 143, name LD, acc Q38796) col Gene Classes
+P01_homeobox.1.030	KNOX I	msp201_5.html row 53 (Gene Number 61, name KNAT2, acc NP_177208) col Gene Classes
+P01_homeobox.1.031	KNOX I / KNOX II both present in common ancestor of moss and vascular plants: [Embryophyta, ABOVE_RANGE]	Mukherjee2009 Results TALE superclass: both KNOX I and KNOX II present in the common ancestor of moss and vascular plants
+P01_homeobox.1.032	KNOX and BEL (TALE classes) present in green plants and Rhodophyta: predates the panel root: [Viridiplantae, ABOVE_RANGE]	Mukherjee2009 Abstract: members of BEL and KNOX found in Chlorobionta and Rhodophyta
+P01_homeobox.1.033	DDT, WOX, PINTOX classes arose in the last common ancestor of green plants: Viridiplantae (root-level, [Viridiplantae, ABOVE_RANGE])	Mukherjee2009 Discussion: three new HD classes in common ancestor lineage of green plants (absent in Rhodophyta)
+P01_homeobox.1.034	HD-ZIP I-IV (and LD, SAWADEE, NDX, PHD, PLINC) classes originated before moss/vascular split, possibly before land transition (Chara HD-ZIP III): [Embryophyta, Streptophyta]	Mukherjee2009 Discussion Embryophyta section
+P01_homeobox.1.035	TALE vs non-TALE present in common ancestor of plants and animals: predates the panel root: [Viridiplantae, ABOVE_RANGE]	Mukherjee2009 Discussion: TALE and non-TALE HD proteins already present in common ancestor of plants and animals

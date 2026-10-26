@@ -1,0 +1,38 @@
+item_id	kind	claimed
+V01_globins.1.001	member	Amphioxus Gb14 [Gb14]
+V01_globins.1.002	member	Zebrafish Cygb1 [Cygb]
+V01_globins.1.003	member	Chicken_Ngb [Ngb]
+V01_globins.1.004	member	Amphioxus Gb2 [Gb2]
+V01_globins.1.005	member	Frog Cygb [Cygb]
+V01_globins.1.006	member	Chicken_Cygb [Cygb]
+V01_globins.1.007	member	Human_Ngb [Ngb]
+V01_globins.1.008	member	Chicken_Mb [Mb]
+V01_globins.1.009	member	Medaka_Cygb1 [Cygb]
+V01_globins.1.010	member	Amphioxus Gb8 [Gb8]
+V01_globins.1.011	member	Zebrafish Ngb [Ngb]
+V01_globins.1.012	member	Sea_lamprey_Hb_PMII [PMII]
+V01_globins.1.013	member	Zebrafish Hbb [Hbb]
+V01_globins.1.014	member	Frog Hbb [Hbb]
+V01_globins.1.015	member	Chicken_Hbb [Hbb]
+V01_globins.1.016	member	Amphioxus Gb6 [Gb6]
+V01_globins.1.017	member	Amphioxus Gb9 [Gb9]
+V01_globins.1.018	member	Human_Mb [Mb]
+V01_globins.1.019	member	Medaka_Cygb2 [Cygb]
+V01_globins.1.020	member	Zebrafish Mb [Mb]
+V01_globins.1.021	member	Frog GbX [GbX]
+V01_globins.1.022	member	Chicken_Hba [Hba]
+V01_globins.1.023	member	Frog GbY [GbY]
+V01_globins.1.024	member	Zebrafish Cygb2 [Cygb]
+V01_globins.1.025	member	Medaka_Hbb [Hbb]
+V01_globins.1.026	member	Chicken_GbE [GbE]
+V01_globins.1.027	member	Human_Hbb [Hbb]
+V01_globins.1.028	member	Human_Cygb [Cygb]
+V01_globins.1.029	member	Amphioxus Gb15 [Gb15]
+V01_globins.1.030	member	Amphioxus Gb13 [Gb13]
+V01_globins.1.031	event	ev=D;lvl_lo=Gnathostomata;lvl_hi=Vertebrata
+V01_globins.1.032	event	ev=D;lvl_lo=Gnathostomata;lvl_hi=Vertebrata;tag=WGD
+V01_globins.1.033	event	ev=D;lvl_lo=Gnathostomata;lvl_hi=Vertebrata;tag=TAND
+V01_globins.1.034	event	ev=D;lvl=Vertebrata;tag=WGD
+V01_globins.1.035	event	ev=D;lvl_lo=Chordata;lvl_hi=ABOVE_RANGE
+V01_globins.1.036	event	ev=D;lvl_lo=Chordata;lvl_hi=ABOVE_RANGE
+V01_globins.1.037	event	ev=D;lvl_lo=Chordata;lvl_hi=ABOVE_RANGE

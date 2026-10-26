@@ -1,0 +1,33 @@
+item_id	answer	evidence
+P03_GID1_CXE.1.001	GID1	Dataset S2 row 252 'Name in this study' = Amborella trichopoda_GID1
+P03_GID1_CXE.1.002	GID1-like (GID1L)	Dataset S2 row 5 'Name in this study' = PpGID1L-1
+P03_GID1_CXE.1.003	GID1	Dataset S2 row 226 'Name in this study' = Vitis vinifera_GID1a
+P03_GID1_CXE.1.004	GID1	Dataset S2 row 151 'Name in this study' = Glycine max_GID1b-3
+P03_GID1_CXE.1.005	GID1	Dataset S2 row 260 'Name in this study' = Selaginella moellendorffii_GID1-2
+P03_GID1_CXE.1.006	CXE	Dataset S2 row 15 'Name in this study' = SmCXE4
+P03_GID1_CXE.1.007	GID1	Dataset S2 row 236 'Name in this study' = Oryza sativa_GID1
+P03_GID1_CXE.1.008	GID1-like (GID1L)	Dataset S2 row 6 'Name in this study' = PpGID1L-2
+P03_GID1_CXE.1.009	GID1	Dataset S2 row 147 'Name in this study' = Glycine max_GID1a-1
+P03_GID1_CXE.1.010	GID1	Dataset S2 row 200 'Name in this study' = Phaseolus vulgaris_GID1b-2
+P03_GID1_CXE.1.011	GID1	Dataset S2 row 259 'Name in this study' = Selaginella moellendorffii_GID1-1
+P03_GID1_CXE.1.012	CXE	Dataset S2 row 26 'Name in this study' = SmCXE15
+P03_GID1_CXE.1.013	GID1	Dataset S2 row 250 'Name in this study' = Zea mays_GID1-1
+P03_GID1_CXE.1.014	GID1-like (GID1L)	Dataset S2 row 11 'Name in this study' = SmGID1L-1
+P03_GID1_CXE.1.015	GID1	Dataset S2 row 99 'Name in this study' = Arabidopsis thaliana_GID1a
+P03_GID1_CXE.1.016	GID1	Dataset S2 row 150 'Name in this study' = Glycine max_GID1b-2
+P03_GID1_CXE.1.017	CXE	Dataset S2 row 90 'Name in this study' = AtCXE17
+P03_GID1_CXE.1.018	GID1	Dataset S2 row 198 'Name in this study' = Phaseolus vulgaris_GID1a
+P03_GID1_CXE.1.019	GID1	Dataset S2 row 101 'Name in this study' = Arabidopsis thaliana_GID1b
+P03_GID1_CXE.1.020	CXE	Dataset S2 row 61 'Name in this study' = OsCXE34
+P03_GID1_CXE.1.021	GID1	Dataset S2 row 100 'Name in this study' = Arabidopsis thaliana_GID1c
+P03_GID1_CXE.1.022	GID1	Dataset S2 row 199 'Name in this study' = Phaseolus vulgaris_GID1b-1
+P03_GID1_CXE.1.023	CXE	Dataset S2 row 19 'Name in this study' = SmCXE8
+P03_GID1_CXE.1.024	GID1	Dataset S2 row 148 'Name in this study' = Glycine max_GID1a-2
+P03_GID1_CXE.1.025	GID1	Dataset S2 row 227 'Name in this study' = Vitis vinifera_GID1b
+P03_GID1_CXE.1.026	CXE	Dataset S2 row 53 'Name in this study' = OsCXE26
+P03_GID1_CXE.1.027	GID1	Dataset S2 row 149 'Name in this study' = Glycine max_GID1b-1
+P03_GID1_CXE.1.028	CXE	Dataset S2 row 22 'Name in this study' = SmCXE11
+P03_GID1_CXE.1.029	CXE	Dataset S2 row 23 'Name in this study' = SmCXE12
+P03_GID1_CXE.1.030	CXE	Dataset S2 row 44 'Name in this study' = OsCXE17
+P03_GID1_CXE.1.031	A/B-type GID1 split at/just before or after establishment of core eudicots; VITVI has both A and B so before the VITVI/Rosids split: on stem of the (VITVI,Rosids) core-eudicot node (no named panel level) or the preceding branch up to Mesangiospermae/eudicot stem; not later than that	Yoshida2018 Results/Discussion: diversification into A/B just before or after establishment of core eudicots
+P03_GID1_CXE.1.032	GID1 clade separated from CXE ancestor before lycophyte/euphyllophyte split: lower bound Tracheophyta [Tracheophyta, ABOVE_RANGE]	Yoshida2018 Results 'Establishment of GID1 from CXEs': all GID1 in one CXE subclade; GID1 present in lycophyte+euphyllophytes; moss only GID1-like CXEs

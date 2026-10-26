@@ -1,0 +1,61 @@
+item_id	kind	claimed
+K04.1.001	decoy	nonhomologous
+K04.1.002	distinct_from	K04b_LysRS_II at_level=ALL
+K04.1.003	distinct_from	K04b_LysRS_II at_level=ALL
+K04.1.004	decoy	nonhomologous
+K04.1.005	distinct_from	K04a_LysRS_I at_level=ALL
+K04.1.006	distinct_from	K04a_LysRS_I at_level=ALL
+K04.1.007	decoy	nonhomologous
+K04.1.008	distinct_from	K04d_SOD_CuZn at_level=ALL
+K04.1.009	distinct_from	K04d_SOD_CuZn at_level=ALL
+K04.1.010	decoy	nonhomologous
+K04.1.011	distinct_from	K04c_SOD_FeMn at_level=ALL
+K04.1.012	distinct_from	K04c_SOD_FeMn at_level=ALL
+K04.1.013	decoy	nonhomologous
+K04.1.014	distinct_from	K04f_PGM_BPGindep at_level=ALL
+K04.1.015	distinct_from	K04f_PGM_BPGindep at_level=ALL
+K04.1.016	decoy	nonhomologous
+K04.1.017	distinct_from	K04e_PGM_BPGdep at_level=ALL
+K04.1.018	distinct_from	K04e_PGM_BPGdep at_level=ALL
+K04.1.019	decoy	nonhomologous
+K04.1.020	distinct_from	K04h_SK_GHMP at_level=ALL
+K04.1.021	distinct_from	K04h_SK_GHMP at_level=ALL
+K04.1.022	decoy	nonhomologous
+K04.1.023	distinct_from	K04g_SK_Ploop at_level=ALL
+K04.1.024	distinct_from	K04g_SK_Ploop at_level=ALL
+K04.1.025	decoy	nonhomologous
+K04.1.026	distinct_from	K04j_DHQase_II at_level=ALL
+K04.1.027	distinct_from	K04j_DHQase_II at_level=ALL
+K04.1.028	decoy	nonhomologous
+K04.1.029	distinct_from	K04i_DHQase_I at_level=ALL
+K04.1.030	distinct_from	K04i_DHQase_I at_level=ALL
+K04.1.031	member	GHMP-kinase-type archaeal shikimate kinase (COG1685)
+K04.1.032	member	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (iPGM, GpmI) (COG0696)
+K04.1.033	member	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)
+K04.1.034	member	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)
+K04.1.035	member	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)
+K04.1.036	member	Class I lysyl-tRNA synthetase (LysRS-I) (COG1384)
+K04.1.037	member	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)
+K04.1.038	member	Fe/Mn superoxide dismutase (COG0605)
+K04.1.039	member	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)
+K04.1.040	member	Cu/Zn superoxide dismutase (COG2032)
+K04.1.041	member	GHMP-kinase-type archaeal shikimate kinase (COG1685)
+K04.1.042	member	Cu/Zn superoxide dismutase (COG2032)
+K04.1.043	member	Class I lysyl-tRNA synthetase (LysRS-I) (COG1384)
+K04.1.044	member	GHMP-kinase-type archaeal shikimate kinase (COG1685)
+K04.1.045	member	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (iPGM, GpmI) (COG0696)
+K04.1.046	member	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)
+K04.1.047	member	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)
+K04.1.048	member	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)
+K04.1.049	member	GHMP-kinase-type archaeal shikimate kinase (COG1685)
+K04.1.050	member	Cu/Zn superoxide dismutase (COG2032)
+K04.1.051	member	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)
+K04.1.052	member	Type I 3-dehydroquinate dehydratase (AroD, class I aldolase fold) (COG0710)
+K04.1.053	member	Fe/Mn superoxide dismutase (COG0605)
+K04.1.054	member	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)
+K04.1.055	member	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (dPGM, GpmA) (COG0588)
+K04.1.056	member	Fe/Mn superoxide dismutase (COG0605)
+K04.1.057	member	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (iPGM, GpmI) (COG0696)
+K04.1.058	member	P-loop shikimate kinase (bacterial AroK/AroL) (COG0703)
+K04.1.059	member	GHMP-kinase-type archaeal shikimate kinase (COG1685)
+K04.1.060	member	Class II lysyl-tRNA synthetase (LysRS-II) (COG1190)

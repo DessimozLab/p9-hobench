@@ -1,0 +1,3 @@
+item_id	verdict	note
+V02_opsins.1.031	AGREE	D without lvl = default lineage-specific tandem duplication in LEPOC
+V02_opsins.1.033	DISAGREE	claimed [Gnathostomata,Vertebrata] includes gnathostome stem; Lagman2013 Discussion explicitly places the 2R opsin duplications before the lamprey-gnathostome divergence (orthologs of all four in lamprey) => Vertebrata stem; minor (hedge, claim is a superset)

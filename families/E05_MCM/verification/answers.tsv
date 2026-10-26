@@ -1,0 +1,33 @@
+item_id	answer	evidence
+E05_MCM.1.001	Mcm4	tip CAD25144 in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.002	Mcm6	tip Chlre3:127671(JGI) in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.003	Mcm2	tip Chlre3:152683(JGI) in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.004	archaeal MCM (outgroup, not Mcm2-9)	Halobacterium sp. [AAG20316] is among the archaeal MCM tips in Additional file 4
+E05_MCM.1.005	Mcm8	tip XP_823262 in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.006	Mcm9	tip NP_694987 in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.007	Mcm5	tip NP_013376 in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.008	Mcm3	tip NP_002379 in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.009	Mcm7	tip GL50803_10765(GiarDB) in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.010	Mcm4	tip AAF59242 in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.011	Mcm6	tip Nemve1:192492(JGI) in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.012	Mcm2	tip Triad1:63837(JGI) in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.013	Mcm8	tip EAL65948 in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.014	Mcm9	tip CAD25581 in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.015	Mcm5	tip Naegr1:29938(JGI) in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.016	Mcm3	tip NP_199440 in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.017	Mcm7	tip NP_192115 in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.018	Mcm4	tip XP_649080 in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.019	Mcm6	tip CMJ261C(CmerDB) in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.020	Mcm2	tip Monbr1:36175(JGI) in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.021	Mcm8	tip Chlre3:122561(JGI) in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.022	Mcm9	tip Triad1:31981(JGI) in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.023	Mcm5	tip Monbr1:27771(JGI) in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.024	Mcm3	tip EAL67381 in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.025	Mcm7	tip AAF50357 in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.026	Mcm4	tip EAL69562 in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.027	Mcm6	tip NP_005906 in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.028	Mcm2	tip NP_004517 in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.029	Mcm8	tip NP_732072 in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.030	Mcm9	tip CMO137C(CmerDB) in block of Additional file tree whose human tip identifies the Mcm
+E05_MCM.1.031	lineage-specific duplication in NAEGR (two Mcm3 in Naegleria): terminal NAEGR branch, below Discoba	Liu2009 Results para 1: in Naegleria and Xenopus two proteins grouped with Mcm3
+E05_MCM.1.032	Mcm2-9 duplications before LECA: [Eukaryota, ABOVE_RANGE] (paper gives no older bound)	Liu2009 Abstract: Mcm2-9 formed by seven gene duplications before the last common ancestor of eukaryotes

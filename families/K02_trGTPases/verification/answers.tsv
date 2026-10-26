@@ -1,0 +1,32 @@
+item_id	answer	evidence
+K02_trGTPases.1.001	COG0050 Translation elongation factor EF-Tu, a G	cog20_panelK.csv row for NP_710918.1 (species LEPIN); name from cog-20.def.tab
+K02_trGTPases.1.002	COG0480 Translation elongation factor EF-G, a GT	cog20_panelK.csv row for WP_010870561.1 (species METJA); name from cog-20.def.tab
+K02_trGTPases.1.003	COG5256 Translation elongation factor EF-1alpha 	cog20_panelK.csv row for WP_010922916.1 (species SACS2); name from cog-20.def.tab
+K02_trGTPases.1.004	COG0480 Translation elongation factor EF-G, a GT	cog20_panelK.csv row for NP_229303.1 (species THEMA); name from cog-20.def.tab
+K02_trGTPases.1.005	COG0050 Translation elongation factor EF-Tu, a G	cog20_panelK.csv row for NP_294032.1 (species DEIRA); name from cog-20.def.tab
+K02_trGTPases.1.006	COG0480 Translation elongation factor EF-G, a GT	cog20_panelK.csv row for AAM04676.1 (species METAC); name from cog-20.def.tab
+K02_trGTPases.1.007	COG0050 Translation elongation factor EF-Tu, a G	cog20_panelK.csv row for NP_207997.1 (species HELPY); name from cog-20.def.tab
+K02_trGTPases.1.008	COG0480 Translation elongation factor EF-G, a GT	cog20_panelK.csv row for WP_010873748.1 (species SYNY3); name from cog-20.def.tab
+K02_trGTPases.1.009	COG0050 Translation elongation factor EF-Tu, a G	cog20_panelK.csv row for NP_417798.1 (species ECOLI); name from cog-20.def.tab
+K02_trGTPases.1.010	COG0480 Translation elongation factor EF-G, a GT	cog20_panelK.csv row for NP_417799.1 (species ECOLI); name from cog-20.def.tab
+K02_trGTPases.1.011	COG0050 Translation elongation factor EF-Tu, a G	cog20_panelK.csv row for NP_219827.1 (species CHLTR); name from cog-20.def.tab
+K02_trGTPases.1.012	COG0480 Translation elongation factor EF-G, a GT	cog20_panelK.csv row for NP_250761.1 (species PSEAE); name from cog-20.def.tab
+K02_trGTPases.1.013	COG0050 Translation elongation factor EF-Tu, a G	cog20_panelK.csv row for WP_010872941.1 (species SYNY3); name from cog-20.def.tab
+K02_trGTPases.1.014	COG0480 Translation elongation factor EF-G, a GT	cog20_panelK.csv row for NP_212986.1 (species AQUAE); name from cog-20.def.tab
+K02_trGTPases.1.015	COG5256 Translation elongation factor EF-1alpha 	cog20_panelK.csv row for WP_011249263.1 (species THEKO); name from cog-20.def.tab
+K02_trGTPases.1.016	COG0480 Translation elongation factor EF-G, a GT	cog20_panelK.csv row for NP_387993.2 (species BACSU); name from cog-20.def.tab
+K02_trGTPases.1.017	COG0050 Translation elongation factor EF-Tu, a G	cog20_panelK.csv row for NP_215199.1 (species MYCTU); name from cog-20.def.tab
+K02_trGTPases.1.018	COG0480 Translation elongation factor EF-G, a GT	cog20_panelK.csv row for WP_010874145.1 (species SYNY3); name from cog-20.def.tab
+K02_trGTPases.1.019	COG5256 Translation elongation factor EF-1alpha 	cog20_panelK.csv row for WP_010869821.1 (species METJA); name from cog-20.def.tab
+K02_trGTPases.1.020	COG0480 Translation elongation factor EF-G, a GT	cog20_panelK.csv row for NP_811641.1 (species BACTN); name from cog-20.def.tab
+K02_trGTPases.1.021	COG0050 Translation elongation factor EF-Tu, a G	cog20_panelK.csv row for NP_811652.1 (species BACTN); name from cog-20.def.tab
+K02_trGTPases.1.022	COG0480 Translation elongation factor EF-G, a GT	cog20_panelK.csv row for NP_294116.1 (species DEIRA); name from cog-20.def.tab
+K02_trGTPases.1.023	COG0050 Translation elongation factor EF-Tu, a G	cog20_panelK.csv row for NP_212987.1 (species AQUAE); name from cog-20.def.tab
+K02_trGTPases.1.024	COG0480 Translation elongation factor EF-G, a GT	cog20_panelK.csv row for NP_214634.1 (species MYCTU); name from cog-20.def.tab
+K02_trGTPases.1.025	COG0050 Translation elongation factor EF-Tu, a G	cog20_panelK.csv row for NP_418407.1 (species ECOLI); name from cog-20.def.tab
+K02_trGTPases.1.026	COG0480 Translation elongation factor EF-G, a GT	cog20_panelK.csv row for NP_207986.1 (species HELPY); name from cog-20.def.tab
+K02_trGTPases.1.027	COG0050 Translation elongation factor EF-Tu, a G	cog20_panelK.csv row for NP_387994.1 (species BACSU); name from cog-20.def.tab
+K02_trGTPases.1.028	COG0480 Translation elongation factor EF-G, a GT	cog20_panelK.csv row for NP_252956.1 (species PSEAE); name from cog-20.def.tab
+K02_trGTPases.1.029	COG5256 Translation elongation factor EF-1alpha 	cog20_panelK.csv row for WP_052568509.1 (species KORCO); name from cog-20.def.tab
+K02_trGTPases.1.030	COG0480 Translation elongation factor EF-G, a GT	cog20_panelK.csv row for WP_010872942.1 (species SYNY3); name from cog-20.def.tab
+K02_trGTPases.1.031	EF-Tu/EF-G duplication predates LUCA: interval [LUCA, ABOVE_RANGE]	Baldauf1996 abstract: duplication predates divergence of all extant organismal lineages; Iwabe1989 similar

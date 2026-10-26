@@ -1,0 +1,61 @@
+item_id	family	unit	kind	genes	species	original_id_in_paper	source	locator	node_id
+K04.1.001	K04	K04a_LysRS_I	decoy	O67258,O84786,P0A8N3,P0A8N5,P37477,P56126,P73443,P95970,P9WFU7,P9WFU9,Q8A5W4,Q8F4P5,Q8TSN5,Q9HXU0,Q9RXE1,Q9X231			Omelchenko2010	Additional file 2 (Table S2), EC 6.1.1.6 rows (decoys = all members of K04b_LysRS_II)	K04a_A1
+K04.1.002	K04	K04a_LysRS_I	distinct_from	K04b_LysRS_II			Omelchenko2010	fulltext.txt Results (final NISE list = Table S2)	K04a_A2
+K04.1.003	K04	K04a_LysRS_I	distinct_from	K04b_LysRS_II			Omelchenko2010	fulltext.txt Results (bona fide NISE)	K04a_A3
+K04.1.004	K04	K04b_LysRS_II	decoy	A9A261,B1L6H9,Q57959,Q5JHQ3,Q8TTA3,Q9HNN7			Omelchenko2010	Additional file 2 (Table S2), EC 6.1.1.6 rows (decoys = all members of K04a_LysRS_I)	K04b_A1
+K04.1.005	K04	K04b_LysRS_II	distinct_from	K04a_LysRS_I			Omelchenko2010	fulltext.txt Results (final NISE list = Table S2)	K04b_A2
+K04.1.006	K04	K04b_LysRS_II	distinct_from	K04a_LysRS_I			Omelchenko2010	fulltext.txt Results (bona fide NISE)	K04b_A3
+K04.1.007	K04	K04c_SOD_FeMn	decoy	O31851,O66602,O67149,P0AGD1,P9WGE9,Q8TN71,Q9RU48,Q9RYV4			Omelchenko2010	Additional file 2 (Table S2), EC 1.15.1.1 rows (decoys = all members of K04d_SOD_CuZn)	K04c_A1
+K04.1.008	K04	K04c_SOD_FeMn	distinct_from	K04d_SOD_CuZn			Omelchenko2010	fulltext.txt Results (final NISE list = Table S2)	K04c_A2
+K04.1.009	K04	K04c_SOD_FeMn	distinct_from	K04d_SOD_CuZn			Omelchenko2010	fulltext.txt Results (bona fide NISE)	K04c_A3
+K04.1.010	K04	K04d_SOD_CuZn	decoy	A9A4D6,A9A591,O35023,O67470,O84296,P00448,P09224,P09737,P0AGD3,P43312,P53641,P53652,P54375,P77968,P80857,P9WGE7,Q8AA10,Q8TQG9,Q9RUV2			Omelchenko2010	Additional file 2 (Table S2), EC 1.15.1.1 rows (decoys = all members of K04c_SOD_FeMn)	K04d_A1
+K04.1.011	K04	K04d_SOD_CuZn	distinct_from	K04c_SOD_FeMn			Omelchenko2010	fulltext.txt Results (final NISE list = Table S2)	K04d_A2
+K04.1.012	K04	K04d_SOD_CuZn	distinct_from	K04c_SOD_FeMn			Omelchenko2010	fulltext.txt Results (bona fide NISE)	K04d_A3
+K04.1.013	K04	K04e_PGM_BPGdep	decoy	P37689,P39773,P56196,P59173,P74507,Q8A287,Q8TIY2,Q8TKN6,Q8TMI6,Q9HNY7,Q9HU53			Omelchenko2010	Additional file 2 (Table S2), EC 5.4.2.1 rows (decoys = all members of K04f_PGM_BPGindep)	K04e_A1
+K04.1.014	K04	K04e_PGM_BPGdep	distinct_from	K04f_PGM_BPGindep			Omelchenko2010	fulltext.txt Results (final NISE list = Table S2)	K04e_A2
+K04.1.015	K04	K04e_PGM_BPGdep	distinct_from	K04f_PGM_BPGindep			Omelchenko2010	fulltext.txt Results (bona fide NISE)	K04e_A3
+K04.1.016	K04	K04f_PGM_BPGindep	decoy	O84727,P62707,P9WIC9,Q8A765,Q8A8R2,Q8TN93			Omelchenko2010	Additional file 2 (Table S2), EC 5.4.2.1 rows (decoys = all members of K04e_PGM_BPGdep)	K04f_A1
+K04.1.017	K04	K04f_PGM_BPGindep	distinct_from	K04e_PGM_BPGdep			Omelchenko2010	fulltext.txt Results (final NISE list = Table S2)	K04f_A2
+K04.1.018	K04	K04f_PGM_BPGindep	distinct_from	K04e_PGM_BPGdep			Omelchenko2010	fulltext.txt Results (bona fide NISE)	K04f_A3
+K04.1.019	K04	K04g_SK_Ploop	decoy	A9A232,B1L5V6,Q58835,Q5JFT2,Q8TR06,Q980I6,Q9HQB0			Omelchenko2010	Additional file 2 (Table S2), EC 2.7.1.71 rows (decoys = all members of K04h_SK_GHMP)	K04g_A1
+K04.1.020	K04	K04g_SK_Ploop	distinct_from	K04h_SK_GHMP			Omelchenko2010	fulltext.txt Results (final NISE list = Table S2)	K04g_A2
+K04.1.021	K04	K04g_SK_Ploop	distinct_from	K04h_SK_GHMP			Omelchenko2010	fulltext.txt Results (bona fide NISE)	K04g_A3
+K04.1.022	K04	K04h_SK_GHMP	decoy	O67925,O84372,P0A6D7,P0A6E1,P34003,P37944,P56073,P72796,P9WPY3,Q8A2B2,Q8EXT5,Q8TL06,Q9RW93,Q9WYI3			Omelchenko2010	Additional file 2 (Table S2), EC 2.7.1.71 rows (decoys = all members of K04g_SK_Ploop)	K04h_A1
+K04.1.023	K04	K04h_SK_GHMP	distinct_from	K04g_SK_Ploop			Omelchenko2010	fulltext.txt Results (final NISE list = Table S2)	K04h_A2
+K04.1.024	K04	K04h_SK_GHMP	distinct_from	K04g_SK_Ploop			Omelchenko2010	fulltext.txt Results (bona fide NISE)	K04h_A3
+K04.1.025	K04	K04i_DHQase_I	decoy	O30557,P54517,P73367,P9WPX7,Q48255,Q8A3W2,Q9I6P3,Q9RW91,Q9WYI4			Omelchenko2010	Additional file 2 (Table S2), EC 4.2.1.10 rows (decoys = all members of K04j_DHQase_II)	K04i_A1
+K04.1.026	K04	K04i_DHQase_I	distinct_from	K04j_DHQase_II			Omelchenko2010	fulltext.txt Results (final NISE list = Table S2)	K04i_A2
+K04.1.027	K04	K04i_DHQase_I	distinct_from	K04j_DHQase_II			Omelchenko2010	fulltext.txt Results (bona fide NISE)	K04i_A3
+K04.1.028	K04	K04j_DHQase_II	decoy	A9A234,B1L3H9,O66440,O84375,P05194,P35146,Q58849,Q5JFV1,Q8F9Z2,Q8THC4,Q980I4,Q9HSB4			Omelchenko2010	Additional file 2 (Table S2), EC 4.2.1.10 rows (decoys = all members of K04i_DHQase_I)	K04j_A1
+K04.1.029	K04	K04j_DHQase_II	distinct_from	K04i_DHQase_I			Omelchenko2010	fulltext.txt Results (final NISE list = Table S2)	K04j_A2
+K04.1.030	K04	K04j_DHQase_II	distinct_from	K04i_DHQase_I			Omelchenko2010	fulltext.txt Results (bona fide NISE)	K04j_A3
+K04.1.031	K04	K04h_SK_GHMP	member	Q9HQB0	HALSA	WP_010902901.1	COG2020	cog20_panelK.csv	
+K04.1.032	K04	K04f_PGM_BPGindep	member	P74507	SYNY3	WP_010873233.1	COG2020	cog20_panelK.csv	
+K04.1.033	K04	K04g_SK_Ploop	member	P56073	HELPY	NP_206956.1	COG2020	cog20_panelK.csv	
+K04.1.034	K04	K04e_PGM_BPGdep	member	O84727	CHLTR	NP_220241.1	COG2020	cog20_panelK.csv	
+K04.1.035	K04	K04b_LysRS_II	member	O67258	AQUAE	NP_213822.1	COG2020	cog20_panelK.csv	
+K04.1.036	K04	K04a_LysRS_I	member	B1L6H9	KORCO	WP_012309955.1	COG2020	cog20_panelK.csv	
+K04.1.037	K04	K04e_PGM_BPGdep	member	Q8A765	BACTN	NP_810573.1	COG2020	cog20_panelK.csv	
+K04.1.038	K04	K04c_SOD_FeMn	member	P53641	PSEAE	NP_253056.1	COG2020	cog20_panelK.csv	
+K04.1.039	K04	K04b_LysRS_II	member	Q8A5W4	BACTN	NP_811035.1	COG2020	cog20_panelK.csv	
+K04.1.040	K04	K04d_SOD_CuZn	member	O31851	BACSU	NP_389822.1	COG2020	cog20_panelK.csv	
+K04.1.041	K04	K04h_SK_GHMP	member	Q58835	METJA	WP_010870958.1	COG2020	cog20_panelK.csv	
+K04.1.042	K04	K04d_SOD_CuZn	member	Q8TN71	METAC	AAM05808.1	COG2020	cog20_panelK.csv	
+K04.1.043	K04	K04a_LysRS_I	member	Q57959	METJA	WP_010870043.1	COG2020	cog20_panelK.csv	
+K04.1.044	K04	K04h_SK_GHMP	member	B1L5V6	KORCO	WP_052568331.1	COG2020	cog20_panelK.csv	
+K04.1.045	K04	K04f_PGM_BPGindep	member	P56196	HELPY	NP_207765.1	COG2020	cog20_panelK.csv	
+K04.1.046	K04	K04b_LysRS_II	member	Q8F4P5	LEPIN	NP_712176.1	COG2020	cog20_panelK.csv	
+K04.1.047	K04	K04i_DHQase_I	member	O84375	CHLTR	NP_219879.1	COG2020	cog20_panelK.csv	
+K04.1.048	K04	K04i_DHQase_I	member	A9A234	NITMS	ABX12447.1	COG2020	cog20_panelK.csv	
+K04.1.049	K04	K04h_SK_GHMP	member	A9A232	NITMS	ABX12445.1	COG2020	cog20_panelK.csv	
+K04.1.050	K04	K04d_SOD_CuZn	member	Q9RU48	DEIRA	NP_295269.1	COG2020	cog20_panelK.csv	
+K04.1.051	K04	K04i_DHQase_I	member	B1L3H9	KORCO	WP_052567961.1	COG2020	cog20_panelK.csv	
+K04.1.052	K04	K04i_DHQase_I	member	Q8THC4	METAC	AAM07932.1	COG2020	cog20_panelK.csv	
+K04.1.053	K04	K04c_SOD_FeMn	member	P0AGD3	ECOLI	NP_416173.1	COG2020	cog20_panelK.csv	
+K04.1.054	K04	K04b_LysRS_II	member	P37477	BACSU	NP_387963.1	COG2020	cog20_panelK.csv	
+K04.1.055	K04	K04e_PGM_BPGdep	member	Q8A8R2	BACTN	NP_810018.1	COG2020	cog20_panelK.csv	
+K04.1.056	K04	K04c_SOD_FeMn	member	P09737	HALSA	WP_010902860.1	COG2020	cog20_panelK.csv	
+K04.1.057	K04	K04f_PGM_BPGindep	member	Q8TKN6	METAC	AAM06734.1	COG2020	cog20_panelK.csv	
+K04.1.058	K04	K04g_SK_Ploop	member	Q9WYI3	THEMA	NP_228159.1	COG2020	cog20_panelK.csv	
+K04.1.059	K04	K04h_SK_GHMP	member	Q5JFT2	THEKO	WP_011249219.1	COG2020	cog20_panelK.csv	
+K04.1.060	K04	K04b_LysRS_II	member	O84786	CHLTR	NP_220300.1	COG2020	cog20_panelK.csv	

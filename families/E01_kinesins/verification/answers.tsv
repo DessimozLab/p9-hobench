@@ -1,0 +1,33 @@
+item_id	answer	evidence
+E01_kinesins.1.001	Kinesin-3|3B	S3.XLS Suppl_info row 577 Family/Subfamily cols
+E01_kinesins.1.002	Kinesin-3|3A	S3.XLS Suppl_info row 724 Family/Subfamily cols
+E01_kinesins.1.003	Kinesin-6	S3.XLS Suppl_info row 342 Family/Subfamily cols
+E01_kinesins.1.004	Kinesin-8|8B	S3.XLS Suppl_info row 1534 Family/Subfamily cols
+E01_kinesins.1.005	Kinesin-13|13C	S3.XLS Suppl_info row 719 Family/Subfamily cols
+E01_kinesins.1.006	X11	S3.XLS Suppl_info row 723 Family/Subfamily cols
+E01_kinesins.1.007	X3	S3.XLS Suppl_info row 1152 Family/Subfamily cols
+E01_kinesins.1.008	Kinesin-20	S3.XLS Suppl_info row 1147 Family/Subfamily cols
+E01_kinesins.1.009	X8	S3.XLS Suppl_info row 790 Family/Subfamily cols
+E01_kinesins.1.010	X2	S3.XLS Suppl_info row 1574 Family/Subfamily cols
+E01_kinesins.1.011	Kinesin-6|6A	S3.XLS Suppl_info row 378 Family/Subfamily cols
+E01_kinesins.1.012	X1	S3.XLS Suppl_info row 1580 Family/Subfamily cols
+E01_kinesins.1.013	Kinesin-2|2B	S3.XLS Suppl_info row 1539 Family/Subfamily cols
+E01_kinesins.1.014	Kinesin-14	S3.XLS Suppl_info row 35 Family/Subfamily cols
+E01_kinesins.1.015	Kinesin-14|14D	S3.XLS Suppl_info row 524 Family/Subfamily cols
+E01_kinesins.1.016	X7	S3.XLS Suppl_info row 528 Family/Subfamily cols
+E01_kinesins.1.017	Kinesin-1|1A	S3.XLS Suppl_info row 356 Family/Subfamily cols
+E01_kinesins.1.018	X12	S3.XLS Suppl_info row 1485 Family/Subfamily cols
+E01_kinesins.1.019	Kinesin-2	S3.XLS Suppl_info row 279 Family/Subfamily cols
+E01_kinesins.1.020	Kinesin-4/10	S3.XLS Suppl_info row 690 Family/Subfamily cols
+E01_kinesins.1.021	Kinesin-3|3C	S3.XLS Suppl_info row 506 Family/Subfamily cols
+E01_kinesins.1.022	Kinesin-19	S3.XLS Suppl_info row 30 Family/Subfamily cols
+E01_kinesins.1.023	Kinesin-1|1B	S3.XLS Suppl_info row 347 Family/Subfamily cols
+E01_kinesins.1.024	X13	S3.XLS Suppl_info row 460 Family/Subfamily cols
+E01_kinesins.1.025	Kinesin-4/10|4/10A	S3.XLS Suppl_info row 366 Family/Subfamily cols
+E01_kinesins.1.026	Kinesin-2|2A	S3.XLS Suppl_info row 1546 Family/Subfamily cols
+E01_kinesins.1.027	Kinesin-7	S3.XLS Suppl_info row 354 Family/Subfamily cols
+E01_kinesins.1.028	Kinesin-9|9A	S3.XLS Suppl_info row 729 Family/Subfamily cols
+E01_kinesins.1.029	Kinesin-2|2C	S3.XLS Suppl_info row 1520 Family/Subfamily cols
+E01_kinesins.1.030	Kinesin-15	S3.XLS Suppl_info row 1481 Family/Subfamily cols
+E01_kinesins.1.031	duplication at or before the Eukaryota stem: interval [Eukaryota, ABOVE_RANGE]	Wickstead2010 Results: Kinesin-9A and 9B both listed in the LCEA minimal repertoire => split predates/at LCEA
+E01_kinesins.1.032	duplications among MAR families at or before Eukaryota stem: [Eukaryota, ABOVE_RANGE]	Wickstead2010: 11 paralogs (1,2,3,4/10,5,8,9A,9B,13,14,17) present in LCEA

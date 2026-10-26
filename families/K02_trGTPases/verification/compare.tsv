@@ -1,0 +1,32 @@
+item_id	family	kind	verdict	claimed	answer	note
+K02_trGTPases.1.001	K02_trGTPases	member	AGREE	EF-Tu	COG0050 Translation elongation factor EF-Tu, a G	
+K02_trGTPases.1.002	K02_trGTPases	member	AGREE	EF-G	COG0480 Translation elongation factor EF-G, a GT	
+K02_trGTPases.1.003	K02_trGTPases	member	AGREE	EF-Tu	COG5256 Translation elongation factor EF-1alpha 	EF-1alpha (COG5256) is the archaeal/eukaryotic ortholog of EF-Tu; family label EF-Tu covers it. Root D with no lvl = default [LCA of mapping, inf) = [LUCA, inf)
+K02_trGTPases.1.004	K02_trGTPases	member	AGREE	EF-G	COG0480 Translation elongation factor EF-G, a GT	
+K02_trGTPases.1.005	K02_trGTPases	member	AGREE	EF-Tu	COG0050 Translation elongation factor EF-Tu, a G	
+K02_trGTPases.1.006	K02_trGTPases	member	AGREE	EF-G	COG0480 Translation elongation factor EF-G, a GT	
+K02_trGTPases.1.007	K02_trGTPases	member	AGREE	EF-Tu	COG0050 Translation elongation factor EF-Tu, a G	
+K02_trGTPases.1.008	K02_trGTPases	member	AGREE	EF-G	COG0480 Translation elongation factor EF-G, a GT	
+K02_trGTPases.1.009	K02_trGTPases	member	AGREE	EF-Tu	COG0050 Translation elongation factor EF-Tu, a G	
+K02_trGTPases.1.010	K02_trGTPases	member	AGREE	EF-G	COG0480 Translation elongation factor EF-G, a GT	
+K02_trGTPases.1.011	K02_trGTPases	member	AGREE	EF-Tu	COG0050 Translation elongation factor EF-Tu, a G	
+K02_trGTPases.1.012	K02_trGTPases	member	AGREE	EF-G	COG0480 Translation elongation factor EF-G, a GT	
+K02_trGTPases.1.013	K02_trGTPases	member	AGREE	EF-Tu	COG0050 Translation elongation factor EF-Tu, a G	
+K02_trGTPases.1.014	K02_trGTPases	member	AGREE	EF-G	COG0480 Translation elongation factor EF-G, a GT	
+K02_trGTPases.1.015	K02_trGTPases	member	AGREE	EF-Tu	COG5256 Translation elongation factor EF-1alpha 	EF-1alpha (COG5256) is the archaeal/eukaryotic ortholog of EF-Tu; family label EF-Tu covers it. Root D with no lvl = default [LCA of mapping, inf) = [LUCA, inf)
+K02_trGTPases.1.016	K02_trGTPases	member	AGREE	EF-G	COG0480 Translation elongation factor EF-G, a GT	
+K02_trGTPases.1.017	K02_trGTPases	member	AGREE	EF-Tu	COG0050 Translation elongation factor EF-Tu, a G	
+K02_trGTPases.1.018	K02_trGTPases	member	AGREE	EF-G	COG0480 Translation elongation factor EF-G, a GT	
+K02_trGTPases.1.019	K02_trGTPases	member	AGREE	EF-Tu	COG5256 Translation elongation factor EF-1alpha 	EF-1alpha (COG5256) is the archaeal/eukaryotic ortholog of EF-Tu; family label EF-Tu covers it. Root D with no lvl = default [LCA of mapping, inf) = [LUCA, inf)
+K02_trGTPases.1.020	K02_trGTPases	member	AGREE	EF-G	COG0480 Translation elongation factor EF-G, a GT	
+K02_trGTPases.1.021	K02_trGTPases	member	AGREE	EF-Tu	COG0050 Translation elongation factor EF-Tu, a G	
+K02_trGTPases.1.022	K02_trGTPases	member	AGREE	EF-G	COG0480 Translation elongation factor EF-G, a GT	
+K02_trGTPases.1.023	K02_trGTPases	member	AGREE	EF-Tu	COG0050 Translation elongation factor EF-Tu, a G	
+K02_trGTPases.1.024	K02_trGTPases	member	AGREE	EF-G	COG0480 Translation elongation factor EF-G, a GT	
+K02_trGTPases.1.025	K02_trGTPases	member	AGREE	EF-Tu	COG0050 Translation elongation factor EF-Tu, a G	
+K02_trGTPases.1.026	K02_trGTPases	member	AGREE	EF-G	COG0480 Translation elongation factor EF-G, a GT	
+K02_trGTPases.1.027	K02_trGTPases	member	AGREE	EF-Tu	COG0050 Translation elongation factor EF-Tu, a G	
+K02_trGTPases.1.028	K02_trGTPases	member	AGREE	EF-G	COG0480 Translation elongation factor EF-G, a GT	
+K02_trGTPases.1.029	K02_trGTPases	member	AGREE	EF-Tu	COG5256 Translation elongation factor EF-1alpha 	EF-1alpha (COG5256) is the archaeal/eukaryotic ortholog of EF-Tu; family label EF-Tu covers it. Root D with no lvl = default [LCA of mapping, inf) = [LUCA, inf)
+K02_trGTPases.1.030	K02_trGTPases	member	AGREE	EF-G	COG0480 Translation elongation factor EF-G, a GT	
+K02_trGTPases.1.031	K02_trGTPases	event	AGREE	ev=D;tag=DEEP	EF-Tu/EF-G duplication predates LUCA: interval [LUCA, ABOVE_RANGE]	EF-1alpha (COG5256) is the archaeal/eukaryotic ortholog of EF-Tu; family label EF-Tu covers it. Root D with no lvl = default [LCA of mapping, inf) = [LUCA, inf)

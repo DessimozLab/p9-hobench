@@ -1,0 +1,61 @@
+item_id	family	unit	kind	genes	species	original_id_in_paper	source	locator	node_id
+V07_Xenopus_LS.1.001	V07_Xenopus_LS	XL_ralyl	member	A0A8J1KYT2	XENLA	ralyl.L|Xelaev18032146m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10515	
+V07_Xenopus_LS.1.002	V07_Xenopus_LS	XL_ralyl	event	A0A8J1KYT2,A0A8J1L2T9	XENLA	ralyl.L|Xelaev18032146m,ralyl.S|Xelaev18033839m	Session2016	(none)	XL_ralyl_LS
+V07_Xenopus_LS.1.003	V07_Xenopus_LS	XL_bcorl1	member	A0A1L8F7G7	XENLA	bcorl1.L|Xelaev18038839m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 893	
+V07_Xenopus_LS.1.004	V07_Xenopus_LS	XL_bcorl1	event	A0A1L8F7G7,A0A1L8F2V5	XENLA	bcorl1.L|Xelaev18038839m,bcorl1.S|Xelaev18042166m	Session2016	(none)	XL_bcorl1_LS
+V07_Xenopus_LS.1.005	V07_Xenopus_LS	XL_sh3bp5l	member	Q5U584	XENLA	sh3bp5l.L|Xelaev18039111m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11266	
+V07_Xenopus_LS.1.006	V07_Xenopus_LS	XL_sh3bp5l	event	Q5U584,A0A1L8F3H4	XENLA	sh3bp5l.L|Xelaev18039111m,sh3bp5l.S|Xelaev18042407m	Session2016	(none)	XL_sh3bp5l_LS
+V07_Xenopus_LS.1.007	V07_Xenopus_LS	XL_fam26d-like	member	A0A1L8G958	XENLA	fam26d-like.L|Xelaev18027146m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3068	
+V07_Xenopus_LS.1.008	V07_Xenopus_LS	XL_fam26d-like	event	A0A1L8G958,A0A1L8G2Q6	XENLA	fam26d-like.L|Xelaev18027146m,fam26d-like.S|Xelaev18029234m	Session2016	(none)	XL_fam26d-like_LS
+V07_Xenopus_LS.1.009	V07_Xenopus_LS	XL_fam134a	member	A0A1L8EVP8	XENLA	fam134a.L|Xelaev18044491m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2994	
+V07_Xenopus_LS.1.010	V07_Xenopus_LS	XL_fam134a	event	A0A1L8EVP8,A0A1L8EP01	XENLA	fam134a.L|Xelaev18044491m,fam134a.S|Xelaev18047025m	Session2016	(none)	XL_fam134a_LS
+V07_Xenopus_LS.1.011	V07_Xenopus_LS	XL_elf5l	member	A0A803KEP3	XENTR	elf5l|Xetrov90019187m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2757	
+V07_Xenopus_LS.1.012	V07_Xenopus_LS	XL_elf5l	event	A0A1L8FN85,A0A1L8FGX7	XENLA	elf5l.L|Xelaev18036041m,elf5l.S|Xelaev18037774m	Session2016	(none)	XL_elf5l_LS
+V07_Xenopus_LS.1.013	V07_Xenopus_LS	XL_g6pc-like_1	member	A0A1L8EME0	XENLA	g6pc-like.1.S|Xelaev18046507m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3435	
+V07_Xenopus_LS.1.014	V07_Xenopus_LS	XL_g6pc-like_1	event	A0A8J0PTP8,A0A1L8EME0	XENLA	g6pc-like.1.L|Xelaev18043836m,g6pc-like.1.S|Xelaev18046507m	Session2016	(none)	XL_g6pc-like_1_LS
+V07_Xenopus_LS.1.015	V07_Xenopus_LS	XL_kiaa0319l	member	A0A6I8RX82	XENTR	kiaa0319l|Xetrov90004915m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4652	
+V07_Xenopus_LS.1.016	V07_Xenopus_LS	XL_kiaa0319l	event	A0A1L8HF89,A0A1L8H7L6	XENLA	kiaa0319l.L|Xelaev18012457m,kiaa0319l.S|Xelaev18015149m	Session2016	(none)	XL_kiaa0319l_LS
+V07_Xenopus_LS.1.017	V07_Xenopus_LS	XL_nceh1	member	A0A803J9B9	XENTR	nceh1|Xetrov90014343m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8969	
+V07_Xenopus_LS.1.018	V07_Xenopus_LS	XL_nceh1	event	A0A1L8GA66,A0A8J0Q5P0	XENLA	nceh1.L|Xelaev18027574m,nceh1.S|Xelaev18029702m	Session2016	(none)	XL_nceh1_LS
+V07_Xenopus_LS.1.019	V07_Xenopus_LS	XL_znf804a	member	A0A1L8EWH4	XENLA	znf804a.L|Xelaev18044796m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15575	
+V07_Xenopus_LS.1.020	V07_Xenopus_LS	XL_znf804a	event	A0A1L8EWH4,A0A1L8EPH9	XENLA	znf804a.L|Xelaev18044796m,znf804a.S|Xelaev18047248m	Session2016	(none)	XL_znf804a_LS
+V07_Xenopus_LS.1.021	V07_Xenopus_LS	XL_apobec2	member	A0A8J0PEE9	XENTR	apobec2|Xetrov90004706m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 497	
+V07_Xenopus_LS.1.022	V07_Xenopus_LS	XL_apobec2	event	A0A8J0PXH0,A0A1L8H750	XENLA	apobec2.L|Xelaev18012189m,apobec2.S|Xelaev18014989m	Session2016	(none)	XL_apobec2_LS
+V07_Xenopus_LS.1.023	V07_Xenopus_LS	XL_b3galt6	member	A0A1L8FM74	XENLA	b3galt6.L|Xelaev18035664m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 804	
+V07_Xenopus_LS.1.024	V07_Xenopus_LS	XL_b3galt6	event	A0A1L8FM74,A0A1L8FG58	XENLA	b3galt6.L|Xelaev18035664m,b3galt6.S|Xelaev18037499m	Session2016	(none)	XL_b3galt6_LS
+V07_Xenopus_LS.1.025	V07_Xenopus_LS	XL_atp2a3	member	A0A8J0PLK8	XENTR	atp2a3|Xetrov90005675m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 729	
+V07_Xenopus_LS.1.026	V07_Xenopus_LS	XL_atp2a3	event	A0A8J0Q1Q1,A0A1L8H8B2	XENLA	atp2a3.L|Xelaev18012809m,atp2a3.S|Xelaev18015399m	Session2016	(none)	XL_atp2a3_LS
+V07_Xenopus_LS.1.027	V07_Xenopus_LS	XL_fgfbp2	member	A0A1L8HTI9	XENLA	fgfbp2.L|Xelaev18005148m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3237	
+V07_Xenopus_LS.1.028	V07_Xenopus_LS	XL_fgfbp2	event	A0A1L8HTI9,A0A1L8HKV8	XENLA	fgfbp2.L|Xelaev18005148m,fgfbp2.S|Xelaev18008947m	Session2016	(none)	XL_fgfbp2_LS
+V07_Xenopus_LS.1.029	V07_Xenopus_LS	XL_ankrd22	member	A0A8J0Q9S5	XENTR	ankrd22|Xetrov90017446m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 403	
+V07_Xenopus_LS.1.030	V07_Xenopus_LS	XL_ankrd22	event	A0A1L8FIH6,A0A1L8FE20	XENLA	ankrd22.L|Xelaev18034368m,ankrd22.S|Xelaev18036760m	Session2016	(none)	XL_ankrd22_LS
+V07_Xenopus_LS.1.031	V07_Xenopus_LS	XL_LOC101734256	member	A0A1L8GAW2	XENLA	LOC101734256.L|Xelaev18027707m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 7777	
+V07_Xenopus_LS.1.032	V07_Xenopus_LS	XL_LOC101734256	event	A0A1L8GAW2,A0A1L8G4R5	XENLA	LOC101734256.L|Xelaev18027707m,LOC101734256.S|Xelaev18029798m	Session2016	(none)	XL_LOC101734256_LS
+V07_Xenopus_LS.1.033	V07_Xenopus_LS	XL_cyp26b1	member	A0A1L8HKG6	XENLA	cyp26b1.S|Xelaev18008772m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2161	
+V07_Xenopus_LS.1.034	V07_Xenopus_LS	XL_cyp26b1	event	A0A1L8HSP0,A0A1L8HKG6	XENLA	cyp26b1.L|Xelaev18004868m,cyp26b1.S|Xelaev18008772m	Session2016	(none)	XL_cyp26b1_LS
+V07_Xenopus_LS.1.035	V07_Xenopus_LS	XL_guca1c	member	A0A1L8H783	XENLA	guca1c.S|Xelaev18015025m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3905	
+V07_Xenopus_LS.1.036	V07_Xenopus_LS	XL_guca1c	event	A0A1L8HEM6,A0A1L8H783	XENLA	guca1c.L|Xelaev18012153m,guca1c.S|Xelaev18015025m	Session2016	(none)	XL_guca1c_LS
+V07_Xenopus_LS.1.037	V07_Xenopus_LS	XL_Xetrov90016672m	member	A0A1L8FSR7	XENLA	Xetrov90016672m.S|Xelaev18033631m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 13405	
+V07_Xenopus_LS.1.038	V07_Xenopus_LS	XL_Xetrov90016672m	event	A0A8J0PS28,A0A1L8FSR7	XENLA	Xetrov90016672m.L|Xelaev18031888m,Xetrov90016672m.S|Xelaev18033631m	Session2016	(none)	XL_Xetrov90016672m_LS
+V07_Xenopus_LS.1.039	V07_Xenopus_LS	XL_sh3glb1	member	A0A8J0PGU0	XENTR	sh3glb1|Xetrov90012108m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11270	
+V07_Xenopus_LS.1.040	V07_Xenopus_LS	XL_sh3glb1	event	A0A1L8GN13,A0A8J1N0I5	XENLA	sh3glb1.L|Xelaev18023365m,sh3glb1.S|Xelaev18025421m	Session2016	(none)	XL_sh3glb1_LS
+V07_Xenopus_LS.1.041	V07_Xenopus_LS	XL_bri3	member	A0A1L8EXX8	XENLA	bri3.L|Xelaev18045293m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 981	
+V07_Xenopus_LS.1.042	V07_Xenopus_LS	XL_bri3	event	A0A1L8EXX8,A0A1L8EQH3	XENLA	bri3.L|Xelaev18045293m,bri3.S|Xelaev18047599m	Session2016	(none)	XL_bri3_LS
+V07_Xenopus_LS.1.043	V07_Xenopus_LS	XL_foxq1	member	A0A1L8FSB6	XENLA	foxq1.S|Xelaev18033434m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3360	
+V07_Xenopus_LS.1.044	V07_Xenopus_LS	XL_foxq1	event	A0A1L8FXS2,A0A1L8FSB6	XENLA	foxq1.L|Xelaev18031571m,foxq1.S|Xelaev18033434m	Session2016	(none)	XL_foxq1_LS
+V07_Xenopus_LS.1.045	V07_Xenopus_LS	XL_otx1	member	A0A8J1KS03	XENLA	otx1.S|Xelaev18028484m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9469	
+V07_Xenopus_LS.1.046	V07_Xenopus_LS	XL_otx1	event	A0A8J0PR94,A0A8J1KS03	XENLA	otx1.L|Xelaev18026512m,otx1.S|Xelaev18028484m	Session2016	(none)	XL_otx1_LS
+V07_Xenopus_LS.1.047	V07_Xenopus_LS	XL_znf106	member	A0A1L8EZN3	XENLA	znf106.S|Xelaev18041051m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15506	
+V07_Xenopus_LS.1.048	V07_Xenopus_LS	XL_znf106	event	A0A8J0TD69,A0A1L8EZN3	XENLA	znf106.L|Xelaev18039929m,znf106.S|Xelaev18041051m	Session2016	(none)	XL_znf106_LS
+V07_Xenopus_LS.1.049	V07_Xenopus_LS	XL_rpn1	member	A0A8J0PSG2	XENLA	rpn1.L|Xelaev18023999m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10893	
+V07_Xenopus_LS.1.050	V07_Xenopus_LS	XL_rpn1	event	A0A8J0PSG2,A0A8J1QU56	XENLA	rpn1.L|Xelaev18023999m,rpn1.S|Xelaev18025907m	Session2016	(none)	XL_rpn1_LS
+V07_Xenopus_LS.1.051	V07_Xenopus_LS	XL_trap1-like	member	A0A1L8EYC8	XENLA	trap1-like.L|Xelaev18045445m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12694	
+V07_Xenopus_LS.1.052	V07_Xenopus_LS	XL_trap1-like	event	A0A1L8EYC8,A0A1L8EQP6	XENLA	trap1-like.L|Xelaev18045445m,trap1-like.S|Xelaev18047705m	Session2016	(none)	XL_trap1-like_LS
+V07_Xenopus_LS.1.053	V07_Xenopus_LS	XL_rad54l2	member	A0A1L8GPA6	XENLA	rad54l2.L|Xelaev18023844m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10500	
+V07_Xenopus_LS.1.054	V07_Xenopus_LS	XL_rad54l2	event	A0A1L8GPA6,A0A1L8GHC3	XENLA	rad54l2.L|Xelaev18023844m,rad54l2.S|Xelaev18025786m	Session2016	(none)	XL_rad54l2_LS
+V07_Xenopus_LS.1.055	V07_Xenopus_LS	XL_rai2	member	F6YNP7	XENTR	rai2|Xetrov90005585m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10507	
+V07_Xenopus_LS.1.056	V07_Xenopus_LS	XL_rai2	event	A0A1L8HG16,A0A1L8H8E4	XENLA	rai2.L|Xelaev18012714m,rai2.S|Xelaev18015337m	Session2016	(none)	XL_rai2_LS
+V07_Xenopus_LS.1.057	V07_Xenopus_LS	XL_ghsr	member	F6ZEU0	XENTR	ghsr|Xetrov90014341m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3587	
+V07_Xenopus_LS.1.058	V07_Xenopus_LS	XL_ghsr	event	A0A8J0V8T1,A0A8J0VG48	XENLA	ghsr.L|Xelaev18027577m,ghsr.S|Xelaev18029704m	Session2016	(none)	XL_ghsr_LS
+V07_Xenopus_LS.1.059	V07_Xenopus_LS	XL_shisa2	member	A0A6I8S9Q8	XENTR	shisa2|Xetrov90006733m	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11288	
+V07_Xenopus_LS.1.060	V07_Xenopus_LS	XL_shisa2	event	Q2WFL8,A0A1L8HAQ7	XENLA	shisa2.L|Xelaev18013772m,shisa2.S|Xelaev18016220m	Session2016	(none)	XL_shisa2_LS

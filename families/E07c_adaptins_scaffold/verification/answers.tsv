@@ -1,0 +1,32 @@
+item_id	answer	evidence
+E07c_adaptins_scaffold.1.001	TTRAY1	fig3-data1.xlsx row 233 falls under section header 'TTRAY1' at row 217
+E07c_adaptins_scaffold.1.002	COPI ALPHA	fig3-data1.xlsx row 559 falls under section header 'COPI ALPHA' at row 536
+E07c_adaptins_scaffold.1.003	TTRAY2	fig3-data1.xlsx row 265 falls under section header 'TTRAY2' at row 261
+E07c_adaptins_scaffold.1.004	COPI BETA'	fig3-data1.xlsx row 644 falls under section header 'COPI BETA'' at row 604
+E07c_adaptins_scaffold.1.005	TTRAY1	fig3-data1.xlsx row 252 falls under section header 'TTRAY1' at row 217
+E07c_adaptins_scaffold.1.006	COPI ALPHA	fig3-data1.xlsx row 545 falls under section header 'COPI ALPHA' at row 536
+E07c_adaptins_scaffold.1.007	TTRAY2	fig3-data1.xlsx row 298 falls under section header 'TTRAY2' at row 261
+E07c_adaptins_scaffold.1.008	COPI BETA'	fig3-data1.xlsx row 639 falls under section header 'COPI BETA'' at row 604
+E07c_adaptins_scaffold.1.009	COPI ALPHA	fig3-data1.xlsx row 537 falls under section header 'COPI ALPHA' at row 536
+E07c_adaptins_scaffold.1.010	TTRAY2	fig3-data1.xlsx row 282 falls under section header 'TTRAY2' at row 261
+E07c_adaptins_scaffold.1.011	COPI BETA'	fig3-data1.xlsx row 616 falls under section header 'COPI BETA'' at row 604
+E07c_adaptins_scaffold.1.012	COPI ALPHA	fig3-data1.xlsx row 574 falls under section header 'COPI ALPHA' at row 536
+E07c_adaptins_scaffold.1.013	TTRAY2	fig3-data1.xlsx row 268 falls under section header 'TTRAY2' at row 261
+E07c_adaptins_scaffold.1.014	COPI BETA'	fig3-data1.xlsx row 613 falls under section header 'COPI BETA'' at row 604
+E07c_adaptins_scaffold.1.015	COPI ALPHA	fig3-data1.xlsx row 541 falls under section header 'COPI ALPHA' at row 536
+E07c_adaptins_scaffold.1.016	TTRAY2	fig3-data1.xlsx row 304 falls under section header 'TTRAY2' at row 261
+E07c_adaptins_scaffold.1.017	COPI BETA'	fig3-data1.xlsx row 659 falls under section header 'COPI BETA'' at row 604
+E07c_adaptins_scaffold.1.018	COPI ALPHA	fig3-data1.xlsx row 558 falls under section header 'COPI ALPHA' at row 536
+E07c_adaptins_scaffold.1.019	COPI BETA'	fig3-data1.xlsx row 611 falls under section header 'COPI BETA'' at row 604
+E07c_adaptins_scaffold.1.020	COPI ALPHA	fig3-data1.xlsx row 543 falls under section header 'COPI ALPHA' at row 536
+E07c_adaptins_scaffold.1.021	COPI BETA'	fig3-data1.xlsx row 605 falls under section header 'COPI BETA'' at row 604
+E07c_adaptins_scaffold.1.022	COPI ALPHA	fig3-data1.xlsx row 547 falls under section header 'COPI ALPHA' at row 536
+E07c_adaptins_scaffold.1.023	COPI BETA'	fig3-data1.xlsx row 643 falls under section header 'COPI BETA'' at row 604
+E07c_adaptins_scaffold.1.024	COPI ALPHA	fig3-data1.xlsx row 589 falls under section header 'COPI ALPHA' at row 536
+E07c_adaptins_scaffold.1.025	COPI BETA'	fig3-data1.xlsx row 614 falls under section header 'COPI BETA'' at row 604
+E07c_adaptins_scaffold.1.026	COPI ALPHA	fig3-data1.xlsx row 575 falls under section header 'COPI ALPHA' at row 536
+E07c_adaptins_scaffold.1.027	COPI BETA'	fig3-data1.xlsx row 626 falls under section header 'COPI BETA'' at row 604
+E07c_adaptins_scaffold.1.028	COPI ALPHA	fig3-data1.xlsx row 581 falls under section header 'COPI ALPHA' at row 536
+E07c_adaptins_scaffold.1.029	COPI BETA'	fig3-data1.xlsx row 651 falls under section header 'COPI BETA'' at row 604
+E07c_adaptins_scaffold.1.030	COPI ALPHA	fig3-data1.xlsx row 595 falls under section header 'COPI ALPHA' at row 536
+E07c_adaptins_scaffold.1.031	duplication prior to LECA: [Eukaryota, ABOVE_RANGE]	Hirst2014 Results: paralogues due to ancient duplications in TSET and COPI families, occurring prior to divergence of the LECA
