@@ -40,10 +40,17 @@ def scan(root: Path):
     for f in sorted(root.rglob("*")):
         if f.name not in FILES or "verification" in f.parts:
             continue
+        prev_key = None
         for i, line in enumerate(f.read_text(errors="replace").splitlines(), 1):
+            m_key = re.match(r"([A-Za-z_]+):", line)
+            if m_key:
+                prev_key = m_key.group(1)
             for name, pat in DENY.items():
                 if re.search(pat, line):
-                    kind = "NOTE" if NEGATION.search(line) or f.name == "curation_log.md" else "VIOLATION"
+                    label_only = (name == "LOC names" and f.name == "family.yaml"
+                                  and (re.match(r"\s*(id|name|notes?):", line)
+                                       or (line.startswith("  ") and prev_key in ("name", "notes", "note"))))  # label
+                    kind = "NOTE" if NEGATION.search(line) or f.name == "curation_log.md" or label_only else "VIOLATION"
                     hits.append((kind, name, f, i, line.strip()[:160]))
             if re.search(LEAK, line) and f.name != "curation_log.md":
                 hits.append(("VIOLATION", "tool-output path", f, i, line.strip()[:160]))

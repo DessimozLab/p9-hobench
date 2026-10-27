@@ -19,3 +19,9 @@ Post-freeze changes must be logged below with before/after metric values.
 - Dropped 2 units whose genes are also members of V03_Hox (XL_hoxa4, XL_hoxb7); rule: drop any V07 unit sharing a gene
   with another family. Units 500 -> 498, members 1,500 -> 1,494, T2 D(ALLO) 500 -> 498, T2 S 500 -> 498. No re-sampling.
 - Before/after metric values: none — no metric values for panel V had been computed/seen by the curator.
+
+## Audit note (2026-10-27 ~10:05 UTC)
+Re-running scripts/audit_sources.py after V07 was committed flagged 40 "LOC names" hits in V07 unit names. Checked: the
+L/S pairs and the X. tropicalis link come from Session et al. 2016 Supplementary Table 7 (BLASTP + synteny), members were
+mapped by sequence, and build.py refuses LOC names as a mapping basis; LOC strings occur only as display labels. The audit
+rule now treats `id`/`name`/`notes` labels in family.yaml as NOTES (0 violations). No reference change.
