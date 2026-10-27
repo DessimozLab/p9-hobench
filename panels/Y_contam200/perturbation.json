@@ -1,0 +1,1471 @@
+{
+ "perturbation": "contaminate",
+ "parent_panel": "Y",
+ "seed": 20261026,
+ "created": "2026-10-27T08:51:02+0100",
+ "git_commit": "3d57541b0e158aa0c9196852f0dd7205604d938c",
+ "argv": [
+  "/scratch/nromashc/agentic-ai/workspaces/mywork/wrapper/perturb.py",
+  "contaminate",
+  "--panel",
+  "Y",
+  "--name",
+  "contam200",
+  "--target",
+  "KLULA",
+  "--source-fasta",
+  "data/proteomes/UP000005640_9606/proteome.fasta",
+  "--source-label",
+  "HUMAN",
+  "--n",
+  "200",
+  "--ids",
+  "panels/Y/robustness_contaminant200_ids.txt"
+ ],
+ "parent_tree_sha256": "35f3d1c80fe1ee4fa800fe0bb21e1d14dbdd92f59426b098e329c765c881a8be",
+ "parent_proteomes": {
+  "YEAST": "c49db6bd876d19153623b9bed283c3f98b1346cf4ff33f79d69cb46189e83f7b",
+  "CANGA": "18e7f62dd85e30abdedde880567cc9c00bc71587b45650be5157de26e4bddfd9",
+  "NAUCC": "fdf197c7bc143a3fd170b8761ab1ca2c8ca98d0aca6391c9a1c4e4edac80aba5",
+  "NAUDC": "ddd26b6a6e833748c0373ac9ee26d6e9efe05e6a77f5e943c3418b06d7b6282e",
+  "KAZAF": "4f75554dbb7c17408cb7d44b97d9674a5035290b103a3ccfe8911bbcc18c1698",
+  "VANPO": "ee5233df19eceffbe8e9265b5d862ca459c5f59614429a39d1afed1efd338ae6",
+  "TETPH": "a68c57cb84a1890fd892a247daacf787ace7a3b90bf58e99746c11486df2bc84",
+  "ZYGRC": "405d12b44951ce4525e0113b6a55e0f253bcadbb353824d8e20d8fbee08beb31",
+  "TORDC": "41510b70e9524f909521ccf10e2fe96dfb28b780a7856ac30fba2e315d5fdd66",
+  "LACTH": "ba12569bf4cdfff4fe50ce1ce9563e22a2ceee7ba72cb8dfee222095d1cb2665",
+  "KLULA": "496e43947d708e767574fbb6a4c8d72ed3d7876cba65a897d5a1528337ab2495",
+  "ASHGO": "d557574d6b44d7548b510d340603e9e311bdd906251e8792aed500455c1f1d7f",
+  "ERECY": "329c0e2f3c6789afb6eebae8253efde003f7180d0e0e69d868203366a9af9fa6",
+  "CANAL": "1d7da6232b6c70c2e1ca7a0ddaec7b406be3dfa1f58f8889f5784ee43de9d692",
+  "YARLI": "aae963947acb8abb74568eda1139a13dbd18bd41cc6e6f39723138c7835b4208",
+  "SCHPO": "06c9bd5a09be5c76f9305141a34df73befd435a470e20609ae47df8088b80884"
+ },
+ "target": "KLULA",
+ "source_fasta": "data/proteomes/UP000005640_9606/proteome.fasta",
+ "source_sha256": "cba78f1201ebd63decc2a1620d08dc73a16d25291a4f2a6073504556edfcafcc",
+ "source_label": "HUMAN",
+ "n_requested": 200,
+ "n_inserted": 200,
+ "changes": [
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_A0A3B3IRV3",
+   "source_id": "A0A3B3IRV3",
+   "source_header": "A0A3B3IRV3",
+   "len": 181
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_A0A499FJF3",
+   "source_id": "A0A499FJF3",
+   "source_header": "A0A499FJF3",
+   "len": 267
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_A6NNY8",
+   "source_id": "A6NNY8",
+   "source_header": "A6NNY8",
+   "len": 438
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O00743",
+   "source_id": "O00743",
+   "source_header": "O00743",
+   "len": 305
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O00764",
+   "source_id": "O00764",
+   "source_header": "O00764",
+   "len": 312
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O14986",
+   "source_id": "O14986",
+   "source_header": "O14986",
+   "len": 540
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O15194",
+   "source_id": "O15194",
+   "source_header": "O15194",
+   "len": 276
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O15381",
+   "source_id": "O15381",
+   "source_header": "O15381",
+   "len": 856
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O15431",
+   "source_id": "O15431",
+   "source_header": "O15431",
+   "len": 190
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O15514",
+   "source_id": "O15514",
+   "source_header": "O15514",
+   "len": 142
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O43242",
+   "source_id": "O43242",
+   "source_header": "O43242",
+   "len": 534
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O43246",
+   "source_id": "O43246",
+   "source_header": "O43246",
+   "len": 635
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O43543",
+   "source_id": "O43543",
+   "source_header": "O43543",
+   "len": 280
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O60645",
+   "source_id": "O60645",
+   "source_header": "O60645",
+   "len": 745
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O60683",
+   "source_id": "O60683",
+   "source_header": "O60683",
+   "len": 326
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O60729",
+   "source_id": "O60729",
+   "source_header": "O60729",
+   "len": 498
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O60825",
+   "source_id": "O60825",
+   "source_header": "O60825",
+   "len": 505
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O75140",
+   "source_id": "O75140",
+   "source_header": "O75140",
+   "len": 1603
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O75317",
+   "source_id": "O75317",
+   "source_header": "O75317",
+   "len": 370
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O75340",
+   "source_id": "O75340",
+   "source_header": "O75340",
+   "len": 191
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O75570",
+   "source_id": "O75570",
+   "source_header": "O75570",
+   "len": 445
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O75716",
+   "source_id": "O75716",
+   "source_header": "O75716",
+   "len": 305
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O75844",
+   "source_id": "O75844",
+   "source_header": "O75844",
+   "len": 475
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O75891",
+   "source_id": "O75891",
+   "source_header": "O75891",
+   "len": 902
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O94888",
+   "source_id": "O94888",
+   "source_header": "O94888",
+   "len": 489
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_O95249",
+   "source_id": "O95249",
+   "source_header": "O95249",
+   "len": 250
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P04181",
+   "source_id": "P04181",
+   "source_header": "P04181",
+   "len": 439
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P05387",
+   "source_id": "P05387",
+   "source_header": "P05387",
+   "len": 115
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P07339",
+   "source_id": "P07339",
+   "source_header": "P07339",
+   "len": 412
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P08243",
+   "source_id": "P08243",
+   "source_header": "P08243",
+   "len": 561
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P09110",
+   "source_id": "P09110",
+   "source_header": "P09110",
+   "len": 424
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P09622",
+   "source_id": "P09622",
+   "source_header": "P09622",
+   "len": 509
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P09923",
+   "source_id": "P09923",
+   "source_header": "P09923",
+   "len": 528
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P0C0E4",
+   "source_id": "P0C0E4",
+   "source_header": "P0C0E4",
+   "len": 278
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P0C0S5",
+   "source_id": "P0C0S5",
+   "source_header": "P0C0S5",
+   "len": 128
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P0C0S8",
+   "source_id": "P0C0S8",
+   "source_header": "P0C0S8",
+   "len": 130
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P0C5J1",
+   "source_id": "P0C5J1",
+   "source_header": "P0C5J1",
+   "len": 330
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P11801",
+   "source_id": "P11801",
+   "source_header": "P11801",
+   "len": 424
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P17812",
+   "source_id": "P17812",
+   "source_header": "P17812",
+   "len": 591
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P19105",
+   "source_id": "P19105",
+   "source_header": "P19105",
+   "len": 171
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P20585",
+   "source_id": "P20585",
+   "source_header": "P20585",
+   "len": 1137
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P20671",
+   "source_id": "P20671",
+   "source_header": "P20671",
+   "len": 130
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P21108",
+   "source_id": "P21108",
+   "source_header": "P21108",
+   "len": 318
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P22307",
+   "source_id": "P22307",
+   "source_header": "P22307",
+   "len": 547
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P24844",
+   "source_id": "P24844",
+   "source_header": "P24844",
+   "len": 172
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P25098",
+   "source_id": "P25098",
+   "source_header": "P25098",
+   "len": 689
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P25788",
+   "source_id": "P25788",
+   "source_header": "P25788",
+   "len": 255
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P25874",
+   "source_id": "P25874",
+   "source_header": "P25874",
+   "len": 307
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P27037",
+   "source_id": "P27037",
+   "source_header": "P27037",
+   "len": 513
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P27361",
+   "source_id": "P27361",
+   "source_header": "P27361",
+   "len": 379
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P30405",
+   "source_id": "P30405",
+   "source_header": "P30405",
+   "len": 207
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P30793",
+   "source_id": "P30793",
+   "source_header": "P30793",
+   "len": 250
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P31513",
+   "source_id": "P31513",
+   "source_header": "P31513",
+   "len": 532
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P32298",
+   "source_id": "P32298",
+   "source_header": "P32298",
+   "len": 578
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P33897",
+   "source_id": "P33897",
+   "source_header": "P33897",
+   "len": 745
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P35232",
+   "source_id": "P35232",
+   "source_header": "P35232",
+   "len": 272
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P37235",
+   "source_id": "P37235",
+   "source_header": "P37235",
+   "len": 193
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P38919",
+   "source_id": "P38919",
+   "source_header": "P38919",
+   "len": 411
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P40937",
+   "source_id": "P40937",
+   "source_header": "P40937",
+   "len": 340
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P41091",
+   "source_id": "P41091",
+   "source_header": "P41091",
+   "len": 472
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P42330",
+   "source_id": "P42330",
+   "source_header": "P42330",
+   "len": 323
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P47756",
+   "source_id": "P47756",
+   "source_header": "P47756",
+   "len": 272
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P48449",
+   "source_id": "P48449",
+   "source_header": "P48449",
+   "len": 732
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P48723",
+   "source_id": "P48723",
+   "source_header": "P48723",
+   "len": 471
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P49336",
+   "source_id": "P49336",
+   "source_header": "P49336",
+   "len": 464
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P49368",
+   "source_id": "P49368",
+   "source_header": "P49368",
+   "len": 545
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P49459",
+   "source_id": "P49459",
+   "source_header": "P49459",
+   "len": 152
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P51798",
+   "source_id": "P51798",
+   "source_header": "P51798",
+   "len": 805
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P53384",
+   "source_id": "P53384",
+   "source_header": "P53384",
+   "len": 320
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P53675",
+   "source_id": "P53675",
+   "source_header": "P53675",
+   "len": 1640
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P55042",
+   "source_id": "P55042",
+   "source_header": "P55042",
+   "len": 308
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P55786",
+   "source_id": "P55786",
+   "source_header": "P55786",
+   "len": 919
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P55851",
+   "source_id": "P55851",
+   "source_header": "P55851",
+   "len": 309
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P56192",
+   "source_id": "P56192",
+   "source_header": "P56192",
+   "len": 900
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P57053",
+   "source_id": "P57053",
+   "source_header": "P57053",
+   "len": 126
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P59796",
+   "source_id": "P59796",
+   "source_header": "P59796",
+   "len": 221
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P60520",
+   "source_id": "P60520",
+   "source_header": "P60520",
+   "len": 117
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P60842",
+   "source_id": "P60842",
+   "source_header": "P60842",
+   "len": 406
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P60866",
+   "source_id": "P60866",
+   "source_header": "P60866",
+   "len": 119
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P60900",
+   "source_id": "P60900",
+   "source_header": "P60900",
+   "len": 246
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P61026",
+   "source_id": "P61026",
+   "source_header": "P61026",
+   "len": 200
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P61970",
+   "source_id": "P61970",
+   "source_header": "P61970",
+   "len": 127
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P62241",
+   "source_id": "P62241",
+   "source_header": "P62241",
+   "len": 208
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P62314",
+   "source_id": "P62314",
+   "source_header": "P62314",
+   "len": 119
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P62333",
+   "source_id": "P62333",
+   "source_header": "P62333",
+   "len": 389
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P62913",
+   "source_id": "P62913",
+   "source_header": "P62913",
+   "len": 178
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P63151",
+   "source_id": "P63151",
+   "source_header": "P63151",
+   "len": 447
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P67775",
+   "source_id": "P67775",
+   "source_header": "P67775",
+   "len": 309
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P67812",
+   "source_id": "P67812",
+   "source_header": "P67812",
+   "len": 179
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P68133",
+   "source_id": "P68133",
+   "source_header": "P68133",
+   "len": 377
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_P78368",
+   "source_id": "P78368",
+   "source_header": "P78368",
+   "len": 415
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q00532",
+   "source_id": "Q00532",
+   "source_header": "Q00532",
+   "len": 357
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q01415",
+   "source_id": "Q01415",
+   "source_header": "Q01415",
+   "len": 458
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q01650",
+   "source_id": "Q01650",
+   "source_header": "Q01650",
+   "len": 507
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q07002",
+   "source_id": "Q07002",
+   "source_header": "Q07002",
+   "len": 474
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q08J23",
+   "source_id": "Q08J23",
+   "source_header": "Q08J23",
+   "len": 767
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q09028",
+   "source_id": "Q09028",
+   "source_header": "Q09028",
+   "len": 425
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q12982",
+   "source_id": "Q12982",
+   "source_header": "Q12982",
+   "len": 314
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q13547",
+   "source_id": "Q13547",
+   "source_header": "Q13547",
+   "len": 482
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q13636",
+   "source_id": "Q13636",
+   "source_header": "Q13636",
+   "len": 195
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q14088",
+   "source_id": "Q14088",
+   "source_header": "Q14088",
+   "len": 237
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q14680",
+   "source_id": "Q14680",
+   "source_header": "Q14680",
+   "len": 651
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q14807",
+   "source_id": "Q14807",
+   "source_header": "Q14807",
+   "len": 665
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q14964",
+   "source_id": "Q14964",
+   "source_header": "Q14964",
+   "len": 217
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q15067",
+   "source_id": "Q15067",
+   "source_header": "Q15067",
+   "len": 660
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q15274",
+   "source_id": "Q15274",
+   "source_header": "Q15274",
+   "len": 297
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q15438",
+   "source_id": "Q15438",
+   "source_header": "Q15438",
+   "len": 398
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q15669",
+   "source_id": "Q15669",
+   "source_header": "Q15669",
+   "len": 191
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q15819",
+   "source_id": "Q15819",
+   "source_header": "Q15819",
+   "len": 145
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q15833",
+   "source_id": "Q15833",
+   "source_header": "Q15833",
+   "len": 593
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q16566",
+   "source_id": "Q16566",
+   "source_header": "Q16566",
+   "len": 473
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q16654",
+   "source_id": "Q16654",
+   "source_header": "Q16654",
+   "len": 411
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q16659",
+   "source_id": "Q16659",
+   "source_header": "Q16659",
+   "len": 721
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q16777",
+   "source_id": "Q16777",
+   "source_header": "Q16777",
+   "len": 129
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q5JT25",
+   "source_id": "Q5JT25",
+   "source_header": "Q5JT25",
+   "len": 222
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q5RKV6",
+   "source_id": "Q5RKV6",
+   "source_header": "Q5RKV6",
+   "len": 272
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q5T2R2",
+   "source_id": "Q5T2R2",
+   "source_header": "Q5T2R2",
+   "len": 415
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q6NVV1",
+   "source_id": "Q6NVV1",
+   "source_header": "Q6NVV1",
+   "len": 102
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q6SA08",
+   "source_id": "Q6SA08",
+   "source_header": "Q6SA08",
+   "len": 328
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q70CQ3",
+   "source_id": "Q70CQ3",
+   "source_header": "Q70CQ3",
+   "len": 517
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q7L0Q8",
+   "source_id": "Q7L0Q8",
+   "source_header": "Q7L0Q8",
+   "len": 258
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q7L7V1",
+   "source_id": "Q7L7V1",
+   "source_header": "Q7L7V1",
+   "len": 743
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q86VQ6",
+   "source_id": "Q86VQ6",
+   "source_header": "Q86VQ6",
+   "len": 643
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q86VX9",
+   "source_id": "Q86VX9",
+   "source_header": "Q86VX9",
+   "len": 652
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q8IV04",
+   "source_id": "Q8IV04",
+   "source_header": "Q8IV04",
+   "len": 446
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q8IZ73",
+   "source_id": "Q8IZ73",
+   "source_header": "Q8IZ73",
+   "len": 545
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q8IZL9",
+   "source_id": "Q8IZL9",
+   "source_header": "Q8IZL9",
+   "len": 346
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q8N3Z3",
+   "source_id": "Q8N3Z3",
+   "source_header": "Q8N3Z3",
+   "len": 284
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q8N4S7",
+   "source_id": "Q8N4S7",
+   "source_header": "Q8N4S7",
+   "len": 273
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q8N8R3",
+   "source_id": "Q8N8R3",
+   "source_header": "Q8N8R3",
+   "len": 303
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q8NEJ0",
+   "source_id": "Q8NEJ0",
+   "source_header": "Q8NEJ0",
+   "len": 188
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q8NFU5",
+   "source_id": "Q8NFU5",
+   "source_header": "Q8NFU5",
+   "len": 416
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q8TAA3",
+   "source_id": "Q8TAA3",
+   "source_header": "Q8TAA3",
+   "len": 256
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q8TAM1",
+   "source_id": "Q8TAM1",
+   "source_header": "Q8TAM1",
+   "len": 723
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q8TF46",
+   "source_id": "Q8TF46",
+   "source_header": "Q8TF46",
+   "len": 1054
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q8WTU0",
+   "source_id": "Q8WTU0",
+   "source_header": "Q8WTU0",
+   "len": 396
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q8WXR4",
+   "source_id": "Q8WXR4",
+   "source_header": "Q8WXR4",
+   "len": 1341
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q92499",
+   "source_id": "Q92499",
+   "source_header": "Q92499",
+   "len": 740
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q92611",
+   "source_id": "Q92611",
+   "source_header": "Q92611",
+   "len": 657
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q92928",
+   "source_id": "Q92928",
+   "source_header": "Q92928",
+   "len": 201
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q969X6",
+   "source_id": "Q969X6",
+   "source_header": "Q969X6",
+   "len": 686
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q96BW1",
+   "source_id": "Q96BW1",
+   "source_header": "Q96BW1",
+   "len": 309
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q96D53",
+   "source_id": "Q96D53",
+   "source_header": "Q96D53",
+   "len": 544
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q96FX7",
+   "source_id": "Q96FX7",
+   "source_header": "Q96FX7",
+   "len": 289
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q96GE6",
+   "source_id": "Q96GE6",
+   "source_header": "Q96GE6",
+   "len": 196
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q96H78",
+   "source_id": "Q96H78",
+   "source_header": "Q96H78",
+   "len": 314
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q96NY9",
+   "source_id": "Q96NY9",
+   "source_header": "Q96NY9",
+   "len": 551
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q96PC3",
+   "source_id": "Q96PC3",
+   "source_header": "Q96PC3",
+   "len": 154
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q96S44",
+   "source_id": "Q96S44",
+   "source_header": "Q96S44",
+   "len": 253
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q96SF2",
+   "source_id": "Q96SF2",
+   "source_header": "Q96SF2",
+   "len": 557
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q96SU4",
+   "source_id": "Q96SU4",
+   "source_header": "Q96SU4",
+   "len": 736
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q99595",
+   "source_id": "Q99595",
+   "source_header": "Q99595",
+   "len": 171
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q99719",
+   "source_id": "Q99719",
+   "source_header": "Q99719",
+   "len": 369
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9BPX3",
+   "source_id": "Q9BPX3",
+   "source_header": "Q9BPX3",
+   "len": 1015
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9BV38",
+   "source_id": "Q9BV38",
+   "source_header": "Q9BV38",
+   "len": 432
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9BVA1",
+   "source_id": "Q9BVA1",
+   "source_header": "Q9BVA1",
+   "len": 445
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9BVK6",
+   "source_id": "Q9BVK6",
+   "source_header": "Q9BVK6",
+   "len": 235
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9BXA7",
+   "source_id": "Q9BXA7",
+   "source_header": "Q9BXA7",
+   "len": 367
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9BXB5",
+   "source_id": "Q9BXB5",
+   "source_header": "Q9BXB5",
+   "len": 764
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9BYD9",
+   "source_id": "Q9BYD9",
+   "source_header": "Q9BYD9",
+   "len": 372
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9BYX7",
+   "source_id": "Q9BYX7",
+   "source_header": "Q9BYX7",
+   "len": 375
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9BZQ6",
+   "source_id": "Q9BZQ6",
+   "source_header": "Q9BZQ6",
+   "len": 932
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9H0D6",
+   "source_id": "Q9H0D6",
+   "source_header": "Q9H0D6",
+   "len": 950
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9H115",
+   "source_id": "Q9H115",
+   "source_header": "Q9H115",
+   "len": 298
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9H221",
+   "source_id": "Q9H221",
+   "source_header": "Q9H221",
+   "len": 673
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9H2U2",
+   "source_id": "Q9H2U2",
+   "source_header": "Q9H2U2",
+   "len": 334
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9H361",
+   "source_id": "Q9H361",
+   "source_header": "Q9H361",
+   "len": 631
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9H4G8",
+   "source_id": "Q9H4G8",
+   "source_header": "Q9H4G8",
+   "len": 78
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9H5Z1",
+   "source_id": "Q9H5Z1",
+   "source_header": "Q9H5Z1",
+   "len": 703
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9HAB8",
+   "source_id": "Q9HAB8",
+   "source_header": "Q9HAB8",
+   "len": 311
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9HAZ1",
+   "source_id": "Q9HAZ1",
+   "source_header": "Q9HAZ1",
+   "len": 481
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9HCG8",
+   "source_id": "Q9HCG8",
+   "source_header": "Q9HCG8",
+   "len": 908
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9HCS7",
+   "source_id": "Q9HCS7",
+   "source_header": "Q9HCS7",
+   "len": 855
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9NR20",
+   "source_id": "Q9NR20",
+   "source_header": "Q9NR20",
+   "len": 520
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9NUD9",
+   "source_id": "Q9NUD9",
+   "source_header": "Q9NUD9",
+   "len": 493
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9NUL7",
+   "source_id": "Q9NUL7",
+   "source_header": "Q9NUL7",
+   "len": 540
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9NWZ3",
+   "source_id": "Q9NWZ3",
+   "source_header": "Q9NWZ3",
+   "len": 460
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9NX07",
+   "source_id": "Q9NX07",
+   "source_header": "Q9NX07",
+   "len": 287
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9NXD2",
+   "source_id": "Q9NXD2",
+   "source_header": "Q9NXD2",
+   "len": 777
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9NY65",
+   "source_id": "Q9NY65",
+   "source_header": "Q9NY65",
+   "len": 449
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9UGI9",
+   "source_id": "Q9UGI9",
+   "source_header": "Q9UGI9",
+   "len": 489
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9UGJ0",
+   "source_id": "Q9UGJ0",
+   "source_header": "Q9UGJ0",
+   "len": 569
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9UHD2",
+   "source_id": "Q9UHD2",
+   "source_header": "Q9UHD2",
+   "len": 729
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9UIK4",
+   "source_id": "Q9UIK4",
+   "source_header": "Q9UIK4",
+   "len": 370
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9UK59",
+   "source_id": "Q9UK59",
+   "source_header": "Q9UK59",
+   "len": 544
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9UKU0",
+   "source_id": "Q9UKU0",
+   "source_header": "Q9UKU0",
+   "len": 697
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9UL25",
+   "source_id": "Q9UL25",
+   "source_header": "Q9UL25",
+   "len": 225
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9ULC4",
+   "source_id": "Q9ULC4",
+   "source_header": "Q9ULC4",
+   "len": 181
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9UNM6",
+   "source_id": "Q9UNM6",
+   "source_header": "Q9UNM6",
+   "len": 376
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9UQ90",
+   "source_id": "Q9UQ90",
+   "source_header": "Q9UQ90",
+   "len": 795
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9Y296",
+   "source_id": "Q9Y296",
+   "source_header": "Q9Y296",
+   "len": 219
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9Y333",
+   "source_id": "Q9Y333",
+   "source_header": "Q9Y333",
+   "len": 95
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9Y4A5",
+   "source_id": "Q9Y4A5",
+   "source_header": "Q9Y4A5",
+   "len": 3859
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9Y570",
+   "source_id": "Q9Y570",
+   "source_header": "Q9Y570",
+   "len": 386
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9Y572",
+   "source_id": "Q9Y572",
+   "source_header": "Q9Y572",
+   "len": 518
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9Y5B9",
+   "source_id": "Q9Y5B9",
+   "source_header": "Q9Y5B9",
+   "len": 1047
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9Y5K5",
+   "source_id": "Q9Y5K5",
+   "source_header": "Q9Y5K5",
+   "len": 329
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9Y5K8",
+   "source_id": "Q9Y5K8",
+   "source_header": "Q9Y5K8",
+   "len": 247
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9Y5U8",
+   "source_id": "Q9Y5U8",
+   "source_header": "Q9Y5U8",
+   "len": 109
+  },
+  {
+   "species": "KLULA",
+   "new_id": "CONTAM_HUMAN_Q9Y6D6",
+   "source_id": "Q9Y6D6",
+   "source_header": "Q9Y6D6",
+   "len": 1849
+  }
+ ],
+ "proteomes": {
+  "ASHGO": "d557574d6b44d7548b510d340603e9e311bdd906251e8792aed500455c1f1d7f",
+  "CANAL": "1d7da6232b6c70c2e1ca7a0ddaec7b406be3dfa1f58f8889f5784ee43de9d692",
+  "CANGA": "18e7f62dd85e30abdedde880567cc9c00bc71587b45650be5157de26e4bddfd9",
+  "ERECY": "329c0e2f3c6789afb6eebae8253efde003f7180d0e0e69d868203366a9af9fa6",
+  "KAZAF": "4f75554dbb7c17408cb7d44b97d9674a5035290b103a3ccfe8911bbcc18c1698",
+  "KLULA": "b42db983ca2aaac624dcaa24e30c72d2190e25b6896658f802bb87d3277d6c2d",
+  "LACTH": "ba12569bf4cdfff4fe50ce1ce9563e22a2ceee7ba72cb8dfee222095d1cb2665",
+  "NAUCC": "fdf197c7bc143a3fd170b8761ab1ca2c8ca98d0aca6391c9a1c4e4edac80aba5",
+  "NAUDC": "ddd26b6a6e833748c0373ac9ee26d6e9efe05e6a77f5e943c3418b06d7b6282e",
+  "SCHPO": "06c9bd5a09be5c76f9305141a34df73befd435a470e20609ae47df8088b80884",
+  "TETPH": "a68c57cb84a1890fd892a247daacf787ace7a3b90bf58e99746c11486df2bc84",
+  "TORDC": "41510b70e9524f909521ccf10e2fe96dfb28b780a7856ac30fba2e315d5fdd66",
+  "VANPO": "ee5233df19eceffbe8e9265b5d862ca459c5f59614429a39d1afed1efd338ae6",
+  "YARLI": "aae963947acb8abb74568eda1139a13dbd18bd41cc6e6f39723138c7835b4208",
+  "YEAST": "c49db6bd876d19153623b9bed283c3f98b1346cf4ff33f79d69cb46189e83f7b",
+  "ZYGRC": "405d12b44951ce4525e0113b6a55e0f253bcadbb353824d8e20d8fbee08beb31"
+ },
+ "species_tree_sha256": "35f3d1c80fe1ee4fa800fe0bb21e1d14dbdd92f59426b098e329c765c881a8be"
+}

@@ -179,13 +179,15 @@ def main():
     ap.add_argument("--pert", required=True, choices=["frag", "contam", "taxrm", "alttree"])
     ap.add_argument("--run", nargs="*", default=None, help="run dir names (default: all done runs in runs/Y_<pert>/full)")
     ap.add_argument("--cache", default="/tmp/hobench_eval_cache")
+    ap.add_argument("--name", default=None, help="panel/run suffix if not equal to --pert (e.g. contam200)")
     a = ap.parse_args()
     pert = a.pert
-    rdir = ROOT / "runs" / f"Y_{pert}" / "full"
-    pdir = ROOT / "panels" / f"Y_{pert}"
+    pname = a.name or pert
+    rdir = ROOT / "runs" / f"Y_{pname}" / "full"
+    pdir = ROOT / "panels" / f"Y_{pname}"
     pj = json.loads((pdir / "perturbation.json").read_text())
     out_rob = ROOT / "results" / "robustness"; out_rob.mkdir(parents=True, exist_ok=True)
-    out_dir = ROOT / "results" / f"Y_{pert}_full"; out_dir.mkdir(parents=True, exist_ok=True)
+    out_dir = ROOT / "results" / f"Y_{pname}_full"; out_dir.mkdir(parents=True, exist_ok=True)
 
     st = SpeciesTree.from_newick(str(ROOT / "panels" / "Y" / "species_tree.nwk"))
     st_p = SpeciesTree.from_newick(str(pdir / "species_tree.nwk"))
@@ -332,7 +334,7 @@ def main():
                         rows.append(base + [lab, fmt(c_), fmt(p_), fmt(d), na if "aff" in lab and "un" not in lab else nu, ""])
                         if d is not None and tk[fid] != "control":
                             acc[(credit, lab)].append(d)
-            with open(out_rob / f"{pert}_{name}.tsv", "w", newline="") as fh:
+            with open(out_rob / f"{pname}_{name}.tsv", "w", newline="") as fh:
                 w = csv.writer(fh, delimiter="\t", lineterminator="\n")
                 w.writerow(["family", "track", "headline", "pert", "tool", "variant", "credit", "metric", "clean", "perturbed",
                             "delta", "n_genes", "note"])
