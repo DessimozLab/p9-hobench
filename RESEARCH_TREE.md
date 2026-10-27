@@ -14,8 +14,11 @@ directions; FastOMA over-splits vertebrate homeologs/3R and over-merges ancient 
 dominant robustness threat (FastOMA more sensitive); contamination/alt-tree/taxon removal negligible; OF DendroBLAST best
 pooled on merge/event metrics. REPORT.md written and independently fact-checked (corrections applied).
 
-Follow-up running: stronger contamination (200 human homologs into K. lactis): OrthoFinder unaffected (Δ ≤ 0.0004 on 99
-touched units); FastOMA pending.
+Follow-ups done: stronger contamination (200 human homologs into K. lactis): both tools' reference relations unaffected
+(|Δ| ≤ 0.001 on ~100 touched units) although ~half the contaminants are absorbed into reference HOGs as spurious
+paralogs; FastOMA replicate: not bit-reproducible (2% of YGOB units differ; mean |Δ| merge acc 0.004) — its small
+robustness deltas are within noise, fragmentation deltas are not. Final audit re-run: 0 violations (LOC display labels
+in V07 checked and reclassified as notes). Project closed at T+20h35; remaining ideas in REPORT §7.
 
 ### M6 — All runs complete; final scoring (T+18h, 07:20 UTC)
 Third account-limit outage (~02:55→07:15 UTC) killed the SwissTree extension (dropped; partial files in families_ext/
@@ -124,6 +127,7 @@ Git repo initialised. Next: parallel literature survey (benchmarks/metrics; cand
 - D9 (T+10h30): Freeze now (earlier than T+12) because all launched curation finished; V01 FAIL → secondary (no re-curation; budget).
 - D10 (T+10h30): Keep compressed tool outputs in git (≤20 MB/run) despite audit suggestion — brief requires results in git; metrics reproducible without re-running tools.
 - D11 (T+18h): Drop SwissTree extension (third outage; <5 h left); PI runs scoring scripts directly to save agent budget.
-  - [x] 7a. Robustness E2 on Y (frag, contam, alttree, taxrm); [~] 7b. follow-up contam200
+  - [x] 7a. Robustness E2 on Y (frag, contam, alttree, taxrm); [x] 7b. follow-up contam200; [x] 7c. FastOMA replicate noise floor
   - [-] SwissTree extension (abandoned after third outage); [-] salmonid 4R, MADS, kinome, PolB, GAPDH-EGT (see results/catalogue/abandoned.md)
   - [!] Key findings: hidden-paralogy trap; opposite WGD failure modes; FastOMA homeolog over-splitting; fragmentation sensitivity
+- D12 (T+20h): Stop here: all pre-registered experiments and two cheap follow-ups done; further ideas (SwissTree, salmonids, more tools, full-proteome V/E/P) exceed remaining time/budget → REPORT §7.
