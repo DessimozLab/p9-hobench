@@ -32,7 +32,8 @@ histories asserted in the literature, rather than against flat orthogroups or pa
   (iv) FastOMA over-splits vertebrate homeologs/3R paralogs (Hox 2R/3R events: 8–9% recovered vs 77–82% for OrthoFinder)
   and over-merges duplication pairs on the eukaryote panel (24.4% of D-pairs, mostly at Eukaryota). (v) Annotation fragmentation is the dominant robustness
   threat (FastOMA merge accuracy −0.114 vs OrthoFinder −0.050 when both fragments must be placed correctly); contamination,
-  a species-tree change at a contested node, and outgroup removal change primary endpoints by ≤0.005. (vi) OrthoFinder's
+  a species-tree change at a contested node, and outgroup removal change primary endpoints by ≤0.005 (even with 200
+  contaminants, ~half of which both tools absorb into reference HOGs as spurious paralogs). (vi) OrthoFinder's
   DendroBLAST mode has the best pooled merge accuracy (0.886) and event recovery (0.617) of three methods (not on every
   panel: on V it is below OrthoFinder default). (vii) We found no significant association between family difficulty
   and tool agreement (ρ = −0.41, p = 0.19, n = 12).
@@ -184,11 +185,19 @@ nonzero deltas are attributable to the perturbation (FastOMA was not replicated)
 | Fragmentation of 10% of members (2,615 genes → 2 pieces), credit "both fragments" | −0.050 [−0.057, −0.044] | −0.114 [−0.122, −0.106] | affected genes lose ~25–28% correctness |
 | Fragmentation, credit "either fragment" (pre-registered primary rule) | −0.003 [−0.008, +0.002] | −0.024 | FastOMA's *unaffected* genes also degrade (−0.015) |
 | Contamination (20 human proteins into *K. lactis*) | +0.000 | −0.000 | only 8–13 units touched |
+| Contamination, follow-up (200 human homologs of Y members into *K. lactis*) | +0.0004 [−0.0003, +0.0012] | −0.0010 [−0.0036, +0.0015] | 99–105 units touched; see below |
 | Alternative species tree (1 contested node) | −0.001 | −0.004 | level F1 −0.003 both |
 | Taxon removal (ZT clade: 2 pre-WGD species) | +0.001 | −0.003 | — |
+Contaminant fate (follow-up, `results/Y_contam200_full/contaminant_placement_*.tsv`): 107/200 (FastOMA) and 103/200
+(OrthoFinder) contaminants were placed in a HOG together with yeast reference genes — FastOMA mostly at
+Saccharomycetaceae (119 placements at that level; i.e. as a deep paralog), OrthoFinder mostly at the shallow
+Kluyveromyces–Eremothecium level (79; i.e. as a recent in-paralog). Neither tool isolates foreign sequences, but
+the relations among the genuine reference genes are unaffected; contamination therefore shows up as spurious
+lineage-specific duplications rather than as broken orthology — detectable only with dedicated QC (e.g. OMArk).
+
 Interpretation: within this design, annotation fragmentation is the main robustness threat and FastOMA is more sensitive
-to it; the other perturbations were too mild (one seed, one node, one clade, 20 contaminants) to stress either tool —
-stronger perturbations are a follow-up.
+to it; the alternative-tree and taxon-removal perturbations were mild (one node, one clade) and a 10× stronger contamination
+follow-up still left reference relations intact; harsher species-tree errors are a follow-up.
 
 ## 6. Limitations
 1. **Few independent families per panel** (2–5 headline items): per-panel numbers are descriptive; only the pooled
