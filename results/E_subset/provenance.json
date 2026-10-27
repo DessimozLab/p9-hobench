@@ -1,0 +1,127 @@
+{
+ "hobench_git": {
+  "commit": "0b5dd0a2167cb20b6f18b634b59c43a5f060ff61",
+  "dirty": false
+ },
+ "script": "scripts/evaluate_panel.py",
+ "panel": "E",
+ "mode": "subset",
+ "panel_tree_sha256": "62907add8b92e32243256ca711ca1a8e3a28e5c53ffbbd0a7cc298f19fb38272",
+ "panel_species_tsv_sha256": "a55d9b0efbe366ae08c6b182f92f6e4239cfaaa32f0f240bacc9164aae3e3d2c",
+ "families_tree_hash": "8c1d8bb8a7fc9cc285e320dccf01ec941a518c7dc7023833b084b539ce190187",
+ "families_manifest_present": true,
+ "families_manifest_differences": [],
+ "n_families": 9,
+ "n_excluded_subset": 0,
+ "n_non_headline": 4,
+ "n_control_track": 1,
+ "seeds_relabel": [
+  20261026,
+  314159,
+  271828,
+  161803,
+  141421,
+  173205,
+  223606,
+  244949,
+  264575,
+  282842
+ ],
+ "n_boot": 2000,
+ "runs": {
+  "fastoma/default_declared": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/E/subset/fastoma_default",
+   "prediction_sha256": "b5d7cdb478499814455cc17a5763eea7074ea4ad2d7d920bb1cae3c9172e1147",
+   "manifest_sha256": "cca02bd32df3663be2c6ce722333545fddc43bd9b478f0480e453291ebcbf9a1",
+   "manifest_git_commit": "86b9ad7ec5a43062d6e8014d9e0616d04ba96de7",
+   "prediction_meta": {
+    "format": "orthoxml",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/E/subset/fastoma_default/FastOMA_HOGs.orthoxml.gz",
+    "dup_placement": "declared",
+    "level_mapping": "clade sets from /scratch/nromashc/agentic-ai/workspaces/mywork/runs/E/subset/fastoma_default/species_tree_checked.nwk",
+    "stats": {
+     "dup_placement_ambiguous": 402,
+     "hogs": 25712
+    },
+    "dup_placement_ambiguous": 402,
+    "unknown_species": []
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "fastoma/default_late": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/E/subset/fastoma_default",
+   "prediction_sha256": "b5d7cdb478499814455cc17a5763eea7074ea4ad2d7d920bb1cae3c9172e1147",
+   "manifest_sha256": "cca02bd32df3663be2c6ce722333545fddc43bd9b478f0480e453291ebcbf9a1",
+   "manifest_git_commit": "86b9ad7ec5a43062d6e8014d9e0616d04ba96de7",
+   "prediction_meta": {
+    "format": "orthoxml",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/E/subset/fastoma_default/FastOMA_HOGs.orthoxml.gz",
+    "dup_placement": "late",
+    "level_mapping": "clade sets from /scratch/nromashc/agentic-ai/workspaces/mywork/runs/E/subset/fastoma_default/species_tree_checked.nwk",
+    "stats": {
+     "dup_placement_ambiguous": 402,
+     "hogs": 24123
+    },
+    "dup_placement_ambiguous": 402,
+    "unknown_species": []
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "orthofinder/default": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/E/subset/orthofinder_default",
+   "prediction_sha256": "37a806563eb6774b29f71b364b08afd0db03721425f1296b60cc761a6c8a4598",
+   "manifest_sha256": "6868836e15e04257bb81efa4c5b96e8d646aa2d66b184d6ae9681f6199095707",
+   "manifest_git_commit": "86b9ad7ec5a43062d6e8014d9e0616d04ba96de7",
+   "prediction_meta": {
+    "format": "orthofinder",
+    "source": "/tmp/hobench_eval_cache/E/subset/orthofinder_default/Phylogenetic_Hierarchical_Orthogroups",
+    "of_to_ours": {
+     "N3": "Terrabacteria",
+     "N4": "Pseudomonadota",
+     "N1": "Bacteria",
+     "N5": "Euryarchaeota",
+     "N7": "TACK",
+     "N12": "Amoebozoa",
+     "N27": "Ascomycota",
+     "N25": "Chytridiomycota_Dikarya",
+     "N20": "Fungi",
+     "N32": "Bilateria",
+     "N31": "Planulozoa",
+     "N30": "ParaHoxozoa",
+     "N29": "Myriazoa",
+     "N28": "Metazoa",
+     "N26": "Choanozoa",
+     "N21": "Holozoa",
+     "N16": "Opisthokonta",
+     "N13": "Obazoa",
+     "N10": "Amorphea",
+     "N22": "Viridiplantae",
+     "N17": "Archaeplastida",
+     "N23": "Stramenopiles",
+     "N24": "Alveolata",
+     "N18": "Stramenopiles_Alveolata",
+     "N14": "Diaphoretickes",
+     "N19": "Discoba",
+     "N15": "Discoba_Metamonada",
+     "N11": "Diphoda",
+     "N9": "Eukaryota",
+     "N8": "Asgard_Eukaryota",
+     "N6": "TACK_Asgard_Eukaryota",
+     "N2": "Archaea_Eukaryota",
+     "N0": "LUCA"
+    },
+    "unmatched_of_nodes": [],
+    "root_from_orthogroups": "/tmp/hobench_eval_cache/E/subset/orthofinder_default/Orthogroups/Orthogroups.tsv",
+    "n_hogs_not_nested_in_og": 0,
+    "induced_levels": {}
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  }
+ }
+}

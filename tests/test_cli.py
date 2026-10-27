@@ -132,6 +132,8 @@ def test_validate_members_against_panel(tmp_path, fams):
     assert any("< 99.0%" in e for e in with_mapping("diamond", "98.5", "0.9", phenomena=["TAND"]).errors)
     assert any("coverage 0.70 < 0.8" in e for e in with_mapping("mmseqs", "99.5", "0.7").errors)
     assert any("fraction" in e for e in with_mapping("diamond", "99.5", "85").errors)
+    assert with_mapping("diamond", "99.5", "1.0/0.9").ok                # "query/target" form: min is checked
+    assert any("coverage 0.70 < 0.8" in e for e in with_mapping("diamond", "99.5", "1.0/0.7").errors)
     assert any("not an accepted mapping" in e for e in with_mapping("unmapped", "", "").errors)
     # stricter species (XENLA) need >= 99% (panel species.tsv strict_mapping column also works)
     sp_tab = pd.read_csv(pdir / "species.tsv", sep="\t", dtype=str)

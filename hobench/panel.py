@@ -160,7 +160,8 @@ def validate_members(fam: ReferenceFamily, panel: PanelData) -> ValidationReport
             continue
         covs = []
         if row.get("mapping_coverage") not in (None, ""):
-            covs.append(_float(row.get("mapping_coverage")))
+            # "q/t" form (e.g. "1.0/1.0" = query/target coverage): both values must pass (minimum is checked)
+            covs.extend(_float(x) for x in str(row.get("mapping_coverage")).split("/"))
         for c in ("mapping_qcov", "mapping_tcov"):
             if row.get(c) not in (None, ""):
                 covs.append(_float(row.get(c)))

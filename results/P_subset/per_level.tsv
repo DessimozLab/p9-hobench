@@ -1,0 +1,329 @@
+family	collection	method	variant	level	depth	n_pairs	n_genes	tp	fp	fn	pair_f1	bcubed_precision	bcubed_recall	bcubed_f1
+P01_homeobox		positive_control	reference	Viridiplantae	0	25738	319	6911	0	0	1	1	1	1
+P01_homeobox		positive_control	reference	Chlorophyta	1	9	5	0	0	0		1	1	1
+P01_homeobox		positive_control	reference	Streptophyta	1	17793	314	0	0	0		1	1	1
+P01_homeobox		positive_control	reference	Embryophyta	2	24779	314	0	0	0		1	1	1
+P01_homeobox		positive_control	reference	Setaphyta	3	33	11	0	0	0		1	1	1
+P01_homeobox		positive_control	reference	Tracheophyta	3	23033	303	0	0	0		1	1	1
+P01_homeobox		positive_control	reference	Magnoliopsida	4	18651	271	0	0	0		1	1	1
+P01_homeobox		positive_control	reference	Mesangiospermae	5	18651	271	0	0	0		1	1	1
+P01_homeobox		positive_control	reference	Poaceae	6	6689	159	0	0	0		1	1	1
+P01_homeobox		positive_control	reference	Rosids	6	2975	112	0	0	0		1	1	1
+P01_homeobox		positive_control	reference	Eurosids	7	2975	112	0	0	0		1	1	1
+P01_homeobox		positive_control	reference	Brassicaceae	8	2949	111	0	0	0		1	1	1
+P02_bHLH		positive_control	reference	Viridiplantae	0	0	0	0	0	0				
+P02_bHLH		positive_control	reference	Streptophyta	1	0	0	0	0	0				
+P02_bHLH		positive_control	reference	Embryophyta	2	45958	313	0	0	0		1	1	1
+P02_bHLH		positive_control	reference	Setaphyta	3	336	27	0	0	0		1	1	1
+P02_bHLH		positive_control	reference	Tracheophyta	3	39499	346	0	0	0		1	1	1
+P02_bHLH		positive_control	reference	Magnoliopsida	4	23435	269	0	0	0		1	1	1
+P02_bHLH		positive_control	reference	Mesangiospermae	5	23595	295	0	0	0		1	1	1
+P02_bHLH		positive_control	reference	Poaceae	6	6084	149	0	0	0		1	1	1
+P02_bHLH		positive_control	reference	Rosids	6	5682	146	0	0	0		1	1	1
+P02_bHLH		positive_control	reference	Eurosids	7	5682	146	0	0	0		1	1	1
+P02_bHLH		positive_control	reference	Brassicaceae	8	5682	146	0	0	0		1	1	1
+P03_GID1_CXE		positive_control	reference	Embryophyta	2	83	16	83	0	0	1	1	1	1
+P03_GID1_CXE		positive_control	reference	Tracheophyta	3	1361	89	83	0	0	1	1	1	1
+P03_GID1_CXE		positive_control	reference	Magnoliopsida	4	931	69	83	0	0	1	1	1	1
+P03_GID1_CXE		positive_control	reference	Mesangiospermae	5	863	68	68	0	0	1	1	1	1
+P03_GID1_CXE		positive_control	reference	Poaceae	6	72	38	0	0	0		1	1	1
+P03_GID1_CXE		positive_control	reference	Rosids	6	263	30	0	0	0		1	1	1
+P03_GID1_CXE		positive_control	reference	Eurosids	7	217	28	0	0	0		1	1	1
+P03_GID1_CXE		positive_control	reference	Brassicaceae	8	53	20	0	0	0		1	1	1
+P03_GID1_CXE		positive_control	reference	Phaseoleae	8	15	8	0	0	0		1	1	1
+P04_MIPs		positive_control	reference	Embryophyta	2	5784	118	432	0	0	1	1	1	1
+P04_MIPs		positive_control	reference	Setaphyta	3	142	19	0	0	0		1	1	1
+P04_MIPs		positive_control	reference	Tracheophyta	3	4148	99	416	0	0	1	1	1	1
+P04_MIPs		positive_control	reference	Magnoliopsida	4	4133	99	0	0	0		1	1	1
+P04_MIPs		positive_control	reference	Mesangiospermae	5	4148	99	0	0	0		1	1	1
+P04_MIPs		positive_control	reference	Poaceae	6	1737	64	0	0	0		1	1	1
+P04_MIPs		positive_control	reference	Rosids	6	513	35	0	0	0		1	1	1
+P04_MIPs		positive_control	reference	Eurosids	7	513	35	0	0	0		1	1	1
+P04_MIPs		positive_control	reference	Brassicaceae	8	513	35	0	0	0		1	1	1
+P01_homeobox		all_singletons		Viridiplantae	0	25738	319	0	0	6911	0	1	0.498522	0.665352
+P01_homeobox		all_singletons		Chlorophyta	1	9	5	0	0	0		1	1	1
+P01_homeobox		all_singletons		Streptophyta	1	17793	314	0	0	0		1	1	1
+P01_homeobox		all_singletons		Embryophyta	2	24779	314	0	0	0		1	1	1
+P01_homeobox		all_singletons		Setaphyta	3	33	11	0	0	0		1	1	1
+P01_homeobox		all_singletons		Tracheophyta	3	23033	303	0	0	0		1	1	1
+P01_homeobox		all_singletons		Magnoliopsida	4	18651	271	0	0	0		1	1	1
+P01_homeobox		all_singletons		Mesangiospermae	5	18651	271	0	0	0		1	1	1
+P01_homeobox		all_singletons		Poaceae	6	6689	159	0	0	0		1	1	1
+P01_homeobox		all_singletons		Rosids	6	2975	112	0	0	0		1	1	1
+P01_homeobox		all_singletons		Eurosids	7	2975	112	0	0	0		1	1	1
+P01_homeobox		all_singletons		Brassicaceae	8	2949	111	0	0	0		1	1	1
+P02_bHLH		all_singletons		Viridiplantae	0	0	0	0	0	0				
+P02_bHLH		all_singletons		Streptophyta	1	0	0	0	0	0				
+P02_bHLH		all_singletons		Embryophyta	2	45958	313	0	0	0		1	1	1
+P02_bHLH		all_singletons		Setaphyta	3	336	27	0	0	0		1	1	1
+P02_bHLH		all_singletons		Tracheophyta	3	39499	346	0	0	0		1	1	1
+P02_bHLH		all_singletons		Magnoliopsida	4	23435	269	0	0	0		1	1	1
+P02_bHLH		all_singletons		Mesangiospermae	5	23595	295	0	0	0		1	1	1
+P02_bHLH		all_singletons		Poaceae	6	6084	149	0	0	0		1	1	1
+P02_bHLH		all_singletons		Rosids	6	5682	146	0	0	0		1	1	1
+P02_bHLH		all_singletons		Eurosids	7	5682	146	0	0	0		1	1	1
+P02_bHLH		all_singletons		Brassicaceae	8	5682	146	0	0	0		1	1	1
+P03_GID1_CXE		all_singletons		Embryophyta	2	83	16	0	0	83	0	1	0.0900805	0.165273
+P03_GID1_CXE		all_singletons		Tracheophyta	3	1361	89	0	0	83	0	1	0.836419	0.910924
+P03_GID1_CXE		all_singletons		Magnoliopsida	4	931	69	0	0	83	0	1	0.789004	0.88206
+P03_GID1_CXE		all_singletons		Mesangiospermae	5	863	68	0	0	68	0	1	0.801774	0.889983
+P03_GID1_CXE		all_singletons		Poaceae	6	72	38	0	0	0		1	1	1
+P03_GID1_CXE		all_singletons		Rosids	6	263	30	0	0	0		1	1	1
+P03_GID1_CXE		all_singletons		Eurosids	7	217	28	0	0	0		1	1	1
+P03_GID1_CXE		all_singletons		Brassicaceae	8	53	20	0	0	0		1	1	1
+P03_GID1_CXE		all_singletons		Phaseoleae	8	15	8	0	0	0		1	1	1
+P04_MIPs		all_singletons		Embryophyta	2	5784	118	0	0	432	0	1	0.666627	0.799972
+P04_MIPs		all_singletons		Setaphyta	3	142	19	0	0	0		1	1	1
+P04_MIPs		all_singletons		Tracheophyta	3	4148	99	0	0	416	0	1	0.626075	0.770045
+P04_MIPs		all_singletons		Magnoliopsida	4	4133	99	0	0	0		1	1	1
+P04_MIPs		all_singletons		Mesangiospermae	5	4148	99	0	0	0		1	1	1
+P04_MIPs		all_singletons		Poaceae	6	1737	64	0	0	0		1	1	1
+P04_MIPs		all_singletons		Rosids	6	513	35	0	0	0		1	1	1
+P04_MIPs		all_singletons		Eurosids	7	513	35	0	0	0		1	1	1
+P04_MIPs		all_singletons		Brassicaceae	8	513	35	0	0	0		1	1	1
+P01_homeobox		one_big_hog		Viridiplantae	0	25738	319	6911	18827	0	0.423351	0.263295	1	0.416839
+P01_homeobox		one_big_hog		Chlorophyta	1	9	5	0	9	0	0	0.22	1	0.360656
+P01_homeobox		one_big_hog		Streptophyta	1	17793	314	0	17793	0	0	0.0121497	1	0.0240076
+P01_homeobox		one_big_hog		Embryophyta	2	24779	314	0	24779	0	0	0.00824266	1	0.0163506
+P01_homeobox		one_big_hog		Setaphyta	3	33	11	0	33	0	0	0.19369	1	0.324523
+P01_homeobox		one_big_hog		Tracheophyta	3	23033	303	0	23033	0	0	0.00849205	1	0.0168411
+P01_homeobox		one_big_hog		Magnoliopsida	4	18651	271	0	18651	0	0	0.00942115	1	0.0186665
+P01_homeobox		one_big_hog		Mesangiospermae	5	18651	271	0	18651	0	0	0.00942115	1	0.0186665
+P01_homeobox		one_big_hog		Poaceae	6	6689	159	0	6689	0	0	0.0150701	1	0.0296927
+P01_homeobox		one_big_hog		Rosids	6	2975	112	0	2975	0	0	0.0243767	1	0.0475932
+P01_homeobox		one_big_hog		Eurosids	7	2975	112	0	2975	0	0	0.0243767	1	0.0475932
+P01_homeobox		one_big_hog		Brassicaceae	8	2949	111	0	2949	0	0	0.0243086	1	0.0474635
+P02_bHLH		one_big_hog		Viridiplantae	0	0	0	0	0	0				
+P02_bHLH		one_big_hog		Streptophyta	1	0	0	0	0	0				
+P02_bHLH		one_big_hog		Embryophyta	2	45958	313	0	45958	0	0	0.00339719	1	0.00677137
+P02_bHLH		one_big_hog		Setaphyta	3	336	27	0	336	0	0	0.0386726	1	0.0744654
+P02_bHLH		one_big_hog		Tracheophyta	3	39499	346	0	39499	0	0	0.00719118	1	0.0142797
+P02_bHLH		one_big_hog		Magnoliopsida	4	23435	269	0	23435	0	0	0.00955351	1	0.0189262
+P02_bHLH		one_big_hog		Mesangiospermae	5	23595	295	0	23595	0	0	0.0156362	1	0.0307909
+P02_bHLH		one_big_hog		Poaceae	6	6084	149	0	6084	0	0	0.0293724	1	0.0570686
+P02_bHLH		one_big_hog		Rosids	6	5682	146	0	5682	0	0	0.0352797	1	0.0681549
+P02_bHLH		one_big_hog		Eurosids	7	5682	146	0	5682	0	0	0.0352797	1	0.0681549
+P02_bHLH		one_big_hog		Brassicaceae	8	5682	146	0	5682	0	0	0.0352797	1	0.0681549
+P03_GID1_CXE		one_big_hog		Embryophyta	2	83	16	83	0	0	1	1	1	1
+P03_GID1_CXE		one_big_hog		Tracheophyta	3	1361	89	83	1278	0	0.114958	0.0670387	1	0.125654
+P03_GID1_CXE		one_big_hog		Magnoliopsida	4	931	69	83	848	0	0.163708	0.0859865	1	0.158356
+P03_GID1_CXE		one_big_hog		Mesangiospermae	5	863	68	68	795	0	0.146079	0.0838077	1	0.154654
+P03_GID1_CXE		one_big_hog		Poaceae	6	72	38	0	72	0	0	0.317212	1	0.481641
+P03_GID1_CXE		one_big_hog		Rosids	6	263	30	0	263	0	0	0.0581984	1	0.109995
+P03_GID1_CXE		one_big_hog		Eurosids	7	217	28	0	217	0	0	0.0673525	1	0.126205
+P03_GID1_CXE		one_big_hog		Brassicaceae	8	53	20	0	53	0	0	0.220263	1	0.361009
+P03_GID1_CXE		one_big_hog		Phaseoleae	8	15	8	0	15	0	0	0.21875	1	0.358974
+P04_MIPs		one_big_hog		Embryophyta	2	5784	118	432	5352	0	0.138996	0.0776022	1	0.144028
+P04_MIPs		one_big_hog		Setaphyta	3	142	19	0	142	0	0	0.0632233	1	0.118928
+P04_MIPs		one_big_hog		Tracheophyta	3	4148	99	416	3732	0	0.182296	0.102051	1	0.185201
+P04_MIPs		one_big_hog		Magnoliopsida	4	4133	99	0	4133	0	0	0.0119369	1	0.0235921
+P04_MIPs		one_big_hog		Mesangiospermae	5	4148	99	0	4148	0	0	0.0119026	1	0.0235251
+P04_MIPs		one_big_hog		Poaceae	6	1737	64	0	1737	0	0	0.0182459	1	0.035838
+P04_MIPs		one_big_hog		Rosids	6	513	35	0	513	0	0	0.0333005	1	0.0644546
+P04_MIPs		one_big_hog		Eurosids	7	513	35	0	513	0	0	0.0333005	1	0.0644546
+P04_MIPs		one_big_hog		Brassicaceae	8	513	35	0	513	0	0	0.0333005	1	0.0644546
+P01_homeobox		random_relabel	mean10	Viridiplantae	0	25738	319	1505	3708	5406	0.248268	0.322688	0.592001	0.417698
+P01_homeobox		random_relabel	mean10	Chlorophyta	1	9	5	0	0	0		1	1	1
+P01_homeobox		random_relabel	mean10	Streptophyta	1	17793	314	0	2541	0	0	0.187404	1	0.315654
+P01_homeobox		random_relabel	mean10	Embryophyta	2	24779	314	0	876	0	0	0.320721	1	0.485675
+P01_homeobox		random_relabel	mean10	Setaphyta	3	33	11	0	0	0		1	1	1
+P01_homeobox		random_relabel	mean10	Tracheophyta	3	23033	303	0	300	0	0	0.708921	1	0.829671
+P01_homeobox		random_relabel	mean10	Magnoliopsida	4	18651	271	0	33	0	0	0.935648	1	0.966754
+P01_homeobox		random_relabel	mean10	Mesangiospermae	5	18651	271	0	25	0	0	0.942435	1	0.970365
+P01_homeobox		random_relabel	mean10	Poaceae	6	6689	159	0	0	0		1	1	1
+P01_homeobox		random_relabel	mean10	Rosids	6	2975	112	0	1	0	0	0.991071	1	0.995516
+P01_homeobox		random_relabel	mean10	Eurosids	7	2975	112	0	0	0		1	1	1
+P01_homeobox		random_relabel	mean10	Brassicaceae	8	2949	111	0	0	0		1	1	1
+P02_bHLH		random_relabel	mean10	Viridiplantae	0	0	0	0	0	0				
+P02_bHLH		random_relabel	mean10	Streptophyta	1	0	0	0	0	0				
+P02_bHLH		random_relabel	mean10	Embryophyta	2	45958	313	0	1407	0	0	0.246438	1	0.395428
+P02_bHLH		random_relabel	mean10	Setaphyta	3	336	27	0	0	0		1	1	1
+P02_bHLH		random_relabel	mean10	Tracheophyta	3	39499	346	0	686	0	0	0.661135	1	0.796004
+P02_bHLH		random_relabel	mean10	Magnoliopsida	4	23435	269	0	40	0	0	0.947292	1	0.972932
+P02_bHLH		random_relabel	mean10	Mesangiospermae	5	23595	295	0	26	0	0	0.957062	1	0.97806
+P02_bHLH		random_relabel	mean10	Poaceae	6	6084	149	0	0	0		1	1	1
+P02_bHLH		random_relabel	mean10	Rosids	6	5682	146	0	0	0		1	1	1
+P02_bHLH		random_relabel	mean10	Eurosids	7	5682	146	0	0	0		1	1	1
+P02_bHLH		random_relabel	mean10	Brassicaceae	8	5682	146	0	0	0		1	1	1
+P03_GID1_CXE		random_relabel	mean10	Embryophyta	2	83	16	31	0	52	0.54386	1	0.438684	0.60984
+P03_GID1_CXE		random_relabel	mean10	Tracheophyta	3	1361	89	31	25	52	0.446043	0.880551	0.899089	0.889724
+P03_GID1_CXE		random_relabel	mean10	Magnoliopsida	4	931	69	29	10	54	0.47541	0.967909	0.865009	0.91357
+P03_GID1_CXE		random_relabel	mean10	Mesangiospermae	5	863	68	20	9	48	0.412371	0.966106	0.863866	0.91213
+P03_GID1_CXE		random_relabel	mean10	Poaceae	6	72	38	0	0	0		1	1	1
+P03_GID1_CXE		random_relabel	mean10	Rosids	6	263	30	0	17	0	0	0.755873	1	0.860965
+P03_GID1_CXE		random_relabel	mean10	Eurosids	7	217	28	0	0	0		1	1	1
+P03_GID1_CXE		random_relabel	mean10	Brassicaceae	8	53	20	0	0	0		1	1	1
+P03_GID1_CXE		random_relabel	mean10	Phaseoleae	8	15	8	0	0	0		1	1	1
+P04_MIPs		random_relabel	mean10	Embryophyta	2	5784	118	15	137	417	0.0513699	0.516401	0.678231	0.586355
+P04_MIPs		random_relabel	mean10	Setaphyta	3	142	19	0	1	0	0	0.947368	1	0.972973
+P04_MIPs		random_relabel	mean10	Tracheophyta	3	4148	99	9	55	407	0.0375	0.795034	0.632965	0.704803
+P04_MIPs		random_relabel	mean10	Magnoliopsida	4	4133	99	0	6	0	0	0.952862	1	0.975862
+P04_MIPs		random_relabel	mean10	Mesangiospermae	5	4148	99	0	4	0	0	0.962963	1	0.981132
+P04_MIPs		random_relabel	mean10	Poaceae	6	1737	64	0	0	0		1	1	1
+P04_MIPs		random_relabel	mean10	Rosids	6	513	35	0	0	0		1	1	1
+P04_MIPs		random_relabel	mean10	Eurosids	7	513	35	0	0	0		1	1	1
+P04_MIPs		random_relabel	mean10	Brassicaceae	8	513	35	0	0	0		1	1	1
+P01_homeobox		fastoma	default_declared	Viridiplantae	0	25738	319	5	0	6906	0.00144592	1	0.506751	0.672641
+P01_homeobox		fastoma	default_declared	Chlorophyta	1	9	5	0	0	0		1	1	1
+P01_homeobox		fastoma	default_declared	Streptophyta	1	17793	314	0	0	0		1	1	1
+P01_homeobox		fastoma	default_declared	Embryophyta	2	24779	314	0	30	0	0	0.953928	1	0.976421
+P01_homeobox		fastoma	default_declared	Setaphyta	3	33	11	0	0	0		1	1	1
+P01_homeobox		fastoma	default_declared	Tracheophyta	3	23033	303	0	6	0	0	0.985699	1	0.992798
+P01_homeobox		fastoma	default_declared	Magnoliopsida	4	18651	271	0	1	0	0	0.99631	1	0.998152
+P01_homeobox		fastoma	default_declared	Mesangiospermae	5	18651	271	0	1	0	0	0.99631	1	0.998152
+P01_homeobox		fastoma	default_declared	Poaceae	6	6689	159	0	0	0		1	1	1
+P01_homeobox		fastoma	default_declared	Rosids	6	2975	112	0	0	0		1	1	1
+P01_homeobox		fastoma	default_declared	Eurosids	7	2975	112	0	0	0		1	1	1
+P01_homeobox		fastoma	default_declared	Brassicaceae	8	2949	111	0	0	0		1	1	1
+P02_bHLH		fastoma	default_declared	Viridiplantae	0	0	0	0	0	0				
+P02_bHLH		fastoma	default_declared	Streptophyta	1	0	0	0	0	0				
+P02_bHLH		fastoma	default_declared	Embryophyta	2	45958	313	0	0	0		1	1	1
+P02_bHLH		fastoma	default_declared	Setaphyta	3	336	27	0	0	0		1	1	1
+P02_bHLH		fastoma	default_declared	Tracheophyta	3	39499	346	0	0	0		1	1	1
+P02_bHLH		fastoma	default_declared	Magnoliopsida	4	23435	269	0	0	0		1	1	1
+P02_bHLH		fastoma	default_declared	Mesangiospermae	5	23595	295	0	0	0		1	1	1
+P02_bHLH		fastoma	default_declared	Poaceae	6	6084	149	0	0	0		1	1	1
+P02_bHLH		fastoma	default_declared	Rosids	6	5682	146	0	0	0		1	1	1
+P02_bHLH		fastoma	default_declared	Eurosids	7	5682	146	0	0	0		1	1	1
+P02_bHLH		fastoma	default_declared	Brassicaceae	8	5682	146	0	0	0		1	1	1
+P03_GID1_CXE		fastoma	default_declared	Embryophyta	2	83	16	83	0	0	1	1	1	1
+P03_GID1_CXE		fastoma	default_declared	Tracheophyta	3	1361	89	83	0	0	1	1	1	1
+P03_GID1_CXE		fastoma	default_declared	Magnoliopsida	4	931	69	83	0	0	1	1	1	1
+P03_GID1_CXE		fastoma	default_declared	Mesangiospermae	5	863	68	68	0	0	1	1	1	1
+P03_GID1_CXE		fastoma	default_declared	Poaceae	6	72	38	0	0	0		1	1	1
+P03_GID1_CXE		fastoma	default_declared	Rosids	6	263	30	0	0	0		1	1	1
+P03_GID1_CXE		fastoma	default_declared	Eurosids	7	217	28	0	0	0		1	1	1
+P03_GID1_CXE		fastoma	default_declared	Brassicaceae	8	53	20	0	0	0		1	1	1
+P03_GID1_CXE		fastoma	default_declared	Phaseoleae	8	15	8	0	0	0		1	1	1
+P04_MIPs		fastoma	default_declared	Embryophyta	2	5784	118	401	0	31	0.962785	1	0.927378	0.962321
+P04_MIPs		fastoma	default_declared	Setaphyta	3	142	19	0	0	0		1	1	1
+P04_MIPs		fastoma	default_declared	Tracheophyta	3	4148	99	401	0	15	0.98164	1	0.936869	0.967405
+P04_MIPs		fastoma	default_declared	Magnoliopsida	4	4133	99	0	0	0		1	1	1
+P04_MIPs		fastoma	default_declared	Mesangiospermae	5	4148	99	0	0	0		1	1	1
+P04_MIPs		fastoma	default_declared	Poaceae	6	1737	64	0	0	0		1	1	1
+P04_MIPs		fastoma	default_declared	Rosids	6	513	35	0	0	0		1	1	1
+P04_MIPs		fastoma	default_declared	Eurosids	7	513	35	0	0	0		1	1	1
+P04_MIPs		fastoma	default_declared	Brassicaceae	8	513	35	0	0	0		1	1	1
+P01_homeobox		fastoma	default_late	Viridiplantae	0	25738	319	5	0	6906	0.00144592	1	0.506751	0.672641
+P01_homeobox		fastoma	default_late	Chlorophyta	1	9	5	0	0	0		1	1	1
+P01_homeobox		fastoma	default_late	Streptophyta	1	17793	314	0	0	0		1	1	1
+P01_homeobox		fastoma	default_late	Embryophyta	2	24779	314	0	30	0	0	0.953928	1	0.976421
+P01_homeobox		fastoma	default_late	Setaphyta	3	33	11	0	0	0		1	1	1
+P01_homeobox		fastoma	default_late	Tracheophyta	3	23033	303	0	6	0	0	0.985699	1	0.992798
+P01_homeobox		fastoma	default_late	Magnoliopsida	4	18651	271	0	1	0	0	0.99631	1	0.998152
+P01_homeobox		fastoma	default_late	Mesangiospermae	5	18651	271	0	1	0	0	0.99631	1	0.998152
+P01_homeobox		fastoma	default_late	Poaceae	6	6689	159	0	0	0		1	1	1
+P01_homeobox		fastoma	default_late	Rosids	6	2975	112	0	0	0		1	1	1
+P01_homeobox		fastoma	default_late	Eurosids	7	2975	112	0	0	0		1	1	1
+P01_homeobox		fastoma	default_late	Brassicaceae	8	2949	111	0	0	0		1	1	1
+P02_bHLH		fastoma	default_late	Viridiplantae	0	0	0	0	0	0				
+P02_bHLH		fastoma	default_late	Streptophyta	1	0	0	0	0	0				
+P02_bHLH		fastoma	default_late	Embryophyta	2	45958	313	0	0	0		1	1	1
+P02_bHLH		fastoma	default_late	Setaphyta	3	336	27	0	0	0		1	1	1
+P02_bHLH		fastoma	default_late	Tracheophyta	3	39499	346	0	0	0		1	1	1
+P02_bHLH		fastoma	default_late	Magnoliopsida	4	23435	269	0	0	0		1	1	1
+P02_bHLH		fastoma	default_late	Mesangiospermae	5	23595	295	0	0	0		1	1	1
+P02_bHLH		fastoma	default_late	Poaceae	6	6084	149	0	0	0		1	1	1
+P02_bHLH		fastoma	default_late	Rosids	6	5682	146	0	0	0		1	1	1
+P02_bHLH		fastoma	default_late	Eurosids	7	5682	146	0	0	0		1	1	1
+P02_bHLH		fastoma	default_late	Brassicaceae	8	5682	146	0	0	0		1	1	1
+P03_GID1_CXE		fastoma	default_late	Embryophyta	2	83	16	83	0	0	1	1	1	1
+P03_GID1_CXE		fastoma	default_late	Tracheophyta	3	1361	89	83	0	0	1	1	1	1
+P03_GID1_CXE		fastoma	default_late	Magnoliopsida	4	931	69	83	0	0	1	1	1	1
+P03_GID1_CXE		fastoma	default_late	Mesangiospermae	5	863	68	68	0	0	1	1	1	1
+P03_GID1_CXE		fastoma	default_late	Poaceae	6	72	38	0	0	0		1	1	1
+P03_GID1_CXE		fastoma	default_late	Rosids	6	263	30	0	0	0		1	1	1
+P03_GID1_CXE		fastoma	default_late	Eurosids	7	217	28	0	0	0		1	1	1
+P03_GID1_CXE		fastoma	default_late	Brassicaceae	8	53	20	0	0	0		1	1	1
+P03_GID1_CXE		fastoma	default_late	Phaseoleae	8	15	8	0	0	0		1	1	1
+P04_MIPs		fastoma	default_late	Embryophyta	2	5784	118	401	0	31	0.962785	1	0.927378	0.962321
+P04_MIPs		fastoma	default_late	Setaphyta	3	142	19	0	0	0		1	1	1
+P04_MIPs		fastoma	default_late	Tracheophyta	3	4148	99	401	0	15	0.98164	1	0.936869	0.967405
+P04_MIPs		fastoma	default_late	Magnoliopsida	4	4133	99	0	0	0		1	1	1
+P04_MIPs		fastoma	default_late	Mesangiospermae	5	4148	99	0	0	0		1	1	1
+P04_MIPs		fastoma	default_late	Poaceae	6	1737	64	0	0	0		1	1	1
+P04_MIPs		fastoma	default_late	Rosids	6	513	35	0	0	0		1	1	1
+P04_MIPs		fastoma	default_late	Eurosids	7	513	35	0	0	0		1	1	1
+P04_MIPs		fastoma	default_late	Brassicaceae	8	513	35	0	0	0		1	1	1
+P01_homeobox		of_flat	default	Viridiplantae	0	25738	319	347	0	6564	0.0956186	1	0.576309	0.731214
+P01_homeobox		of_flat	default	Chlorophyta	1	9	5	0	0	0		1	1	1
+P01_homeobox		of_flat	default	Streptophyta	1	17793	314	0	0	0		1	1	1
+P01_homeobox		of_flat	default	Embryophyta	2	24779	314	0	432	0	0	0.732689	1	0.845724
+P01_homeobox		of_flat	default	Setaphyta	3	33	11	0	4	0	0	0.757576	1	0.862069
+P01_homeobox		of_flat	default	Tracheophyta	3	23033	303	0	340	0	0	0.742648	1	0.852321
+P01_homeobox		of_flat	default	Magnoliopsida	4	18651	271	0	160	0	0	0.848282	1	0.917914
+P01_homeobox		of_flat	default	Mesangiospermae	5	18651	271	0	160	0	0	0.848282	1	0.917914
+P01_homeobox		of_flat	default	Poaceae	6	6689	159	0	71	0	0	0.844976	1	0.915975
+P01_homeobox		of_flat	default	Rosids	6	2975	112	0	16	0	0	0.942857	1	0.970588
+P01_homeobox		of_flat	default	Eurosids	7	2975	112	0	16	0	0	0.942857	1	0.970588
+P01_homeobox		of_flat	default	Brassicaceae	8	2949	111	0	16	0	0	0.942342	1	0.970315
+P02_bHLH		of_flat	default	Viridiplantae	0	0	0	0	0	0				
+P02_bHLH		of_flat	default	Streptophyta	1	0	0	0	0	0				
+P02_bHLH		of_flat	default	Embryophyta	2	45958	313	0	15591	0	0	0.261391	1	0.414449
+P02_bHLH		of_flat	default	Setaphyta	3	336	27	0	114	0	0	0.34905	1	0.517476
+P02_bHLH		of_flat	default	Tracheophyta	3	39499	346	0	12895	0	0	0.395238	1	0.566553
+P02_bHLH		of_flat	default	Magnoliopsida	4	23435	269	0	8045	0	0	0.374322	1	0.544737
+P02_bHLH		of_flat	default	Mesangiospermae	5	23595	295	0	8045	0	0	0.429466	1	0.600876
+P02_bHLH		of_flat	default	Poaceae	6	6084	149	0	2152	0	0	0.431424	1	0.60279
+P02_bHLH		of_flat	default	Rosids	6	5682	146	0	1858	0	0	0.457543	1	0.627828
+P02_bHLH		of_flat	default	Eurosids	7	5682	146	0	1858	0	0	0.457543	1	0.627828
+P02_bHLH		of_flat	default	Brassicaceae	8	5682	146	0	1858	0	0	0.457543	1	0.627828
+P03_GID1_CXE		of_flat	default	Embryophyta	2	83	16	83	0	0	1	1	1	1
+P03_GID1_CXE		of_flat	default	Tracheophyta	3	1361	89	83	1206	0	0.120991	0.110894	1	0.199649
+P03_GID1_CXE		of_flat	default	Magnoliopsida	4	931	69	83	800	0	0.171843	0.128895	1	0.228356
+P03_GID1_CXE		of_flat	default	Mesangiospermae	5	863	68	68	750	0	0.153499	0.126916	1	0.225245
+P03_GID1_CXE		of_flat	default	Poaceae	6	72	38	0	70	0	0	0.334795	1	0.501643
+P03_GID1_CXE		of_flat	default	Rosids	6	263	30	0	237	0	0	0.121683	1	0.216965
+P03_GID1_CXE		of_flat	default	Eurosids	7	217	28	0	195	0	0	0.134392	1	0.236942
+P03_GID1_CXE		of_flat	default	Brassicaceae	8	53	20	0	47	0	0	0.29616	1	0.456981
+P03_GID1_CXE		of_flat	default	Phaseoleae	8	15	8	0	15	0	0	0.21875	1	0.358974
+P04_MIPs		of_flat	default	Embryophyta	2	5784	118	432	1980	0	0.303797	0.31758	1	0.482066
+P04_MIPs		of_flat	default	Setaphyta	3	142	19	0	48	0	0	0.29883	1	0.460153
+P04_MIPs		of_flat	default	Tracheophyta	3	4148	99	416	1396	0	0.373429	0.468416	1	0.637988
+P04_MIPs		of_flat	default	Magnoliopsida	4	4133	99	0	1797	0	0	0.335856	1	0.502833
+P04_MIPs		of_flat	default	Mesangiospermae	5	4148	99	0	1812	0	0	0.272725	1	0.428568
+P04_MIPs		of_flat	default	Poaceae	6	1737	64	0	782	0	0	0.27711	1	0.433964
+P04_MIPs		of_flat	default	Rosids	6	513	35	0	210	0	0	0.330288	1	0.496566
+P04_MIPs		of_flat	default	Eurosids	7	513	35	0	210	0	0	0.330288	1	0.496566
+P04_MIPs		of_flat	default	Brassicaceae	8	513	35	0	210	0	0	0.330288	1	0.496566
+P01_homeobox		orthofinder	default	Viridiplantae	0	25738	319	347	0	6564	0.0956186	1	0.576309	0.731214
+P01_homeobox		orthofinder	default	Chlorophyta	1	9	5	0	0	0		1	1	1
+P01_homeobox		orthofinder	default	Streptophyta	1	17793	314	0	0	0		1	1	1
+P01_homeobox		orthofinder	default	Embryophyta	2	24779	314	0	84	0	0	0.894627	1	0.944383
+P01_homeobox		orthofinder	default	Setaphyta	3	33	11	0	0	0		1	1	1
+P01_homeobox		orthofinder	default	Tracheophyta	3	23033	303	0	60	0	0	0.927606	1	0.962443
+P01_homeobox		orthofinder	default	Magnoliopsida	4	18651	271	0	0	0		1	1	1
+P01_homeobox		orthofinder	default	Mesangiospermae	5	18651	271	0	0	0		1	1	1
+P01_homeobox		orthofinder	default	Poaceae	6	6689	159	0	0	0		1	1	1
+P01_homeobox		orthofinder	default	Rosids	6	2975	112	0	0	0		1	1	1
+P01_homeobox		orthofinder	default	Eurosids	7	2975	112	0	0	0		1	1	1
+P01_homeobox		orthofinder	default	Brassicaceae	8	2949	111	0	0	0		1	1	1
+P02_bHLH		orthofinder	default	Viridiplantae	0	0	0	0	0	0				
+P02_bHLH		orthofinder	default	Streptophyta	1	0	0	0	0	0				
+P02_bHLH		orthofinder	default	Embryophyta	2	45958	313	0	139	0	0	0.892935	1	0.94344
+P02_bHLH		orthofinder	default	Setaphyta	3	336	27	0	0	0		1	1	1
+P02_bHLH		orthofinder	default	Tracheophyta	3	39499	346	0	60	0	0	0.957759	1	0.978424
+P02_bHLH		orthofinder	default	Magnoliopsida	4	23435	269	0	0	0		1	1	1
+P02_bHLH		orthofinder	default	Mesangiospermae	5	23595	295	0	0	0		1	1	1
+P02_bHLH		orthofinder	default	Poaceae	6	6084	149	0	0	0		1	1	1
+P02_bHLH		orthofinder	default	Rosids	6	5682	146	0	0	0		1	1	1
+P02_bHLH		orthofinder	default	Eurosids	7	5682	146	0	0	0		1	1	1
+P02_bHLH		orthofinder	default	Brassicaceae	8	5682	146	0	0	0		1	1	1
+P03_GID1_CXE		orthofinder	default	Embryophyta	2	83	16	83	0	0	1	1	1	1
+P03_GID1_CXE		orthofinder	default	Tracheophyta	3	1361	89	83	18	0	0.902174	0.963286	1	0.9813
+P03_GID1_CXE		orthofinder	default	Magnoliopsida	4	931	69	83	0	0	1	1	1	1
+P03_GID1_CXE		orthofinder	default	Mesangiospermae	5	863	68	68	0	0	1	1	1	1
+P03_GID1_CXE		orthofinder	default	Poaceae	6	72	38	0	0	0		1	1	1
+P03_GID1_CXE		orthofinder	default	Rosids	6	263	30	0	0	0		1	1	1
+P03_GID1_CXE		orthofinder	default	Eurosids	7	217	28	0	0	0		1	1	1
+P03_GID1_CXE		orthofinder	default	Brassicaceae	8	53	20	0	0	0		1	1	1
+P03_GID1_CXE		orthofinder	default	Phaseoleae	8	15	8	0	0	0		1	1	1
+P04_MIPs		orthofinder	default	Embryophyta	2	5784	118	411	0	21	0.975089	1	0.950918	0.974842
+P04_MIPs		orthofinder	default	Setaphyta	3	142	19	0	0	0		1	1	1
+P04_MIPs		orthofinder	default	Tracheophyta	3	4148	99	401	0	15	0.98164	1	0.936869	0.967405
+P04_MIPs		orthofinder	default	Magnoliopsida	4	4133	99	0	0	0		1	1	1
+P04_MIPs		orthofinder	default	Mesangiospermae	5	4148	99	0	0	0		1	1	1
+P04_MIPs		orthofinder	default	Poaceae	6	1737	64	0	0	0		1	1	1
+P04_MIPs		orthofinder	default	Rosids	6	513	35	0	0	0		1	1	1
+P04_MIPs		orthofinder	default	Eurosids	7	513	35	0	0	0		1	1	1
+P04_MIPs		orthofinder	default	Brassicaceae	8	513	35	0	0	0		1	1	1

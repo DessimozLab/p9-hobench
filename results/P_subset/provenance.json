@@ -1,0 +1,121 @@
+{
+ "hobench_git": {
+  "commit": "0b5dd0a2167cb20b6f18b634b59c43a5f060ff61",
+  "dirty": true
+ },
+ "script": "scripts/evaluate_panel.py",
+ "panel": "P",
+ "mode": "subset",
+ "panel_tree_sha256": "a58dca2ccc2cb67e66920b0a0587e11e9c45738494c1cbb80dc8f9dc6e606aec",
+ "panel_species_tsv_sha256": "47825c3b05d024b4a9ab7b7152a6d13a62278594af4a58b3c928374853f25725",
+ "families_tree_hash": "8c1d8bb8a7fc9cc285e320dccf01ec941a518c7dc7023833b084b539ce190187",
+ "families_manifest_present": true,
+ "families_manifest_differences": [],
+ "n_families": 4,
+ "n_excluded_subset": 0,
+ "n_non_headline": 1,
+ "n_control_track": 0,
+ "seeds_relabel": [
+  20261026,
+  314159,
+  271828,
+  161803,
+  141421,
+  173205,
+  223606,
+  244949,
+  264575,
+  282842
+ ],
+ "n_boot": 2000,
+ "runs": {
+  "fastoma/default_declared": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/P/subset/fastoma_default",
+   "prediction_sha256": "b1d5d741a72d82714964cf41134b6348383b6ce6d9f4891cd4a1dbffb0fa6f80",
+   "manifest_sha256": "a9e1dfe3474d253ce798bf453da8cf2eccbfe0029784392fbcbd8437a89f3331",
+   "manifest_git_commit": "d0cbca2c1012a46381e3d9a9f9ffec05df89d95b",
+   "prediction_meta": {
+    "format": "orthoxml",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/P/subset/fastoma_default/FastOMA_HOGs.orthoxml.gz",
+    "dup_placement": "declared",
+    "level_mapping": "clade sets from /scratch/nromashc/agentic-ai/workspaces/mywork/runs/P/subset/fastoma_default/species_tree_checked.nwk",
+    "stats": {
+     "hogs": 25667,
+     "dup_placement_ambiguous": 612
+    },
+    "dup_placement_ambiguous": 612,
+    "unknown_species": []
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "fastoma/default_late": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/P/subset/fastoma_default",
+   "prediction_sha256": "b1d5d741a72d82714964cf41134b6348383b6ce6d9f4891cd4a1dbffb0fa6f80",
+   "manifest_sha256": "a9e1dfe3474d253ce798bf453da8cf2eccbfe0029784392fbcbd8437a89f3331",
+   "manifest_git_commit": "d0cbca2c1012a46381e3d9a9f9ffec05df89d95b",
+   "prediction_meta": {
+    "format": "orthoxml",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/P/subset/fastoma_default/FastOMA_HOGs.orthoxml.gz",
+    "dup_placement": "late",
+    "level_mapping": "clade sets from /scratch/nromashc/agentic-ai/workspaces/mywork/runs/P/subset/fastoma_default/species_tree_checked.nwk",
+    "stats": {
+     "hogs": 24066,
+     "dup_placement_ambiguous": 612
+    },
+    "dup_placement_ambiguous": 612,
+    "unknown_species": []
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "of_flat/default": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/P/subset/of_flat_default",
+   "prediction_sha256": "c12f5ceaf040f8c392566ec2509e9f09567c814cf0757a0cbc758519ee66b8bb",
+   "manifest_sha256": "22bd077f82ad7cab9784ab5ebf09b2fe4371f1b2f3d7466222104e937c12eb25",
+   "manifest_git_commit": "0b5dd0a2167cb20b6f18b634b59c43a5f060ff61",
+   "prediction_meta": {
+    "format": "tsv",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/P/subset/of_flat_default/hogs.tsv.gz",
+    "flat": true
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "orthofinder/default": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/P/subset/orthofinder_default",
+   "prediction_sha256": "b3abe87eb212876e5b82d8fcc3d1731aeb3c1a42948fb7b97dfb566d7323fe10",
+   "manifest_sha256": "ba0ac0b2c2445af47424886f5f28b8092a6b9a8592290468242dc80ba5abf1b9",
+   "manifest_git_commit": "0b5dd0a2167cb20b6f18b634b59c43a5f060ff61",
+   "prediction_meta": {
+    "format": "orthofinder",
+    "source": "/tmp/hobench_eval_cache/P/subset/orthofinder_default/Phylogenetic_Hierarchical_Orthogroups",
+    "of_to_ours": {
+     "N1": "Chlorophyta",
+     "N4": "Setaphyta",
+     "N8": "Poaceae",
+     "N11": "Brassicaceae",
+     "N12": "Phaseoleae",
+     "N10": "Eurosids",
+     "N9": "Rosids",
+     "N7": "Mesangiospermae",
+     "N6": "Magnoliopsida",
+     "N5": "Tracheophyta",
+     "N3": "Embryophyta",
+     "N2": "Streptophyta",
+     "N0": "Viridiplantae"
+    },
+    "unmatched_of_nodes": [],
+    "root_from_orthogroups": "/tmp/hobench_eval_cache/P/subset/orthofinder_default/Orthogroups/Orthogroups.tsv",
+    "n_hogs_not_nested_in_og": 0,
+    "induced_levels": {}
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  }
+ }
+}
