@@ -188,6 +188,36 @@ def level_components(rf: ReconciledFamily, Mrep: np.ndarray, L: int) -> np.ndarr
     return lab
 
 
+def refog_labels(rf: ReconciledFamily) -> np.ndarray:
+    """RefOG label per tree gene at the family level (erratum E5): reference-derived components
+    at the family level, except that a U node at the top of the tree (the root, or reached from
+    it through U nodes only) or with LCA mapping equal to the family level does not join its
+    children: each child subtree is its own RefOG, as under a D root (an unresolved node asserts
+    nothing, so it cannot assert one group)."""
+    return level_components(rf, representative_matrix_e5(rf), rf.family_level)
+
+
+def representative_matrix_e5(rf: ReconciledFamily) -> np.ndarray:
+    """:func:`representative_matrix` with the cross-child pairs of top/family-level U nodes set to
+    INF (erratum E5); used for RefOGs and the positive control (U pairs stay unasserted)."""
+    Mrep = representative_matrix(rf)
+    L_F = rf.family_level
+    top: set[int] = set()
+    for k, e in enumerate(rf.events):
+        if e.ev != "U":
+            continue
+        par = e.node.parent
+        chain_top = par is None or id(par) in top
+        if chain_top or e.mapping == L_F:
+            top.add(id(e.node))
+            ch = e.child_leaves
+            for a in range(len(ch)):
+                for b in range(a + 1, len(ch)):
+                    Mrep[np.ix_(ch[a], ch[b])] = INF
+                    Mrep[np.ix_(ch[b], ch[a])] = INF
+    return Mrep
+
+
 def ancestor_levels(rf: ReconciledFamily) -> set[int]:
     """Internal levels that are ancestors of at least one member species."""
     st = rf.st
@@ -202,7 +232,7 @@ def ancestor_levels(rf: ReconciledFamily) -> set[int]:
 
 def reference_level_codes(rf: ReconciledFamily, levels: Optional[Iterable[int]] = None) -> dict[int, np.ndarray]:
     """Reference-derived HOG labels per internal level (default: all ancestor levels)."""
-    Mrep = representative_matrix(rf)
+    Mrep = representative_matrix_e5(rf)
     return {L: level_components(rf, Mrep, L) for L in (ancestor_levels(rf) if levels is None else levels)}
 
 
@@ -655,7 +685,7 @@ def family_integrity(rf: ReconciledFamily, st: SpeciesTree, pred: Prediction, ct
     members = F.member_ids
     member_set = set(members)
     # RefOGs
-    lab = reference_level_codes(rf, [L_F])[L_F] if rf.genes else np.array([], dtype=np.int64)
+    lab = refog_labels(rf) if rf.genes else np.array([], dtype=np.int64)
     refog_of: dict[str, int] = {g: int(lab[k]) for k, g in enumerate(rf.genes) if lab[k] >= 0}
     unplaced = [g for g in members if g not in rf.gene_index]
     n_refogs = len(set(refog_of.values()))

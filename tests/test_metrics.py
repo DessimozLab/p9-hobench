@@ -413,3 +413,22 @@ def test_flat_tsv_projection(st, fams, fam_by_id, tmp_path):
     assert r["pair_merge"]["accuracy_pairs"] == pytest.approx(11 / 15)
     unflat = evaluate_family(fam_by_id["F2"], st, read_tsv(p, st), panel_context(fams, st))
     assert unflat["pair_merge"]["accuracy_pairs"] < r["pair_merge"]["accuracy_pairs"]
+
+
+def test_u_root_refogs_E5(st):
+    """Erratum E5: U root over two S clades (HUMAN_a,MOUSE_a,CHICK_a) and (HUMAN_b,MOUSE_b,CHICK_b).
+    Each child subtree is its own RefOG, so predicting the two clades as two perfect groups at
+    the family level (Amniota) gets membership F1 = 1 (previously the U root made one RefOG:
+    F1 = 2*1*0.5/1.5 = 2/3)."""
+    clade = lambda k: f"((HUMAN_{k},MOUSE_{k})[&&NHX:ev=S],CHICK_{k})[&&NHX:ev=S]"
+    f = make_family("UR5", f"({clade('a')},{clade('b')})[&&NHX:ev=U];")
+    p = Prediction()
+    for k in "ab":
+        for g in (f"HUMAN_{k}", f"MOUSE_{k}", f"CHICK_{k}"):
+            p.add("Amniota", k, g)
+        p.add("Mammalia", k, f"HUMAN_{k}"); p.add("Mammalia", k, f"MOUSE_{k}")
+    it = evaluate_family(f, st, p, panel_context([f], st))["integrity"]
+    assert it["n_refogs"] == 2 and it["membership_f1"] == 1.0 and it["fission_pct"] == 0.0
+    # and the positive control remains perfect
+    pos = controls.reference_prediction([f], st)
+    assert evaluate_family(f, st, pos, panel_context([f], st))["integrity"]["membership_f1"] == 1.0
