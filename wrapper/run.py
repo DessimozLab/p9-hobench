@@ -29,7 +29,7 @@ from hobench.newick import read_newick
 # Variants (SYNTHESIS E7). Each maps to extra command-line arguments.
 VARIANTS = {
     "orthofinder": {"default": [], "dendroblast": ["-M", "dendroblast"], "rep2": []},  # rep2 = clean replicate (noise floor)
-    "fastoma": {"default": []},
+    "fastoma": {"default": [], "rep2": []},  # rep2 = clean replicate (noise floor)
     "of_flat": {"default": [], "dendroblast": []},  # derived from orthofinder_<variant>
 }
 # FastOMA 0.5.0 cannot run without a species tree (fastoma-check-input: --species-tree
