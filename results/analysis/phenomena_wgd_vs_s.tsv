@@ -1,0 +1,4 @@
+panel	method	n_clusters	acc_D	acc_S	diff	ci_lo	ci_hi
+Y	orthofinder/default	532	0.2551	0.9378	-0.6828	-0.7212	-0.6421
+Y	orthofinder/dendroblast	532	0.2646	0.9420	-0.6774	-0.7147	-0.6379
+Y	fastoma/default_declared	532	0.6529	0.8588	-0.2059	-0.2533	-0.1620

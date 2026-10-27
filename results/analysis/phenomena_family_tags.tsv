@@ -1,0 +1,67 @@
+tag	n_items	panels	method	level_bcubed_f1	n_level_bcubed_f1	merge_accuracy_node	n_merge_accuracy_node	event_recovery_0.5	n_event_recovery_0.5	membership_f1	n_membership_f1
+ALLO	1	Y	orthofinder/default	0.9772	1	0.9003	1	0.1194	1		0
+ALLO	1	Y	orthofinder/dendroblast	0.9773	1	0.9037	1	0.1443	1		0
+ALLO	1	Y	fastoma/default_declared	0.9667	1	0.9002	1	0.2687	1		0
+ALLO	1	Y	of_flat/default	0.9641	1	0.8867	1	0.0149	1		0
+ALLO	1	Y	one_big_hog	0.9639	1	0.8859	1	0.0000	1		0
+ALLO	1	Y	all_singletons	0.6051	1	0.1141	1	0.0000	1		0
+ANALOG	10	K	orthofinder/default		0		0		0	0.9487	10
+ANALOG	10	K	orthofinder/dendroblast		0		0		0	0.9564	10
+ANALOG	10	K	fastoma/default_declared		0		0		0	0.8970	10
+ANALOG	10	K	of_flat/default		0		0		0	0.9487	10
+ANALOG	10	K	one_big_hog		0		0		0	0.7533	10
+ANALOG	10	K	all_singletons		0		0		0	0.0000	10
+DEEP/LECA/LUCA	7	EP	orthofinder/default	0.9842	7	0.7672	7	0.3889	6	0.6465	4
+DEEP/LECA/LUCA	7	EP	orthofinder/dendroblast		0		0		0		0
+DEEP/LECA/LUCA	7	EP	fastoma/default_declared	0.9315	7	0.6078	7	0.0764	6	0.4348	4
+DEEP/LECA/LUCA	7	EP	of_flat/default	0.4074	7	0.7162	7	0.0556	6	0.3080	4
+DEEP/LECA/LUCA	7	EP	one_big_hog	0.1728	7	0.6273	7	0.0000	6	0.2106	4
+DEEP/LECA/LUCA	7	EP	all_singletons	0.8850	7	0.3041	7	0.0000	6	0.0565	4
+DOM	1	P	orthofinder/default	0.9913	1	0.9990	1		0	0.3639	1
+DOM	1	P	orthofinder/dendroblast		0		0		0		0
+DOM	1	P	fastoma/default_declared	1.0000	1	1.0000	1		0	0.0185	1
+DOM	1	P	of_flat/default	0.5700	1	0.8869	1		0	0.3639	1
+DOM	1	P	one_big_hog	0.0452	1	0.0000	1		0	0.6966	1
+DOM	1	P	all_singletons	1.0000	1	1.0000	1		0	0.0000	1
+HGT	2	PY	orthofinder/default	0.9357	2	0.7911	2	0.1667	2		0
+HGT	2	PY	orthofinder/dendroblast	0.8778	1	0.8571	1	0.0000	1		0
+HGT	2	PY	fastoma/default_declared	0.9325	2	0.7921	2	0.1667	2		0
+HGT	2	PY	of_flat/default	0.5540	2	0.5967	2	0.1667	2		0
+HGT	2	PY	one_big_hog	0.3479	2	0.5286	2	0.0000	2		0
+HGT	2	PY	all_singletons	0.8681	2	0.2714	2	0.0000	2		0
+LOSS	8	EPY	orthofinder/default	0.9691	8	0.7661	8	0.3066	8	0.7407	3
+LOSS	8	EPY	orthofinder/dendroblast	0.9276	2	0.8804	2	0.0721	2		0
+LOSS	8	EPY	fastoma/default_declared	0.9200	8	0.6424	8	0.0909	8	0.5736	3
+LOSS	8	EPY	of_flat/default	0.4827	8	0.7338	8	0.0435	8	0.2894	3
+LOSS	8	EPY	one_big_hog	0.3430	8	0.7667	8	0.0000	8	0.0486	3
+LOSS	8	EPY	all_singletons	0.8230	8	0.1732	8	0.0000	8	0.0754	3
+NEOF	1	P	orthofinder/default	0.9979	1	0.9965	1	1.0000	1		0
+NEOF	1	P	orthofinder/dendroblast		0		0		0		0
+NEOF	1	P	fastoma/default_declared	1.0000	1	1.0000	1	1.0000	1		0
+NEOF	1	P	of_flat/default	0.3805	1	0.5141	1	0.0000	1		0
+NEOF	1	P	one_big_hog	0.3196	1	0.5000	1	0.0000	1		0
+NEOF	1	P	all_singletons	0.8720	1	0.2500	1	0.0000	1		0
+NESTED	1	P	orthofinder/default	0.9979	1	0.9965	1	1.0000	1		0
+NESTED	1	P	orthofinder/dendroblast		0		0		0		0
+NESTED	1	P	fastoma/default_declared	1.0000	1	1.0000	1	1.0000	1		0
+NESTED	1	P	of_flat/default	0.3805	1	0.5141	1	0.0000	1		0
+NESTED	1	P	one_big_hog	0.3196	1	0.5000	1	0.0000	1		0
+NESTED	1	P	all_singletons	0.8720	1	0.2500	1	0.0000	1		0
+PROM	3	E	orthofinder/default	0.9708	3	0.6859	3	0.3333	3	0.6874	2
+PROM	3	E	orthofinder/dendroblast		0		0		0		0
+PROM	3	E	fastoma/default_declared	0.8461	3	0.3830	3	0.0417	3	0.3916	2
+PROM	3	E	of_flat/default	0.2434	3	0.7819	3	0.0000	3	0.2210	2
+PROM	3	E	one_big_hog	0.1421	3	0.8803	3	0.0000	3	0.0326	2
+PROM	3	E	all_singletons	0.8268	3	0.0929	3	0.0000	3	0.1130	2
+TAND/LSE	4	E	orthofinder/default	0.9779	4	0.7466	4	0.5000	4	0.7407	3
+TAND/LSE	4	E	orthofinder/dendroblast		0		0		0		0
+TAND/LSE	4	E	fastoma/default_declared	0.8834	4	0.4837	4	0.0312	4	0.5736	3
+TAND/LSE	4	E	of_flat/default	0.2148	4	0.7746	4	0.0000	4	0.2894	3
+TAND/LSE	4	E	one_big_hog	0.1372	4	0.8477	4	0.0000	4	0.0486	3
+TAND/LSE	4	E	all_singletons	0.8631	4	0.1321	4	0.0000	4	0.0754	3
+WGD	1	Y	orthofinder/default	0.9772	1	0.9003	1	0.1194	1		0
+WGD	1	Y	orthofinder/dendroblast	0.9773	1	0.9037	1	0.1443	1		0
+WGD	1	Y	fastoma/default_declared	0.9667	1	0.9002	1	0.2687	1		0
+WGD	1	Y	of_flat/default	0.9641	1	0.8867	1	0.0149	1		0
+WGD	1	Y	one_big_hog	0.9639	1	0.8859	1	0.0000	1		0
+WGD	1	Y	all_singletons	0.6051	1	0.1141	1	0.0000	1		0
