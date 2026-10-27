@@ -1,0 +1,123 @@
+{
+ "hobench_git": {
+  "commit": "d2c56a6326ac21660cfd896891dc2b354036d62a",
+  "dirty": true
+ },
+ "script": "scripts/evaluate_panel.py",
+ "panel": "Y",
+ "mode": "subset",
+ "panel_tree_sha256": "35f3d1c80fe1ee4fa800fe0bb21e1d14dbdd92f59426b098e329c765c881a8be",
+ "panel_species_tsv_sha256": "18dbc4899d1eb933bbb59d152daa069bd3afa3ad83518d530864f784d4cac4b7",
+ "families_tree_hash": "8c1d8bb8a7fc9cc285e320dccf01ec941a518c7dc7023833b084b539ce190187",
+ "families_manifest_present": true,
+ "families_manifest_differences": [],
+ "n_families": 1976,
+ "n_excluded_subset": 1,
+ "n_non_headline": 0,
+ "n_control_track": 0,
+ "seeds_relabel": [
+  20261026,
+  314159,
+  271828,
+  161803,
+  141421,
+  173205,
+  223606,
+  244949,
+  264575,
+  282842
+ ],
+ "n_boot": 2000,
+ "runs": {
+  "fastoma/default_declared": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/subset/fastoma_default",
+   "prediction_sha256": "ccf6e19c4456469e78e252f9402444998f323b3f9e3ac7eb4505cbbcc1addd6b",
+   "manifest_sha256": "eb52e4e6cf907fa315726948e7d899a22ce395f9377b0cffcf0d532fe3181936",
+   "manifest_git_commit": "5e46b018e2b7cdc683105a5d8b7ec13ff17da9a3",
+   "prediction_meta": {
+    "format": "orthoxml",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/subset/fastoma_default/FastOMA_HOGs.orthoxml.gz",
+    "dup_placement": "declared",
+    "level_mapping": "clade sets from /scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/subset/fastoma_default/species_tree_checked.nwk",
+    "stats": {
+     "hogs": 46763,
+     "dup_placement_ambiguous": 168
+    },
+    "dup_placement_ambiguous": 168,
+    "unknown_species": []
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "fastoma/default_late": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/subset/fastoma_default",
+   "prediction_sha256": "ccf6e19c4456469e78e252f9402444998f323b3f9e3ac7eb4505cbbcc1addd6b",
+   "manifest_sha256": "eb52e4e6cf907fa315726948e7d899a22ce395f9377b0cffcf0d532fe3181936",
+   "manifest_git_commit": "5e46b018e2b7cdc683105a5d8b7ec13ff17da9a3",
+   "prediction_meta": {
+    "format": "orthoxml",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/subset/fastoma_default/FastOMA_HOGs.orthoxml.gz",
+    "dup_placement": "late",
+    "level_mapping": "clade sets from /scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/subset/fastoma_default/species_tree_checked.nwk",
+    "stats": {
+     "hogs": 46415,
+     "dup_placement_ambiguous": 168
+    },
+    "dup_placement_ambiguous": 168,
+    "unknown_species": []
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "of_flat/default": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/subset/of_flat_default",
+   "prediction_sha256": "5de78a225d0d52501c89446ce0d5d9b3f313663f49d388a1b038a8a133be8f3b",
+   "manifest_sha256": "3cd0a8b137c44396dc350700f487247d0b83d10a20cf5f446055af6ba4df5bf3",
+   "manifest_git_commit": "d2c56a6326ac21660cfd896891dc2b354036d62a",
+   "prediction_meta": {
+    "format": "tsv",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/subset/of_flat_default/hogs.tsv.gz",
+    "flat": true
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "orthofinder/default": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/subset/orthofinder_default",
+   "prediction_sha256": "3a6fd6c7c5f36c697d508d1449f46d37b160e0c27b0c3d96ae33246c8107e27f",
+   "manifest_sha256": "9adc9ec2ac38eb583672c26f2b31a5c74571209474af0a031cc30d20fa22e41a",
+   "manifest_git_commit": "5e46b018e2b7cdc683105a5d8b7ec13ff17da9a3",
+   "prediction_meta": {
+    "format": "orthofinder",
+    "source": "/tmp/hobench_eval_cache/Y/subset/orthofinder_default/Phylogenetic_Hierarchical_Orthogroups",
+    "of_to_ours": {
+     "N9": "Eremothecium",
+     "N6": "Kluyveromyces_Eremothecium",
+     "N4": "KLE_clade",
+     "N7": "ZT_clade",
+     "N14": "Naumovozyma",
+     "N12": "Naumovozyma_Kazachstania",
+     "N13": "Saccharomyces_Nakaseomyces",
+     "N10": "PostWGD_crown",
+     "N11": "Vanderwaltozyma_Tetrapisispora",
+     "N8": "PostWGD",
+     "N5": "ZT_PostWGD",
+     "N3": "Saccharomycetaceae",
+     "N2": "CUG_Saccharomycetaceae",
+     "N1": "Saccharomycotina",
+     "N0": "Ascomycota"
+    },
+    "unmatched_of_nodes": [],
+    "root_from_orthogroups": "/tmp/hobench_eval_cache/Y/subset/orthofinder_default/Orthogroups/Orthogroups.tsv",
+    "n_hogs_not_nested_in_og": 0,
+    "induced_levels": {}
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  }
+ }
+}

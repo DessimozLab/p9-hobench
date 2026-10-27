@@ -1,0 +1,128 @@
+{
+ "hobench_git": {
+  "commit": "d2c56a6326ac21660cfd896891dc2b354036d62a",
+  "dirty": true
+ },
+ "script": "scripts/evaluate_panel.py",
+ "panel": "K",
+ "mode": "subset",
+ "panel_tree_sha256": "7c58fe825de5951ee839f92d7d1aa99510265d56d8259b8d356bd43d2ed1c6ad",
+ "panel_species_tsv_sha256": "58f0358bf34a2c9f00be1b36de7062233082a6631ac766a743c45031c9e49d43",
+ "families_tree_hash": "8c1d8bb8a7fc9cc285e320dccf01ec941a518c7dc7023833b084b539ce190187",
+ "families_manifest_present": true,
+ "families_manifest_differences": [],
+ "n_families": 51,
+ "n_excluded_subset": 0,
+ "n_non_headline": 4,
+ "n_control_track": 41,
+ "seeds_relabel": [
+  20261026,
+  314159,
+  271828,
+  161803,
+  141421,
+  173205,
+  223606,
+  244949,
+  264575,
+  282842
+ ],
+ "n_boot": 2000,
+ "runs": {
+  "fastoma/default_declared": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/K/subset/fastoma_default",
+   "prediction_sha256": "c8da25c38965c4b9df378b763a8bb0dc2f96327c2b549bac0b978333cead38b8",
+   "manifest_sha256": "b53bf49d865b8dfd6f5cd356c20ae4a9869c995a71b06db48c0e107a589646a7",
+   "manifest_git_commit": "0b5dd0a2167cb20b6f18b634b59c43a5f060ff61",
+   "prediction_meta": {
+    "format": "orthoxml",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/K/subset/fastoma_default/FastOMA_HOGs.orthoxml.gz",
+    "dup_placement": "declared",
+    "level_mapping": "clade sets from /scratch/nromashc/agentic-ai/workspaces/mywork/runs/K/subset/fastoma_default/species_tree_checked.nwk",
+    "stats": {
+     "dup_placement_ambiguous": 46,
+     "hogs": 3701
+    },
+    "dup_placement_ambiguous": 46,
+    "unknown_species": []
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "fastoma/default_late": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/K/subset/fastoma_default",
+   "prediction_sha256": "c8da25c38965c4b9df378b763a8bb0dc2f96327c2b549bac0b978333cead38b8",
+   "manifest_sha256": "b53bf49d865b8dfd6f5cd356c20ae4a9869c995a71b06db48c0e107a589646a7",
+   "manifest_git_commit": "0b5dd0a2167cb20b6f18b634b59c43a5f060ff61",
+   "prediction_meta": {
+    "format": "orthoxml",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/K/subset/fastoma_default/FastOMA_HOGs.orthoxml.gz",
+    "dup_placement": "late",
+    "level_mapping": "clade sets from /scratch/nromashc/agentic-ai/workspaces/mywork/runs/K/subset/fastoma_default/species_tree_checked.nwk",
+    "stats": {
+     "dup_placement_ambiguous": 46,
+     "hogs": 3585
+    },
+    "dup_placement_ambiguous": 46,
+    "unknown_species": []
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "of_flat/default": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/K/subset/of_flat_default",
+   "prediction_sha256": "bca41a3576892febf5086610693410eac761996c2884b9c24c522272b5698519",
+   "manifest_sha256": "0a78afab7c40c372f094968788ba5eaf68158ddf07ba56e0da64239b751bf06c",
+   "manifest_git_commit": "d2c56a6326ac21660cfd896891dc2b354036d62a",
+   "prediction_meta": {
+    "format": "tsv",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/K/subset/of_flat_default/hogs.tsv.gz",
+    "flat": true
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "orthofinder/default": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/K/subset/orthofinder_default",
+   "prediction_sha256": "cd913de8e432e53db9173ae3971741a26580f8446b10d6363354cc43f92efa29",
+   "manifest_sha256": "d390fa7511c2f212a3df31fc1ffe60bda457be32ff7f2e4374b1095d476d0638",
+   "manifest_git_commit": "0b5dd0a2167cb20b6f18b634b59c43a5f060ff61",
+   "prediction_meta": {
+    "format": "orthofinder",
+    "source": "/tmp/hobench_eval_cache/K/subset/orthofinder_default/Phylogenetic_Hierarchical_Orthogroups",
+    "of_to_ours": {
+     "N7": "DST_clade",
+     "N13": "Bacillota_Actinomycetota",
+     "N8": "Terrabacteria_core",
+     "N3": "Terrabacteria",
+     "N14": "FCB_PVC",
+     "N9": "Spirochaetota_FCB_PVC",
+     "N18": "Gammaproteobacteria",
+     "N15": "Pseudomonadota",
+     "N19": "Campylobacterota_Aquificota",
+     "N16": "Desulfobacterota_Campylobacterota",
+     "N10": "Proteobacteria_sl",
+     "N4": "Gracilicutes",
+     "N1": "Bacteria",
+     "N17": "Methanomicrobia_Halobacteria",
+     "N11": "Euryarchaeota_core",
+     "N5": "Euryarchaeota",
+     "N12": "Crenarchaeota_Korarchaeota",
+     "N6": "TACK",
+     "N2": "Archaea",
+     "N0": "LUCA"
+    },
+    "unmatched_of_nodes": [],
+    "root_from_orthogroups": "/tmp/hobench_eval_cache/K/subset/orthofinder_default/Orthogroups/Orthogroups.tsv",
+    "n_hogs_not_nested_in_og": 0,
+    "induced_levels": {}
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  }
+ }
+}

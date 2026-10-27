@@ -2175,7 +2175,7 @@ K01_RPROT_L10	RPROT	random_relabel	mean10	Desulfobacterota_Campylobacterota	4	1	
 K01_RPROT_L10	RPROT	random_relabel	mean10	Methanomicrobia_Halobacteria	4	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_L10	RPROT	random_relabel	mean10	Gammaproteobacteria	5	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_L10	RPROT	random_relabel	mean10	Campylobacterota_Aquificota	5	1	2	0	0	1	0	1	0.5	0.666667
-K01_RPROT_L11	RPROT	random_relabel	mean10	LUCA	0	171	19	4	0	167	0.0457143	1	0.0747922	0.139175
+K01_RPROT_L11	RPROT	random_relabel	mean10	LUCA	0	171	19	3	0	168	0.0344828	1	0.0692521	0.129534
 K01_RPROT_L11	RPROT	random_relabel	mean10	Bacteria	1	66	12	1	0	65	0.0298507	1	0.0972222	0.177215
 K01_RPROT_L11	RPROT	random_relabel	mean10	Archaea	1	21	7	0	0	21	0	1	0.142857	0.25
 K01_RPROT_L11	RPROT	random_relabel	mean10	Terrabacteria	2	10	5	0	0	10	0	1	0.2	0.333333
@@ -2215,7 +2215,7 @@ K01_RPROT_L13	RPROT	random_relabel	mean10	Desulfobacterota_Campylobacterota	4	1	
 K01_RPROT_L13	RPROT	random_relabel	mean10	Methanomicrobia_Halobacteria	4	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_L13	RPROT	random_relabel	mean10	Gammaproteobacteria	5	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_L13	RPROT	random_relabel	mean10	Campylobacterota_Aquificota	5	1	2	0	0	1	0	1	0.5	0.666667
-K01_RPROT_L14	RPROT	random_relabel	mean10	LUCA	0	171	19	4	0	167	0.0457143	1	0.0747922	0.139175
+K01_RPROT_L14	RPROT	random_relabel	mean10	LUCA	0	171	19	3	0	168	0.0344828	1	0.0692521	0.129534
 K01_RPROT_L14	RPROT	random_relabel	mean10	Bacteria	1	66	12	1	0	65	0.0298507	1	0.0972222	0.177215
 K01_RPROT_L14	RPROT	random_relabel	mean10	Archaea	1	21	7	0	0	21	0	1	0.142857	0.25
 K01_RPROT_L14	RPROT	random_relabel	mean10	Terrabacteria	2	10	5	1	0	9	0.181818	1	0.28	0.4375
@@ -2235,7 +2235,7 @@ K01_RPROT_L14	RPROT	random_relabel	mean10	Desulfobacterota_Campylobacterota	4	1	
 K01_RPROT_L14	RPROT	random_relabel	mean10	Methanomicrobia_Halobacteria	4	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_L14	RPROT	random_relabel	mean10	Gammaproteobacteria	5	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_L14	RPROT	random_relabel	mean10	Campylobacterota_Aquificota	5	1	2	0	0	1	0	1	0.5	0.666667
-K01_RPROT_L15	RPROT	random_relabel	mean10	LUCA	0	171	19	2	0	169	0.0231214	1	0.0637119	0.119792
+K01_RPROT_L15	RPROT	random_relabel	mean10	LUCA	0	171	19	1	0	170	0.0116279	1	0.0581717	0.109948
 K01_RPROT_L15	RPROT	random_relabel	mean10	Bacteria	1	66	12	0	0	66	0	1	0.0833333	0.153846
 K01_RPROT_L15	RPROT	random_relabel	mean10	Archaea	1	21	7	0	0	21	0	1	0.142857	0.25
 K01_RPROT_L15	RPROT	random_relabel	mean10	Terrabacteria	2	10	5	0	0	10	0	1	0.2	0.333333
@@ -2314,7 +2314,7 @@ K01_RPROT_L19	RPROT	random_relabel	mean10	Pseudomonadota	4	1	2	0	0	1	0	1	0.5	0.6
 K01_RPROT_L19	RPROT	random_relabel	mean10	Desulfobacterota_Campylobacterota	4	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_L19	RPROT	random_relabel	mean10	Gammaproteobacteria	5	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_L19	RPROT	random_relabel	mean10	Campylobacterota_Aquificota	5	1	2	0	0	1	0	1	0.5	0.666667
-K01_RPROT_L2	RPROT	random_relabel	mean10	LUCA	0	171	19	3	0	168	0.0344828	1	0.0692521	0.129534
+K01_RPROT_L2	RPROT	random_relabel	mean10	LUCA	0	171	19	2	0	169	0.0231214	1	0.0637119	0.119792
 K01_RPROT_L2	RPROT	random_relabel	mean10	Bacteria	1	66	12	1	0	65	0.0298507	1	0.0972222	0.177215
 K01_RPROT_L2	RPROT	random_relabel	mean10	Archaea	1	21	7	0	0	21	0	1	0.142857	0.25
 K01_RPROT_L2	RPROT	random_relabel	mean10	Terrabacteria	2	10	5	0	0	10	0	1	0.2	0.333333
@@ -2460,9 +2460,9 @@ K01_RPROT_L29	RPROT	random_relabel	mean10	Desulfobacterota_Campylobacterota	4	1	
 K01_RPROT_L29	RPROT	random_relabel	mean10	Methanomicrobia_Halobacteria	4	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_L29	RPROT	random_relabel	mean10	Gammaproteobacteria	5	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_L29	RPROT	random_relabel	mean10	Campylobacterota_Aquificota	5	1	2	0	0	1	0	1	0.5	0.666667
-K01_RPROT_L3	RPROT	random_relabel	mean10	LUCA	0	171	19	4	0	167	0.0457143	1	0.0747922	0.139175
+K01_RPROT_L3	RPROT	random_relabel	mean10	LUCA	0	171	19	2	0	169	0.0231214	1	0.0637119	0.119792
 K01_RPROT_L3	RPROT	random_relabel	mean10	Bacteria	1	66	12	0	0	66	0	1	0.0833333	0.153846
-K01_RPROT_L3	RPROT	random_relabel	mean10	Archaea	1	21	7	1	0	20	0.0909091	1	0.183673	0.310345
+K01_RPROT_L3	RPROT	random_relabel	mean10	Archaea	1	21	7	0	0	21	0	1	0.142857	0.25
 K01_RPROT_L3	RPROT	random_relabel	mean10	Terrabacteria	2	10	5	0	0	10	0	1	0.2	0.333333
 K01_RPROT_L3	RPROT	random_relabel	mean10	Gracilicutes	2	21	7	0	0	21	0	1	0.142857	0.25
 K01_RPROT_L3	RPROT	random_relabel	mean10	Euryarchaeota	2	6	4	0	0	6	0	1	0.25	0.4
@@ -2480,9 +2480,9 @@ K01_RPROT_L3	RPROT	random_relabel	mean10	Desulfobacterota_Campylobacterota	4	1	2
 K01_RPROT_L3	RPROT	random_relabel	mean10	Methanomicrobia_Halobacteria	4	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_L3	RPROT	random_relabel	mean10	Gammaproteobacteria	5	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_L3	RPROT	random_relabel	mean10	Campylobacterota_Aquificota	5	1	2	0	0	1	0	1	0.5	0.666667
-K01_RPROT_L30	RPROT	random_relabel	mean10	LUCA	0	120	16	4	0	116	0.0645161	1	0.09375	0.171429
+K01_RPROT_L30	RPROT	random_relabel	mean10	LUCA	0	120	16	0	0	120	0	1	0.0625	0.117647
 K01_RPROT_L30	RPROT	random_relabel	mean10	Bacteria	1	36	9	0	0	36	0	1	0.111111	0.2
-K01_RPROT_L30	RPROT	random_relabel	mean10	Archaea	1	21	7	1	0	20	0.0909091	1	0.183673	0.310345
+K01_RPROT_L30	RPROT	random_relabel	mean10	Archaea	1	21	7	0	0	21	0	1	0.142857	0.25
 K01_RPROT_L30	RPROT	random_relabel	mean10	Terrabacteria	2	6	4	0	0	6	0	1	0.25	0.4
 K01_RPROT_L30	RPROT	random_relabel	mean10	Gracilicutes	2	10	5	0	0	10	0	1	0.2	0.333333
 K01_RPROT_L30	RPROT	random_relabel	mean10	Euryarchaeota	2	6	4	0	0	6	0	1	0.25	0.4
@@ -2555,7 +2555,7 @@ K01_RPROT_L4	RPROT	random_relabel	mean10	Desulfobacterota_Campylobacterota	4	1	2
 K01_RPROT_L4	RPROT	random_relabel	mean10	Methanomicrobia_Halobacteria	4	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_L4	RPROT	random_relabel	mean10	Gammaproteobacteria	5	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_L4	RPROT	random_relabel	mean10	Campylobacterota_Aquificota	5	1	2	0	0	1	0	1	0.5	0.666667
-K01_RPROT_L5	RPROT	random_relabel	mean10	LUCA	0	171	19	2	0	169	0.0231214	1	0.0637119	0.119792
+K01_RPROT_L5	RPROT	random_relabel	mean10	LUCA	0	171	19	1	0	170	0.0116279	1	0.0581717	0.109948
 K01_RPROT_L5	RPROT	random_relabel	mean10	Bacteria	1	66	12	0	0	66	0	1	0.0833333	0.153846
 K01_RPROT_L5	RPROT	random_relabel	mean10	Archaea	1	21	7	1	0	20	0.0909091	1	0.183673	0.310345
 K01_RPROT_L5	RPROT	random_relabel	mean10	Terrabacteria	2	10	5	0	0	10	0	1	0.2	0.333333
@@ -2681,7 +2681,7 @@ K01_RPROT_S19	RPROT	random_relabel	mean10	Desulfobacterota_Campylobacterota	4	1	
 K01_RPROT_S19	RPROT	random_relabel	mean10	Methanomicrobia_Halobacteria	4	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_S19	RPROT	random_relabel	mean10	Gammaproteobacteria	5	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_S19	RPROT	random_relabel	mean10	Campylobacterota_Aquificota	5	1	2	0	0	1	0	1	0.5	0.666667
-K01_RPROT_S2	RPROT	random_relabel	mean10	LUCA	0	171	19	1	0	170	0.0116279	1	0.0581717	0.109948
+K01_RPROT_S2	RPROT	random_relabel	mean10	LUCA	0	171	19	0	0	171	0	1	0.0526316	0.1
 K01_RPROT_S2	RPROT	random_relabel	mean10	Bacteria	1	66	12	0	0	66	0	1	0.0833333	0.153846
 K01_RPROT_S2	RPROT	random_relabel	mean10	Archaea	1	21	7	0	0	21	0	1	0.142857	0.25
 K01_RPROT_S2	RPROT	random_relabel	mean10	Terrabacteria	2	10	5	0	0	10	0	1	0.2	0.333333
@@ -2754,7 +2754,7 @@ K01_RPROT_S4	RPROT	random_relabel	mean10	Desulfobacterota_Campylobacterota	4	1	2
 K01_RPROT_S4	RPROT	random_relabel	mean10	Methanomicrobia_Halobacteria	4	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_S4	RPROT	random_relabel	mean10	Gammaproteobacteria	5	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_S4	RPROT	random_relabel	mean10	Campylobacterota_Aquificota	5	1	2	0	0	1	0	1	0.5	0.666667
-K01_RPROT_S5	RPROT	random_relabel	mean10	LUCA	0	171	19	3	0	168	0.0344828	1	0.0692521	0.129534
+K01_RPROT_S5	RPROT	random_relabel	mean10	LUCA	0	171	19	1	0	170	0.0116279	1	0.0581717	0.109948
 K01_RPROT_S5	RPROT	random_relabel	mean10	Bacteria	1	66	12	1	0	65	0.0298507	1	0.0972222	0.177215
 K01_RPROT_S5	RPROT	random_relabel	mean10	Archaea	1	21	7	0	0	21	0	1	0.142857	0.25
 K01_RPROT_S5	RPROT	random_relabel	mean10	Terrabacteria	2	10	5	0	0	10	0	1	0.2	0.333333
@@ -2787,8 +2787,8 @@ K01_RPROT_S6	RPROT	random_relabel	mean10	Pseudomonadota	4	1	2	0	0	1	0	1	0.5	0.66
 K01_RPROT_S6	RPROT	random_relabel	mean10	Desulfobacterota_Campylobacterota	4	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_S6	RPROT	random_relabel	mean10	Gammaproteobacteria	5	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_S6	RPROT	random_relabel	mean10	Campylobacterota_Aquificota	5	1	2	0	0	1	0	1	0.5	0.666667
-K01_RPROT_S8	RPROT	random_relabel	mean10	LUCA	0	171	19	4	0	167	0.0457143	1	0.0747922	0.139175
-K01_RPROT_S8	RPROT	random_relabel	mean10	Bacteria	1	66	12	1	0	65	0.0298507	1	0.0972222	0.177215
+K01_RPROT_S8	RPROT	random_relabel	mean10	LUCA	0	171	19	3	0	168	0.0344828	1	0.0692521	0.129534
+K01_RPROT_S8	RPROT	random_relabel	mean10	Bacteria	1	66	12	0	0	66	0	1	0.0833333	0.153846
 K01_RPROT_S8	RPROT	random_relabel	mean10	Archaea	1	21	7	0	0	21	0	1	0.142857	0.25
 K01_RPROT_S8	RPROT	random_relabel	mean10	Terrabacteria	2	10	5	0	0	10	0	1	0.2	0.333333
 K01_RPROT_S8	RPROT	random_relabel	mean10	Gracilicutes	2	21	7	0	0	21	0	1	0.142857	0.25
@@ -2807,7 +2807,7 @@ K01_RPROT_S8	RPROT	random_relabel	mean10	Desulfobacterota_Campylobacterota	4	1	2
 K01_RPROT_S8	RPROT	random_relabel	mean10	Methanomicrobia_Halobacteria	4	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_S8	RPROT	random_relabel	mean10	Gammaproteobacteria	5	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_S8	RPROT	random_relabel	mean10	Campylobacterota_Aquificota	5	1	2	0	0	1	0	1	0.5	0.666667
-K01_RPROT_S9	RPROT	random_relabel	mean10	LUCA	0	171	19	5	0	166	0.0568182	1	0.0803324	0.148718
+K01_RPROT_S9	RPROT	random_relabel	mean10	LUCA	0	171	19	4	0	167	0.0457143	1	0.0747922	0.139175
 K01_RPROT_S9	RPROT	random_relabel	mean10	Bacteria	1	66	12	1	0	65	0.0298507	1	0.0972222	0.177215
 K01_RPROT_S9	RPROT	random_relabel	mean10	Archaea	1	21	7	1	0	20	0.0909091	1	0.183673	0.310345
 K01_RPROT_S9	RPROT	random_relabel	mean10	Terrabacteria	2	10	5	0	0	10	0	1	0.2	0.333333
@@ -2827,7 +2827,7 @@ K01_RPROT_S9	RPROT	random_relabel	mean10	Desulfobacterota_Campylobacterota	4	1	2
 K01_RPROT_S9	RPROT	random_relabel	mean10	Methanomicrobia_Halobacteria	4	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_S9	RPROT	random_relabel	mean10	Gammaproteobacteria	5	1	2	0	0	1	0	1	0.5	0.666667
 K01_RPROT_S9	RPROT	random_relabel	mean10	Campylobacterota_Aquificota	5	1	2	0	0	1	0	1	0.5	0.666667
-K02_trGTPases		random_relabel	mean10	LUCA	0	759	47	4	10	215	0.0343348	0.829787	0.416076	0.554241
+K02_trGTPases		random_relabel	mean10	LUCA	0	759	47	3	10	216	0.0258621	0.829787	0.41253	0.551086
 K02_trGTPases		random_relabel	mean10	Bacteria	1	325	33	0	4	65	0	0.878788	0.575758	0.695707
 K02_trGTPases		random_relabel	mean10	Archaea	1	91	14	0	1	42	0	0.928571	0.142857	0.247619
 K02_trGTPases		random_relabel	mean10	Terrabacteria	2	60	15	0	0	10	0	1	0.733333	0.846154

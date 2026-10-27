@@ -41,18 +41,18 @@ P04_MIPs		one_big_hog		D_MIP_subfamilies	D	Embryophyta		5	4947	0	0	1	1	0	1	Mesan
 P04_MIPs		one_big_hog		D_PIP1_PIP2	D	Embryophyta		2	405	0	0	1	1	0	1	Mesangiospermae	internal	0	0	0
 P04_MIPs		one_big_hog		D_TIP_groups	D	Magnoliopsida		5	401	0	0	1	1	0	1	Poaceae	internal	1	0	0
 P04_MIPs		one_big_hog		D_SIP1_SIP2	D	Mesangiospermae		2	15	0	0	1	1	0	1	Mesangiospermae	internal	1	0	0
-P01_homeobox		random_relabel	mean10	D_TALE_nonTALE	D	Viridiplantae		2	17250	0.801913	0.801913	0.217769	1	0	0.198087	inf	internal	1	0	0
-P01_homeobox		random_relabel	mean10	D_KNOX_BEL	D	Viridiplantae		2	1156	0.822664	0.822664	1	1	0	0.177336	inf	internal	0	1	1
+P01_homeobox		random_relabel	mean10	D_TALE_nonTALE	D	Viridiplantae		2	17250	0.866899	0.866899	0.151208	1	0	0.133101	inf	internal	1	0	0
+P01_homeobox		random_relabel	mean10	D_KNOX_BEL	D	Viridiplantae		2	1156	0.881488	0.881488	1	1	0	0.118512	inf	internal	0	1	1
 P01_homeobox		random_relabel	mean10	D_KNOXI_KNOXII	D	Embryophyta		2	120	0.983333	0.983333	1	1	0	0.0166667	inf	internal	0	1	1
-P01_homeobox		random_relabel	mean10	D_DDT_WOX_PINTOX	D	Viridiplantae		3	421	0.795724	0.795724	0	1	0	0.204276	inf	internal	1	0	0
-P01_homeobox		random_relabel	mean10	D_HDZIP_I_IV	D	Embryophyta		4	6866	0.188611	0.969415	1	0.219196	0.780804	0.0305855	inf	internal	1	0	0
-P02_bHLH		random_relabel	mean10	D_subfamilies_Embryophyta	D	Embryophyta		20	45958	0.969385	0.969385	1	1	0	0.0306149	inf	internal	0	1	1
+P01_homeobox		random_relabel	mean10	D_DDT_WOX_PINTOX	D	Viridiplantae		3	421	0.890736	0.890736	0	1	0	0.109264	inf	internal	1	0	0
+P01_homeobox		random_relabel	mean10	D_HDZIP_I_IV	D	Embryophyta		4	6866	0.129187	0.976988	1	0.152199	0.847801	0.0230119	inf	internal	1	0	0
+P02_bHLH		random_relabel	mean10	D_subfamilies_Embryophyta	D	Embryophyta		20	45958	0.974324	0.974324	1	1	0	0.0256756	inf	internal	0	1	1
 P02_bHLH		random_relabel	mean10	D_subfamilies_Tracheophyta	D	Tracheophyta		4	1267	0.992107	0.992107	1	1	0	0.00789266	inf	internal	0	1	1
 P02_bHLH		random_relabel	mean10	D_subfamilies_angiosperm	D	Mesangiospermae		2	160	1	1	1	1	0	0	inf	internal	0	1	1
 P03_GID1_CXE		random_relabel	mean10	D_GID1_origin	D	Tracheophyta		2	1278	0.980438	0.980438	0.373494	1	0	0.0195618	inf	internal	1	0	0
 P03_GID1_CXE		random_relabel	mean10	D_GID1_AB	D	Rosids		2	42	0.214286	0.738095	1	0.47619	0.52381	0.261905	inf	internal	1	0	0
-P04_MIPs		random_relabel	mean10	D_MIP_subfamilies	D	Embryophyta		5	4947	0.973519	0.973519	0.0322581	1	0	0.0264807	inf	internal	1	0	0
-P04_MIPs		random_relabel	mean10	D_PIP1_PIP2	D	Embryophyta		2	405	0.985185	0.985185	1	1	0	0.0148148	inf	internal	0	1	1
+P04_MIPs		random_relabel	mean10	D_MIP_subfamilies	D	Embryophyta		5	4947	0.980999	0.980999	0	1	0	0.0190014	inf	internal	1	0	0
+P04_MIPs		random_relabel	mean10	D_PIP1_PIP2	D	Embryophyta		2	405	0.987654	0.987654	1	1	0	0.0123457	inf	internal	0	1	1
 P04_MIPs		random_relabel	mean10	D_TIP_groups	D	Magnoliopsida		5	401	0.0224439	1	1	0.0224439	0.977556	0	inf	internal	1	0	0
 P04_MIPs		random_relabel	mean10	D_SIP1_SIP2	D	Mesangiospermae		2	15	0	1	1	0	1	0	inf	internal	1	0	0
 P01_homeobox		fastoma	default_declared	D_TALE_nonTALE	D	Viridiplantae		2	17250	1	1	0.000723484	1	0	0	inf	internal	1	0	0

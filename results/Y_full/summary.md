@@ -1,6 +1,6 @@
 # Panel Y / full: evaluation summary
 
-hobench git 5e46b018e2 (dirty=True); 1977 families (+0 excluded: members absent from subset) (0 control-track, 0 non-headline); families tree hash 8c1d8bb8a7fc.
+hobench git d2c56a6326 (dirty=True); 1977 families (+0 excluded: members absent from subset) (0 control-track, 0 non-headline); families tree hash 8c1d8bb8a7fc.
 Descriptive only (mean over items; a collection is one item; no CIs). Headline = tracks family+collection, headline-eligible; control track (K01 RPROT, K02, E05) reported separately. Trivial baselines are rows of every table; skill = (s-b)/(1-b), b = per-family max(singletons, one big HOG, mean relabel). membership F1 is NA for families without complete cells or decoys. Confirmatory test: scripts/confirmatory.py.
 
 ## scope: headline
@@ -18,7 +18,7 @@ Descriptive only (mean over items; a collection is one item; no CIs). Headline =
 | orthofinder | default | 0.928 (2) | 0.425 | 0.879 (2) | 0.031 | 0.060 (2) | 0.060 | NA (0) | NA | 0.596 |
 | orthofinder | dendroblast | 0.928 (2) | 0.425 | 0.880 (2) | 0.047 | 0.072 (2) | 0.072 | NA (0) | NA | 0.603 |
 
-random relabel, min-max of item-mean over 10 seeds: level_bcubed_f1 0.692376-0.694726; merge_accuracy_node 0.127522-0.128858; event_recovery_0.5 0-0
+random relabel, min-max of item-mean over 10 seeds: level_bcubed_f1 0.692366-0.694716; merge_accuracy_node 0.127503-0.128844; event_recovery_0.5 0-0
 
 ## scope: control
 
@@ -58,7 +58,7 @@ random relabel, min-max of item-mean over 10 seeds:
 - one_big_hog merge_accuracy_node: mean 0.8859, min 0.0000, max 1.0000, n=1977
 - one_big_hog event_recovery_0.5: mean 0.0000, min 0.0000, max 0.0000, n=202
 - random_relabel level_bcubed_f1: mean 0.6054, min 0.4606, max 1.0000, n=1977
-- random_relabel merge_accuracy_node: mean 0.1146, min 0.0000, max 1.0000, n=1977
+- random_relabel merge_accuracy_node: mean 0.1145, min 0.0000, max 1.0000, n=1977
 - random_relabel event_recovery_0.5: mean 0.0000, min 0.0000, max 0.0000, n=202
 
 POSITIVE CONTROL: PERFECT on all primary endpoints.

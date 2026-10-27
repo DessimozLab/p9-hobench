@@ -48235,7 +48235,7 @@ YGOB_Anc_1_113	YGOB	random_relabel	mean10	PostWGD	5	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_1_113	YGOB	random_relabel	mean10	Eremothecium	6	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_1_113	YGOB	random_relabel	mean10	PostWGD_crown	6	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_1_113	YGOB	random_relabel	mean10	Saccharomyces_Nakaseomyces	7	1	2	0	0	1	0	1	0.5	0.666667
-YGOB_Anc_1_114	YGOB	random_relabel	mean10	Saccharomycetaceae	3	21	11	1	0	20	0.0909091	1	0.297521	0.458599
+YGOB_Anc_1_114	YGOB	random_relabel	mean10	Saccharomycetaceae	3	21	11	0	0	21	0	1	0.258953	0.411379
 YGOB_Anc_1_114	YGOB	random_relabel	mean10	KLE_clade	4	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_1_114	YGOB	random_relabel	mean10	ZT_PostWGD	4	2	4	0	0	2	0	1	0.5	0.666667
 YGOB_Anc_1_114	YGOB	random_relabel	mean10	ZT_clade	5	1	2	0	0	1	0	1	0.5	0.666667
@@ -56072,7 +56072,7 @@ YGOB_Anc_5_220	YGOB	random_relabel	mean10	ZT_PostWGD	4	1	2	0	0	1	0	1	0.5	0.66666
 YGOB_Anc_5_220	YGOB	random_relabel	mean10	Kluyveromyces_Eremothecium	5	3	3	0	0	3	0	1	0.333333	0.5
 YGOB_Anc_5_220	YGOB	random_relabel	mean10	ZT_clade	5	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_5_220	YGOB	random_relabel	mean10	Eremothecium	6	1	2	0	0	1	0	1	0.5	0.666667
-YGOB_Anc_5_221	YGOB	random_relabel	mean10	Saccharomycetaceae	3	39	12	1	0	38	0.05	1	0.179167	0.303887
+YGOB_Anc_5_221	YGOB	random_relabel	mean10	Saccharomycetaceae	3	39	12	0	0	39	0	1	0.155556	0.269231
 YGOB_Anc_5_221	YGOB	random_relabel	mean10	KLE_clade	4	6	4	0	0	6	0	1	0.25	0.4
 YGOB_Anc_5_221	YGOB	random_relabel	mean10	ZT_PostWGD	4	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_5_221	YGOB	random_relabel	mean10	Kluyveromyces_Eremothecium	5	3	3	0	0	3	0	1	0.333333	0.5
@@ -56517,7 +56517,7 @@ YGOB_Anc_5_292	YGOB	random_relabel	mean10	PostWGD_crown	6	4	8	0	0	1	0	1	0.875	0.
 YGOB_Anc_5_292	YGOB	random_relabel	mean10	Naumovozyma_Kazachstania	7	3	6	0	0	0		1	1	1
 YGOB_Anc_5_292	YGOB	random_relabel	mean10	Saccharomyces_Nakaseomyces	7	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_5_292	YGOB	random_relabel	mean10	Naumovozyma	8	2	4	0	0	0		1	1	1
-YGOB_Anc_5_293	YGOB	random_relabel	mean10	Saccharomycetaceae	3	43	13	1	0	42	0.0454545	1	0.178304	0.302645
+YGOB_Anc_5_293	YGOB	random_relabel	mean10	Saccharomycetaceae	3	43	13	0	0	43	0	1	0.157002	0.271394
 YGOB_Anc_5_293	YGOB	random_relabel	mean10	KLE_clade	4	6	4	0	0	6	0	1	0.25	0.4
 YGOB_Anc_5_293	YGOB	random_relabel	mean10	ZT_PostWGD	4	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_5_293	YGOB	random_relabel	mean10	Kluyveromyces_Eremothecium	5	3	3	0	0	3	0	1	0.333333	0.5
@@ -59200,7 +59200,7 @@ YGOB_Anc_5_89	YGOB	random_relabel	mean10	Saccharomycetaceae	3	16	9	0	0	16	0	1	0.
 YGOB_Anc_5_89	YGOB	random_relabel	mean10	KLE_clade	4	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_5_89	YGOB	random_relabel	mean10	ZT_PostWGD	4	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_5_89	YGOB	random_relabel	mean10	ZT_clade	5	1	2	0	0	1	0	1	0.5	0.666667
-YGOB_Anc_5_90	YGOB	random_relabel	mean10	Saccharomycetaceae	3	44	13	1	0	43	0.0444444	1	0.170611	0.291491
+YGOB_Anc_5_90	YGOB	random_relabel	mean10	Saccharomycetaceae	3	44	13	0	0	44	0	1	0.151874	0.263699
 YGOB_Anc_5_90	YGOB	random_relabel	mean10	KLE_clade	4	6	4	0	0	6	0	1	0.25	0.4
 YGOB_Anc_5_90	YGOB	random_relabel	mean10	ZT_PostWGD	4	2	4	0	0	2	0	1	0.5	0.666667
 YGOB_Anc_5_90	YGOB	random_relabel	mean10	Kluyveromyces_Eremothecium	5	3	3	0	0	3	0	1	0.333333	0.5
@@ -59980,7 +59980,7 @@ YGOB_Anc_7_120	YGOB	random_relabel	mean10	PostWGD	5	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_7_120	YGOB	random_relabel	mean10	Eremothecium	6	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_7_120	YGOB	random_relabel	mean10	PostWGD_crown	6	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_7_120	YGOB	random_relabel	mean10	Saccharomyces_Nakaseomyces	7	1	2	0	0	1	0	1	0.5	0.666667
-YGOB_Anc_7_122	YGOB	random_relabel	mean10	Saccharomycetaceae	3	43	13	1	0	42	0.0454545	1	0.178304	0.302645
+YGOB_Anc_7_122	YGOB	random_relabel	mean10	Saccharomycetaceae	3	43	13	0	0	43	0	1	0.157002	0.271394
 YGOB_Anc_7_122	YGOB	random_relabel	mean10	KLE_clade	4	6	4	0	0	6	0	1	0.25	0.4
 YGOB_Anc_7_122	YGOB	random_relabel	mean10	ZT_PostWGD	4	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_7_122	YGOB	random_relabel	mean10	Kluyveromyces_Eremothecium	5	3	3	0	0	3	0	1	0.333333	0.5
@@ -61046,7 +61046,7 @@ YGOB_Anc_7_254	YGOB	random_relabel	mean10	PostWGD	5	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_7_254	YGOB	random_relabel	mean10	Eremothecium	6	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_7_254	YGOB	random_relabel	mean10	PostWGD_crown	6	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_7_254	YGOB	random_relabel	mean10	Saccharomyces_Nakaseomyces	7	1	2	0	0	1	0	1	0.5	0.666667
-YGOB_Anc_7_255	YGOB	random_relabel	mean10	Saccharomycetaceae	3	44	13	1	0	43	0.0444444	1	0.173176	0.295225
+YGOB_Anc_7_255	YGOB	random_relabel	mean10	Saccharomycetaceae	3	44	13	0	0	44	0	1	0.151874	0.263699
 YGOB_Anc_7_255	YGOB	random_relabel	mean10	KLE_clade	4	6	4	0	0	6	0	1	0.25	0.4
 YGOB_Anc_7_255	YGOB	random_relabel	mean10	ZT_PostWGD	4	2	4	0	0	2	0	1	0.5	0.666667
 YGOB_Anc_7_255	YGOB	random_relabel	mean10	Kluyveromyces_Eremothecium	5	3	3	0	0	3	0	1	0.333333	0.5
@@ -62093,7 +62093,7 @@ YGOB_Anc_7_477	YGOB	random_relabel	mean10	Eremothecium	6	1	2	0	0	1	0	1	0.5	0.666
 YGOB_Anc_7_477	YGOB	random_relabel	mean10	PostWGD_crown	6	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_7_477	YGOB	random_relabel	mean10	Vanderwaltozyma_Tetrapisispora	6	2	4	0	0	0		1	1	1
 YGOB_Anc_7_477	YGOB	random_relabel	mean10	Saccharomyces_Nakaseomyces	7	1	2	0	0	1	0	1	0.5	0.666667
-YGOB_Anc_7_479	YGOB	random_relabel	mean10	Saccharomycetaceae	3	31	12	1	0	30	0.0625	1	0.227778	0.371041
+YGOB_Anc_7_479	YGOB	random_relabel	mean10	Saccharomycetaceae	3	31	12	0	0	31	0	1	0.2	0.333333
 YGOB_Anc_7_479	YGOB	random_relabel	mean10	KLE_clade	4	3	3	0	0	3	0	1	0.333333	0.5
 YGOB_Anc_7_479	YGOB	random_relabel	mean10	ZT_PostWGD	4	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_7_479	YGOB	random_relabel	mean10	Kluyveromyces_Eremothecium	5	1	2	0	0	1	0	1	0.5	0.666667
@@ -63471,7 +63471,7 @@ YGOB_Anc_8_405	YGOB	random_relabel	mean10	PostWGD	5	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_8_405	YGOB	random_relabel	mean10	Eremothecium	6	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_8_405	YGOB	random_relabel	mean10	PostWGD_crown	6	1	2	0	0	1	0	1	0.5	0.666667
 YGOB_Anc_8_405	YGOB	random_relabel	mean10	Saccharomyces_Nakaseomyces	7	1	2	0	0	1	0	1	0.5	0.666667
-YGOB_Anc_8_406	YGOB	random_relabel	mean10	Saccharomycetaceae	3	44	13	1	0	43	0.0444444	1	0.173176	0.295225
+YGOB_Anc_8_406	YGOB	random_relabel	mean10	Saccharomycetaceae	3	44	13	0	0	44	0	1	0.151874	0.263699
 YGOB_Anc_8_406	YGOB	random_relabel	mean10	KLE_clade	4	6	4	0	0	6	0	1	0.25	0.4
 YGOB_Anc_8_406	YGOB	random_relabel	mean10	ZT_PostWGD	4	2	4	0	0	2	0	1	0.5	0.666667
 YGOB_Anc_8_406	YGOB	random_relabel	mean10	Kluyveromyces_Eremothecium	5	3	3	0	0	3	0	1	0.333333	0.5

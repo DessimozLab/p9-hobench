@@ -35,22 +35,22 @@ control	positive_control	reference	control	event_recovery_0.8				0
 headline	all_singletons		control	level_bcubed_f1	0.941417	0.872027	1	3		
 headline	all_singletons		control	merge_accuracy_node	0.55	0.25	1	3		
 headline	all_singletons		control	event_recovery_0.5	0	0	0	2		
-headline	all_singletons		control	membership_f1	0	0	0	1		
-headline	all_singletons		control	skill_level_bcubed_f1	-0.260552	-0.521103	0	2		
+headline	all_singletons		control	membership_f1	0.0827586	0.0827586	0.0827586	1		
+headline	all_singletons		control	skill_level_bcubed_f1	-0.260302	-0.520603	0	2		
 headline	all_singletons		control	skill_merge_accuracy_node	-0.25	-0.5	0	2		
 headline	all_singletons		control	skill_event_recovery_0.5	0	0	0	2		
-headline	all_singletons		control	skill_membership_f1	-2.29551	-2.29551	-2.29551	1		
+headline	all_singletons		control	skill_membership_f1	-0.66238	-0.66238	-0.66238	1		
 headline	all_singletons		control	in_paralog_recovery_0.5				0		
 headline	all_singletons		control	merge_accuracy_sd_posthoc	0.25	0.25	0.25	2		
 headline	all_singletons		control	event_recovery_0.8	0	0	0	2		
 noncontrol_all	all_singletons		control	level_bcubed_f1	0.949091	0.872027	1	4		
 noncontrol_all	all_singletons		control	merge_accuracy_node	0.555357	0.25	1	4		
 noncontrol_all	all_singletons		control	event_recovery_0.5	0	0	0	3		
-noncontrol_all	all_singletons		control	membership_f1	0.0015674	0	0.0031348	2		
-noncontrol_all	all_singletons		control	skill_level_bcubed_f1	-0.173701	-0.521103	0	3		
+noncontrol_all	all_singletons		control	membership_f1	0.213793	0.0827586	0.344828	2		
+noncontrol_all	all_singletons		control	skill_level_bcubed_f1	-0.173534	-0.520603	0	3		
 noncontrol_all	all_singletons		control	skill_merge_accuracy_node	-0.166667	-0.5	0	3		
 noncontrol_all	all_singletons		control	skill_event_recovery_0.5	0	0	0	3		
-noncontrol_all	all_singletons		control	skill_membership_f1	-1.31611	-2.29551	-0.33671	2		
+noncontrol_all	all_singletons		control	skill_membership_f1	-0.33119	-0.66238	0	2		
 noncontrol_all	all_singletons		control	in_paralog_recovery_0.5				0		
 noncontrol_all	all_singletons		control	merge_accuracy_sd_posthoc	0.3	0.25	0.4	3		
 noncontrol_all	all_singletons		control	event_recovery_0.8	0	0	0	3		
@@ -68,8 +68,8 @@ control	all_singletons		control	event_recovery_0.8				0
 headline	one_big_hog		control	level_bcubed_f1	0.148435	0.0451963	0.31961	3		
 headline	one_big_hog		control	merge_accuracy_node	0.233333	0	0.5	3		
 headline	one_big_hog		control	event_recovery_0.5	0	0	0	2		
-headline	one_big_hog		control	membership_f1	0.696557	0.696557	0.696557	1		
-headline	one_big_hog		control	skill_level_bcubed_f1	-12.6667	-18.2461	-7.08718	2		
+headline	one_big_hog		control	membership_f1	0.448236	0.448236	0.448236	1		
+headline	one_big_hog		control	skill_level_bcubed_f1	-12.6653	-18.2461	-7.08452	2		
 headline	one_big_hog		control	skill_merge_accuracy_node	-0.166667	-0.333333	0	2		
 headline	one_big_hog		control	skill_event_recovery_0.5	0	0	0	2		
 headline	one_big_hog		control	skill_membership_f1	0	0	0	1		
@@ -79,11 +79,11 @@ headline	one_big_hog		control	event_recovery_0.8	0	0	0	2
 noncontrol_all	one_big_hog		control	level_bcubed_f1	0.139844	0.0451963	0.31961	4		
 noncontrol_all	one_big_hog		control	merge_accuracy_node	0.246429	0	0.5	4		
 noncontrol_all	one_big_hog		control	event_recovery_0.5	0	0	0	3		
-noncontrol_all	one_big_hog		control	membership_f1	0.475398	0.254239	0.696557	2		
-noncontrol_all	one_big_hog		control	skill_level_bcubed_f1	-18.7004	-30.768	-7.08718	3		
+noncontrol_all	one_big_hog		control	membership_f1	0.334332	0.220428	0.448236	2		
+noncontrol_all	one_big_hog		control	skill_level_bcubed_f1	-18.6996	-30.768	-7.08452	3		
 noncontrol_all	one_big_hog		control	skill_merge_accuracy_node	-0.333333	-0.666667	0	3		
 noncontrol_all	one_big_hog		control	skill_event_recovery_0.5	0	0	0	3		
-noncontrol_all	one_big_hog		control	skill_membership_f1	0	0	0	2		
+noncontrol_all	one_big_hog		control	skill_membership_f1	-0.0949366	-0.189873	0	2		
 noncontrol_all	one_big_hog		control	in_paralog_recovery_0.5				0		
 noncontrol_all	one_big_hog		control	merge_accuracy_sd_posthoc	0.5	0.5	0.5	3		
 noncontrol_all	one_big_hog		control	event_recovery_0.8	0	0	0	3		
@@ -98,27 +98,27 @@ control	one_big_hog		control	skill_membership_f1				0
 control	one_big_hog		control	in_paralog_recovery_0.5				0		
 control	one_big_hog		control	merge_accuracy_sd_posthoc				0		
 control	one_big_hog		control	event_recovery_0.8				0		
-headline	random_relabel	mean10	control	level_bcubed_f1	0.907563	0.898069	0.915868	3		
-headline	random_relabel	mean10	control	merge_accuracy_node	0.61616	0.398383	0.983825	3		
+headline	random_relabel	mean10	control	level_bcubed_f1	0.916346	0.913324	0.919875	3		
+headline	random_relabel	mean10	control	merge_accuracy_node	0.616472	0.397977	0.985129	3		
 headline	random_relabel	mean10	control	event_recovery_0.5	0	0	0	2		
-headline	random_relabel	mean10	control	membership_f1	0.394939	0.394939	0.394939	1		
-headline	random_relabel	mean10	control	skill_level_bcubed_f1	-0.454966	-0.909931	0	2		
-headline	random_relabel	mean10	control	skill_merge_accuracy_node	-0.0350759	-0.0674577	-0.00269419	2		
+headline	random_relabel	mean10	control	membership_f1	0.293282	0.293282	0.293282	1		
+headline	random_relabel	mean10	control	skill_level_bcubed_f1	-0.338551	-0.677103	0	2		
+headline	random_relabel	mean10	control	skill_merge_accuracy_node	-0.0353752	-0.0673794	-0.00337106	2		
 headline	random_relabel	mean10	control	skill_event_recovery_0.5	0	0	0	2		
-headline	random_relabel	mean10	control	skill_membership_f1	-0.993989	-0.993989	-0.993989	1		
+headline	random_relabel	mean10	control	skill_membership_f1	-0.280835	-0.280835	-0.280835	1		
 headline	random_relabel	mean10	control	in_paralog_recovery_0.5				0		
-headline	random_relabel	mean10	control	merge_accuracy_sd_posthoc	0.36349	0.260708	0.466271	2		
+headline	random_relabel	mean10	control	merge_accuracy_sd_posthoc	0.359867	0.253423	0.46631	2		
 headline	random_relabel	mean10	control	event_recovery_0.8	0	0	0	2		
-noncontrol_all	random_relabel	mean10	control	level_bcubed_f1	0.889805	0.836531	0.915868	4		
-noncontrol_all	random_relabel	mean10	control	merge_accuracy_node	0.591978	0.398383	0.983825	4		
+noncontrol_all	random_relabel	mean10	control	level_bcubed_f1	0.90253	0.861079	0.919875	4		
+noncontrol_all	random_relabel	mean10	control	merge_accuracy_node	0.595732	0.397977	0.985129	4		
 noncontrol_all	random_relabel	mean10	control	event_recovery_0.5	0	0	0	3		
-noncontrol_all	random_relabel	mean10	control	membership_f1	0.296054	0.197169	0.394939	2		
-noncontrol_all	random_relabel	mean10	control	skill_level_bcubed_f1	-1.9239	-4.86176	0	3		
-noncontrol_all	random_relabel	mean10	control	skill_merge_accuracy_node	-0.063824	-0.12132	-0.00269419	3		
+noncontrol_all	random_relabel	mean10	control	membership_f1	0.289412	0.285543	0.293282	2		
+noncontrol_all	random_relabel	mean10	control	skill_level_bcubed_f1	-1.55287	-3.98151	0	3		
+noncontrol_all	random_relabel	mean10	control	skill_merge_accuracy_node	-0.0530747	-0.0884738	-0.00337106	3		
 noncontrol_all	random_relabel	mean10	control	skill_event_recovery_0.5	0	0	0	3		
-noncontrol_all	random_relabel	mean10	control	skill_membership_f1	-0.535257	-0.993989	-0.0765259	2		
+noncontrol_all	random_relabel	mean10	control	skill_membership_f1	-0.185661	-0.280835	-0.0904863	2		
 noncontrol_all	random_relabel	mean10	control	in_paralog_recovery_0.5				0		
-noncontrol_all	random_relabel	mean10	control	merge_accuracy_sd_posthoc	0.367695	0.260708	0.466271	3		
+noncontrol_all	random_relabel	mean10	control	merge_accuracy_sd_posthoc	0.365487	0.253423	0.46631	3		
 noncontrol_all	random_relabel	mean10	control	event_recovery_0.8	0	0	0	3		
 control	random_relabel	mean10	control	level_bcubed_f1				0		
 control	random_relabel	mean10	control	merge_accuracy_node				0		
@@ -134,22 +134,22 @@ control	random_relabel	mean10	control	event_recovery_0.8				0
 headline	fastoma	default_declared	tool	level_bcubed_f1	0.997397	0.992192	1	3		
 headline	fastoma	default_declared	tool	merge_accuracy_node	0.866667	0.6	1	3		
 headline	fastoma	default_declared	tool	event_recovery_0.5	0.666667	0.333333	1	2		
-headline	fastoma	default_declared	tool	membership_f1	0.018457	0.018457	0.018457	1		
+headline	fastoma	default_declared	tool	membership_f1	0.189645	0.189645	0.189645	1		
 headline	fastoma	default_declared	tool	skill_level_bcubed_f1	0.918283	0.836566	1	2		
 headline	fastoma	default_declared	tool	skill_merge_accuracy_node	0.666667	0.333333	1	2		
 headline	fastoma	default_declared	tool	skill_event_recovery_0.5	0.666667	0.333333	1	2		
-headline	fastoma	default_declared	tool	skill_membership_f1	-2.23469	-2.23469	-2.23469	1		
+headline	fastoma	default_declared	tool	skill_membership_f1	-0.468662	-0.468662	-0.468662	1		
 headline	fastoma	default_declared	tool	in_paralog_recovery_0.5				0		
 headline	fastoma	default_declared	tool	merge_accuracy_sd_posthoc	0.6875	0.375	1	2		
 headline	fastoma	default_declared	tool	event_recovery_0.8	0.666667	0.333333	1	2		
 noncontrol_all	fastoma	default_declared	tool	level_bcubed_f1	0.99051	0.969847	1	4		
 noncontrol_all	fastoma	default_declared	tool	merge_accuracy_node	0.797436	0.589744	1	4		
 noncontrol_all	fastoma	default_declared	tool	event_recovery_0.5	0.444444	0	1	3		
-noncontrol_all	fastoma	default_declared	tool	membership_f1	0.143169	0.018457	0.26788	2		
+noncontrol_all	fastoma	default_declared	tool	membership_f1	0.368596	0.189645	0.547546	2		
 noncontrol_all	fastoma	default_declared	tool	skill_level_bcubed_f1	0.585106	-0.0812477	1	3		
 noncontrol_all	fastoma	default_declared	tool	skill_merge_accuracy_node	0.458689	0.042735	1	3		
 noncontrol_all	fastoma	default_declared	tool	skill_event_recovery_0.5	0.444444	0	1	3		
-noncontrol_all	fastoma	default_declared	tool	skill_membership_f1	-1.1082	-2.23469	0.0182914	2		
+noncontrol_all	fastoma	default_declared	tool	skill_membership_f1	-0.0796247	-0.468662	0.309413	2		
 noncontrol_all	fastoma	default_declared	tool	in_paralog_recovery_0.5				0		
 noncontrol_all	fastoma	default_declared	tool	merge_accuracy_sd_posthoc	0.60235	0.375	1	3		
 noncontrol_all	fastoma	default_declared	tool	event_recovery_0.8	0.444444	0	1	3		
@@ -167,22 +167,22 @@ control	fastoma	default_declared	tool	event_recovery_0.8				0
 headline	fastoma	default_late	tool	level_bcubed_f1	0.997397	0.992192	1	3		
 headline	fastoma	default_late	tool	merge_accuracy_node	0.866667	0.6	1	3		
 headline	fastoma	default_late	tool	event_recovery_0.5	0.666667	0.333333	1	2		
-headline	fastoma	default_late	tool	membership_f1	0.018457	0.018457	0.018457	1		
+headline	fastoma	default_late	tool	membership_f1	0.189645	0.189645	0.189645	1		
 headline	fastoma	default_late	tool	skill_level_bcubed_f1	0.918283	0.836566	1	2		
 headline	fastoma	default_late	tool	skill_merge_accuracy_node	0.666667	0.333333	1	2		
 headline	fastoma	default_late	tool	skill_event_recovery_0.5	0.666667	0.333333	1	2		
-headline	fastoma	default_late	tool	skill_membership_f1	-2.23469	-2.23469	-2.23469	1		
+headline	fastoma	default_late	tool	skill_membership_f1	-0.468662	-0.468662	-0.468662	1		
 headline	fastoma	default_late	tool	in_paralog_recovery_0.5				0		
 headline	fastoma	default_late	tool	merge_accuracy_sd_posthoc	0.6875	0.375	1	2		
 headline	fastoma	default_late	tool	event_recovery_0.8	0.666667	0.333333	1	2		
 noncontrol_all	fastoma	default_late	tool	level_bcubed_f1	0.99051	0.969847	1	4		
 noncontrol_all	fastoma	default_late	tool	merge_accuracy_node	0.797436	0.589744	1	4		
 noncontrol_all	fastoma	default_late	tool	event_recovery_0.5	0.444444	0	1	3		
-noncontrol_all	fastoma	default_late	tool	membership_f1	0.143169	0.018457	0.26788	2		
+noncontrol_all	fastoma	default_late	tool	membership_f1	0.368596	0.189645	0.547546	2		
 noncontrol_all	fastoma	default_late	tool	skill_level_bcubed_f1	0.585106	-0.0812477	1	3		
 noncontrol_all	fastoma	default_late	tool	skill_merge_accuracy_node	0.458689	0.042735	1	3		
 noncontrol_all	fastoma	default_late	tool	skill_event_recovery_0.5	0.444444	0	1	3		
-noncontrol_all	fastoma	default_late	tool	skill_membership_f1	-1.1082	-2.23469	0.0182914	2		
+noncontrol_all	fastoma	default_late	tool	skill_membership_f1	-0.0796247	-0.468662	0.309413	2		
 noncontrol_all	fastoma	default_late	tool	in_paralog_recovery_0.5				0		
 noncontrol_all	fastoma	default_late	tool	merge_accuracy_sd_posthoc	0.60235	0.375	1	3		
 noncontrol_all	fastoma	default_late	tool	event_recovery_0.8	0.444444	0	1	3		
@@ -200,22 +200,22 @@ control	fastoma	default_late	tool	event_recovery_0.8				0
 headline	of_flat	default	tool	level_bcubed_f1	0.481125	0.380528	0.57004	3		
 headline	of_flat	default	tool	merge_accuracy_node	0.579109	0.336325	0.886918	3		
 headline	of_flat	default	tool	event_recovery_0.5	0.166667	0	0.333333	2		
-headline	of_flat	default	tool	membership_f1	0.363892	0.363892	0.363892	1		
-headline	of_flat	default	tool	skill_level_bcubed_f1	-7.98957	-9.61605	-6.3631	2		
+headline	of_flat	default	tool	membership_f1	0.525689	0.525689	0.525689	1		
+headline	of_flat	default	tool	skill_level_bcubed_f1	-7.98836	-9.61605	-6.36068	2		
 headline	of_flat	default	tool	skill_merge_accuracy_node	-0.038978	-0.106125	0.028169	2		
 headline	of_flat	default	tool	skill_event_recovery_0.5	0.166667	0	0.333333	2		
-headline	of_flat	default	tool	skill_membership_f1	-1.0963	-1.0963	-1.0963	1		
+headline	of_flat	default	tool	skill_membership_f1	0.140373	0.140373	0.140373	1		
 headline	of_flat	default	tool	in_paralog_recovery_0.5				0		
 headline	of_flat	default	tool	merge_accuracy_sd_posthoc	0.549644	0.514085	0.585203	2		
 headline	of_flat	default	tool	event_recovery_0.8	0	0	0	2		
 noncontrol_all	of_flat	default	tool	level_bcubed_f1	0.589065	0.380528	0.912885	4		
 noncontrol_all	of_flat	default	tool	merge_accuracy_node	0.573526	0.336325	0.886918	4		
 noncontrol_all	of_flat	default	tool	event_recovery_0.5	0.111111	0	0.333333	3		
-noncontrol_all	of_flat	default	tool	membership_f1	0.569441	0.363892	0.77499	2		
-noncontrol_all	of_flat	default	tool	skill_level_bcubed_f1	-6.03432	-9.61605	-2.12381	3		
+noncontrol_all	of_flat	default	tool	membership_f1	0.585152	0.525689	0.644614	2		
+noncontrol_all	of_flat	default	tool	skill_level_bcubed_f1	-6.03351	-9.61605	-2.12381	3		
 noncontrol_all	of_flat	default	tool	skill_merge_accuracy_node	-0.0373813	-0.106125	0.028169	3		
 noncontrol_all	of_flat	default	tool	skill_event_recovery_0.5	0.111111	0	0.333333	3		
-noncontrol_all	of_flat	default	tool	skill_membership_f1	-0.199011	-1.0963	0.698282	2		
+noncontrol_all	of_flat	default	tool	skill_membership_f1	0.298971	0.140373	0.457569	2		
 noncontrol_all	of_flat	default	tool	in_paralog_recovery_0.5				0		
 noncontrol_all	of_flat	default	tool	merge_accuracy_sd_posthoc	0.541216	0.514085	0.585203	3		
 noncontrol_all	of_flat	default	tool	event_recovery_0.8	0	0	0	3		
@@ -233,22 +233,22 @@ control	of_flat	default	tool	event_recovery_0.8				0
 headline	orthofinder	default	tool	level_bcubed_f1	0.994274	0.991318	0.997922	3		
 headline	orthofinder	default	tool	merge_accuracy_node	0.906824	0.725	0.998992	3		
 headline	orthofinder	default	tool	event_recovery_0.5	0.666667	0.333333	1	2		
-headline	orthofinder	default	tool	membership_f1	0.363892	0.363892	0.363892	1		
-headline	orthofinder	default	tool	skill_level_bcubed_f1	0.920494	0.865686	0.975303	2		
+headline	orthofinder	default	tool	membership_f1	0.525689	0.525689	0.525689	1		
+headline	orthofinder	default	tool	skill_level_bcubed_f1	0.920498	0.865686	0.975311	2		
 headline	orthofinder	default	tool	skill_merge_accuracy_node	0.767312	0.541667	0.992958	2		
 headline	orthofinder	default	tool	skill_event_recovery_0.5	0.666667	0.333333	1	2		
-headline	orthofinder	default	tool	skill_membership_f1	-1.0963	-1.0963	-1.0963	1		
+headline	orthofinder	default	tool	skill_membership_f1	0.140373	0.140373	0.140373	1		
 headline	orthofinder	default	tool	in_paralog_recovery_0.5				0		
 headline	orthofinder	default	tool	merge_accuracy_sd_posthoc	0.841989	0.6875	0.996479	2		
 headline	orthofinder	default	tool	event_recovery_0.8	0.666667	0.333333	1	2		
 noncontrol_all	orthofinder	default	tool	level_bcubed_f1	0.988165	0.969837	0.997922	4		
 noncontrol_all	orthofinder	default	tool	merge_accuracy_node	0.856212	0.704378	0.998992	4		
 noncontrol_all	orthofinder	default	tool	event_recovery_0.5	0.444444	0	1	3		
-noncontrol_all	orthofinder	default	tool	membership_f1	0.569441	0.363892	0.77499	2		
-noncontrol_all	orthofinder	default	tool	skill_level_bcubed_f1	0.586459	-0.0816119	0.975303	3		
+noncontrol_all	orthofinder	default	tool	membership_f1	0.585152	0.525689	0.644614	2		
+noncontrol_all	orthofinder	default	tool	skill_level_bcubed_f1	0.586462	-0.0816119	0.975311	3		
 noncontrol_all	orthofinder	default	tool	skill_merge_accuracy_node	0.614946	0.310214	0.992958	3		
 noncontrol_all	orthofinder	default	tool	skill_event_recovery_0.5	0.444444	0	1	3		
-noncontrol_all	orthofinder	default	tool	skill_membership_f1	-0.199011	-1.0963	0.698282	2		
+noncontrol_all	orthofinder	default	tool	skill_membership_f1	0.298971	0.140373	0.457569	2		
 noncontrol_all	orthofinder	default	tool	in_paralog_recovery_0.5				0		
 noncontrol_all	orthofinder	default	tool	merge_accuracy_sd_posthoc	0.770553	0.62768	0.996479	3		
 noncontrol_all	orthofinder	default	tool	event_recovery_0.8	0.444444	0	1	3		
@@ -263,17 +263,17 @@ control	orthofinder	default	tool	skill_membership_f1				0
 control	orthofinder	default	tool	in_paralog_recovery_0.5				0		
 control	orthofinder	default	tool	merge_accuracy_sd_posthoc				0		
 control	orthofinder	default	tool	event_recovery_0.8				0		
-headline	random_relabel	seeds10	control	level_bcubed_f1	0.907563				0.901446	0.912248
-headline	random_relabel	seeds10	control	merge_accuracy_node	0.61616				0.607556	0.629788
+headline	random_relabel	seeds10	control	level_bcubed_f1	0.916346				0.909316	0.919967
+headline	random_relabel	seeds10	control	merge_accuracy_node	0.616472				0.608804	0.631333
 headline	random_relabel	seeds10	control	event_recovery_0.5	0				0	0
-headline	random_relabel	seeds10	control	membership_f1	0.394939				0.373164	0.419816
-headline	random_relabel	seeds10	control	merge_accuracy_sd_posthoc	0.36349				0.346489	0.38556
+headline	random_relabel	seeds10	control	membership_f1	0.293282				0.281978	0.313052
+headline	random_relabel	seeds10	control	merge_accuracy_sd_posthoc	0.359867				0.347276	0.386695
 headline	random_relabel	seeds10	control	event_recovery_0.8	0				0	0
-noncontrol_all	random_relabel	seeds10	control	level_bcubed_f1	0.889805				0.886588	0.891794
-noncontrol_all	random_relabel	seeds10	control	merge_accuracy_node	0.591978				0.58167	0.607217
+noncontrol_all	random_relabel	seeds10	control	level_bcubed_f1	0.90253				0.898338	0.904876
+noncontrol_all	random_relabel	seeds10	control	merge_accuracy_node	0.595732				0.588927	0.61344
 noncontrol_all	random_relabel	seeds10	control	event_recovery_0.5	0				0	0
-noncontrol_all	random_relabel	seeds10	control	membership_f1	0.296054				0.286471	0.304645
-noncontrol_all	random_relabel	seeds10	control	merge_accuracy_sd_posthoc	0.367695				0.349878	0.388031
+noncontrol_all	random_relabel	seeds10	control	membership_f1	0.289412				0.276112	0.298354
+noncontrol_all	random_relabel	seeds10	control	merge_accuracy_sd_posthoc	0.365487				0.35502	0.392297
 noncontrol_all	random_relabel	seeds10	control	event_recovery_0.8	0				0	0
 gate	fastoma	default_declared	tool	frac_units_identical_to_all_singletons	0			4		
 gate	fastoma	default_late	tool	frac_units_identical_to_all_singletons	0			4		

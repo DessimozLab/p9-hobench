@@ -22,6 +22,7 @@ from hobench.speciestree import SpeciesTree              # noqa: E402
 import evaluate_panel as ep                              # noqa: E402
 
 MARGIN, NB = 0.05, 10000
+NOTE = '\nNotes: K event recovery has n=1 event (K02 TU_G_dup), so a delta of +1.0 is a single flip, not an estimate; treat as inconclusive. Y membership F1 is NA (no complete cells/decoys). Pair identity is computed once per tool (shown on the level_bcubed_f1 row). FastOMA variants: declared/late; dendroblast and OF variants other than default have no subset runs.\n'
 
 
 def read_pf(P, mode):
@@ -94,7 +95,7 @@ def main():
                 pid = f"{same / tot:.4f} ({tot})" if tot else "NA"
             md.append(f"| {P} | {meth} | {var} | {metric} | {len(d)} | {d.mean():+.4f} | [{lo:+.4f}, {hi:+.4f}] | "
                       f"{'YES' if eq else 'no'} | {pid} |")
-    (ROOT / "results" / "equivalence.md").write_text("\n".join(md) + "\n")
+    (ROOT / "results" / "equivalence.md").write_text("\n".join(md) + "\n" + NOTE)
     print("\n".join(md))
 
 

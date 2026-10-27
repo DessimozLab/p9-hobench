@@ -98,8 +98,8 @@ control	one_big_hog		control	skill_membership_f1				0
 control	one_big_hog		control	in_paralog_recovery_0.5				0		
 control	one_big_hog		control	merge_accuracy_sd_posthoc				0		
 control	one_big_hog		control	event_recovery_0.8				0		
-headline	random_relabel	mean10	control	level_bcubed_f1	0.694458	0.605346	0.78357	2		
-headline	random_relabel	mean10	control	merge_accuracy_node	0.128594	0.114558	0.14263	2		
+headline	random_relabel	mean10	control	level_bcubed_f1	0.694451	0.605332	0.78357	2		
+headline	random_relabel	mean10	control	merge_accuracy_node	0.128581	0.114532	0.14263	2		
 headline	random_relabel	mean10	control	event_recovery_0.5	0	0	0	2		
 headline	random_relabel	mean10	control	membership_f1				0		
 headline	random_relabel	mean10	control	skill_level_bcubed_f1	-0.807817	-1.61352	-0.00211122	2		
@@ -109,8 +109,8 @@ headline	random_relabel	mean10	control	skill_membership_f1				0
 headline	random_relabel	mean10	control	in_paralog_recovery_0.5				0		
 headline	random_relabel	mean10	control	merge_accuracy_sd_posthoc	0.500294	0.500294	0.500294	1		
 headline	random_relabel	mean10	control	event_recovery_0.8	0	0	0	2		
-noncontrol_all	random_relabel	mean10	control	level_bcubed_f1	0.694458	0.605346	0.78357	2		
-noncontrol_all	random_relabel	mean10	control	merge_accuracy_node	0.128594	0.114558	0.14263	2		
+noncontrol_all	random_relabel	mean10	control	level_bcubed_f1	0.694451	0.605332	0.78357	2		
+noncontrol_all	random_relabel	mean10	control	merge_accuracy_node	0.128581	0.114532	0.14263	2		
 noncontrol_all	random_relabel	mean10	control	event_recovery_0.5	0	0	0	2		
 noncontrol_all	random_relabel	mean10	control	membership_f1				0		
 noncontrol_all	random_relabel	mean10	control	skill_level_bcubed_f1	-0.807817	-1.61352	-0.00211122	2		
@@ -329,13 +329,13 @@ control	orthofinder	dendroblast	tool	skill_membership_f1				0
 control	orthofinder	dendroblast	tool	in_paralog_recovery_0.5				0		
 control	orthofinder	dendroblast	tool	merge_accuracy_sd_posthoc				0		
 control	orthofinder	dendroblast	tool	event_recovery_0.8				0		
-headline	random_relabel	seeds10	control	level_bcubed_f1	0.694458				0.692376	0.694726
-headline	random_relabel	seeds10	control	merge_accuracy_node	0.128594				0.127522	0.128858
+headline	random_relabel	seeds10	control	level_bcubed_f1	0.694451				0.692366	0.694716
+headline	random_relabel	seeds10	control	merge_accuracy_node	0.128581				0.127503	0.128844
 headline	random_relabel	seeds10	control	event_recovery_0.5	0				0	0
 headline	random_relabel	seeds10	control	merge_accuracy_sd_posthoc	0.500294				0.500082	0.501079
 headline	random_relabel	seeds10	control	event_recovery_0.8	0				0	0
-noncontrol_all	random_relabel	seeds10	control	level_bcubed_f1	0.694458				0.692376	0.694726
-noncontrol_all	random_relabel	seeds10	control	merge_accuracy_node	0.128594				0.127522	0.128858
+noncontrol_all	random_relabel	seeds10	control	level_bcubed_f1	0.694451				0.692366	0.694716
+noncontrol_all	random_relabel	seeds10	control	merge_accuracy_node	0.128581				0.127503	0.128844
 noncontrol_all	random_relabel	seeds10	control	event_recovery_0.5	0				0	0
 noncontrol_all	random_relabel	seeds10	control	merge_accuracy_sd_posthoc	0.500294				0.500082	0.501079
 noncontrol_all	random_relabel	seeds10	control	event_recovery_0.8	0				0	0
