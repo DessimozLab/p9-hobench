@@ -5,6 +5,14 @@ Start: see START.txt (2026-10-26T13:17:42Z). Budget 24 h → hard stop 2026-10-2
 
 ## Status summary (latest milestone first)
 
+### M6 — All runs complete; final scoring (T+18h, 07:20 UTC)
+Third account-limit outage (~02:55→07:15 UTC) killed the SwissTree extension (dropped; partial files in families_ext/
+not used) and the evaluator mid-robustness. All tool runs finished meanwhile: Y robustness (alt tree, fragmentation,
+contamination, taxon removal; OF + FastOMA + flat) with an OF replicate as noise floor, and OF-dendroblast on E/P/V
+subsets. Confirmatory (5 panels, n=13): OF > FastOMA on per-level B-cubed F1 (Holm p=0.035); subset≈full equivalence
+holds on Y and K. REPORT.md draft v1 written; now scoring robustness + dendroblast, then final analysis, claim check,
+and report.
+
 ### M5 — First cross-panel results (T+11h45, 01:00 UTC)
 Scored Y/K full, E/P/K subsets. Pooled headline (OF default vs FastOMA declared, n=9–14 items): B-cubed level F1
 0.974 vs 0.936; node merge accuracy 0.812 vs 0.714; internal-event recovery 0.384 vs 0.192; membership F1 0.862 vs
@@ -81,9 +89,9 @@ Git repo initialised. Next: parallel literature survey (benchmarks/metrics; cand
 - [ ] 3. Data: species panels + proteomes (DATA.md)
 - [x] 4. Curation (frozen refs-frozen-v1; families/VERIFICATION.md, families/AUDIT.md): literature extraction → reference families (assertions with provenance)
 - [~] 5. Metrics library + toy/positive/negative controls (hobench core: 53 tests pass)
-- [ ] 6. Tool wrapper (OrthoFinder, FastOMA, baselines) + runs
-- [ ] 7. Analysis: difficulty, method agreement, perturbation robustness
-- [ ] 8. REPORT.md
+- [x] 6. Tool wrapper (OrthoFinder, FastOMA, baselines) + runs
+- [~] 7. Analysis: difficulty, method agreement, perturbation robustness
+- [~] 8. REPORT.md (draft v1)
 
 ## Calibration facts (M0)
 - [!] Usable RAM ≈ 50 GB (cgroup), 12 cores. OMAmer LUCA db = 9.9 GB file, 14 GB RSS per omamer process.
@@ -103,3 +111,4 @@ Git repo initialised. Next: parallel literature survey (benchmarks/metrics; cand
 - D8 (T+10h): Cut salmonid 4R/chemokines/KRAB/MADS/SwissTree/PolB; ≤4 concurrent agents, Sonnet for evaluation. Why: second account-limit outage; budget is the bottleneck.
 - D9 (T+10h30): Freeze now (earlier than T+12) because all launched curation finished; V01 FAIL → secondary (no re-curation; budget).
 - D10 (T+10h30): Keep compressed tool outputs in git (≤20 MB/run) despite audit suggestion — brief requires results in git; metrics reproducible without re-running tools.
+- D11 (T+18h): Drop SwissTree extension (third outage; <5 h left); PI runs scoring scripts directly to save agent budget.
