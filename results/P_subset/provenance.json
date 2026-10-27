@@ -1,6 +1,6 @@
 {
  "hobench_git": {
-  "commit": "c304c5e4b8ccb16cc25f9eb8601102d936444e4d",
+  "commit": "3b738caa3482e1d45d0414c809d2acdc08be6cbb",
   "dirty": true
  },
  "script": "scripts/evaluate_panel.py",
@@ -8,7 +8,7 @@
  "mode": "subset",
  "panel_tree_sha256": "a58dca2ccc2cb67e66920b0a0587e11e9c45738494c1cbb80dc8f9dc6e606aec",
  "panel_species_tsv_sha256": "47825c3b05d024b4a9ab7b7152a6d13a62278594af4a58b3c928374853f25725",
- "families_tree_hash": "8c1d8bb8a7fc9cc285e320dccf01ec941a518c7dc7023833b084b539ce190187",
+ "families_tree_hash": "6a93f4150bb298fdd9cac99e1fab02f47624ba5241a58e2b8d5c5b19597a2f74",
  "families_manifest_present": true,
  "families_manifest_differences": [],
  "n_families": 4,
@@ -85,6 +85,20 @@
    "nesting_problems": 0,
    "n_genes_dropped_not_in_reference": null
   },
+  "of_flat/dendroblast": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/P/subset/of_flat_dendroblast",
+   "prediction_sha256": "5ea807210a8f8212e5924fdb6511d7f04357642d44cd945141d5d0c1f16d7639",
+   "manifest_sha256": "cb7604031267bea984289dd2486295d54d38f4af06d2472a63cd39cacdcd9cb0",
+   "manifest_git_commit": "24c82b000f36d7b5a0104ab7fe2721e24fa4ef53",
+   "prediction_meta": {
+    "format": "tsv",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/P/subset/of_flat_dendroblast/hogs.tsv.gz",
+    "flat": true
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
   "orthofinder/default": {
    "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/P/subset/orthofinder_default",
    "prediction_sha256": "b3abe87eb212876e5b82d8fcc3d1731aeb3c1a42948fb7b97dfb566d7323fe10",
@@ -110,6 +124,38 @@
     },
     "unmatched_of_nodes": [],
     "root_from_orthogroups": "/tmp/hobench_eval_cache/P/subset/orthofinder_default/Orthogroups/Orthogroups.tsv",
+    "n_hogs_not_nested_in_og": 0,
+    "induced_levels": {}
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "orthofinder/dendroblast": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/P/subset/orthofinder_dendroblast",
+   "prediction_sha256": "d73b08e9196cc69ad709b0381edbfa84d36f7ae19185c6d03fe876db18a40190",
+   "manifest_sha256": "958c2ddb6d33feab0481c3e934e90812d6f41065747767f62ddaa23aa2ebfd8b",
+   "manifest_git_commit": "24c82b000f36d7b5a0104ab7fe2721e24fa4ef53",
+   "prediction_meta": {
+    "format": "orthofinder",
+    "source": "/tmp/hobench_eval_cache/P/subset/orthofinder_dendroblast/Phylogenetic_Hierarchical_Orthogroups",
+    "of_to_ours": {
+     "N1": "Chlorophyta",
+     "N4": "Setaphyta",
+     "N8": "Poaceae",
+     "N11": "Brassicaceae",
+     "N12": "Phaseoleae",
+     "N10": "Eurosids",
+     "N9": "Rosids",
+     "N7": "Mesangiospermae",
+     "N6": "Magnoliopsida",
+     "N5": "Tracheophyta",
+     "N3": "Embryophyta",
+     "N2": "Streptophyta",
+     "N0": "Viridiplantae"
+    },
+    "unmatched_of_nodes": [],
+    "root_from_orthogroups": "/tmp/hobench_eval_cache/P/subset/orthofinder_dendroblast/Orthogroups/Orthogroups.tsv",
     "n_hogs_not_nested_in_og": 0,
     "induced_levels": {}
    },

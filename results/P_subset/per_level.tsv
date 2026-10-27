@@ -286,6 +286,47 @@ P04_MIPs		of_flat	default	Poaceae	6	1737	64	0	782	0	0	0.27711	1	0.433964
 P04_MIPs		of_flat	default	Rosids	6	513	35	0	210	0	0	0.330288	1	0.496566
 P04_MIPs		of_flat	default	Eurosids	7	513	35	0	210	0	0	0.330288	1	0.496566
 P04_MIPs		of_flat	default	Brassicaceae	8	513	35	0	210	0	0	0.330288	1	0.496566
+P01_homeobox		of_flat	dendroblast	Viridiplantae	0	25738	319	347	0	6564	0.0956186	1	0.576309	0.731214
+P01_homeobox		of_flat	dendroblast	Chlorophyta	1	9	5	0	0	0		1	1	1
+P01_homeobox		of_flat	dendroblast	Streptophyta	1	17793	314	0	0	0		1	1	1
+P01_homeobox		of_flat	dendroblast	Embryophyta	2	24779	314	0	312	0	0	0.796828	1	0.886928
+P01_homeobox		of_flat	dendroblast	Setaphyta	3	33	11	0	4	0	0	0.757576	1	0.862069
+P01_homeobox		of_flat	dendroblast	Tracheophyta	3	23033	303	0	220	0	0	0.809116	1	0.894488
+P01_homeobox		of_flat	dendroblast	Magnoliopsida	4	18651	271	0	40	0	0	0.922599	1	0.959742
+P01_homeobox		of_flat	dendroblast	Mesangiospermae	5	18651	271	0	40	0	0	0.922599	1	0.959742
+P01_homeobox		of_flat	dendroblast	Poaceae	6	6689	159	0	23	0	0	0.921646	1	0.959225
+P01_homeobox		of_flat	dendroblast	Rosids	6	2975	112	0	0	0		1	1	1
+P01_homeobox		of_flat	dendroblast	Eurosids	7	2975	112	0	0	0		1	1	1
+P01_homeobox		of_flat	dendroblast	Brassicaceae	8	2949	111	0	0	0		1	1	1
+P02_bHLH		of_flat	dendroblast	Viridiplantae	0	0	0	0	0	0				
+P02_bHLH		of_flat	dendroblast	Streptophyta	1	0	0	0	0	0				
+P02_bHLH		of_flat	dendroblast	Embryophyta	2	45958	313	0	15591	0	0	0.261391	1	0.414449
+P02_bHLH		of_flat	dendroblast	Setaphyta	3	336	27	0	114	0	0	0.34905	1	0.517476
+P02_bHLH		of_flat	dendroblast	Tracheophyta	3	39499	346	0	12895	0	0	0.395238	1	0.566553
+P02_bHLH		of_flat	dendroblast	Magnoliopsida	4	23435	269	0	8045	0	0	0.374322	1	0.544737
+P02_bHLH		of_flat	dendroblast	Mesangiospermae	5	23595	295	0	8045	0	0	0.429466	1	0.600876
+P02_bHLH		of_flat	dendroblast	Poaceae	6	6084	149	0	2152	0	0	0.431424	1	0.60279
+P02_bHLH		of_flat	dendroblast	Rosids	6	5682	146	0	1858	0	0	0.457543	1	0.627828
+P02_bHLH		of_flat	dendroblast	Eurosids	7	5682	146	0	1858	0	0	0.457543	1	0.627828
+P02_bHLH		of_flat	dendroblast	Brassicaceae	8	5682	146	0	1858	0	0	0.457543	1	0.627828
+P03_GID1_CXE		of_flat	dendroblast	Embryophyta	2	83	16	83	0	0	1	1	1	1
+P03_GID1_CXE		of_flat	dendroblast	Tracheophyta	3	1361	89	83	1206	0	0.120991	0.110894	1	0.199649
+P03_GID1_CXE		of_flat	dendroblast	Magnoliopsida	4	931	69	83	800	0	0.171843	0.128895	1	0.228356
+P03_GID1_CXE		of_flat	dendroblast	Mesangiospermae	5	863	68	68	750	0	0.153499	0.126916	1	0.225245
+P03_GID1_CXE		of_flat	dendroblast	Poaceae	6	72	38	0	70	0	0	0.334795	1	0.501643
+P03_GID1_CXE		of_flat	dendroblast	Rosids	6	263	30	0	237	0	0	0.121683	1	0.216965
+P03_GID1_CXE		of_flat	dendroblast	Eurosids	7	217	28	0	195	0	0	0.134392	1	0.236942
+P03_GID1_CXE		of_flat	dendroblast	Brassicaceae	8	53	20	0	47	0	0	0.29616	1	0.456981
+P03_GID1_CXE		of_flat	dendroblast	Phaseoleae	8	15	8	0	15	0	0	0.21875	1	0.358974
+P04_MIPs		of_flat	dendroblast	Embryophyta	2	5784	118	432	2032	0	0.298343	0.430194	1	0.601589
+P04_MIPs		of_flat	dendroblast	Setaphyta	3	142	19	0	56	0	0	0.388844	1	0.559953
+P04_MIPs		of_flat	dendroblast	Tracheophyta	3	4148	99	416	1396	0	0.373429	0.468416	1	0.637988
+P04_MIPs		of_flat	dendroblast	Magnoliopsida	4	4133	99	0	1797	0	0	0.335856	1	0.502833
+P04_MIPs		of_flat	dendroblast	Mesangiospermae	5	4148	99	0	1812	0	0	0.272725	1	0.428568
+P04_MIPs		of_flat	dendroblast	Poaceae	6	1737	64	0	782	0	0	0.27711	1	0.433964
+P04_MIPs		of_flat	dendroblast	Rosids	6	513	35	0	210	0	0	0.330288	1	0.496566
+P04_MIPs		of_flat	dendroblast	Eurosids	7	513	35	0	210	0	0	0.330288	1	0.496566
+P04_MIPs		of_flat	dendroblast	Brassicaceae	8	513	35	0	210	0	0	0.330288	1	0.496566
 P01_homeobox		orthofinder	default	Viridiplantae	0	25738	319	347	0	6564	0.0956186	1	0.576309	0.731214
 P01_homeobox		orthofinder	default	Chlorophyta	1	9	5	0	0	0		1	1	1
 P01_homeobox		orthofinder	default	Streptophyta	1	17793	314	0	0	0		1	1	1
@@ -327,3 +368,44 @@ P04_MIPs		orthofinder	default	Poaceae	6	1737	64	0	0	0		1	1	1
 P04_MIPs		orthofinder	default	Rosids	6	513	35	0	0	0		1	1	1
 P04_MIPs		orthofinder	default	Eurosids	7	513	35	0	0	0		1	1	1
 P04_MIPs		orthofinder	default	Brassicaceae	8	513	35	0	0	0		1	1	1
+P01_homeobox		orthofinder	dendroblast	Viridiplantae	0	25738	319	347	0	6564	0.0956186	1	0.576309	0.731214
+P01_homeobox		orthofinder	dendroblast	Chlorophyta	1	9	5	0	0	0		1	1	1
+P01_homeobox		orthofinder	dendroblast	Streptophyta	1	17793	314	0	0	0		1	1	1
+P01_homeobox		orthofinder	dendroblast	Embryophyta	2	24779	314	0	252	0	0	0.866686	1	0.928583
+P01_homeobox		orthofinder	dendroblast	Setaphyta	3	33	11	0	0	0		1	1	1
+P01_homeobox		orthofinder	dendroblast	Tracheophyta	3	23033	303	0	15	0	0	0.967198	1	0.983326
+P01_homeobox		orthofinder	dendroblast	Magnoliopsida	4	18651	271	0	0	0		1	1	1
+P01_homeobox		orthofinder	dendroblast	Mesangiospermae	5	18651	271	0	0	0		1	1	1
+P01_homeobox		orthofinder	dendroblast	Poaceae	6	6689	159	0	0	0		1	1	1
+P01_homeobox		orthofinder	dendroblast	Rosids	6	2975	112	0	0	0		1	1	1
+P01_homeobox		orthofinder	dendroblast	Eurosids	7	2975	112	0	0	0		1	1	1
+P01_homeobox		orthofinder	dendroblast	Brassicaceae	8	2949	111	0	0	0		1	1	1
+P02_bHLH		orthofinder	dendroblast	Viridiplantae	0	0	0	0	0	0				
+P02_bHLH		orthofinder	dendroblast	Streptophyta	1	0	0	0	0	0				
+P02_bHLH		orthofinder	dendroblast	Embryophyta	2	45958	313	0	1	0	0	0.996805	1	0.9984
+P02_bHLH		orthofinder	dendroblast	Setaphyta	3	336	27	0	0	0		1	1	1
+P02_bHLH		orthofinder	dendroblast	Tracheophyta	3	39499	346	0	0	0		1	1	1
+P02_bHLH		orthofinder	dendroblast	Magnoliopsida	4	23435	269	0	0	0		1	1	1
+P02_bHLH		orthofinder	dendroblast	Mesangiospermae	5	23595	295	0	0	0		1	1	1
+P02_bHLH		orthofinder	dendroblast	Poaceae	6	6084	149	0	0	0		1	1	1
+P02_bHLH		orthofinder	dendroblast	Rosids	6	5682	146	0	0	0		1	1	1
+P02_bHLH		orthofinder	dendroblast	Eurosids	7	5682	146	0	0	0		1	1	1
+P02_bHLH		orthofinder	dendroblast	Brassicaceae	8	5682	146	0	0	0		1	1	1
+P03_GID1_CXE		orthofinder	dendroblast	Embryophyta	2	83	16	83	0	0	1	1	1	1
+P03_GID1_CXE		orthofinder	dendroblast	Tracheophyta	3	1361	89	83	0	0	1	1	1	1
+P03_GID1_CXE		orthofinder	dendroblast	Magnoliopsida	4	931	69	83	0	0	1	1	1	1
+P03_GID1_CXE		orthofinder	dendroblast	Mesangiospermae	5	863	68	68	0	0	1	1	1	1
+P03_GID1_CXE		orthofinder	dendroblast	Poaceae	6	72	38	0	0	0		1	1	1
+P03_GID1_CXE		orthofinder	dendroblast	Rosids	6	263	30	0	0	0		1	1	1
+P03_GID1_CXE		orthofinder	dendroblast	Eurosids	7	217	28	0	0	0		1	1	1
+P03_GID1_CXE		orthofinder	dendroblast	Brassicaceae	8	53	20	0	0	0		1	1	1
+P03_GID1_CXE		orthofinder	dendroblast	Phaseoleae	8	15	8	0	0	0		1	1	1
+P04_MIPs		orthofinder	dendroblast	Embryophyta	2	5784	118	432	0	0	1	1	1	1
+P04_MIPs		orthofinder	dendroblast	Setaphyta	3	142	19	0	0	0		1	1	1
+P04_MIPs		orthofinder	dendroblast	Tracheophyta	3	4148	99	416	0	0	1	1	1	1
+P04_MIPs		orthofinder	dendroblast	Magnoliopsida	4	4133	99	0	0	0		1	1	1
+P04_MIPs		orthofinder	dendroblast	Mesangiospermae	5	4148	99	0	0	0		1	1	1
+P04_MIPs		orthofinder	dendroblast	Poaceae	6	1737	64	0	0	0		1	1	1
+P04_MIPs		orthofinder	dendroblast	Rosids	6	513	35	0	0	0		1	1	1
+P04_MIPs		orthofinder	dendroblast	Eurosids	7	513	35	0	0	0		1	1	1
+P04_MIPs		orthofinder	dendroblast	Brassicaceae	8	513	35	0	0	0		1	1	1

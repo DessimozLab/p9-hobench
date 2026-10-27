@@ -451,6 +451,72 @@ P04_MIPs		family	of_flat	default	wf_ortholog_f1	0.0179876	119	1
 P04_MIPs		family	of_flat	default	skill_level_bcubed_f1	-9.61605	5784	1	
 P04_MIPs		family	of_flat	default	skill_merge_accuracy_node	-0.106125	5784	1	
 P04_MIPs		family	of_flat	default	skill_event_recovery_0.5	0.333333	119	1	
+P01_homeobox		family	of_flat	dendroblast	level_bcubed_f1	0.937784	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	merge_accuracy_node	0.699634	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	event_recovery_0.5	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	membership_f1	0.553119	319	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	merge_accuracy_sd_posthoc	0.624359	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	event_recovery_0.8	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	merge_accuracy_pairs	0.734086	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	merge_accuracy_tol1	0.701465	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	membership_precision	0.981087	319	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	membership_recall	0.385121	319	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	orthobench_f	0.529933	319	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	frac_over_split	0.253848	319	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	frac_over_merged	0.0120659	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	level_pair_f1_pooled	0.0878815	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	mean_abs_depth_frac_error	0.0036799	319	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	wf_ortholog_f1	0.187166	319	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	skill_level_bcubed_f1	-1.23098	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	skill_merge_accuracy_node	0.299145	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	skill_event_recovery_0.5	0	319	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	dendroblast	skill_membership_f1	0.266707	319	0	n: mapped 62% < 80%
+P02_bHLH		family	of_flat	dendroblast	level_bcubed_f1	0.57004	47385	1	
+P02_bHLH		family	of_flat	dendroblast	merge_accuracy_node	0.886918	47385	1	
+P02_bHLH		family	of_flat	dendroblast	membership_f1	0.492946	435	1	
+P02_bHLH		family	of_flat	dendroblast	merge_accuracy_pairs	0.670972	47385	1	
+P02_bHLH		family	of_flat	dendroblast	merge_accuracy_tol1	0.905646	47385	1	
+P02_bHLH		family	of_flat	dendroblast	membership_precision	0.860055	435	1	
+P02_bHLH		family	of_flat	dendroblast	membership_recall	0.34548	435	1	
+P02_bHLH		family	of_flat	dendroblast	orthobench_f	0.468579	435	1	
+P02_bHLH		family	of_flat	dendroblast	frac_over_split	0	435	1	
+P02_bHLH		family	of_flat	dendroblast	frac_over_merged	0.329028	47385	1	
+P02_bHLH		family	of_flat	dendroblast	level_pair_f1_pooled	0	47385	1	
+P02_bHLH		family	of_flat	dendroblast	mean_abs_depth_frac_error	0.122908	435	1	
+P02_bHLH		family	of_flat	dendroblast	wf_ortholog_f1	0	435	1	
+P02_bHLH		family	of_flat	dendroblast	skill_membership_f1	-0.127436	435	1	
+P03_GID1_CXE		family	of_flat	dendroblast	level_bcubed_f1	0.380528	1361	1	
+P03_GID1_CXE		family	of_flat	dendroblast	merge_accuracy_node	0.514085	1361	1	
+P03_GID1_CXE		family	of_flat	dendroblast	event_recovery_0.5	0	2	1	
+P03_GID1_CXE		family	of_flat	dendroblast	merge_accuracy_sd_posthoc	0.514085	1361	1	
+P03_GID1_CXE		family	of_flat	dendroblast	event_recovery_0.8	0	2	1	
+P03_GID1_CXE		family	of_flat	dendroblast	merge_accuracy_pairs	0.0830272	1361	1	
+P03_GID1_CXE		family	of_flat	dendroblast	merge_accuracy_tol1	0.664934	1361	1	
+P03_GID1_CXE		family	of_flat	dendroblast	orthobench_f	0.954618	94	1	
+P03_GID1_CXE		family	of_flat	dendroblast	frac_over_split	0	94	1	
+P03_GID1_CXE		family	of_flat	dendroblast	frac_over_merged	0.916973	1361	1	
+P03_GID1_CXE		family	of_flat	dendroblast	level_pair_f1_pooled	0.160344	1361	1	
+P03_GID1_CXE		family	of_flat	dendroblast	mean_abs_depth_frac_error	0.348483	94	1	
+P03_GID1_CXE		family	of_flat	dendroblast	wf_ortholog_f1	0.0680498	94	1	
+P03_GID1_CXE		family	of_flat	dendroblast	skill_level_bcubed_f1	-6.36068	1361	1	
+P03_GID1_CXE		family	of_flat	dendroblast	skill_merge_accuracy_node	0.028169	1361	1	
+P03_GID1_CXE		family	of_flat	dendroblast	skill_event_recovery_0.5	0	94	1	
+P04_MIPs		family	of_flat	dendroblast	level_bcubed_f1	0.517177	5784	1	
+P04_MIPs		family	of_flat	dendroblast	merge_accuracy_node	0.334223	5784	1	
+P04_MIPs		family	of_flat	dendroblast	event_recovery_0.5	0.333333	3	1	
+P04_MIPs		family	of_flat	dendroblast	merge_accuracy_sd_posthoc	0.583889	5784	1	
+P04_MIPs		family	of_flat	dendroblast	event_recovery_0.8	0	3	1	
+P04_MIPs		family	of_flat	dendroblast	merge_accuracy_pairs	0.576763	5784	1	
+P04_MIPs		family	of_flat	dendroblast	merge_accuracy_tol1	0.504052	5784	1	
+P04_MIPs		family	of_flat	dendroblast	orthobench_f	0.480443	119	1	
+P04_MIPs		family	of_flat	dendroblast	frac_over_split	0	119	1	
+P04_MIPs		family	of_flat	dendroblast	frac_over_merged	0.423237	5784	1	
+P04_MIPs		family	of_flat	dendroblast	level_pair_f1_pooled	0.166258	5784	1	
+P04_MIPs		family	of_flat	dendroblast	mean_abs_depth_frac_error	0.210062	119	1	
+P04_MIPs		family	of_flat	dendroblast	wf_ortholog_f1	0.0175535	119	1	
+P04_MIPs		family	of_flat	dendroblast	skill_level_bcubed_f1	-9.10598	5784	1	
+P04_MIPs		family	of_flat	dendroblast	skill_merge_accuracy_node	-0.109629	5784	1	
+P04_MIPs		family	of_flat	dendroblast	skill_event_recovery_0.5	0.333333	119	1	
 P01_homeobox		family	orthofinder	default	level_bcubed_f1	0.969837	25858	0	n: mapped 62% < 80%
 P01_homeobox		family	orthofinder	default	merge_accuracy_node	0.704378	25858	0	n: mapped 62% < 80%
 P01_homeobox		family	orthofinder	default	event_recovery_0.5	0	3	0	n: mapped 62% < 80%
@@ -517,3 +583,69 @@ P04_MIPs		family	orthofinder	default	wf_ortholog_f1	0.769231	119	1
 P04_MIPs		family	orthofinder	default	skill_level_bcubed_f1	0.865686	5784	1	
 P04_MIPs		family	orthofinder	default	skill_merge_accuracy_node	0.541667	5784	1	
 P04_MIPs		family	orthofinder	default	skill_event_recovery_0.5	0.333333	119	1	
+P01_homeobox		family	orthofinder	dendroblast	level_bcubed_f1	0.97026	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	merge_accuracy_node	0.700882	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	event_recovery_0.5	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	membership_f1	0.553119	319	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	merge_accuracy_sd_posthoc	0.625233	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	event_recovery_0.8	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	merge_accuracy_pairs	0.736407	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	merge_accuracy_tol1	0.705813	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	membership_precision	0.981087	319	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	membership_recall	0.385121	319	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	orthobench_f	0.529933	319	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	frac_over_split	0.253848	319	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	frac_over_merged	0.00974553	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	level_pair_f1_pooled	0.0922259	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	mean_abs_depth_frac_error	0.00153761	319	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	wf_ortholog_f1	0.382514	319	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	skill_level_bcubed_f1	-0.0664269	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	skill_merge_accuracy_node	0.302058	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	skill_event_recovery_0.5	0	319	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	dendroblast	skill_membership_f1	0.266707	319	0	n: mapped 62% < 80%
+P02_bHLH		family	orthofinder	dendroblast	level_bcubed_f1	0.999822	47385	1	
+P02_bHLH		family	orthofinder	dendroblast	merge_accuracy_node	0.999993	47385	1	
+P02_bHLH		family	orthofinder	dendroblast	membership_f1	0.492946	435	1	
+P02_bHLH		family	orthofinder	dendroblast	merge_accuracy_pairs	0.999979	47385	1	
+P02_bHLH		family	orthofinder	dendroblast	merge_accuracy_tol1	1	47385	1	
+P02_bHLH		family	orthofinder	dendroblast	membership_precision	0.860055	435	1	
+P02_bHLH		family	orthofinder	dendroblast	membership_recall	0.34548	435	1	
+P02_bHLH		family	orthofinder	dendroblast	orthobench_f	0.468579	435	1	
+P02_bHLH		family	orthofinder	dendroblast	frac_over_split	0	435	1	
+P02_bHLH		family	orthofinder	dendroblast	frac_over_merged	2.11037e-05	47385	1	
+P02_bHLH		family	orthofinder	dendroblast	level_pair_f1_pooled	0	47385	1	
+P02_bHLH		family	orthofinder	dendroblast	mean_abs_depth_frac_error	2.34486e-06	435	1	
+P02_bHLH		family	orthofinder	dendroblast	wf_ortholog_f1	0	435	1	
+P02_bHLH		family	orthofinder	dendroblast	skill_membership_f1	-0.127436	435	1	
+P03_GID1_CXE		family	orthofinder	dendroblast	level_bcubed_f1	1	1361	1	
+P03_GID1_CXE		family	orthofinder	dendroblast	merge_accuracy_node	1	1361	1	
+P03_GID1_CXE		family	orthofinder	dendroblast	event_recovery_0.5	1	2	1	
+P03_GID1_CXE		family	orthofinder	dendroblast	merge_accuracy_sd_posthoc	1	1361	1	
+P03_GID1_CXE		family	orthofinder	dendroblast	event_recovery_0.8	1	2	1	
+P03_GID1_CXE		family	orthofinder	dendroblast	merge_accuracy_pairs	1	1361	1	
+P03_GID1_CXE		family	orthofinder	dendroblast	merge_accuracy_tol1	1	1361	1	
+P03_GID1_CXE		family	orthofinder	dendroblast	orthobench_f	0.355658	94	1	
+P03_GID1_CXE		family	orthofinder	dendroblast	frac_over_split	0	94	1	
+P03_GID1_CXE		family	orthofinder	dendroblast	frac_over_merged	0	1361	1	
+P03_GID1_CXE		family	orthofinder	dendroblast	level_pair_f1_pooled	1	1361	1	
+P03_GID1_CXE		family	orthofinder	dendroblast	mean_abs_depth_frac_error	0	94	1	
+P03_GID1_CXE		family	orthofinder	dendroblast	wf_ortholog_f1	1	94	1	
+P03_GID1_CXE		family	orthofinder	dendroblast	skill_level_bcubed_f1	1	1361	1	
+P03_GID1_CXE		family	orthofinder	dendroblast	skill_merge_accuracy_node	1	1361	1	
+P03_GID1_CXE		family	orthofinder	dendroblast	skill_event_recovery_0.5	1	94	1	
+P04_MIPs		family	orthofinder	dendroblast	level_bcubed_f1	1	5784	1	
+P04_MIPs		family	orthofinder	dendroblast	merge_accuracy_node	1	5784	1	
+P04_MIPs		family	orthofinder	dendroblast	event_recovery_0.5	1	3	1	
+P04_MIPs		family	orthofinder	dendroblast	merge_accuracy_sd_posthoc	1	5784	1	
+P04_MIPs		family	orthofinder	dendroblast	event_recovery_0.8	1	3	1	
+P04_MIPs		family	orthofinder	dendroblast	merge_accuracy_pairs	1	5784	1	
+P04_MIPs		family	orthofinder	dendroblast	merge_accuracy_tol1	1	5784	1	
+P04_MIPs		family	orthofinder	dendroblast	orthobench_f	1	119	1	
+P04_MIPs		family	orthofinder	dendroblast	frac_over_split	0	119	1	
+P04_MIPs		family	orthofinder	dendroblast	frac_over_merged	0	5784	1	
+P04_MIPs		family	orthofinder	dendroblast	level_pair_f1_pooled	1	5784	1	
+P04_MIPs		family	orthofinder	dendroblast	mean_abs_depth_frac_error	0	119	1	
+P04_MIPs		family	orthofinder	dendroblast	wf_ortholog_f1	1	119	1	
+P04_MIPs		family	orthofinder	dendroblast	skill_level_bcubed_f1	1	5784	1	
+P04_MIPs		family	orthofinder	dendroblast	skill_merge_accuracy_node	1	5784	1	
+P04_MIPs		family	orthofinder	dendroblast	skill_event_recovery_0.5	1	119	1	

@@ -1,6 +1,6 @@
 # Panel V / subset: evaluation summary
 
-hobench git c1658df1a6 (dirty=True); 337 families (+165 excluded: members absent from subset) (0 control-track, 2 non-headline); families tree hash 6a93f4150bb2.
+hobench git 3b738caa34 (dirty=True); 337 families (+165 excluded: members absent from subset) (0 control-track, 2 non-headline); families tree hash 6a93f4150bb2.
 Descriptive only (mean over items; a collection is one item; no CIs). Headline = tracks family+collection, headline-eligible; control track (K01 RPROT, K02, E05) reported separately. Trivial baselines are rows of every table; skill = (s-b)/(1-b), b = per-family max(singletons, one big HOG, mean relabel). membership F1 is NA for families without complete cells or decoys. Confirmatory test: scripts/confirmatory.py.
 
 ## scope: headline
@@ -14,7 +14,9 @@ Descriptive only (mean over items; a collection is one item; no CIs). Headline =
 | fastoma | default_declared | 0.881 (3) | 0.816 | 0.707 (3) | -0.905 | 0.204 (2) | 0.202 | 0.511 (1) | 0.290 | 0.629 |
 | fastoma | default_late | 0.882 (3) | 0.818 | 0.709 (3) | -0.886 | 0.222 (2) | 0.221 | 0.511 (1) | 0.290 | 0.632 |
 | of_flat | default | 0.664 (3) | -0.115 | 0.903 (3) | -0.271 | 0.056 (2) | 0.054 | 0.721 (1) | 0.595 | 0.792 |
+| of_flat | dendroblast | 0.664 (3) | -0.115 | 0.902 (3) | -0.271 | 0.056 (2) | 0.054 | 0.721 (1) | 0.595 | 0.791 |
 | orthofinder | default | 0.987 (3) | 0.962 | 0.960 (3) | 0.514 | 0.907 (2) | 0.907 | 0.721 (1) | 0.595 | 0.963 |
+| orthofinder | dendroblast | 0.969 (3) | 0.898 | 0.928 (3) | 0.069 | 0.759 (2) | 0.759 | 0.721 (1) | 0.595 | 0.931 |
 
 random relabel, min-max of item-mean over 10 seeds: level_bcubed_f1 0.508436-0.518737; merge_accuracy_node 0.0175803-0.0328821; event_recovery_0.5 0-0.0185185; membership_f1 0.104784-0.127032
 
@@ -29,7 +31,9 @@ random relabel, min-max of item-mean over 10 seeds: level_bcubed_f1 0.508436-0.5
 | fastoma | default_declared | NA (0) | NA | NA (0) | NA | NA (0) | NA | NA (0) | NA | NA |
 | fastoma | default_late | NA (0) | NA | NA (0) | NA | NA (0) | NA | NA (0) | NA | NA |
 | of_flat | default | NA (0) | NA | NA (0) | NA | NA (0) | NA | NA (0) | NA | NA |
+| of_flat | dendroblast | NA (0) | NA | NA (0) | NA | NA (0) | NA | NA (0) | NA | NA |
 | orthofinder | default | NA (0) | NA | NA (0) | NA | NA (0) | NA | NA (0) | NA | NA |
+| orthofinder | dendroblast | NA (0) | NA | NA (0) | NA | NA (0) | NA | NA (0) | NA | NA |
 
 random relabel, min-max of item-mean over 10 seeds: 
 
@@ -38,7 +42,9 @@ random relabel, min-max of item-mean over 10 seeds:
 - fastoma default_declared: 4.7% of units identical to all-singletons
 - fastoma default_late: 4.7% of units identical to all-singletons
 - of_flat default: 0.0% of units identical to all-singletons
+- of_flat dendroblast: 0.3% of units identical to all-singletons
 - orthofinder default: 0.3% of units identical to all-singletons
+- orthofinder dendroblast: 0.3% of units identical to all-singletons
 
 ## Positive control / degenerate baselines (per-family min/mean/max)
 

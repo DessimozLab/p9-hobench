@@ -1,6 +1,6 @@
 {
  "hobench_git": {
-  "commit": "c304c5e4b8ccb16cc25f9eb8601102d936444e4d",
+  "commit": "3b738caa3482e1d45d0414c809d2acdc08be6cbb",
   "dirty": true
  },
  "script": "scripts/evaluate_panel.py",
@@ -8,7 +8,7 @@
  "mode": "subset",
  "panel_tree_sha256": "62907add8b92e32243256ca711ca1a8e3a28e5c53ffbbd0a7cc298f19fb38272",
  "panel_species_tsv_sha256": "a55d9b0efbe366ae08c6b182f92f6e4239cfaaa32f0f240bacc9164aae3e3d2c",
- "families_tree_hash": "8c1d8bb8a7fc9cc285e320dccf01ec941a518c7dc7023833b084b539ce190187",
+ "families_tree_hash": "6a93f4150bb298fdd9cac99e1fab02f47624ba5241a58e2b8d5c5b19597a2f74",
  "families_manifest_present": true,
  "families_manifest_differences": [],
  "n_families": 9,
@@ -85,6 +85,20 @@
    "nesting_problems": 0,
    "n_genes_dropped_not_in_reference": null
   },
+  "of_flat/dendroblast": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/E/subset/of_flat_dendroblast",
+   "prediction_sha256": "1e042301953e5e49dd3a3e4fad8e3df3031ad871258bdbde6678e62a14a64e4a",
+   "manifest_sha256": "23329ec25f35c858b89e089c2f53c249fef53192ac56966bfc99527e438aad9c",
+   "manifest_git_commit": "24c82b000f36d7b5a0104ab7fe2721e24fa4ef53",
+   "prediction_meta": {
+    "format": "tsv",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/E/subset/of_flat_dendroblast/hogs.tsv.gz",
+    "flat": true
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
   "orthofinder/default": {
    "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/E/subset/orthofinder_default",
    "prediction_sha256": "37a806563eb6774b29f71b364b08afd0db03721425f1296b60cc761a6c8a4598",
@@ -130,6 +144,58 @@
     },
     "unmatched_of_nodes": [],
     "root_from_orthogroups": "/tmp/hobench_eval_cache/E/subset/orthofinder_default/Orthogroups/Orthogroups.tsv",
+    "n_hogs_not_nested_in_og": 0,
+    "induced_levels": {}
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "orthofinder/dendroblast": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/E/subset/orthofinder_dendroblast",
+   "prediction_sha256": "00668f1efa3acf027ae1fc8986231a1a58f0a75abb977fe0df4d6bbbe0b9baa3",
+   "manifest_sha256": "da4d19789ecf20078d50e68957508717479ce6778925259e86409c7410b9a7b7",
+   "manifest_git_commit": "24c82b000f36d7b5a0104ab7fe2721e24fa4ef53",
+   "prediction_meta": {
+    "format": "orthofinder",
+    "source": "/tmp/hobench_eval_cache/E/subset/orthofinder_dendroblast/Phylogenetic_Hierarchical_Orthogroups",
+    "of_to_ours": {
+     "N3": "Terrabacteria",
+     "N4": "Pseudomonadota",
+     "N1": "Bacteria",
+     "N5": "Euryarchaeota",
+     "N7": "TACK",
+     "N12": "Amoebozoa",
+     "N27": "Ascomycota",
+     "N25": "Chytridiomycota_Dikarya",
+     "N20": "Fungi",
+     "N32": "Bilateria",
+     "N31": "Planulozoa",
+     "N30": "ParaHoxozoa",
+     "N29": "Myriazoa",
+     "N28": "Metazoa",
+     "N26": "Choanozoa",
+     "N21": "Holozoa",
+     "N16": "Opisthokonta",
+     "N13": "Obazoa",
+     "N10": "Amorphea",
+     "N22": "Viridiplantae",
+     "N17": "Archaeplastida",
+     "N23": "Stramenopiles",
+     "N24": "Alveolata",
+     "N18": "Stramenopiles_Alveolata",
+     "N14": "Diaphoretickes",
+     "N19": "Discoba",
+     "N15": "Discoba_Metamonada",
+     "N11": "Diphoda",
+     "N9": "Eukaryota",
+     "N8": "Asgard_Eukaryota",
+     "N6": "TACK_Asgard_Eukaryota",
+     "N2": "Archaea_Eukaryota",
+     "N0": "LUCA"
+    },
+    "unmatched_of_nodes": [],
+    "root_from_orthogroups": "/tmp/hobench_eval_cache/E/subset/orthofinder_dendroblast/Orthogroups/Orthogroups.tsv",
     "n_hogs_not_nested_in_og": 0,
     "induced_levels": {}
    },

@@ -2953,6 +2953,428 @@ XL_znf106	XLAEVIS	of_flat	default	XL_znf106_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xeno
 XL_znf770-like	XLAEVIS	of_flat	default	XL_znf770-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
 XL_znf804a	XLAEVIS	of_flat	default	XL_znf804a_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
 XL_znf827	XLAEVIS	of_flat	default	XL_znf827_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V01_globins		of_flat	dendroblast	V01_globins.D15	D	Chordata		2	152	1	1	0.910931	1	0	0	inf	internal	1	1	1
+V01_globins		of_flat	dendroblast	V01_globins.D14	D	Chordata		2	192	0.875	0.875	0.910569	1	0	0.125	inf	internal	1	1	1
+V01_globins		of_flat	dendroblast	V01_globins.D10	D	Vertebrata	WGD	2	154	0	0.0909091	0.833333	0.909091	0.0909091	0.909091	Euteleostomi	internal	1	0	0
+V01_globins		of_flat	dendroblast	V01_globins.D4	D	Gnathostomata	WGD	2	28	0	0	1	1	0	1	Euteleostomi	internal	1	0	0
+V01_globins		of_flat	dendroblast	V01_globins.D2	D	Gnathostomata		2	3	0	0	1	1	0	1	Amniota	internal	1	0	0
+V01_globins		of_flat	dendroblast	V01_globins.D8	D	Gnathostomata	TAND	2	25	0	0.2	0.666667	0.8	0.2	0.8	Euteleostomi	internal	1	0	0
+V01_globins		of_flat	dendroblast	V01_globins.D13	D	Chordata		2	8	0	0	1	1	0	1	Chordata	internal	1	0	0
+V02_opsins		of_flat	dendroblast	V02_opsins.D7	D	Vertebrata	TAND	2	264	0.030303	0.030303	0.907563	1	0	0.969697	Euteleostomi	internal	1	0	0
+V02_opsins		of_flat	dendroblast	V02_opsins.D6	D	Gnathostomata	WGD	4	396	0	0.0530303	0.825397	0.94697	0.0530303	0.94697	Euteleostomi	internal	1	0	0
+V02_opsins		of_flat	dendroblast	V02_opsins.D2	D	LEPOC	TAND	2	1	1	1	1	1	0	0	Neopterygii	leaf	1	1	1
+V02_opsins		of_flat	dendroblast	V02_opsins.D5	D	Neopterygii	RETRO	2	12	0	0	1	1	0	1	Neopterygii	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D61	D	Chordata	TAND	7	21389	0.998925	0.998925	0.909091	1	0	0.00107532	inf	internal	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D4	D	Gnathostomata	WGD	4	111	0	0	1	1	0	1	Euteleostomi	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D1	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D2	D	Teleostei	WGD	2	1	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D3	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D6	D	Gnathostomata	WGD	2	30	0	0	1	1	0	1	Tetrapoda	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D5	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D11	D	Gnathostomata	WGD	4	180	0	0.1	0.5	0.9	0.1	0.9	Tetrapoda	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D7	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D8	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D9	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D10	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D16	D	Gnathostomata	WGD	4	216	0	0.0833333	0.666667	0.916667	0.0833333	0.916667	Tetrapoda	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D12	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D13	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D14	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D15	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D21	D	Gnathostomata	WGD	3	120	0	0	1	1	0	1	Euteleostomi	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D17	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D18	D	Teleostei	WGD	2	1	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D19	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D20	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D59	D	Vertebrata	TAND	3	689	0.712627	0.712627	0.884615	1	0	0.287373	inf	internal	1	1	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D27	D	Gnathostomata	WGD	3	119	0	0.10084	0.714286	0.89916	0.10084	0.89916	Euteleostomi	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D22	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D23	D	Teleostei	WGD	2	1	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D24	D	XENLA	ALLO	2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D25	D	Teleostei	WGD	2	1	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D26	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D30	D	Gnathostomata	WGD	2	30	0	0	1	1	0	1	Tetrapoda	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D28	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D29	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D33	D	Gnathostomata	WGD	3	85	0	0	1	1	0	1	Tetrapoda	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D31	D	Teleostei	WGD	2	1	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D32	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D60	D	Vertebrata	TAND	5	3697	1	1	1	1	0	0	inf	internal	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D39	D	Gnathostomata	WGD	4	234	0	0	1	1	0	1	Euteleostomi	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D34	D	Teleostei	WGD	2	1	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D35	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D36	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D37	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D38	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D43	D	Gnathostomata	WGD	4	126	0	0	1	1	0	1	Euteleostomi	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D40	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D41	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D42	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D49	D	Gnathostomata	WGD	3	133	0	0	1	1	0	1	Euteleostomi	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D44	D	Teleostei	WGD	2	1	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D45	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D46	D	Teleostei	WGD	2	1	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D47	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D48	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D52	D	Gnathostomata	WGD	2	21	0	0	1	1	0	1	Euteleostomi	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D50	D	Teleostei	WGD	2	1	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D51	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D58	D	Gnathostomata	WGD	4	193	0	0	1	1	0	1	Euteleostomi	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D53	D	Teleostei	WGD	2	1	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D54	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D55	D	Teleostei	WGD	2	1	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V03_Hox		of_flat	dendroblast	V03_Hox.D56	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		of_flat	dendroblast	V03_Hox.D57	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V04_Sox		of_flat	dendroblast	V04_Sox.D17	D	Chordata		7	5342	1	1	0.79085	1	0	0	inf	internal	1	1	0
+V04_Sox		of_flat	dendroblast	V04_Sox.D3	D	Gnathostomata	WGD	4	215	0	0.167442	0.466667	0.832558	0.167442	0.832558	Euteleostomi	internal	1	0	0
+V04_Sox		of_flat	dendroblast	V04_Sox.D1	D	Teleostei	WGD	2	2	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V04_Sox		of_flat	dendroblast	V04_Sox.D2	D	Teleostei	WGD	2	1	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V04_Sox		of_flat	dendroblast	V04_Sox.D6	D	Gnathostomata	WGD	2	49	0	0	1	1	0	1	Euteleostomi	internal	1	0	0
+V04_Sox		of_flat	dendroblast	V04_Sox.D4	D	Teleostei	WGD	2	2	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V04_Sox		of_flat	dendroblast	V04_Sox.D5	D	Teleostei	WGD	2	2	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V04_Sox		of_flat	dendroblast	V04_Sox.D9	D	Gnathostomata	WGD	3	107	0	0	1	1	0	1	Euteleostomi	internal	1	0	0
+V04_Sox		of_flat	dendroblast	V04_Sox.D7	D	Teleostei	WGD	2	1	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V04_Sox		of_flat	dendroblast	V04_Sox.D8	D	Teleostei	WGD	2	2	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V04_Sox		of_flat	dendroblast	V04_Sox.D11	D	Gnathostomata	WGD	3	84	0	0	1	1	0	1	Euteleostomi	internal	1	0	0
+V04_Sox		of_flat	dendroblast	V04_Sox.D10	D	Teleostei	WGD	2	1	0	0	1	1	0	1	Euteleosteomorpha	internal	1	0	0
+V04_Sox		of_flat	dendroblast	V04_Sox.D14	D	Gnathostomata	WGD	3	133	0	0	1	1	0	1	Euteleostomi	internal	1	0	0
+V04_Sox		of_flat	dendroblast	V04_Sox.D12	D	Teleostei	WGD	2	2	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V04_Sox		of_flat	dendroblast	V04_Sox.D13	D	Teleostei	WGD	2	2	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V04_Sox		of_flat	dendroblast	V04_Sox.D16	D	Gnathostomata	WGD	3	105	0	0.190476	0.571429	0.809524	0.190476	0.809524	Euteleostomi	internal	1	0	0
+V04_Sox		of_flat	dendroblast	V04_Sox.D15	D	Teleostei	SSD	2	4	0	1	1	0	1	0	inf	internal	1	0	0
+XL_LOC100135146	XLAEVIS	of_flat	dendroblast	XL_LOC100135146_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100145011	XLAEVIS	of_flat	dendroblast	XL_LOC100145011_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100486385	XLAEVIS	of_flat	dendroblast	XL_LOC100486385_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100486910	XLAEVIS	of_flat	dendroblast	XL_LOC100486910_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100486967	XLAEVIS	of_flat	dendroblast	XL_LOC100486967_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100487019	XLAEVIS	of_flat	dendroblast	XL_LOC100487019_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100487086	XLAEVIS	of_flat	dendroblast	XL_LOC100487086_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100487773	XLAEVIS	of_flat	dendroblast	XL_LOC100487773_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100489027	XLAEVIS	of_flat	dendroblast	XL_LOC100489027_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100489346	XLAEVIS	of_flat	dendroblast	XL_LOC100489346_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100489393	XLAEVIS	of_flat	dendroblast	XL_LOC100489393_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100490434-like	XLAEVIS	of_flat	dendroblast	XL_LOC100490434-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100494211	XLAEVIS	of_flat	dendroblast	XL_LOC100494211_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100494762	XLAEVIS	of_flat	dendroblast	XL_LOC100494762_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100496529	XLAEVIS	of_flat	dendroblast	XL_LOC100496529_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100496857-like	XLAEVIS	of_flat	dendroblast	XL_LOC100496857-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100497108	XLAEVIS	of_flat	dendroblast	XL_LOC100497108_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100498003	XLAEVIS	of_flat	dendroblast	XL_LOC100498003_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100498373	XLAEVIS	of_flat	dendroblast	XL_LOC100498373_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC101730713-like	XLAEVIS	of_flat	dendroblast	XL_LOC101730713-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC101731195	XLAEVIS	of_flat	dendroblast	XL_LOC101731195_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC101732168	XLAEVIS	of_flat	dendroblast	XL_LOC101732168_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC101732937	XLAEVIS	of_flat	dendroblast	XL_LOC101732937_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC101734256	XLAEVIS	of_flat	dendroblast	XL_LOC101734256_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC101734633	XLAEVIS	of_flat	dendroblast	XL_LOC101734633_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC496885	XLAEVIS	of_flat	dendroblast	XL_LOC496885_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_MGC89221	XLAEVIS	of_flat	dendroblast	XL_MGC89221_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_Xetrov90016672m	XLAEVIS	of_flat	dendroblast	XL_Xetrov90016672m_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_Xetrov90020567m	XLAEVIS	of_flat	dendroblast	XL_Xetrov90020567m_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_Xetrov90020851m	XLAEVIS	of_flat	dendroblast	XL_Xetrov90020851m_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_Xetrov90023065m	XLAEVIS	of_flat	dendroblast	XL_Xetrov90023065m_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_abhd12	XLAEVIS	of_flat	dendroblast	XL_abhd12_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_abhd17a	XLAEVIS	of_flat	dendroblast	XL_abhd17a_LS	D	XENLA	ALLO	2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+XL_acbd6	XLAEVIS	of_flat	dendroblast	XL_acbd6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_acot2	XLAEVIS	of_flat	dendroblast	XL_acot2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_adamts9	XLAEVIS	of_flat	dendroblast	XL_adamts9_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_adnp	XLAEVIS	of_flat	dendroblast	XL_adnp_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_aldh1a3-like	XLAEVIS	of_flat	dendroblast	XL_aldh1a3-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_amer2	XLAEVIS	of_flat	dendroblast	XL_amer2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_anapc7	XLAEVIS	of_flat	dendroblast	XL_anapc7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ankrd22	XLAEVIS	of_flat	dendroblast	XL_ankrd22_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ankrd34a	XLAEVIS	of_flat	dendroblast	XL_ankrd34a_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ankrd46	XLAEVIS	of_flat	dendroblast	XL_ankrd46_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ano2	XLAEVIS	of_flat	dendroblast	XL_ano2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ap3m2	XLAEVIS	of_flat	dendroblast	XL_ap3m2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_apc2	XLAEVIS	of_flat	dendroblast	XL_apc2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_apoa5	XLAEVIS	of_flat	dendroblast	XL_apoa5_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_apobec2	XLAEVIS	of_flat	dendroblast	XL_apobec2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_arhgap17-like	XLAEVIS	of_flat	dendroblast	XL_arhgap17-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_arhgap20	XLAEVIS	of_flat	dendroblast	XL_arhgap20_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_arhgap29	XLAEVIS	of_flat	dendroblast	XL_arhgap29_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_arl13b	XLAEVIS	of_flat	dendroblast	XL_arl13b_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_asb7	XLAEVIS	of_flat	dendroblast	XL_asb7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ash2l	XLAEVIS	of_flat	dendroblast	XL_ash2l_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_atcay	XLAEVIS	of_flat	dendroblast	XL_atcay_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_b4galt2-like	XLAEVIS	of_flat	dendroblast	XL_b4galt2-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_b4galt7	XLAEVIS	of_flat	dendroblast	XL_b4galt7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_baiap3	XLAEVIS	of_flat	dendroblast	XL_baiap3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_bambi	XLAEVIS	of_flat	dendroblast	XL_bambi_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_bckdha	XLAEVIS	of_flat	dendroblast	XL_bckdha_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_bcorl1	XLAEVIS	of_flat	dendroblast	XL_bcorl1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_bloc1s2	XLAEVIS	of_flat	dendroblast	XL_bloc1s2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_bmp6	XLAEVIS	of_flat	dendroblast	XL_bmp6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_brd4	XLAEVIS	of_flat	dendroblast	XL_brd4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_bri3	XLAEVIS	of_flat	dendroblast	XL_bri3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_brms1l	XLAEVIS	of_flat	dendroblast	XL_brms1l_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_bsx	XLAEVIS	of_flat	dendroblast	XL_bsx_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_c15orf59	XLAEVIS	of_flat	dendroblast	XL_c15orf59_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_c2orf49	XLAEVIS	of_flat	dendroblast	XL_c2orf49_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ca2	XLAEVIS	of_flat	dendroblast	XL_ca2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cabp7	XLAEVIS	of_flat	dendroblast	XL_cabp7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cactin	XLAEVIS	of_flat	dendroblast	XL_cactin_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cbln2	XLAEVIS	of_flat	dendroblast	XL_cbln2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ccng1	XLAEVIS	of_flat	dendroblast	XL_ccng1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ccno	XLAEVIS	of_flat	dendroblast	XL_ccno_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cdh8	XLAEVIS	of_flat	dendroblast	XL_cdh8_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cdk5rap3	XLAEVIS	of_flat	dendroblast	XL_cdk5rap3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cdkn1a	XLAEVIS	of_flat	dendroblast	XL_cdkn1a_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cers3	XLAEVIS	of_flat	dendroblast	XL_cers3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_chmp1b	XLAEVIS	of_flat	dendroblast	XL_chmp1b_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_chst11	XLAEVIS	of_flat	dendroblast	XL_chst11_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_chst13	XLAEVIS	of_flat	dendroblast	XL_chst13_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cmklr1	XLAEVIS	of_flat	dendroblast	XL_cmklr1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cntn1	XLAEVIS	of_flat	dendroblast	XL_cntn1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_col18a1	XLAEVIS	of_flat	dendroblast	XL_col18a1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cpm	XLAEVIS	of_flat	dendroblast	XL_cpm_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cpsf4	XLAEVIS	of_flat	dendroblast	XL_cpsf4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cstf1	XLAEVIS	of_flat	dendroblast	XL_cstf1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ctif	XLAEVIS	of_flat	dendroblast	XL_ctif_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cyp26b1	XLAEVIS	of_flat	dendroblast	XL_cyp26b1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cysltr1	XLAEVIS	of_flat	dendroblast	XL_cysltr1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dapk1	XLAEVIS	of_flat	dendroblast	XL_dapk1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dbx1	XLAEVIS	of_flat	dendroblast	XL_dbx1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dennd2a	XLAEVIS	of_flat	dendroblast	XL_dennd2a_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dgcr2	XLAEVIS	of_flat	dendroblast	XL_dgcr2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dnajb4	XLAEVIS	of_flat	dendroblast	XL_dnajb4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dpm1	XLAEVIS	of_flat	dendroblast	XL_dpm1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_drap1	XLAEVIS	of_flat	dendroblast	XL_drap1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dusp6	XLAEVIS	of_flat	dendroblast	XL_dusp6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dynll1	XLAEVIS	of_flat	dendroblast	XL_dynll1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dyrk3	XLAEVIS	of_flat	dendroblast	XL_dyrk3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_egfl7	XLAEVIS	of_flat	dendroblast	XL_egfl7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_eif4ebp2	XLAEVIS	of_flat	dendroblast	XL_eif4ebp2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_elf5l	XLAEVIS	of_flat	dendroblast	XL_elf5l_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_emc6	XLAEVIS	of_flat	dendroblast	XL_emc6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_emx1	XLAEVIS	of_flat	dendroblast	XL_emx1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_eps15	XLAEVIS	of_flat	dendroblast	XL_eps15_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_erf	XLAEVIS	of_flat	dendroblast	XL_erf_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ext2	XLAEVIS	of_flat	dendroblast	XL_ext2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_f2r	XLAEVIS	of_flat	dendroblast	XL_f2r_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_f3	XLAEVIS	of_flat	dendroblast	XL_f3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_faf2	XLAEVIS	of_flat	dendroblast	XL_faf2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_fam124b	XLAEVIS	of_flat	dendroblast	XL_fam124b_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_fam26d-like	XLAEVIS	of_flat	dendroblast	XL_fam26d-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_fam83f	XLAEVIS	of_flat	dendroblast	XL_fam83f_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_fbxo34	XLAEVIS	of_flat	dendroblast	XL_fbxo34_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_fer	XLAEVIS	of_flat	dendroblast	XL_fer_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_fgfr4	XLAEVIS	of_flat	dendroblast	XL_fgfr4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_foxf1	XLAEVIS	of_flat	dendroblast	XL_foxf1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_foxq1	XLAEVIS	of_flat	dendroblast	XL_foxq1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_g3bp2	XLAEVIS	of_flat	dendroblast	XL_g3bp2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_g6pc-like_1	XLAEVIS	of_flat	dendroblast	XL_g6pc-like_1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_gab3	XLAEVIS	of_flat	dendroblast	XL_gab3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_galnt11	XLAEVIS	of_flat	dendroblast	XL_galnt11_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_galnt3	XLAEVIS	of_flat	dendroblast	XL_galnt3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_galnt7	XLAEVIS	of_flat	dendroblast	XL_galnt7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_gfi1	XLAEVIS	of_flat	dendroblast	XL_gfi1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ggps1	XLAEVIS	of_flat	dendroblast	XL_ggps1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ghsr	XLAEVIS	of_flat	dendroblast	XL_ghsr_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_gja5	XLAEVIS	of_flat	dendroblast	XL_gja5_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_gltscr1l	XLAEVIS	of_flat	dendroblast	XL_gltscr1l_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_gnrhr2_nmi	XLAEVIS	of_flat	dendroblast	XL_gnrhr2_nmi_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_grik5-like_1	XLAEVIS	of_flat	dendroblast	XL_grik5-like_1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_grk6-like	XLAEVIS	of_flat	dendroblast	XL_grk6-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_grpel2	XLAEVIS	of_flat	dendroblast	XL_grpel2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_guca1c	XLAEVIS	of_flat	dendroblast	XL_guca1c_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_hapln3	XLAEVIS	of_flat	dendroblast	XL_hapln3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ibsp	XLAEVIS	of_flat	dendroblast	XL_ibsp_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_impa2	XLAEVIS	of_flat	dendroblast	XL_impa2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_impad1	XLAEVIS	of_flat	dendroblast	XL_impad1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ing1	XLAEVIS	of_flat	dendroblast	XL_ing1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ints5-like	XLAEVIS	of_flat	dendroblast	XL_ints5-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_itga3	XLAEVIS	of_flat	dendroblast	XL_itga3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_itga6	XLAEVIS	of_flat	dendroblast	XL_itga6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_jam3	XLAEVIS	of_flat	dendroblast	XL_jam3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_kcnj15-like	XLAEVIS	of_flat	dendroblast	XL_kcnj15-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_kcnk6	XLAEVIS	of_flat	dendroblast	XL_kcnk6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_kdm3b-like	XLAEVIS	of_flat	dendroblast	XL_kdm3b-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_kiaa1429	XLAEVIS	of_flat	dendroblast	XL_kiaa1429_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_kif26a-like	XLAEVIS	of_flat	dendroblast	XL_kif26a-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_kremen1	XLAEVIS	of_flat	dendroblast	XL_kremen1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_krt17	XLAEVIS	of_flat	dendroblast	XL_krt17_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_krt8	XLAEVIS	of_flat	dendroblast	XL_krt8_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_lamp2	XLAEVIS	of_flat	dendroblast	XL_lamp2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_lipe	XLAEVIS	of_flat	dendroblast	XL_lipe_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_lmod1-like	XLAEVIS	of_flat	dendroblast	XL_lmod1-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_lonrf3	XLAEVIS	of_flat	dendroblast	XL_lonrf3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_lrfn1	XLAEVIS	of_flat	dendroblast	XL_lrfn1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_lrrc52	XLAEVIS	of_flat	dendroblast	XL_lrrc52_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_lrsam1	XLAEVIS	of_flat	dendroblast	XL_lrsam1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_lyrm4	XLAEVIS	of_flat	dendroblast	XL_lyrm4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_m6pr	XLAEVIS	of_flat	dendroblast	XL_m6pr_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_maf	XLAEVIS	of_flat	dendroblast	XL_maf_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mafa	XLAEVIS	of_flat	dendroblast	XL_mafa_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mafb	XLAEVIS	of_flat	dendroblast	XL_mafb_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mapk12-like_1	XLAEVIS	of_flat	dendroblast	XL_mapk12-like_1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mast2	XLAEVIS	of_flat	dendroblast	XL_mast2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mc1r	XLAEVIS	of_flat	dendroblast	XL_mc1r_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mchr2	XLAEVIS	of_flat	dendroblast	XL_mchr2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mcm5	XLAEVIS	of_flat	dendroblast	XL_mcm5_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mecr	XLAEVIS	of_flat	dendroblast	XL_mecr_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_med26	XLAEVIS	of_flat	dendroblast	XL_med26_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mfap3l-like	XLAEVIS	of_flat	dendroblast	XL_mfap3l-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mgat2	XLAEVIS	of_flat	dendroblast	XL_mgat2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mgp-like	XLAEVIS	of_flat	dendroblast	XL_mgp-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mis12	XLAEVIS	of_flat	dendroblast	XL_mis12_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mllt11	XLAEVIS	of_flat	dendroblast	XL_mllt11_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mmp25	XLAEVIS	of_flat	dendroblast	XL_mmp25_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mob1b	XLAEVIS	of_flat	dendroblast	XL_mob1b_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_morc2	XLAEVIS	of_flat	dendroblast	XL_morc2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mpc1	XLAEVIS	of_flat	dendroblast	XL_mpc1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mpz	XLAEVIS	of_flat	dendroblast	XL_mpz_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mrap2	XLAEVIS	of_flat	dendroblast	XL_mrap2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mrpl46	XLAEVIS	of_flat	dendroblast	XL_mrpl46_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mrps12	XLAEVIS	of_flat	dendroblast	XL_mrps12_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mrps18b	XLAEVIS	of_flat	dendroblast	XL_mrps18b_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mxra5	XLAEVIS	of_flat	dendroblast	XL_mxra5_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_myo16	XLAEVIS	of_flat	dendroblast	XL_myo16_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_myom1	XLAEVIS	of_flat	dendroblast	XL_myom1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nab2	XLAEVIS	of_flat	dendroblast	XL_nab2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nceh1	XLAEVIS	of_flat	dendroblast	XL_nceh1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ncoa1	XLAEVIS	of_flat	dendroblast	XL_ncoa1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ndst2	XLAEVIS	of_flat	dendroblast	XL_ndst2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ndufa10	XLAEVIS	of_flat	dendroblast	XL_ndufa10_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ndufs3	XLAEVIS	of_flat	dendroblast	XL_ndufs3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_neurod1	XLAEVIS	of_flat	dendroblast	XL_neurod1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nfkb2	XLAEVIS	of_flat	dendroblast	XL_nfkb2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nipa2	XLAEVIS	of_flat	dendroblast	XL_nipa2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nktr-like	XLAEVIS	of_flat	dendroblast	XL_nktr-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nkx1-1	XLAEVIS	of_flat	dendroblast	XL_nkx1-1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nkx2-2	XLAEVIS	of_flat	dendroblast	XL_nkx2-2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nmur2	XLAEVIS	of_flat	dendroblast	XL_nmur2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nodal1	XLAEVIS	of_flat	dendroblast	XL_nodal1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nog4	XLAEVIS	of_flat	dendroblast	XL_nog4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nos2	XLAEVIS	of_flat	dendroblast	XL_nos2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nploc4	XLAEVIS	of_flat	dendroblast	XL_nploc4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nr2f1	XLAEVIS	of_flat	dendroblast	XL_nr2f1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nr4a2	XLAEVIS	of_flat	dendroblast	XL_nr4a2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ntrk1	XLAEVIS	of_flat	dendroblast	XL_ntrk1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nudc	XLAEVIS	of_flat	dendroblast	XL_nudc_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_oat_1	XLAEVIS	of_flat	dendroblast	XL_oat_1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ocrl	XLAEVIS	of_flat	dendroblast	XL_ocrl_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ola1	XLAEVIS	of_flat	dendroblast	XL_ola1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_olig2	XLAEVIS	of_flat	dendroblast	XL_olig2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_otx1	XLAEVIS	of_flat	dendroblast	XL_otx1_LS	D	XENLA	ALLO	2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+XL_ovol2	XLAEVIS	of_flat	dendroblast	XL_ovol2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_pcdh10	XLAEVIS	of_flat	dendroblast	XL_pcdh10_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_pcdh7	XLAEVIS	of_flat	dendroblast	XL_pcdh7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_pde6h	XLAEVIS	of_flat	dendroblast	XL_pde6h_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_pdia6	XLAEVIS	of_flat	dendroblast	XL_pdia6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_phex-like	XLAEVIS	of_flat	dendroblast	XL_phex-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_pin1	XLAEVIS	of_flat	dendroblast	XL_pin1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_pnpla2	XLAEVIS	of_flat	dendroblast	XL_pnpla2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ppfia1	XLAEVIS	of_flat	dendroblast	XL_ppfia1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ppib	XLAEVIS	of_flat	dendroblast	XL_ppib_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ppm1g	XLAEVIS	of_flat	dendroblast	XL_ppm1g_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_prdm6	XLAEVIS	of_flat	dendroblast	XL_prdm6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_prdx3	XLAEVIS	of_flat	dendroblast	XL_prdx3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_prelid1	XLAEVIS	of_flat	dendroblast	XL_prelid1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_prkd1	XLAEVIS	of_flat	dendroblast	XL_prkd1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_prpsap2	XLAEVIS	of_flat	dendroblast	XL_prpsap2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_psd4	XLAEVIS	of_flat	dendroblast	XL_psd4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_psmd6	XLAEVIS	of_flat	dendroblast	XL_psmd6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ptx3	XLAEVIS	of_flat	dendroblast	XL_ptx3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rab21	XLAEVIS	of_flat	dendroblast	XL_rab21_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rab33b	XLAEVIS	of_flat	dendroblast	XL_rab33b_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rabac1	XLAEVIS	of_flat	dendroblast	XL_rabac1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rabep1	XLAEVIS	of_flat	dendroblast	XL_rabep1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rad54l2	XLAEVIS	of_flat	dendroblast	XL_rad54l2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_raly	XLAEVIS	of_flat	dendroblast	XL_raly_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ralyl	XLAEVIS	of_flat	dendroblast	XL_ralyl_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rcvrn_1	XLAEVIS	of_flat	dendroblast	XL_rcvrn_1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rcvrn_2	XLAEVIS	of_flat	dendroblast	XL_rcvrn_2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rd3-like	XLAEVIS	of_flat	dendroblast	XL_rd3-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rem2	XLAEVIS	of_flat	dendroblast	XL_rem2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rhog-like_2	XLAEVIS	of_flat	dendroblast	XL_rhog-like_2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rhou	XLAEVIS	of_flat	dendroblast	XL_rhou_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rnf10	XLAEVIS	of_flat	dendroblast	XL_rnf10_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rnf150	XLAEVIS	of_flat	dendroblast	XL_rnf150_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rnf34	XLAEVIS	of_flat	dendroblast	XL_rnf34_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rpe65	XLAEVIS	of_flat	dendroblast	XL_rpe65_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ruvbl1	XLAEVIS	of_flat	dendroblast	XL_ruvbl1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sall2	XLAEVIS	of_flat	dendroblast	XL_sall2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sbno2	XLAEVIS	of_flat	dendroblast	XL_sbno2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sec24d-like_1	XLAEVIS	of_flat	dendroblast	XL_sec24d-like_1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sf3a2	XLAEVIS	of_flat	dendroblast	XL_sf3a2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sgip1	XLAEVIS	of_flat	dendroblast	XL_sgip1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sgk3	XLAEVIS	of_flat	dendroblast	XL_sgk3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sh3bgr	XLAEVIS	of_flat	dendroblast	XL_sh3bgr_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sh3bgrl3	XLAEVIS	of_flat	dendroblast	XL_sh3bgrl3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sh3bp5l	XLAEVIS	of_flat	dendroblast	XL_sh3bp5l_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sh3glb1	XLAEVIS	of_flat	dendroblast	XL_sh3glb1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_shisa2	XLAEVIS	of_flat	dendroblast	XL_shisa2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_shmt2	XLAEVIS	of_flat	dendroblast	XL_shmt2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_skap2	XLAEVIS	of_flat	dendroblast	XL_skap2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc25a16	XLAEVIS	of_flat	dendroblast	XL_slc25a16_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc25a44	XLAEVIS	of_flat	dendroblast	XL_slc25a44_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc26a1	XLAEVIS	of_flat	dendroblast	XL_slc26a1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc26a2	XLAEVIS	of_flat	dendroblast	XL_slc26a2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc26a9	XLAEVIS	of_flat	dendroblast	XL_slc26a9_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc30a5	XLAEVIS	of_flat	dendroblast	XL_slc30a5_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc30a6	XLAEVIS	of_flat	dendroblast	XL_slc30a6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc38a5	XLAEVIS	of_flat	dendroblast	XL_slc38a5_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc7a7	XLAEVIS	of_flat	dendroblast	XL_slc7a7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_smarcd2	XLAEVIS	of_flat	dendroblast	XL_smarcd2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_smg7	XLAEVIS	of_flat	dendroblast	XL_smg7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_smpd3-like	XLAEVIS	of_flat	dendroblast	XL_smpd3-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_snx33	XLAEVIS	of_flat	dendroblast	XL_snx33_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_socs1	XLAEVIS	of_flat	dendroblast	XL_socs1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_socs4	XLAEVIS	of_flat	dendroblast	XL_socs4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sorcs2	XLAEVIS	of_flat	dendroblast	XL_sorcs2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sox11	XLAEVIS	of_flat	dendroblast	XL_sox11_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sox8	XLAEVIS	of_flat	dendroblast	XL_sox8_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sp6	XLAEVIS	of_flat	dendroblast	XL_sp6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_spo11	XLAEVIS	of_flat	dendroblast	XL_spo11_LS	D	XENLA	ALLO	2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+XL_srd5a2	XLAEVIS	of_flat	dendroblast	XL_srd5a2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_srgap1	XLAEVIS	of_flat	dendroblast	XL_srgap1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_srgap3	XLAEVIS	of_flat	dendroblast	XL_srgap3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sstr1	XLAEVIS	of_flat	dendroblast	XL_sstr1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_stk4	XLAEVIS	of_flat	dendroblast	XL_stk4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_suv420h1	XLAEVIS	of_flat	dendroblast	XL_suv420h1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_syt3	XLAEVIS	of_flat	dendroblast	XL_syt3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_syt8	XLAEVIS	of_flat	dendroblast	XL_syt8_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sytl1	XLAEVIS	of_flat	dendroblast	XL_sytl1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tagln	XLAEVIS	of_flat	dendroblast	XL_tagln_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tal1	XLAEVIS	of_flat	dendroblast	XL_tal1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tbcb	XLAEVIS	of_flat	dendroblast	XL_tbcb_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tcf20	XLAEVIS	of_flat	dendroblast	XL_tcf20_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tgfb2	XLAEVIS	of_flat	dendroblast	XL_tgfb2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_themis2	XLAEVIS	of_flat	dendroblast	XL_themis2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tipin	XLAEVIS	of_flat	dendroblast	XL_tipin_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tiprl	XLAEVIS	of_flat	dendroblast	XL_tiprl_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tmcc3	XLAEVIS	of_flat	dendroblast	XL_tmcc3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tmem215	XLAEVIS	of_flat	dendroblast	XL_tmem215_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tmem259	XLAEVIS	of_flat	dendroblast	XL_tmem259_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tmem52	XLAEVIS	of_flat	dendroblast	XL_tmem52_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tnip1	XLAEVIS	of_flat	dendroblast	XL_tnip1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tnni3k	XLAEVIS	of_flat	dendroblast	XL_tnni3k_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tonsl	XLAEVIS	of_flat	dendroblast	XL_tonsl_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tprg1-like	XLAEVIS	of_flat	dendroblast	XL_tprg1-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tprg1l-like_1	XLAEVIS	of_flat	dendroblast	XL_tprg1l-like_1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_trap1-like	XLAEVIS	of_flat	dendroblast	XL_trap1-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tspan2	XLAEVIS	of_flat	dendroblast	XL_tspan2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tuba4a	XLAEVIS	of_flat	dendroblast	XL_tuba4a_LS	D	XENLA	ALLO	2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+XL_tubb6	XLAEVIS	of_flat	dendroblast	XL_tubb6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tvp23b	XLAEVIS	of_flat	dendroblast	XL_tvp23b_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_txnip	XLAEVIS	of_flat	dendroblast	XL_txnip_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ube2f	XLAEVIS	of_flat	dendroblast	XL_ube2f_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ubr2	XLAEVIS	of_flat	dendroblast	XL_ubr2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ubtd2	XLAEVIS	of_flat	dendroblast	XL_ubtd2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_usp47	XLAEVIS	of_flat	dendroblast	XL_usp47_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_uts2r-like	XLAEVIS	of_flat	dendroblast	XL_uts2r-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_wdr46	XLAEVIS	of_flat	dendroblast	XL_wdr46_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_wdr7	XLAEVIS	of_flat	dendroblast	XL_wdr7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_zbtb40	XLAEVIS	of_flat	dendroblast	XL_zbtb40_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_zfand3	XLAEVIS	of_flat	dendroblast	XL_zfand3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_zfand5	XLAEVIS	of_flat	dendroblast	XL_zfand5_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_zmynd11	XLAEVIS	of_flat	dendroblast	XL_zmynd11_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_zmynd8-like	XLAEVIS	of_flat	dendroblast	XL_zmynd8-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_znf106	XLAEVIS	of_flat	dendroblast	XL_znf106_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_znf770-like	XLAEVIS	of_flat	dendroblast	XL_znf770-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_znf804a	XLAEVIS	of_flat	dendroblast	XL_znf804a_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_znf827	XLAEVIS	of_flat	dendroblast	XL_znf827_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
 V01_globins		orthofinder	default	V01_globins.D15	D	Chordata		2	152	1	1	0.910931	1	0	0	inf	internal	1	1	1
 V01_globins		orthofinder	default	V01_globins.D14	D	Chordata		2	192	0.875	0.875	0.910569	1	0	0.125	inf	internal	1	1	1
 V01_globins		orthofinder	default	V01_globins.D10	D	Vertebrata	WGD	2	154	0.909091	1	0.833333	0.909091	0.0909091	0	Olfactores	internal	1	1	1
@@ -3375,3 +3797,425 @@ XL_znf106	XLAEVIS	orthofinder	default	XL_znf106_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	
 XL_znf770-like	XLAEVIS	orthofinder	default	XL_znf770-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
 XL_znf804a	XLAEVIS	orthofinder	default	XL_znf804a_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
 XL_znf827	XLAEVIS	orthofinder	default	XL_znf827_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V01_globins		orthofinder	dendroblast	V01_globins.D15	D	Chordata		2	152	1	1	0.910931	1	0	0	inf	internal	1	1	1
+V01_globins		orthofinder	dendroblast	V01_globins.D14	D	Chordata		2	192	0.875	0.875	0.910569	1	0	0.125	inf	internal	1	1	1
+V01_globins		orthofinder	dendroblast	V01_globins.D10	D	Vertebrata	WGD	2	154	0.909091	1	0.833333	0.909091	0.0909091	0	Olfactores	internal	1	1	1
+V01_globins		orthofinder	dendroblast	V01_globins.D4	D	Gnathostomata	WGD	2	28	1	1	1	1	0	0	Olfactores	internal	1	1	1
+V01_globins		orthofinder	dendroblast	V01_globins.D2	D	Gnathostomata		2	3	1	1	1	1	0	0	Olfactores	internal	1	1	1
+V01_globins		orthofinder	dendroblast	V01_globins.D8	D	Gnathostomata	TAND	2	25	0.8	1	0.666667	0.8	0.2	0	Vertebrata	internal	1	1	0
+V01_globins		orthofinder	dendroblast	V01_globins.D13	D	Chordata		2	8	0	0	1	1	0	1	Chordata	internal	1	0	0
+V02_opsins		orthofinder	dendroblast	V02_opsins.D7	D	Vertebrata	TAND	2	264	1	1	0.907563	1	0	0	Olfactores	internal	1	1	1
+V02_opsins		orthofinder	dendroblast	V02_opsins.D6	D	Gnathostomata	WGD	4	396	0.883838	0.936869	0.166667	0.94697	0.0530303	0.0631313	Olfactores	internal	1	0	0
+V02_opsins		orthofinder	dendroblast	V02_opsins.D2	D	LEPOC	TAND	2	1	1	1	1	1	0	0	Neopterygii	leaf	1	1	1
+V02_opsins		orthofinder	dendroblast	V02_opsins.D5	D	Neopterygii	RETRO	2	12	0.75	0.75	0.666667	1	0	0.25	Euteleostomi	internal	1	1	0
+V03_Hox		orthofinder	dendroblast	V03_Hox.D61	D	Chordata	TAND	7	21389	0.998925	0.998925	0.909091	1	0	0.00107532	inf	internal	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D4	D	Gnathostomata	WGD	4	111	1	1	1	1	0	0	Vertebrata	internal	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D1	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D2	D	Teleostei	WGD	2	1	1	1	1	1	0	0	Neopterygii	internal	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D3	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D6	D	Gnathostomata	WGD	2	30	1	1	1	1	0	0	Vertebrata	internal	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D5	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D11	D	Gnathostomata	WGD	4	180	0.9	1	0.5	0.9	0.1	0	Vertebrata	internal	1	1	0
+V03_Hox		orthofinder	dendroblast	V03_Hox.D7	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D8	D	XENLA	ALLO	2	1	0	1	1	0	1	0	Olfactores	leaf	1	0	0
+V03_Hox		orthofinder	dendroblast	V03_Hox.D9	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D10	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D16	D	Gnathostomata	WGD	4	216	0.916667	1	0.666667	0.916667	0.0833333	0	Vertebrata	internal	1	1	0
+V03_Hox		orthofinder	dendroblast	V03_Hox.D12	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D13	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D14	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D15	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D21	D	Gnathostomata	WGD	3	120	0.35	1	1	0.35	0.65	0	Chordata	internal	1	0	0
+V03_Hox		orthofinder	dendroblast	V03_Hox.D17	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D18	D	Teleostei	WGD	2	1	1	1	1	1	0	0	Neopterygii	internal	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D19	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D20	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D59	D	Vertebrata	TAND	3	689	1	1	0.884615	1	0	0	inf	internal	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D27	D	Gnathostomata	WGD	3	119	0.89916	1	0.714286	0.89916	0.10084	0	Vertebrata	internal	1	1	0
+V03_Hox		orthofinder	dendroblast	V03_Hox.D22	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D23	D	Teleostei	WGD	2	1	1	1	1	1	0	0	Neopterygii	internal	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D24	D	XENLA	ALLO	2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+V03_Hox		orthofinder	dendroblast	V03_Hox.D25	D	Teleostei	WGD	2	1	1	1	1	1	0	0	Neopterygii	internal	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D26	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D30	D	Gnathostomata	WGD	2	30	0	0	1	1	0	1	Sarcopterygii	internal	1	0	0
+V03_Hox		orthofinder	dendroblast	V03_Hox.D28	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D29	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D33	D	Gnathostomata	WGD	3	85	1	1	1	1	0	0	Vertebrata	internal	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D31	D	Teleostei	WGD	2	1	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V03_Hox		orthofinder	dendroblast	V03_Hox.D32	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D60	D	Vertebrata	TAND	5	3697	1	1	0.916667	1	0	0	inf	internal	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D39	D	Gnathostomata	WGD	4	234	1	1	0.666667	1	0	0	Vertebrata	internal	1	1	0
+V03_Hox		orthofinder	dendroblast	V03_Hox.D34	D	Teleostei	WGD	2	1	1	1	1	1	0	0	Neopterygii	internal	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D35	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D36	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D37	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D38	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D43	D	Gnathostomata	WGD	4	126	1	1	0.666667	1	0	0	Vertebrata	internal	1	1	0
+V03_Hox		orthofinder	dendroblast	V03_Hox.D40	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D41	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D42	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D49	D	Gnathostomata	WGD	3	133	0.631579	0.631579	1	1	0	0.368421	Vertebrata	internal	1	1	0
+V03_Hox		orthofinder	dendroblast	V03_Hox.D44	D	Teleostei	WGD	2	1	1	1	1	1	0	0	Neopterygii	internal	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D45	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D46	D	Teleostei	WGD	2	1	1	1	1	1	0	0	Neopterygii	internal	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D47	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D48	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D52	D	Gnathostomata	WGD	2	21	1	1	1	1	0	0	Vertebrata	internal	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D50	D	Teleostei	WGD	2	1	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V03_Hox		orthofinder	dendroblast	V03_Hox.D51	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D58	D	Gnathostomata	WGD	4	193	1	1	0.666667	1	0	0	Vertebrata	internal	1	1	0
+V03_Hox		orthofinder	dendroblast	V03_Hox.D53	D	Teleostei	WGD	2	1	1	1	1	1	0	0	Neopterygii	internal	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D54	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D55	D	Teleostei	WGD	2	1	1	1	1	1	0	0	Neopterygii	internal	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D56	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V03_Hox		orthofinder	dendroblast	V03_Hox.D57	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+V04_Sox		orthofinder	dendroblast	V04_Sox.D17	D	Chordata		7	5342	1	1	0.79085	1	0	0	inf	internal	1	1	0
+V04_Sox		orthofinder	dendroblast	V04_Sox.D3	D	Gnathostomata	WGD	4	215	0.832558	1	0.466667	0.832558	0.167442	0	Vertebrata	internal	1	0	0
+V04_Sox		orthofinder	dendroblast	V04_Sox.D1	D	Teleostei	WGD	2	2	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V04_Sox		orthofinder	dendroblast	V04_Sox.D2	D	Teleostei	WGD	2	1	1	1	1	1	0	0	Neopterygii	internal	1	1	1
+V04_Sox		orthofinder	dendroblast	V04_Sox.D6	D	Gnathostomata	WGD	2	49	1	1	1	1	0	0	Vertebrata	internal	1	1	1
+V04_Sox		orthofinder	dendroblast	V04_Sox.D4	D	Teleostei	WGD	2	2	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V04_Sox		orthofinder	dendroblast	V04_Sox.D5	D	Teleostei	WGD	2	2	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V04_Sox		orthofinder	dendroblast	V04_Sox.D9	D	Gnathostomata	WGD	3	107	1	1	1	1	0	0	Olfactores	internal	1	1	1
+V04_Sox		orthofinder	dendroblast	V04_Sox.D7	D	Teleostei	WGD	2	1	1	1	1	1	0	0	Neopterygii	internal	1	1	1
+V04_Sox		orthofinder	dendroblast	V04_Sox.D8	D	Teleostei	WGD	2	2	1	1	1	1	0	0	Neopterygii	internal	1	1	1
+V04_Sox		orthofinder	dendroblast	V04_Sox.D11	D	Gnathostomata	WGD	3	84	1	1	1	1	0	0	Olfactores	internal	1	1	1
+V04_Sox		orthofinder	dendroblast	V04_Sox.D10	D	Teleostei	WGD	2	1	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V04_Sox		orthofinder	dendroblast	V04_Sox.D14	D	Gnathostomata	WGD	3	133	0.947368	0.947368	0.714286	1	0	0.0526316	Olfactores	internal	1	1	0
+V04_Sox		orthofinder	dendroblast	V04_Sox.D12	D	Teleostei	WGD	2	2	0	0	1	1	0	1	Teleostei	internal	1	0	0
+V04_Sox		orthofinder	dendroblast	V04_Sox.D13	D	Teleostei	WGD	2	2	0	0.5	0	0.5	0.5	0.5	Teleostei	internal	1	0	0
+V04_Sox		orthofinder	dendroblast	V04_Sox.D16	D	Gnathostomata	WGD	3	105	0.72381	0.914286	0.392857	0.809524	0.190476	0.0857143	Vertebrata	internal	1	0	0
+V04_Sox		orthofinder	dendroblast	V04_Sox.D15	D	Teleostei	SSD	2	4	0	1	1	0	1	0	inf	internal	1	0	0
+XL_LOC100135146	XLAEVIS	orthofinder	dendroblast	XL_LOC100135146_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100145011	XLAEVIS	orthofinder	dendroblast	XL_LOC100145011_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100486385	XLAEVIS	orthofinder	dendroblast	XL_LOC100486385_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100486910	XLAEVIS	orthofinder	dendroblast	XL_LOC100486910_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100486967	XLAEVIS	orthofinder	dendroblast	XL_LOC100486967_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100487019	XLAEVIS	orthofinder	dendroblast	XL_LOC100487019_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100487086	XLAEVIS	orthofinder	dendroblast	XL_LOC100487086_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100487773	XLAEVIS	orthofinder	dendroblast	XL_LOC100487773_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100489027	XLAEVIS	orthofinder	dendroblast	XL_LOC100489027_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100489346	XLAEVIS	orthofinder	dendroblast	XL_LOC100489346_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100489393	XLAEVIS	orthofinder	dendroblast	XL_LOC100489393_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100490434-like	XLAEVIS	orthofinder	dendroblast	XL_LOC100490434-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100494211	XLAEVIS	orthofinder	dendroblast	XL_LOC100494211_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100494762	XLAEVIS	orthofinder	dendroblast	XL_LOC100494762_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100496529	XLAEVIS	orthofinder	dendroblast	XL_LOC100496529_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100496857-like	XLAEVIS	orthofinder	dendroblast	XL_LOC100496857-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100497108	XLAEVIS	orthofinder	dendroblast	XL_LOC100497108_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100498003	XLAEVIS	orthofinder	dendroblast	XL_LOC100498003_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC100498373	XLAEVIS	orthofinder	dendroblast	XL_LOC100498373_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC101730713-like	XLAEVIS	orthofinder	dendroblast	XL_LOC101730713-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC101731195	XLAEVIS	orthofinder	dendroblast	XL_LOC101731195_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC101732168	XLAEVIS	orthofinder	dendroblast	XL_LOC101732168_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC101732937	XLAEVIS	orthofinder	dendroblast	XL_LOC101732937_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC101734256	XLAEVIS	orthofinder	dendroblast	XL_LOC101734256_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC101734633	XLAEVIS	orthofinder	dendroblast	XL_LOC101734633_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_LOC496885	XLAEVIS	orthofinder	dendroblast	XL_LOC496885_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_MGC89221	XLAEVIS	orthofinder	dendroblast	XL_MGC89221_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_Xetrov90016672m	XLAEVIS	orthofinder	dendroblast	XL_Xetrov90016672m_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_Xetrov90020567m	XLAEVIS	orthofinder	dendroblast	XL_Xetrov90020567m_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_Xetrov90020851m	XLAEVIS	orthofinder	dendroblast	XL_Xetrov90020851m_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_Xetrov90023065m	XLAEVIS	orthofinder	dendroblast	XL_Xetrov90023065m_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_abhd12	XLAEVIS	orthofinder	dendroblast	XL_abhd12_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_abhd17a	XLAEVIS	orthofinder	dendroblast	XL_abhd17a_LS	D	XENLA	ALLO	2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+XL_acbd6	XLAEVIS	orthofinder	dendroblast	XL_acbd6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_acot2	XLAEVIS	orthofinder	dendroblast	XL_acot2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_adamts9	XLAEVIS	orthofinder	dendroblast	XL_adamts9_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_adnp	XLAEVIS	orthofinder	dendroblast	XL_adnp_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_aldh1a3-like	XLAEVIS	orthofinder	dendroblast	XL_aldh1a3-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_amer2	XLAEVIS	orthofinder	dendroblast	XL_amer2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_anapc7	XLAEVIS	orthofinder	dendroblast	XL_anapc7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ankrd22	XLAEVIS	orthofinder	dendroblast	XL_ankrd22_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ankrd34a	XLAEVIS	orthofinder	dendroblast	XL_ankrd34a_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ankrd46	XLAEVIS	orthofinder	dendroblast	XL_ankrd46_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ano2	XLAEVIS	orthofinder	dendroblast	XL_ano2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ap3m2	XLAEVIS	orthofinder	dendroblast	XL_ap3m2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_apc2	XLAEVIS	orthofinder	dendroblast	XL_apc2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_apoa5	XLAEVIS	orthofinder	dendroblast	XL_apoa5_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_apobec2	XLAEVIS	orthofinder	dendroblast	XL_apobec2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_arhgap17-like	XLAEVIS	orthofinder	dendroblast	XL_arhgap17-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_arhgap20	XLAEVIS	orthofinder	dendroblast	XL_arhgap20_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_arhgap29	XLAEVIS	orthofinder	dendroblast	XL_arhgap29_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_arl13b	XLAEVIS	orthofinder	dendroblast	XL_arl13b_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_asb7	XLAEVIS	orthofinder	dendroblast	XL_asb7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ash2l	XLAEVIS	orthofinder	dendroblast	XL_ash2l_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_atcay	XLAEVIS	orthofinder	dendroblast	XL_atcay_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_b4galt2-like	XLAEVIS	orthofinder	dendroblast	XL_b4galt2-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_b4galt7	XLAEVIS	orthofinder	dendroblast	XL_b4galt7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_baiap3	XLAEVIS	orthofinder	dendroblast	XL_baiap3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_bambi	XLAEVIS	orthofinder	dendroblast	XL_bambi_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_bckdha	XLAEVIS	orthofinder	dendroblast	XL_bckdha_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_bcorl1	XLAEVIS	orthofinder	dendroblast	XL_bcorl1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_bloc1s2	XLAEVIS	orthofinder	dendroblast	XL_bloc1s2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_bmp6	XLAEVIS	orthofinder	dendroblast	XL_bmp6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_brd4	XLAEVIS	orthofinder	dendroblast	XL_brd4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_bri3	XLAEVIS	orthofinder	dendroblast	XL_bri3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_brms1l	XLAEVIS	orthofinder	dendroblast	XL_brms1l_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_bsx	XLAEVIS	orthofinder	dendroblast	XL_bsx_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_c15orf59	XLAEVIS	orthofinder	dendroblast	XL_c15orf59_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_c2orf49	XLAEVIS	orthofinder	dendroblast	XL_c2orf49_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ca2	XLAEVIS	orthofinder	dendroblast	XL_ca2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cabp7	XLAEVIS	orthofinder	dendroblast	XL_cabp7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cactin	XLAEVIS	orthofinder	dendroblast	XL_cactin_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cbln2	XLAEVIS	orthofinder	dendroblast	XL_cbln2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ccng1	XLAEVIS	orthofinder	dendroblast	XL_ccng1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ccno	XLAEVIS	orthofinder	dendroblast	XL_ccno_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cdh8	XLAEVIS	orthofinder	dendroblast	XL_cdh8_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cdk5rap3	XLAEVIS	orthofinder	dendroblast	XL_cdk5rap3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cdkn1a	XLAEVIS	orthofinder	dendroblast	XL_cdkn1a_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cers3	XLAEVIS	orthofinder	dendroblast	XL_cers3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_chmp1b	XLAEVIS	orthofinder	dendroblast	XL_chmp1b_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_chst11	XLAEVIS	orthofinder	dendroblast	XL_chst11_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_chst13	XLAEVIS	orthofinder	dendroblast	XL_chst13_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cmklr1	XLAEVIS	orthofinder	dendroblast	XL_cmklr1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cntn1	XLAEVIS	orthofinder	dendroblast	XL_cntn1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_col18a1	XLAEVIS	orthofinder	dendroblast	XL_col18a1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cpm	XLAEVIS	orthofinder	dendroblast	XL_cpm_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cpsf4	XLAEVIS	orthofinder	dendroblast	XL_cpsf4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cstf1	XLAEVIS	orthofinder	dendroblast	XL_cstf1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ctif	XLAEVIS	orthofinder	dendroblast	XL_ctif_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cyp26b1	XLAEVIS	orthofinder	dendroblast	XL_cyp26b1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_cysltr1	XLAEVIS	orthofinder	dendroblast	XL_cysltr1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dapk1	XLAEVIS	orthofinder	dendroblast	XL_dapk1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dbx1	XLAEVIS	orthofinder	dendroblast	XL_dbx1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dennd2a	XLAEVIS	orthofinder	dendroblast	XL_dennd2a_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dgcr2	XLAEVIS	orthofinder	dendroblast	XL_dgcr2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dnajb4	XLAEVIS	orthofinder	dendroblast	XL_dnajb4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dpm1	XLAEVIS	orthofinder	dendroblast	XL_dpm1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_drap1	XLAEVIS	orthofinder	dendroblast	XL_drap1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dusp6	XLAEVIS	orthofinder	dendroblast	XL_dusp6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dynll1	XLAEVIS	orthofinder	dendroblast	XL_dynll1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_dyrk3	XLAEVIS	orthofinder	dendroblast	XL_dyrk3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_egfl7	XLAEVIS	orthofinder	dendroblast	XL_egfl7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_eif4ebp2	XLAEVIS	orthofinder	dendroblast	XL_eif4ebp2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_elf5l	XLAEVIS	orthofinder	dendroblast	XL_elf5l_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_emc6	XLAEVIS	orthofinder	dendroblast	XL_emc6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_emx1	XLAEVIS	orthofinder	dendroblast	XL_emx1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_eps15	XLAEVIS	orthofinder	dendroblast	XL_eps15_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_erf	XLAEVIS	orthofinder	dendroblast	XL_erf_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ext2	XLAEVIS	orthofinder	dendroblast	XL_ext2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_f2r	XLAEVIS	orthofinder	dendroblast	XL_f2r_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_f3	XLAEVIS	orthofinder	dendroblast	XL_f3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_faf2	XLAEVIS	orthofinder	dendroblast	XL_faf2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_fam124b	XLAEVIS	orthofinder	dendroblast	XL_fam124b_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_fam26d-like	XLAEVIS	orthofinder	dendroblast	XL_fam26d-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_fam83f	XLAEVIS	orthofinder	dendroblast	XL_fam83f_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_fbxo34	XLAEVIS	orthofinder	dendroblast	XL_fbxo34_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_fer	XLAEVIS	orthofinder	dendroblast	XL_fer_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_fgfr4	XLAEVIS	orthofinder	dendroblast	XL_fgfr4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_foxf1	XLAEVIS	orthofinder	dendroblast	XL_foxf1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_foxq1	XLAEVIS	orthofinder	dendroblast	XL_foxq1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_g3bp2	XLAEVIS	orthofinder	dendroblast	XL_g3bp2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_g6pc-like_1	XLAEVIS	orthofinder	dendroblast	XL_g6pc-like_1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_gab3	XLAEVIS	orthofinder	dendroblast	XL_gab3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_galnt11	XLAEVIS	orthofinder	dendroblast	XL_galnt11_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_galnt3	XLAEVIS	orthofinder	dendroblast	XL_galnt3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_galnt7	XLAEVIS	orthofinder	dendroblast	XL_galnt7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_gfi1	XLAEVIS	orthofinder	dendroblast	XL_gfi1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ggps1	XLAEVIS	orthofinder	dendroblast	XL_ggps1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ghsr	XLAEVIS	orthofinder	dendroblast	XL_ghsr_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_gja5	XLAEVIS	orthofinder	dendroblast	XL_gja5_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_gltscr1l	XLAEVIS	orthofinder	dendroblast	XL_gltscr1l_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_gnrhr2_nmi	XLAEVIS	orthofinder	dendroblast	XL_gnrhr2_nmi_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_grik5-like_1	XLAEVIS	orthofinder	dendroblast	XL_grik5-like_1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_grk6-like	XLAEVIS	orthofinder	dendroblast	XL_grk6-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_grpel2	XLAEVIS	orthofinder	dendroblast	XL_grpel2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_guca1c	XLAEVIS	orthofinder	dendroblast	XL_guca1c_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_hapln3	XLAEVIS	orthofinder	dendroblast	XL_hapln3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ibsp	XLAEVIS	orthofinder	dendroblast	XL_ibsp_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_impa2	XLAEVIS	orthofinder	dendroblast	XL_impa2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_impad1	XLAEVIS	orthofinder	dendroblast	XL_impad1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ing1	XLAEVIS	orthofinder	dendroblast	XL_ing1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ints5-like	XLAEVIS	orthofinder	dendroblast	XL_ints5-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_itga3	XLAEVIS	orthofinder	dendroblast	XL_itga3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_itga6	XLAEVIS	orthofinder	dendroblast	XL_itga6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_jam3	XLAEVIS	orthofinder	dendroblast	XL_jam3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_kcnj15-like	XLAEVIS	orthofinder	dendroblast	XL_kcnj15-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_kcnk6	XLAEVIS	orthofinder	dendroblast	XL_kcnk6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_kdm3b-like	XLAEVIS	orthofinder	dendroblast	XL_kdm3b-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_kiaa1429	XLAEVIS	orthofinder	dendroblast	XL_kiaa1429_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_kif26a-like	XLAEVIS	orthofinder	dendroblast	XL_kif26a-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_kremen1	XLAEVIS	orthofinder	dendroblast	XL_kremen1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_krt17	XLAEVIS	orthofinder	dendroblast	XL_krt17_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_krt8	XLAEVIS	orthofinder	dendroblast	XL_krt8_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_lamp2	XLAEVIS	orthofinder	dendroblast	XL_lamp2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_lipe	XLAEVIS	orthofinder	dendroblast	XL_lipe_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_lmod1-like	XLAEVIS	orthofinder	dendroblast	XL_lmod1-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_lonrf3	XLAEVIS	orthofinder	dendroblast	XL_lonrf3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_lrfn1	XLAEVIS	orthofinder	dendroblast	XL_lrfn1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_lrrc52	XLAEVIS	orthofinder	dendroblast	XL_lrrc52_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_lrsam1	XLAEVIS	orthofinder	dendroblast	XL_lrsam1_LS	D	XENLA	ALLO	2	1	0	1	1	0	1	0	Tetrapoda	leaf	1	0	0
+XL_lyrm4	XLAEVIS	orthofinder	dendroblast	XL_lyrm4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_m6pr	XLAEVIS	orthofinder	dendroblast	XL_m6pr_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_maf	XLAEVIS	orthofinder	dendroblast	XL_maf_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mafa	XLAEVIS	orthofinder	dendroblast	XL_mafa_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mafb	XLAEVIS	orthofinder	dendroblast	XL_mafb_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mapk12-like_1	XLAEVIS	orthofinder	dendroblast	XL_mapk12-like_1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mast2	XLAEVIS	orthofinder	dendroblast	XL_mast2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mc1r	XLAEVIS	orthofinder	dendroblast	XL_mc1r_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mchr2	XLAEVIS	orthofinder	dendroblast	XL_mchr2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mcm5	XLAEVIS	orthofinder	dendroblast	XL_mcm5_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mecr	XLAEVIS	orthofinder	dendroblast	XL_mecr_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_med26	XLAEVIS	orthofinder	dendroblast	XL_med26_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mfap3l-like	XLAEVIS	orthofinder	dendroblast	XL_mfap3l-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mgat2	XLAEVIS	orthofinder	dendroblast	XL_mgat2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mgp-like	XLAEVIS	orthofinder	dendroblast	XL_mgp-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mis12	XLAEVIS	orthofinder	dendroblast	XL_mis12_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mllt11	XLAEVIS	orthofinder	dendroblast	XL_mllt11_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mmp25	XLAEVIS	orthofinder	dendroblast	XL_mmp25_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mob1b	XLAEVIS	orthofinder	dendroblast	XL_mob1b_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_morc2	XLAEVIS	orthofinder	dendroblast	XL_morc2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mpc1	XLAEVIS	orthofinder	dendroblast	XL_mpc1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mpz	XLAEVIS	orthofinder	dendroblast	XL_mpz_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mrap2	XLAEVIS	orthofinder	dendroblast	XL_mrap2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mrpl46	XLAEVIS	orthofinder	dendroblast	XL_mrpl46_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mrps12	XLAEVIS	orthofinder	dendroblast	XL_mrps12_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mrps18b	XLAEVIS	orthofinder	dendroblast	XL_mrps18b_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_mxra5	XLAEVIS	orthofinder	dendroblast	XL_mxra5_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_myo16	XLAEVIS	orthofinder	dendroblast	XL_myo16_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_myom1	XLAEVIS	orthofinder	dendroblast	XL_myom1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nab2	XLAEVIS	orthofinder	dendroblast	XL_nab2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nceh1	XLAEVIS	orthofinder	dendroblast	XL_nceh1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ncoa1	XLAEVIS	orthofinder	dendroblast	XL_ncoa1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ndst2	XLAEVIS	orthofinder	dendroblast	XL_ndst2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ndufa10	XLAEVIS	orthofinder	dendroblast	XL_ndufa10_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ndufs3	XLAEVIS	orthofinder	dendroblast	XL_ndufs3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_neurod1	XLAEVIS	orthofinder	dendroblast	XL_neurod1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nfkb2	XLAEVIS	orthofinder	dendroblast	XL_nfkb2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nipa2	XLAEVIS	orthofinder	dendroblast	XL_nipa2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nktr-like	XLAEVIS	orthofinder	dendroblast	XL_nktr-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nkx1-1	XLAEVIS	orthofinder	dendroblast	XL_nkx1-1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nkx2-2	XLAEVIS	orthofinder	dendroblast	XL_nkx2-2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nmur2	XLAEVIS	orthofinder	dendroblast	XL_nmur2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nodal1	XLAEVIS	orthofinder	dendroblast	XL_nodal1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nog4	XLAEVIS	orthofinder	dendroblast	XL_nog4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nos2	XLAEVIS	orthofinder	dendroblast	XL_nos2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nploc4	XLAEVIS	orthofinder	dendroblast	XL_nploc4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nr2f1	XLAEVIS	orthofinder	dendroblast	XL_nr2f1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nr4a2	XLAEVIS	orthofinder	dendroblast	XL_nr4a2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ntrk1	XLAEVIS	orthofinder	dendroblast	XL_ntrk1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_nudc	XLAEVIS	orthofinder	dendroblast	XL_nudc_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_oat_1	XLAEVIS	orthofinder	dendroblast	XL_oat_1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ocrl	XLAEVIS	orthofinder	dendroblast	XL_ocrl_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ola1	XLAEVIS	orthofinder	dendroblast	XL_ola1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_olig2	XLAEVIS	orthofinder	dendroblast	XL_olig2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_otx1	XLAEVIS	orthofinder	dendroblast	XL_otx1_LS	D	XENLA	ALLO	2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+XL_ovol2	XLAEVIS	orthofinder	dendroblast	XL_ovol2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_pcdh10	XLAEVIS	orthofinder	dendroblast	XL_pcdh10_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_pcdh7	XLAEVIS	orthofinder	dendroblast	XL_pcdh7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_pde6h	XLAEVIS	orthofinder	dendroblast	XL_pde6h_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_pdia6	XLAEVIS	orthofinder	dendroblast	XL_pdia6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_phex-like	XLAEVIS	orthofinder	dendroblast	XL_phex-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_pin1	XLAEVIS	orthofinder	dendroblast	XL_pin1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_pnpla2	XLAEVIS	orthofinder	dendroblast	XL_pnpla2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ppfia1	XLAEVIS	orthofinder	dendroblast	XL_ppfia1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ppib	XLAEVIS	orthofinder	dendroblast	XL_ppib_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ppm1g	XLAEVIS	orthofinder	dendroblast	XL_ppm1g_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_prdm6	XLAEVIS	orthofinder	dendroblast	XL_prdm6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_prdx3	XLAEVIS	orthofinder	dendroblast	XL_prdx3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_prelid1	XLAEVIS	orthofinder	dendroblast	XL_prelid1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_prkd1	XLAEVIS	orthofinder	dendroblast	XL_prkd1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_prpsap2	XLAEVIS	orthofinder	dendroblast	XL_prpsap2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_psd4	XLAEVIS	orthofinder	dendroblast	XL_psd4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_psmd6	XLAEVIS	orthofinder	dendroblast	XL_psmd6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ptx3	XLAEVIS	orthofinder	dendroblast	XL_ptx3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rab21	XLAEVIS	orthofinder	dendroblast	XL_rab21_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rab33b	XLAEVIS	orthofinder	dendroblast	XL_rab33b_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rabac1	XLAEVIS	orthofinder	dendroblast	XL_rabac1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rabep1	XLAEVIS	orthofinder	dendroblast	XL_rabep1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rad54l2	XLAEVIS	orthofinder	dendroblast	XL_rad54l2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_raly	XLAEVIS	orthofinder	dendroblast	XL_raly_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ralyl	XLAEVIS	orthofinder	dendroblast	XL_ralyl_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rcvrn_1	XLAEVIS	orthofinder	dendroblast	XL_rcvrn_1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rcvrn_2	XLAEVIS	orthofinder	dendroblast	XL_rcvrn_2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rd3-like	XLAEVIS	orthofinder	dendroblast	XL_rd3-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rem2	XLAEVIS	orthofinder	dendroblast	XL_rem2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rhog-like_2	XLAEVIS	orthofinder	dendroblast	XL_rhog-like_2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rhou	XLAEVIS	orthofinder	dendroblast	XL_rhou_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rnf10	XLAEVIS	orthofinder	dendroblast	XL_rnf10_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rnf150	XLAEVIS	orthofinder	dendroblast	XL_rnf150_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rnf34	XLAEVIS	orthofinder	dendroblast	XL_rnf34_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_rpe65	XLAEVIS	orthofinder	dendroblast	XL_rpe65_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ruvbl1	XLAEVIS	orthofinder	dendroblast	XL_ruvbl1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sall2	XLAEVIS	orthofinder	dendroblast	XL_sall2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sbno2	XLAEVIS	orthofinder	dendroblast	XL_sbno2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sec24d-like_1	XLAEVIS	orthofinder	dendroblast	XL_sec24d-like_1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sf3a2	XLAEVIS	orthofinder	dendroblast	XL_sf3a2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sgip1	XLAEVIS	orthofinder	dendroblast	XL_sgip1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sgk3	XLAEVIS	orthofinder	dendroblast	XL_sgk3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sh3bgr	XLAEVIS	orthofinder	dendroblast	XL_sh3bgr_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sh3bgrl3	XLAEVIS	orthofinder	dendroblast	XL_sh3bgrl3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sh3bp5l	XLAEVIS	orthofinder	dendroblast	XL_sh3bp5l_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sh3glb1	XLAEVIS	orthofinder	dendroblast	XL_sh3glb1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_shisa2	XLAEVIS	orthofinder	dendroblast	XL_shisa2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_shmt2	XLAEVIS	orthofinder	dendroblast	XL_shmt2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_skap2	XLAEVIS	orthofinder	dendroblast	XL_skap2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc25a16	XLAEVIS	orthofinder	dendroblast	XL_slc25a16_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc25a44	XLAEVIS	orthofinder	dendroblast	XL_slc25a44_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc26a1	XLAEVIS	orthofinder	dendroblast	XL_slc26a1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc26a2	XLAEVIS	orthofinder	dendroblast	XL_slc26a2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc26a9	XLAEVIS	orthofinder	dendroblast	XL_slc26a9_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc30a5	XLAEVIS	orthofinder	dendroblast	XL_slc30a5_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc30a6	XLAEVIS	orthofinder	dendroblast	XL_slc30a6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc38a5	XLAEVIS	orthofinder	dendroblast	XL_slc38a5_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_slc7a7	XLAEVIS	orthofinder	dendroblast	XL_slc7a7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_smarcd2	XLAEVIS	orthofinder	dendroblast	XL_smarcd2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_smg7	XLAEVIS	orthofinder	dendroblast	XL_smg7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_smpd3-like	XLAEVIS	orthofinder	dendroblast	XL_smpd3-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_snx33	XLAEVIS	orthofinder	dendroblast	XL_snx33_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_socs1	XLAEVIS	orthofinder	dendroblast	XL_socs1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_socs4	XLAEVIS	orthofinder	dendroblast	XL_socs4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sorcs2	XLAEVIS	orthofinder	dendroblast	XL_sorcs2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sox11	XLAEVIS	orthofinder	dendroblast	XL_sox11_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sox8	XLAEVIS	orthofinder	dendroblast	XL_sox8_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sp6	XLAEVIS	orthofinder	dendroblast	XL_sp6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_spo11	XLAEVIS	orthofinder	dendroblast	XL_spo11_LS	D	XENLA	ALLO	2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+XL_srd5a2	XLAEVIS	orthofinder	dendroblast	XL_srd5a2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_srgap1	XLAEVIS	orthofinder	dendroblast	XL_srgap1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_srgap3	XLAEVIS	orthofinder	dendroblast	XL_srgap3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sstr1	XLAEVIS	orthofinder	dendroblast	XL_sstr1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_stk4	XLAEVIS	orthofinder	dendroblast	XL_stk4_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_suv420h1	XLAEVIS	orthofinder	dendroblast	XL_suv420h1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_syt3	XLAEVIS	orthofinder	dendroblast	XL_syt3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_syt8	XLAEVIS	orthofinder	dendroblast	XL_syt8_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_sytl1	XLAEVIS	orthofinder	dendroblast	XL_sytl1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tagln	XLAEVIS	orthofinder	dendroblast	XL_tagln_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tal1	XLAEVIS	orthofinder	dendroblast	XL_tal1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tbcb	XLAEVIS	orthofinder	dendroblast	XL_tbcb_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tcf20	XLAEVIS	orthofinder	dendroblast	XL_tcf20_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tgfb2	XLAEVIS	orthofinder	dendroblast	XL_tgfb2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_themis2	XLAEVIS	orthofinder	dendroblast	XL_themis2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tipin	XLAEVIS	orthofinder	dendroblast	XL_tipin_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tiprl	XLAEVIS	orthofinder	dendroblast	XL_tiprl_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tmcc3	XLAEVIS	orthofinder	dendroblast	XL_tmcc3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tmem215	XLAEVIS	orthofinder	dendroblast	XL_tmem215_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tmem259	XLAEVIS	orthofinder	dendroblast	XL_tmem259_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tmem52	XLAEVIS	orthofinder	dendroblast	XL_tmem52_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tnip1	XLAEVIS	orthofinder	dendroblast	XL_tnip1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tnni3k	XLAEVIS	orthofinder	dendroblast	XL_tnni3k_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tonsl	XLAEVIS	orthofinder	dendroblast	XL_tonsl_LS	D	XENLA	ALLO	2	1	0	1	1	0	1	0	Tetrapoda	leaf	1	0	0
+XL_tprg1-like	XLAEVIS	orthofinder	dendroblast	XL_tprg1-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tprg1l-like_1	XLAEVIS	orthofinder	dendroblast	XL_tprg1l-like_1_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_trap1-like	XLAEVIS	orthofinder	dendroblast	XL_trap1-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tspan2	XLAEVIS	orthofinder	dendroblast	XL_tspan2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tuba4a	XLAEVIS	orthofinder	dendroblast	XL_tuba4a_LS	D	XENLA	ALLO	2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+XL_tubb6	XLAEVIS	orthofinder	dendroblast	XL_tubb6_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_tvp23b	XLAEVIS	orthofinder	dendroblast	XL_tvp23b_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_txnip	XLAEVIS	orthofinder	dendroblast	XL_txnip_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ube2f	XLAEVIS	orthofinder	dendroblast	XL_ube2f_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ubr2	XLAEVIS	orthofinder	dendroblast	XL_ubr2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_ubtd2	XLAEVIS	orthofinder	dendroblast	XL_ubtd2_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_usp47	XLAEVIS	orthofinder	dendroblast	XL_usp47_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_uts2r-like	XLAEVIS	orthofinder	dendroblast	XL_uts2r-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_wdr46	XLAEVIS	orthofinder	dendroblast	XL_wdr46_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_wdr7	XLAEVIS	orthofinder	dendroblast	XL_wdr7_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_zbtb40	XLAEVIS	orthofinder	dendroblast	XL_zbtb40_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_zfand3	XLAEVIS	orthofinder	dendroblast	XL_zfand3_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_zfand5	XLAEVIS	orthofinder	dendroblast	XL_zfand5_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_zmynd11	XLAEVIS	orthofinder	dendroblast	XL_zmynd11_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_zmynd8-like	XLAEVIS	orthofinder	dendroblast	XL_zmynd8-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_znf106	XLAEVIS	orthofinder	dendroblast	XL_znf106_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_znf770-like	XLAEVIS	orthofinder	dendroblast	XL_znf770-like_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_znf804a	XLAEVIS	orthofinder	dendroblast	XL_znf804a_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1
+XL_znf827	XLAEVIS	orthofinder	dendroblast	XL_znf827_LS	D	XENLA	ALLO	2	1	1	1	1	1	0	0	Xenopus	leaf	1	1	1

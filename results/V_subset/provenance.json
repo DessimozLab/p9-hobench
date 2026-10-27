@@ -1,6 +1,6 @@
 {
  "hobench_git": {
-  "commit": "c1658df1a6eb0c6715ca198834b72f0c8def8ca2",
+  "commit": "3b738caa3482e1d45d0414c809d2acdc08be6cbb",
   "dirty": true
  },
  "script": "scripts/evaluate_panel.py",
@@ -85,6 +85,20 @@
    "nesting_problems": 0,
    "n_genes_dropped_not_in_reference": null
   },
+  "of_flat/dendroblast": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/V/subset/of_flat_dendroblast",
+   "prediction_sha256": "ed9c0a32684ebc781aecfa25f9f2217ea28d507c07acdb074e72683b344f79bc",
+   "manifest_sha256": "26a80dffc1a22d014ad1c31a5f154c2be037892cd07af6e50d54580a48b2ceaf",
+   "manifest_git_commit": "24c82b000f36d7b5a0104ab7fe2721e24fa4ef53",
+   "prediction_meta": {
+    "format": "tsv",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/V/subset/of_flat_dendroblast/hogs.tsv.gz",
+    "flat": true
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
   "orthofinder/default": {
    "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/V/subset/orthofinder_default",
    "prediction_sha256": "fc105f87e15613182e942d01a5e0013f54197060f12be849cff00aee3e00edb3",
@@ -113,6 +127,41 @@
     },
     "unmatched_of_nodes": [],
     "root_from_orthogroups": "/tmp/hobench_eval_cache/V/subset/orthofinder_default/Orthogroups/Orthogroups.tsv",
+    "n_hogs_not_nested_in_og": 0,
+    "induced_levels": {}
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "orthofinder/dendroblast": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/V/subset/orthofinder_dendroblast",
+   "prediction_sha256": "b14a5edc74bde08b16f043e26e9737a8af6fa30356b764ae27a519941c57b874",
+   "manifest_sha256": "d5f8f2f4ee662c5b5dd532d4fddc8f44b46c59256b86ad86164405a775f8dcf3",
+   "manifest_git_commit": "24c82b000f36d7b5a0104ab7fe2721e24fa4ef53",
+   "prediction_meta": {
+    "format": "orthofinder",
+    "source": "/tmp/hobench_eval_cache/V/subset/orthofinder_dendroblast/Phylogenetic_Hierarchical_Orthogroups",
+    "of_to_ours": {
+     "N15": "Salmoninae",
+     "N14": "Salmonidae",
+     "N12": "Protacanthopterygii",
+     "N9": "Euteleosteomorpha",
+     "N7": "Teleostei",
+     "N5": "Neopterygii",
+     "N10": "Xenopus",
+     "N13": "Euarchontoglires",
+     "N11": "Amniota",
+     "N8": "Tetrapoda",
+     "N6": "Sarcopterygii",
+     "N4": "Euteleostomi",
+     "N3": "Gnathostomata",
+     "N2": "Vertebrata",
+     "N1": "Olfactores",
+     "N0": "Chordata"
+    },
+    "unmatched_of_nodes": [],
+    "root_from_orthogroups": "/tmp/hobench_eval_cache/V/subset/orthofinder_dendroblast/Orthogroups/Orthogroups.tsv",
     "n_hogs_not_nested_in_og": 0,
     "induced_levels": {}
    },

@@ -115,12 +115,13 @@ def prune_family(f, drop_sp):
     while changed:
         changed = False
         for nd in list(root.postorder()):
-            if not nd.is_leaf or nd.parent is None:
-                if nd.children and len(nd.children) == 1 and nd.parent is not None:
-                    p, c = nd.parent, nd.children[0]
-                    p.children[p.children.index(nd)] = c; c.parent = p; changed = True
-                elif not nd.children and nd.parent is not None and gsp.get(nd.name) is None:
-                    nd.parent.children.remove(nd); changed = True
+            if nd.parent is None:
+                continue
+            if not nd.children and gsp.get(nd.name) is None:      # emptied internal node (also 'leaf' by shape)
+                nd.parent.children.remove(nd); changed = True
+            elif len(nd.children) == 1:
+                p, c = nd.parent, nd.children[0]
+                p.children[p.children.index(nd)] = c; c.parent = p; changed = True
         if len(root.children) == 1 and root.children[0].children:
             root = root.children[0]; root.parent = None; changed = True
     g.tree = root
@@ -206,6 +207,7 @@ def main():
     # references / context
     if pert == "taxrm":
         fams_s = [prune_family(f, removed) for f in fams]
+        fams_s = [f for f in fams_s if len(f.members) >= 2 and f.tree.children]   # drop families emptied by removal
     else:
         fams_s = fams
     ctx = panel_context(fams_s, st)

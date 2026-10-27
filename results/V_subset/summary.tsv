@@ -230,6 +230,39 @@ control	of_flat	default	tool	skill_membership_f1				0
 control	of_flat	default	tool	in_paralog_recovery_0.5				0		
 control	of_flat	default	tool	merge_accuracy_sd_posthoc				0		
 control	of_flat	default	tool	event_recovery_0.8				0		
+headline	of_flat	dendroblast	tool	level_bcubed_f1	0.663531	0.400361	0.995924	3		
+headline	of_flat	dendroblast	tool	merge_accuracy_node	0.902054	0.852677	0.99024	3		
+headline	of_flat	dendroblast	tool	event_recovery_0.5	0.0555556	0	0.111111	2		
+headline	of_flat	dendroblast	tool	membership_f1	0.721071	0.721071	0.721071	1		
+headline	of_flat	dendroblast	tool	skill_level_bcubed_f1	-0.114807	-0.476776	0.247162	2		
+headline	of_flat	dendroblast	tool	skill_merge_accuracy_node	-0.27097	-0.473232	-0.068708	2		
+headline	of_flat	dendroblast	tool	skill_event_recovery_0.5	0.0539033	0	0.107807	2		
+headline	of_flat	dendroblast	tool	skill_membership_f1	0.594736	0.594736	0.594736	1		
+headline	of_flat	dendroblast	tool	in_paralog_recovery_0.5	0.986192	0.970588	1	3		
+headline	of_flat	dendroblast	tool	merge_accuracy_sd_posthoc	0.790657	0.600903	0.99024	3		
+headline	of_flat	dendroblast	tool	event_recovery_0.8	0.037037	0	0.0740741	2		
+noncontrol_all	of_flat	dendroblast	tool	level_bcubed_f1	0.656705	0.400361	0.995924	5		
+noncontrol_all	of_flat	dendroblast	tool	merge_accuracy_node	0.853331	0.744318	0.99024	5		
+noncontrol_all	of_flat	dendroblast	tool	event_recovery_0.5	0.113912	0	0.285714	4		
+noncontrol_all	of_flat	dendroblast	tool	membership_f1	0.83283	0.721071	0.94459	2		
+noncontrol_all	of_flat	dendroblast	tool	skill_level_bcubed_f1	-0.054066	-0.476776	0.333219	4		
+noncontrol_all	of_flat	dendroblast	tool	skill_merge_accuracy_node	-0.109417	-0.473232	0.196429	4		
+noncontrol_all	of_flat	dendroblast	tool	skill_event_recovery_0.5	0.113086	0	0.285714	4		
+noncontrol_all	of_flat	dendroblast	tool	skill_membership_f1	0.765281	0.594736	0.935825	2		
+noncontrol_all	of_flat	dendroblast	tool	in_paralog_recovery_0.5	0.986192	0.970588	1	3		
+noncontrol_all	of_flat	dendroblast	tool	merge_accuracy_sd_posthoc	0.700674	0.514134	0.99024	5		
+noncontrol_all	of_flat	dendroblast	tool	event_recovery_0.8	0.0899471	0	0.285714	4		
+control	of_flat	dendroblast	tool	level_bcubed_f1				0		
+control	of_flat	dendroblast	tool	merge_accuracy_node				0		
+control	of_flat	dendroblast	tool	event_recovery_0.5				0		
+control	of_flat	dendroblast	tool	membership_f1				0		
+control	of_flat	dendroblast	tool	skill_level_bcubed_f1				0		
+control	of_flat	dendroblast	tool	skill_merge_accuracy_node				0		
+control	of_flat	dendroblast	tool	skill_event_recovery_0.5				0		
+control	of_flat	dendroblast	tool	skill_membership_f1				0		
+control	of_flat	dendroblast	tool	in_paralog_recovery_0.5				0		
+control	of_flat	dendroblast	tool	merge_accuracy_sd_posthoc				0		
+control	of_flat	dendroblast	tool	event_recovery_0.8				0		
 headline	orthofinder	default	tool	level_bcubed_f1	0.98677	0.979809	0.995924	3		
 headline	orthofinder	default	tool	merge_accuracy_node	0.95998	0.939801	0.99024	3		
 headline	orthofinder	default	tool	event_recovery_0.5	0.907407	0.814815	1	2		
@@ -263,6 +296,39 @@ control	orthofinder	default	tool	skill_membership_f1				0
 control	orthofinder	default	tool	in_paralog_recovery_0.5				0		
 control	orthofinder	default	tool	merge_accuracy_sd_posthoc				0		
 control	orthofinder	default	tool	event_recovery_0.8				0		
+headline	orthofinder	dendroblast	tool	level_bcubed_f1	0.96866	0.932736	0.994208	3		
+headline	orthofinder	dendroblast	tool	merge_accuracy_node	0.928184	0.867239	0.985736	3		
+headline	orthofinder	dendroblast	tool	event_recovery_0.5	0.759259	0.666667	0.851852	2		
+headline	orthofinder	dendroblast	tool	membership_f1	0.721071	0.721071	0.721071	1		
+headline	orthofinder	dendroblast	tool	skill_level_bcubed_f1	0.89772	0.834344	0.961096	2		
+headline	orthofinder	dendroblast	tool	skill_merge_accuracy_node	0.0688434	-0.327609	0.465296	2		
+headline	orthofinder	dendroblast	tool	skill_event_recovery_0.5	0.758984	0.666667	0.851301	2		
+headline	orthofinder	dendroblast	tool	skill_membership_f1	0.594736	0.594736	0.594736	1		
+headline	orthofinder	dendroblast	tool	in_paralog_recovery_0.5	0.974386	0.941176	1	3		
+headline	orthofinder	dendroblast	tool	merge_accuracy_sd_posthoc	0.930545	0.884679	0.985736	3		
+headline	orthofinder	dendroblast	tool	event_recovery_0.8	0.462963	0.333333	0.592593	2		
+noncontrol_all	orthofinder	dendroblast	tool	level_bcubed_f1	0.968287	0.932736	0.994208	5		
+noncontrol_all	orthofinder	dendroblast	tool	merge_accuracy_node	0.893233	0.822004	0.985736	5		
+noncontrol_all	orthofinder	dendroblast	tool	event_recovery_0.5	0.711562	0.470588	0.857143	4		
+noncontrol_all	orthofinder	dendroblast	tool	membership_f1	0.83283	0.721071	0.94459	2		
+noncontrol_all	orthofinder	dendroblast	tool	skill_level_bcubed_f1	0.906585	0.834344	0.961096	4		
+noncontrol_all	orthofinder	dendroblast	tool	skill_merge_accuracy_node	0.186044	-0.327609	0.465296	4		
+noncontrol_all	orthofinder	dendroblast	tool	skill_event_recovery_0.5	0.711425	0.470588	0.857143	4		
+noncontrol_all	orthofinder	dendroblast	tool	skill_membership_f1	0.765281	0.594736	0.935825	2		
+noncontrol_all	orthofinder	dendroblast	tool	in_paralog_recovery_0.5	0.974386	0.941176	1	3		
+noncontrol_all	orthofinder	dendroblast	tool	merge_accuracy_sd_posthoc	0.869381	0.73974	0.985736	5		
+noncontrol_all	orthofinder	dendroblast	tool	event_recovery_0.8	0.498288	0.333333	0.714286	4		
+control	orthofinder	dendroblast	tool	level_bcubed_f1				0		
+control	orthofinder	dendroblast	tool	merge_accuracy_node				0		
+control	orthofinder	dendroblast	tool	event_recovery_0.5				0		
+control	orthofinder	dendroblast	tool	membership_f1				0		
+control	orthofinder	dendroblast	tool	skill_level_bcubed_f1				0		
+control	orthofinder	dendroblast	tool	skill_merge_accuracy_node				0		
+control	orthofinder	dendroblast	tool	skill_event_recovery_0.5				0		
+control	orthofinder	dendroblast	tool	skill_membership_f1				0		
+control	orthofinder	dendroblast	tool	in_paralog_recovery_0.5				0		
+control	orthofinder	dendroblast	tool	merge_accuracy_sd_posthoc				0		
+control	orthofinder	dendroblast	tool	event_recovery_0.8				0		
 headline	random_relabel	seeds10	control	level_bcubed_f1	0.512267				0.508436	0.518737
 headline	random_relabel	seeds10	control	merge_accuracy_node	0.0241849				0.0175803	0.0328821
 headline	random_relabel	seeds10	control	event_recovery_0.5	0.00185185				0	0.0185185
@@ -280,4 +346,6 @@ noncontrol_all	random_relabel	seeds10	control	event_recovery_0.8	0.000925926				
 gate	fastoma	default_declared	tool	frac_units_identical_to_all_singletons	0.0474777			337		
 gate	fastoma	default_late	tool	frac_units_identical_to_all_singletons	0.0474777			337		
 gate	of_flat	default	tool	frac_units_identical_to_all_singletons	0			337		
+gate	of_flat	dendroblast	tool	frac_units_identical_to_all_singletons	0.00296736			337		
 gate	orthofinder	default	tool	frac_units_identical_to_all_singletons	0.00296736			337		
+gate	orthofinder	dendroblast	tool	frac_units_identical_to_all_singletons	0.00296736			337		

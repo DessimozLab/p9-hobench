@@ -1483,6 +1483,218 @@ E07c_adaptins_scaffold		of_flat	default	Myriazoa	11	6	4	2	0	0	1	1	1	1
 E07c_adaptins_scaffold		of_flat	default	ParaHoxozoa	12	6	4	2	0	0	1	1	1	1
 E07c_adaptins_scaffold		of_flat	default	Planulozoa	13	6	4	2	0	0	1	1	1	1
 E07c_adaptins_scaffold		of_flat	default	Bilateria	14	1	2	0	0	0		1	1	1
+E01_kinesins		of_flat	dendroblast	Eukaryota	4	30088	282	125	28473	7	0.00870171	0.0993935	0.982861	0.18053
+E01_kinesins		of_flat	dendroblast	Amorphea	5	10128	156	69	9668	0	0.014073	0.0579942	1	0.109631
+E01_kinesins		of_flat	dendroblast	Diphoda	5	5024	123	15	4704	3	0.00633312	0.141893	0.98103	0.247926
+E01_kinesins		of_flat	dendroblast	Amoebozoa	6	41	10	0	41	0	0	0.109722	1	0.197747
+E01_kinesins		of_flat	dendroblast	Obazoa	6	8800	146	62	8375	0	0.01459	0.061764	1	0.116342
+E01_kinesins		of_flat	dendroblast	Diaphoretickes	6	1516	66	3	1417	0	0.00421644	0.0704997	1	0.131714
+E01_kinesins		of_flat	dendroblast	Discoba_Metamonada	6	894	49	5	853	1	0.0115741	0.127421	0.979592	0.225508
+E01_kinesins		of_flat	dendroblast	Opisthokonta	7	8800	146	62	8375	0	0.01459	0.061764	1	0.116342
+E01_kinesins		of_flat	dendroblast	Archaeplastida	7	794	50	1	730	0	0.00273224	0.0947464	1	0.173093
+E01_kinesins		of_flat	dendroblast	Stramenopiles_Alveolata	7	103	16	0	103	0	0	0.0728795	1	0.135858
+E01_kinesins		of_flat	dendroblast	Discoba	7	412	33	2	387	1	0.0102041	0.127111	0.969697	0.224759
+E01_kinesins		of_flat	dendroblast	Fungi	8	123	17	1	122	0	0.016129	0.071824	1	0.134022
+E01_kinesins		of_flat	dendroblast	Holozoa	8	6782	129	51	6413	0	0.0156562	0.0694941	1	0.129957
+E01_kinesins		of_flat	dendroblast	Viridiplantae	8	710	47	1	649	0	0.0030722	0.100157	1	0.182077
+E01_kinesins		of_flat	dendroblast	Stramenopiles	8	64	13	0	64	0	0	0.0942861	1	0.172324
+E01_kinesins		of_flat	dendroblast	Alveolata	8	3	3	0	3	0	0	0.333333	1	0.5
+E01_kinesins		of_flat	dendroblast	Chytridiomycota_Dikarya	9	83	14	1	82	0	0.0238095	0.0883046	1	0.162279
+E01_kinesins		of_flat	dendroblast	Choanozoa	9	6782	129	51	6413	0	0.0156562	0.0694941	1	0.129957
+E01_kinesins		of_flat	dendroblast	Ascomycota	10	50	11	1	49	0	0.0392157	0.116253	1	0.208292
+E01_kinesins		of_flat	dendroblast	Metazoa	10	4029	99	32	3915	0	0.0160844	0.058641	1	0.110785
+E01_kinesins		of_flat	dendroblast	Myriazoa	11	4029	99	32	3915	0	0.0160844	0.058641	1	0.110785
+E01_kinesins		of_flat	dendroblast	ParaHoxozoa	12	4029	99	32	3915	0	0.0160844	0.058641	1	0.110785
+E01_kinesins		of_flat	dendroblast	Planulozoa	13	2373	76	16	2293	0	0.0137634	0.0605652	1	0.114213
+E01_kinesins		of_flat	dendroblast	Bilateria	14	918	48	5	872	0	0.0113379	0.0901868	1	0.165452
+E02_ARF		of_flat	dendroblast	Eukaryota	4	28138	260	1145	19448	105	0.104839	0.242255	0.932244	0.384574
+E02_ARF		of_flat	dendroblast	Amorphea	5	11690	173	627	8566	9	0.127582	0.254515	0.971098	0.403323
+E02_ARF		of_flat	dendroblast	Diphoda	5	3538	87	87	2169	24	0.0735108	0.235215	0.890805	0.372162
+E02_ARF		of_flat	dendroblast	Amoebozoa	6	124	17	2	80	0	0.047619	0.258785	1	0.411167
+E02_ARF		of_flat	dendroblast	Obazoa	6	9347	156	534	6944	9	0.13315	0.259819	0.967949	0.409673
+E02_ARF		of_flat	dendroblast	Diaphoretickes	6	1159	50	31	733	6	0.0774032	0.231694	0.941333	0.37186
+E02_ARF		of_flat	dendroblast	Discoba_Metamonada	6	630	37	9	371	5	0.0456853	0.260476	0.900901	0.404112
+E02_ARF		of_flat	dendroblast	Opisthokonta	7	8064	146	472	5975	9	0.136259	0.268339	0.965753	0.419984
+E02_ARF		of_flat	dendroblast	Archaeplastida	7	593	36	7	341	3	0.0391061	0.266716	0.935185	0.415057
+E02_ARF		of_flat	dendroblast	Stramenopiles_Alveolata	7	88	14	4	71	0	0.101266	0.18981	1	0.31906
+E02_ARF		of_flat	dendroblast	Discoba	7	440	31	5	278	1	0.0346021	0.23821	0.967742	0.382313
+E02_ARF		of_flat	dendroblast	Fungi	8	295	25	16	213	0	0.130612	0.208574	1	0.345157
+E02_ARF		of_flat	dendroblast	Holozoa	8	5259	121	264	3969	7	0.117229	0.279352	0.96281	0.433056
+E02_ARF		of_flat	dendroblast	Viridiplantae	8	438	31	4	274	0	0.0283688	0.238766	1	0.385489
+E02_ARF		of_flat	dendroblast	Stramenopiles	8	27	8	0	27	0	0	0.129464	1	0.229249
+E02_ARF		of_flat	dendroblast	Alveolata	8	15	6	0	10	0	0	0.333333	1	0.5
+E02_ARF		of_flat	dendroblast	Chytridiomycota_Dikarya	9	295	25	16	213	0	0.130612	0.208574	1	0.345157
+E02_ARF		of_flat	dendroblast	Choanozoa	9	4379	109	208	3319	6	0.1112	0.267093	0.96789	0.418656
+E02_ARF		of_flat	dendroblast	Ascomycota	10	102	15	5	71	0	0.123457	0.243823	1	0.392054
+E02_ARF		of_flat	dendroblast	Metazoa	10	3261	95	158	2518	1	0.111464	0.268243	0.989474	0.422065
+E02_ARF		of_flat	dendroblast	Myriazoa	11	2508	85	117	1944	1	0.107389	0.280155	0.988235	0.436552
+E02_ARF		of_flat	dendroblast	ParaHoxozoa	12	1740	71	82	1343	1	0.108753	0.284795	0.985915	0.441932
+E02_ARF		of_flat	dendroblast	Planulozoa	13	1055	54	42	811	0	0.0938547	0.26696	1	0.421418
+E02_ARF		of_flat	dendroblast	Bilateria	14	583	39	20	442	0	0.0829876	0.252843	1	0.403631
+E03_Rab		of_flat	dendroblast	Eukaryota	4	66548	388	672	60822	34	0.0216077	0.0539375	0.974865	0.102219
+E03_Rab		of_flat	dendroblast	Amorphea	5	24545	239	352	21949	28	0.0310392	0.0688954	0.960178	0.128566
+E03_Rab		of_flat	dendroblast	Diphoda	5	9837	149	63	9305	0	0.0133602	0.0404355	1	0.0777281
+E03_Rab		of_flat	dendroblast	Obazoa	6	24545	239	352	21949	28	0.0310392	0.0688954	0.960178	0.128566
+E03_Rab		of_flat	dendroblast	Diaphoretickes	6	4944	107	29	4690	0	0.0122157	0.0442023	1	0.0846623
+E03_Rab		of_flat	dendroblast	Discoba_Metamonada	6	788	42	4	749	0	0.010568	0.0545986	1	0.103544
+E03_Rab		of_flat	dendroblast	Opisthokonta	7	24545	239	296	22005	20	0.026175	0.0667986	0.96662	0.124962
+E03_Rab		of_flat	dendroblast	Archaeplastida	7	1532	62	0	1456	0	0	0.0523946	1	0.0995722
+E03_Rab		of_flat	dendroblast	Stramenopiles_Alveolata	7	930	45	15	878	0	0.0330396	0.0610542	1	0.115082
+E03_Rab		of_flat	dendroblast	Discoba	7	788	42	4	749	0	0.010568	0.0545986	1	0.103544
+E03_Rab		of_flat	dendroblast	Fungi	8	29	9	0	29	0	0	0.138889	1	0.243902
+E03_Rab		of_flat	dendroblast	Holozoa	8	22824	230	296	20368	20	0.0282173	0.0698377	0.965314	0.130252
+E03_Rab		of_flat	dendroblast	Viridiplantae	8	1532	62	0	1456	0	0	0.0523946	1	0.0995722
+E03_Rab		of_flat	dendroblast	Stramenopiles	8	530	34	6	496	0	0.023622	0.0710746	1	0.132716
+E03_Rab		of_flat	dendroblast	Alveolata	8	52	11	0	52	0	0	0.0958678	1	0.174962
+E03_Rab		of_flat	dendroblast	Chytridiomycota_Dikarya	9	29	9	0	29	0	0	0.138889	1	0.243902
+E03_Rab		of_flat	dendroblast	Choanozoa	9	19144	212	227	17060	20	0.0258926	0.0689612	0.962369	0.1287
+E03_Rab		of_flat	dendroblast	Ascomycota	10	29	9	0	29	0	0	0.138889	1	0.243902
+E03_Rab		of_flat	dendroblast	Metazoa	10	15078	190	164	13270	18	0.0240893	0.0748661	0.959035	0.13889
+E03_Rab		of_flat	dendroblast	Myriazoa	11	15078	190	164	13270	18	0.0240893	0.0748661	0.959035	0.13889
+E03_Rab		of_flat	dendroblast	ParaHoxozoa	12	10604	160	105	9501	12	0.0215983	0.0673353	0.969286	0.125923
+E03_Rab		of_flat	dendroblast	Planulozoa	13	6532	126	54	5697	11	0.0185695	0.0813557	0.961376	0.150016
+E03_Rab		of_flat	dendroblast	Bilateria	14	2748	81	27	2265	4	0.0232458	0.111537	0.980247	0.200285
+E04_tubulins		of_flat	dendroblast	Eukaryota	4	10305	170	78	10114	0	0.0151899	0.0197491	1	0.0387333
+E04_tubulins		of_flat	dendroblast	Amorphea	5	3865	104	22	3843	0	0.0113198	0.0176971	1	0.0347788
+E04_tubulins		of_flat	dendroblast	Diphoda	5	1536	66	12	1479	0	0.0159681	0.0426265	1	0.0817674
+E04_tubulins		of_flat	dendroblast	Amoebozoa	6	26	9	0	26	0	0	0.149471	1	0.260069
+E04_tubulins		of_flat	dendroblast	Obazoa	6	3251	95	22	3229	0	0.0134433	0.0196664	1	0.0385743
+E04_tubulins		of_flat	dendroblast	Diaphoretickes	6	429	35	1	428	0	0.00465116	0.0418044	1	0.0802538
+E04_tubulins		of_flat	dendroblast	Discoba_Metamonada	6	331	31	3	305	0	0.0192926	0.0870365	1	0.160135
+E04_tubulins		of_flat	dendroblast	Opisthokonta	7	2926	91	15	2911	0	0.0102006	0.0193679	1	0.0379997
+E04_tubulins		of_flat	dendroblast	Archaeplastida	7	91	17	0	91	0	0	0.0908552	1	0.166576
+E04_tubulins		of_flat	dendroblast	Stramenopiles_Alveolata	7	110	18	0	110	0	0	0.08061	1	0.149194
+E04_tubulins		of_flat	dendroblast	Discoba	7	315	30	3	290	0	0.0202703	0.088819	1	0.163147
+E04_tubulins		of_flat	dendroblast	Fungi	8	84	16	0	84	0	0	0.0874126	1	0.160772
+E04_tubulins		of_flat	dendroblast	Holozoa	8	2008	75	15	1993	0	0.0148295	0.0242402	1	0.0473331
+E04_tubulins		of_flat	dendroblast	Viridiplantae	8	71	15	0	71	0	0	0.10188	1	0.184921
+E04_tubulins		of_flat	dendroblast	Stramenopiles	8	12	8	0	12	0	0	0.285714	1	0.444444
+E04_tubulins		of_flat	dendroblast	Alveolata	8	40	10	0	40	0	0	0.111944	1	0.201349
+E04_tubulins		of_flat	dendroblast	Chytridiomycota_Dikarya	9	55	13	0	55	0	0	0.106449	1	0.192416
+E04_tubulins		of_flat	dendroblast	Choanozoa	9	1803	71	15	1788	0	0.0165017	0.025899	1	0.0504903
+E04_tubulins		of_flat	dendroblast	Ascomycota	10	20	8	0	20	0	0	0.171429	1	0.292683
+E04_tubulins		of_flat	dendroblast	Metazoa	10	1542	66	12	1530	0	0.015444	0.0272077	1	0.0529741
+E04_tubulins		of_flat	dendroblast	Myriazoa	11	1542	66	12	1530	0	0.015444	0.0272077	1	0.0529741
+E04_tubulins		of_flat	dendroblast	ParaHoxozoa	12	1186	59	5	1181	0	0.00839631	0.0279999	1	0.0544745
+E04_tubulins		of_flat	dendroblast	Planulozoa	13	834	50	2	832	0	0.00478469	0.0316489	1	0.061356
+E04_tubulins		of_flat	dendroblast	Bilateria	14	333	32	0	333	0	0	0.0471469	1	0.0900484
+E05_MCM		of_flat	dendroblast	Archaea_Eukaryota	1	6328	113	6328	0	0	1	1	1	1
+E05_MCM		of_flat	dendroblast	TACK_Asgard_Eukaryota	2	6216	112	6216	0	0	1	1	1	1
+E05_MCM		of_flat	dendroblast	Asgard_Eukaryota	3	752	112	752	0	0	1	1	1	1
+E05_MCM		of_flat	dendroblast	Eukaryota	4	6216	112	752	5464	0	0.215844	0.128827	1	0.228249
+E05_MCM		of_flat	dendroblast	Amorphea	5	2211	67	260	1951	0	0.210441	0.130764	1	0.231284
+E05_MCM		of_flat	dendroblast	Diphoda	5	990	45	107	883	0	0.195077	0.127901	1	0.226795
+E05_MCM		of_flat	dendroblast	Amoebozoa	6	105	15	7	98	0	0.125	0.128889	1	0.228346
+E05_MCM		of_flat	dendroblast	Obazoa	6	1326	52	153	1173	0	0.206897	0.132396	1	0.233834
+E05_MCM		of_flat	dendroblast	Diaphoretickes	6	276	24	25	251	0	0.166113	0.128472	1	0.227692
+E05_MCM		of_flat	dendroblast	Discoba_Metamonada	6	210	21	18	192	0	0.157895	0.129252	1	0.228916
+E05_MCM		of_flat	dendroblast	Opisthokonta	7	1326	52	153	1173	0	0.206897	0.132396	1	0.233834
+E05_MCM		of_flat	dendroblast	Archaeplastida	7	231	22	20	211	0	0.159363	0.128099	1	0.227106
+E05_MCM		of_flat	dendroblast	Stramenopiles_Alveolata	7	1	2	0	1	0	0	0.5	1	0.666667
+E05_MCM		of_flat	dendroblast	Discoba	7	104	15	6	98	0	0.109091	0.120635	1	0.215297
+E05_MCM		of_flat	dendroblast	Fungi	8	136	17	12	124	0	0.162162	0.141869	1	0.248485
+E05_MCM		of_flat	dendroblast	Holozoa	8	595	35	62	533	0	0.188737	0.129796	1	0.229769
+E05_MCM		of_flat	dendroblast	Viridiplantae	8	91	14	6	85	0	0.123711	0.132653	1	0.234234
+E05_MCM		of_flat	dendroblast	Stramenopiles	8	1	2	0	1	0	0	0.5	1	0.666667
+E05_MCM		of_flat	dendroblast	Chytridiomycota_Dikarya	9	36	9	3	33	0	0.153846	0.185185	1	0.3125
+E05_MCM		of_flat	dendroblast	Choanozoa	9	595	35	62	533	0	0.188737	0.129796	1	0.229769
+E05_MCM		of_flat	dendroblast	Ascomycota	10	36	9	3	33	0	0.153846	0.185185	1	0.3125
+E05_MCM		of_flat	dendroblast	Metazoa	10	406	29	39	367	0	0.175281	0.127229	1	0.225738
+E05_MCM		of_flat	dendroblast	Myriazoa	11	406	29	39	367	0	0.175281	0.127229	1	0.225738
+E05_MCM		of_flat	dendroblast	ParaHoxozoa	12	406	29	39	367	0	0.175281	0.127229	1	0.225738
+E05_MCM		of_flat	dendroblast	Planulozoa	13	210	21	18	192	0	0.157895	0.129252	1	0.228916
+E05_MCM		of_flat	dendroblast	Bilateria	14	105	15	7	98	0	0.125	0.128889	1	0.228346
+E06_myosins		of_flat	dendroblast	Eukaryota	4	8605	206	21	8178	0	0.00510949	0.050748	1	0.096594
+E06_myosins		of_flat	dendroblast	Amorphea	5	5117	153	21	4753	0	0.00875912	0.0666857	1	0.125034
+E06_myosins		of_flat	dendroblast	Diphoda	5	396	53	0	396	0	0	0.0867925	1	0.159722
+E06_myosins		of_flat	dendroblast	Amoebozoa	6	56	15	0	56	0	0	0.118519	1	0.211921
+E06_myosins		of_flat	dendroblast	Obazoa	6	3998	138	21	3690	0	0.011254	0.0759843	1	0.141237
+E06_myosins		of_flat	dendroblast	Diaphoretickes	6	82	43	0	82	0	0	0.318937	1	0.483627
+E06_myosins		of_flat	dendroblast	Discoba_Metamonada	6	21	10	0	21	0	0	0.2125	1	0.350515
+E06_myosins		of_flat	dendroblast	Opisthokonta	7	3206	126	21	2940	0	0.0140845	0.0854575	1	0.157459
+E06_myosins		of_flat	dendroblast	Stramenopiles_Alveolata	7	42	23	0	42	0	0	0.3083	1	0.471299
+E06_myosins		of_flat	dendroblast	Discoba	7	21	10	0	21	0	0	0.2125	1	0.350515
+E06_myosins		of_flat	dendroblast	Fungi	8	56	18	0	36	0	0	0.4	1	0.571429
+E06_myosins		of_flat	dendroblast	Holozoa	8	2408	108	21	2325	0	0.017744	0.0544834	1	0.103337
+E06_myosins		of_flat	dendroblast	Stramenopiles	8	28	16	0	28	0	0	0.3	1	0.461538
+E06_myosins		of_flat	dendroblast	Chytridiomycota_Dikarya	9	48	16	0	28	0	0	0.43125	1	0.60262
+E06_myosins		of_flat	dendroblast	Choanozoa	9	1573	89	13	1512	0	0.0169051	0.0649282	1	0.121939
+E06_myosins		of_flat	dendroblast	Ascomycota	10	21	10	0	15	0	0	0.375	1	0.545455
+E06_myosins		of_flat	dendroblast	Metazoa	10	1206	82	9	1159	0	0.0152931	0.0746772	1	0.138976
+E06_myosins		of_flat	dendroblast	Myriazoa	11	1071	77	9	1026	0	0.0172414	0.0793676	1	0.147063
+E06_myosins		of_flat	dendroblast	ParaHoxozoa	12	773	64	5	736	0	0.0134048	0.0867605	1	0.159668
+E06_myosins		of_flat	dendroblast	Planulozoa	13	590	56	2	560	0	0.0070922	0.0935976	1	0.171174
+E06_myosins		of_flat	dendroblast	Bilateria	14	419	49	1	396	0	0.00502513	0.110986	1	0.199798
+E07a_adaptins_large		of_flat	dendroblast	Eukaryota	4	5209	105	267	481	13	0.519455	0.572967	0.946032	0.713688
+E07a_adaptins_large		of_flat	dendroblast	Amorphea	5	2157	68	104	225	3	0.477064	0.555459	0.977941	0.708499
+E07a_adaptins_large		of_flat	dendroblast	Diphoda	5	645	37	29	46	4	0.537037	0.644788	0.927928	0.760871
+E07a_adaptins_large		of_flat	dendroblast	Amoebozoa	6	218	22	4	27	1	0.222222	0.562771	0.954545	0.708079
+E07a_adaptins_large		of_flat	dendroblast	Obazoa	6	989	46	57	95	0	0.545455	0.576518	1	0.731381
+E07a_adaptins_large		of_flat	dendroblast	Diaphoretickes	6	270	24	13	20	1	0.553191	0.654762	0.958333	0.777983
+E07a_adaptins_large		of_flat	dendroblast	Discoba_Metamonada	6	75	13	1	5	0	0.285714	0.717949	1	0.835821
+E07a_adaptins_large		of_flat	dendroblast	Opisthokonta	7	859	43	49	95	0	0.507772	0.546972	1	0.707152
+E07a_adaptins_large		of_flat	dendroblast	Archaeplastida	7	150	18	4	9	1	0.444444	0.708333	0.944444	0.809524
+E07a_adaptins_large		of_flat	dendroblast	Stramenopiles_Alveolata	7	15	6	1	3	0	0.4	0.666667	1	0.8
+E07a_adaptins_large		of_flat	dendroblast	Discoba	7	55	11	1	4	0	0.333333	0.727273	1	0.842105
+E07a_adaptins_large		of_flat	dendroblast	Fungi	8	54	11	6	5	0	0.705882	0.666667	1	0.8
+E07a_adaptins_large		of_flat	dendroblast	Holozoa	8	473	32	17	55	0	0.382022	0.543192	1	0.703985
+E07a_adaptins_large		of_flat	dendroblast	Viridiplantae	8	133	17	2	9	1	0.285714	0.691176	0.941176	0.797032
+E07a_adaptins_large		of_flat	dendroblast	Stramenopiles	8	10	5	0	3	0	0	0.6	1	0.75
+E07a_adaptins_large		of_flat	dendroblast	Chytridiomycota_Dikarya	9	44	10	3	5	0	0.545455	0.633333	1	0.77551
+E07a_adaptins_large		of_flat	dendroblast	Choanozoa	9	444	31	14	55	0	0.337349	0.528456	1	0.69149
+E07a_adaptins_large		of_flat	dendroblast	Ascomycota	10	35	9	1	5	0	0.285714	0.592593	1	0.744186
+E07a_adaptins_large		of_flat	dendroblast	Metazoa	10	198	21	4	20	0	0.285714	0.595692	1	0.746625
+E07a_adaptins_large		of_flat	dendroblast	Myriazoa	11	198	21	4	20	0	0.285714	0.595692	1	0.746625
+E07a_adaptins_large		of_flat	dendroblast	ParaHoxozoa	12	198	21	4	20	0	0.285714	0.595692	1	0.746625
+E07a_adaptins_large		of_flat	dendroblast	Planulozoa	13	198	21	4	20	0	0.285714	0.595692	1	0.746625
+E07a_adaptins_large		of_flat	dendroblast	Bilateria	14	99	15	0	13	0	0	0.557778	1	0.71612
+E07b_adaptins_medium_small		of_flat	dendroblast	Eukaryota	4	6923	120	312	823	50	0.416834	0.541831	0.902576	0.677155
+E07b_adaptins_medium_small		of_flat	dendroblast	Amorphea	5	2679	75	112	328	13	0.39646	0.583265	0.940317	0.719953
+E07b_adaptins_medium_small		of_flat	dendroblast	Diphoda	5	968	45	41	113	7	0.405941	0.526233	0.907407	0.666147
+E07b_adaptins_medium_small		of_flat	dendroblast	Amoebozoa	6	228	22	8	38	0	0.296296	0.525541	1	0.68899
+E07b_adaptins_medium_small		of_flat	dendroblast	Obazoa	6	1314	53	57	144	11	0.423792	0.619101	0.940701	0.746747
+E07b_adaptins_medium_small		of_flat	dendroblast	Diaphoretickes	6	510	33	18	56	2	0.382979	0.511304	0.959596	0.667136
+E07b_adaptins_medium_small		of_flat	dendroblast	Discoba_Metamonada	6	66	12	3	13	0	0.315789	0.638889	1	0.779661
+E07b_adaptins_medium_small		of_flat	dendroblast	Opisthokonta	7	1216	51	51	144	5	0.406375	0.604163	0.96732	0.743781
+E07b_adaptins_medium_small		of_flat	dendroblast	Archaeplastida	7	200	21	4	22	0	0.266667	0.508163	1	0.673884
+E07b_adaptins_medium_small		of_flat	dendroblast	Stramenopiles_Alveolata	7	66	12	1	9	0	0.181818	0.583333	1	0.736842
+E07b_adaptins_medium_small		of_flat	dendroblast	Discoba	7	28	8	1	6	0	0.25	0.625	1	0.769231
+E07b_adaptins_medium_small		of_flat	dendroblast	Fungi	8	91	14	7	6	0	0.7	0.75	1	0.857143
+E07b_adaptins_medium_small		of_flat	dendroblast	Holozoa	8	631	37	15	88	2	0.25	0.579651	0.963964	0.723966
+E07b_adaptins_medium_small		of_flat	dendroblast	Viridiplantae	8	183	20	3	20	0	0.230769	0.505	1	0.671096
+E07b_adaptins_medium_small		of_flat	dendroblast	Stramenopiles	8	55	11	0	9	0	0	0.545455	1	0.705882
+E07b_adaptins_medium_small		of_flat	dendroblast	Chytridiomycota_Dikarya	9	91	14	7	6	0	0.7	0.75	1	0.857143
+E07b_adaptins_medium_small		of_flat	dendroblast	Choanozoa	9	565	35	12	88	1	0.212389	0.555631	0.971429	0.706922
+E07b_adaptins_medium_small		of_flat	dendroblast	Ascomycota	10	55	11	2	4	0	0.5	0.727273	1	0.842105
+E07b_adaptins_medium_small		of_flat	dendroblast	Metazoa	10	358	28	3	49	0	0.109091	0.561688	1	0.719335
+E07b_adaptins_medium_small		of_flat	dendroblast	Myriazoa	11	358	28	3	49	0	0.109091	0.561688	1	0.719335
+E07b_adaptins_medium_small		of_flat	dendroblast	ParaHoxozoa	12	358	28	3	49	0	0.109091	0.561688	1	0.719335
+E07b_adaptins_medium_small		of_flat	dendroblast	Planulozoa	13	358	28	3	49	0	0.109091	0.561688	1	0.719335
+E07b_adaptins_medium_small		of_flat	dendroblast	Bilateria	14	238	23	0	22	0	0	0.625466	1	0.769583
+E07c_adaptins_scaffold		of_flat	dendroblast	Eukaryota	4	473	35	70	56	5	0.696517	0.717705	0.925714	0.808545
+E07c_adaptins_scaffold		of_flat	dendroblast	Amorphea	5	98	16	20	7	0	0.851064	0.830729	1	0.907539
+E07c_adaptins_scaffold		of_flat	dendroblast	Diphoda	5	134	19	12	21	3	0.5	0.680827	0.921053	0.782927
+E07c_adaptins_scaffold		of_flat	dendroblast	Amoebozoa	6	2	3	0	0	0		1	1	1
+E07c_adaptins_scaffold		of_flat	dendroblast	Obazoa	6	69	13	16	6	0	0.842105	0.795604	1	0.886169
+E07c_adaptins_scaffold		of_flat	dendroblast	Diaphoretickes	6	77	14	7	10	2	0.538462	0.717007	0.904762	0.800016
+E07c_adaptins_scaffold		of_flat	dendroblast	Discoba_Metamonada	6	4	5	0	2	0	0	0.666667	1	0.8
+E07c_adaptins_scaffold		of_flat	dendroblast	Opisthokonta	7	46	11	16	0	0	1	1	1	1
+E07c_adaptins_scaffold		of_flat	dendroblast	Archaeplastida	7	30	9	1	6	0	0.25	0.644444	1	0.783784
+E07c_adaptins_scaffold		of_flat	dendroblast	Stramenopiles_Alveolata	7	10	5	2	0	0	1	1	1	1
+E07c_adaptins_scaffold		of_flat	dendroblast	Discoba	7	4	5	0	2	0	0	0.666667	1	0.8
+E07c_adaptins_scaffold		of_flat	dendroblast	Fungi	8	7	5	1	0	0	1	1	1	1
+E07c_adaptins_scaffold		of_flat	dendroblast	Holozoa	8	15	6	6	0	0	1	1	1	1
+E07c_adaptins_scaffold		of_flat	dendroblast	Viridiplantae	8	22	8	1	6	0	0.25	0.6	1	0.75
+E07c_adaptins_scaffold		of_flat	dendroblast	Stramenopiles	8	3	3	0	0	0		1	1	1
+E07c_adaptins_scaffold		of_flat	dendroblast	Alveolata	8	1	2	0	0	0		1	1	1
+E07c_adaptins_scaffold		of_flat	dendroblast	Chytridiomycota_Dikarya	9	7	5	1	0	0	1	1	1	1
+E07c_adaptins_scaffold		of_flat	dendroblast	Choanozoa	9	15	6	6	0	0	1	1	1	1
+E07c_adaptins_scaffold		of_flat	dendroblast	Ascomycota	10	1	2	0	0	0		1	1	1
+E07c_adaptins_scaffold		of_flat	dendroblast	Metazoa	10	6	4	2	0	0	1	1	1	1
+E07c_adaptins_scaffold		of_flat	dendroblast	Myriazoa	11	6	4	2	0	0	1	1	1	1
+E07c_adaptins_scaffold		of_flat	dendroblast	ParaHoxozoa	12	6	4	2	0	0	1	1	1	1
+E07c_adaptins_scaffold		of_flat	dendroblast	Planulozoa	13	6	4	2	0	0	1	1	1	1
+E07c_adaptins_scaffold		of_flat	dendroblast	Bilateria	14	1	2	0	0	0		1	1	1
 E01_kinesins		orthofinder	default	Eukaryota	4	30088	282	85	9	47	0.752212	0.979019	0.933131	0.955524
 E01_kinesins		orthofinder	default	Amorphea	5	10128	156	56	2	13	0.88189	0.991453	0.979167	0.985272
 E01_kinesins		orthofinder	default	Diphoda	5	5024	123	6	6	12	0.4	0.96748	0.926829	0.946718
@@ -1695,3 +1907,215 @@ E07c_adaptins_scaffold		orthofinder	default	Myriazoa	11	6	4	2	0	0	1	1	1	1
 E07c_adaptins_scaffold		orthofinder	default	ParaHoxozoa	12	6	4	2	0	0	1	1	1	1
 E07c_adaptins_scaffold		orthofinder	default	Planulozoa	13	6	4	2	0	0	1	1	1	1
 E07c_adaptins_scaffold		orthofinder	default	Bilateria	14	1	2	0	0	0		1	1	1
+E01_kinesins		orthofinder	dendroblast	Eukaryota	4	30088	282	104	0	28	0.881356	1	0.955871	0.977438
+E01_kinesins		orthofinder	dendroblast	Amorphea	5	10128	156	54	0	15	0.878049	1	0.971154	0.985366
+E01_kinesins		orthofinder	dendroblast	Diphoda	5	5024	123	13	0	5	0.83871	1	0.96477	0.982069
+E01_kinesins		orthofinder	dendroblast	Amoebozoa	6	41	10	0	0	0		1	1	1
+E01_kinesins		orthofinder	dendroblast	Obazoa	6	8800	146	49	0	13	0.882883	1	0.970157	0.984852
+E01_kinesins		orthofinder	dendroblast	Diaphoretickes	6	1516	66	3	0	0	1	1	1	1
+E01_kinesins		orthofinder	dendroblast	Discoba_Metamonada	6	894	49	4	0	2	0.8	1	0.959184	0.979167
+E01_kinesins		orthofinder	dendroblast	Opisthokonta	7	8800	146	49	0	13	0.882883	1	0.970157	0.984852
+E01_kinesins		orthofinder	dendroblast	Archaeplastida	7	794	50	1	0	0	1	1	1	1
+E01_kinesins		orthofinder	dendroblast	Stramenopiles_Alveolata	7	103	16	0	0	0		1	1	1
+E01_kinesins		orthofinder	dendroblast	Discoba	7	412	33	2	0	1	0.8	1	0.969697	0.984615
+E01_kinesins		orthofinder	dendroblast	Fungi	8	123	17	1	0	0	1	1	1	1
+E01_kinesins		orthofinder	dendroblast	Holozoa	8	6782	129	48	0	3	0.969697	1	0.988372	0.994152
+E01_kinesins		orthofinder	dendroblast	Viridiplantae	8	710	47	1	0	0	1	1	1	1
+E01_kinesins		orthofinder	dendroblast	Stramenopiles	8	64	13	0	0	0		1	1	1
+E01_kinesins		orthofinder	dendroblast	Alveolata	8	3	3	0	0	0		1	1	1
+E01_kinesins		orthofinder	dendroblast	Chytridiomycota_Dikarya	9	83	14	1	0	0	1	1	1	1
+E01_kinesins		orthofinder	dendroblast	Choanozoa	9	6782	129	48	0	3	0.969697	1	0.988372	0.994152
+E01_kinesins		orthofinder	dendroblast	Ascomycota	10	50	11	1	0	0	1	1	1	1
+E01_kinesins		orthofinder	dendroblast	Metazoa	10	4029	99	29	0	3	0.95082	1	0.984848	0.992366
+E01_kinesins		orthofinder	dendroblast	Myriazoa	11	4029	99	29	0	3	0.95082	1	0.984848	0.992366
+E01_kinesins		orthofinder	dendroblast	ParaHoxozoa	12	4029	99	29	0	3	0.95082	1	0.984848	0.992366
+E01_kinesins		orthofinder	dendroblast	Planulozoa	13	2373	76	14	0	2	0.933333	1	0.982456	0.99115
+E01_kinesins		orthofinder	dendroblast	Bilateria	14	918	48	4	0	1	0.888889	1	0.979167	0.989474
+E02_ARF		orthofinder	dendroblast	Eukaryota	4	28138	260	1005	69	245	0.864888	0.938117	0.854609	0.894418
+E02_ARF		orthofinder	dendroblast	Amorphea	5	11690	173	584	0	52	0.957377	1	0.926645	0.961926
+E02_ARF		orthofinder	dendroblast	Diphoda	5	3538	87	68	7	43	0.731183	0.948002	0.805966	0.871233
+E02_ARF		orthofinder	dendroblast	Amoebozoa	6	124	17	1	0	1	0.666667	1	0.941176	0.969697
+E02_ARF		orthofinder	dendroblast	Obazoa	6	9347	156	507	0	36	0.965714	1	0.931235	0.964393
+E02_ARF		orthofinder	dendroblast	Diaphoretickes	6	1159	50	20	6	17	0.634921	0.929524	0.842667	0.883967
+E02_ARF		orthofinder	dendroblast	Discoba_Metamonada	6	630	37	8	0	6	0.727273	1	0.873874	0.932692
+E02_ARF		orthofinder	dendroblast	Opisthokonta	7	8064	146	448	0	33	0.964478	1	0.927397	0.962331
+E02_ARF		orthofinder	dendroblast	Archaeplastida	7	593	36	5	5	5	0.5	0.907407	0.898148	0.902754
+E02_ARF		orthofinder	dendroblast	Stramenopiles_Alveolata	7	88	14	2	0	2	0.666667	1	0.857143	0.923077
+E02_ARF		orthofinder	dendroblast	Discoba	7	440	31	4	0	2	0.8	1	0.935484	0.966667
+E02_ARF		orthofinder	dendroblast	Fungi	8	295	25	14	0	2	0.933333	1	0.946667	0.972603
+E02_ARF		orthofinder	dendroblast	Holozoa	8	5259	121	257	0	14	0.973485	1	0.940378	0.969273
+E02_ARF		orthofinder	dendroblast	Viridiplantae	8	438	31	4	4	0	0.666667	0.909677	1	0.952703
+E02_ARF		orthofinder	dendroblast	Stramenopiles	8	27	8	0	0	0		1	1	1
+E02_ARF		orthofinder	dendroblast	Alveolata	8	15	6	0	0	0		1	1	1
+E02_ARF		orthofinder	dendroblast	Chytridiomycota_Dikarya	9	295	25	14	0	2	0.933333	1	0.946667	0.972603
+E02_ARF		orthofinder	dendroblast	Choanozoa	9	4379	109	202	0	12	0.971154	1	0.943425	0.970889
+E02_ARF		orthofinder	dendroblast	Ascomycota	10	102	15	5	0	0	1	1	1	1
+E02_ARF		orthofinder	dendroblast	Metazoa	10	3261	95	156	0	3	0.990476	1	0.968421	0.983957
+E02_ARF		orthofinder	dendroblast	Myriazoa	11	2508	85	115	0	3	0.987124	1	0.964706	0.982036
+E02_ARF		orthofinder	dendroblast	ParaHoxozoa	12	1740	71	81	0	2	0.987805	1	0.971831	0.985714
+E02_ARF		orthofinder	dendroblast	Planulozoa	13	1055	54	41	0	1	0.987952	1	0.981481	0.990654
+E02_ARF		orthofinder	dendroblast	Bilateria	14	583	39	20	0	0	1	1	1	1
+E03_Rab		orthofinder	dendroblast	Eukaryota	4	66548	388	595	132	111	0.830426	0.902274	0.926506	0.914229
+E03_Rab		orthofinder	dendroblast	Amorphea	5	24545	239	287	13	93	0.844118	0.968387	0.909604	0.938075
+E03_Rab		orthofinder	dendroblast	Diphoda	5	9837	149	53	17	10	0.796992	0.932886	0.959732	0.946118
+E03_Rab		orthofinder	dendroblast	Obazoa	6	24545	239	287	13	93	0.844118	0.968387	0.909604	0.938075
+E03_Rab		orthofinder	dendroblast	Diaphoretickes	6	4944	107	24	7	5	0.8	0.961615	0.976636	0.969067
+E03_Rab		orthofinder	dendroblast	Discoba_Metamonada	6	788	42	3	2	1	0.666667	0.968254	0.97619	0.972206
+E03_Rab		orthofinder	dendroblast	Opisthokonta	7	24545	239	287	13	29	0.931818	0.968387	0.953171	0.960719
+E03_Rab		orthofinder	dendroblast	Archaeplastida	7	1532	62	0	3	0	0	0.96371	1	0.98152
+E03_Rab		orthofinder	dendroblast	Stramenopiles_Alveolata	7	930	45	13	1	2	0.896552	0.977778	0.97037	0.97406
+E03_Rab		orthofinder	dendroblast	Discoba	7	788	42	3	2	1	0.666667	0.968254	0.97619	0.972206
+E03_Rab		orthofinder	dendroblast	Fungi	8	29	9	0	0	0		1	1	1
+E03_Rab		orthofinder	dendroblast	Holozoa	8	22824	230	287	5	29	0.944079	0.986957	0.951339	0.96882
+E03_Rab		orthofinder	dendroblast	Viridiplantae	8	1532	62	0	3	0	0	0.96371	1	0.98152
+E03_Rab		orthofinder	dendroblast	Stramenopiles	8	530	34	6	0	0	1	1	1	1
+E03_Rab		orthofinder	dendroblast	Alveolata	8	52	11	0	0	0		1	1	1
+E03_Rab		orthofinder	dendroblast	Chytridiomycota_Dikarya	9	29	9	0	0	0		1	1	1
+E03_Rab		orthofinder	dendroblast	Choanozoa	9	19144	212	220	0	27	0.942184	1	0.948218	0.973421
+E03_Rab		orthofinder	dendroblast	Ascomycota	10	29	9	0	0	0		1	1	1
+E03_Rab		orthofinder	dendroblast	Metazoa	10	15078	190	157	0	25	0.926254	1	0.944298	0.971351
+E03_Rab		orthofinder	dendroblast	Myriazoa	11	15078	190	151	0	31	0.906907	1	0.935276	0.966556
+E03_Rab		orthofinder	dendroblast	ParaHoxozoa	12	10604	160	93	0	24	0.885714	1	0.941369	0.969799
+E03_Rab		orthofinder	dendroblast	Planulozoa	13	6532	126	47	0	18	0.839286	1	0.936772	0.967354
+E03_Rab		orthofinder	dendroblast	Bilateria	14	2748	81	21	0	10	0.807692	1	0.94321	0.970775
+E04_tubulins		orthofinder	dendroblast	Eukaryota	4	10305	170	78	0	0	1	1	1	1
+E04_tubulins		orthofinder	dendroblast	Amorphea	5	3865	104	22	0	0	1	1	1	1
+E04_tubulins		orthofinder	dendroblast	Diphoda	5	1536	66	12	0	0	1	1	1	1
+E04_tubulins		orthofinder	dendroblast	Amoebozoa	6	26	9	0	0	0		1	1	1
+E04_tubulins		orthofinder	dendroblast	Obazoa	6	3251	95	22	0	0	1	1	1	1
+E04_tubulins		orthofinder	dendroblast	Diaphoretickes	6	429	35	1	0	0	1	1	1	1
+E04_tubulins		orthofinder	dendroblast	Discoba_Metamonada	6	331	31	3	0	0	1	1	1	1
+E04_tubulins		orthofinder	dendroblast	Opisthokonta	7	2926	91	15	0	0	1	1	1	1
+E04_tubulins		orthofinder	dendroblast	Archaeplastida	7	91	17	0	0	0		1	1	1
+E04_tubulins		orthofinder	dendroblast	Stramenopiles_Alveolata	7	110	18	0	0	0		1	1	1
+E04_tubulins		orthofinder	dendroblast	Discoba	7	315	30	3	0	0	1	1	1	1
+E04_tubulins		orthofinder	dendroblast	Fungi	8	84	16	0	0	0		1	1	1
+E04_tubulins		orthofinder	dendroblast	Holozoa	8	2008	75	15	0	0	1	1	1	1
+E04_tubulins		orthofinder	dendroblast	Viridiplantae	8	71	15	0	0	0		1	1	1
+E04_tubulins		orthofinder	dendroblast	Stramenopiles	8	12	8	0	0	0		1	1	1
+E04_tubulins		orthofinder	dendroblast	Alveolata	8	40	10	0	0	0		1	1	1
+E04_tubulins		orthofinder	dendroblast	Chytridiomycota_Dikarya	9	55	13	0	0	0		1	1	1
+E04_tubulins		orthofinder	dendroblast	Choanozoa	9	1803	71	15	0	0	1	1	1	1
+E04_tubulins		orthofinder	dendroblast	Ascomycota	10	20	8	0	0	0		1	1	1
+E04_tubulins		orthofinder	dendroblast	Metazoa	10	1542	66	12	0	0	1	1	1	1
+E04_tubulins		orthofinder	dendroblast	Myriazoa	11	1542	66	12	0	0	1	1	1	1
+E04_tubulins		orthofinder	dendroblast	ParaHoxozoa	12	1186	59	5	0	0	1	1	1	1
+E04_tubulins		orthofinder	dendroblast	Planulozoa	13	834	50	2	0	0	1	1	1	1
+E04_tubulins		orthofinder	dendroblast	Bilateria	14	333	32	0	0	0		1	1	1
+E05_MCM		orthofinder	dendroblast	Archaea_Eukaryota	1	6328	113	6216	0	112	0.991071	1	0.982458	0.991151
+E05_MCM		orthofinder	dendroblast	TACK_Asgard_Eukaryota	2	6216	112	6216	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Asgard_Eukaryota	3	752	112	752	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Eukaryota	4	6216	112	737	0	15	0.989926	1	0.983259	0.991559
+E05_MCM		orthofinder	dendroblast	Amorphea	5	2211	67	260	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Diphoda	5	990	45	102	0	5	0.976077	1	0.962963	0.981132
+E05_MCM		orthofinder	dendroblast	Amoebozoa	6	105	15	7	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Obazoa	6	1326	52	153	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Diaphoretickes	6	276	24	25	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Discoba_Metamonada	6	210	21	16	0	2	0.941176	1	0.936508	0.967213
+E05_MCM		orthofinder	dendroblast	Opisthokonta	7	1326	52	153	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Archaeplastida	7	231	22	20	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Stramenopiles_Alveolata	7	1	2	0	0	0		1	1	1
+E05_MCM		orthofinder	dendroblast	Discoba	7	104	15	6	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Fungi	8	136	17	12	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Holozoa	8	595	35	62	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Viridiplantae	8	91	14	6	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Stramenopiles	8	1	2	0	0	0		1	1	1
+E05_MCM		orthofinder	dendroblast	Chytridiomycota_Dikarya	9	36	9	3	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Choanozoa	9	595	35	62	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Ascomycota	10	36	9	3	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Metazoa	10	406	29	39	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Myriazoa	11	406	29	39	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	ParaHoxozoa	12	406	29	39	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Planulozoa	13	210	21	18	0	0	1	1	1	1
+E05_MCM		orthofinder	dendroblast	Bilateria	14	105	15	7	0	0	1	1	1	1
+E06_myosins		orthofinder	dendroblast	Eukaryota	4	8605	206	21	0	0	1	1	1	1
+E06_myosins		orthofinder	dendroblast	Amorphea	5	5117	153	21	0	0	1	1	1	1
+E06_myosins		orthofinder	dendroblast	Diphoda	5	396	53	0	0	0		1	1	1
+E06_myosins		orthofinder	dendroblast	Amoebozoa	6	56	15	0	0	0		1	1	1
+E06_myosins		orthofinder	dendroblast	Obazoa	6	3998	138	21	0	0	1	1	1	1
+E06_myosins		orthofinder	dendroblast	Diaphoretickes	6	82	43	0	0	0		1	1	1
+E06_myosins		orthofinder	dendroblast	Discoba_Metamonada	6	21	10	0	0	0		1	1	1
+E06_myosins		orthofinder	dendroblast	Opisthokonta	7	3206	126	21	0	0	1	1	1	1
+E06_myosins		orthofinder	dendroblast	Stramenopiles_Alveolata	7	42	23	0	0	0		1	1	1
+E06_myosins		orthofinder	dendroblast	Discoba	7	21	10	0	0	0		1	1	1
+E06_myosins		orthofinder	dendroblast	Fungi	8	56	18	0	0	0		1	1	1
+E06_myosins		orthofinder	dendroblast	Holozoa	8	2408	108	21	0	0	1	1	1	1
+E06_myosins		orthofinder	dendroblast	Stramenopiles	8	28	16	0	0	0		1	1	1
+E06_myosins		orthofinder	dendroblast	Chytridiomycota_Dikarya	9	48	16	0	0	0		1	1	1
+E06_myosins		orthofinder	dendroblast	Choanozoa	9	1573	89	13	0	0	1	1	1	1
+E06_myosins		orthofinder	dendroblast	Ascomycota	10	21	10	0	0	0		1	1	1
+E06_myosins		orthofinder	dendroblast	Metazoa	10	1206	82	9	0	0	1	1	1	1
+E06_myosins		orthofinder	dendroblast	Myriazoa	11	1071	77	9	0	0	1	1	1	1
+E06_myosins		orthofinder	dendroblast	ParaHoxozoa	12	773	64	5	0	0	1	1	1	1
+E06_myosins		orthofinder	dendroblast	Planulozoa	13	590	56	2	0	0	1	1	1	1
+E06_myosins		orthofinder	dendroblast	Bilateria	14	419	49	1	0	0	1	1	1	1
+E07a_adaptins_large		orthofinder	dendroblast	Eukaryota	4	5209	105	231	5	49	0.895349	0.984127	0.859259	0.917464
+E07a_adaptins_large		orthofinder	dendroblast	Amorphea	5	2157	68	93	0	14	0.93	1	0.913235	0.95465
+E07a_adaptins_large		orthofinder	dendroblast	Diphoda	5	645	37	24	2	9	0.813559	0.963964	0.855856	0.906699
+E07a_adaptins_large		orthofinder	dendroblast	Amoebozoa	6	218	22	3	0	2	0.75	1	0.909091	0.952381
+E07a_adaptins_large		orthofinder	dendroblast	Obazoa	6	989	46	54	0	3	0.972973	1	0.967391	0.983425
+E07a_adaptins_large		orthofinder	dendroblast	Diaphoretickes	6	270	24	12	1	2	0.888889	0.958333	0.916667	0.937037
+E07a_adaptins_large		orthofinder	dendroblast	Discoba_Metamonada	6	75	13	1	0	0	1	1	1	1
+E07a_adaptins_large		orthofinder	dendroblast	Opisthokonta	7	859	43	44	0	5	0.946237	1	0.934109	0.965932
+E07a_adaptins_large		orthofinder	dendroblast	Archaeplastida	7	150	18	3	0	2	0.75	1	0.888889	0.941176
+E07a_adaptins_large		orthofinder	dendroblast	Stramenopiles_Alveolata	7	15	6	1	0	0	1	1	1	1
+E07a_adaptins_large		orthofinder	dendroblast	Discoba	7	55	11	1	0	0	1	1	1	1
+E07a_adaptins_large		orthofinder	dendroblast	Fungi	8	54	11	6	0	0	1	1	1	1
+E07a_adaptins_large		orthofinder	dendroblast	Holozoa	8	473	32	17	0	0	1	1	1	1
+E07a_adaptins_large		orthofinder	dendroblast	Viridiplantae	8	133	17	1	0	2	0.5	1	0.882353	0.9375
+E07a_adaptins_large		orthofinder	dendroblast	Stramenopiles	8	10	5	0	0	0		1	1	1
+E07a_adaptins_large		orthofinder	dendroblast	Chytridiomycota_Dikarya	9	44	10	3	0	0	1	1	1	1
+E07a_adaptins_large		orthofinder	dendroblast	Choanozoa	9	444	31	14	0	0	1	1	1	1
+E07a_adaptins_large		orthofinder	dendroblast	Ascomycota	10	35	9	1	0	0	1	1	1	1
+E07a_adaptins_large		orthofinder	dendroblast	Metazoa	10	198	21	4	0	0	1	1	1	1
+E07a_adaptins_large		orthofinder	dendroblast	Myriazoa	11	198	21	4	0	0	1	1	1	1
+E07a_adaptins_large		orthofinder	dendroblast	ParaHoxozoa	12	198	21	4	0	0	1	1	1	1
+E07a_adaptins_large		orthofinder	dendroblast	Planulozoa	13	198	21	4	0	0	1	1	1	1
+E07a_adaptins_large		orthofinder	dendroblast	Bilateria	14	99	15	0	0	0		1	1	1
+E07b_adaptins_medium_small		orthofinder	dendroblast	Eukaryota	4	6923	120	242	0	120	0.801325	1	0.781526	0.877367
+E07b_adaptins_medium_small		orthofinder	dendroblast	Amorphea	5	2679	75	85	0	40	0.809524	1	0.833175	0.908996
+E07b_adaptins_medium_small		orthofinder	dendroblast	Diphoda	5	968	45	31	0	17	0.78481	1	0.777778	0.875
+E07b_adaptins_medium_small		orthofinder	dendroblast	Amoebozoa	6	228	22	8	0	0	1	1	1	1
+E07b_adaptins_medium_small		orthofinder	dendroblast	Obazoa	6	1314	53	37	0	31	0.704762	1	0.818509	0.900198
+E07b_adaptins_medium_small		orthofinder	dendroblast	Diaphoretickes	6	510	33	13	0	7	0.787879	1	0.883838	0.938338
+E07b_adaptins_medium_small		orthofinder	dendroblast	Discoba_Metamonada	6	66	12	2	0	1	0.8	1	0.916667	0.956522
+E07b_adaptins_medium_small		orthofinder	dendroblast	Opisthokonta	7	1216	51	33	0	23	0.741573	1	0.836601	0.911032
+E07b_adaptins_medium_small		orthofinder	dendroblast	Archaeplastida	7	200	21	3	0	1	0.857143	1	0.952381	0.97561
+E07b_adaptins_medium_small		orthofinder	dendroblast	Stramenopiles_Alveolata	7	66	12	0	0	1	0	1	0.916667	0.956522
+E07b_adaptins_medium_small		orthofinder	dendroblast	Discoba	7	28	8	1	0	0	1	1	1	1
+E07b_adaptins_medium_small		orthofinder	dendroblast	Fungi	8	91	14	3	0	4	0.6	1	0.809524	0.894737
+E07b_adaptins_medium_small		orthofinder	dendroblast	Holozoa	8	631	37	14	0	3	0.903226	1	0.945946	0.972222
+E07b_adaptins_medium_small		orthofinder	dendroblast	Viridiplantae	8	183	20	3	0	0	1	1	1	1
+E07b_adaptins_medium_small		orthofinder	dendroblast	Stramenopiles	8	55	11	0	0	0		1	1	1
+E07b_adaptins_medium_small		orthofinder	dendroblast	Chytridiomycota_Dikarya	9	91	14	3	0	4	0.6	1	0.809524	0.894737
+E07b_adaptins_medium_small		orthofinder	dendroblast	Choanozoa	9	565	35	12	0	1	0.96	1	0.971429	0.985507
+E07b_adaptins_medium_small		orthofinder	dendroblast	Ascomycota	10	55	11	2	0	0	1	1	1	1
+E07b_adaptins_medium_small		orthofinder	dendroblast	Metazoa	10	358	28	3	0	0	1	1	1	1
+E07b_adaptins_medium_small		orthofinder	dendroblast	Myriazoa	11	358	28	3	0	0	1	1	1	1
+E07b_adaptins_medium_small		orthofinder	dendroblast	ParaHoxozoa	12	358	28	3	0	0	1	1	1	1
+E07b_adaptins_medium_small		orthofinder	dendroblast	Planulozoa	13	358	28	3	0	0	1	1	1	1
+E07b_adaptins_medium_small		orthofinder	dendroblast	Bilateria	14	238	23	0	0	0		1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Eukaryota	4	473	35	70	0	5	0.965517	1	0.925714	0.961424
+E07c_adaptins_scaffold		orthofinder	dendroblast	Amorphea	5	98	16	20	0	0	1	1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Diphoda	5	134	19	12	0	3	0.888889	1	0.921053	0.958904
+E07c_adaptins_scaffold		orthofinder	dendroblast	Amoebozoa	6	2	3	0	0	0		1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Obazoa	6	69	13	16	0	0	1	1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Diaphoretickes	6	77	14	7	0	2	0.875	1	0.904762	0.95
+E07c_adaptins_scaffold		orthofinder	dendroblast	Discoba_Metamonada	6	4	5	0	0	0		1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Opisthokonta	7	46	11	16	0	0	1	1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Archaeplastida	7	30	9	1	0	0	1	1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Stramenopiles_Alveolata	7	10	5	2	0	0	1	1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Discoba	7	4	5	0	0	0		1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Fungi	8	7	5	1	0	0	1	1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Holozoa	8	15	6	6	0	0	1	1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Viridiplantae	8	22	8	1	0	0	1	1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Stramenopiles	8	3	3	0	0	0		1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Alveolata	8	1	2	0	0	0		1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Chytridiomycota_Dikarya	9	7	5	1	0	0	1	1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Choanozoa	9	15	6	6	0	0	1	1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Ascomycota	10	1	2	0	0	0		1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Metazoa	10	6	4	2	0	0	1	1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Myriazoa	11	6	4	2	0	0	1	1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	ParaHoxozoa	12	6	4	2	0	0	1	1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Planulozoa	13	6	4	2	0	0	1	1	1	1
+E07c_adaptins_scaffold		orthofinder	dendroblast	Bilateria	14	1	2	0	0	0		1	1	1

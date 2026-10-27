@@ -1,0 +1,21 @@
+contaminant	source_id	tool	variant	deepest_level_sharing_ref_HOG	families_at_that_level	n_families	root_level_families:n_genes	n_ref_genes_in_root_HOG
+CONTAM_HUMAN_Q9BYT3	Q9BYT3	orthofinder	default	Ascomycota	YGOB_Anc_1_374	1	YGOB_Anc_1_374:18	18
+CONTAM_HUMAN_Q9UPM8	Q9UPM8	orthofinder	default			0		0
+CONTAM_HUMAN_A0A087WXS9	A0A087WXS9	orthofinder	default			0		0
+CONTAM_HUMAN_Q9UQ84	Q9UQ84	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_625	1	YGOB_Anc_5_625:16	16
+CONTAM_HUMAN_O14618	O14618	orthofinder	default			0		0
+CONTAM_HUMAN_Q9BPX5	Q9BPX5	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_7_252	1	YGOB_Anc_7_252:13	13
+CONTAM_HUMAN_Q9UEW8	Q9UEW8	orthofinder	default			0		0
+CONTAM_HUMAN_Q96AX2	Q96AX2	orthofinder	default			0		0
+CONTAM_HUMAN_O15439	O15439	orthofinder	default			0		0
+CONTAM_HUMAN_O75880	O75880	orthofinder	default			0		0
+CONTAM_HUMAN_Q96BR1	Q96BR1	orthofinder	default			0		0
+CONTAM_HUMAN_Q676U5	Q676U5	orthofinder	default			0		0
+CONTAM_HUMAN_P78356	P78356	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_8_418	1	YGOB_Anc_8_418:17	17
+CONTAM_HUMAN_P0C7V8	P0C7V8	orthofinder	default			0		0
+CONTAM_HUMAN_Q9H8S9	Q9H8S9	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_2_265	1	YGOB_Anc_2_265:12	12
+CONTAM_HUMAN_Q92696	Q92696	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_243	1	YGOB_Anc_5_243:12	12
+CONTAM_HUMAN_P16104	P16104	orthofinder	default			0		0
+CONTAM_HUMAN_Q9BRG1	Q9BRG1	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_7_474	1	YGOB_Anc_7_474:13	13
+CONTAM_HUMAN_P28065	P28065	orthofinder	default			0		0
+CONTAM_HUMAN_Q9Y3Q0	Q9Y3Q0	orthofinder	default	CUG_Saccharomycetaceae	YGOB_Anc_4_348	1	YGOB_Anc_4_348:13	13
