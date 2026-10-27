@@ -30,8 +30,8 @@ MUTANTS = {
  "h_no_flat": ("flat TSV projection disabled", "predictions.py", [
     ("            if flat:\n                if not species", "            if False:\n                if not species", 1)]),
  "i_fp_outside_complete": ("membership FP counts other-family genes outside complete cells", "metrics.py", [
-    ('return (d["n_members"] - d["own"][r_]) + d["contam"] + d["complete_nonmembers"]',
-     'return (d["n_members"] - d["own"][r_]) + d["contam"] + d["complete_nonmembers"] + d["other_family"]', 1)]),
+    ('return other_apart(key, r_) + d["contam"] + d["complete_nonmembers"]',
+     'return other_apart(key, r_) + d["contam"] + d["complete_nonmembers"] + d["other_family"]', 1)]),
  "j_unpaired_bootstrap": ("paired bootstrap broken (method b items misaligned)", "stats.py", [
     ('diffs = {k: ia[k]["scalars"][metric] - ib[k]["scalars"][metric] for k in common}',
      'diffs = {k: ia[k]["scalars"][metric] - ib[common[-1 - n]]["scalars"][metric] for n, k in enumerate(common)}', 1)]),

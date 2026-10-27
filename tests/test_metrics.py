@@ -368,8 +368,10 @@ def test_u_root_over_interval_duplication_positive_control(st):
     pos = controls.reference_prediction([f], st)
     r = evaluate_family(f, st, pos, panel_context([f], st))
     sc = family_scalars(r)
-    assert r["integrity"]["n_refogs"] == 3
-    assert sc["merge_accuracy_node"] == 1.0 and sc["membership_f1"] == 1.0 and sc["exact_pct"] == 100.0
+    # E5: the three singleton RefOGs are separated from MOUSE_c only by the U root -> none is
+    # eligible, membership is untestable (None); pair metrics stay perfect
+    assert r["integrity"]["n_refogs_total"] == 3 and r["integrity"]["n_refogs"] == 0
+    assert sc["merge_accuracy_node"] == 1.0 and sc["membership_f1"] is None
 
 
 def test_event_testability(st):
@@ -432,3 +434,23 @@ def test_u_root_refogs_E5(st):
     # and the positive control remains perfect
     pos = controls.reference_prediction([f], st)
     assert evaluate_family(f, st, pos, panel_context([f], st))["integrity"]["membership_f1"] == 1.0
+
+
+def test_u_root_over_single_genes_membership_untestable_E5(st):
+    """E5 refinement: a U root directly over single genes (one gene per species, as in the K
+    ribosomal-protein families) gives singleton RefOGs that are not asserted apart: no eligible
+    RefOG -> membership is None (untestable) for every prediction, instead of all-singletons = 1.
+    In the two-clade toy, merging both clades is not penalised either (nothing asserts them apart)."""
+    f = make_family("UL", "(HUMAN_1,MOUSE_1,CHICK_1,DANRE_1)[&&NHX:ev=U];")
+    ctx = panel_context([f], st)
+    for p in (controls.all_singletons([f]), controls.one_big_hog([f], st), controls.reference_prediction([f], st)):
+        it = evaluate_family(f, st, p, ctx)["integrity"]
+        assert it["membership_f1"] is None and it["n_refogs"] == 0 and it["n_refogs_total"] == 4
+    clade = lambda k: f"((HUMAN_{k},MOUSE_{k})[&&NHX:ev=S],CHICK_{k})[&&NHX:ev=S]"
+    g = make_family("UR5b", f"({clade('a')},{clade('b')})[&&NHX:ev=U];")
+    it = evaluate_family(g, st, controls.one_big_hog([g], st), panel_context([g], st))["integrity"]
+    assert it["membership_f1"] == 1.0 and it["fusion_pct"] == 0.0
+    # whereas under a D root the copies are asserted apart: merging them is penalised
+    h = make_family("DR5", f"({clade('a')},{clade('b')})[&&NHX:ev=D];")
+    it = evaluate_family(h, st, controls.one_big_hog([h], st), panel_context([h], st))["integrity"]
+    assert it["fusion_pct"] == 100.0 and it["membership_f1"] == pytest.approx(2 * 0.5 / 1.5)

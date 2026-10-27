@@ -700,6 +700,22 @@ def family_integrity(rf: ReconciledFamily, st: SpeciesTree, pred: Prediction, ct
     refogs: dict[int, list[str]] = defaultdict(list)
     for g, r_ in refog_of.items():
         refogs[r_].append(g)
+    # E5: RefOGs separated only by an unresolved (U) node are neither one group nor asserted
+    # apart. Another RefOG's members count as false positives only if the reference asserts the
+    # two RefOGs apart at the family level; a singleton RefOG is scored only if asserted apart
+    # from every other RefOG.
+    Rm = reference_matrices(rf) if rf.genes else None
+    rep = {r_: next((g for g in gs if g in rf.gene_index), None) for r_, gs in refogs.items()}
+
+    def apart(r1: int, r2: int) -> bool:
+        a, b = rep[r1], rep[r2]
+        if a is None or b is None:
+            return False
+        lo_ = int(Rm.lo[rf.gene_index[a], rf.gene_index[b]])
+        return lo_ != NOT_ASSERTED and (lo_ < 0 or not bool(st.anc[L_F, lo_]))
+
+    eligible = {r_ for r_, gs in refogs.items()
+                if len(gs) >= 2 or all(apart(r_, o) for o in refogs if o != r_)}
 
     # PredOG of each member
     def top_hog(g: str) -> Optional[tuple[str, str]]:
@@ -726,7 +742,7 @@ def family_integrity(rf: ReconciledFamily, st: SpeciesTree, pred: Prediction, ct
         lv, h = key
         L = st.index[lv]
         own_by_refog: Counter = Counter()
-        other_refog = contam = 0
+        contam = 0
         contam_species: Counter = Counter()
         n_member_any = 0
         n_other_family = 0
@@ -759,9 +775,13 @@ def family_integrity(rf: ReconciledFamily, st: SpeciesTree, pred: Prediction, ct
         pog[key] = {"own": own_by_refog, "n_members": n_member_any, "contam": contam,
                     "complete_nonmembers": complete_nonmembers, "other_family": n_other_family, "size": size}
 
+    def other_apart(key, r_) -> int:
+        """Members of other RefOGs in this PredOG that the reference asserts apart from r_."""
+        return sum(c for r2, c in pog[key]["own"].items() if r2 != r_ and apart(r_, r2))
+
     def fp_for(key, r_) -> int:
         d = pog[key]
-        return (d["n_members"] - d["own"][r_]) + d["contam"] + d["complete_nonmembers"]
+        return other_apart(key, r_) + d["contam"] + d["complete_nonmembers"]
 
     # per RefOG measures
     tot_w = 0
@@ -772,6 +792,8 @@ def family_integrity(rf: ReconciledFamily, st: SpeciesTree, pred: Prediction, ct
     ob_tp = ob_fp = ob_fn = 0.0
     split_off = assigned = 0
     for r_, genes in refogs.items():
+        if r_ not in eligible:
+            continue
         nR = len(genes)
         keys = Counter(key_of[g] for g in genes)
         missing = keys.pop(None, 0)
@@ -793,7 +815,7 @@ def family_integrity(rf: ReconciledFamily, st: SpeciesTree, pred: Prediction, ct
             assigned += s_t
         if len(overl) > 1:
             n_fission += 1
-        if any((pog[k]["n_members"] - pog[k]["own"][r_]) + pog[k]["contam"] > 0 for k in overl):
+        if any(other_apart(k, r_) + pog[k]["contam"] > 0 for k in overl):
             n_fusion += 1
         if missing == 0 and len(overl) == 1 and fp_for(next(iter(overl)), r_) == 0:
             n_exact += 1
@@ -807,7 +829,7 @@ def family_integrity(rf: ReconciledFamily, st: SpeciesTree, pred: Prediction, ct
             fp = sum(t * fp_for(k, r_) for k, t in overl.items())
             fn = (sum((nR - t) * t for t in overl.values()) + missing * (nR - 1)) / 2
             ob_tp += tp / (nR - 1); ob_fp += fp / (nR - 1); ob_fn += fn / (nR - 1)
-    S = len(refogs)
+    S = len(eligible)
     mp = PS / tot_w if tot_w and assigned else None
     mr = RC / tot_w if tot_w else None
     if mp is None:
@@ -820,7 +842,7 @@ def family_integrity(rf: ReconciledFamily, st: SpeciesTree, pred: Prediction, ct
     ob_p = ob_tp / (ob_tp + ob_fp) if ob_tp + ob_fp else None
     ob_r = ob_tp / (ob_tp + ob_fn) if ob_tp + ob_fn else None
     return {
-        "level": Lname, "n_members": len(members), "n_refogs": S, "n_unplaced_excluded": len(excluded),
+        "level": Lname, "n_members": len(members), "n_refogs": S, "n_refogs_total": len(refogs), "n_unplaced_excluded": len(excluded),
         "n_predogs": len(pog),
         "membership_precision": mp, "membership_recall": mr, "membership_f1": mf1,
         "orthobench_precision": ob_p, "orthobench_recall": ob_r,
