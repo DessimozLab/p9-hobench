@@ -63,3 +63,7 @@ species leaf with single-gene copies (E02 3/5, V03 34/61): those events only tes
 satisfies correctly. Rule: headline event recovery is computed over **internal-branch** testable events only; leaf-level
 events are reported separately as "in-paralog recovery" (secondary). Y/K values unaffected (no leaf events) — to be
 confirmed in the re-run.
+E4 implementation (scripts/evaluate_panel.py, evaluation layer): per-event `event_branch` (leaf = event level is a species, else internal) in events.tsv;
+`event_recovery_*` now over internal-branch testable events; `in_paralog_recovery_0.5` (leaf events) is a secondary column.
+Y/K full re-run: all four primary endpoint means identical to before in every scope/method (0 differences); no leaf events in Y/K.
+Subset mode (`--mode subset`): only families whose members are all in panels/<P>/subset/members.tsv are scored; excluded ids in results/<P>_subset/excluded_families.txt.

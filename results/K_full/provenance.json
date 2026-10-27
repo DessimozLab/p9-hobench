@@ -1,6 +1,6 @@
 {
  "hobench_git": {
-  "commit": "7149dd29c62807006298ecae4d76857457ec4af3",
+  "commit": "240068da8ab77ebd102e577d24ad711a3900ffc2",
   "dirty": true
  },
  "script": "scripts/evaluate_panel.py",
@@ -8,10 +8,11 @@
  "mode": "full",
  "panel_tree_sha256": "7c58fe825de5951ee839f92d7d1aa99510265d56d8259b8d356bd43d2ed1c6ad",
  "panel_species_tsv_sha256": "58f0358bf34a2c9f00be1b36de7062233082a6631ac766a743c45031c9e49d43",
- "families_tree_hash": "aeea5fbf3546856326c6dc01fb3ccf187c1eac7374685eecfe7e7be3703a3353",
- "families_manifest_present": false,
- "families_manifest_differences": null,
+ "families_tree_hash": "8c1d8bb8a7fc9cc285e320dccf01ec941a518c7dc7023833b084b539ce190187",
+ "families_manifest_present": true,
+ "families_manifest_differences": [],
  "n_families": 51,
+ "n_excluded_subset": 0,
  "n_non_headline": 4,
  "n_control_track": 41,
  "seeds_relabel": [

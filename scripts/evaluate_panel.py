@@ -33,7 +33,7 @@ from hobench.seeds import SEEDS                                           # noqa
 from hobench.speciestree import SpeciesTree                               # noqa: E402
 from hobench.stats import aggregate, compare_methods, holm                # noqa: E402
 
-PF_METRICS = PRIMARY + ["merge_accuracy_sd_posthoc", "event_recovery_0.8", "merge_accuracy_pairs", "merge_accuracy_tol1", "spurious_dup_rate",
+PF_METRICS = PRIMARY + ["in_paralog_recovery_0.5", "merge_accuracy_sd_posthoc", "event_recovery_0.8", "merge_accuracy_pairs", "merge_accuracy_tol1", "spurious_dup_rate",
                         "membership_precision", "membership_recall", "orthobench_f", "frac_over_split",
                         "frac_over_merged", "level_pair_f1_pooled", "mean_abs_depth_frac_error", "wf_ortholog_f1"]
 N_OF = {"level_bcubed_f1": "n_asserted_pairs", "merge_accuracy_node": "n_asserted_pairs", "membership_f1": "n_members"}
@@ -72,6 +72,7 @@ def headline_info(f) -> tuple[bool, str]:
 
 
 # ---------------------------------------------------------------- scoring
+SCALARS["in_paralog_recovery_0.5"] = ("events_summary", "in_paralog_recovery_0.5")   # leaf-branch events (secondary, ERRATA E4)
 SCALARS["merge_accuracy_sd_posthoc"] = ("pair_merge", "sd_balanced_posthoc")   # POST-RESULTS secondary (ERRATA)
 CONTROL_COLLECTIONS = {"RPROT"}
 CONTROL_IDS = {"K02_trGTPases", "E05_MCM"}
@@ -90,6 +91,19 @@ def score(st, rfs, pred, ctx):
     for rf in rfs:
         r = evaluate_family(rf, st, pred, ctx, per_gene=False, compact=False)
         r["_levels"] = r["per_level"]
+        # ERRATA E4: headline event recovery = internal-branch testable events only; leaf events -> in-paralog recovery
+        es = r["events_summary"]
+        for e in r["events"]:
+            e["event_branch"] = "leaf" if st.is_species(e["level"]) else "internal"
+        for br, suffix in (("internal", ""), ("leaf", None)):
+            sel = [e for e in r["events"] if e["event_branch"] == br and e.get("testable", True)]
+            for th in (0.5, 0.8):
+                v = float(np.mean([e[f"recovered_{th}"] for e in sel])) if sel else None
+                if suffix is None:
+                    es[f"in_paralog_recovery_{th}"] = v
+                else:
+                    es[f"recovery_rate_{th}"] = v
+            es["n_internal_testable" if suffix == "" else "n_leaf_testable"] = len(sel)
         acc = defaultdict(list)
         for nd in r["nodes"]:
             if nd.get("accuracy") is not None:
@@ -197,6 +211,13 @@ def main():
     ptree = ROOT / "panels" / P / "species_tree.nwk"
     st = SpeciesTree.from_newick(str(ptree))
     fams = load_families(a.families, panel=P)
+    excluded = []
+    if mode == "subset":   # score only families whose members are all present in the subset proteomes
+        sub = {r["id"] for r in csv.DictReader(open(ROOT / "panels" / P / "subset" / "members.tsv"), delimiter="\t")}
+        excluded = [f.id for f in fams if not set(f.member_ids) <= sub]
+        fams = [f for f in fams if f.id not in set(excluded)]
+        log(f"subset mode: {len(fams)} families scored, {len(excluded)} excluded (members absent from subset)")
+        (out / "excluded_families.txt").write_text("\n".join(excluded) + "\n")
     rep = validate_panel(fams, st)
     panel = load_panel(ROOT / "panels" / P)
     for e in panel.verify_checksums():
@@ -270,7 +291,7 @@ def main():
                      "pair_f1", "bcubed_precision", "bcubed_recall", "bcubed_f1"])
         we.writerow(["family", "collection", "method", "variant", "event", "ev", "level", "tags", "n_copies", "n_pairs",
                      "frac_correct", "separation", "cohesion_min", "merge_side", "frac_over_split", "frac_over_merged",
-                     "modal_pred_merge", "testable", "recovered_0.5", "recovered_0.8"])
+                     "modal_pred_merge", "event_branch", "testable", "recovered_0.5", "recovered_0.8"])
         for meth, var, kind, res, _ in methods:
             for r in res:
                 sc = family_scalars(r)
@@ -280,7 +301,7 @@ def main():
                         continue
                     nn = r.get(N_OF.get(m, ""), None)
                     if m.startswith("event") or m == "spurious_dup_rate":
-                        nn = r["events_summary"]["n_events"] if m.startswith("event") else r["spurious_duplications"]["opportunities"]
+                        nn = r["events_summary"]["n_internal_testable"] if m.startswith("event") else r["spurious_duplications"]["opportunities"]
                     elif nn is None:
                         nn = r["n_asserted_pairs"] if "merge" in m or "level" in m else r["n_members"]
                     w.writerow([r["id"], coll, tk[r["id"]], meth, var, m, fnum(sc[m]), nn, int(hd), note])
@@ -292,13 +313,13 @@ def main():
                     we.writerow([r["id"], coll, meth, var, e["event"], e["ev"], e["level"], ",".join(e["tags"]),
                                  e["n_copies"], e["n_pairs"], fnum(e["frac_correct"]), fnum(e["separation"]),
                                  fnum(e["cohesion_min"]), fnum(e["merge_side"]), fnum(e["frac_over_split"]),
-                                 fnum(e["frac_over_merged"]), e["modal_pred_merge"], int(e.get("testable", True)), int(e["recovered_0.5"]),
+                                 fnum(e["frac_over_merged"]), e["modal_pred_merge"], e["event_branch"], int(e.get("testable", True)), int(e["recovered_0.5"]),
                                  int(e["recovered_0.8"])])
     log("per_* written")
 
     # ---- summary (descriptive only: means over items, min/max, n; no CIs -- confirmatory test is scripts/confirmatory.py)
     from hobench.stats import items as stat_items
-    smetrics = PRIMARY + [f"skill_{m}" for m in PRIMARY] + ["merge_accuracy_sd_posthoc", "event_recovery_0.8"]
+    smetrics = PRIMARY + [f"skill_{m}" for m in PRIMARY] + ["in_paralog_recovery_0.5", "merge_accuracy_sd_posthoc", "event_recovery_0.8"]
     scopes = {"headline": lambda r: tk[r["id"]] != "control" and hl[r["id"]][0],
               "noncontrol_all": lambda r: tk[r["id"]] != "control",
               "control": lambda r: tk[r["id"]] == "control"}
@@ -355,7 +376,7 @@ def main():
             "panel_tree_sha256": sha256_file(ptree), "panel_species_tsv_sha256": sha256_file(ROOT / "panels" / P / "species.tsv"),
             "families_tree_hash": tree_hash(manifest_entries(fdir)), "families_manifest_present": frozen,
             "families_manifest_differences": check_manifest(fdir) if frozen else None,
-            "n_families": len(fams), "n_non_headline": sum(not h[0] for h in hl.values()), "n_control_track": sum(t == "control" for t in tk.values()),
+            "n_families": len(fams), "n_excluded_subset": len(excluded), "n_non_headline": sum(not h[0] for h in hl.values()), "n_control_track": sum(t == "control" for t in tk.values()),
             "seeds_relabel": SEEDS[:N_RELABEL_SEEDS], "n_boot": a.n_boot, "runs": prov_runs}
     (out / "provenance.json").write_text(json.dumps(prov, indent=1, default=str))
 
@@ -365,7 +386,7 @@ def main():
         return "NA" if mean_ is None else f"{mean_:.3f}"
     md = [f"# Panel {P} / {mode}: evaluation summary", "",
           f"hobench git {prov['hobench_git']['commit'][:10]} (dirty={prov['hobench_git']['dirty']}); {len(fams)} families "
-          f"({sum(t == 'control' for t in tk.values())} control-track, {prov['n_non_headline']} non-headline); "
+          f"(+{len(excluded)} excluded: members absent from subset) ({sum(t == 'control' for t in tk.values())} control-track, {prov['n_non_headline']} non-headline); "
           f"families tree hash {prov['families_tree_hash'][:12]}.",
           "Descriptive only (mean over items; a collection is one item; no CIs). Headline = tracks family+collection, "
           "headline-eligible; control track (K01 RPROT, K02, E05) reported separately. Trivial baselines are rows of every table; "

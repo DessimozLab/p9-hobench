@@ -1,6 +1,6 @@
 {
  "hobench_git": {
-  "commit": "d23ec856b9c97db1d4c845f717f4334be32bcaa9",
+  "commit": "ac9406a6c40872f6438d6ed956f36a0069046010",
   "dirty": true
  },
  "script": "scripts/evaluate_panel.py",
@@ -12,6 +12,7 @@
  "families_manifest_present": true,
  "families_manifest_differences": [],
  "n_families": 1977,
+ "n_excluded_subset": 0,
  "n_non_headline": 0,
  "n_control_track": 0,
  "seeds_relabel": [

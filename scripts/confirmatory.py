@@ -4,7 +4,7 @@ permutation test (10,000 flips, seed hobench.seeds.SEEDS[0]) per primary endpoin
 headline items across the panels' results/<P>_<mode>/per_family.tsv; Holm over the 4 endpoints.
 Items: tracks family + collection only, headline-eligible; a collection is one item (mean of its
 units); items with an undefined value for either method are dropped.
-Usage: python scripts/confirmatory.py [--mode full] [--panels Y K]"""
+Usage: python scripts/confirmatory.py [--spec Y:full K:full E:subset ...]"""
 import argparse, csv, sys
 from collections import defaultdict
 from pathlib import Path
@@ -21,14 +21,17 @@ A, B = ("orthofinder", "default"), ("fastoma", "default_declared")
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--mode", default="full")
-    ap.add_argument("--panels", nargs="+", default=["Y", "K"])
+    ap.add_argument("--spec", nargs="+", default=["Y:full", "K:full", "E:subset", "P:subset", "V:subset"],
+                    help="one mode per panel, PANEL:MODE (never pool modes of one panel)")
     ap.add_argument("--n-perm", type=int, default=10000)
     ap.add_argument("--out", default=str(ROOT / "results" / "confirmatory.tsv"))
     a = ap.parse_args()
     vals = {m: defaultdict(lambda: defaultdict(list)) for m in PRIMARY}   # metric -> item -> method -> [unit values]
-    for P in a.panels:
-        with open(ROOT / "results" / f"{P}_{a.mode}" / "per_family.tsv") as fh:
+    for sp in a.spec:
+        P, mode = sp.split(":")
+        if not (ROOT / "results" / f"{P}_{mode}" / "per_family.tsv").exists():
+            print("skipping missing", sp, file=sys.stderr); continue
+        with open(ROOT / "results" / f"{P}_{mode}" / "per_family.tsv") as fh:
             for r in csv.DictReader(fh, delimiter="\t"):
                 if r["metric"] not in PRIMARY or r["track"] == "control" or r["headline"] != "1":
                     continue
