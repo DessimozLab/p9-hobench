@@ -1,22 +1,22 @@
 # Panel K / full: evaluation summary
 
-hobench git 240068da8a (dirty=True); 51 families (+0 excluded: members absent from subset) (41 control-track, 4 non-headline); families tree hash 8c1d8bb8a7fc.
+hobench git 5e46b018e2 (dirty=True); 51 families (+0 excluded: members absent from subset) (41 control-track, 4 non-headline); families tree hash 8c1d8bb8a7fc.
 Descriptive only (mean over items; a collection is one item; no CIs). Headline = tracks family+collection, headline-eligible; control track (K01 RPROT, K02, E05) reported separately. Trivial baselines are rows of every table; skill = (s-b)/(1-b), b = per-family max(singletons, one big HOG, mean relabel). membership F1 is NA for families without complete cells or decoys. Confirmatory test: scripts/confirmatory.py.
 
 ## scope: headline
 
 | method | variant | level_bcubed_f1 (n) | skill | merge_accuracy_node (n) | skill | event_recovery_0.5 (n) | skill | membership_f1 (n) | skill | S/D-bal merge acc (post-hoc) |
 |---|---|---|---|---|---|---|---|---|---|---|
-| positive_control | reference | NA (0) | NA | NA (0) | NA | NA (0) | NA | 1.000 (1) | 1.000 | NA |
-| all_singletons |  | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.000 (1) | -4.595 | NA |
-| one_big_hog |  | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.753 (1) | 0.000 | NA |
-| random_relabel | mean10 | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.221 (1) | -3.333 | NA |
-| fastoma | default_declared | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.897 (1) | 0.595 | NA |
-| fastoma | default_late | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.897 (1) | 0.595 | NA |
-| of_flat | default | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.949 (1) | 0.730 | NA |
-| of_flat | dendroblast | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.956 (1) | 0.772 | NA |
-| orthofinder | default | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.949 (1) | 0.730 | NA |
-| orthofinder | dendroblast | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.956 (1) | 0.772 | NA |
+| positive_control | reference | NA (0) | NA | NA (0) | NA | NA (0) | NA | 1.000 (10) | 1.000 | NA |
+| all_singletons |  | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.000 (10) | -4.595 | NA |
+| one_big_hog |  | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.753 (10) | 0.000 | NA |
+| random_relabel | mean10 | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.221 (10) | -3.333 | NA |
+| fastoma | default_declared | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.897 (10) | 0.595 | NA |
+| fastoma | default_late | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.897 (10) | 0.595 | NA |
+| of_flat | default | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.949 (10) | 0.730 | NA |
+| of_flat | dendroblast | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.956 (10) | 0.772 | NA |
+| orthofinder | default | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.949 (10) | 0.730 | NA |
+| orthofinder | dendroblast | NA (0) | NA | NA (0) | NA | NA (0) | NA | 0.956 (10) | 0.772 | NA |
 
 random relabel, min-max of item-mean over 10 seeds: membership_f1 0.206552-0.24145
 

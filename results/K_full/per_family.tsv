@@ -616,56 +616,56 @@ K02_trGTPases		control	positive_control	reference	wf_ortholog_f1	1	47	1
 K02_trGTPases		control	positive_control	reference	skill_level_bcubed_f1	1	759	1	
 K02_trGTPases		control	positive_control	reference	skill_merge_accuracy_node	1	759	1	
 K02_trGTPases		control	positive_control	reference	skill_event_recovery_0.5	1	47	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	positive_control	reference	membership_f1	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	positive_control	reference	membership_precision	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	positive_control	reference	membership_recall	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	positive_control	reference	orthobench_f	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	positive_control	reference	skill_membership_f1	1	6	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	positive_control	reference	membership_f1	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	positive_control	reference	membership_precision	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	positive_control	reference	membership_recall	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	positive_control	reference	orthobench_f	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	positive_control	reference	skill_membership_f1	1	16	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	positive_control	reference	membership_f1	1	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	positive_control	reference	membership_precision	1	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	positive_control	reference	membership_recall	1	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	positive_control	reference	orthobench_f	1	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	positive_control	reference	skill_membership_f1	1	19	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	positive_control	reference	membership_f1	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	positive_control	reference	membership_precision	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	positive_control	reference	membership_recall	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	positive_control	reference	orthobench_f	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	positive_control	reference	skill_membership_f1	1	8	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	positive_control	reference	membership_f1	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	positive_control	reference	membership_precision	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	positive_control	reference	membership_recall	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	positive_control	reference	orthobench_f	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	positive_control	reference	skill_membership_f1	1	6	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	positive_control	reference	membership_f1	1	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	positive_control	reference	membership_precision	1	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	positive_control	reference	membership_recall	1	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	positive_control	reference	orthobench_f	1	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	positive_control	reference	skill_membership_f1	1	11	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	positive_control	reference	membership_f1	1	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	positive_control	reference	membership_precision	1	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	positive_control	reference	membership_recall	1	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	positive_control	reference	orthobench_f	1	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	positive_control	reference	skill_membership_f1	1	14	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	positive_control	reference	membership_f1	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	positive_control	reference	membership_precision	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	positive_control	reference	membership_recall	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	positive_control	reference	orthobench_f	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	positive_control	reference	skill_membership_f1	1	7	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	positive_control	reference	membership_f1	1	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	positive_control	reference	membership_precision	1	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	positive_control	reference	membership_recall	1	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	positive_control	reference	orthobench_f	1	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	positive_control	reference	skill_membership_f1	1	12	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	positive_control	reference	membership_f1	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	positive_control	reference	membership_precision	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	positive_control	reference	membership_recall	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	positive_control	reference	orthobench_f	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	positive_control	reference	skill_membership_f1	1	9	1	
+K04a_LysRS_I		family	positive_control	reference	membership_f1	1	6	1	
+K04a_LysRS_I		family	positive_control	reference	membership_precision	1	6	1	
+K04a_LysRS_I		family	positive_control	reference	membership_recall	1	6	1	
+K04a_LysRS_I		family	positive_control	reference	orthobench_f	1	6	1	
+K04a_LysRS_I		family	positive_control	reference	skill_membership_f1	1	6	1	
+K04b_LysRS_II		family	positive_control	reference	membership_f1	1	16	1	
+K04b_LysRS_II		family	positive_control	reference	membership_precision	1	16	1	
+K04b_LysRS_II		family	positive_control	reference	membership_recall	1	16	1	
+K04b_LysRS_II		family	positive_control	reference	orthobench_f	1	16	1	
+K04b_LysRS_II		family	positive_control	reference	skill_membership_f1	1	16	1	
+K04c_SOD_FeMn		family	positive_control	reference	membership_f1	1	19	1	
+K04c_SOD_FeMn		family	positive_control	reference	membership_precision	1	19	1	
+K04c_SOD_FeMn		family	positive_control	reference	membership_recall	1	19	1	
+K04c_SOD_FeMn		family	positive_control	reference	orthobench_f	1	19	1	
+K04c_SOD_FeMn		family	positive_control	reference	skill_membership_f1	1	19	1	
+K04d_SOD_CuZn		family	positive_control	reference	membership_f1	1	8	1	
+K04d_SOD_CuZn		family	positive_control	reference	membership_precision	1	8	1	
+K04d_SOD_CuZn		family	positive_control	reference	membership_recall	1	8	1	
+K04d_SOD_CuZn		family	positive_control	reference	orthobench_f	1	8	1	
+K04d_SOD_CuZn		family	positive_control	reference	skill_membership_f1	1	8	1	
+K04e_PGM_BPGdep		family	positive_control	reference	membership_f1	1	6	1	
+K04e_PGM_BPGdep		family	positive_control	reference	membership_precision	1	6	1	
+K04e_PGM_BPGdep		family	positive_control	reference	membership_recall	1	6	1	
+K04e_PGM_BPGdep		family	positive_control	reference	orthobench_f	1	6	1	
+K04e_PGM_BPGdep		family	positive_control	reference	skill_membership_f1	1	6	1	
+K04f_PGM_BPGindep		family	positive_control	reference	membership_f1	1	11	1	
+K04f_PGM_BPGindep		family	positive_control	reference	membership_precision	1	11	1	
+K04f_PGM_BPGindep		family	positive_control	reference	membership_recall	1	11	1	
+K04f_PGM_BPGindep		family	positive_control	reference	orthobench_f	1	11	1	
+K04f_PGM_BPGindep		family	positive_control	reference	skill_membership_f1	1	11	1	
+K04g_SK_Ploop		family	positive_control	reference	membership_f1	1	14	1	
+K04g_SK_Ploop		family	positive_control	reference	membership_precision	1	14	1	
+K04g_SK_Ploop		family	positive_control	reference	membership_recall	1	14	1	
+K04g_SK_Ploop		family	positive_control	reference	orthobench_f	1	14	1	
+K04g_SK_Ploop		family	positive_control	reference	skill_membership_f1	1	14	1	
+K04h_SK_GHMP		family	positive_control	reference	membership_f1	1	7	1	
+K04h_SK_GHMP		family	positive_control	reference	membership_precision	1	7	1	
+K04h_SK_GHMP		family	positive_control	reference	membership_recall	1	7	1	
+K04h_SK_GHMP		family	positive_control	reference	orthobench_f	1	7	1	
+K04h_SK_GHMP		family	positive_control	reference	skill_membership_f1	1	7	1	
+K04i_DHQase_I		family	positive_control	reference	membership_f1	1	12	1	
+K04i_DHQase_I		family	positive_control	reference	membership_precision	1	12	1	
+K04i_DHQase_I		family	positive_control	reference	membership_recall	1	12	1	
+K04i_DHQase_I		family	positive_control	reference	orthobench_f	1	12	1	
+K04i_DHQase_I		family	positive_control	reference	skill_membership_f1	1	12	1	
+K04j_DHQase_II		family	positive_control	reference	membership_f1	1	9	1	
+K04j_DHQase_II		family	positive_control	reference	membership_precision	1	9	1	
+K04j_DHQase_II		family	positive_control	reference	membership_recall	1	9	1	
+K04j_DHQase_II		family	positive_control	reference	orthobench_f	1	9	1	
+K04j_DHQase_II		family	positive_control	reference	skill_membership_f1	1	9	1	
 K01_RPROT_L1	RPROT	control	all_singletons		level_bcubed_f1	0.494359	171	1	
 K01_RPROT_L1	RPROT	control	all_singletons		merge_accuracy_node	0	171	1	
 K01_RPROT_L1	RPROT	control	all_singletons		membership_f1	0	19	1	
@@ -1203,46 +1203,46 @@ K02_trGTPases		control	all_singletons		wf_ortholog_f1	0	47	1
 K02_trGTPases		control	all_singletons		skill_level_bcubed_f1	0	759	1	
 K02_trGTPases		control	all_singletons		skill_merge_accuracy_node	-1	759	1	
 K02_trGTPases		control	all_singletons		skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	all_singletons		membership_f1	0	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	all_singletons		membership_recall	0	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	all_singletons		orthobench_f	0	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	all_singletons		skill_membership_f1	-6	6	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	all_singletons		membership_f1	0	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	all_singletons		membership_recall	0	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	all_singletons		orthobench_f	0	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	all_singletons		skill_membership_f1	-5.33333	16	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	all_singletons		membership_f1	0	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	all_singletons		membership_recall	0	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	all_singletons		orthobench_f	0	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	all_singletons		skill_membership_f1	-4.75	19	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	all_singletons		membership_f1	0	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	all_singletons		membership_recall	0	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	all_singletons		orthobench_f	0	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	all_singletons		skill_membership_f1	-0.842105	8	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	all_singletons		membership_f1	0	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	all_singletons		membership_recall	0	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	all_singletons		orthobench_f	0	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	all_singletons		skill_membership_f1	-1.09091	6	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	all_singletons		membership_f1	0	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	all_singletons		membership_recall	0	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	all_singletons		orthobench_f	0	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	all_singletons		skill_membership_f1	-3.66667	11	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	all_singletons		membership_f1	0	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	all_singletons		membership_recall	0	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	all_singletons		orthobench_f	0	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	all_singletons		skill_membership_f1	-4	14	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	all_singletons		membership_f1	0	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	all_singletons		membership_recall	0	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	all_singletons		orthobench_f	0	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	all_singletons		skill_membership_f1	-14	7	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	all_singletons		membership_f1	0	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	all_singletons		membership_recall	0	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	all_singletons		orthobench_f	0	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	all_singletons		skill_membership_f1	-2.66667	12	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	all_singletons		membership_f1	0	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	all_singletons		membership_recall	0	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	all_singletons		orthobench_f	0	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	all_singletons		skill_membership_f1	-3.6	9	1	
+K04a_LysRS_I		family	all_singletons		membership_f1	0	6	1	
+K04a_LysRS_I		family	all_singletons		membership_recall	0	6	1	
+K04a_LysRS_I		family	all_singletons		orthobench_f	0	6	1	
+K04a_LysRS_I		family	all_singletons		skill_membership_f1	-6	6	1	
+K04b_LysRS_II		family	all_singletons		membership_f1	0	16	1	
+K04b_LysRS_II		family	all_singletons		membership_recall	0	16	1	
+K04b_LysRS_II		family	all_singletons		orthobench_f	0	16	1	
+K04b_LysRS_II		family	all_singletons		skill_membership_f1	-5.33333	16	1	
+K04c_SOD_FeMn		family	all_singletons		membership_f1	0	19	1	
+K04c_SOD_FeMn		family	all_singletons		membership_recall	0	19	1	
+K04c_SOD_FeMn		family	all_singletons		orthobench_f	0	19	1	
+K04c_SOD_FeMn		family	all_singletons		skill_membership_f1	-4.75	19	1	
+K04d_SOD_CuZn		family	all_singletons		membership_f1	0	8	1	
+K04d_SOD_CuZn		family	all_singletons		membership_recall	0	8	1	
+K04d_SOD_CuZn		family	all_singletons		orthobench_f	0	8	1	
+K04d_SOD_CuZn		family	all_singletons		skill_membership_f1	-0.842105	8	1	
+K04e_PGM_BPGdep		family	all_singletons		membership_f1	0	6	1	
+K04e_PGM_BPGdep		family	all_singletons		membership_recall	0	6	1	
+K04e_PGM_BPGdep		family	all_singletons		orthobench_f	0	6	1	
+K04e_PGM_BPGdep		family	all_singletons		skill_membership_f1	-1.09091	6	1	
+K04f_PGM_BPGindep		family	all_singletons		membership_f1	0	11	1	
+K04f_PGM_BPGindep		family	all_singletons		membership_recall	0	11	1	
+K04f_PGM_BPGindep		family	all_singletons		orthobench_f	0	11	1	
+K04f_PGM_BPGindep		family	all_singletons		skill_membership_f1	-3.66667	11	1	
+K04g_SK_Ploop		family	all_singletons		membership_f1	0	14	1	
+K04g_SK_Ploop		family	all_singletons		membership_recall	0	14	1	
+K04g_SK_Ploop		family	all_singletons		orthobench_f	0	14	1	
+K04g_SK_Ploop		family	all_singletons		skill_membership_f1	-4	14	1	
+K04h_SK_GHMP		family	all_singletons		membership_f1	0	7	1	
+K04h_SK_GHMP		family	all_singletons		membership_recall	0	7	1	
+K04h_SK_GHMP		family	all_singletons		orthobench_f	0	7	1	
+K04h_SK_GHMP		family	all_singletons		skill_membership_f1	-14	7	1	
+K04i_DHQase_I		family	all_singletons		membership_f1	0	12	1	
+K04i_DHQase_I		family	all_singletons		membership_recall	0	12	1	
+K04i_DHQase_I		family	all_singletons		orthobench_f	0	12	1	
+K04i_DHQase_I		family	all_singletons		skill_membership_f1	-2.66667	12	1	
+K04j_DHQase_II		family	all_singletons		membership_f1	0	9	1	
+K04j_DHQase_II		family	all_singletons		membership_recall	0	9	1	
+K04j_DHQase_II		family	all_singletons		orthobench_f	0	9	1	
+K04j_DHQase_II		family	all_singletons		skill_membership_f1	-3.6	9	1	
 K01_RPROT_L1	RPROT	control	one_big_hog		level_bcubed_f1	1	171	1	
 K01_RPROT_L1	RPROT	control	one_big_hog		merge_accuracy_node	1	171	1	
 K01_RPROT_L1	RPROT	control	one_big_hog		membership_f1	0.0488432	19	1	
@@ -1860,56 +1860,56 @@ K02_trGTPases		control	one_big_hog		wf_ortholog_f1	0.461053	47	1
 K02_trGTPases		control	one_big_hog		skill_level_bcubed_f1	-0.674711	759	1	
 K02_trGTPases		control	one_big_hog		skill_merge_accuracy_node	0	759	1	
 K02_trGTPases		control	one_big_hog		skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	one_big_hog		membership_f1	0.857143	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	one_big_hog		membership_precision	0.75	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	one_big_hog		membership_recall	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	one_big_hog		orthobench_f	0.714286	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	one_big_hog		skill_membership_f1	0	6	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	one_big_hog		membership_f1	0.842105	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	one_big_hog		membership_precision	0.727273	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	one_big_hog		membership_recall	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	one_big_hog		orthobench_f	0.714286	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	one_big_hog		skill_membership_f1	0	16	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	one_big_hog		membership_f1	0.826087	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	one_big_hog		membership_precision	0.703704	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	one_big_hog		membership_recall	1	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	one_big_hog		orthobench_f	0.692308	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	one_big_hog		skill_membership_f1	0	19	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	one_big_hog		membership_f1	0.457143	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	one_big_hog		membership_precision	0.296296	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	one_big_hog		membership_recall	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	one_big_hog		orthobench_f	0.269231	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	one_big_hog		skill_membership_f1	0	8	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	one_big_hog		membership_f1	0.521739	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	one_big_hog		membership_precision	0.352941	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	one_big_hog		membership_recall	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	one_big_hog		orthobench_f	0.3125	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	one_big_hog		skill_membership_f1	0	6	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	one_big_hog		membership_f1	0.785714	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	one_big_hog		membership_precision	0.647059	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	one_big_hog		membership_recall	1	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	one_big_hog		orthobench_f	0.625	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	one_big_hog		skill_membership_f1	0	11	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	one_big_hog		membership_f1	0.8	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	one_big_hog		membership_precision	0.666667	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	one_big_hog		membership_recall	1	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	one_big_hog		orthobench_f	0.65	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	one_big_hog		skill_membership_f1	0	14	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	one_big_hog		membership_f1	0.933333	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	one_big_hog		membership_precision	0.875	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	one_big_hog		membership_recall	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	one_big_hog		orthobench_f	0.857143	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	one_big_hog		skill_membership_f1	0	7	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	one_big_hog		membership_f1	0.727273	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	one_big_hog		membership_precision	0.571429	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	one_big_hog		membership_recall	1	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	one_big_hog		orthobench_f	0.55	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	one_big_hog		skill_membership_f1	0	12	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	one_big_hog		membership_f1	0.782609	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	one_big_hog		membership_precision	0.642857	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	one_big_hog		membership_recall	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	one_big_hog		orthobench_f	0.615385	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	one_big_hog		skill_membership_f1	0	9	1	
+K04a_LysRS_I		family	one_big_hog		membership_f1	0.857143	6	1	
+K04a_LysRS_I		family	one_big_hog		membership_precision	0.75	6	1	
+K04a_LysRS_I		family	one_big_hog		membership_recall	1	6	1	
+K04a_LysRS_I		family	one_big_hog		orthobench_f	0.714286	6	1	
+K04a_LysRS_I		family	one_big_hog		skill_membership_f1	0	6	1	
+K04b_LysRS_II		family	one_big_hog		membership_f1	0.842105	16	1	
+K04b_LysRS_II		family	one_big_hog		membership_precision	0.727273	16	1	
+K04b_LysRS_II		family	one_big_hog		membership_recall	1	16	1	
+K04b_LysRS_II		family	one_big_hog		orthobench_f	0.714286	16	1	
+K04b_LysRS_II		family	one_big_hog		skill_membership_f1	0	16	1	
+K04c_SOD_FeMn		family	one_big_hog		membership_f1	0.826087	19	1	
+K04c_SOD_FeMn		family	one_big_hog		membership_precision	0.703704	19	1	
+K04c_SOD_FeMn		family	one_big_hog		membership_recall	1	19	1	
+K04c_SOD_FeMn		family	one_big_hog		orthobench_f	0.692308	19	1	
+K04c_SOD_FeMn		family	one_big_hog		skill_membership_f1	0	19	1	
+K04d_SOD_CuZn		family	one_big_hog		membership_f1	0.457143	8	1	
+K04d_SOD_CuZn		family	one_big_hog		membership_precision	0.296296	8	1	
+K04d_SOD_CuZn		family	one_big_hog		membership_recall	1	8	1	
+K04d_SOD_CuZn		family	one_big_hog		orthobench_f	0.269231	8	1	
+K04d_SOD_CuZn		family	one_big_hog		skill_membership_f1	0	8	1	
+K04e_PGM_BPGdep		family	one_big_hog		membership_f1	0.521739	6	1	
+K04e_PGM_BPGdep		family	one_big_hog		membership_precision	0.352941	6	1	
+K04e_PGM_BPGdep		family	one_big_hog		membership_recall	1	6	1	
+K04e_PGM_BPGdep		family	one_big_hog		orthobench_f	0.3125	6	1	
+K04e_PGM_BPGdep		family	one_big_hog		skill_membership_f1	0	6	1	
+K04f_PGM_BPGindep		family	one_big_hog		membership_f1	0.785714	11	1	
+K04f_PGM_BPGindep		family	one_big_hog		membership_precision	0.647059	11	1	
+K04f_PGM_BPGindep		family	one_big_hog		membership_recall	1	11	1	
+K04f_PGM_BPGindep		family	one_big_hog		orthobench_f	0.625	11	1	
+K04f_PGM_BPGindep		family	one_big_hog		skill_membership_f1	0	11	1	
+K04g_SK_Ploop		family	one_big_hog		membership_f1	0.8	14	1	
+K04g_SK_Ploop		family	one_big_hog		membership_precision	0.666667	14	1	
+K04g_SK_Ploop		family	one_big_hog		membership_recall	1	14	1	
+K04g_SK_Ploop		family	one_big_hog		orthobench_f	0.65	14	1	
+K04g_SK_Ploop		family	one_big_hog		skill_membership_f1	0	14	1	
+K04h_SK_GHMP		family	one_big_hog		membership_f1	0.933333	7	1	
+K04h_SK_GHMP		family	one_big_hog		membership_precision	0.875	7	1	
+K04h_SK_GHMP		family	one_big_hog		membership_recall	1	7	1	
+K04h_SK_GHMP		family	one_big_hog		orthobench_f	0.857143	7	1	
+K04h_SK_GHMP		family	one_big_hog		skill_membership_f1	0	7	1	
+K04i_DHQase_I		family	one_big_hog		membership_f1	0.727273	12	1	
+K04i_DHQase_I		family	one_big_hog		membership_precision	0.571429	12	1	
+K04i_DHQase_I		family	one_big_hog		membership_recall	1	12	1	
+K04i_DHQase_I		family	one_big_hog		orthobench_f	0.55	12	1	
+K04i_DHQase_I		family	one_big_hog		skill_membership_f1	0	12	1	
+K04j_DHQase_II		family	one_big_hog		membership_f1	0.782609	9	1	
+K04j_DHQase_II		family	one_big_hog		membership_precision	0.642857	9	1	
+K04j_DHQase_II		family	one_big_hog		membership_recall	1	9	1	
+K04j_DHQase_II		family	one_big_hog		orthobench_f	0.615385	9	1	
+K04j_DHQase_II		family	one_big_hog		skill_membership_f1	0	9	1	
 K01_RPROT_L1	RPROT	control	random_relabel	mean10	level_bcubed_f1	0.507613	171	1	
 K01_RPROT_L1	RPROT	control	random_relabel	mean10	merge_accuracy_node	0.022807	171	1	
 K01_RPROT_L1	RPROT	control	random_relabel	mean10	membership_f1	0.0836228	19	1	
@@ -2527,56 +2527,56 @@ K02_trGTPases		control	random_relabel	mean10	wf_ortholog_f1	0.0439161	47	1
 K02_trGTPases		control	random_relabel	mean10	skill_level_bcubed_f1	-0.00100823	759	1	
 K02_trGTPases		control	random_relabel	mean10	skill_merge_accuracy_node	-0.965917	759	1	
 K02_trGTPases		control	random_relabel	mean10	skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	random_relabel	mean10	membership_f1	0.32117	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	random_relabel	mean10	membership_precision	0.981667	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	random_relabel	mean10	membership_recall	0.194444	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	random_relabel	mean10	orthobench_f	0.0565789	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	random_relabel	mean10	skill_membership_f1	-3.75181	6	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	random_relabel	mean10	membership_f1	0.150516	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	random_relabel	mean10	membership_precision	0.930208	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	random_relabel	mean10	membership_recall	0.0820312	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	random_relabel	mean10	orthobench_f	0.0396656	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	random_relabel	mean10	skill_membership_f1	-4.38006	16	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	random_relabel	mean10	membership_f1	0.134551	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	random_relabel	mean10	membership_precision	0.932895	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	random_relabel	mean10	membership_recall	0.0725762	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	random_relabel	mean10	orthobench_f	0.0403856	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	random_relabel	mean10	skill_membership_f1	-3.97633	19	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	random_relabel	mean10	membership_f1	0.240364	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	random_relabel	mean10	membership_precision	0.840625	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	random_relabel	mean10	membership_recall	0.140625	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	random_relabel	mean10	orthobench_f	0.0320094	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	random_relabel	mean10	skill_membership_f1	-0.399329	8	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	random_relabel	mean10	membership_f1	0.3118	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	random_relabel	mean10	membership_precision	0.905556	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	random_relabel	mean10	membership_recall	0.188889	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	random_relabel	mean10	orthobench_f	0.0492647	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	random_relabel	mean10	skill_membership_f1	-0.438963	6	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	random_relabel	mean10	membership_f1	0.198188	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	random_relabel	mean10	membership_precision	0.948485	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	random_relabel	mean10	membership_recall	0.110744	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	random_relabel	mean10	orthobench_f	0.0418715	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	random_relabel	mean10	skill_membership_f1	-2.74179	11	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	random_relabel	mean10	membership_f1	0.174894	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	random_relabel	mean10	membership_precision	0.919048	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	random_relabel	mean10	membership_recall	0.0969388	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	random_relabel	mean10	orthobench_f	0.0515311	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	random_relabel	mean10	skill_membership_f1	-3.12553	14	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	random_relabel	mean10	membership_f1	0.269057	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	random_relabel	mean10	membership_precision	0.97619	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	random_relabel	mean10	membership_recall	0.156463	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	random_relabel	mean10	orthobench_f	0.0268775	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	random_relabel	mean10	skill_membership_f1	-9.96415	7	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	random_relabel	mean10	membership_f1	0.184821	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	random_relabel	mean10	membership_precision	0.934722	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	random_relabel	mean10	membership_recall	0.102778	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	random_relabel	mean10	orthobench_f	0.0401715	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	random_relabel	mean10	skill_membership_f1	-1.98899	12	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	random_relabel	mean10	membership_f1	0.22636	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	random_relabel	mean10	membership_precision	0.968783	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	random_relabel	mean10	membership_recall	0.128351	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	random_relabel	mean10	orthobench_f	0.032013	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	random_relabel	mean10	skill_membership_f1	-2.55875	9	1	
+K04a_LysRS_I		family	random_relabel	mean10	membership_f1	0.32117	6	1	
+K04a_LysRS_I		family	random_relabel	mean10	membership_precision	0.981667	6	1	
+K04a_LysRS_I		family	random_relabel	mean10	membership_recall	0.194444	6	1	
+K04a_LysRS_I		family	random_relabel	mean10	orthobench_f	0.0565789	6	1	
+K04a_LysRS_I		family	random_relabel	mean10	skill_membership_f1	-3.75181	6	1	
+K04b_LysRS_II		family	random_relabel	mean10	membership_f1	0.150516	16	1	
+K04b_LysRS_II		family	random_relabel	mean10	membership_precision	0.930208	16	1	
+K04b_LysRS_II		family	random_relabel	mean10	membership_recall	0.0820312	16	1	
+K04b_LysRS_II		family	random_relabel	mean10	orthobench_f	0.0396656	16	1	
+K04b_LysRS_II		family	random_relabel	mean10	skill_membership_f1	-4.38006	16	1	
+K04c_SOD_FeMn		family	random_relabel	mean10	membership_f1	0.134551	19	1	
+K04c_SOD_FeMn		family	random_relabel	mean10	membership_precision	0.932895	19	1	
+K04c_SOD_FeMn		family	random_relabel	mean10	membership_recall	0.0725762	19	1	
+K04c_SOD_FeMn		family	random_relabel	mean10	orthobench_f	0.0403856	19	1	
+K04c_SOD_FeMn		family	random_relabel	mean10	skill_membership_f1	-3.97633	19	1	
+K04d_SOD_CuZn		family	random_relabel	mean10	membership_f1	0.240364	8	1	
+K04d_SOD_CuZn		family	random_relabel	mean10	membership_precision	0.840625	8	1	
+K04d_SOD_CuZn		family	random_relabel	mean10	membership_recall	0.140625	8	1	
+K04d_SOD_CuZn		family	random_relabel	mean10	orthobench_f	0.0320094	8	1	
+K04d_SOD_CuZn		family	random_relabel	mean10	skill_membership_f1	-0.399329	8	1	
+K04e_PGM_BPGdep		family	random_relabel	mean10	membership_f1	0.3118	6	1	
+K04e_PGM_BPGdep		family	random_relabel	mean10	membership_precision	0.905556	6	1	
+K04e_PGM_BPGdep		family	random_relabel	mean10	membership_recall	0.188889	6	1	
+K04e_PGM_BPGdep		family	random_relabel	mean10	orthobench_f	0.0492647	6	1	
+K04e_PGM_BPGdep		family	random_relabel	mean10	skill_membership_f1	-0.438963	6	1	
+K04f_PGM_BPGindep		family	random_relabel	mean10	membership_f1	0.198188	11	1	
+K04f_PGM_BPGindep		family	random_relabel	mean10	membership_precision	0.948485	11	1	
+K04f_PGM_BPGindep		family	random_relabel	mean10	membership_recall	0.110744	11	1	
+K04f_PGM_BPGindep		family	random_relabel	mean10	orthobench_f	0.0418715	11	1	
+K04f_PGM_BPGindep		family	random_relabel	mean10	skill_membership_f1	-2.74179	11	1	
+K04g_SK_Ploop		family	random_relabel	mean10	membership_f1	0.174894	14	1	
+K04g_SK_Ploop		family	random_relabel	mean10	membership_precision	0.919048	14	1	
+K04g_SK_Ploop		family	random_relabel	mean10	membership_recall	0.0969388	14	1	
+K04g_SK_Ploop		family	random_relabel	mean10	orthobench_f	0.0515311	14	1	
+K04g_SK_Ploop		family	random_relabel	mean10	skill_membership_f1	-3.12553	14	1	
+K04h_SK_GHMP		family	random_relabel	mean10	membership_f1	0.269057	7	1	
+K04h_SK_GHMP		family	random_relabel	mean10	membership_precision	0.97619	7	1	
+K04h_SK_GHMP		family	random_relabel	mean10	membership_recall	0.156463	7	1	
+K04h_SK_GHMP		family	random_relabel	mean10	orthobench_f	0.0268775	7	1	
+K04h_SK_GHMP		family	random_relabel	mean10	skill_membership_f1	-9.96415	7	1	
+K04i_DHQase_I		family	random_relabel	mean10	membership_f1	0.184821	12	1	
+K04i_DHQase_I		family	random_relabel	mean10	membership_precision	0.934722	12	1	
+K04i_DHQase_I		family	random_relabel	mean10	membership_recall	0.102778	12	1	
+K04i_DHQase_I		family	random_relabel	mean10	orthobench_f	0.0401715	12	1	
+K04i_DHQase_I		family	random_relabel	mean10	skill_membership_f1	-1.98899	12	1	
+K04j_DHQase_II		family	random_relabel	mean10	membership_f1	0.22636	9	1	
+K04j_DHQase_II		family	random_relabel	mean10	membership_precision	0.968783	9	1	
+K04j_DHQase_II		family	random_relabel	mean10	membership_recall	0.128351	9	1	
+K04j_DHQase_II		family	random_relabel	mean10	orthobench_f	0.032013	9	1	
+K04j_DHQase_II		family	random_relabel	mean10	skill_membership_f1	-2.55875	9	1	
 K01_RPROT_L1	RPROT	control	fastoma	default_declared	level_bcubed_f1	1	171	1	
 K01_RPROT_L1	RPROT	control	fastoma	default_declared	merge_accuracy_node	1	171	1	
 K01_RPROT_L1	RPROT	control	fastoma	default_declared	membership_f1	1	19	1	
@@ -3194,56 +3194,56 @@ K02_trGTPases		control	fastoma	default_declared	wf_ortholog_f1	0.656442	47	1
 K02_trGTPases		control	fastoma	default_declared	skill_level_bcubed_f1	0.933489	759	1	
 K02_trGTPases		control	fastoma	default_declared	skill_merge_accuracy_node	-0.033571	759	1	
 K02_trGTPases		control	fastoma	default_declared	skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	fastoma	default_declared	membership_f1	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	fastoma	default_declared	membership_precision	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	fastoma	default_declared	membership_recall	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	fastoma	default_declared	orthobench_f	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	fastoma	default_declared	skill_membership_f1	1	6	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	fastoma	default_declared	membership_f1	0.809302	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	fastoma	default_declared	membership_precision	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	fastoma	default_declared	membership_recall	0.679688	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	fastoma	default_declared	orthobench_f	0.79397	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	fastoma	default_declared	skill_membership_f1	-0.207752	16	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	fastoma	default_declared	membership_f1	1	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	fastoma	default_declared	membership_precision	1	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	fastoma	default_declared	membership_recall	1	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	fastoma	default_declared	orthobench_f	1	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	fastoma	default_declared	skill_membership_f1	1	19	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	fastoma	default_declared	membership_f1	0.933333	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	fastoma	default_declared	membership_precision	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	fastoma	default_declared	membership_recall	0.875	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	fastoma	default_declared	orthobench_f	0.857143	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	fastoma	default_declared	skill_membership_f1	0.877193	8	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	fastoma	default_declared	membership_f1	0.8	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	fastoma	default_declared	membership_precision	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	fastoma	default_declared	membership_recall	0.666667	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	fastoma	default_declared	orthobench_f	0.571429	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	fastoma	default_declared	skill_membership_f1	0.581818	6	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	fastoma	default_declared	membership_f1	0.952381	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	fastoma	default_declared	membership_precision	1	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	fastoma	default_declared	membership_recall	0.909091	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	fastoma	default_declared	orthobench_f	0.9	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	fastoma	default_declared	skill_membership_f1	0.777778	11	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	fastoma	default_declared	membership_f1	0.88685	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	fastoma	default_declared	membership_precision	1	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	fastoma	default_declared	membership_recall	0.796703	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	fastoma	default_declared	orthobench_f	0.840764	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	fastoma	default_declared	skill_membership_f1	0.434251	14	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	fastoma	default_declared	membership_f1	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	fastoma	default_declared	membership_precision	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	fastoma	default_declared	membership_recall	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	fastoma	default_declared	orthobench_f	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	fastoma	default_declared	skill_membership_f1	1	7	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	fastoma	default_declared	membership_f1	0.588235	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	fastoma	default_declared	membership_precision	1	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	fastoma	default_declared	membership_recall	0.416667	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	fastoma	default_declared	orthobench_f	0.428571	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	fastoma	default_declared	skill_membership_f1	-0.509804	12	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	fastoma	default_declared	membership_f1	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	fastoma	default_declared	membership_precision	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	fastoma	default_declared	membership_recall	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	fastoma	default_declared	orthobench_f	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	fastoma	default_declared	skill_membership_f1	1	9	1	
+K04a_LysRS_I		family	fastoma	default_declared	membership_f1	1	6	1	
+K04a_LysRS_I		family	fastoma	default_declared	membership_precision	1	6	1	
+K04a_LysRS_I		family	fastoma	default_declared	membership_recall	1	6	1	
+K04a_LysRS_I		family	fastoma	default_declared	orthobench_f	1	6	1	
+K04a_LysRS_I		family	fastoma	default_declared	skill_membership_f1	1	6	1	
+K04b_LysRS_II		family	fastoma	default_declared	membership_f1	0.809302	16	1	
+K04b_LysRS_II		family	fastoma	default_declared	membership_precision	1	16	1	
+K04b_LysRS_II		family	fastoma	default_declared	membership_recall	0.679688	16	1	
+K04b_LysRS_II		family	fastoma	default_declared	orthobench_f	0.79397	16	1	
+K04b_LysRS_II		family	fastoma	default_declared	skill_membership_f1	-0.207752	16	1	
+K04c_SOD_FeMn		family	fastoma	default_declared	membership_f1	1	19	1	
+K04c_SOD_FeMn		family	fastoma	default_declared	membership_precision	1	19	1	
+K04c_SOD_FeMn		family	fastoma	default_declared	membership_recall	1	19	1	
+K04c_SOD_FeMn		family	fastoma	default_declared	orthobench_f	1	19	1	
+K04c_SOD_FeMn		family	fastoma	default_declared	skill_membership_f1	1	19	1	
+K04d_SOD_CuZn		family	fastoma	default_declared	membership_f1	0.933333	8	1	
+K04d_SOD_CuZn		family	fastoma	default_declared	membership_precision	1	8	1	
+K04d_SOD_CuZn		family	fastoma	default_declared	membership_recall	0.875	8	1	
+K04d_SOD_CuZn		family	fastoma	default_declared	orthobench_f	0.857143	8	1	
+K04d_SOD_CuZn		family	fastoma	default_declared	skill_membership_f1	0.877193	8	1	
+K04e_PGM_BPGdep		family	fastoma	default_declared	membership_f1	0.8	6	1	
+K04e_PGM_BPGdep		family	fastoma	default_declared	membership_precision	1	6	1	
+K04e_PGM_BPGdep		family	fastoma	default_declared	membership_recall	0.666667	6	1	
+K04e_PGM_BPGdep		family	fastoma	default_declared	orthobench_f	0.571429	6	1	
+K04e_PGM_BPGdep		family	fastoma	default_declared	skill_membership_f1	0.581818	6	1	
+K04f_PGM_BPGindep		family	fastoma	default_declared	membership_f1	0.952381	11	1	
+K04f_PGM_BPGindep		family	fastoma	default_declared	membership_precision	1	11	1	
+K04f_PGM_BPGindep		family	fastoma	default_declared	membership_recall	0.909091	11	1	
+K04f_PGM_BPGindep		family	fastoma	default_declared	orthobench_f	0.9	11	1	
+K04f_PGM_BPGindep		family	fastoma	default_declared	skill_membership_f1	0.777778	11	1	
+K04g_SK_Ploop		family	fastoma	default_declared	membership_f1	0.88685	14	1	
+K04g_SK_Ploop		family	fastoma	default_declared	membership_precision	1	14	1	
+K04g_SK_Ploop		family	fastoma	default_declared	membership_recall	0.796703	14	1	
+K04g_SK_Ploop		family	fastoma	default_declared	orthobench_f	0.840764	14	1	
+K04g_SK_Ploop		family	fastoma	default_declared	skill_membership_f1	0.434251	14	1	
+K04h_SK_GHMP		family	fastoma	default_declared	membership_f1	1	7	1	
+K04h_SK_GHMP		family	fastoma	default_declared	membership_precision	1	7	1	
+K04h_SK_GHMP		family	fastoma	default_declared	membership_recall	1	7	1	
+K04h_SK_GHMP		family	fastoma	default_declared	orthobench_f	1	7	1	
+K04h_SK_GHMP		family	fastoma	default_declared	skill_membership_f1	1	7	1	
+K04i_DHQase_I		family	fastoma	default_declared	membership_f1	0.588235	12	1	
+K04i_DHQase_I		family	fastoma	default_declared	membership_precision	1	12	1	
+K04i_DHQase_I		family	fastoma	default_declared	membership_recall	0.416667	12	1	
+K04i_DHQase_I		family	fastoma	default_declared	orthobench_f	0.428571	12	1	
+K04i_DHQase_I		family	fastoma	default_declared	skill_membership_f1	-0.509804	12	1	
+K04j_DHQase_II		family	fastoma	default_declared	membership_f1	1	9	1	
+K04j_DHQase_II		family	fastoma	default_declared	membership_precision	1	9	1	
+K04j_DHQase_II		family	fastoma	default_declared	membership_recall	1	9	1	
+K04j_DHQase_II		family	fastoma	default_declared	orthobench_f	1	9	1	
+K04j_DHQase_II		family	fastoma	default_declared	skill_membership_f1	1	9	1	
 K01_RPROT_L1	RPROT	control	fastoma	default_late	level_bcubed_f1	1	171	1	
 K01_RPROT_L1	RPROT	control	fastoma	default_late	merge_accuracy_node	1	171	1	
 K01_RPROT_L1	RPROT	control	fastoma	default_late	membership_f1	1	19	1	
@@ -3861,56 +3861,56 @@ K02_trGTPases		control	fastoma	default_late	wf_ortholog_f1	0.656442	47	1
 K02_trGTPases		control	fastoma	default_late	skill_level_bcubed_f1	0.933489	759	1	
 K02_trGTPases		control	fastoma	default_late	skill_merge_accuracy_node	-0.033571	759	1	
 K02_trGTPases		control	fastoma	default_late	skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	fastoma	default_late	membership_f1	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	fastoma	default_late	membership_precision	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	fastoma	default_late	membership_recall	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	fastoma	default_late	orthobench_f	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	fastoma	default_late	skill_membership_f1	1	6	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	fastoma	default_late	membership_f1	0.809302	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	fastoma	default_late	membership_precision	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	fastoma	default_late	membership_recall	0.679688	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	fastoma	default_late	orthobench_f	0.79397	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	fastoma	default_late	skill_membership_f1	-0.207752	16	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	fastoma	default_late	membership_f1	1	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	fastoma	default_late	membership_precision	1	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	fastoma	default_late	membership_recall	1	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	fastoma	default_late	orthobench_f	1	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	fastoma	default_late	skill_membership_f1	1	19	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	fastoma	default_late	membership_f1	0.933333	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	fastoma	default_late	membership_precision	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	fastoma	default_late	membership_recall	0.875	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	fastoma	default_late	orthobench_f	0.857143	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	fastoma	default_late	skill_membership_f1	0.877193	8	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	fastoma	default_late	membership_f1	0.8	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	fastoma	default_late	membership_precision	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	fastoma	default_late	membership_recall	0.666667	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	fastoma	default_late	orthobench_f	0.571429	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	fastoma	default_late	skill_membership_f1	0.581818	6	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	fastoma	default_late	membership_f1	0.952381	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	fastoma	default_late	membership_precision	1	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	fastoma	default_late	membership_recall	0.909091	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	fastoma	default_late	orthobench_f	0.9	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	fastoma	default_late	skill_membership_f1	0.777778	11	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	fastoma	default_late	membership_f1	0.88685	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	fastoma	default_late	membership_precision	1	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	fastoma	default_late	membership_recall	0.796703	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	fastoma	default_late	orthobench_f	0.840764	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	fastoma	default_late	skill_membership_f1	0.434251	14	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	fastoma	default_late	membership_f1	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	fastoma	default_late	membership_precision	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	fastoma	default_late	membership_recall	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	fastoma	default_late	orthobench_f	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	fastoma	default_late	skill_membership_f1	1	7	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	fastoma	default_late	membership_f1	0.588235	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	fastoma	default_late	membership_precision	1	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	fastoma	default_late	membership_recall	0.416667	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	fastoma	default_late	orthobench_f	0.428571	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	fastoma	default_late	skill_membership_f1	-0.509804	12	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	fastoma	default_late	membership_f1	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	fastoma	default_late	membership_precision	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	fastoma	default_late	membership_recall	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	fastoma	default_late	orthobench_f	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	fastoma	default_late	skill_membership_f1	1	9	1	
+K04a_LysRS_I		family	fastoma	default_late	membership_f1	1	6	1	
+K04a_LysRS_I		family	fastoma	default_late	membership_precision	1	6	1	
+K04a_LysRS_I		family	fastoma	default_late	membership_recall	1	6	1	
+K04a_LysRS_I		family	fastoma	default_late	orthobench_f	1	6	1	
+K04a_LysRS_I		family	fastoma	default_late	skill_membership_f1	1	6	1	
+K04b_LysRS_II		family	fastoma	default_late	membership_f1	0.809302	16	1	
+K04b_LysRS_II		family	fastoma	default_late	membership_precision	1	16	1	
+K04b_LysRS_II		family	fastoma	default_late	membership_recall	0.679688	16	1	
+K04b_LysRS_II		family	fastoma	default_late	orthobench_f	0.79397	16	1	
+K04b_LysRS_II		family	fastoma	default_late	skill_membership_f1	-0.207752	16	1	
+K04c_SOD_FeMn		family	fastoma	default_late	membership_f1	1	19	1	
+K04c_SOD_FeMn		family	fastoma	default_late	membership_precision	1	19	1	
+K04c_SOD_FeMn		family	fastoma	default_late	membership_recall	1	19	1	
+K04c_SOD_FeMn		family	fastoma	default_late	orthobench_f	1	19	1	
+K04c_SOD_FeMn		family	fastoma	default_late	skill_membership_f1	1	19	1	
+K04d_SOD_CuZn		family	fastoma	default_late	membership_f1	0.933333	8	1	
+K04d_SOD_CuZn		family	fastoma	default_late	membership_precision	1	8	1	
+K04d_SOD_CuZn		family	fastoma	default_late	membership_recall	0.875	8	1	
+K04d_SOD_CuZn		family	fastoma	default_late	orthobench_f	0.857143	8	1	
+K04d_SOD_CuZn		family	fastoma	default_late	skill_membership_f1	0.877193	8	1	
+K04e_PGM_BPGdep		family	fastoma	default_late	membership_f1	0.8	6	1	
+K04e_PGM_BPGdep		family	fastoma	default_late	membership_precision	1	6	1	
+K04e_PGM_BPGdep		family	fastoma	default_late	membership_recall	0.666667	6	1	
+K04e_PGM_BPGdep		family	fastoma	default_late	orthobench_f	0.571429	6	1	
+K04e_PGM_BPGdep		family	fastoma	default_late	skill_membership_f1	0.581818	6	1	
+K04f_PGM_BPGindep		family	fastoma	default_late	membership_f1	0.952381	11	1	
+K04f_PGM_BPGindep		family	fastoma	default_late	membership_precision	1	11	1	
+K04f_PGM_BPGindep		family	fastoma	default_late	membership_recall	0.909091	11	1	
+K04f_PGM_BPGindep		family	fastoma	default_late	orthobench_f	0.9	11	1	
+K04f_PGM_BPGindep		family	fastoma	default_late	skill_membership_f1	0.777778	11	1	
+K04g_SK_Ploop		family	fastoma	default_late	membership_f1	0.88685	14	1	
+K04g_SK_Ploop		family	fastoma	default_late	membership_precision	1	14	1	
+K04g_SK_Ploop		family	fastoma	default_late	membership_recall	0.796703	14	1	
+K04g_SK_Ploop		family	fastoma	default_late	orthobench_f	0.840764	14	1	
+K04g_SK_Ploop		family	fastoma	default_late	skill_membership_f1	0.434251	14	1	
+K04h_SK_GHMP		family	fastoma	default_late	membership_f1	1	7	1	
+K04h_SK_GHMP		family	fastoma	default_late	membership_precision	1	7	1	
+K04h_SK_GHMP		family	fastoma	default_late	membership_recall	1	7	1	
+K04h_SK_GHMP		family	fastoma	default_late	orthobench_f	1	7	1	
+K04h_SK_GHMP		family	fastoma	default_late	skill_membership_f1	1	7	1	
+K04i_DHQase_I		family	fastoma	default_late	membership_f1	0.588235	12	1	
+K04i_DHQase_I		family	fastoma	default_late	membership_precision	1	12	1	
+K04i_DHQase_I		family	fastoma	default_late	membership_recall	0.416667	12	1	
+K04i_DHQase_I		family	fastoma	default_late	orthobench_f	0.428571	12	1	
+K04i_DHQase_I		family	fastoma	default_late	skill_membership_f1	-0.509804	12	1	
+K04j_DHQase_II		family	fastoma	default_late	membership_f1	1	9	1	
+K04j_DHQase_II		family	fastoma	default_late	membership_precision	1	9	1	
+K04j_DHQase_II		family	fastoma	default_late	membership_recall	1	9	1	
+K04j_DHQase_II		family	fastoma	default_late	orthobench_f	1	9	1	
+K04j_DHQase_II		family	fastoma	default_late	skill_membership_f1	1	9	1	
 K01_RPROT_L1	RPROT	control	of_flat	default	level_bcubed_f1	1	171	1	
 K01_RPROT_L1	RPROT	control	of_flat	default	merge_accuracy_node	1	171	1	
 K01_RPROT_L1	RPROT	control	of_flat	default	membership_f1	1	19	1	
@@ -4528,56 +4528,56 @@ K02_trGTPases		control	of_flat	default	wf_ortholog_f1	0.752137	47	1
 K02_trGTPases		control	of_flat	default	skill_level_bcubed_f1	0.948613	759	1	
 K02_trGTPases		control	of_flat	default	skill_merge_accuracy_node	0.431373	759	1	
 K02_trGTPases		control	of_flat	default	skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	of_flat	default	membership_f1	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	of_flat	default	membership_precision	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	of_flat	default	membership_recall	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	of_flat	default	orthobench_f	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	of_flat	default	skill_membership_f1	1	6	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	of_flat	default	membership_f1	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	of_flat	default	membership_precision	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	of_flat	default	membership_recall	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	of_flat	default	orthobench_f	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	of_flat	default	skill_membership_f1	1	16	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	of_flat	default	membership_f1	0.654167	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	of_flat	default	membership_precision	1	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	of_flat	default	membership_recall	0.486068	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	of_flat	default	orthobench_f	0.580913	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	of_flat	default	skill_membership_f1	-0.988542	19	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	of_flat	default	membership_f1	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	of_flat	default	membership_precision	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	of_flat	default	membership_recall	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	of_flat	default	orthobench_f	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	of_flat	default	skill_membership_f1	1	8	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	of_flat	default	membership_f1	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	of_flat	default	membership_precision	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	of_flat	default	membership_recall	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	of_flat	default	orthobench_f	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	of_flat	default	skill_membership_f1	1	6	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	of_flat	default	membership_f1	0.952381	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	of_flat	default	membership_precision	1	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	of_flat	default	membership_recall	0.909091	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	of_flat	default	orthobench_f	0.9	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	of_flat	default	skill_membership_f1	0.777778	11	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	of_flat	default	membership_f1	0.962963	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	of_flat	default	membership_precision	1	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	of_flat	default	membership_recall	0.928571	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	of_flat	default	orthobench_f	0.923077	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	of_flat	default	skill_membership_f1	0.814815	14	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	of_flat	default	membership_f1	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	of_flat	default	membership_precision	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	of_flat	default	membership_recall	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	of_flat	default	orthobench_f	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	of_flat	default	skill_membership_f1	1	7	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	of_flat	default	membership_f1	0.917293	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	of_flat	default	membership_precision	1	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	of_flat	default	membership_recall	0.847222	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	of_flat	default	orthobench_f	0.909091	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	of_flat	default	skill_membership_f1	0.696742	12	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	of_flat	default	membership_f1	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	of_flat	default	membership_precision	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	of_flat	default	membership_recall	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	of_flat	default	orthobench_f	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	of_flat	default	skill_membership_f1	1	9	1	
+K04a_LysRS_I		family	of_flat	default	membership_f1	1	6	1	
+K04a_LysRS_I		family	of_flat	default	membership_precision	1	6	1	
+K04a_LysRS_I		family	of_flat	default	membership_recall	1	6	1	
+K04a_LysRS_I		family	of_flat	default	orthobench_f	1	6	1	
+K04a_LysRS_I		family	of_flat	default	skill_membership_f1	1	6	1	
+K04b_LysRS_II		family	of_flat	default	membership_f1	1	16	1	
+K04b_LysRS_II		family	of_flat	default	membership_precision	1	16	1	
+K04b_LysRS_II		family	of_flat	default	membership_recall	1	16	1	
+K04b_LysRS_II		family	of_flat	default	orthobench_f	1	16	1	
+K04b_LysRS_II		family	of_flat	default	skill_membership_f1	1	16	1	
+K04c_SOD_FeMn		family	of_flat	default	membership_f1	0.654167	19	1	
+K04c_SOD_FeMn		family	of_flat	default	membership_precision	1	19	1	
+K04c_SOD_FeMn		family	of_flat	default	membership_recall	0.486068	19	1	
+K04c_SOD_FeMn		family	of_flat	default	orthobench_f	0.580913	19	1	
+K04c_SOD_FeMn		family	of_flat	default	skill_membership_f1	-0.988542	19	1	
+K04d_SOD_CuZn		family	of_flat	default	membership_f1	1	8	1	
+K04d_SOD_CuZn		family	of_flat	default	membership_precision	1	8	1	
+K04d_SOD_CuZn		family	of_flat	default	membership_recall	1	8	1	
+K04d_SOD_CuZn		family	of_flat	default	orthobench_f	1	8	1	
+K04d_SOD_CuZn		family	of_flat	default	skill_membership_f1	1	8	1	
+K04e_PGM_BPGdep		family	of_flat	default	membership_f1	1	6	1	
+K04e_PGM_BPGdep		family	of_flat	default	membership_precision	1	6	1	
+K04e_PGM_BPGdep		family	of_flat	default	membership_recall	1	6	1	
+K04e_PGM_BPGdep		family	of_flat	default	orthobench_f	1	6	1	
+K04e_PGM_BPGdep		family	of_flat	default	skill_membership_f1	1	6	1	
+K04f_PGM_BPGindep		family	of_flat	default	membership_f1	0.952381	11	1	
+K04f_PGM_BPGindep		family	of_flat	default	membership_precision	1	11	1	
+K04f_PGM_BPGindep		family	of_flat	default	membership_recall	0.909091	11	1	
+K04f_PGM_BPGindep		family	of_flat	default	orthobench_f	0.9	11	1	
+K04f_PGM_BPGindep		family	of_flat	default	skill_membership_f1	0.777778	11	1	
+K04g_SK_Ploop		family	of_flat	default	membership_f1	0.962963	14	1	
+K04g_SK_Ploop		family	of_flat	default	membership_precision	1	14	1	
+K04g_SK_Ploop		family	of_flat	default	membership_recall	0.928571	14	1	
+K04g_SK_Ploop		family	of_flat	default	orthobench_f	0.923077	14	1	
+K04g_SK_Ploop		family	of_flat	default	skill_membership_f1	0.814815	14	1	
+K04h_SK_GHMP		family	of_flat	default	membership_f1	1	7	1	
+K04h_SK_GHMP		family	of_flat	default	membership_precision	1	7	1	
+K04h_SK_GHMP		family	of_flat	default	membership_recall	1	7	1	
+K04h_SK_GHMP		family	of_flat	default	orthobench_f	1	7	1	
+K04h_SK_GHMP		family	of_flat	default	skill_membership_f1	1	7	1	
+K04i_DHQase_I		family	of_flat	default	membership_f1	0.917293	12	1	
+K04i_DHQase_I		family	of_flat	default	membership_precision	1	12	1	
+K04i_DHQase_I		family	of_flat	default	membership_recall	0.847222	12	1	
+K04i_DHQase_I		family	of_flat	default	orthobench_f	0.909091	12	1	
+K04i_DHQase_I		family	of_flat	default	skill_membership_f1	0.696742	12	1	
+K04j_DHQase_II		family	of_flat	default	membership_f1	1	9	1	
+K04j_DHQase_II		family	of_flat	default	membership_precision	1	9	1	
+K04j_DHQase_II		family	of_flat	default	membership_recall	1	9	1	
+K04j_DHQase_II		family	of_flat	default	orthobench_f	1	9	1	
+K04j_DHQase_II		family	of_flat	default	skill_membership_f1	1	9	1	
 K01_RPROT_L1	RPROT	control	of_flat	dendroblast	level_bcubed_f1	1	171	1	
 K01_RPROT_L1	RPROT	control	of_flat	dendroblast	merge_accuracy_node	1	171	1	
 K01_RPROT_L1	RPROT	control	of_flat	dendroblast	membership_f1	1	19	1	
@@ -5195,56 +5195,56 @@ K02_trGTPases		control	of_flat	dendroblast	wf_ortholog_f1	0.786704	47	1
 K02_trGTPases		control	of_flat	dendroblast	skill_level_bcubed_f1	0.98227	759	1	
 K02_trGTPases		control	of_flat	dendroblast	skill_merge_accuracy_node	0.496732	759	1	
 K02_trGTPases		control	of_flat	dendroblast	skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_f1	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_precision	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_recall	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	of_flat	dendroblast	orthobench_f	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	of_flat	dendroblast	skill_membership_f1	1	6	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_f1	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_precision	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_recall	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	of_flat	dendroblast	orthobench_f	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	of_flat	dendroblast	skill_membership_f1	1	16	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_f1	0.694656	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_precision	1	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_recall	0.532164	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	of_flat	dendroblast	orthobench_f	0.648221	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	of_flat	dendroblast	skill_membership_f1	-0.755725	19	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_f1	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_precision	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_recall	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	of_flat	dendroblast	orthobench_f	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	of_flat	dendroblast	skill_membership_f1	1	8	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_f1	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_precision	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_recall	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	of_flat	dendroblast	orthobench_f	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	of_flat	dendroblast	skill_membership_f1	1	6	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_f1	0.952381	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_precision	1	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_recall	0.909091	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	of_flat	dendroblast	orthobench_f	0.9	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	of_flat	dendroblast	skill_membership_f1	0.777778	11	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_f1	1	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_precision	1	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_recall	1	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	of_flat	dendroblast	orthobench_f	1	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	of_flat	dendroblast	skill_membership_f1	1	14	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_f1	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_precision	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_recall	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	of_flat	dendroblast	orthobench_f	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	of_flat	dendroblast	skill_membership_f1	1	7	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_f1	0.917293	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_precision	1	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_recall	0.847222	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	of_flat	dendroblast	orthobench_f	0.909091	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	of_flat	dendroblast	skill_membership_f1	0.696742	12	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_f1	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_precision	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	of_flat	dendroblast	membership_recall	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	of_flat	dendroblast	orthobench_f	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	of_flat	dendroblast	skill_membership_f1	1	9	1	
+K04a_LysRS_I		family	of_flat	dendroblast	membership_f1	1	6	1	
+K04a_LysRS_I		family	of_flat	dendroblast	membership_precision	1	6	1	
+K04a_LysRS_I		family	of_flat	dendroblast	membership_recall	1	6	1	
+K04a_LysRS_I		family	of_flat	dendroblast	orthobench_f	1	6	1	
+K04a_LysRS_I		family	of_flat	dendroblast	skill_membership_f1	1	6	1	
+K04b_LysRS_II		family	of_flat	dendroblast	membership_f1	1	16	1	
+K04b_LysRS_II		family	of_flat	dendroblast	membership_precision	1	16	1	
+K04b_LysRS_II		family	of_flat	dendroblast	membership_recall	1	16	1	
+K04b_LysRS_II		family	of_flat	dendroblast	orthobench_f	1	16	1	
+K04b_LysRS_II		family	of_flat	dendroblast	skill_membership_f1	1	16	1	
+K04c_SOD_FeMn		family	of_flat	dendroblast	membership_f1	0.694656	19	1	
+K04c_SOD_FeMn		family	of_flat	dendroblast	membership_precision	1	19	1	
+K04c_SOD_FeMn		family	of_flat	dendroblast	membership_recall	0.532164	19	1	
+K04c_SOD_FeMn		family	of_flat	dendroblast	orthobench_f	0.648221	19	1	
+K04c_SOD_FeMn		family	of_flat	dendroblast	skill_membership_f1	-0.755725	19	1	
+K04d_SOD_CuZn		family	of_flat	dendroblast	membership_f1	1	8	1	
+K04d_SOD_CuZn		family	of_flat	dendroblast	membership_precision	1	8	1	
+K04d_SOD_CuZn		family	of_flat	dendroblast	membership_recall	1	8	1	
+K04d_SOD_CuZn		family	of_flat	dendroblast	orthobench_f	1	8	1	
+K04d_SOD_CuZn		family	of_flat	dendroblast	skill_membership_f1	1	8	1	
+K04e_PGM_BPGdep		family	of_flat	dendroblast	membership_f1	1	6	1	
+K04e_PGM_BPGdep		family	of_flat	dendroblast	membership_precision	1	6	1	
+K04e_PGM_BPGdep		family	of_flat	dendroblast	membership_recall	1	6	1	
+K04e_PGM_BPGdep		family	of_flat	dendroblast	orthobench_f	1	6	1	
+K04e_PGM_BPGdep		family	of_flat	dendroblast	skill_membership_f1	1	6	1	
+K04f_PGM_BPGindep		family	of_flat	dendroblast	membership_f1	0.952381	11	1	
+K04f_PGM_BPGindep		family	of_flat	dendroblast	membership_precision	1	11	1	
+K04f_PGM_BPGindep		family	of_flat	dendroblast	membership_recall	0.909091	11	1	
+K04f_PGM_BPGindep		family	of_flat	dendroblast	orthobench_f	0.9	11	1	
+K04f_PGM_BPGindep		family	of_flat	dendroblast	skill_membership_f1	0.777778	11	1	
+K04g_SK_Ploop		family	of_flat	dendroblast	membership_f1	1	14	1	
+K04g_SK_Ploop		family	of_flat	dendroblast	membership_precision	1	14	1	
+K04g_SK_Ploop		family	of_flat	dendroblast	membership_recall	1	14	1	
+K04g_SK_Ploop		family	of_flat	dendroblast	orthobench_f	1	14	1	
+K04g_SK_Ploop		family	of_flat	dendroblast	skill_membership_f1	1	14	1	
+K04h_SK_GHMP		family	of_flat	dendroblast	membership_f1	1	7	1	
+K04h_SK_GHMP		family	of_flat	dendroblast	membership_precision	1	7	1	
+K04h_SK_GHMP		family	of_flat	dendroblast	membership_recall	1	7	1	
+K04h_SK_GHMP		family	of_flat	dendroblast	orthobench_f	1	7	1	
+K04h_SK_GHMP		family	of_flat	dendroblast	skill_membership_f1	1	7	1	
+K04i_DHQase_I		family	of_flat	dendroblast	membership_f1	0.917293	12	1	
+K04i_DHQase_I		family	of_flat	dendroblast	membership_precision	1	12	1	
+K04i_DHQase_I		family	of_flat	dendroblast	membership_recall	0.847222	12	1	
+K04i_DHQase_I		family	of_flat	dendroblast	orthobench_f	0.909091	12	1	
+K04i_DHQase_I		family	of_flat	dendroblast	skill_membership_f1	0.696742	12	1	
+K04j_DHQase_II		family	of_flat	dendroblast	membership_f1	1	9	1	
+K04j_DHQase_II		family	of_flat	dendroblast	membership_precision	1	9	1	
+K04j_DHQase_II		family	of_flat	dendroblast	membership_recall	1	9	1	
+K04j_DHQase_II		family	of_flat	dendroblast	orthobench_f	1	9	1	
+K04j_DHQase_II		family	of_flat	dendroblast	skill_membership_f1	1	9	1	
 K01_RPROT_L1	RPROT	control	orthofinder	default	level_bcubed_f1	1	171	1	
 K01_RPROT_L1	RPROT	control	orthofinder	default	merge_accuracy_node	1	171	1	
 K01_RPROT_L1	RPROT	control	orthofinder	default	membership_f1	1	19	1	
@@ -5862,56 +5862,56 @@ K02_trGTPases		control	orthofinder	default	wf_ortholog_f1	0.737752	47	1
 K02_trGTPases		control	orthofinder	default	skill_level_bcubed_f1	0.873018	759	1	
 K02_trGTPases		control	orthofinder	default	skill_merge_accuracy_node	0.370766	759	1	
 K02_trGTPases		control	orthofinder	default	skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	orthofinder	default	membership_f1	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	orthofinder	default	membership_precision	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	orthofinder	default	membership_recall	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	orthofinder	default	orthobench_f	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	orthofinder	default	skill_membership_f1	1	6	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	orthofinder	default	membership_f1	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	orthofinder	default	membership_precision	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	orthofinder	default	membership_recall	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	orthofinder	default	orthobench_f	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	orthofinder	default	skill_membership_f1	1	16	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	orthofinder	default	membership_f1	0.654167	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	orthofinder	default	membership_precision	1	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	orthofinder	default	membership_recall	0.486068	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	orthofinder	default	orthobench_f	0.580913	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	orthofinder	default	skill_membership_f1	-0.988542	19	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	orthofinder	default	membership_f1	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	orthofinder	default	membership_precision	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	orthofinder	default	membership_recall	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	orthofinder	default	orthobench_f	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	orthofinder	default	skill_membership_f1	1	8	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	orthofinder	default	membership_f1	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	orthofinder	default	membership_precision	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	orthofinder	default	membership_recall	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	orthofinder	default	orthobench_f	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	orthofinder	default	skill_membership_f1	1	6	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	orthofinder	default	membership_f1	0.952381	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	orthofinder	default	membership_precision	1	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	orthofinder	default	membership_recall	0.909091	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	orthofinder	default	orthobench_f	0.9	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	orthofinder	default	skill_membership_f1	0.777778	11	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	orthofinder	default	membership_f1	0.962963	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	orthofinder	default	membership_precision	1	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	orthofinder	default	membership_recall	0.928571	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	orthofinder	default	orthobench_f	0.923077	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	orthofinder	default	skill_membership_f1	0.814815	14	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	orthofinder	default	membership_f1	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	orthofinder	default	membership_precision	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	orthofinder	default	membership_recall	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	orthofinder	default	orthobench_f	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	orthofinder	default	skill_membership_f1	1	7	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	orthofinder	default	membership_f1	0.917293	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	orthofinder	default	membership_precision	1	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	orthofinder	default	membership_recall	0.847222	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	orthofinder	default	orthobench_f	0.909091	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	orthofinder	default	skill_membership_f1	0.696742	12	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	orthofinder	default	membership_f1	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	orthofinder	default	membership_precision	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	orthofinder	default	membership_recall	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	orthofinder	default	orthobench_f	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	orthofinder	default	skill_membership_f1	1	9	1	
+K04a_LysRS_I		family	orthofinder	default	membership_f1	1	6	1	
+K04a_LysRS_I		family	orthofinder	default	membership_precision	1	6	1	
+K04a_LysRS_I		family	orthofinder	default	membership_recall	1	6	1	
+K04a_LysRS_I		family	orthofinder	default	orthobench_f	1	6	1	
+K04a_LysRS_I		family	orthofinder	default	skill_membership_f1	1	6	1	
+K04b_LysRS_II		family	orthofinder	default	membership_f1	1	16	1	
+K04b_LysRS_II		family	orthofinder	default	membership_precision	1	16	1	
+K04b_LysRS_II		family	orthofinder	default	membership_recall	1	16	1	
+K04b_LysRS_II		family	orthofinder	default	orthobench_f	1	16	1	
+K04b_LysRS_II		family	orthofinder	default	skill_membership_f1	1	16	1	
+K04c_SOD_FeMn		family	orthofinder	default	membership_f1	0.654167	19	1	
+K04c_SOD_FeMn		family	orthofinder	default	membership_precision	1	19	1	
+K04c_SOD_FeMn		family	orthofinder	default	membership_recall	0.486068	19	1	
+K04c_SOD_FeMn		family	orthofinder	default	orthobench_f	0.580913	19	1	
+K04c_SOD_FeMn		family	orthofinder	default	skill_membership_f1	-0.988542	19	1	
+K04d_SOD_CuZn		family	orthofinder	default	membership_f1	1	8	1	
+K04d_SOD_CuZn		family	orthofinder	default	membership_precision	1	8	1	
+K04d_SOD_CuZn		family	orthofinder	default	membership_recall	1	8	1	
+K04d_SOD_CuZn		family	orthofinder	default	orthobench_f	1	8	1	
+K04d_SOD_CuZn		family	orthofinder	default	skill_membership_f1	1	8	1	
+K04e_PGM_BPGdep		family	orthofinder	default	membership_f1	1	6	1	
+K04e_PGM_BPGdep		family	orthofinder	default	membership_precision	1	6	1	
+K04e_PGM_BPGdep		family	orthofinder	default	membership_recall	1	6	1	
+K04e_PGM_BPGdep		family	orthofinder	default	orthobench_f	1	6	1	
+K04e_PGM_BPGdep		family	orthofinder	default	skill_membership_f1	1	6	1	
+K04f_PGM_BPGindep		family	orthofinder	default	membership_f1	0.952381	11	1	
+K04f_PGM_BPGindep		family	orthofinder	default	membership_precision	1	11	1	
+K04f_PGM_BPGindep		family	orthofinder	default	membership_recall	0.909091	11	1	
+K04f_PGM_BPGindep		family	orthofinder	default	orthobench_f	0.9	11	1	
+K04f_PGM_BPGindep		family	orthofinder	default	skill_membership_f1	0.777778	11	1	
+K04g_SK_Ploop		family	orthofinder	default	membership_f1	0.962963	14	1	
+K04g_SK_Ploop		family	orthofinder	default	membership_precision	1	14	1	
+K04g_SK_Ploop		family	orthofinder	default	membership_recall	0.928571	14	1	
+K04g_SK_Ploop		family	orthofinder	default	orthobench_f	0.923077	14	1	
+K04g_SK_Ploop		family	orthofinder	default	skill_membership_f1	0.814815	14	1	
+K04h_SK_GHMP		family	orthofinder	default	membership_f1	1	7	1	
+K04h_SK_GHMP		family	orthofinder	default	membership_precision	1	7	1	
+K04h_SK_GHMP		family	orthofinder	default	membership_recall	1	7	1	
+K04h_SK_GHMP		family	orthofinder	default	orthobench_f	1	7	1	
+K04h_SK_GHMP		family	orthofinder	default	skill_membership_f1	1	7	1	
+K04i_DHQase_I		family	orthofinder	default	membership_f1	0.917293	12	1	
+K04i_DHQase_I		family	orthofinder	default	membership_precision	1	12	1	
+K04i_DHQase_I		family	orthofinder	default	membership_recall	0.847222	12	1	
+K04i_DHQase_I		family	orthofinder	default	orthobench_f	0.909091	12	1	
+K04i_DHQase_I		family	orthofinder	default	skill_membership_f1	0.696742	12	1	
+K04j_DHQase_II		family	orthofinder	default	membership_f1	1	9	1	
+K04j_DHQase_II		family	orthofinder	default	membership_precision	1	9	1	
+K04j_DHQase_II		family	orthofinder	default	membership_recall	1	9	1	
+K04j_DHQase_II		family	orthofinder	default	orthobench_f	1	9	1	
+K04j_DHQase_II		family	orthofinder	default	skill_membership_f1	1	9	1	
 K01_RPROT_L1	RPROT	control	orthofinder	dendroblast	level_bcubed_f1	1	171	1	
 K01_RPROT_L1	RPROT	control	orthofinder	dendroblast	merge_accuracy_node	1	171	1	
 K01_RPROT_L1	RPROT	control	orthofinder	dendroblast	membership_f1	1	19	1	
@@ -6529,53 +6529,53 @@ K02_trGTPases		control	orthofinder	dendroblast	wf_ortholog_f1	0.773109	47	1
 K02_trGTPases		control	orthofinder	dendroblast	skill_level_bcubed_f1	0.906931	759	1	
 K02_trGTPases		control	orthofinder	dendroblast	skill_merge_accuracy_node	0.436126	759	1	
 K02_trGTPases		control	orthofinder	dendroblast	skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_f1	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_precision	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_recall	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	orthofinder	dendroblast	orthobench_f	1	6	1	
-K04a_LysRS_I	K04_isofunctional_decoys	family	orthofinder	dendroblast	skill_membership_f1	1	6	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_f1	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_precision	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_recall	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	orthofinder	dendroblast	orthobench_f	1	16	1	
-K04b_LysRS_II	K04_isofunctional_decoys	family	orthofinder	dendroblast	skill_membership_f1	1	16	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_f1	0.694656	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_precision	1	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_recall	0.532164	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	orthofinder	dendroblast	orthobench_f	0.648221	19	1	
-K04c_SOD_FeMn	K04_isofunctional_decoys	family	orthofinder	dendroblast	skill_membership_f1	-0.755725	19	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_f1	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_precision	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_recall	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	orthofinder	dendroblast	orthobench_f	1	8	1	
-K04d_SOD_CuZn	K04_isofunctional_decoys	family	orthofinder	dendroblast	skill_membership_f1	1	8	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_f1	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_precision	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_recall	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	orthofinder	dendroblast	orthobench_f	1	6	1	
-K04e_PGM_BPGdep	K04_isofunctional_decoys	family	orthofinder	dendroblast	skill_membership_f1	1	6	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_f1	0.952381	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_precision	1	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_recall	0.909091	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	orthofinder	dendroblast	orthobench_f	0.9	11	1	
-K04f_PGM_BPGindep	K04_isofunctional_decoys	family	orthofinder	dendroblast	skill_membership_f1	0.777778	11	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_f1	1	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_precision	1	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_recall	1	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	orthofinder	dendroblast	orthobench_f	1	14	1	
-K04g_SK_Ploop	K04_isofunctional_decoys	family	orthofinder	dendroblast	skill_membership_f1	1	14	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_f1	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_precision	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_recall	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	orthofinder	dendroblast	orthobench_f	1	7	1	
-K04h_SK_GHMP	K04_isofunctional_decoys	family	orthofinder	dendroblast	skill_membership_f1	1	7	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_f1	0.917293	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_precision	1	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_recall	0.847222	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	orthofinder	dendroblast	orthobench_f	0.909091	12	1	
-K04i_DHQase_I	K04_isofunctional_decoys	family	orthofinder	dendroblast	skill_membership_f1	0.696742	12	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_f1	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_precision	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	orthofinder	dendroblast	membership_recall	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	orthofinder	dendroblast	orthobench_f	1	9	1	
-K04j_DHQase_II	K04_isofunctional_decoys	family	orthofinder	dendroblast	skill_membership_f1	1	9	1	
+K04a_LysRS_I		family	orthofinder	dendroblast	membership_f1	1	6	1	
+K04a_LysRS_I		family	orthofinder	dendroblast	membership_precision	1	6	1	
+K04a_LysRS_I		family	orthofinder	dendroblast	membership_recall	1	6	1	
+K04a_LysRS_I		family	orthofinder	dendroblast	orthobench_f	1	6	1	
+K04a_LysRS_I		family	orthofinder	dendroblast	skill_membership_f1	1	6	1	
+K04b_LysRS_II		family	orthofinder	dendroblast	membership_f1	1	16	1	
+K04b_LysRS_II		family	orthofinder	dendroblast	membership_precision	1	16	1	
+K04b_LysRS_II		family	orthofinder	dendroblast	membership_recall	1	16	1	
+K04b_LysRS_II		family	orthofinder	dendroblast	orthobench_f	1	16	1	
+K04b_LysRS_II		family	orthofinder	dendroblast	skill_membership_f1	1	16	1	
+K04c_SOD_FeMn		family	orthofinder	dendroblast	membership_f1	0.694656	19	1	
+K04c_SOD_FeMn		family	orthofinder	dendroblast	membership_precision	1	19	1	
+K04c_SOD_FeMn		family	orthofinder	dendroblast	membership_recall	0.532164	19	1	
+K04c_SOD_FeMn		family	orthofinder	dendroblast	orthobench_f	0.648221	19	1	
+K04c_SOD_FeMn		family	orthofinder	dendroblast	skill_membership_f1	-0.755725	19	1	
+K04d_SOD_CuZn		family	orthofinder	dendroblast	membership_f1	1	8	1	
+K04d_SOD_CuZn		family	orthofinder	dendroblast	membership_precision	1	8	1	
+K04d_SOD_CuZn		family	orthofinder	dendroblast	membership_recall	1	8	1	
+K04d_SOD_CuZn		family	orthofinder	dendroblast	orthobench_f	1	8	1	
+K04d_SOD_CuZn		family	orthofinder	dendroblast	skill_membership_f1	1	8	1	
+K04e_PGM_BPGdep		family	orthofinder	dendroblast	membership_f1	1	6	1	
+K04e_PGM_BPGdep		family	orthofinder	dendroblast	membership_precision	1	6	1	
+K04e_PGM_BPGdep		family	orthofinder	dendroblast	membership_recall	1	6	1	
+K04e_PGM_BPGdep		family	orthofinder	dendroblast	orthobench_f	1	6	1	
+K04e_PGM_BPGdep		family	orthofinder	dendroblast	skill_membership_f1	1	6	1	
+K04f_PGM_BPGindep		family	orthofinder	dendroblast	membership_f1	0.952381	11	1	
+K04f_PGM_BPGindep		family	orthofinder	dendroblast	membership_precision	1	11	1	
+K04f_PGM_BPGindep		family	orthofinder	dendroblast	membership_recall	0.909091	11	1	
+K04f_PGM_BPGindep		family	orthofinder	dendroblast	orthobench_f	0.9	11	1	
+K04f_PGM_BPGindep		family	orthofinder	dendroblast	skill_membership_f1	0.777778	11	1	
+K04g_SK_Ploop		family	orthofinder	dendroblast	membership_f1	1	14	1	
+K04g_SK_Ploop		family	orthofinder	dendroblast	membership_precision	1	14	1	
+K04g_SK_Ploop		family	orthofinder	dendroblast	membership_recall	1	14	1	
+K04g_SK_Ploop		family	orthofinder	dendroblast	orthobench_f	1	14	1	
+K04g_SK_Ploop		family	orthofinder	dendroblast	skill_membership_f1	1	14	1	
+K04h_SK_GHMP		family	orthofinder	dendroblast	membership_f1	1	7	1	
+K04h_SK_GHMP		family	orthofinder	dendroblast	membership_precision	1	7	1	
+K04h_SK_GHMP		family	orthofinder	dendroblast	membership_recall	1	7	1	
+K04h_SK_GHMP		family	orthofinder	dendroblast	orthobench_f	1	7	1	
+K04h_SK_GHMP		family	orthofinder	dendroblast	skill_membership_f1	1	7	1	
+K04i_DHQase_I		family	orthofinder	dendroblast	membership_f1	0.917293	12	1	
+K04i_DHQase_I		family	orthofinder	dendroblast	membership_precision	1	12	1	
+K04i_DHQase_I		family	orthofinder	dendroblast	membership_recall	0.847222	12	1	
+K04i_DHQase_I		family	orthofinder	dendroblast	orthobench_f	0.909091	12	1	
+K04i_DHQase_I		family	orthofinder	dendroblast	skill_membership_f1	0.696742	12	1	
+K04j_DHQase_II		family	orthofinder	dendroblast	membership_f1	1	9	1	
+K04j_DHQase_II		family	orthofinder	dendroblast	membership_precision	1	9	1	
+K04j_DHQase_II		family	orthofinder	dendroblast	membership_recall	1	9	1	
+K04j_DHQase_II		family	orthofinder	dendroblast	orthobench_f	1	9	1	
+K04j_DHQase_II		family	orthofinder	dendroblast	skill_membership_f1	1	9	1	

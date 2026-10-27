@@ -1,7 +1,7 @@
 {
  "hobench_git": {
-  "commit": "0b5dd0a2167cb20b6f18b634b59c43a5f060ff61",
-  "dirty": false
+  "commit": "5e46b018e2b7cdc683105a5d8b7ec13ff17da9a3",
+  "dirty": true
  },
  "script": "scripts/evaluate_panel.py",
  "panel": "E",
@@ -13,7 +13,7 @@
  "families_manifest_differences": [],
  "n_families": 9,
  "n_excluded_subset": 0,
- "n_non_headline": 4,
+ "n_non_headline": 3,
  "n_control_track": 1,
  "seeds_relabel": [
   20261026,
@@ -66,6 +66,20 @@
     },
     "dup_placement_ambiguous": 402,
     "unknown_species": []
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "of_flat/default": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/E/subset/of_flat_default",
+   "prediction_sha256": "57016e47205fdca7598b04469fe6670bff6cb8add5fa85853db3b8f8a2b2ebd3",
+   "manifest_sha256": "5327281620cd1d75449217c84b918fc0e11ef09baf750ce0da7fef98d365486b",
+   "manifest_git_commit": "0b5dd0a2167cb20b6f18b634b59c43a5f060ff61",
+   "prediction_meta": {
+    "format": "tsv",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/E/subset/of_flat_default/hogs.tsv.gz",
+    "flat": true
    },
    "n_warnings": 0,
    "nesting_problems": 0,

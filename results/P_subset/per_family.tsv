@@ -1,24 +1,24 @@
 family	collection	track	method	variant	metric	value	n	headline	headline_note
-P01_homeobox		family	positive_control	reference	level_bcubed_f1	1	25858	0	mapped 62%
-P01_homeobox		family	positive_control	reference	merge_accuracy_node	1	25858	0	mapped 62%
-P01_homeobox		family	positive_control	reference	event_recovery_0.5	1	3	0	mapped 62%
-P01_homeobox		family	positive_control	reference	membership_f1	1	319	0	mapped 62%
-P01_homeobox		family	positive_control	reference	merge_accuracy_sd_posthoc	1	25858	0	mapped 62%
-P01_homeobox		family	positive_control	reference	event_recovery_0.8	1	3	0	mapped 62%
-P01_homeobox		family	positive_control	reference	merge_accuracy_pairs	1	25858	0	mapped 62%
-P01_homeobox		family	positive_control	reference	merge_accuracy_tol1	1	25858	0	mapped 62%
-P01_homeobox		family	positive_control	reference	membership_precision	1	319	0	mapped 62%
-P01_homeobox		family	positive_control	reference	membership_recall	1	319	0	mapped 62%
-P01_homeobox		family	positive_control	reference	orthobench_f	1	319	0	mapped 62%
-P01_homeobox		family	positive_control	reference	frac_over_split	0	319	0	mapped 62%
-P01_homeobox		family	positive_control	reference	frac_over_merged	0	25858	0	mapped 62%
-P01_homeobox		family	positive_control	reference	level_pair_f1_pooled	1	25858	0	mapped 62%
-P01_homeobox		family	positive_control	reference	mean_abs_depth_frac_error	0	319	0	mapped 62%
-P01_homeobox		family	positive_control	reference	wf_ortholog_f1	1	319	0	mapped 62%
-P01_homeobox		family	positive_control	reference	skill_level_bcubed_f1	1	25858	0	mapped 62%
-P01_homeobox		family	positive_control	reference	skill_merge_accuracy_node	1	25858	0	mapped 62%
-P01_homeobox		family	positive_control	reference	skill_event_recovery_0.5	1	319	0	mapped 62%
-P01_homeobox		family	positive_control	reference	skill_membership_f1	1	319	0	mapped 62%
+P01_homeobox		family	positive_control	reference	level_bcubed_f1	1	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	merge_accuracy_node	1	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	event_recovery_0.5	1	3	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	membership_f1	1	319	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	merge_accuracy_sd_posthoc	1	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	event_recovery_0.8	1	3	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	merge_accuracy_pairs	1	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	merge_accuracy_tol1	1	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	membership_precision	1	319	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	membership_recall	1	319	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	orthobench_f	1	319	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	frac_over_split	0	319	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	frac_over_merged	0	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	level_pair_f1_pooled	1	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	mean_abs_depth_frac_error	0	319	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	wf_ortholog_f1	1	319	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	skill_level_bcubed_f1	1	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	skill_merge_accuracy_node	1	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	skill_event_recovery_0.5	1	319	0	n: mapped 62% < 80%
+P01_homeobox		family	positive_control	reference	skill_membership_f1	1	319	0	n: mapped 62% < 80%
 P02_bHLH		family	positive_control	reference	level_bcubed_f1	1	47385	1	
 P02_bHLH		family	positive_control	reference	merge_accuracy_node	1	47385	1	
 P02_bHLH		family	positive_control	reference	membership_f1	1	435	1	
@@ -63,26 +63,26 @@ P04_MIPs		family	positive_control	reference	wf_ortholog_f1	1	119	1
 P04_MIPs		family	positive_control	reference	skill_level_bcubed_f1	1	5784	1	
 P04_MIPs		family	positive_control	reference	skill_merge_accuracy_node	1	5784	1	
 P04_MIPs		family	positive_control	reference	skill_event_recovery_0.5	1	119	1	
-P01_homeobox		family	all_singletons		level_bcubed_f1	0.972113	25858	0	mapped 62%
-P01_homeobox		family	all_singletons		merge_accuracy_node	0.571429	25858	0	mapped 62%
-P01_homeobox		family	all_singletons		event_recovery_0.5	0	3	0	mapped 62%
-P01_homeobox		family	all_singletons		membership_f1	0.0031348	319	0	mapped 62%
-P01_homeobox		family	all_singletons		merge_accuracy_sd_posthoc	0.4	25858	0	mapped 62%
-P01_homeobox		family	all_singletons		event_recovery_0.8	0	3	0	mapped 62%
-P01_homeobox		family	all_singletons		merge_accuracy_pairs	0.732733	25858	0	mapped 62%
-P01_homeobox		family	all_singletons		merge_accuracy_tol1	0.571429	25858	0	mapped 62%
-P01_homeobox		family	all_singletons		membership_precision	0.0031348	319	0	mapped 62%
-P01_homeobox		family	all_singletons		membership_recall	0.0031348	319	0	mapped 62%
-P01_homeobox		family	all_singletons		orthobench_f	0	319	0	mapped 62%
-P01_homeobox		family	all_singletons		frac_over_split	0.267267	319	0	mapped 62%
-P01_homeobox		family	all_singletons		frac_over_merged	0	25858	0	mapped 62%
-P01_homeobox		family	all_singletons		level_pair_f1_pooled	0	25858	0	mapped 62%
-P01_homeobox		family	all_singletons		mean_abs_depth_frac_error	0	319	0	mapped 62%
-P01_homeobox		family	all_singletons		wf_ortholog_f1	0	319	0	mapped 62%
-P01_homeobox		family	all_singletons		skill_level_bcubed_f1	0	25858	0	mapped 62%
-P01_homeobox		family	all_singletons		skill_merge_accuracy_node	0	25858	0	mapped 62%
-P01_homeobox		family	all_singletons		skill_event_recovery_0.5	0	319	0	mapped 62%
-P01_homeobox		family	all_singletons		skill_membership_f1	-0.33671	319	0	mapped 62%
+P01_homeobox		family	all_singletons		level_bcubed_f1	0.972113	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		merge_accuracy_node	0.571429	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		event_recovery_0.5	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		membership_f1	0.0031348	319	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		merge_accuracy_sd_posthoc	0.4	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		event_recovery_0.8	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		merge_accuracy_pairs	0.732733	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		merge_accuracy_tol1	0.571429	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		membership_precision	0.0031348	319	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		membership_recall	0.0031348	319	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		orthobench_f	0	319	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		frac_over_split	0.267267	319	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		frac_over_merged	0	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		level_pair_f1_pooled	0	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		mean_abs_depth_frac_error	0	319	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		wf_ortholog_f1	0	319	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		skill_level_bcubed_f1	0	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		skill_merge_accuracy_node	0	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		skill_event_recovery_0.5	0	319	0	n: mapped 62% < 80%
+P01_homeobox		family	all_singletons		skill_membership_f1	-0.33671	319	0	n: mapped 62% < 80%
 P02_bHLH		family	all_singletons		level_bcubed_f1	1	47385	1	
 P02_bHLH		family	all_singletons		merge_accuracy_node	1	47385	1	
 P02_bHLH		family	all_singletons		membership_f1	0	435	1	
@@ -126,26 +126,26 @@ P04_MIPs		family	all_singletons		wf_ortholog_f1	0	119	1
 P04_MIPs		family	all_singletons		skill_level_bcubed_f1	0	5784	1	
 P04_MIPs		family	all_singletons		skill_merge_accuracy_node	0	5784	1	
 P04_MIPs		family	all_singletons		skill_event_recovery_0.5	0	119	1	
-P01_homeobox		family	one_big_hog		level_bcubed_f1	0.114074	25858	0	mapped 62%
-P01_homeobox		family	one_big_hog		merge_accuracy_node	0.285714	25858	0	mapped 62%
-P01_homeobox		family	one_big_hog		event_recovery_0.5	0	3	0	mapped 62%
-P01_homeobox		family	one_big_hog		membership_f1	0.254239	319	0	mapped 62%
-P01_homeobox		family	one_big_hog		merge_accuracy_sd_posthoc	0.5	25858	0	mapped 62%
-P01_homeobox		family	one_big_hog		event_recovery_0.8	0	3	0	mapped 62%
-P01_homeobox		family	one_big_hog		merge_accuracy_pairs	0.00174027	25858	0	mapped 62%
-P01_homeobox		family	one_big_hog		merge_accuracy_tol1	0.302214	25858	0	mapped 62%
-P01_homeobox		family	one_big_hog		membership_precision	0.145632	319	0	mapped 62%
-P01_homeobox		family	one_big_hog		membership_recall	1	319	0	mapped 62%
-P01_homeobox		family	one_big_hog		orthobench_f	0.0440553	319	0	mapped 62%
-P01_homeobox		family	one_big_hog		frac_over_split	0	319	0	mapped 62%
-P01_homeobox		family	one_big_hog		frac_over_merged	0.99826	25858	0	mapped 62%
-P01_homeobox		family	one_big_hog		level_pair_f1_pooled	0.0914238	25858	0	mapped 62%
-P01_homeobox		family	one_big_hog		mean_abs_depth_frac_error	0.443449	319	0	mapped 62%
-P01_homeobox		family	one_big_hog		wf_ortholog_f1	0.00465911	319	0	mapped 62%
-P01_homeobox		family	one_big_hog		skill_level_bcubed_f1	-30.768	25858	0	mapped 62%
-P01_homeobox		family	one_big_hog		skill_merge_accuracy_node	-0.666667	25858	0	mapped 62%
-P01_homeobox		family	one_big_hog		skill_event_recovery_0.5	0	319	0	mapped 62%
-P01_homeobox		family	one_big_hog		skill_membership_f1	0	319	0	mapped 62%
+P01_homeobox		family	one_big_hog		level_bcubed_f1	0.114074	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		merge_accuracy_node	0.285714	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		event_recovery_0.5	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		membership_f1	0.254239	319	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		merge_accuracy_sd_posthoc	0.5	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		event_recovery_0.8	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		merge_accuracy_pairs	0.00174027	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		merge_accuracy_tol1	0.302214	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		membership_precision	0.145632	319	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		membership_recall	1	319	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		orthobench_f	0.0440553	319	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		frac_over_split	0	319	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		frac_over_merged	0.99826	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		level_pair_f1_pooled	0.0914238	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		mean_abs_depth_frac_error	0.443449	319	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		wf_ortholog_f1	0.00465911	319	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		skill_level_bcubed_f1	-30.768	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		skill_merge_accuracy_node	-0.666667	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		skill_event_recovery_0.5	0	319	0	n: mapped 62% < 80%
+P01_homeobox		family	one_big_hog		skill_membership_f1	0	319	0	n: mapped 62% < 80%
 P02_bHLH		family	one_big_hog		level_bcubed_f1	0.0451963	47385	1	
 P02_bHLH		family	one_big_hog		merge_accuracy_node	0	47385	1	
 P02_bHLH		family	one_big_hog		membership_f1	0.696557	435	1	
@@ -192,26 +192,26 @@ P04_MIPs		family	one_big_hog		wf_ortholog_f1	0.0074714	119	1
 P04_MIPs		family	one_big_hog		skill_level_bcubed_f1	-18.2461	5784	1	
 P04_MIPs		family	one_big_hog		skill_merge_accuracy_node	-0.333333	5784	1	
 P04_MIPs		family	one_big_hog		skill_event_recovery_0.5	0	119	1	
-P01_homeobox		family	random_relabel	mean10	level_bcubed_f1	0.836531	25858	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	merge_accuracy_node	0.519434	25858	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	event_recovery_0.5	0	3	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	membership_f1	0.197169	319	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	merge_accuracy_sd_posthoc	0.376104	25858	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	event_recovery_0.8	0	3	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	merge_accuracy_pairs	0.63361	25858	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	merge_accuracy_tol1	0.525248	25858	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	membership_precision	0.168016	319	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	membership_recall	0.239042	319	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	orthobench_f	0.03689	319	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	frac_over_split	0.208214	319	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	frac_over_merged	0.158175	25858	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	level_pair_f1_pooled	0.18991	25858	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	mean_abs_depth_frac_error	0.00201508	319	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	wf_ortholog_f1	0.016193	319	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	skill_level_bcubed_f1	-4.86176	25858	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	skill_merge_accuracy_node	-0.12132	25858	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	skill_event_recovery_0.5	0	319	0	mapped 62%
-P01_homeobox		family	random_relabel	mean10	skill_membership_f1	-0.0765259	319	0	mapped 62%
+P01_homeobox		family	random_relabel	mean10	level_bcubed_f1	0.836531	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	merge_accuracy_node	0.519434	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	event_recovery_0.5	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	membership_f1	0.197169	319	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	merge_accuracy_sd_posthoc	0.376104	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	event_recovery_0.8	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	merge_accuracy_pairs	0.63361	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	merge_accuracy_tol1	0.525248	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	membership_precision	0.168016	319	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	membership_recall	0.239042	319	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	orthobench_f	0.03689	319	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	frac_over_split	0.208214	319	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	frac_over_merged	0.158175	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	level_pair_f1_pooled	0.18991	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	mean_abs_depth_frac_error	0.00201508	319	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	wf_ortholog_f1	0.016193	319	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	skill_level_bcubed_f1	-4.86176	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	skill_merge_accuracy_node	-0.12132	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	skill_event_recovery_0.5	0	319	0	n: mapped 62% < 80%
+P01_homeobox		family	random_relabel	mean10	skill_membership_f1	-0.0765259	319	0	n: mapped 62% < 80%
 P02_bHLH		family	random_relabel	mean10	level_bcubed_f1	0.898069	47385	1	
 P02_bHLH		family	random_relabel	mean10	merge_accuracy_node	0.983825	47385	1	
 P02_bHLH		family	random_relabel	mean10	membership_f1	0.394939	435	1	
@@ -258,26 +258,26 @@ P04_MIPs		family	random_relabel	mean10	wf_ortholog_f1	0.0173851	119	1
 P04_MIPs		family	random_relabel	mean10	skill_level_bcubed_f1	-0.909931	5784	1	
 P04_MIPs		family	random_relabel	mean10	skill_merge_accuracy_node	-0.00269419	5784	1	
 P04_MIPs		family	random_relabel	mean10	skill_event_recovery_0.5	0	119	1	
-P01_homeobox		family	fastoma	default_declared	level_bcubed_f1	0.969847	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	merge_accuracy_node	0.589744	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	event_recovery_0.5	0	3	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	membership_f1	0.26788	319	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	merge_accuracy_sd_posthoc	0.432051	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	event_recovery_0.8	0	3	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	merge_accuracy_pairs	0.732926	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	merge_accuracy_tol1	0.590243	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	membership_precision	0.995969	319	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	membership_recall	0.154752	319	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	orthobench_f	0.209178	319	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	frac_over_split	0.265914	319	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	frac_over_merged	0.00116018	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	level_pair_f1_pooled	0.00143802	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	mean_abs_depth_frac_error	0.000222433	319	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	wf_ortholog_f1	0.166667	319	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	skill_level_bcubed_f1	-0.0812477	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	skill_merge_accuracy_node	0.042735	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	skill_event_recovery_0.5	0	319	0	mapped 62%
-P01_homeobox		family	fastoma	default_declared	skill_membership_f1	0.0182914	319	0	mapped 62%
+P01_homeobox		family	fastoma	default_declared	level_bcubed_f1	0.969847	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	merge_accuracy_node	0.589744	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	event_recovery_0.5	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	membership_f1	0.26788	319	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	merge_accuracy_sd_posthoc	0.432051	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	event_recovery_0.8	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	merge_accuracy_pairs	0.732926	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	merge_accuracy_tol1	0.590243	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	membership_precision	0.995969	319	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	membership_recall	0.154752	319	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	orthobench_f	0.209178	319	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	frac_over_split	0.265914	319	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	frac_over_merged	0.00116018	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	level_pair_f1_pooled	0.00143802	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	mean_abs_depth_frac_error	0.000222433	319	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	wf_ortholog_f1	0.166667	319	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	skill_level_bcubed_f1	-0.0812477	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	skill_merge_accuracy_node	0.042735	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	skill_event_recovery_0.5	0	319	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_declared	skill_membership_f1	0.0182914	319	0	n: mapped 62% < 80%
 P02_bHLH		family	fastoma	default_declared	level_bcubed_f1	1	47385	1	
 P02_bHLH		family	fastoma	default_declared	merge_accuracy_node	1	47385	1	
 P02_bHLH		family	fastoma	default_declared	membership_f1	0.018457	435	1	
@@ -322,26 +322,26 @@ P04_MIPs		family	fastoma	default_declared	wf_ortholog_f1	0	119	1
 P04_MIPs		family	fastoma	default_declared	skill_level_bcubed_f1	0.836566	5784	1	
 P04_MIPs		family	fastoma	default_declared	skill_merge_accuracy_node	0.333333	5784	1	
 P04_MIPs		family	fastoma	default_declared	skill_event_recovery_0.5	0.333333	119	1	
-P01_homeobox		family	fastoma	default_late	level_bcubed_f1	0.969847	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	merge_accuracy_node	0.589744	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	event_recovery_0.5	0	3	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	membership_f1	0.26788	319	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	merge_accuracy_sd_posthoc	0.432051	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	event_recovery_0.8	0	3	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	merge_accuracy_pairs	0.732926	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	merge_accuracy_tol1	0.590243	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	membership_precision	0.995969	319	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	membership_recall	0.154752	319	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	orthobench_f	0.209178	319	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	frac_over_split	0.265914	319	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	frac_over_merged	0.00116018	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	level_pair_f1_pooled	0.00143802	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	mean_abs_depth_frac_error	0.000222433	319	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	wf_ortholog_f1	0.166667	319	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	skill_level_bcubed_f1	-0.0812477	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	skill_merge_accuracy_node	0.042735	25858	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	skill_event_recovery_0.5	0	319	0	mapped 62%
-P01_homeobox		family	fastoma	default_late	skill_membership_f1	0.0182914	319	0	mapped 62%
+P01_homeobox		family	fastoma	default_late	level_bcubed_f1	0.969847	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	merge_accuracy_node	0.589744	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	event_recovery_0.5	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	membership_f1	0.26788	319	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	merge_accuracy_sd_posthoc	0.432051	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	event_recovery_0.8	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	merge_accuracy_pairs	0.732926	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	merge_accuracy_tol1	0.590243	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	membership_precision	0.995969	319	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	membership_recall	0.154752	319	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	orthobench_f	0.209178	319	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	frac_over_split	0.265914	319	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	frac_over_merged	0.00116018	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	level_pair_f1_pooled	0.00143802	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	mean_abs_depth_frac_error	0.000222433	319	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	wf_ortholog_f1	0.166667	319	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	skill_level_bcubed_f1	-0.0812477	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	skill_merge_accuracy_node	0.042735	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	skill_event_recovery_0.5	0	319	0	n: mapped 62% < 80%
+P01_homeobox		family	fastoma	default_late	skill_membership_f1	0.0182914	319	0	n: mapped 62% < 80%
 P02_bHLH		family	fastoma	default_late	level_bcubed_f1	1	47385	1	
 P02_bHLH		family	fastoma	default_late	merge_accuracy_node	1	47385	1	
 P02_bHLH		family	fastoma	default_late	membership_f1	0.018457	435	1	
@@ -386,26 +386,26 @@ P04_MIPs		family	fastoma	default_late	wf_ortholog_f1	0	119	1
 P04_MIPs		family	fastoma	default_late	skill_level_bcubed_f1	0.836566	5784	1	
 P04_MIPs		family	fastoma	default_late	skill_merge_accuracy_node	0.333333	5784	1	
 P04_MIPs		family	fastoma	default_late	skill_event_recovery_0.5	0.333333	119	1	
-P01_homeobox		family	of_flat	default	level_bcubed_f1	0.912885	25858	0	mapped 62%
-P01_homeobox		family	of_flat	default	merge_accuracy_node	0.556777	25858	0	mapped 62%
-P01_homeobox		family	of_flat	default	event_recovery_0.5	0	3	0	mapped 62%
-P01_homeobox		family	of_flat	default	membership_f1	0.77499	319	0	mapped 62%
-P01_homeobox		family	of_flat	default	merge_accuracy_sd_posthoc	0.524359	25858	0	mapped 62%
-P01_homeobox		family	of_flat	default	event_recovery_0.8	0	3	0	mapped 62%
-P01_homeobox		family	of_flat	default	merge_accuracy_pairs	0.729445	25858	0	mapped 62%
-P01_homeobox		family	of_flat	default	merge_accuracy_tol1	0.558608	25858	0	mapped 62%
-P01_homeobox		family	of_flat	default	membership_precision	0.955984	319	0	mapped 62%
-P01_homeobox		family	of_flat	default	membership_recall	0.651621	319	0	mapped 62%
-P01_homeobox		family	of_flat	default	orthobench_f	0.737745	319	0	mapped 62%
-P01_homeobox		family	of_flat	default	frac_over_split	0.253848	319	0	mapped 62%
-P01_homeobox		family	of_flat	default	frac_over_merged	0.0167066	25858	0	mapped 62%
-P01_homeobox		family	of_flat	default	level_pair_f1_pooled	0.0819072	25858	0	mapped 62%
-P01_homeobox		family	of_flat	default	mean_abs_depth_frac_error	0.00699699	319	0	mapped 62%
-P01_homeobox		family	of_flat	default	wf_ortholog_f1	0.156951	319	0	mapped 62%
-P01_homeobox		family	of_flat	default	skill_level_bcubed_f1	-2.12381	25858	0	mapped 62%
-P01_homeobox		family	of_flat	default	skill_merge_accuracy_node	-0.034188	25858	0	mapped 62%
-P01_homeobox		family	of_flat	default	skill_event_recovery_0.5	0	319	0	mapped 62%
-P01_homeobox		family	of_flat	default	skill_membership_f1	0.698282	319	0	mapped 62%
+P01_homeobox		family	of_flat	default	level_bcubed_f1	0.912885	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	merge_accuracy_node	0.556777	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	event_recovery_0.5	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	membership_f1	0.77499	319	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	merge_accuracy_sd_posthoc	0.524359	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	event_recovery_0.8	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	merge_accuracy_pairs	0.729445	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	merge_accuracy_tol1	0.558608	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	membership_precision	0.955984	319	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	membership_recall	0.651621	319	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	orthobench_f	0.737745	319	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	frac_over_split	0.253848	319	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	frac_over_merged	0.0167066	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	level_pair_f1_pooled	0.0819072	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	mean_abs_depth_frac_error	0.00699699	319	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	wf_ortholog_f1	0.156951	319	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	skill_level_bcubed_f1	-2.12381	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	skill_merge_accuracy_node	-0.034188	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	skill_event_recovery_0.5	0	319	0	n: mapped 62% < 80%
+P01_homeobox		family	of_flat	default	skill_membership_f1	0.698282	319	0	n: mapped 62% < 80%
 P02_bHLH		family	of_flat	default	level_bcubed_f1	0.57004	47385	1	
 P02_bHLH		family	of_flat	default	merge_accuracy_node	0.886918	47385	1	
 P02_bHLH		family	of_flat	default	membership_f1	0.363892	435	1	
@@ -452,26 +452,26 @@ P04_MIPs		family	of_flat	default	wf_ortholog_f1	0.0179876	119	1
 P04_MIPs		family	of_flat	default	skill_level_bcubed_f1	-9.61605	5784	1	
 P04_MIPs		family	of_flat	default	skill_merge_accuracy_node	-0.106125	5784	1	
 P04_MIPs		family	of_flat	default	skill_event_recovery_0.5	0.333333	119	1	
-P01_homeobox		family	orthofinder	default	level_bcubed_f1	0.969837	25858	0	mapped 62%
-P01_homeobox		family	orthofinder	default	merge_accuracy_node	0.704378	25858	0	mapped 62%
-P01_homeobox		family	orthofinder	default	event_recovery_0.5	0	3	0	mapped 62%
-P01_homeobox		family	orthofinder	default	membership_f1	0.77499	319	0	mapped 62%
-P01_homeobox		family	orthofinder	default	merge_accuracy_sd_posthoc	0.62768	25858	0	mapped 62%
-P01_homeobox		family	orthofinder	default	event_recovery_0.8	0	3	0	mapped 62%
-P01_homeobox		family	orthofinder	default	merge_accuracy_pairs	0.742904	25858	0	mapped 62%
-P01_homeobox		family	orthofinder	default	merge_accuracy_tol1	0.704877	25858	0	mapped 62%
-P01_homeobox		family	orthofinder	default	membership_precision	0.955984	319	0	mapped 62%
-P01_homeobox		family	orthofinder	default	membership_recall	0.651621	319	0	mapped 62%
-P01_homeobox		family	orthofinder	default	orthobench_f	0.737745	319	0	mapped 62%
-P01_homeobox		family	orthofinder	default	frac_over_split	0.253848	319	0	mapped 62%
-P01_homeobox		family	orthofinder	default	frac_over_merged	0.00324851	25858	0	mapped 62%
-P01_homeobox		family	orthofinder	default	level_pair_f1_pooled	0.0937584	25858	0	mapped 62%
-P01_homeobox		family	orthofinder	default	mean_abs_depth_frac_error	0.000829273	319	0	mapped 62%
-P01_homeobox		family	orthofinder	default	wf_ortholog_f1	0.426829	319	0	mapped 62%
-P01_homeobox		family	orthofinder	default	skill_level_bcubed_f1	-0.0816119	25858	0	mapped 62%
-P01_homeobox		family	orthofinder	default	skill_merge_accuracy_node	0.310214	25858	0	mapped 62%
-P01_homeobox		family	orthofinder	default	skill_event_recovery_0.5	0	319	0	mapped 62%
-P01_homeobox		family	orthofinder	default	skill_membership_f1	0.698282	319	0	mapped 62%
+P01_homeobox		family	orthofinder	default	level_bcubed_f1	0.969837	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	merge_accuracy_node	0.704378	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	event_recovery_0.5	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	membership_f1	0.77499	319	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	merge_accuracy_sd_posthoc	0.62768	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	event_recovery_0.8	0	3	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	merge_accuracy_pairs	0.742904	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	merge_accuracy_tol1	0.704877	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	membership_precision	0.955984	319	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	membership_recall	0.651621	319	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	orthobench_f	0.737745	319	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	frac_over_split	0.253848	319	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	frac_over_merged	0.00324851	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	level_pair_f1_pooled	0.0937584	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	mean_abs_depth_frac_error	0.000829273	319	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	wf_ortholog_f1	0.426829	319	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	skill_level_bcubed_f1	-0.0816119	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	skill_merge_accuracy_node	0.310214	25858	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	skill_event_recovery_0.5	0	319	0	n: mapped 62% < 80%
+P01_homeobox		family	orthofinder	default	skill_membership_f1	0.698282	319	0	n: mapped 62% < 80%
 P02_bHLH		family	orthofinder	default	level_bcubed_f1	0.991318	47385	1	
 P02_bHLH		family	orthofinder	default	merge_accuracy_node	0.998992	47385	1	
 P02_bHLH		family	orthofinder	default	membership_f1	0.363892	435	1	

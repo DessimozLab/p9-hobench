@@ -1,197 +1,225 @@
 family	collection	method	variant	event	ev	level	tags	n_copies	n_pairs	frac_correct	separation	cohesion_min	merge_side	frac_over_split	frac_over_merged	modal_pred_merge	event_branch	testable	recovered_0.5	recovered_0.8
-E01_kinesins	E_cytoskeleton_motors	positive_control	reference	KIN_MAR_LECA	D	Eukaryota		10	29879	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
-E01_kinesins	E_cytoskeleton_motors	positive_control	reference	K9A_9B_LECA	D	Eukaryota		2	77	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
-E02_ARF	E_small_GTPases	positive_control	reference	ARF_LECA	D	Eukaryota		15	26888	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
-E02_ARF	E_small_GTPases	positive_control	reference	Arf1_Arf4_Holozoa	D	Holozoa		2	56	1	1	1	1	0	0	Opisthokonta	internal	1	1	1
-E02_ARF	E_small_GTPases	positive_control	reference	Arf1_holozoa_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E02_ARF	E_small_GTPases	positive_control	reference	Arf4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E02_ARF	E_small_GTPases	positive_control	reference	Arl4_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	positive_control	reference	RAB_LECA_supergroups	D	Eukaryota		6	57507	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
-E03_Rab	E_small_GTPases	positive_control	reference	SGI_LECA	D	Eukaryota		3	3396	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
-E03_Rab	E_small_GTPases	positive_control	reference	Rab8_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	positive_control	reference	Rab18_Rab40_Bilateria	D	Bilateria		2	6	1	1	1	1	0	0	Planulozoa	internal	1	1	1
-E03_Rab	E_small_GTPases	positive_control	reference	SGII_LECA	D	Eukaryota		5	1274	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
-E03_Rab	E_small_GTPases	positive_control	reference	Rab5_HUMAN_dup	D	HUMAN		4	6	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	positive_control	reference	Rab22_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	positive_control	reference	SGIII_LECA	D	Eukaryota		5	1094	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
-E03_Rab	E_small_GTPases	positive_control	reference	Rab7_Rab9_Opisthokonta	D	Opisthokonta		2	64	1	1	1	1	0	0	Obazoa	internal	1	1	1
-E03_Rab	E_small_GTPases	positive_control	reference	Rab32_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	positive_control	reference	SGIV_LECA	D	Eukaryota		4	2508	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
-E03_Rab	E_small_GTPases	positive_control	reference	Rab4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	positive_control	reference	Rab6_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	positive_control	reference	SGVI_LECA	D	Eukaryota		2	63	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
-E04_tubulins	E_cytoskeleton_motors	positive_control	reference	TUB_LECA	D	Eukaryota		6	10227	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
+E01_kinesins		positive_control	reference	KIN_MAR_LECA	D	Eukaryota		10	29879	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
+E01_kinesins		positive_control	reference	K9A_9B_LECA	D	Eukaryota		2	77	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
+E02_ARF		positive_control	reference	ARF_LECA	D	Eukaryota		15	26888	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
+E02_ARF		positive_control	reference	Arf1_Arf4_Holozoa	D	Holozoa		2	56	1	1	1	1	0	0	Opisthokonta	internal	1	1	1
+E02_ARF		positive_control	reference	Arf1_holozoa_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E02_ARF		positive_control	reference	Arf4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E02_ARF		positive_control	reference	Arl4_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		positive_control	reference	RAB_LECA_supergroups	D	Eukaryota		6	57507	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
+E03_Rab		positive_control	reference	SGI_LECA	D	Eukaryota		3	3396	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
+E03_Rab		positive_control	reference	Rab8_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		positive_control	reference	Rab18_Rab40_Bilateria	D	Bilateria		2	6	1	1	1	1	0	0	Planulozoa	internal	1	1	1
+E03_Rab		positive_control	reference	SGII_LECA	D	Eukaryota		5	1274	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
+E03_Rab		positive_control	reference	Rab5_HUMAN_dup	D	HUMAN		4	6	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		positive_control	reference	Rab22_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		positive_control	reference	SGIII_LECA	D	Eukaryota		5	1094	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
+E03_Rab		positive_control	reference	Rab7_Rab9_Opisthokonta	D	Opisthokonta		2	64	1	1	1	1	0	0	Obazoa	internal	1	1	1
+E03_Rab		positive_control	reference	Rab32_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		positive_control	reference	SGIV_LECA	D	Eukaryota		4	2508	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
+E03_Rab		positive_control	reference	Rab4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		positive_control	reference	Rab6_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		positive_control	reference	SGVI_LECA	D	Eukaryota		2	63	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
+E04_tubulins		positive_control	reference	TUB_LECA	D	Eukaryota		6	10227	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
 E05_MCM		positive_control	reference	MCM_LECA_DUPS	D	Eukaryota		8	5464	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
 E05_MCM		positive_control	reference	Mcm3_NAEGR_dup	D	NAEGR	LSE	2	1	1	1	1	1	0	0	Discoba	leaf	1	1	1
-E06_myosins	E_cytoskeleton_motors	positive_control	reference	MYO_LECA	D	Eukaryota		2	8584	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
-E07a_adaptins_large	E_adaptor_complexes	positive_control	reference	E07a_LECA	D	Eukaryota		13	4929	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
-E07b_adaptins_medium_small	E_adaptor_complexes	positive_control	reference	E07b_LECA	D	Eukaryota		14	6561	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
-E07c_adaptins_scaffold	E_adaptor_complexes	positive_control	reference	E07c_LECA	D	Eukaryota		4	398	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
-E01_kinesins	E_cytoskeleton_motors	all_singletons		KIN_MAR_LECA	D	Eukaryota		10	29879	1	1	0	1	0	0	inf	internal	1	0	0
-E01_kinesins	E_cytoskeleton_motors	all_singletons		K9A_9B_LECA	D	Eukaryota		2	77	1	1	0	1	0	0	inf	internal	1	0	0
-E02_ARF	E_small_GTPases	all_singletons		ARF_LECA	D	Eukaryota		15	26888	1	1	0	1	0	0	inf	internal	1	0	0
-E02_ARF	E_small_GTPases	all_singletons		Arf1_Arf4_Holozoa	D	Holozoa		2	56	0	1	0	0	1	0	inf	internal	1	0	0
-E02_ARF	E_small_GTPases	all_singletons		Arf1_holozoa_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
-E02_ARF	E_small_GTPases	all_singletons		Arf4_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
-E02_ARF	E_small_GTPases	all_singletons		Arl4_HUMAN_dup	D	HUMAN		3	3	0	1	1	0	1	0	inf	leaf	1	0	0
-E03_Rab	E_small_GTPases	all_singletons		RAB_LECA_supergroups	D	Eukaryota		6	57507	1	1	0	1	0	0	inf	internal	1	0	0
-E03_Rab	E_small_GTPases	all_singletons		SGI_LECA	D	Eukaryota		3	3396	1	1	0	1	0	0	inf	internal	1	0	0
-E03_Rab	E_small_GTPases	all_singletons		Rab8_HUMAN_dup	D	HUMAN		3	3	0	1	1	0	1	0	inf	leaf	1	0	0
-E03_Rab	E_small_GTPases	all_singletons		Rab18_Rab40_Bilateria	D	Bilateria		2	6	0	1	0	0	1	0	inf	internal	1	0	0
-E03_Rab	E_small_GTPases	all_singletons		SGII_LECA	D	Eukaryota		5	1274	1	1	0	1	0	0	inf	internal	1	0	0
-E03_Rab	E_small_GTPases	all_singletons		Rab5_HUMAN_dup	D	HUMAN		4	6	0	1	1	0	1	0	inf	leaf	1	0	0
-E03_Rab	E_small_GTPases	all_singletons		Rab22_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
-E03_Rab	E_small_GTPases	all_singletons		SGIII_LECA	D	Eukaryota		5	1094	1	1	0	1	0	0	inf	internal	1	0	0
-E03_Rab	E_small_GTPases	all_singletons		Rab7_Rab9_Opisthokonta	D	Opisthokonta		2	64	0	1	0	0	1	0	inf	internal	1	0	0
-E03_Rab	E_small_GTPases	all_singletons		Rab32_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
-E03_Rab	E_small_GTPases	all_singletons		SGIV_LECA	D	Eukaryota		4	2508	1	1	0	1	0	0	inf	internal	1	0	0
-E03_Rab	E_small_GTPases	all_singletons		Rab4_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
-E03_Rab	E_small_GTPases	all_singletons		Rab6_HUMAN_dup	D	HUMAN		3	3	0	1	1	0	1	0	inf	leaf	1	0	0
-E03_Rab	E_small_GTPases	all_singletons		SGVI_LECA	D	Eukaryota		2	63	1	1	0	1	0	0	inf	internal	1	0	0
-E04_tubulins	E_cytoskeleton_motors	all_singletons		TUB_LECA	D	Eukaryota		6	10227	1	1	0	1	0	0	inf	internal	1	0	0
+E06_myosins		positive_control	reference	MYO_LECA	D	Eukaryota		2	8584	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
+E07a_adaptins_large		positive_control	reference	E07a_LECA	D	Eukaryota		13	4929	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
+E07b_adaptins_medium_small		positive_control	reference	E07b_LECA	D	Eukaryota		14	6561	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
+E07c_adaptins_scaffold		positive_control	reference	E07c_LECA	D	Eukaryota		4	398	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
+E01_kinesins		all_singletons		KIN_MAR_LECA	D	Eukaryota		10	29879	1	1	0	1	0	0	inf	internal	1	0	0
+E01_kinesins		all_singletons		K9A_9B_LECA	D	Eukaryota		2	77	1	1	0	1	0	0	inf	internal	1	0	0
+E02_ARF		all_singletons		ARF_LECA	D	Eukaryota		15	26888	1	1	0	1	0	0	inf	internal	1	0	0
+E02_ARF		all_singletons		Arf1_Arf4_Holozoa	D	Holozoa		2	56	0	1	0	0	1	0	inf	internal	1	0	0
+E02_ARF		all_singletons		Arf1_holozoa_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+E02_ARF		all_singletons		Arf4_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+E02_ARF		all_singletons		Arl4_HUMAN_dup	D	HUMAN		3	3	0	1	1	0	1	0	inf	leaf	1	0	0
+E03_Rab		all_singletons		RAB_LECA_supergroups	D	Eukaryota		6	57507	1	1	0	1	0	0	inf	internal	1	0	0
+E03_Rab		all_singletons		SGI_LECA	D	Eukaryota		3	3396	1	1	0	1	0	0	inf	internal	1	0	0
+E03_Rab		all_singletons		Rab8_HUMAN_dup	D	HUMAN		3	3	0	1	1	0	1	0	inf	leaf	1	0	0
+E03_Rab		all_singletons		Rab18_Rab40_Bilateria	D	Bilateria		2	6	0	1	0	0	1	0	inf	internal	1	0	0
+E03_Rab		all_singletons		SGII_LECA	D	Eukaryota		5	1274	1	1	0	1	0	0	inf	internal	1	0	0
+E03_Rab		all_singletons		Rab5_HUMAN_dup	D	HUMAN		4	6	0	1	1	0	1	0	inf	leaf	1	0	0
+E03_Rab		all_singletons		Rab22_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+E03_Rab		all_singletons		SGIII_LECA	D	Eukaryota		5	1094	1	1	0	1	0	0	inf	internal	1	0	0
+E03_Rab		all_singletons		Rab7_Rab9_Opisthokonta	D	Opisthokonta		2	64	0	1	0	0	1	0	inf	internal	1	0	0
+E03_Rab		all_singletons		Rab32_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+E03_Rab		all_singletons		SGIV_LECA	D	Eukaryota		4	2508	1	1	0	1	0	0	inf	internal	1	0	0
+E03_Rab		all_singletons		Rab4_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+E03_Rab		all_singletons		Rab6_HUMAN_dup	D	HUMAN		3	3	0	1	1	0	1	0	inf	leaf	1	0	0
+E03_Rab		all_singletons		SGVI_LECA	D	Eukaryota		2	63	1	1	0	1	0	0	inf	internal	1	0	0
+E04_tubulins		all_singletons		TUB_LECA	D	Eukaryota		6	10227	1	1	0	1	0	0	inf	internal	1	0	0
 E05_MCM		all_singletons		MCM_LECA_DUPS	D	Eukaryota		8	5464	0	1	0	0	1	0	inf	internal	1	0	0
 E05_MCM		all_singletons		Mcm3_NAEGR_dup	D	NAEGR	LSE	2	1	0	1	1	0	1	0	inf	leaf	1	0	0
-E06_myosins	E_cytoskeleton_motors	all_singletons		MYO_LECA	D	Eukaryota		2	8584	1	1	0	1	0	0	inf	internal	1	0	0
-E07a_adaptins_large	E_adaptor_complexes	all_singletons		E07a_LECA	D	Eukaryota		13	4929	1	1	0	1	0	0	inf	internal	1	0	0
-E07b_adaptins_medium_small	E_adaptor_complexes	all_singletons		E07b_LECA	D	Eukaryota		14	6561	1	1	0	1	0	0	inf	internal	1	0	0
-E07c_adaptins_scaffold	E_adaptor_complexes	all_singletons		E07c_LECA	D	Eukaryota		4	398	1	1	0	1	0	0	inf	internal	1	0	0
-E01_kinesins	E_cytoskeleton_motors	one_big_hog		KIN_MAR_LECA	D	Eukaryota		10	29879	0	0	1	1	0	1	Eukaryota	internal	1	0	0
-E01_kinesins	E_cytoskeleton_motors	one_big_hog		K9A_9B_LECA	D	Eukaryota		2	77	0	0	1	1	0	1	Eukaryota	internal	1	0	0
-E02_ARF	E_small_GTPases	one_big_hog		ARF_LECA	D	Eukaryota		15	26888	0	0	1	1	0	1	Eukaryota	internal	1	0	0
-E02_ARF	E_small_GTPases	one_big_hog		Arf1_Arf4_Holozoa	D	Holozoa		2	56	0	0	1	1	0	1	Holozoa	internal	1	0	0
-E02_ARF	E_small_GTPases	one_big_hog		Arf1_holozoa_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E02_ARF	E_small_GTPases	one_big_hog		Arf4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E02_ARF	E_small_GTPases	one_big_hog		Arl4_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	one_big_hog		RAB_LECA_supergroups	D	Eukaryota		6	57507	0	0	1	1	0	1	Eukaryota	internal	1	0	0
-E03_Rab	E_small_GTPases	one_big_hog		SGI_LECA	D	Eukaryota		3	3396	0	0	1	1	0	1	Eukaryota	internal	1	0	0
-E03_Rab	E_small_GTPases	one_big_hog		Rab8_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	one_big_hog		Rab18_Rab40_Bilateria	D	Bilateria		2	6	0	0	1	1	0	1	Bilateria	internal	1	0	0
-E03_Rab	E_small_GTPases	one_big_hog		SGII_LECA	D	Eukaryota		5	1274	0	0	1	1	0	1	Eukaryota	internal	1	0	0
-E03_Rab	E_small_GTPases	one_big_hog		Rab5_HUMAN_dup	D	HUMAN		4	6	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	one_big_hog		Rab22_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	one_big_hog		SGIII_LECA	D	Eukaryota		5	1094	0	0	1	1	0	1	Eukaryota	internal	1	0	0
-E03_Rab	E_small_GTPases	one_big_hog		Rab7_Rab9_Opisthokonta	D	Opisthokonta		2	64	0	0	1	1	0	1	Holozoa	internal	1	0	0
-E03_Rab	E_small_GTPases	one_big_hog		Rab32_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	one_big_hog		SGIV_LECA	D	Eukaryota		4	2508	0	0	1	1	0	1	Eukaryota	internal	1	0	0
-E03_Rab	E_small_GTPases	one_big_hog		Rab4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	one_big_hog		Rab6_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	one_big_hog		SGVI_LECA	D	Eukaryota		2	63	0	0	1	1	0	1	Eukaryota	internal	1	0	0
-E04_tubulins	E_cytoskeleton_motors	one_big_hog		TUB_LECA	D	Eukaryota		6	10227	0	0	1	1	0	1	Eukaryota	internal	1	0	0
+E06_myosins		all_singletons		MYO_LECA	D	Eukaryota		2	8584	1	1	0	1	0	0	inf	internal	1	0	0
+E07a_adaptins_large		all_singletons		E07a_LECA	D	Eukaryota		13	4929	1	1	0	1	0	0	inf	internal	1	0	0
+E07b_adaptins_medium_small		all_singletons		E07b_LECA	D	Eukaryota		14	6561	1	1	0	1	0	0	inf	internal	1	0	0
+E07c_adaptins_scaffold		all_singletons		E07c_LECA	D	Eukaryota		4	398	1	1	0	1	0	0	inf	internal	1	0	0
+E01_kinesins		one_big_hog		KIN_MAR_LECA	D	Eukaryota		10	29879	0	0	1	1	0	1	Eukaryota	internal	1	0	0
+E01_kinesins		one_big_hog		K9A_9B_LECA	D	Eukaryota		2	77	0	0	1	1	0	1	Eukaryota	internal	1	0	0
+E02_ARF		one_big_hog		ARF_LECA	D	Eukaryota		15	26888	0	0	1	1	0	1	Eukaryota	internal	1	0	0
+E02_ARF		one_big_hog		Arf1_Arf4_Holozoa	D	Holozoa		2	56	0	0	1	1	0	1	Holozoa	internal	1	0	0
+E02_ARF		one_big_hog		Arf1_holozoa_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E02_ARF		one_big_hog		Arf4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E02_ARF		one_big_hog		Arl4_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		one_big_hog		RAB_LECA_supergroups	D	Eukaryota		6	57507	0	0	1	1	0	1	Eukaryota	internal	1	0	0
+E03_Rab		one_big_hog		SGI_LECA	D	Eukaryota		3	3396	0	0	1	1	0	1	Eukaryota	internal	1	0	0
+E03_Rab		one_big_hog		Rab8_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		one_big_hog		Rab18_Rab40_Bilateria	D	Bilateria		2	6	0	0	1	1	0	1	Bilateria	internal	1	0	0
+E03_Rab		one_big_hog		SGII_LECA	D	Eukaryota		5	1274	0	0	1	1	0	1	Eukaryota	internal	1	0	0
+E03_Rab		one_big_hog		Rab5_HUMAN_dup	D	HUMAN		4	6	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		one_big_hog		Rab22_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		one_big_hog		SGIII_LECA	D	Eukaryota		5	1094	0	0	1	1	0	1	Eukaryota	internal	1	0	0
+E03_Rab		one_big_hog		Rab7_Rab9_Opisthokonta	D	Opisthokonta		2	64	0	0	1	1	0	1	Holozoa	internal	1	0	0
+E03_Rab		one_big_hog		Rab32_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		one_big_hog		SGIV_LECA	D	Eukaryota		4	2508	0	0	1	1	0	1	Eukaryota	internal	1	0	0
+E03_Rab		one_big_hog		Rab4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		one_big_hog		Rab6_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		one_big_hog		SGVI_LECA	D	Eukaryota		2	63	0	0	1	1	0	1	Eukaryota	internal	1	0	0
+E04_tubulins		one_big_hog		TUB_LECA	D	Eukaryota		6	10227	0	0	1	1	0	1	Eukaryota	internal	1	0	0
 E05_MCM		one_big_hog		MCM_LECA_DUPS	D	Eukaryota		8	5464	0	0	1	1	0	1	Eukaryota	internal	1	0	0
 E05_MCM		one_big_hog		Mcm3_NAEGR_dup	D	NAEGR	LSE	2	1	1	1	1	1	0	0	Discoba	leaf	1	1	1
-E06_myosins	E_cytoskeleton_motors	one_big_hog		MYO_LECA	D	Eukaryota		2	8584	0	0	1	1	0	1	Eukaryota	internal	1	0	0
-E07a_adaptins_large	E_adaptor_complexes	one_big_hog		E07a_LECA	D	Eukaryota		13	4929	0	0	1	1	0	1	Eukaryota	internal	1	0	0
-E07b_adaptins_medium_small	E_adaptor_complexes	one_big_hog		E07b_LECA	D	Eukaryota		14	6561	0	0	1	1	0	1	Eukaryota	internal	1	0	0
-E07c_adaptins_scaffold	E_adaptor_complexes	one_big_hog		E07c_LECA	D	Eukaryota		4	398	0	0	1	1	0	1	Eukaryota	internal	1	0	0
-E01_kinesins	E_cytoskeleton_motors	random_relabel	mean10	KIN_MAR_LECA	D	Eukaryota		10	29879	0.986178	0.986178	0	1	0	0.0138224	inf	internal	1	0	0
-E01_kinesins	E_cytoskeleton_motors	random_relabel	mean10	K9A_9B_LECA	D	Eukaryota		2	77	0.961039	0.961039	0.047619	1	0	0.038961	inf	internal	1	0	0
-E02_ARF	E_small_GTPases	random_relabel	mean10	ARF_LECA	D	Eukaryota		15	26888	0.981442	0.981442	0	1	0	0.0185585	inf	internal	1	0	0
-E02_ARF	E_small_GTPases	random_relabel	mean10	Arf1_Arf4_Holozoa	D	Holozoa		2	56	0	1	0	0	1	0	inf	internal	1	0	0
-E02_ARF	E_small_GTPases	random_relabel	mean10	Arf1_holozoa_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
-E02_ARF	E_small_GTPases	random_relabel	mean10	Arf4_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
-E02_ARF	E_small_GTPases	random_relabel	mean10	Arl4_HUMAN_dup	D	HUMAN		3	3	0	1	1	0	1	0	inf	leaf	1	0	0
-E03_Rab	E_small_GTPases	random_relabel	mean10	RAB_LECA_supergroups	D	Eukaryota		6	57507	0.976681	0.976681	0.0134228	1	0	0.0233189	inf	internal	1	0	0
-E03_Rab	E_small_GTPases	random_relabel	mean10	SGI_LECA	D	Eukaryota		3	3396	0.973498	0.973498	0.0232558	1	0	0.0265018	inf	internal	1	0	0
-E03_Rab	E_small_GTPases	random_relabel	mean10	Rab8_HUMAN_dup	D	HUMAN		3	3	0	1	1	0	1	0	inf	leaf	1	0	0
-E03_Rab	E_small_GTPases	random_relabel	mean10	Rab18_Rab40_Bilateria	D	Bilateria		2	6	0	1	0	0	1	0	inf	internal	1	0	0
-E03_Rab	E_small_GTPases	random_relabel	mean10	SGII_LECA	D	Eukaryota		5	1274	0.979592	0.979592	0.0128205	1	0	0.0204082	inf	internal	1	0	0
-E03_Rab	E_small_GTPases	random_relabel	mean10	Rab5_HUMAN_dup	D	HUMAN		4	6	0	1	1	0	1	0	inf	leaf	1	0	0
-E03_Rab	E_small_GTPases	random_relabel	mean10	Rab22_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
-E03_Rab	E_small_GTPases	random_relabel	mean10	SGIII_LECA	D	Eukaryota		5	1094	0.977148	0.977148	0	1	0	0.0228519	inf	internal	1	0	0
-E03_Rab	E_small_GTPases	random_relabel	mean10	Rab7_Rab9_Opisthokonta	D	Opisthokonta		2	64	0	1	0	0	1	0	inf	internal	1	0	0
-E03_Rab	E_small_GTPases	random_relabel	mean10	Rab32_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
-E03_Rab	E_small_GTPases	random_relabel	mean10	SGIV_LECA	D	Eukaryota		4	2508	0.97807	0.97807	0	1	0	0.0219298	inf	internal	1	0	0
-E03_Rab	E_small_GTPases	random_relabel	mean10	Rab4_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
-E03_Rab	E_small_GTPases	random_relabel	mean10	Rab6_HUMAN_dup	D	HUMAN		3	3	0	1	1	0	1	0	inf	leaf	1	0	0
-E03_Rab	E_small_GTPases	random_relabel	mean10	SGVI_LECA	D	Eukaryota		2	63	1	1	0	1	0	0	inf	internal	1	0	0
-E04_tubulins	E_cytoskeleton_motors	random_relabel	mean10	TUB_LECA	D	Eukaryota		6	10227	0.984257	0.984257	0	1	0	0.0157426	inf	internal	1	0	0
+E06_myosins		one_big_hog		MYO_LECA	D	Eukaryota		2	8584	0	0	1	1	0	1	Eukaryota	internal	1	0	0
+E07a_adaptins_large		one_big_hog		E07a_LECA	D	Eukaryota		13	4929	0	0	1	1	0	1	Eukaryota	internal	1	0	0
+E07b_adaptins_medium_small		one_big_hog		E07b_LECA	D	Eukaryota		14	6561	0	0	1	1	0	1	Eukaryota	internal	1	0	0
+E07c_adaptins_scaffold		one_big_hog		E07c_LECA	D	Eukaryota		4	398	0	0	1	1	0	1	Eukaryota	internal	1	0	0
+E01_kinesins		random_relabel	mean10	KIN_MAR_LECA	D	Eukaryota		10	29879	0.986178	0.986178	0	1	0	0.0138224	inf	internal	1	0	0
+E01_kinesins		random_relabel	mean10	K9A_9B_LECA	D	Eukaryota		2	77	0.961039	0.961039	0.047619	1	0	0.038961	inf	internal	1	0	0
+E02_ARF		random_relabel	mean10	ARF_LECA	D	Eukaryota		15	26888	0.981442	0.981442	0	1	0	0.0185585	inf	internal	1	0	0
+E02_ARF		random_relabel	mean10	Arf1_Arf4_Holozoa	D	Holozoa		2	56	0	1	0	0	1	0	inf	internal	1	0	0
+E02_ARF		random_relabel	mean10	Arf1_holozoa_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+E02_ARF		random_relabel	mean10	Arf4_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+E02_ARF		random_relabel	mean10	Arl4_HUMAN_dup	D	HUMAN		3	3	0	1	1	0	1	0	inf	leaf	1	0	0
+E03_Rab		random_relabel	mean10	RAB_LECA_supergroups	D	Eukaryota		6	57507	0.976681	0.976681	0.0134228	1	0	0.0233189	inf	internal	1	0	0
+E03_Rab		random_relabel	mean10	SGI_LECA	D	Eukaryota		3	3396	0.973498	0.973498	0.0232558	1	0	0.0265018	inf	internal	1	0	0
+E03_Rab		random_relabel	mean10	Rab8_HUMAN_dup	D	HUMAN		3	3	0	1	1	0	1	0	inf	leaf	1	0	0
+E03_Rab		random_relabel	mean10	Rab18_Rab40_Bilateria	D	Bilateria		2	6	0	1	0	0	1	0	inf	internal	1	0	0
+E03_Rab		random_relabel	mean10	SGII_LECA	D	Eukaryota		5	1274	0.979592	0.979592	0.0128205	1	0	0.0204082	inf	internal	1	0	0
+E03_Rab		random_relabel	mean10	Rab5_HUMAN_dup	D	HUMAN		4	6	0	1	1	0	1	0	inf	leaf	1	0	0
+E03_Rab		random_relabel	mean10	Rab22_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+E03_Rab		random_relabel	mean10	SGIII_LECA	D	Eukaryota		5	1094	0.977148	0.977148	0	1	0	0.0228519	inf	internal	1	0	0
+E03_Rab		random_relabel	mean10	Rab7_Rab9_Opisthokonta	D	Opisthokonta		2	64	0	1	0	0	1	0	inf	internal	1	0	0
+E03_Rab		random_relabel	mean10	Rab32_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+E03_Rab		random_relabel	mean10	SGIV_LECA	D	Eukaryota		4	2508	0.97807	0.97807	0	1	0	0.0219298	inf	internal	1	0	0
+E03_Rab		random_relabel	mean10	Rab4_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+E03_Rab		random_relabel	mean10	Rab6_HUMAN_dup	D	HUMAN		3	3	0	1	1	0	1	0	inf	leaf	1	0	0
+E03_Rab		random_relabel	mean10	SGVI_LECA	D	Eukaryota		2	63	1	1	0	1	0	0	inf	internal	1	0	0
+E04_tubulins		random_relabel	mean10	TUB_LECA	D	Eukaryota		6	10227	0.984257	0.984257	0	1	0	0.0157426	inf	internal	1	0	0
 E05_MCM		random_relabel	mean10	MCM_LECA_DUPS	D	Eukaryota		8	5464	0.122072	0.984993	0	0.137079	0.862921	0.0150073	inf	internal	1	0	0
 E05_MCM		random_relabel	mean10	Mcm3_NAEGR_dup	D	NAEGR	LSE	2	1	0	1	1	0	1	0	inf	leaf	1	0	0
-E06_myosins	E_cytoskeleton_motors	random_relabel	mean10	MYO_LECA	D	Eukaryota		2	8584	0.972507	0.972507	0.047619	1	0	0.027493	inf	internal	1	0	0
-E07a_adaptins_large	E_adaptor_complexes	random_relabel	mean10	E07a_LECA	D	Eukaryota		13	4929	0.978698	0.978698	0	1	0	0.0213025	inf	internal	1	0	0
-E07b_adaptins_medium_small	E_adaptor_complexes	random_relabel	mean10	E07b_LECA	D	Eukaryota		14	6561	0.983387	0.983387	0	1	0	0.0166133	inf	internal	1	0	0
-E07c_adaptins_scaffold	E_adaptor_complexes	random_relabel	mean10	E07c_LECA	D	Eukaryota		4	398	0.987437	0.987437	0	1	0	0.0125628	inf	internal	1	0	0
-E01_kinesins	E_cytoskeleton_motors	fastoma	default_declared	KIN_MAR_LECA	D	Eukaryota		10	29879	0.92396	0.92396	0	1	0	0.07604	inf	internal	1	0	0
-E01_kinesins	E_cytoskeleton_motors	fastoma	default_declared	K9A_9B_LECA	D	Eukaryota		2	77	0.961039	0.961039	0	1	0	0.038961	inf	internal	1	0	0
-E02_ARF	E_small_GTPases	fastoma	default_declared	ARF_LECA	D	Eukaryota		15	26888	0.935399	0.935399	0	1	0	0.0646013	inf	internal	1	0	0
-E02_ARF	E_small_GTPases	fastoma	default_declared	Arf1_Arf4_Holozoa	D	Holozoa		2	56	0	1	0	0	1	0	inf	internal	1	0	0
-E02_ARF	E_small_GTPases	fastoma	default_declared	Arf1_holozoa_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
-E02_ARF	E_small_GTPases	fastoma	default_declared	Arf4_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
-E02_ARF	E_small_GTPases	fastoma	default_declared	Arl4_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	fastoma	default_declared	RAB_LECA_supergroups	D	Eukaryota		6	57507	0.5696	0.5696	0.395604	1	0	0.4304	Asgard_Eukaryota	internal	1	0	0
-E03_Rab	E_small_GTPases	fastoma	default_declared	SGI_LECA	D	Eukaryota		3	3396	0.587456	0.587456	0.395349	1	0	0.412544	Asgard_Eukaryota	internal	1	0	0
-E03_Rab	E_small_GTPases	fastoma	default_declared	Rab8_HUMAN_dup	D	HUMAN		3	3	0.333333	1	1	0.333333	0.666667	0	Opisthokonta	leaf	1	0	0
-E03_Rab	E_small_GTPases	fastoma	default_declared	Rab18_Rab40_Bilateria	D	Bilateria		2	6	0	1	1	0	1	0	inf	internal	1	0	0
-E03_Rab	E_small_GTPases	fastoma	default_declared	SGII_LECA	D	Eukaryota		5	1274	0.499215	0.499215	0.428571	1	0	0.500785	Asgard_Eukaryota	internal	1	0	0
-E03_Rab	E_small_GTPases	fastoma	default_declared	Rab5_HUMAN_dup	D	HUMAN		4	6	0.5	1	1	0.5	0.5	0	Bilateria	leaf	1	1	0
-E03_Rab	E_small_GTPases	fastoma	default_declared	Rab22_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Planulozoa	leaf	1	1	1
-E03_Rab	E_small_GTPases	fastoma	default_declared	SGIII_LECA	D	Eukaryota		5	1094	0.486289	0.486289	0.333333	1	0	0.513711	Asgard_Eukaryota	internal	1	0	0
-E03_Rab	E_small_GTPases	fastoma	default_declared	Rab7_Rab9_Opisthokonta	D	Opisthokonta		2	64	0	0	1	1	0	1	Opisthokonta	internal	1	0	0
-E03_Rab	E_small_GTPases	fastoma	default_declared	Rab32_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Planulozoa	leaf	1	1	1
-E03_Rab	E_small_GTPases	fastoma	default_declared	SGIV_LECA	D	Eukaryota		4	2508	0.580144	0.580144	0.52381	1	0	0.419856	Asgard_Eukaryota	internal	1	1	0
-E03_Rab	E_small_GTPases	fastoma	default_declared	Rab4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	fastoma	default_declared	Rab6_HUMAN_dup	D	HUMAN		3	3	0	1	1	0	1	0	inf	leaf	1	0	0
-E03_Rab	E_small_GTPases	fastoma	default_declared	SGVI_LECA	D	Eukaryota		2	63	0.571429	0.571429	0.4	1	0	0.428571	Asgard_Eukaryota	internal	1	0	0
-E04_tubulins	E_cytoskeleton_motors	fastoma	default_declared	TUB_LECA	D	Eukaryota		6	10227	1	1	0.47619	1	0	0	inf	internal	1	0	0
+E06_myosins		random_relabel	mean10	MYO_LECA	D	Eukaryota		2	8584	0.972507	0.972507	0.047619	1	0	0.027493	inf	internal	1	0	0
+E07a_adaptins_large		random_relabel	mean10	E07a_LECA	D	Eukaryota		13	4929	0.978698	0.978698	0	1	0	0.0213025	inf	internal	1	0	0
+E07b_adaptins_medium_small		random_relabel	mean10	E07b_LECA	D	Eukaryota		14	6561	0.983387	0.983387	0	1	0	0.0166133	inf	internal	1	0	0
+E07c_adaptins_scaffold		random_relabel	mean10	E07c_LECA	D	Eukaryota		4	398	0.987437	0.987437	0	1	0	0.0125628	inf	internal	1	0	0
+E01_kinesins		fastoma	default_declared	KIN_MAR_LECA	D	Eukaryota		10	29879	0.92396	0.92396	0	1	0	0.07604	inf	internal	1	0	0
+E01_kinesins		fastoma	default_declared	K9A_9B_LECA	D	Eukaryota		2	77	0.961039	0.961039	0	1	0	0.038961	inf	internal	1	0	0
+E02_ARF		fastoma	default_declared	ARF_LECA	D	Eukaryota		15	26888	0.935399	0.935399	0	1	0	0.0646013	inf	internal	1	0	0
+E02_ARF		fastoma	default_declared	Arf1_Arf4_Holozoa	D	Holozoa		2	56	0	1	0	0	1	0	inf	internal	1	0	0
+E02_ARF		fastoma	default_declared	Arf1_holozoa_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+E02_ARF		fastoma	default_declared	Arf4_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+E02_ARF		fastoma	default_declared	Arl4_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		fastoma	default_declared	RAB_LECA_supergroups	D	Eukaryota		6	57507	0.5696	0.5696	0.395604	1	0	0.4304	Asgard_Eukaryota	internal	1	0	0
+E03_Rab		fastoma	default_declared	SGI_LECA	D	Eukaryota		3	3396	0.587456	0.587456	0.395349	1	0	0.412544	Asgard_Eukaryota	internal	1	0	0
+E03_Rab		fastoma	default_declared	Rab8_HUMAN_dup	D	HUMAN		3	3	0.333333	1	1	0.333333	0.666667	0	Opisthokonta	leaf	1	0	0
+E03_Rab		fastoma	default_declared	Rab18_Rab40_Bilateria	D	Bilateria		2	6	0	1	1	0	1	0	inf	internal	1	0	0
+E03_Rab		fastoma	default_declared	SGII_LECA	D	Eukaryota		5	1274	0.499215	0.499215	0.428571	1	0	0.500785	Asgard_Eukaryota	internal	1	0	0
+E03_Rab		fastoma	default_declared	Rab5_HUMAN_dup	D	HUMAN		4	6	0.5	1	1	0.5	0.5	0	Bilateria	leaf	1	1	0
+E03_Rab		fastoma	default_declared	Rab22_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Planulozoa	leaf	1	1	1
+E03_Rab		fastoma	default_declared	SGIII_LECA	D	Eukaryota		5	1094	0.486289	0.486289	0.333333	1	0	0.513711	Asgard_Eukaryota	internal	1	0	0
+E03_Rab		fastoma	default_declared	Rab7_Rab9_Opisthokonta	D	Opisthokonta		2	64	0	0	1	1	0	1	Opisthokonta	internal	1	0	0
+E03_Rab		fastoma	default_declared	Rab32_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Planulozoa	leaf	1	1	1
+E03_Rab		fastoma	default_declared	SGIV_LECA	D	Eukaryota		4	2508	0.580144	0.580144	0.52381	1	0	0.419856	Asgard_Eukaryota	internal	1	1	0
+E03_Rab		fastoma	default_declared	Rab4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		fastoma	default_declared	Rab6_HUMAN_dup	D	HUMAN		3	3	0	1	1	0	1	0	inf	leaf	1	0	0
+E03_Rab		fastoma	default_declared	SGVI_LECA	D	Eukaryota		2	63	0.571429	0.571429	0.4	1	0	0.428571	Asgard_Eukaryota	internal	1	0	0
+E04_tubulins		fastoma	default_declared	TUB_LECA	D	Eukaryota		6	10227	1	1	0.47619	1	0	0	inf	internal	1	0	0
 E05_MCM		fastoma	default_declared	MCM_LECA_DUPS	D	Eukaryota		8	5464	0	0.61164	0.333333	0.38836	0.61164	0.38836	inf	internal	1	0	0
 E05_MCM		fastoma	default_declared	Mcm3_NAEGR_dup	D	NAEGR	LSE	2	1	1	1	1	1	0	0	Discoba	leaf	1	1	1
-E06_myosins	E_cytoskeleton_motors	fastoma	default_declared	MYO_LECA	D	Eukaryota		2	8584	0.747204	0.747204	0.857143	1	0	0.252796	inf	internal	1	1	0
-E07a_adaptins_large	E_adaptor_complexes	fastoma	default_declared	E07a_LECA	D	Eukaryota		13	4929	0.997768	0.997768	0	1	0	0.00223169	inf	internal	1	0	0
-E07b_adaptins_medium_small	E_adaptor_complexes	fastoma	default_declared	E07b_LECA	D	Eukaryota		14	6561	0.873495	0.873495	0	1	0	0.126505	inf	internal	1	0	0
-E07c_adaptins_scaffold	E_adaptor_complexes	fastoma	default_declared	E07c_LECA	D	Eukaryota		4	398	1	1	0	1	0	0	inf	internal	1	0	0
-E01_kinesins	E_cytoskeleton_motors	fastoma	default_late	KIN_MAR_LECA	D	Eukaryota		10	29879	0.92396	0.92396	0	1	0	0.07604	inf	internal	1	0	0
-E01_kinesins	E_cytoskeleton_motors	fastoma	default_late	K9A_9B_LECA	D	Eukaryota		2	77	0.961039	0.961039	0	1	0	0.038961	inf	internal	1	0	0
-E02_ARF	E_small_GTPases	fastoma	default_late	ARF_LECA	D	Eukaryota		15	26888	0.935399	0.935399	0	1	0	0.0646013	inf	internal	1	0	0
-E02_ARF	E_small_GTPases	fastoma	default_late	Arf1_Arf4_Holozoa	D	Holozoa		2	56	0	1	0	0	1	0	inf	internal	1	0	0
-E02_ARF	E_small_GTPases	fastoma	default_late	Arf1_holozoa_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
-E02_ARF	E_small_GTPases	fastoma	default_late	Arf4_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
-E02_ARF	E_small_GTPases	fastoma	default_late	Arl4_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	fastoma	default_late	RAB_LECA_supergroups	D	Eukaryota		6	57507	0.5696	0.5696	0.395604	1	0	0.4304	Asgard_Eukaryota	internal	1	0	0
-E03_Rab	E_small_GTPases	fastoma	default_late	SGI_LECA	D	Eukaryota		3	3396	0.587456	0.587456	0.395349	1	0	0.412544	Asgard_Eukaryota	internal	1	0	0
-E03_Rab	E_small_GTPases	fastoma	default_late	Rab8_HUMAN_dup	D	HUMAN		3	3	0.333333	1	1	0.333333	0.666667	0	Opisthokonta	leaf	1	0	0
-E03_Rab	E_small_GTPases	fastoma	default_late	Rab18_Rab40_Bilateria	D	Bilateria		2	6	0	1	1	0	1	0	inf	internal	1	0	0
-E03_Rab	E_small_GTPases	fastoma	default_late	SGII_LECA	D	Eukaryota		5	1274	0.499215	0.499215	0.428571	1	0	0.500785	Asgard_Eukaryota	internal	1	0	0
-E03_Rab	E_small_GTPases	fastoma	default_late	Rab5_HUMAN_dup	D	HUMAN		4	6	0.5	1	1	0.5	0.5	0	Bilateria	leaf	1	1	0
-E03_Rab	E_small_GTPases	fastoma	default_late	Rab22_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	fastoma	default_late	SGIII_LECA	D	Eukaryota		5	1094	0.486289	0.486289	0.333333	1	0	0.513711	Asgard_Eukaryota	internal	1	0	0
-E03_Rab	E_small_GTPases	fastoma	default_late	Rab7_Rab9_Opisthokonta	D	Opisthokonta		2	64	0	0	1	1	0	1	Opisthokonta	internal	1	0	0
-E03_Rab	E_small_GTPases	fastoma	default_late	Rab32_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Planulozoa	leaf	1	1	1
-E03_Rab	E_small_GTPases	fastoma	default_late	SGIV_LECA	D	Eukaryota		4	2508	0.580144	0.580144	0.52381	1	0	0.419856	Asgard_Eukaryota	internal	1	1	0
-E03_Rab	E_small_GTPases	fastoma	default_late	Rab4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	fastoma	default_late	Rab6_HUMAN_dup	D	HUMAN		3	3	0	1	1	0	1	0	inf	leaf	1	0	0
-E03_Rab	E_small_GTPases	fastoma	default_late	SGVI_LECA	D	Eukaryota		2	63	0.571429	0.571429	0.4	1	0	0.428571	Asgard_Eukaryota	internal	1	0	0
-E04_tubulins	E_cytoskeleton_motors	fastoma	default_late	TUB_LECA	D	Eukaryota		6	10227	1	1	0.47619	1	0	0	inf	internal	1	0	0
+E06_myosins		fastoma	default_declared	MYO_LECA	D	Eukaryota		2	8584	0.747204	0.747204	0.857143	1	0	0.252796	inf	internal	1	1	0
+E07a_adaptins_large		fastoma	default_declared	E07a_LECA	D	Eukaryota		13	4929	0.997768	0.997768	0	1	0	0.00223169	inf	internal	1	0	0
+E07b_adaptins_medium_small		fastoma	default_declared	E07b_LECA	D	Eukaryota		14	6561	0.873495	0.873495	0	1	0	0.126505	inf	internal	1	0	0
+E07c_adaptins_scaffold		fastoma	default_declared	E07c_LECA	D	Eukaryota		4	398	1	1	0	1	0	0	inf	internal	1	0	0
+E01_kinesins		fastoma	default_late	KIN_MAR_LECA	D	Eukaryota		10	29879	0.92396	0.92396	0	1	0	0.07604	inf	internal	1	0	0
+E01_kinesins		fastoma	default_late	K9A_9B_LECA	D	Eukaryota		2	77	0.961039	0.961039	0	1	0	0.038961	inf	internal	1	0	0
+E02_ARF		fastoma	default_late	ARF_LECA	D	Eukaryota		15	26888	0.935399	0.935399	0	1	0	0.0646013	inf	internal	1	0	0
+E02_ARF		fastoma	default_late	Arf1_Arf4_Holozoa	D	Holozoa		2	56	0	1	0	0	1	0	inf	internal	1	0	0
+E02_ARF		fastoma	default_late	Arf1_holozoa_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+E02_ARF		fastoma	default_late	Arf4_HUMAN_dup	D	HUMAN		2	1	0	1	1	0	1	0	inf	leaf	1	0	0
+E02_ARF		fastoma	default_late	Arl4_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		fastoma	default_late	RAB_LECA_supergroups	D	Eukaryota		6	57507	0.5696	0.5696	0.395604	1	0	0.4304	Asgard_Eukaryota	internal	1	0	0
+E03_Rab		fastoma	default_late	SGI_LECA	D	Eukaryota		3	3396	0.587456	0.587456	0.395349	1	0	0.412544	Asgard_Eukaryota	internal	1	0	0
+E03_Rab		fastoma	default_late	Rab8_HUMAN_dup	D	HUMAN		3	3	0.333333	1	1	0.333333	0.666667	0	Opisthokonta	leaf	1	0	0
+E03_Rab		fastoma	default_late	Rab18_Rab40_Bilateria	D	Bilateria		2	6	0	1	1	0	1	0	inf	internal	1	0	0
+E03_Rab		fastoma	default_late	SGII_LECA	D	Eukaryota		5	1274	0.499215	0.499215	0.428571	1	0	0.500785	Asgard_Eukaryota	internal	1	0	0
+E03_Rab		fastoma	default_late	Rab5_HUMAN_dup	D	HUMAN		4	6	0.5	1	1	0.5	0.5	0	Bilateria	leaf	1	1	0
+E03_Rab		fastoma	default_late	Rab22_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		fastoma	default_late	SGIII_LECA	D	Eukaryota		5	1094	0.486289	0.486289	0.333333	1	0	0.513711	Asgard_Eukaryota	internal	1	0	0
+E03_Rab		fastoma	default_late	Rab7_Rab9_Opisthokonta	D	Opisthokonta		2	64	0	0	1	1	0	1	Opisthokonta	internal	1	0	0
+E03_Rab		fastoma	default_late	Rab32_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Planulozoa	leaf	1	1	1
+E03_Rab		fastoma	default_late	SGIV_LECA	D	Eukaryota		4	2508	0.580144	0.580144	0.52381	1	0	0.419856	Asgard_Eukaryota	internal	1	1	0
+E03_Rab		fastoma	default_late	Rab4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		fastoma	default_late	Rab6_HUMAN_dup	D	HUMAN		3	3	0	1	1	0	1	0	inf	leaf	1	0	0
+E03_Rab		fastoma	default_late	SGVI_LECA	D	Eukaryota		2	63	0.571429	0.571429	0.4	1	0	0.428571	Asgard_Eukaryota	internal	1	0	0
+E04_tubulins		fastoma	default_late	TUB_LECA	D	Eukaryota		6	10227	1	1	0.47619	1	0	0	inf	internal	1	0	0
 E05_MCM		fastoma	default_late	MCM_LECA_DUPS	D	Eukaryota		8	5464	0	0.61164	0.333333	0.38836	0.61164	0.38836	inf	internal	1	0	0
 E05_MCM		fastoma	default_late	Mcm3_NAEGR_dup	D	NAEGR	LSE	2	1	1	1	1	1	0	0	Discoba	leaf	1	1	1
-E06_myosins	E_cytoskeleton_motors	fastoma	default_late	MYO_LECA	D	Eukaryota		2	8584	0.747204	0.747204	0.857143	1	0	0.252796	inf	internal	1	1	0
-E07a_adaptins_large	E_adaptor_complexes	fastoma	default_late	E07a_LECA	D	Eukaryota		13	4929	0.997768	0.997768	0	1	0	0.00223169	inf	internal	1	0	0
-E07b_adaptins_medium_small	E_adaptor_complexes	fastoma	default_late	E07b_LECA	D	Eukaryota		14	6561	0.873495	0.873495	0	1	0	0.126505	inf	internal	1	0	0
-E07c_adaptins_scaffold	E_adaptor_complexes	fastoma	default_late	E07c_LECA	D	Eukaryota		4	398	1	1	0	1	0	0	inf	internal	1	0	0
-E01_kinesins	E_cytoskeleton_motors	orthofinder	default	KIN_MAR_LECA	D	Eukaryota		10	29879	0.999699	0.999699	0	1	0	0.000301215	Asgard_Eukaryota	internal	1	0	0
-E01_kinesins	E_cytoskeleton_motors	orthofinder	default	K9A_9B_LECA	D	Eukaryota		2	77	1	1	0.52381	1	0	0	Asgard_Eukaryota	internal	1	1	0
-E02_ARF	E_small_GTPases	orthofinder	default	ARF_LECA	D	Eukaryota		15	26888	0.999219	0.999219	0.333333	1	0	0.000781018	Asgard_Eukaryota	internal	1	0	0
-E02_ARF	E_small_GTPases	orthofinder	default	Arf1_Arf4_Holozoa	D	Holozoa		2	56	0	1	1	0	1	0	Asgard_Eukaryota	internal	1	0	0
-E02_ARF	E_small_GTPases	orthofinder	default	Arf1_holozoa_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E02_ARF	E_small_GTPases	orthofinder	default	Arf4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E02_ARF	E_small_GTPases	orthofinder	default	Arl4_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	orthofinder	default	RAB_LECA_supergroups	D	Eukaryota		6	57507	0.99967	0.99967	0.721591	1	0	0.000330395	TACK_Asgard_Eukaryota	internal	1	1	0
-E03_Rab	E_small_GTPases	orthofinder	default	SGI_LECA	D	Eukaryota		3	3396	0.993227	0.993227	0.538462	1	0	0.00677267	TACK_Asgard_Eukaryota	internal	1	1	0
-E03_Rab	E_small_GTPases	orthofinder	default	Rab8_HUMAN_dup	D	HUMAN		3	3	0.333333	1	1	0.333333	0.666667	0	Choanozoa	leaf	1	0	0
-E03_Rab	E_small_GTPases	orthofinder	default	Rab18_Rab40_Bilateria	D	Bilateria		2	6	0	1	1	0	1	0	inf	internal	1	0	0
-E03_Rab	E_small_GTPases	orthofinder	default	SGII_LECA	D	Eukaryota		5	1274	0.959184	0.959184	0.4	1	0	0.0408163	Asgard_Eukaryota	internal	1	0	0
-E03_Rab	E_small_GTPases	orthofinder	default	Rab5_HUMAN_dup	D	HUMAN		4	6	0.5	1	1	0.5	0.5	0	Bilateria	leaf	1	1	0
-E03_Rab	E_small_GTPases	orthofinder	default	Rab22_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	orthofinder	default	SGIII_LECA	D	Eukaryota		5	1094	0.999086	0.999086	0.166667	1	0	0.000914077	TACK_Asgard_Eukaryota	internal	1	0	0
-E03_Rab	E_small_GTPases	orthofinder	default	Rab7_Rab9_Opisthokonta	D	Opisthokonta		2	64	0	1	1	0	1	0	Eukaryota	internal	1	0	0
-E03_Rab	E_small_GTPases	orthofinder	default	Rab32_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	orthofinder	default	SGIV_LECA	D	Eukaryota		4	2508	1	1	0.529412	1	0	0	Asgard_Eukaryota	internal	1	1	0
-E03_Rab	E_small_GTPases	orthofinder	default	Rab4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	orthofinder	default	Rab6_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
-E03_Rab	E_small_GTPases	orthofinder	default	SGVI_LECA	D	Eukaryota		2	63	1	1	1	1	0	0	TACK_Asgard_Eukaryota	internal	1	1	1
-E04_tubulins	E_cytoskeleton_motors	orthofinder	default	TUB_LECA	D	Eukaryota		6	10227	1	1	0.714286	1	0	0	Asgard_Eukaryota	internal	1	1	0
+E06_myosins		fastoma	default_late	MYO_LECA	D	Eukaryota		2	8584	0.747204	0.747204	0.857143	1	0	0.252796	inf	internal	1	1	0
+E07a_adaptins_large		fastoma	default_late	E07a_LECA	D	Eukaryota		13	4929	0.997768	0.997768	0	1	0	0.00223169	inf	internal	1	0	0
+E07b_adaptins_medium_small		fastoma	default_late	E07b_LECA	D	Eukaryota		14	6561	0.873495	0.873495	0	1	0	0.126505	inf	internal	1	0	0
+E07c_adaptins_scaffold		fastoma	default_late	E07c_LECA	D	Eukaryota		4	398	1	1	0	1	0	0	inf	internal	1	0	0
+E01_kinesins		of_flat	default	KIN_MAR_LECA	D	Eukaryota		10	29879	0.0496335	0.0496335	0.5	1	0	0.950366	Eukaryota	internal	1	0	0
+E01_kinesins		of_flat	default	K9A_9B_LECA	D	Eukaryota		2	77	0	0	1	1	0	1	Eukaryota	internal	1	0	0
+E02_ARF		of_flat	default	ARF_LECA	D	Eukaryota		15	26888	0.269563	0.269563	0.357143	1	0	0.730437	Eukaryota	internal	1	0	0
+E02_ARF		of_flat	default	Arf1_Arf4_Holozoa	D	Holozoa		2	56	0	0	1	1	0	1	Holozoa	internal	1	0	0
+E02_ARF		of_flat	default	Arf1_holozoa_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E02_ARF		of_flat	default	Arf4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E02_ARF		of_flat	default	Arl4_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		of_flat	default	RAB_LECA_supergroups	D	Eukaryota		6	57507	0.11616	0.11616	0.886364	1	0	0.88384	Eukaryota	internal	1	0	0
+E03_Rab		of_flat	default	SGI_LECA	D	Eukaryota		3	3396	0.0957008	0.0957008	0.860465	1	0	0.904299	Eukaryota	internal	1	0	0
+E03_Rab		of_flat	default	Rab8_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		of_flat	default	Rab18_Rab40_Bilateria	D	Bilateria		2	6	0	1	1	0	1	0	inf	internal	1	0	0
+E03_Rab		of_flat	default	SGII_LECA	D	Eukaryota		5	1274	0.102826	0.102826	0.571429	1	0	0.897174	Eukaryota	internal	1	0	0
+E03_Rab		of_flat	default	Rab5_HUMAN_dup	D	HUMAN		4	6	0.5	1	1	0.5	0.5	0	Bilateria	leaf	1	1	0
+E03_Rab		of_flat	default	Rab22_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		of_flat	default	SGIII_LECA	D	Eukaryota		5	1094	0.0246801	0.0246801	0.923077	1	0	0.97532	Eukaryota	internal	1	0	0
+E03_Rab		of_flat	default	Rab7_Rab9_Opisthokonta	D	Opisthokonta		2	64	0	0.125	1	0.875	0.125	0.875	Holozoa	internal	1	0	0
+E03_Rab		of_flat	default	Rab32_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		of_flat	default	SGIV_LECA	D	Eukaryota		4	2508	0.188596	0.188596	1	1	0	0.811404	Eukaryota	internal	1	0	0
+E03_Rab		of_flat	default	Rab4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		of_flat	default	Rab6_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		of_flat	default	SGVI_LECA	D	Eukaryota		2	63	0	0	1	1	0	1	Eukaryota	internal	1	0	0
+E04_tubulins		of_flat	default	TUB_LECA	D	Eukaryota		6	10227	0.0110492	0.0110492	1	1	0	0.988951	Eukaryota	internal	1	0	0
+E05_MCM		of_flat	default	MCM_LECA_DUPS	D	Eukaryota		8	5464	0	0	1	1	0	1	Eukaryota	internal	1	0	0
+E05_MCM		of_flat	default	Mcm3_NAEGR_dup	D	NAEGR	LSE	2	1	1	1	1	1	0	0	Discoba	leaf	1	1	1
+E06_myosins		of_flat	default	MYO_LECA	D	Eukaryota		2	8584	0.0472973	0.0472973	1	1	0	0.952703	Eukaryota	internal	1	0	0
+E07a_adaptins_large		of_flat	default	E07a_LECA	D	Eukaryota		13	4929	0.902414	0.902414	0.166667	1	0	0.0975857	inf	internal	1	0	0
+E07b_adaptins_medium_small		of_flat	default	E07b_LECA	D	Eukaryota		14	6561	0.874562	0.874562	0.290909	1	0	0.125438	inf	internal	1	0	0
+E07c_adaptins_scaffold		of_flat	default	E07c_LECA	D	Eukaryota		4	398	0.859296	0.859296	0	1	0	0.140704	inf	internal	1	0	0
+E01_kinesins		orthofinder	default	KIN_MAR_LECA	D	Eukaryota		10	29879	0.999699	0.999699	0	1	0	0.000301215	Asgard_Eukaryota	internal	1	0	0
+E01_kinesins		orthofinder	default	K9A_9B_LECA	D	Eukaryota		2	77	1	1	0.52381	1	0	0	Asgard_Eukaryota	internal	1	1	0
+E02_ARF		orthofinder	default	ARF_LECA	D	Eukaryota		15	26888	0.999219	0.999219	0.333333	1	0	0.000781018	Asgard_Eukaryota	internal	1	0	0
+E02_ARF		orthofinder	default	Arf1_Arf4_Holozoa	D	Holozoa		2	56	0	1	1	0	1	0	Asgard_Eukaryota	internal	1	0	0
+E02_ARF		orthofinder	default	Arf1_holozoa_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E02_ARF		orthofinder	default	Arf4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E02_ARF		orthofinder	default	Arl4_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		orthofinder	default	RAB_LECA_supergroups	D	Eukaryota		6	57507	0.99967	0.99967	0.721591	1	0	0.000330395	TACK_Asgard_Eukaryota	internal	1	1	0
+E03_Rab		orthofinder	default	SGI_LECA	D	Eukaryota		3	3396	0.993227	0.993227	0.538462	1	0	0.00677267	TACK_Asgard_Eukaryota	internal	1	1	0
+E03_Rab		orthofinder	default	Rab8_HUMAN_dup	D	HUMAN		3	3	0.333333	1	1	0.333333	0.666667	0	Choanozoa	leaf	1	0	0
+E03_Rab		orthofinder	default	Rab18_Rab40_Bilateria	D	Bilateria		2	6	0	1	1	0	1	0	inf	internal	1	0	0
+E03_Rab		orthofinder	default	SGII_LECA	D	Eukaryota		5	1274	0.959184	0.959184	0.4	1	0	0.0408163	Asgard_Eukaryota	internal	1	0	0
+E03_Rab		orthofinder	default	Rab5_HUMAN_dup	D	HUMAN		4	6	0.5	1	1	0.5	0.5	0	Bilateria	leaf	1	1	0
+E03_Rab		orthofinder	default	Rab22_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		orthofinder	default	SGIII_LECA	D	Eukaryota		5	1094	0.999086	0.999086	0.166667	1	0	0.000914077	TACK_Asgard_Eukaryota	internal	1	0	0
+E03_Rab		orthofinder	default	Rab7_Rab9_Opisthokonta	D	Opisthokonta		2	64	0	1	1	0	1	0	Eukaryota	internal	1	0	0
+E03_Rab		orthofinder	default	Rab32_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		orthofinder	default	SGIV_LECA	D	Eukaryota		4	2508	1	1	0.529412	1	0	0	Asgard_Eukaryota	internal	1	1	0
+E03_Rab		orthofinder	default	Rab4_HUMAN_dup	D	HUMAN		2	1	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		orthofinder	default	Rab6_HUMAN_dup	D	HUMAN		3	3	1	1	1	1	0	0	Bilateria	leaf	1	1	1
+E03_Rab		orthofinder	default	SGVI_LECA	D	Eukaryota		2	63	1	1	1	1	0	0	TACK_Asgard_Eukaryota	internal	1	1	1
+E04_tubulins		orthofinder	default	TUB_LECA	D	Eukaryota		6	10227	1	1	0.714286	1	0	0	Asgard_Eukaryota	internal	1	1	0
 E05_MCM		orthofinder	default	MCM_LECA_DUPS	D	Eukaryota		8	5464	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
 E05_MCM		orthofinder	default	Mcm3_NAEGR_dup	D	NAEGR	LSE	2	1	1	1	1	1	0	0	Discoba	leaf	1	1	1
-E06_myosins	E_cytoskeleton_motors	orthofinder	default	MYO_LECA	D	Eukaryota		2	8584	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
-E07a_adaptins_large	E_adaptor_complexes	orthofinder	default	E07a_LECA	D	Eukaryota		13	4929	0.998986	0.998986	0.166667	1	0	0.0010144	inf	internal	1	0	0
-E07b_adaptins_medium_small	E_adaptor_complexes	orthofinder	default	E07b_LECA	D	Eukaryota		14	6561	0.996037	0.996037	0.142857	1	0	0.00396281	inf	internal	1	0	0
-E07c_adaptins_scaffold	E_adaptor_complexes	orthofinder	default	E07c_LECA	D	Eukaryota		4	398	1	1	0	1	0	0	inf	internal	1	0	0
+E06_myosins		orthofinder	default	MYO_LECA	D	Eukaryota		2	8584	1	1	1	1	0	0	Asgard_Eukaryota	internal	1	1	1
+E07a_adaptins_large		orthofinder	default	E07a_LECA	D	Eukaryota		13	4929	0.998986	0.998986	0.166667	1	0	0.0010144	inf	internal	1	0	0
+E07b_adaptins_medium_small		orthofinder	default	E07b_LECA	D	Eukaryota		14	6561	0.996037	0.996037	0.142857	1	0	0.00396281	inf	internal	1	0	0
+E07c_adaptins_scaffold		orthofinder	default	E07c_LECA	D	Eukaryota		4	398	1	1	0	1	0	0	inf	internal	1	0	0

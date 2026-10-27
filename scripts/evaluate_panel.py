@@ -41,33 +41,41 @@ HEAVY = ("nodes", "per_level", "genes", "species", "per_gene")
 
 
 # ---------------------------------------------------------------- headline flag
+CATALOGUE = {}
+with open(ROOT / "results" / "catalogue" / "families.tsv") as _fh:    # single source of truth for headline/track
+    for _r in csv.DictReader(_fh, delimiter="\t"):
+        CATALOGUE[_r["id"]] = _r
+COLL_IDS = [k for k, r in CATALOGUE.items() if int(r["n_units"]) > 1]
+
+
+def is_collection_unit(f) -> bool:
+    """True collections (many units, one item): YGOB, RPROT.  Panel-level `collection` labels (E_cytoskeleton_motors,
+    K04_isofunctional_decoys, ...) do not make their families one item."""
+    return bool(f.collection) and any(f.collection in cid for cid in COLL_IDS)
+
+
 def headline_info(f) -> tuple[bool, str]:
-    """(headline, reason).  Non-headline: yaml headline:false; mapping_report unique-mapped < 80 %;
-    curation_log status line (first 6 lines) containing 'not headline'."""
+    """(headline, reason) from results/catalogue/families.tsv.  'n: no events' (K04 decoys) stays in scoring as
+    headline (membership/contamination).  Collection units: per-unit unique mapping < 80 % (mapping_report.tsv)."""
+    row = CATALOGUE.get(f.id)
+    if row is not None:
+        h = row["headline"]
+        return (True, "") if h.startswith("y") or h.startswith("n: no events") else (False, h)
     if f.meta.get("headline") is False:
         return False, "headline:false"
     p = Path(f.path) if f.path else None
-    if p is None:
-        return True, ""
-    for cand in (p / "mapping_report.tsv", p.parent.parent / "mapping_report.tsv"):
-        if cand.exists():
-            try:
+    if p is not None:
+        for cand in (p / "mapping_report.tsv", p.parent.parent / "mapping_report.tsv"):
+            if cand.exists():
                 rows = list(csv.DictReader(open(cand), delimiter="\t"))
-                if "unit" in rows[0]:
+                if rows and "unit" in rows[0]:
                     rows = [r for r in rows if r["unit"] == f.id]
                 rows = [r for r in rows if r.get("status") in ("mapped", "unmapped", "ambiguous", "multi", "failed")]
                 if rows:
                     fr = sum(r["status"] == "mapped" for r in rows) / len(rows)
                     if fr < 0.8:
                         return False, f"mapped {fr:.0%}"
-            except Exception:
-                pass
-            break
-    log = p / "curation_log.md"
-    if log.exists():
-        head = " ".join(log.read_text().splitlines()[:6]).lower()
-        if re.search(r"\bnot headline", head) and "superseded" not in head.split("not headline")[0][-0:]:
-            return False, "log status: not headline"
+                break
     return True, ""
 
 
@@ -80,17 +88,21 @@ CONTROL_IDS = {"K02_trGTPases", "E05_MCM"}
 
 def track_of(f) -> str:
     """control = K01 RPROT units, K02_trGTPases, E05_MCM; collection = YGOB; family = rest."""
+    if f.id in CATALOGUE:
+        return CATALOGUE[f.id]["track"]
     if f.collection in CONTROL_COLLECTIONS or f.id in CONTROL_IDS or f.id.startswith("K01_RPROT"):
         return "control"
     return "collection" if f.collection == "YGOB" else "family"
 
 
-def score(st, rfs, pred, ctx):
+def score(st, rfs, pred, ctx):   # items: r['collection'] kept only for true collection units
     """-> list of slim result dicts (scalars intact) + per_level/event rows."""
     out = []
     for rf in rfs:
         r = evaluate_family(rf, st, pred, ctx, per_gene=False, compact=False)
         r["_levels"] = r["per_level"]
+        if not is_collection_unit(rf.family):
+            r["collection"] = None
         # ERRATA E4: headline event recovery = internal-branch testable events only; leaf events -> in-paralog recovery
         es = r["events_summary"]
         for e in r["events"]:
