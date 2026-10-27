@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use HOBench, please cite it as below."
+title: "HOBench: a literature-derived benchmark for hierarchical orthologous group inference"
+type: software
+authors:
+  - name: "HOBench contributors"
+version: "0.2.1"
+date-released: "2026-10-27"
+license: MIT
+repository-code: "https://example.org/TODO-HOBench-repository"
+abstract: >-
+  HOBench scores hierarchical orthologous groups (HOGs) against reference gene-family
+  histories asserted in the literature, per species-tree level, for OrthoXML and OrthoFinder output.
