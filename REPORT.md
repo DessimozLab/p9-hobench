@@ -179,7 +179,10 @@ Equivalence was shown only on Y and K; E/P/V results are reported **conditional 
 
 ### 5.6 Robustness (Y, full mode; 1,977 units; seed 1) [`results/analysis/robustness.md`, `results/robustness/`]
 Noise floor: an OrthoFinder replicate is bit-identical to the original run (0 differences over 4,156 unit-metrics), so
-nonzero deltas are attributable to the perturbation (FastOMA was not replicated).
+nonzero OrthoFinder deltas are attributable to the perturbation. A FastOMA replicate is *not* bit-identical: 2% of
+YGOB units differ; replicate − original mean merge-accuracy Δ = −0.001 (SD 0.038 per unit), level F1 −0.0001
+(`results/robustness/noise_floor_fastoma.tsv`). FastOMA's alt-tree/taxon-removal/contamination deltas (≤0.004) are
+therefore of the order of its run-to-run noise; its fragmentation deltas (−0.024 / −0.114) are far above it.
 | Perturbation | OrthoFinder Δ merge acc. | FastOMA Δ merge acc. | Comment |
 |---|---|---|---|
 | Fragmentation of 10% of members (2,615 genes → 2 pieces), credit "both fragments" | −0.050 [−0.057, −0.044] | −0.114 [−0.122, −0.106] | affected genes lose ~25–28% correctness |
@@ -213,7 +216,7 @@ follow-up still left reference relations intact; harsher species-tree errors are
 6. **Subset mode** for E/V/P is validated only on Y/K; the V subset hit the 70k cap (seeded with 300 sampled V07 units;
    333 of 498 units were fully present and scored).
 7. **Two tools** (+ OrthoFinder DendroBLAST and flat variants); single runs (OrthoFinder shown deterministic; FastOMA
-   not replicated); robustness only on Y with mild perturbations; no OMA standalone, no simulation-based comparison.
+   replicated once on Y: 2% of units differ); robustness only on Y with mild perturbations; no OMA standalone, no simulation-based comparison.
 8. **Process:** three account-limit outages (~11 h in total) forced cuts (salmonid 4R, chemokines, KRAB-ZNF, SwissTree
    extension — partially started, unused — MADS, PolB, kinome).
 
