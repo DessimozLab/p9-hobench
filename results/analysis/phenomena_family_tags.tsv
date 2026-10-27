@@ -1,66 +1,66 @@
 tag	n_items	panels	method	level_bcubed_f1	n_level_bcubed_f1	merge_accuracy_node	n_merge_accuracy_node	event_recovery_0.5	n_event_recovery_0.5	membership_f1	n_membership_f1
 ALLO	3	VY	orthofinder/default	0.9843	3	0.9434	3	0.4671	2	0.7211	1
-ALLO	3	VY	orthofinder/dendroblast	0.9773	1	0.9037	1	0.1443	1		0
+ALLO	3	VY	orthofinder/dendroblast	0.9835	3	0.9404	3	0.4981	2	0.7211	1
 ALLO	3	VY	fastoma/default_declared	0.8861	3	0.7315	3	0.1714	2	0.5114	1
 ALLO	3	VY	of_flat/default	0.8519	3	0.9144	3	0.0630	2	0.7211	1
 ALLO	3	VY	one_big_hog	0.6787	3	0.9193	3	0.0000	2	0.3117	1
 ALLO	3	VY	all_singletons	0.5221	3	0.0428	3	0.0000	2	0.0000	1
 DEEP/LECA/LUCA	8	EPV	orthofinder/default	0.9836	8	0.7888	8	0.4497	7	0.7651	5
-DEEP/LECA/LUCA	8	EPV	orthofinder/dendroblast		0		0		0		0
+DEEP/LECA/LUCA	8	EPV	orthofinder/dendroblast	0.9870	8	0.8636	8	0.7110	7	0.7872	5
 DEEP/LECA/LUCA	8	EPV	fastoma/default_declared	0.9232	8	0.6236	8	0.0761	7	0.4498	5
 DEEP/LECA/LUCA	8	EPV	of_flat/default	0.4308	8	0.7346	8	0.0635	7	0.3338	5
 DEEP/LECA/LUCA	8	EPV	one_big_hog	0.1603	8	0.6579	8	0.0000	7	0.1806	5
 DEEP/LECA/LUCA	8	EPV	all_singletons	0.8320	8	0.2679	8	0.0000	7	0.0000	5
 DOM	1	P	orthofinder/default	0.9913	1	0.9990	1		0	0.4929	1
-DOM	1	P	orthofinder/dendroblast		0		0		0		0
+DOM	1	P	orthofinder/dendroblast	0.9998	1	1.0000	1		0	0.4929	1
 DOM	1	P	fastoma/default_declared	1.0000	1	1.0000	1		0	0.0485	1
 DOM	1	P	of_flat/default	0.5700	1	0.8869	1		0	0.4929	1
 DOM	1	P	one_big_hog	0.0452	1	0.0000	1		0	0.5503	1
 DOM	1	P	all_singletons	1.0000	1	1.0000	1		0	0.0000	1
 HGT	2	PY	orthofinder/default	0.9357	2	0.7911	2	0.1667	2		0
-HGT	2	PY	orthofinder/dendroblast	0.8778	1	0.8571	1	0.0000	1		0
+HGT	2	PY	orthofinder/dendroblast	0.9389	2	0.9286	2	0.5000	2		0
 HGT	2	PY	fastoma/default_declared	0.9325	2	0.7921	2	0.1667	2		0
 HGT	2	PY	of_flat/default	0.5540	2	0.5967	2	0.1667	2		0
 HGT	2	PY	one_big_hog	0.3479	2	0.5286	2	0.0000	2		0
 HGT	2	PY	all_singletons	0.8681	2	0.2714	2	0.0000	2		0
 LOSS	10	EPVY	orthofinder/default	0.9717	10	0.8018	10	0.4268	10	0.8332	4
-LOSS	10	EPVY	orthofinder/dendroblast	0.9276	2	0.8804	2	0.0721	2		0
+LOSS	10	EPVY	orthofinder/dendroblast	0.9684	10	0.8537	10	0.5788	10	0.8607	4
 LOSS	10	EPVY	fastoma/default_declared	0.9178	10	0.6700	10	0.1134	10	0.5501	4
 LOSS	10	EPVY	of_flat/default	0.4856	10	0.7586	10	0.0459	10	0.2940	4
 LOSS	10	EPVY	one_big_hog	0.3181	10	0.7906	10	0.0000	10	0.0882	4
 LOSS	10	EPVY	all_singletons	0.7633	10	0.1433	10	0.0000	10	0.0000	4
 NEOF	1	P	orthofinder/default	0.9979	1	0.9965	1	1.0000	1		0
-NEOF	1	P	orthofinder/dendroblast		0		0		0		0
+NEOF	1	P	orthofinder/dendroblast	1.0000	1	1.0000	1	1.0000	1		0
 NEOF	1	P	fastoma/default_declared	1.0000	1	1.0000	1	1.0000	1		0
 NEOF	1	P	of_flat/default	0.3805	1	0.5141	1	0.0000	1		0
 NEOF	1	P	one_big_hog	0.3196	1	0.5000	1	0.0000	1		0
 NEOF	1	P	all_singletons	0.8720	1	0.2500	1	0.0000	1		0
 NESTED	1	P	orthofinder/default	0.9979	1	0.9965	1	1.0000	1		0
-NESTED	1	P	orthofinder/dendroblast		0		0		0		0
+NESTED	1	P	orthofinder/dendroblast	1.0000	1	1.0000	1	1.0000	1		0
 NESTED	1	P	fastoma/default_declared	1.0000	1	1.0000	1	1.0000	1		0
 NESTED	1	P	of_flat/default	0.3805	1	0.5141	1	0.0000	1		0
 NESTED	1	P	one_big_hog	0.3196	1	0.5000	1	0.0000	1		0
 NESTED	1	P	all_singletons	0.8720	1	0.2500	1	0.0000	1		0
 PROM	3	E	orthofinder/default	0.9708	3	0.6859	3	0.3333	3	0.8169	2
-PROM	3	E	orthofinder/dendroblast		0		0		0		0
+PROM	3	E	orthofinder/dendroblast	0.9742	3	0.7523	3	0.7083	3	0.8609	2
 PROM	3	E	fastoma/default_declared	0.8461	3	0.3830	3	0.0417	3	0.3793	2
 PROM	3	E	of_flat/default	0.2434	3	0.7819	3	0.0000	3	0.1865	2
 PROM	3	E	one_big_hog	0.1421	3	0.8803	3	0.0000	3	0.0140	2
 PROM	3	E	all_singletons	0.8268	3	0.0929	3	0.0000	3	0.0000	2
 RETRO	1	V	orthofinder/default	0.9846	1	0.9499	1	1.0000	1		0
-RETRO	1	V	orthofinder/dendroblast		0		0		0		0
+RETRO	1	V	orthofinder/dendroblast	0.9327	1	0.8672	1	0.6667	1		0
 RETRO	1	V	fastoma/default_declared	0.9527	1	0.8267	1	0.3333	1		0
 RETRO	1	V	of_flat/default	0.4004	1	0.8527	1	0.0000	1		0
 RETRO	1	V	one_big_hog	0.3645	1	0.9000	1	0.0000	1		0
 RETRO	1	V	all_singletons	0.5885	1	0.0333	1	0.0000	1		0
 TAND/LSE	6	EV	orthofinder/default	0.9794	6	0.8127	6	0.6358	6	0.8332	4
-TAND/LSE	6	EV	orthofinder/dendroblast		0		0		0		0
+TAND/LSE	6	EV	orthofinder/dendroblast	0.9724	6	0.8426	6	0.7739	6	0.8607	4
 TAND/LSE	6	EV	fastoma/default_declared	0.8919	6	0.5826	6	0.0887	6	0.5501	4
 TAND/LSE	6	EV	of_flat/default	0.3090	6	0.8024	6	0.0185	6	0.2940	4
 TAND/LSE	6	EV	one_big_hog	0.1643	6	0.8605	6	0.0000	6	0.0882	4
 TAND/LSE	6	EV	all_singletons	0.7504	6	0.0960	6	0.0000	6	0.0000	4
 WGD	3	VY	orthofinder/default	0.9805	3	0.9300	3	0.6447	3	0.7211	1
-WGD	3	VY	orthofinder/dendroblast	0.9773	1	0.9037	1	0.1443	1		0
+WGD	3	VY	orthofinder/dendroblast	0.9630	3	0.9009	3	0.5543	3	0.7211	1
 WGD	3	VY	fastoma/default_declared	0.9281	3	0.8204	3	0.2254	3	0.5114	1
 WGD	3	VY	of_flat/default	0.6529	3	0.8676	3	0.0420	3	0.7211	1
 WGD	3	VY	one_big_hog	0.4669	3	0.8860	3	0.0000	3	0.3117	1

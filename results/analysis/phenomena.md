@@ -113,6 +113,10 @@ Baseline rows (one big HOG, all singletons) and OF dendroblast: phenomena_family
 | orthofinder/default | Gnathostomata | WGD | 13 | 0.769 | 0.615 | 0.922 | 0.826 | Olfactores:6,Vertebrata:6 |
 | orthofinder/default | Teleostei | WGD | 11 | 0.818 | 0.818 | 0.818 | 1.000 | Neopterygii:9,Teleostei:2 |
 | orthofinder/default | Vertebrata | TAND | 2 | 1.000 | 1.000 | 1.000 | 0.942 | inf:2 |
+| orthofinder/dendroblast | Chordata | TAND | 1 | 1.000 | 1.000 | 0.999 | 0.909 | inf:1 |
+| orthofinder/dendroblast | Gnathostomata | WGD | 13 | 0.846 | 0.308 | 0.895 | 0.837 | Vertebrata:11,Chordata:1 |
+| orthofinder/dendroblast | Teleostei | WGD | 11 | 0.818 | 0.818 | 0.818 | 1.000 | Neopterygii:9,Teleostei:2 |
+| orthofinder/dendroblast | Vertebrata | TAND | 2 | 1.000 | 1.000 | 1.000 | 0.901 | inf:2 |
 | fastoma/default_declared | Chordata | TAND | 1 | 0.000 | 0.000 | 0.997 | 0.000 | inf:1 |
 | fastoma/default_declared | Gnathostomata | WGD | 13 | 0.077 | 0.077 | 0.733 | 0.707 | inf:8,Euteleostomi:2 |
 | fastoma/default_declared | Teleostei | WGD | 11 | 0.091 | 0.091 | 1.000 | 1.000 | Euteleostomi:8,Chordata:1 |
@@ -140,6 +144,9 @@ Per cluster (family, or unit of a collection) having both node types: mean acc(D
 | V | families | WGD | orthofinder/default | 4 | 0.859 | 0.882 | -0.024 | n<5 |
 | V | families | ALLO | orthofinder/default | 1 | 0.941 | 0.951 | -0.009 | n<5 |
 | V | units:XLAEVIS | ALLO | orthofinder/default | 333 | 0.988 | 0.992 | -0.005 | [-0.011, 0.000] |
+| V | families | WGD | orthofinder/dendroblast | 4 | 0.807 | 0.890 | -0.084 | n<5 |
+| V | families | ALLO | orthofinder/dendroblast | 1 | 0.941 | 0.946 | -0.005 | n<5 |
+| V | units:XLAEVIS | ALLO | orthofinder/dendroblast | 333 | 0.982 | 0.989 | -0.008 | [-0.014, -0.002] |
 | V | families | WGD | fastoma/default_declared | 4 | 0.052 | 0.823 | -0.771 | n<5 |
 | V | families | ALLO | fastoma/default_declared | 1 | 0.588 | 0.864 | -0.276 | n<5 |
 | V | units:XLAEVIS | ALLO | fastoma/default_declared | 333 | 0.429 | 0.691 | -0.261 | [-0.288, -0.234] |

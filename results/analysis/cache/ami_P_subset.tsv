@@ -1,47 +1,43 @@
-family	collection	level	depth	is_family_level	n_genes	ami
-P01_homeobox		Viridiplantae	0	1	319	0.0760
-P01_homeobox		Chlorophyta	1	0	5	-0.0000
-P01_homeobox		Streptophyta	1	0	314	0.2198
-P01_homeobox		Embryophyta	2	0	314	0.3821
-P01_homeobox		Setaphyta	3	0	11	0.5779
-P01_homeobox		Tracheophyta	3	0	303	0.2659
-P01_homeobox		Magnoliopsida	4	0	271	0.5771
-P01_homeobox		Mesangiospermae	5	0	271	0.5981
-P01_homeobox		Poaceae	6	0	159	0.8441
-P01_homeobox		Rosids	6	0	112	0.6179
-P01_homeobox		Eurosids	7	0	112	0.6496
-P01_homeobox		Brassicaceae	8	0	111	0.8571
-P02_bHLH		Viridiplantae	0	1	435	-0.0000
-P02_bHLH		Streptophyta	1	0	434	0.0618
-P02_bHLH		Embryophyta	2	0	434	0.3238
-P02_bHLH		Setaphyta	3	0	31	0.6239
-P02_bHLH		Tracheophyta	3	0	403	0.2856
-P02_bHLH		Magnoliopsida	4	0	314	0.5199
-P02_bHLH		Mesangiospermae	5	0	314	0.5139
-P02_bHLH		Poaceae	6	0	156	0.1885
-P02_bHLH		Rosids	6	0	158	0.4652
-P02_bHLH		Eurosids	7	0	158	0.4890
-P02_bHLH		Brassicaceae	8	0	158	0.5791
-P03_GID1_CXE		Viridiplantae	0	0	94	-0.0000
-P03_GID1_CXE		Streptophyta	1	0	94	-0.0000
-P03_GID1_CXE		Embryophyta	2	1	94	0.1755
-P03_GID1_CXE		Setaphyta	3	0	5	1.0000
-P03_GID1_CXE		Tracheophyta	3	0	89	0.2108
-P03_GID1_CXE		Magnoliopsida	4	0	69	0.4882
-P03_GID1_CXE		Mesangiospermae	5	0	68	0.5928
-P03_GID1_CXE		Poaceae	6	0	38	0.5754
-P03_GID1_CXE		Rosids	6	0	30	0.8615
-P03_GID1_CXE		Eurosids	7	0	28	0.6819
-P03_GID1_CXE		Brassicaceae	8	0	20	0.0000
-P03_GID1_CXE		Phaseoleae	8	0	8	0.8206
-P04_MIPs		Viridiplantae	0	0	119	0.1245
-P04_MIPs		Streptophyta	1	0	119	0.3606
-P04_MIPs		Embryophyta	2	1	119	0.4785
-P04_MIPs		Setaphyta	3	0	20	0.4968
-P04_MIPs		Tracheophyta	3	0	99	0.4633
-P04_MIPs		Magnoliopsida	4	0	99	0.4843
-P04_MIPs		Mesangiospermae	5	0	99	0.4921
-P04_MIPs		Poaceae	6	0	64	0.6514
-P04_MIPs		Rosids	6	0	35	0.2772
-P04_MIPs		Eurosids	7	0	35	0.2772
-P04_MIPs		Brassicaceae	8	0	35	-0.0000
+family	collection	level	depth	is_family_level	n_genes	ami	ami_ofd_fo	ami_of_ofd	ami3_mean
+P01_homeobox		Viridiplantae	0	1	319	0.0760	0.0366	0.9468	0.3531
+P01_homeobox		Chlorophyta	1	0	5	-0.0000	1.0000	-0.0000	0.3333
+P01_homeobox		Streptophyta	1	0	314	0.2198	0.1864	0.9191	0.4418
+P01_homeobox		Embryophyta	2	0	314	0.3821	0.3518	0.8311	0.5217
+P01_homeobox		Setaphyta	3	0	11	0.5779	0.5779	1.0000	0.7186
+P01_homeobox		Tracheophyta	3	0	303	0.2659	0.2965	0.8346	0.4657
+P01_homeobox		Magnoliopsida	4	0	271	0.5771	0.5813	0.9085	0.6890
+P01_homeobox		Mesangiospermae	5	0	271	0.5981	0.5684	0.8855	0.6840
+P01_homeobox		Poaceae	6	0	159	0.8441	0.8061	0.9603	0.8702
+P01_homeobox		Rosids	6	0	112	0.6179	0.5846	0.8775	0.6933
+P01_homeobox		Eurosids	7	0	112	0.6496	0.6225	0.8654	0.7125
+P01_homeobox		Brassicaceae	8	0	111	0.8571	1.0000	0.8571	0.9047
+P02_bHLH		Viridiplantae	0	1	435	-0.0000	-0.0000	1.0000	0.3333
+P02_bHLH		Streptophyta	1	0	434	0.0618	0.0612	0.9454	0.3561
+P02_bHLH		Embryophyta	2	0	434	0.3238	0.3276	0.8548	0.5021
+P02_bHLH		Setaphyta	3	0	31	0.6239	0.6598	0.9585	0.7474
+P02_bHLH		Tracheophyta	3	0	403	0.2856	0.2752	0.8350	0.4653
+P02_bHLH		Magnoliopsida	4	0	314	0.5199	0.5186	0.9146	0.6510
+P02_bHLH		Mesangiospermae	5	0	314	0.5139	0.5399	0.8718	0.6419
+P02_bHLH		Poaceae	6	0	156	0.1885	0.1979	0.8122	0.3995
+P02_bHLH		Rosids	6	0	158	0.4652	0.4555	0.8970	0.6059
+P02_bHLH		Eurosids	7	0	158	0.4890	0.4611	0.8977	0.6160
+P02_bHLH		Brassicaceae	8	0	158	0.5791	0.5399	0.8542	0.6577
+P03_GID1_CXE		Embryophyta	2	1	94	0.1755	0.3079	0.5985	0.3607
+P03_GID1_CXE		Setaphyta	3	0	5	1.0000	1.0000	1.0000	1.0000
+P03_GID1_CXE		Tracheophyta	3	0	89	0.2108	0.3078	0.6320	0.3836
+P03_GID1_CXE		Magnoliopsida	4	0	69	0.4882	0.4882	1.0000	0.6588
+P03_GID1_CXE		Mesangiospermae	5	0	68	0.5928	0.5928	1.0000	0.7285
+P03_GID1_CXE		Poaceae	6	0	38	0.5754	0.5976	0.8328	0.6686
+P03_GID1_CXE		Rosids	6	0	30	0.8615	0.8615	0.9570	0.8933
+P03_GID1_CXE		Eurosids	7	0	28	0.6819	0.6819	1.0000	0.7879
+P03_GID1_CXE		Brassicaceae	8	0	20	0.0000	1.0000	0.0000	0.3333
+P03_GID1_CXE		Phaseoleae	8	0	8	0.8206	0.8206	1.0000	0.8804
+P04_MIPs		Embryophyta	2	1	119	0.4785	0.4435	0.8708	0.5976
+P04_MIPs		Setaphyta	3	0	20	0.4968	0.4968	1.0000	0.6645
+P04_MIPs		Tracheophyta	3	0	99	0.4633	0.4948	0.8932	0.6171
+P04_MIPs		Magnoliopsida	4	0	99	0.4843	0.5074	0.9081	0.6333
+P04_MIPs		Mesangiospermae	5	0	99	0.4921	0.5587	0.8231	0.6246
+P04_MIPs		Poaceae	6	0	64	0.6514	0.6107	0.9036	0.7219
+P04_MIPs		Rosids	6	0	35	0.2772	0.3689	0.8325	0.4929
+P04_MIPs		Eurosids	7	0	35	0.2772	0.3689	0.8325	0.4929
+P04_MIPs		Brassicaceae	8	0	35	-0.0000	-0.0000	0.7992	0.2664

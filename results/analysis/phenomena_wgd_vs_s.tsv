@@ -5,6 +5,9 @@ Y	units:YGOB	WGD	fastoma/default_declared	532	0.6529	0.8588	-0.2059	-0.2533	-0.1
 V	families	WGD	orthofinder/default	4	0.8586	0.8825	-0.0239		
 V	families	ALLO	orthofinder/default	1	0.9412	0.9507	-0.0095		
 V	units:XLAEVIS	ALLO	orthofinder/default	333	0.9880	0.9925	-0.0045	-0.0105	0.0000
+V	families	WGD	orthofinder/dendroblast	4	0.8065	0.8901	-0.0836		
+V	families	ALLO	orthofinder/dendroblast	1	0.9412	0.9458	-0.0046		
+V	units:XLAEVIS	ALLO	orthofinder/dendroblast	333	0.9820	0.9895	-0.0075	-0.0136	-0.0015
 V	families	WGD	fastoma/default_declared	4	0.0519	0.8227	-0.7708		
 V	families	ALLO	fastoma/default_declared	1	0.5882	0.8644	-0.2762		
 V	units:XLAEVIS	ALLO	fastoma/default_declared	333	0.4294	0.6907	-0.2613	-0.2883	-0.2342

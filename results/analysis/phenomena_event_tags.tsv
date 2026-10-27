@@ -18,11 +18,13 @@ K	full	DEEP	of_flat/default	1	1	1	0.0000	0.0000	1.0000	0.4314
 K	full	DEEP	one_big_hog	1	1	1	0.0000	0.0000	0.0000	1.0000
 K	full	DEEP	all_singletons	1	1	1	0.0000	0.0000	1.0000	0.0000
 E	subset	(untagged)	orthofinder/default	18	9	9	0.4444	0.1667	0.9970	0.5687
+E	subset	(untagged)	orthofinder/dendroblast	18	9	9	0.6111	0.3333	0.9962	0.6571
 E	subset	(untagged)	fastoma/default_declared	18	9	9	0.1111	0.0000	0.7414	0.3413
 E	subset	(untagged)	of_flat/default	18	9	9	0.0000	0.0000	0.2593	0.7531
 E	subset	(untagged)	one_big_hog	18	9	9	0.0000	0.0000	0.0000	1.0000
 E	subset	(untagged)	all_singletons	18	9	9	0.0000	0.0000	1.0000	0.0000
 P	subset	(untagged)	orthofinder/default	8	3	3	0.3750	0.3750	0.9967	0.6716
+P	subset	(untagged)	orthofinder/dendroblast	8	3	3	0.6250	0.6250	0.9954	0.7563
 P	subset	(untagged)	fastoma/default_declared	8	3	3	0.3750	0.3750	0.9995	0.6251
 P	subset	(untagged)	of_flat/default	8	3	3	0.1250	0.0000	0.4616	0.7563
 P	subset	(untagged)	one_big_hog	8	3	3	0.0000	0.0000	0.0000	1.0000
@@ -32,6 +34,11 @@ V	subset	RETRO	orthofinder/default	1	1	1	1.0000	1.0000	1.0000	1.0000
 V	subset	SSD	orthofinder/default	1	1	1	0.0000	0.0000	1.0000	1.0000
 V	subset	TAND	orthofinder/default	5	3	3	0.8000	0.8000	0.9838	0.7625
 V	subset	WGD	orthofinder/default	42	4	4	0.7143	0.6429	0.8428	0.8757
+V	subset	(untagged)	orthofinder/dendroblast	5	2	2	0.8000	0.6000	0.7750	0.9225
+V	subset	RETRO	orthofinder/dendroblast	1	1	1	1.0000	0.0000	0.7500	0.6667
+V	subset	SSD	orthofinder/dendroblast	1	1	1	0.0000	0.0000	1.0000	1.0000
+V	subset	TAND	orthofinder/dendroblast	5	3	3	1.0000	0.8000	0.9998	0.8569
+V	subset	WGD	orthofinder/dendroblast	42	4	4	0.6905	0.5000	0.7841	0.8680
 V	subset	(untagged)	fastoma/default_declared	5	2	2	0.2000	0.2000	0.9872	0.4000
 V	subset	RETRO	fastoma/default_declared	1	1	1	0.0000	0.0000	1.0000	0.3333
 V	subset	SSD	fastoma/default_declared	1	1	1	0.0000	0.0000	1.0000	1.0000

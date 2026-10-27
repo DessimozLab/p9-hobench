@@ -19,6 +19,16 @@ from hobench.reference import load_families, reconcile
 from hobench.speciestree import SpeciesTree
 
 
+AMI_METHODS = [("orthofinder", "default"), ("fastoma", "default_declared"), ("orthofinder", "dendroblast")]
+AMI_PAIRS = {"ami": (0, 1), "ami_ofd_fo": (2, 1), "ami_of_ofd": (0, 2)}   # 'ami' = OF default vs FastOMA (as before)
+
+
+def _ami(x, y):
+    x, y = x.copy(), y.copy()
+    x[x < 0] = -1 - np.arange((x < 0).sum()); y[y < 0] = -1 - np.arange((y < 0).sum())
+    return adjusted_mutual_info_score(x, y) if (len(set(x)) > 1 or len(set(y)) > 1) else 1.0
+
+
 def main():
     ap = argparse.ArgumentParser(); ap.add_argument("--panel", required=True); ap.add_argument("--mode", default="full")
     ap.add_argument("--cache", default="/tmp/hobench_eval_cache")
@@ -48,8 +58,8 @@ def main():
                 for rf in rfs:
                     Rm = R[rf.family.id]; n = len(rf.genes)
                     codes = hog_codes(rf, pred)
-                    if (tool, variant) in (("orthofinder", "default"), ("fastoma", "default_declared")):
-                        codes_by[(tool, rf.family.id)] = codes
+                    if (tool, variant) in AMI_METHODS:
+                        codes_by[(tool, variant, rf.family.id)] = codes
                     M = predicted_merge_matrix(rf, codes)
                     iu, ju = np.triu_indices(n, 1)
                     sel = Rm.lo[iu, ju] != NOT_ASSERTED
@@ -64,20 +74,22 @@ def main():
                                  f"{'INF' if ev.merge_lo < 0 else st.names[ev.merge_lo]}\t{'INF' if ev.merge_hi < 0 else st.names[ev.merge_hi]}\t"
                                  f"{int(m.sum())}\t{int(cor[m].sum())}\t{int((err[m] > 0).sum())}\t{int((err[m] < 0).sum())}\n")
     with open(out / f"ami_{P}_{mode}.tsv", "w") as fh:
-        fh.write("family\tcollection\tlevel\tdepth\tis_family_level\tn_genes\tami\n")
+        fh.write("family\tcollection\tlevel\tdepth\tis_family_level\tn_genes\t" + "\t".join(AMI_PAIRS) + "\tami3_mean\n")
         for rf in rfs:
-            a_, b_ = codes_by.get(("orthofinder", rf.family.id)), codes_by.get(("fastoma", rf.family.id))
-            if a_ is None or b_ is None:
+            cs_ = [codes_by.get((t, v, rf.family.id)) for t, v in AMI_METHODS]
+            if cs_[0] is None or cs_[1] is None:
                 continue
-            for L in sorted(a_, key=lambda x: st.depth[x]):
+            for L in sorted(cs_[0], key=lambda x: st.depth[x]):
+                if not st.anc[rf.family_level, L]:
+                    continue
                 below = np.flatnonzero(st.anc[L, rf.species_idx])
                 if len(below) < 2:
                     continue
-                x, y = a_[L][below].copy(), b_[L][below].copy()
-                x[x < 0] = -1 - np.arange((x < 0).sum()); y[y < 0] = -1 - np.arange((y < 0).sum())
-                ami = adjusted_mutual_info_score(x, y) if (len(set(x)) > 1 or len(set(y)) > 1) else 1.0
+                vals = [(_ami(cs_[i][L][below], cs_[j][L][below]) if cs_[i] is not None and cs_[j] is not None else np.nan)
+                        for i, j in AMI_PAIRS.values()]
+                m3 = np.mean(vals) if all(np.isfinite(vals)) else np.nan
                 fh.write(f"{rf.family.id}\t{rf.family.collection or ''}\t{st.names[L]}\t{int(st.depth[L])}\t"
-                         f"{int(L == rf.family_level)}\t{len(below)}\t{ami:.4f}\n")
+                         f"{int(L == rf.family_level)}\t{len(below)}\t" + "\t".join(f"{x:.4f}" for x in vals) + f"\t{m3:.4f}\n")
     print("done", P, mode, file=sys.stderr)
 
 

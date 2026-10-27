@@ -10,8 +10,8 @@ Node-balanced accuracy and, over incorrect pairs, the share that is over-split (
 |---|---|---|---|---|---|---|
 | fastoma | D | 23 | 0.563 | 133457 | 0.001 | 0.244 |
 | fastoma | S | 77 | 0.436 | 2095 | 0.667 | 0.000 |
-| orthofinder | D | 23 | 0.817 | 133457 | 0.001 | 0.001 |
-| orthofinder | S | 77 | 0.712 | 2095 | 0.227 | 0.000 |
+| orthofinder | D | 46 | 0.824 | 266914 | 0.001 | 0.001 |
+| orthofinder | S | 154 | 0.740 | 4190 | 0.204 | 0.000 |
 
 By item (node-balanced accuracy, mean over units for a collection; pairs pooled):
 
@@ -19,36 +19,36 @@ By item (node-balanced accuracy, mean over units for a collection; pairs pooled)
 |---|---|---|---|---|---|---|---|
 | E01_kinesins | fastoma | D | 2 | 0.942 | 29956 | 0.000 | 0.076 |
 | E01_kinesins | fastoma | S | 16 | 0.186 | 132 | 0.674 | 0.000 |
-| E01_kinesins | orthofinder | D | 2 | 1.000 | 29956 | 0.000 | 0.000 |
-| E01_kinesins | orthofinder | S | 16 | 0.455 | 132 | 0.356 | 0.000 |
+| E01_kinesins | orthofinder | D | 4 | 1.000 | 59912 | 0.000 | 0.000 |
+| E01_kinesins | orthofinder | S | 32 | 0.538 | 264 | 0.284 | 0.000 |
 | E02_ARF | fastoma | D | 5 | 0.387 | 26949 | 0.002 | 0.064 |
 | E02_ARF | fastoma | S | 22 | 0.269 | 1189 | 0.813 | 0.000 |
-| E02_ARF | orthofinder | D | 5 | 0.800 | 26949 | 0.002 | 0.001 |
-| E02_ARF | orthofinder | S | 22 | 0.698 | 1189 | 0.257 | 0.000 |
+| E02_ARF | orthofinder | D | 10 | 0.900 | 53898 | 0.001 | 0.002 |
+| E02_ARF | orthofinder | S | 44 | 0.706 | 2378 | 0.232 | 0.000 |
 | E03_Rab | fastoma | D | 14 | 0.509 | 65927 | 0.000 | 0.432 |
 | E03_Rab | fastoma | S | 32 | 0.622 | 621 | 0.512 | 0.000 |
-| E03_Rab | orthofinder | D | 14 | 0.770 | 65927 | 0.001 | 0.001 |
-| E03_Rab | orthofinder | S | 32 | 0.850 | 621 | 0.176 | 0.000 |
+| E03_Rab | orthofinder | D | 28 | 0.746 | 131854 | 0.001 | 0.002 |
+| E03_Rab | orthofinder | S | 64 | 0.862 | 1242 | 0.167 | 0.000 |
 | E04_tubulins | fastoma | D | 1 | 1.000 | 10227 | 0.000 | 0.000 |
 | E04_tubulins | fastoma | S | 3 | 0.714 | 78 | 0.231 | 0.000 |
-| E04_tubulins | orthofinder | D | 1 | 1.000 | 10227 | 0.000 | 0.000 |
-| E04_tubulins | orthofinder | S | 3 | 0.905 | 78 | 0.077 | 0.000 |
+| E04_tubulins | orthofinder | D | 2 | 1.000 | 20454 | 0.000 | 0.000 |
+| E04_tubulins | orthofinder | S | 6 | 0.952 | 156 | 0.038 | 0.000 |
 | E07c_adaptins_scaffold | fastoma | D | 1 | 1.000 | 398 | 0.000 | 0.000 |
 | E07c_adaptins_scaffold | fastoma | S | 4 | 0.650 | 75 | 0.067 | 0.000 |
-| E07c_adaptins_scaffold | orthofinder | D | 1 | 1.000 | 398 | 0.000 | 0.000 |
-| E07c_adaptins_scaffold | orthofinder | S | 4 | 0.575 | 75 | 0.107 | 0.000 |
+| E07c_adaptins_scaffold | orthofinder | D | 2 | 1.000 | 796 | 0.000 | 0.000 |
+| E07c_adaptins_scaffold | orthofinder | S | 8 | 0.613 | 150 | 0.087 | 0.000 |
 
 By reference node level (S and D nodes together; levels with >=3 nodes for both tools):
 
 | depth | level | n nodes | acc OF / FO | over-split OF / FO | over-merged OF / FO |
 |---|---|---|---|---|---|
-| 4 | Eukaryota | 55 | 0.749 / 0.437 | 0.003 / 0.009 | 0.001 / 0.240 |
-| 5 | Diphoda | 5 | 0.400 / 0.400 | 0.214 / 0.214 | 0.000 / 0.000 |
-| 8 | Holozoa | 9 | 0.574 / 0.241 | 0.609 / 0.541 | 0.000 / 0.309 |
+| 4 | Eukaryota | 55 | 0.771 / 0.437 | 0.003 / 0.009 | 0.001 / 0.240 |
+| 5 | Diphoda | 5 | 0.600 / 0.400 | 0.143 / 0.214 | 0.000 / 0.000 |
+| 8 | Holozoa | 9 | 0.630 / 0.241 | 0.471 / 0.541 | 0.000 / 0.309 |
 | 9 | Choanozoa | 4 | 0.833 / 0.400 | 0.143 / 0.571 | 0.000 / 0.000 |
 | 11 | Myriazoa | 6 | 0.917 / 0.833 | 0.167 / 0.333 | 0.000 / 0.000 |
-| 12 | ParaHoxozoa | 7 | 0.798 / 0.690 | 0.188 / 0.188 | 0.000 / 0.000 |
-| 15 | HUMAN | 9 | 0.870 / 0.537 | 0.250 / 0.500 | 0.000 / 0.000 |
+| 12 | ParaHoxozoa | 7 | 0.792 / 0.690 | 0.156 / 0.188 | 0.000 / 0.000 |
+| 15 | HUMAN | 9 | 0.833 / 0.537 | 0.300 / 0.500 | 0.000 / 0.000 |
 
 ## (e) V panel: FastOMA vs OrthoFinder merge-level accuracy (V subset, headline families/units: 335)
 
@@ -58,8 +58,8 @@ Node-balanced accuracy and, over incorrect pairs, the share that is over-split (
 |---|---|---|---|---|---|---|
 | fastoma | D | 398 | 0.428 | 28424 | 0.057 | 0.017 |
 | fastoma | S | 509 | 0.751 | 1345 | 0.231 | 0.000 |
-| orthofinder | D | 398 | 0.976 | 28424 | 0.003 | 0.002 |
-| orthofinder | S | 509 | 0.978 | 1345 | 0.042 | 0.000 |
+| orthofinder | D | 796 | 0.972 | 56848 | 0.004 | 0.003 |
+| orthofinder | S | 1018 | 0.974 | 2690 | 0.046 | 0.000 |
 
 By item (node-balanced accuracy, mean over units for a collection; pairs pooled):
 
@@ -67,30 +67,30 @@ By item (node-balanced accuracy, mean over units for a collection; pairs pooled)
 |---|---|---|---|---|---|---|---|
 | V02_opsins | fastoma | D | 4 | 0.500 | 673 | 0.590 | 0.000 |
 | V02_opsins | fastoma | S | 26 | 0.877 | 131 | 0.145 | 0.000 |
-| V02_opsins | orthofinder | D | 4 | 0.987 | 673 | 0.031 | 0.000 |
-| V02_opsins | orthofinder | S | 26 | 0.944 | 131 | 0.084 | 0.000 |
+| V02_opsins | orthofinder | D | 8 | 0.948 | 1346 | 0.031 | 0.021 |
+| V02_opsins | orthofinder | S | 52 | 0.903 | 262 | 0.145 | 0.000 |
 | V03_Hox | fastoma | D | 61 | 0.414 | 27418 | 0.038 | 0.017 |
 | V03_Hox | fastoma | S | 150 | 0.864 | 548 | 0.157 | 0.000 |
-| V03_Hox | orthofinder | D | 61 | 0.913 | 27418 | 0.002 | 0.002 |
-| V03_Hox | orthofinder | S | 150 | 0.951 | 548 | 0.075 | 0.000 |
+| V03_Hox | orthofinder | D | 122 | 0.905 | 54836 | 0.003 | 0.003 |
+| V03_Hox | orthofinder | S | 300 | 0.948 | 1096 | 0.067 | 0.000 |
 | units:XLAEVIS | fastoma | D | 333 | 0.429 | 333 | 0.571 | 0.000 |
 | units:XLAEVIS | fastoma | S | 333 | 0.691 | 666 | 0.309 | 0.000 |
-| units:XLAEVIS | orthofinder | D | 333 | 0.988 | 333 | 0.012 | 0.000 |
-| units:XLAEVIS | orthofinder | S | 333 | 0.992 | 666 | 0.008 | 0.000 |
+| units:XLAEVIS | orthofinder | D | 666 | 0.985 | 666 | 0.015 | 0.000 |
+| units:XLAEVIS | orthofinder | S | 666 | 0.991 | 1332 | 0.009 | 0.000 |
 
 By reference node level (S and D nodes together; levels with >=3 nodes for both tools):
 
 | depth | level | n nodes | acc OF / FO | over-split OF / FO | over-merged OF / FO |
 |---|---|---|---|---|---|
-| 4 | Euteleostomi | 59 | 0.916 / 0.666 | 0.004 / 0.052 | 0.002 / 0.017 |
-| 5 | Neopterygii | 7 | 1.000 / 0.786 | 0.000 / 0.133 | 0.000 / 0.000 |
+| 4 | Euteleostomi | 59 | 0.897 / 0.666 | 0.005 / 0.052 | 0.003 / 0.017 |
+| 5 | Neopterygii | 7 | 0.887 / 0.786 | 0.100 / 0.133 | 0.050 / 0.000 |
 | 5 | Sarcopterygii | 3 | 0.917 / 0.917 | 0.143 / 0.143 | 0.000 / 0.000 |
-| 6 | Tetrapoda | 41 | 0.927 / 0.846 | 0.067 / 0.147 | 0.000 / 0.000 |
+| 6 | Tetrapoda | 41 | 0.935 / 0.846 | 0.058 / 0.147 | 0.000 / 0.000 |
 | 7 | Amniota | 3 | 1.000 / 1.000 | 0.000 / 0.000 | 0.000 / 0.000 |
 | 7 | DANRE | 11 | 0.818 / 0.091 | 0.000 / 0.909 | 0.182 / 0.000 |
-| 7 | Xenopus | 371 | 0.988 / 0.699 | 0.012 / 0.302 | 0.000 / 0.000 |
+| 7 | Xenopus | 371 | 0.985 / 0.699 | 0.015 / 0.302 | 0.000 / 0.000 |
 | 8 | Euarchontoglires | 42 | 1.000 / 1.000 | 0.000 / 0.000 | 0.000 / 0.000 |
-| 8 | XENLA | 367 | 0.984 / 0.444 | 0.016 / 0.556 | 0.000 / 0.000 |
+| 8 | XENLA | 367 | 0.981 / 0.444 | 0.019 / 0.556 | 0.000 / 0.000 |
 
 ## (d) YGOB testable WGD events (Y full)
 

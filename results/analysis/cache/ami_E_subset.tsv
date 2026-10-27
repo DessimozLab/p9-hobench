@@ -1,249 +1,216 @@
-family	collection	level	depth	is_family_level	n_genes	ami
-E01_kinesins	E_cytoskeleton_motors	LUCA	0	0	399	-0.0000
-E01_kinesins	E_cytoskeleton_motors	Archaea_Eukaryota	1	0	399	-0.0000
-E01_kinesins	E_cytoskeleton_motors	TACK_Asgard_Eukaryota	2	0	399	-0.0000
-E01_kinesins	E_cytoskeleton_motors	Asgard_Eukaryota	3	0	399	-0.0015
-E01_kinesins	E_cytoskeleton_motors	Eukaryota	4	1	399	0.1246
-E01_kinesins	E_cytoskeleton_motors	Amorphea	5	0	200	0.1920
-E01_kinesins	E_cytoskeleton_motors	Diphoda	5	0	199	0.2266
-E01_kinesins	E_cytoskeleton_motors	Amoebozoa	6	0	16	-0.0000
-E01_kinesins	E_cytoskeleton_motors	Obazoa	6	0	184	0.1771
-E01_kinesins	E_cytoskeleton_motors	Diaphoretickes	6	0	108	0.1527
-E01_kinesins	E_cytoskeleton_motors	Discoba_Metamonada	6	0	91	0.2036
-E01_kinesins	E_cytoskeleton_motors	Opisthokonta	7	0	184	0.2100
-E01_kinesins	E_cytoskeleton_motors	Archaeplastida	7	0	80	0.1898
-E01_kinesins	E_cytoskeleton_motors	Stramenopiles_Alveolata	7	0	28	0.0000
-E01_kinesins	E_cytoskeleton_motors	Discoba	7	0	69	0.0330
-E01_kinesins	E_cytoskeleton_motors	Fungi	8	0	24	0.1709
-E01_kinesins	E_cytoskeleton_motors	Holozoa	8	0	160	0.4418
-E01_kinesins	E_cytoskeleton_motors	Viridiplantae	8	0	75	0.2427
-E01_kinesins	E_cytoskeleton_motors	Stramenopiles	8	0	21	0.0000
-E01_kinesins	E_cytoskeleton_motors	Alveolata	8	0	7	-0.0000
-E01_kinesins	E_cytoskeleton_motors	Chytridiomycota_Dikarya	9	0	18	0.1583
-E01_kinesins	E_cytoskeleton_motors	Choanozoa	9	0	160	0.4549
-E01_kinesins	E_cytoskeleton_motors	Ascomycota	10	0	15	0.1915
-E01_kinesins	E_cytoskeleton_motors	Metazoa	10	0	126	0.6668
-E01_kinesins	E_cytoskeleton_motors	Myriazoa	11	0	126	0.7081
-E01_kinesins	E_cytoskeleton_motors	ParaHoxozoa	12	0	126	0.7535
-E01_kinesins	E_cytoskeleton_motors	Planulozoa	13	0	98	0.7755
-E01_kinesins	E_cytoskeleton_motors	Bilateria	14	0	62	0.8275
-E02_ARF	E_small_GTPases	LUCA	0	0	325	-0.0012
-E02_ARF	E_small_GTPases	Archaea_Eukaryota	1	0	325	0.0000
-E02_ARF	E_small_GTPases	TACK_Asgard_Eukaryota	2	0	325	0.0000
-E02_ARF	E_small_GTPases	Asgard_Eukaryota	3	0	325	0.0011
-E02_ARF	E_small_GTPases	Eukaryota	4	1	325	0.1036
-E02_ARF	E_small_GTPases	Amorphea	5	0	207	0.2136
-E02_ARF	E_small_GTPases	Diphoda	5	0	118	0.2149
-E02_ARF	E_small_GTPases	Amoebozoa	6	0	34	0.0849
-E02_ARF	E_small_GTPases	Obazoa	6	0	173	0.2255
-E02_ARF	E_small_GTPases	Diaphoretickes	6	0	62	0.8035
-E02_ARF	E_small_GTPases	Discoba_Metamonada	6	0	56	0.3359
-E02_ARF	E_small_GTPases	Opisthokonta	7	0	157	0.2247
-E02_ARF	E_small_GTPases	Archaeplastida	7	0	45	0.8827
-E02_ARF	E_small_GTPases	Stramenopiles_Alveolata	7	0	17	0.8044
-E02_ARF	E_small_GTPases	Discoba	7	0	48	0.2517
-E02_ARF	E_small_GTPases	Fungi	8	0	26	-0.0140
-E02_ARF	E_small_GTPases	Holozoa	8	0	131	0.2572
-E02_ARF	E_small_GTPases	Viridiplantae	8	0	38	0.9016
-E02_ARF	E_small_GTPases	Stramenopiles	8	0	8	-0.0000
-E02_ARF	E_small_GTPases	Alveolata	8	0	9	1.0000
-E02_ARF	E_small_GTPases	Chytridiomycota_Dikarya	9	0	26	-0.0140
-E02_ARF	E_small_GTPases	Choanozoa	9	0	120	0.2524
-E02_ARF	E_small_GTPases	Ascomycota	10	0	16	-0.0000
-E02_ARF	E_small_GTPases	Metazoa	10	0	103	0.2798
-E02_ARF	E_small_GTPases	Myriazoa	11	0	90	0.2424
-E02_ARF	E_small_GTPases	ParaHoxozoa	12	0	77	0.3310
-E02_ARF	E_small_GTPases	Planulozoa	13	0	61	0.3621
-E02_ARF	E_small_GTPases	Bilateria	14	0	44	0.3660
-E03_Rab	E_small_GTPases	LUCA	0	0	388	0.0000
-E03_Rab	E_small_GTPases	Archaea_Eukaryota	1	0	388	0.0000
-E03_Rab	E_small_GTPases	TACK_Asgard_Eukaryota	2	0	388	0.0000
-E03_Rab	E_small_GTPases	Asgard_Eukaryota	3	0	388	0.0754
-E03_Rab	E_small_GTPases	Eukaryota	4	1	388	0.1001
-E03_Rab	E_small_GTPases	Amorphea	5	0	239	0.0676
-E03_Rab	E_small_GTPases	Diphoda	5	0	149	0.7473
-E03_Rab	E_small_GTPases	Obazoa	6	0	239	0.0676
-E03_Rab	E_small_GTPases	Diaphoretickes	6	0	107	0.7973
-E03_Rab	E_small_GTPases	Discoba_Metamonada	6	0	42	0.6594
-E03_Rab	E_small_GTPases	Opisthokonta	7	0	239	0.0676
-E03_Rab	E_small_GTPases	Archaeplastida	7	0	62	0.7605
-E03_Rab	E_small_GTPases	Stramenopiles_Alveolata	7	0	45	0.7966
-E03_Rab	E_small_GTPases	Discoba	7	0	42	0.6810
-E03_Rab	E_small_GTPases	Fungi	8	0	9	0.8040
-E03_Rab	E_small_GTPases	Holozoa	8	0	230	0.8217
-E03_Rab	E_small_GTPases	Viridiplantae	8	0	62	0.6039
-E03_Rab	E_small_GTPases	Stramenopiles	8	0	34	0.8638
-E03_Rab	E_small_GTPases	Alveolata	8	0	11	0.0000
-E03_Rab	E_small_GTPases	Chytridiomycota_Dikarya	9	0	9	0.5710
-E03_Rab	E_small_GTPases	Choanozoa	9	0	212	0.8250
-E03_Rab	E_small_GTPases	Ascomycota	10	0	9	1.0000
-E03_Rab	E_small_GTPases	Metazoa	10	0	190	0.8520
-E03_Rab	E_small_GTPases	Myriazoa	11	0	190	0.8688
-E03_Rab	E_small_GTPases	ParaHoxozoa	12	0	160	0.8661
-E03_Rab	E_small_GTPases	Planulozoa	13	0	126	0.8627
-E03_Rab	E_small_GTPases	Bilateria	14	0	81	0.8884
-E04_tubulins	E_cytoskeleton_motors	LUCA	0	0	170	-0.0000
-E04_tubulins	E_cytoskeleton_motors	Archaea_Eukaryota	1	0	170	-0.0000
-E04_tubulins	E_cytoskeleton_motors	TACK_Asgard_Eukaryota	2	0	170	-0.0000
-E04_tubulins	E_cytoskeleton_motors	Asgard_Eukaryota	3	0	170	0.0088
-E04_tubulins	E_cytoskeleton_motors	Eukaryota	4	1	170	0.8226
-E04_tubulins	E_cytoskeleton_motors	Amorphea	5	0	104	0.8897
-E04_tubulins	E_cytoskeleton_motors	Diphoda	5	0	66	0.7335
-E04_tubulins	E_cytoskeleton_motors	Amoebozoa	6	0	9	0.6311
-E04_tubulins	E_cytoskeleton_motors	Obazoa	6	0	95	0.9304
-E04_tubulins	E_cytoskeleton_motors	Diaphoretickes	6	0	35	1.0000
-E04_tubulins	E_cytoskeleton_motors	Discoba_Metamonada	6	0	31	0.4580
-E04_tubulins	E_cytoskeleton_motors	Opisthokonta	7	0	91	0.7404
-E04_tubulins	E_cytoskeleton_motors	Archaeplastida	7	0	17	0.9230
-E04_tubulins	E_cytoskeleton_motors	Stramenopiles_Alveolata	7	0	18	1.0000
-E04_tubulins	E_cytoskeleton_motors	Discoba	7	0	30	0.3970
-E04_tubulins	E_cytoskeleton_motors	Fungi	8	0	16	0.7101
-E04_tubulins	E_cytoskeleton_motors	Holozoa	8	0	75	0.7348
-E04_tubulins	E_cytoskeleton_motors	Viridiplantae	8	0	15	0.9222
-E04_tubulins	E_cytoskeleton_motors	Stramenopiles	8	0	8	0.2024
-E04_tubulins	E_cytoskeleton_motors	Alveolata	8	0	10	1.0000
-E04_tubulins	E_cytoskeleton_motors	Chytridiomycota_Dikarya	9	0	13	0.8641
-E04_tubulins	E_cytoskeleton_motors	Choanozoa	9	0	71	0.7254
-E04_tubulins	E_cytoskeleton_motors	Ascomycota	10	0	8	1.0000
-E04_tubulins	E_cytoskeleton_motors	Metazoa	10	0	66	0.6429
-E04_tubulins	E_cytoskeleton_motors	Myriazoa	11	0	66	0.5913
-E04_tubulins	E_cytoskeleton_motors	ParaHoxozoa	12	0	59	0.5695
-E04_tubulins	E_cytoskeleton_motors	Planulozoa	13	0	50	0.5654
-E04_tubulins	E_cytoskeleton_motors	Bilateria	14	0	32	0.5222
-E05_MCM		LUCA	0	0	113	0.0000
-E05_MCM		Archaea_Eukaryota	1	1	113	0.0000
-E05_MCM		TACK_Asgard_Eukaryota	2	0	112	0.0000
-E05_MCM		Asgard_Eukaryota	3	0	112	0.0000
-E05_MCM		Eukaryota	4	0	112	0.5052
-E05_MCM		Amorphea	5	0	67	0.8571
-E05_MCM		Diphoda	5	0	45	0.5753
-E05_MCM		Amoebozoa	6	0	15	1.0000
-E05_MCM		Obazoa	6	0	52	0.8296
-E05_MCM		Diaphoretickes	6	0	24	1.0000
-E05_MCM		Discoba_Metamonada	6	0	21	1.0000
-E05_MCM		Opisthokonta	7	0	52	0.8406
-E05_MCM		Archaeplastida	7	0	22	1.0000
-E05_MCM		Stramenopiles_Alveolata	7	0	2	1.0000
-E05_MCM		Discoba	7	0	15	1.0000
-E05_MCM		Fungi	8	0	17	1.0000
-E05_MCM		Holozoa	8	0	35	0.7779
-E05_MCM		Viridiplantae	8	0	14	1.0000
-E05_MCM		Stramenopiles	8	0	2	1.0000
-E05_MCM		Chytridiomycota_Dikarya	9	0	9	1.0000
-E05_MCM		Choanozoa	9	0	35	0.7779
-E05_MCM		Ascomycota	10	0	9	1.0000
-E05_MCM		Metazoa	10	0	29	0.9700
-E05_MCM		Myriazoa	11	0	29	0.9700
-E05_MCM		ParaHoxozoa	12	0	29	0.9700
-E05_MCM		Planulozoa	13	0	21	0.9614
-E05_MCM		Bilateria	14	0	15	0.9180
-E06_myosins	E_cytoskeleton_motors	LUCA	0	0	220	0.0003
-E06_myosins	E_cytoskeleton_motors	Archaea_Eukaryota	1	0	220	-0.0000
-E06_myosins	E_cytoskeleton_motors	TACK_Asgard_Eukaryota	2	0	220	-0.0000
-E06_myosins	E_cytoskeleton_motors	Asgard_Eukaryota	3	0	220	0.0005
-E06_myosins	E_cytoskeleton_motors	Eukaryota	4	1	220	0.2713
-E06_myosins	E_cytoskeleton_motors	Amorphea	5	0	164	0.3450
-E06_myosins	E_cytoskeleton_motors	Diphoda	5	0	56	0.1731
-E06_myosins	E_cytoskeleton_motors	Amoebozoa	6	0	15	0.2289
-E06_myosins	E_cytoskeleton_motors	Obazoa	6	0	149	0.3657
-E06_myosins	E_cytoskeleton_motors	Diaphoretickes	6	0	43	0.0312
-E06_myosins	E_cytoskeleton_motors	Discoba_Metamonada	6	0	13	0.4446
-E06_myosins	E_cytoskeleton_motors	Opisthokonta	7	0	133	0.4394
-E06_myosins	E_cytoskeleton_motors	Archaeplastida	7	0	20	-0.0000
-E06_myosins	E_cytoskeleton_motors	Stramenopiles_Alveolata	7	0	23	0.0870
-E06_myosins	E_cytoskeleton_motors	Discoba	7	0	13	0.4446
-E06_myosins	E_cytoskeleton_motors	Fungi	8	0	18	0.8540
-E06_myosins	E_cytoskeleton_motors	Holozoa	8	0	115	0.7128
-E06_myosins	E_cytoskeleton_motors	Viridiplantae	8	0	20	0.5681
-E06_myosins	E_cytoskeleton_motors	Stramenopiles	8	0	16	-0.0000
-E06_myosins	E_cytoskeleton_motors	Alveolata	8	0	7	0.0000
-E06_myosins	E_cytoskeleton_motors	Chytridiomycota_Dikarya	9	0	16	0.9140
-E06_myosins	E_cytoskeleton_motors	Choanozoa	9	0	93	0.6998
-E06_myosins	E_cytoskeleton_motors	Ascomycota	10	0	10	1.0000
-E06_myosins	E_cytoskeleton_motors	Metazoa	10	0	83	0.7949
-E06_myosins	E_cytoskeleton_motors	Myriazoa	11	0	78	0.8968
-E06_myosins	E_cytoskeleton_motors	ParaHoxozoa	12	0	64	0.9194
-E06_myosins	E_cytoskeleton_motors	Planulozoa	13	0	56	0.9324
-E06_myosins	E_cytoskeleton_motors	Bilateria	14	0	49	0.9173
-E07a_adaptins_large	E_adaptor_complexes	LUCA	0	0	105	0.0000
-E07a_adaptins_large	E_adaptor_complexes	Archaea_Eukaryota	1	0	105	0.0000
-E07a_adaptins_large	E_adaptor_complexes	TACK_Asgard_Eukaryota	2	0	105	0.0000
-E07a_adaptins_large	E_adaptor_complexes	Asgard_Eukaryota	3	0	105	0.0000
-E07a_adaptins_large	E_adaptor_complexes	Eukaryota	4	1	105	0.7896
-E07a_adaptins_large	E_adaptor_complexes	Amorphea	5	0	68	0.8478
-E07a_adaptins_large	E_adaptor_complexes	Diphoda	5	0	37	0.8879
-E07a_adaptins_large	E_adaptor_complexes	Amoebozoa	6	0	22	0.8085
-E07a_adaptins_large	E_adaptor_complexes	Obazoa	6	0	46	0.9091
-E07a_adaptins_large	E_adaptor_complexes	Diaphoretickes	6	0	24	0.9534
-E07a_adaptins_large	E_adaptor_complexes	Discoba_Metamonada	6	0	13	1.0000
-E07a_adaptins_large	E_adaptor_complexes	Opisthokonta	7	0	43	0.9051
-E07a_adaptins_large	E_adaptor_complexes	Archaeplastida	7	0	18	0.8666
-E07a_adaptins_large	E_adaptor_complexes	Stramenopiles_Alveolata	7	0	6	1.0000
-E07a_adaptins_large	E_adaptor_complexes	Discoba	7	0	11	1.0000
-E07a_adaptins_large	E_adaptor_complexes	Fungi	8	0	11	0.7180
-E07a_adaptins_large	E_adaptor_complexes	Holozoa	8	0	32	0.9786
-E07a_adaptins_large	E_adaptor_complexes	Viridiplantae	8	0	17	0.7964
-E07a_adaptins_large	E_adaptor_complexes	Stramenopiles	8	0	5	1.0000
-E07a_adaptins_large	E_adaptor_complexes	Chytridiomycota_Dikarya	9	0	10	1.0000
-E07a_adaptins_large	E_adaptor_complexes	Choanozoa	9	0	31	0.9772
-E07a_adaptins_large	E_adaptor_complexes	Ascomycota	10	0	9	1.0000
-E07a_adaptins_large	E_adaptor_complexes	Metazoa	10	0	21	0.9551
-E07a_adaptins_large	E_adaptor_complexes	Myriazoa	11	0	21	1.0000
-E07a_adaptins_large	E_adaptor_complexes	ParaHoxozoa	12	0	21	1.0000
-E07a_adaptins_large	E_adaptor_complexes	Planulozoa	13	0	21	1.0000
-E07a_adaptins_large	E_adaptor_complexes	Bilateria	14	0	15	1.0000
-E07b_adaptins_medium_small	E_adaptor_complexes	LUCA	0	0	123	0.0000
-E07b_adaptins_medium_small	E_adaptor_complexes	Archaea_Eukaryota	1	0	123	0.0000
-E07b_adaptins_medium_small	E_adaptor_complexes	TACK_Asgard_Eukaryota	2	0	123	0.0000
-E07b_adaptins_medium_small	E_adaptor_complexes	Asgard_Eukaryota	3	0	123	0.0000
-E07b_adaptins_medium_small	E_adaptor_complexes	Eukaryota	4	1	123	0.6005
-E07b_adaptins_medium_small	E_adaptor_complexes	Amorphea	5	0	77	0.5947
-E07b_adaptins_medium_small	E_adaptor_complexes	Diphoda	5	0	46	0.6658
-E07b_adaptins_medium_small	E_adaptor_complexes	Amoebozoa	6	0	24	0.8466
-E07b_adaptins_medium_small	E_adaptor_complexes	Obazoa	6	0	53	0.5770
-E07b_adaptins_medium_small	E_adaptor_complexes	Diaphoretickes	6	0	34	0.8122
-E07b_adaptins_medium_small	E_adaptor_complexes	Discoba_Metamonada	6	0	12	0.7925
-E07b_adaptins_medium_small	E_adaptor_complexes	Opisthokonta	7	0	51	0.5613
-E07b_adaptins_medium_small	E_adaptor_complexes	Archaeplastida	7	0	22	0.7708
-E07b_adaptins_medium_small	E_adaptor_complexes	Stramenopiles_Alveolata	7	0	12	-0.0000
-E07b_adaptins_medium_small	E_adaptor_complexes	Discoba	7	0	8	1.0000
-E07b_adaptins_medium_small	E_adaptor_complexes	Fungi	8	0	14	0.6111
-E07b_adaptins_medium_small	E_adaptor_complexes	Holozoa	8	0	37	0.9662
-E07b_adaptins_medium_small	E_adaptor_complexes	Viridiplantae	8	0	21	0.8673
-E07b_adaptins_medium_small	E_adaptor_complexes	Stramenopiles	8	0	11	1.0000
-E07b_adaptins_medium_small	E_adaptor_complexes	Chytridiomycota_Dikarya	9	0	14	0.6111
-E07b_adaptins_medium_small	E_adaptor_complexes	Choanozoa	9	0	35	0.9621
-E07b_adaptins_medium_small	E_adaptor_complexes	Ascomycota	10	0	11	1.0000
-E07b_adaptins_medium_small	E_adaptor_complexes	Metazoa	10	0	28	0.9564
-E07b_adaptins_medium_small	E_adaptor_complexes	Myriazoa	11	0	28	0.9226
-E07b_adaptins_medium_small	E_adaptor_complexes	ParaHoxozoa	12	0	28	0.9226
-E07b_adaptins_medium_small	E_adaptor_complexes	Planulozoa	13	0	28	0.8102
-E07b_adaptins_medium_small	E_adaptor_complexes	Bilateria	14	0	23	0.8208
-E07c_adaptins_scaffold	E_adaptor_complexes	LUCA	0	0	35	-0.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Archaea_Eukaryota	1	0	35	-0.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	TACK_Asgard_Eukaryota	2	0	35	-0.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Asgard_Eukaryota	3	0	35	-0.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Eukaryota	4	1	35	0.9052
-E07c_adaptins_scaffold	E_adaptor_complexes	Amorphea	5	0	16	0.8905
-E07c_adaptins_scaffold	E_adaptor_complexes	Diphoda	5	0	19	0.9042
-E07c_adaptins_scaffold	E_adaptor_complexes	Amoebozoa	6	0	3	-0.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Obazoa	6	0	13	1.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Diaphoretickes	6	0	14	1.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Discoba_Metamonada	6	0	5	0.6154
-E07c_adaptins_scaffold	E_adaptor_complexes	Opisthokonta	7	0	11	1.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Archaeplastida	7	0	9	1.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Stramenopiles_Alveolata	7	0	5	1.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Discoba	7	0	5	0.6154
-E07c_adaptins_scaffold	E_adaptor_complexes	Fungi	8	0	5	1.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Holozoa	8	0	6	1.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Viridiplantae	8	0	8	1.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Stramenopiles	8	0	3	1.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Alveolata	8	0	2	1.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Chytridiomycota_Dikarya	9	0	5	1.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Choanozoa	9	0	6	1.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Ascomycota	10	0	2	1.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Metazoa	10	0	4	1.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Myriazoa	11	0	4	1.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	ParaHoxozoa	12	0	4	1.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Planulozoa	13	0	4	1.0000
-E07c_adaptins_scaffold	E_adaptor_complexes	Bilateria	14	0	2	1.0000
+family	collection	level	depth	is_family_level	n_genes	ami	ami_ofd_fo	ami_of_ofd	ami3_mean
+E01_kinesins	E_cytoskeleton_motors	Eukaryota	4	1	399	0.1246	0.1576	0.7306	0.3376
+E01_kinesins	E_cytoskeleton_motors	Amorphea	5	0	200	0.1920	0.2025	0.8300	0.4082
+E01_kinesins	E_cytoskeleton_motors	Diphoda	5	0	199	0.2266	0.2441	0.7163	0.3956
+E01_kinesins	E_cytoskeleton_motors	Amoebozoa	6	0	16	-0.0000	-0.0000	1.0000	0.3333
+E01_kinesins	E_cytoskeleton_motors	Obazoa	6	0	184	0.1771	0.2046	0.8587	0.4135
+E01_kinesins	E_cytoskeleton_motors	Diaphoretickes	6	0	108	0.1527	0.2018	0.7960	0.3835
+E01_kinesins	E_cytoskeleton_motors	Discoba_Metamonada	6	0	91	0.2036	0.1845	0.6336	0.3406
+E01_kinesins	E_cytoskeleton_motors	Opisthokonta	7	0	184	0.2100	0.1992	0.8233	0.4108
+E01_kinesins	E_cytoskeleton_motors	Archaeplastida	7	0	80	0.1898	0.2323	0.8880	0.4367
+E01_kinesins	E_cytoskeleton_motors	Stramenopiles_Alveolata	7	0	28	0.0000	0.0000	0.6926	0.2309
+E01_kinesins	E_cytoskeleton_motors	Discoba	7	0	69	0.0330	0.0403	0.6678	0.2471
+E01_kinesins	E_cytoskeleton_motors	Fungi	8	0	24	0.1709	0.5497	0.6814	0.4673
+E01_kinesins	E_cytoskeleton_motors	Holozoa	8	0	160	0.4418	0.4345	0.8681	0.5815
+E01_kinesins	E_cytoskeleton_motors	Viridiplantae	8	0	75	0.2427	0.2643	0.9557	0.4876
+E01_kinesins	E_cytoskeleton_motors	Stramenopiles	8	0	21	0.0000	-0.0000	0.6204	0.2068
+E01_kinesins	E_cytoskeleton_motors	Alveolata	8	0	7	-0.0000	1.0000	-0.0000	0.3333
+E01_kinesins	E_cytoskeleton_motors	Chytridiomycota_Dikarya	9	0	18	0.1583	0.5429	0.6711	0.4574
+E01_kinesins	E_cytoskeleton_motors	Choanozoa	9	0	160	0.4549	0.4663	0.9082	0.6098
+E01_kinesins	E_cytoskeleton_motors	Ascomycota	10	0	15	0.1915	0.7041	0.5766	0.4907
+E01_kinesins	E_cytoskeleton_motors	Metazoa	10	0	126	0.6668	0.6405	0.9118	0.7397
+E01_kinesins	E_cytoskeleton_motors	Myriazoa	11	0	126	0.7081	0.6655	0.9118	0.7618
+E01_kinesins	E_cytoskeleton_motors	ParaHoxozoa	12	0	126	0.7535	0.7157	0.9209	0.7967
+E01_kinesins	E_cytoskeleton_motors	Planulozoa	13	0	98	0.7755	0.7607	0.8976	0.8113
+E01_kinesins	E_cytoskeleton_motors	Bilateria	14	0	62	0.8275	0.7151	0.8803	0.8077
+E02_ARF	E_small_GTPases	Eukaryota	4	1	325	0.1036	0.1181	0.8348	0.3522
+E02_ARF	E_small_GTPases	Amorphea	5	0	207	0.2136	0.2506	0.8769	0.4470
+E02_ARF	E_small_GTPases	Diphoda	5	0	118	0.2149	0.2306	0.7752	0.4069
+E02_ARF	E_small_GTPases	Amoebozoa	6	0	34	0.0849	0.2360	0.8087	0.3765
+E02_ARF	E_small_GTPases	Obazoa	6	0	173	0.2255	0.2377	0.9186	0.4606
+E02_ARF	E_small_GTPases	Diaphoretickes	6	0	62	0.8035	0.8120	0.9010	0.8389
+E02_ARF	E_small_GTPases	Discoba_Metamonada	6	0	56	0.3359	0.3113	0.6452	0.4308
+E02_ARF	E_small_GTPases	Opisthokonta	7	0	157	0.2247	0.2380	0.9296	0.4641
+E02_ARF	E_small_GTPases	Archaeplastida	7	0	45	0.8827	0.8457	0.9023	0.8769
+E02_ARF	E_small_GTPases	Stramenopiles_Alveolata	7	0	17	0.8044	0.8927	0.8927	0.8633
+E02_ARF	E_small_GTPases	Discoba	7	0	48	0.2517	0.1799	0.6484	0.3600
+E02_ARF	E_small_GTPases	Fungi	8	0	26	-0.0140	0.1214	0.8381	0.3152
+E02_ARF	E_small_GTPases	Holozoa	8	0	131	0.2572	0.2627	0.9822	0.5007
+E02_ARF	E_small_GTPases	Viridiplantae	8	0	38	0.9016	0.8623	0.9604	0.9081
+E02_ARF	E_small_GTPases	Stramenopiles	8	0	8	-0.0000	-0.0000	1.0000	0.3333
+E02_ARF	E_small_GTPases	Alveolata	8	0	9	1.0000	1.0000	1.0000	1.0000
+E02_ARF	E_small_GTPases	Chytridiomycota_Dikarya	9	0	26	-0.0140	0.1214	0.8381	0.3152
+E02_ARF	E_small_GTPases	Choanozoa	9	0	120	0.2524	0.2600	0.9836	0.4987
+E02_ARF	E_small_GTPases	Ascomycota	10	0	16	-0.0000	-0.0000	0.8905	0.2968
+E02_ARF	E_small_GTPases	Metazoa	10	0	103	0.2798	0.3010	0.9420	0.5076
+E02_ARF	E_small_GTPases	Myriazoa	11	0	90	0.2424	0.2609	0.9375	0.4803
+E02_ARF	E_small_GTPases	ParaHoxozoa	12	0	77	0.3310	0.3967	0.9353	0.5544
+E02_ARF	E_small_GTPases	Planulozoa	13	0	61	0.3621	0.3712	0.9845	0.5726
+E02_ARF	E_small_GTPases	Bilateria	14	0	44	0.3660	0.3660	1.0000	0.5773
+E03_Rab	E_small_GTPases	Eukaryota	4	1	388	0.1001	0.0990	0.8304	0.3432
+E03_Rab	E_small_GTPases	Amorphea	5	0	239	0.0676	0.0504	0.8805	0.3329
+E03_Rab	E_small_GTPases	Diphoda	5	0	149	0.7473	0.7751	0.8038	0.7754
+E03_Rab	E_small_GTPases	Obazoa	6	0	239	0.0676	0.0504	0.8805	0.3329
+E03_Rab	E_small_GTPases	Diaphoretickes	6	0	107	0.7973	0.8362	0.8309	0.8215
+E03_Rab	E_small_GTPases	Discoba_Metamonada	6	0	42	0.6594	0.6678	0.6274	0.6515
+E03_Rab	E_small_GTPases	Opisthokonta	7	0	239	0.0676	0.0504	0.8805	0.3329
+E03_Rab	E_small_GTPases	Archaeplastida	7	0	62	0.7605	0.6935	0.8454	0.7665
+E03_Rab	E_small_GTPases	Stramenopiles_Alveolata	7	0	45	0.7966	0.7539	0.7764	0.7756
+E03_Rab	E_small_GTPases	Discoba	7	0	42	0.6810	0.6927	0.6274	0.6670
+E03_Rab	E_small_GTPases	Fungi	8	0	9	0.8040	0.8040	1.0000	0.8694
+E03_Rab	E_small_GTPases	Holozoa	8	0	230	0.8217	0.8234	0.8879	0.8443
+E03_Rab	E_small_GTPases	Viridiplantae	8	0	62	0.6039	0.5465	0.8454	0.6653
+E03_Rab	E_small_GTPases	Stramenopiles	8	0	34	0.8638	0.9002	0.8610	0.8750
+E03_Rab	E_small_GTPases	Alveolata	8	0	11	0.0000	1.0000	0.0000	0.3333
+E03_Rab	E_small_GTPases	Chytridiomycota_Dikarya	9	0	9	0.5710	0.5710	1.0000	0.7140
+E03_Rab	E_small_GTPases	Choanozoa	9	0	212	0.8250	0.8260	0.8998	0.8503
+E03_Rab	E_small_GTPases	Ascomycota	10	0	9	1.0000	1.0000	1.0000	1.0000
+E03_Rab	E_small_GTPases	Metazoa	10	0	190	0.8520	0.8247	0.9134	0.8634
+E03_Rab	E_small_GTPases	Myriazoa	11	0	190	0.8688	0.8629	0.9092	0.8803
+E03_Rab	E_small_GTPases	ParaHoxozoa	12	0	160	0.8661	0.8810	0.9186	0.8886
+E03_Rab	E_small_GTPases	Planulozoa	13	0	126	0.8627	0.8674	0.9227	0.8843
+E03_Rab	E_small_GTPases	Bilateria	14	0	81	0.8884	0.9053	0.9829	0.9255
+E04_tubulins	E_cytoskeleton_motors	Eukaryota	4	1	170	0.8226	0.6724	0.7475	0.7475
+E04_tubulins	E_cytoskeleton_motors	Amorphea	5	0	104	0.8897	0.6672	0.7060	0.7543
+E04_tubulins	E_cytoskeleton_motors	Diphoda	5	0	66	0.7335	0.7902	0.9020	0.8086
+E04_tubulins	E_cytoskeleton_motors	Amoebozoa	6	0	9	0.6311	0.7894	0.8288	0.7497
+E04_tubulins	E_cytoskeleton_motors	Obazoa	6	0	95	0.9304	0.6874	0.7194	0.7791
+E04_tubulins	E_cytoskeleton_motors	Diaphoretickes	6	0	35	1.0000	1.0000	1.0000	1.0000
+E04_tubulins	E_cytoskeleton_motors	Discoba_Metamonada	6	0	31	0.4580	0.3558	0.8470	0.5536
+E04_tubulins	E_cytoskeleton_motors	Opisthokonta	7	0	91	0.7404	0.5795	0.7163	0.6787
+E04_tubulins	E_cytoskeleton_motors	Archaeplastida	7	0	17	0.9230	0.9230	1.0000	0.9486
+E04_tubulins	E_cytoskeleton_motors	Stramenopiles_Alveolata	7	0	18	1.0000	1.0000	1.0000	1.0000
+E04_tubulins	E_cytoskeleton_motors	Discoba	7	0	30	0.3970	0.3015	0.8372	0.5119
+E04_tubulins	E_cytoskeleton_motors	Fungi	8	0	16	0.7101	0.5580	0.8261	0.6981
+E04_tubulins	E_cytoskeleton_motors	Holozoa	8	0	75	0.7348	0.5505	0.7281	0.6711
+E04_tubulins	E_cytoskeleton_motors	Viridiplantae	8	0	15	0.9222	0.9222	1.0000	0.9481
+E04_tubulins	E_cytoskeleton_motors	Stramenopiles	8	0	8	0.2024	0.2024	1.0000	0.4683
+E04_tubulins	E_cytoskeleton_motors	Alveolata	8	0	10	1.0000	1.0000	1.0000	1.0000
+E04_tubulins	E_cytoskeleton_motors	Chytridiomycota_Dikarya	9	0	13	0.8641	0.6436	0.7642	0.7573
+E04_tubulins	E_cytoskeleton_motors	Choanozoa	9	0	71	0.7254	0.5508	0.7298	0.6687
+E04_tubulins	E_cytoskeleton_motors	Ascomycota	10	0	8	1.0000	0.7868	0.7868	0.8578
+E04_tubulins	E_cytoskeleton_motors	Metazoa	10	0	66	0.6429	0.5934	0.7470	0.6611
+E04_tubulins	E_cytoskeleton_motors	Myriazoa	11	0	66	0.5913	0.5352	0.7470	0.6245
+E04_tubulins	E_cytoskeleton_motors	ParaHoxozoa	12	0	59	0.5695	0.4970	0.7089	0.5918
+E04_tubulins	E_cytoskeleton_motors	Planulozoa	13	0	50	0.5654	0.4353	0.6530	0.5512
+E04_tubulins	E_cytoskeleton_motors	Bilateria	14	0	32	0.5222	0.5212	0.6710	0.5715
+E05_MCM		Archaea_Eukaryota	1	1	113	0.0000	-0.0169	0.0000	-0.0056
+E05_MCM		TACK_Asgard_Eukaryota	2	0	112	0.0000	0.0000	1.0000	0.3333
+E05_MCM		Asgard_Eukaryota	3	0	112	0.0000	0.0000	1.0000	0.3333
+E05_MCM		Eukaryota	4	0	112	0.5052	0.4971	0.9907	0.6643
+E05_MCM		Amorphea	5	0	67	0.8571	0.8571	1.0000	0.9048
+E05_MCM		Diphoda	5	0	45	0.5753	0.5544	0.9784	0.7027
+E05_MCM		Amoebozoa	6	0	15	1.0000	1.0000	1.0000	1.0000
+E05_MCM		Obazoa	6	0	52	0.8296	0.8296	1.0000	0.8864
+E05_MCM		Diaphoretickes	6	0	24	1.0000	1.0000	1.0000	1.0000
+E05_MCM		Discoba_Metamonada	6	0	21	1.0000	0.9463	0.9463	0.9642
+E05_MCM		Opisthokonta	7	0	52	0.8406	0.8406	1.0000	0.8938
+E05_MCM		Archaeplastida	7	0	22	1.0000	1.0000	1.0000	1.0000
+E05_MCM		Stramenopiles_Alveolata	7	0	2	1.0000	1.0000	1.0000	1.0000
+E05_MCM		Discoba	7	0	15	1.0000	1.0000	1.0000	1.0000
+E05_MCM		Fungi	8	0	17	1.0000	1.0000	1.0000	1.0000
+E05_MCM		Holozoa	8	0	35	0.7779	0.7779	1.0000	0.8519
+E05_MCM		Viridiplantae	8	0	14	1.0000	1.0000	1.0000	1.0000
+E05_MCM		Stramenopiles	8	0	2	1.0000	1.0000	1.0000	1.0000
+E05_MCM		Chytridiomycota_Dikarya	9	0	9	1.0000	1.0000	1.0000	1.0000
+E05_MCM		Choanozoa	9	0	35	0.7779	0.7779	1.0000	0.8519
+E05_MCM		Ascomycota	10	0	9	1.0000	1.0000	1.0000	1.0000
+E05_MCM		Metazoa	10	0	29	0.9700	0.9700	1.0000	0.9800
+E05_MCM		Myriazoa	11	0	29	0.9700	0.9700	1.0000	0.9800
+E05_MCM		ParaHoxozoa	12	0	29	0.9700	0.9700	1.0000	0.9800
+E05_MCM		Planulozoa	13	0	21	0.9614	0.9614	1.0000	0.9742
+E05_MCM		Bilateria	14	0	15	0.9180	0.9180	1.0000	0.9454
+E06_myosins	E_cytoskeleton_motors	Eukaryota	4	1	220	0.2713	0.2351	0.7299	0.4121
+E06_myosins	E_cytoskeleton_motors	Amorphea	5	0	164	0.3450	0.2833	0.8405	0.4896
+E06_myosins	E_cytoskeleton_motors	Diphoda	5	0	56	0.1731	0.0912	0.7374	0.3339
+E06_myosins	E_cytoskeleton_motors	Amoebozoa	6	0	15	0.2289	0.2609	0.5716	0.3538
+E06_myosins	E_cytoskeleton_motors	Obazoa	6	0	149	0.3657	0.3032	0.8774	0.5154
+E06_myosins	E_cytoskeleton_motors	Diaphoretickes	6	0	43	0.0312	0.0050	0.7708	0.2690
+E06_myosins	E_cytoskeleton_motors	Discoba_Metamonada	6	0	13	0.4446	0.7031	0.7819	0.6432
+E06_myosins	E_cytoskeleton_motors	Opisthokonta	7	0	133	0.4394	0.3854	0.8903	0.5717
+E06_myosins	E_cytoskeleton_motors	Archaeplastida	7	0	20	-0.0000	-0.0000	1.0000	0.3333
+E06_myosins	E_cytoskeleton_motors	Stramenopiles_Alveolata	7	0	23	0.0870	0.0937	0.8677	0.3495
+E06_myosins	E_cytoskeleton_motors	Discoba	7	0	13	0.4446	0.7031	0.7819	0.6432
+E06_myosins	E_cytoskeleton_motors	Fungi	8	0	18	0.8540	0.7820	0.9324	0.8562
+E06_myosins	E_cytoskeleton_motors	Holozoa	8	0	115	0.7128	0.6717	0.8957	0.7601
+E06_myosins	E_cytoskeleton_motors	Viridiplantae	8	0	20	0.5681	0.5681	1.0000	0.7120
+E06_myosins	E_cytoskeleton_motors	Stramenopiles	8	0	16	-0.0000	-0.0000	1.0000	0.3333
+E06_myosins	E_cytoskeleton_motors	Alveolata	8	0	7	0.0000	-0.0000	0.2339	0.0780
+E06_myosins	E_cytoskeleton_motors	Chytridiomycota_Dikarya	9	0	16	0.9140	0.8320	0.9170	0.8877
+E06_myosins	E_cytoskeleton_motors	Choanozoa	9	0	93	0.6998	0.6706	0.9448	0.7717
+E06_myosins	E_cytoskeleton_motors	Ascomycota	10	0	10	1.0000	1.0000	1.0000	1.0000
+E06_myosins	E_cytoskeleton_motors	Metazoa	10	0	83	0.7949	0.7612	0.9343	0.8301
+E06_myosins	E_cytoskeleton_motors	Myriazoa	11	0	78	0.8968	0.8580	0.9310	0.8953
+E06_myosins	E_cytoskeleton_motors	ParaHoxozoa	12	0	64	0.9194	0.8440	0.9228	0.8954
+E06_myosins	E_cytoskeleton_motors	Planulozoa	13	0	56	0.9324	0.8536	0.9201	0.9020
+E06_myosins	E_cytoskeleton_motors	Bilateria	14	0	49	0.9173	0.8224	0.9101	0.8832
+E07a_adaptins_large	E_adaptor_complexes	Eukaryota	4	1	105	0.7896	0.7690	0.8806	0.8130
+E07a_adaptins_large	E_adaptor_complexes	Amorphea	5	0	68	0.8478	0.8431	0.8909	0.8606
+E07a_adaptins_large	E_adaptor_complexes	Diphoda	5	0	37	0.8879	0.8366	0.8691	0.8646
+E07a_adaptins_large	E_adaptor_complexes	Amoebozoa	6	0	22	0.8085	0.8123	0.8123	0.8110
+E07a_adaptins_large	E_adaptor_complexes	Obazoa	6	0	46	0.9091	0.9091	0.9567	0.9250
+E07a_adaptins_large	E_adaptor_complexes	Diaphoretickes	6	0	24	0.9534	1.0000	0.9534	0.9689
+E07a_adaptins_large	E_adaptor_complexes	Discoba_Metamonada	6	0	13	1.0000	0.6609	0.6609	0.7739
+E07a_adaptins_large	E_adaptor_complexes	Opisthokonta	7	0	43	0.9051	0.8841	0.9340	0.9077
+E07a_adaptins_large	E_adaptor_complexes	Archaeplastida	7	0	18	0.8666	1.0000	0.8666	0.9111
+E07a_adaptins_large	E_adaptor_complexes	Stramenopiles_Alveolata	7	0	6	1.0000	1.0000	1.0000	1.0000
+E07a_adaptins_large	E_adaptor_complexes	Discoba	7	0	11	1.0000	1.0000	1.0000	1.0000
+E07a_adaptins_large	E_adaptor_complexes	Fungi	8	0	11	0.7180	0.7180	1.0000	0.8120
+E07a_adaptins_large	E_adaptor_complexes	Holozoa	8	0	32	0.9786	0.9786	1.0000	0.9857
+E07a_adaptins_large	E_adaptor_complexes	Viridiplantae	8	0	17	0.7964	1.0000	0.7964	0.8643
+E07a_adaptins_large	E_adaptor_complexes	Stramenopiles	8	0	5	1.0000	1.0000	1.0000	1.0000
+E07a_adaptins_large	E_adaptor_complexes	Chytridiomycota_Dikarya	9	0	10	1.0000	1.0000	1.0000	1.0000
+E07a_adaptins_large	E_adaptor_complexes	Choanozoa	9	0	31	0.9772	0.9772	1.0000	0.9848
+E07a_adaptins_large	E_adaptor_complexes	Ascomycota	10	0	9	1.0000	1.0000	1.0000	1.0000
+E07a_adaptins_large	E_adaptor_complexes	Metazoa	10	0	21	0.9551	0.9551	1.0000	0.9700
+E07a_adaptins_large	E_adaptor_complexes	Myriazoa	11	0	21	1.0000	1.0000	1.0000	1.0000
+E07a_adaptins_large	E_adaptor_complexes	ParaHoxozoa	12	0	21	1.0000	1.0000	1.0000	1.0000
+E07a_adaptins_large	E_adaptor_complexes	Planulozoa	13	0	21	1.0000	1.0000	1.0000	1.0000
+E07a_adaptins_large	E_adaptor_complexes	Bilateria	14	0	15	1.0000	1.0000	1.0000	1.0000
+E07b_adaptins_medium_small	E_adaptor_complexes	Eukaryota	4	1	123	0.6005	0.6246	0.9281	0.7177
+E07b_adaptins_medium_small	E_adaptor_complexes	Amorphea	5	0	77	0.5947	0.6182	0.9471	0.7200
+E07b_adaptins_medium_small	E_adaptor_complexes	Diphoda	5	0	46	0.6658	0.6771	0.9269	0.7566
+E07b_adaptins_medium_small	E_adaptor_complexes	Amoebozoa	6	0	24	0.8466	0.9023	0.9532	0.9007
+E07b_adaptins_medium_small	E_adaptor_complexes	Obazoa	6	0	53	0.5770	0.6064	0.9646	0.7160
+E07b_adaptins_medium_small	E_adaptor_complexes	Diaphoretickes	6	0	34	0.8122	0.8122	1.0000	0.8748
+E07b_adaptins_medium_small	E_adaptor_complexes	Discoba_Metamonada	6	0	12	0.7925	0.7925	1.0000	0.8616
+E07b_adaptins_medium_small	E_adaptor_complexes	Opisthokonta	7	0	51	0.5613	0.5921	0.9631	0.7055
+E07b_adaptins_medium_small	E_adaptor_complexes	Archaeplastida	7	0	22	0.7708	0.7708	1.0000	0.8472
+E07b_adaptins_medium_small	E_adaptor_complexes	Stramenopiles_Alveolata	7	0	12	-0.0000	-0.0000	1.0000	0.3333
+E07b_adaptins_medium_small	E_adaptor_complexes	Discoba	7	0	8	1.0000	1.0000	1.0000	1.0000
+E07b_adaptins_medium_small	E_adaptor_complexes	Fungi	8	0	14	0.6111	0.6111	1.0000	0.7408
+E07b_adaptins_medium_small	E_adaptor_complexes	Holozoa	8	0	37	0.9662	0.9307	0.9662	0.9544
+E07b_adaptins_medium_small	E_adaptor_complexes	Viridiplantae	8	0	21	0.8673	0.8673	1.0000	0.9115
+E07b_adaptins_medium_small	E_adaptor_complexes	Stramenopiles	8	0	11	1.0000	1.0000	1.0000	1.0000
+E07b_adaptins_medium_small	E_adaptor_complexes	Chytridiomycota_Dikarya	9	0	14	0.6111	0.6111	1.0000	0.7408
+E07b_adaptins_medium_small	E_adaptor_complexes	Choanozoa	9	0	35	0.9621	0.9621	1.0000	0.9747
+E07b_adaptins_medium_small	E_adaptor_complexes	Ascomycota	10	0	11	1.0000	1.0000	1.0000	1.0000
+E07b_adaptins_medium_small	E_adaptor_complexes	Metazoa	10	0	28	0.9564	0.9564	1.0000	0.9709
+E07b_adaptins_medium_small	E_adaptor_complexes	Myriazoa	11	0	28	0.9226	0.9226	1.0000	0.9484
+E07b_adaptins_medium_small	E_adaptor_complexes	ParaHoxozoa	12	0	28	0.9226	0.9226	1.0000	0.9484
+E07b_adaptins_medium_small	E_adaptor_complexes	Planulozoa	13	0	28	0.8102	0.8102	1.0000	0.8734
+E07b_adaptins_medium_small	E_adaptor_complexes	Bilateria	14	0	23	0.8208	0.8208	1.0000	0.8805
+E07c_adaptins_scaffold	E_adaptor_complexes	Eukaryota	4	1	35	0.9052	0.9358	0.9700	0.9370
+E07c_adaptins_scaffold	E_adaptor_complexes	Amorphea	5	0	16	0.8905	0.8905	1.0000	0.9270
+E07c_adaptins_scaffold	E_adaptor_complexes	Diphoda	5	0	19	0.9042	0.9607	0.9458	0.9369
+E07c_adaptins_scaffold	E_adaptor_complexes	Amoebozoa	6	0	3	-0.0000	-0.0000	1.0000	0.3333
+E07c_adaptins_scaffold	E_adaptor_complexes	Obazoa	6	0	13	1.0000	1.0000	1.0000	1.0000
+E07c_adaptins_scaffold	E_adaptor_complexes	Diaphoretickes	6	0	14	1.0000	1.0000	1.0000	1.0000
+E07c_adaptins_scaffold	E_adaptor_complexes	Discoba_Metamonada	6	0	5	0.6154	0.6154	1.0000	0.7436
+E07c_adaptins_scaffold	E_adaptor_complexes	Opisthokonta	7	0	11	1.0000	1.0000	1.0000	1.0000
+E07c_adaptins_scaffold	E_adaptor_complexes	Archaeplastida	7	0	9	1.0000	1.0000	1.0000	1.0000
+E07c_adaptins_scaffold	E_adaptor_complexes	Stramenopiles_Alveolata	7	0	5	1.0000	1.0000	1.0000	1.0000
+E07c_adaptins_scaffold	E_adaptor_complexes	Discoba	7	0	5	0.6154	0.6154	1.0000	0.7436
+E07c_adaptins_scaffold	E_adaptor_complexes	Fungi	8	0	5	1.0000	1.0000	1.0000	1.0000
+E07c_adaptins_scaffold	E_adaptor_complexes	Holozoa	8	0	6	1.0000	1.0000	1.0000	1.0000
+E07c_adaptins_scaffold	E_adaptor_complexes	Viridiplantae	8	0	8	1.0000	1.0000	1.0000	1.0000
+E07c_adaptins_scaffold	E_adaptor_complexes	Stramenopiles	8	0	3	1.0000	1.0000	1.0000	1.0000
+E07c_adaptins_scaffold	E_adaptor_complexes	Alveolata	8	0	2	1.0000	1.0000	1.0000	1.0000
+E07c_adaptins_scaffold	E_adaptor_complexes	Chytridiomycota_Dikarya	9	0	5	1.0000	1.0000	1.0000	1.0000
+E07c_adaptins_scaffold	E_adaptor_complexes	Choanozoa	9	0	6	1.0000	1.0000	1.0000	1.0000
+E07c_adaptins_scaffold	E_adaptor_complexes	Ascomycota	10	0	2	1.0000	1.0000	1.0000	1.0000
+E07c_adaptins_scaffold	E_adaptor_complexes	Metazoa	10	0	4	1.0000	1.0000	1.0000	1.0000
+E07c_adaptins_scaffold	E_adaptor_complexes	Myriazoa	11	0	4	1.0000	1.0000	1.0000	1.0000
+E07c_adaptins_scaffold	E_adaptor_complexes	ParaHoxozoa	12	0	4	1.0000	1.0000	1.0000	1.0000
+E07c_adaptins_scaffold	E_adaptor_complexes	Planulozoa	13	0	4	1.0000	1.0000	1.0000	1.0000
+E07c_adaptins_scaffold	E_adaptor_complexes	Bilateria	14	0	2	1.0000	1.0000	1.0000	1.0000

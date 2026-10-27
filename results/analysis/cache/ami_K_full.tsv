@@ -1,836 +1,819 @@
-family	collection	level	depth	is_family_level	n_genes	ami
-K01_RPROT_L1	RPROT	LUCA	0	1	19	1.0000
-K01_RPROT_L1	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_L1	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_L1	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L1	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L1	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_L1	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_L1	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L1	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L1	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L1	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L1	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_L1	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_L1	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L1	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L1	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L1	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L1	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_L1	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L1	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L10	RPROT	LUCA	0	1	19	0.0000
-K01_RPROT_L10	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_L10	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_L10	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L10	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L10	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_L10	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_L10	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L10	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L10	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L10	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L10	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_L10	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_L10	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L10	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L10	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L10	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L10	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_L10	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L10	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L11	RPROT	LUCA	0	1	19	1.0000
-K01_RPROT_L11	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_L11	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_L11	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L11	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L11	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_L11	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_L11	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L11	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L11	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L11	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L11	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_L11	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_L11	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L11	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L11	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L11	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L11	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_L11	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L11	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L13	RPROT	LUCA	0	1	19	0.0000
-K01_RPROT_L13	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_L13	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_L13	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L13	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L13	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_L13	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_L13	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L13	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L13	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L13	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L13	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_L13	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_L13	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L13	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L13	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L13	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L13	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_L13	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L13	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L14	RPROT	LUCA	0	1	19	1.0000
-K01_RPROT_L14	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_L14	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_L14	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L14	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L14	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_L14	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_L14	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L14	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L14	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L14	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L14	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_L14	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_L14	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L14	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L14	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L14	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L14	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_L14	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L14	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L15	RPROT	LUCA	0	1	19	0.0000
-K01_RPROT_L15	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_L15	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_L15	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L15	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L15	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_L15	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_L15	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L15	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L15	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L15	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L15	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_L15	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_L15	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L15	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L15	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L15	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L15	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_L15	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L15	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L16	RPROT	LUCA	0	0	12	0.0000
-K01_RPROT_L16	RPROT	Bacteria	1	1	12	1.0000
-K01_RPROT_L16	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L16	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L16	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L16	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L16	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L16	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L16	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L16	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L16	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L16	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L16	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L16	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L17	RPROT	LUCA	0	0	12	0.0000
-K01_RPROT_L17	RPROT	Bacteria	1	1	12	1.0000
-K01_RPROT_L17	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L17	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L17	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L17	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L17	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L17	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L17	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L17	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L17	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L17	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L17	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L17	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L18	RPROT	LUCA	0	1	19	0.0000
-K01_RPROT_L18	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_L18	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_L18	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L18	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L18	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_L18	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_L18	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L18	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L18	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L18	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L18	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_L18	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_L18	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L18	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L18	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L18	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L18	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_L18	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L18	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L19	RPROT	LUCA	0	0	12	0.0000
-K01_RPROT_L19	RPROT	Bacteria	1	1	12	1.0000
-K01_RPROT_L19	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L19	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L19	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L19	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L19	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L19	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L19	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L19	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L19	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L19	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L19	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L19	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L2	RPROT	LUCA	0	1	19	1.0000
-K01_RPROT_L2	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_L2	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_L2	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L2	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L2	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_L2	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_L2	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L2	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L2	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L2	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L2	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_L2	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_L2	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L2	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L2	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L2	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L2	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_L2	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L2	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L20	RPROT	LUCA	0	0	12	0.0000
-K01_RPROT_L20	RPROT	Bacteria	1	1	12	1.0000
-K01_RPROT_L20	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L20	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L20	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L20	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L20	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L20	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L20	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L20	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L20	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L20	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L20	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L20	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L21	RPROT	LUCA	0	0	11	0.0000
-K01_RPROT_L21	RPROT	Bacteria	1	1	11	1.0000
-K01_RPROT_L21	RPROT	Terrabacteria	2	0	4	1.0000
-K01_RPROT_L21	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L21	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L21	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L21	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L21	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L21	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L21	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L21	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L21	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L21	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L22	RPROT	LUCA	0	1	18	0.0000
-K01_RPROT_L22	RPROT	Bacteria	1	0	11	1.0000
-K01_RPROT_L22	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_L22	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L22	RPROT	Gracilicutes	2	0	6	1.0000
-K01_RPROT_L22	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_L22	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_L22	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L22	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L22	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L22	RPROT	Proteobacteria_sl	3	0	3	1.0000
-K01_RPROT_L22	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_L22	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_L22	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L22	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L22	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L22	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_L22	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L23	RPROT	LUCA	0	1	19	0.0000
-K01_RPROT_L23	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_L23	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_L23	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L23	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L23	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_L23	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_L23	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L23	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L23	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L23	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L23	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_L23	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_L23	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L23	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L23	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L23	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L23	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_L23	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L23	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L24	RPROT	LUCA	0	1	18	0.0000
-K01_RPROT_L24	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_L24	RPROT	Archaea	1	0	6	1.0000
-K01_RPROT_L24	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L24	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L24	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_L24	RPROT	TACK	2	0	2	1.0000
-K01_RPROT_L24	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L24	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L24	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L24	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L24	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_L24	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_L24	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L24	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L24	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L24	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L24	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_L24	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L24	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L25	RPROT	LUCA	0	0	12	-0.0000
-K01_RPROT_L25	RPROT	Bacteria	1	1	12	1.0000
-K01_RPROT_L25	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L25	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L25	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L25	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L25	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L25	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L25	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L25	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L25	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L25	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L25	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L25	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L27	RPROT	LUCA	0	0	12	0.0000
-K01_RPROT_L27	RPROT	Bacteria	1	1	12	1.0000
-K01_RPROT_L27	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L27	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L27	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L27	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L27	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L27	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L27	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L27	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L27	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L27	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L27	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L27	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L29	RPROT	LUCA	0	1	16	0.1116
-K01_RPROT_L29	RPROT	Bacteria	1	0	11	0.4069
-K01_RPROT_L29	RPROT	Archaea	1	0	5	0.0000
-K01_RPROT_L29	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L29	RPROT	Gracilicutes	2	0	6	0.2867
-K01_RPROT_L29	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_L29	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L29	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L29	RPROT	Spirochaetota_FCB_PVC	3	0	2	1.0000
-K01_RPROT_L29	RPROT	Proteobacteria_sl	3	0	4	0.0000
-K01_RPROT_L29	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_L29	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L29	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L29	RPROT	Desulfobacterota_Campylobacterota	4	0	2	0.0000
-K01_RPROT_L29	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_L29	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L29	RPROT	Campylobacterota_Aquificota	5	0	2	0.0000
-K01_RPROT_L3	RPROT	LUCA	0	1	19	0.0000
-K01_RPROT_L3	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_L3	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_L3	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L3	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L3	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_L3	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_L3	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L3	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L3	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L3	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L3	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_L3	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_L3	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L3	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L3	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L3	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L3	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_L3	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L3	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L30	RPROT	LUCA	0	1	16	0.0000
-K01_RPROT_L30	RPROT	Bacteria	1	0	9	0.0000
-K01_RPROT_L30	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_L30	RPROT	Terrabacteria	2	0	4	1.0000
-K01_RPROT_L30	RPROT	Gracilicutes	2	0	5	0.0000
-K01_RPROT_L30	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_L30	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_L30	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L30	RPROT	Terrabacteria_core	3	0	2	1.0000
-K01_RPROT_L30	RPROT	Spirochaetota_FCB_PVC	3	0	2	1.0000
-K01_RPROT_L30	RPROT	Proteobacteria_sl	3	0	3	0.0000
-K01_RPROT_L30	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_L30	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_L30	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L30	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L30	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_L30	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L32	RPROT	LUCA	0	0	11	0.0000
-K01_RPROT_L32	RPROT	Bacteria	1	1	11	0.2798
-K01_RPROT_L32	RPROT	Terrabacteria	2	0	4	1.0000
-K01_RPROT_L32	RPROT	Gracilicutes	2	0	7	0.0000
-K01_RPROT_L32	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L32	RPROT	Terrabacteria_core	3	0	2	1.0000
-K01_RPROT_L32	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L32	RPROT	Proteobacteria_sl	3	0	4	0.0000
-K01_RPROT_L32	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L32	RPROT	Pseudomonadota	4	0	2	0.0000
-K01_RPROT_L32	RPROT	Desulfobacterota_Campylobacterota	4	0	2	0.0000
-K01_RPROT_L32	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L32	RPROT	Campylobacterota_Aquificota	5	0	2	0.0000
-K01_RPROT_L34	RPROT	LUCA	0	0	12	0.0000
-K01_RPROT_L34	RPROT	Bacteria	1	1	12	1.0000
-K01_RPROT_L34	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L34	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L34	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L34	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L34	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L34	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L34	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L34	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L34	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L34	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L34	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L34	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L35	RPROT	LUCA	0	0	12	0.0000
-K01_RPROT_L35	RPROT	Bacteria	1	1	12	0.0000
-K01_RPROT_L35	RPROT	Terrabacteria	2	0	5	0.0000
-K01_RPROT_L35	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L35	RPROT	DST_clade	3	0	2	0.0000
-K01_RPROT_L35	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L35	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L35	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L35	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L35	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L35	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L35	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L35	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L35	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L4	RPROT	LUCA	0	1	19	-0.0000
-K01_RPROT_L4	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_L4	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_L4	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L4	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L4	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_L4	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_L4	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L4	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L4	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L4	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L4	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_L4	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_L4	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L4	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L4	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L4	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L4	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_L4	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L4	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L5	RPROT	LUCA	0	1	19	1.0000
-K01_RPROT_L5	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_L5	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_L5	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L5	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L5	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_L5	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_L5	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L5	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L5	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L5	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L5	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_L5	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_L5	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L5	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L5	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L5	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L5	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_L5	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L5	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L6	RPROT	LUCA	0	1	19	0.0000
-K01_RPROT_L6	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_L6	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_L6	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L6	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L6	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_L6	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_L6	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L6	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L6	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L6	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L6	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_L6	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_L6	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L6	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L6	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L6	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L6	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_L6	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L6	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_L9	RPROT	LUCA	0	0	12	0.0000
-K01_RPROT_L9	RPROT	Bacteria	1	1	12	1.0000
-K01_RPROT_L9	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_L9	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_L9	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_L9	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_L9	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_L9	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_L9	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_L9	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_L9	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_L9	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_L9	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_L9	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_S13	RPROT	LUCA	0	1	19	0.0000
-K01_RPROT_S13	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_S13	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_S13	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_S13	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_S13	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_S13	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_S13	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_S13	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_S13	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_S13	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_S13	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_S13	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_S13	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_S13	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_S13	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_S13	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_S13	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_S13	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_S13	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_S15	RPROT	LUCA	0	1	19	0.0000
-K01_RPROT_S15	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_S15	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_S15	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_S15	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_S15	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_S15	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_S15	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_S15	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_S15	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_S15	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_S15	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_S15	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_S15	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_S15	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_S15	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_S15	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_S15	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_S15	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_S15	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_S16	RPROT	LUCA	0	0	11	0.0000
-K01_RPROT_S16	RPROT	Bacteria	1	1	11	1.0000
-K01_RPROT_S16	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_S16	RPROT	Gracilicutes	2	0	6	1.0000
-K01_RPROT_S16	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_S16	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_S16	RPROT	Spirochaetota_FCB_PVC	3	0	2	1.0000
-K01_RPROT_S16	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_S16	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_S16	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_S16	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_S16	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_S16	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_S16	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_S19	RPROT	LUCA	0	1	19	0.0000
-K01_RPROT_S19	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_S19	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_S19	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_S19	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_S19	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_S19	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_S19	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_S19	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_S19	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_S19	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_S19	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_S19	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_S19	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_S19	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_S19	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_S19	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_S19	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_S19	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_S19	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_S2	RPROT	LUCA	0	1	19	0.0000
-K01_RPROT_S2	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_S2	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_S2	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_S2	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_S2	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_S2	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_S2	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_S2	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_S2	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_S2	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_S2	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_S2	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_S2	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_S2	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_S2	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_S2	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_S2	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_S2	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_S2	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_S20	RPROT	LUCA	0	0	12	0.0000
-K01_RPROT_S20	RPROT	Bacteria	1	1	12	1.0000
-K01_RPROT_S20	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_S20	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_S20	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_S20	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_S20	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_S20	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_S20	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_S20	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_S20	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_S20	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_S20	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_S20	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_S3	RPROT	LUCA	0	1	19	0.0000
-K01_RPROT_S3	RPROT	Bacteria	1	0	12	0.0000
-K01_RPROT_S3	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_S3	RPROT	Terrabacteria	2	0	5	0.0000
-K01_RPROT_S3	RPROT	Gracilicutes	2	0	7	0.0000
-K01_RPROT_S3	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_S3	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_S3	RPROT	DST_clade	3	0	2	0.0000
-K01_RPROT_S3	RPROT	Terrabacteria_core	3	0	3	0.0000
-K01_RPROT_S3	RPROT	Spirochaetota_FCB_PVC	3	0	3	0.0000
-K01_RPROT_S3	RPROT	Proteobacteria_sl	3	0	4	0.0000
-K01_RPROT_S3	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_S3	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_S3	RPROT	Bacillota_Actinomycetota	4	0	2	0.0000
-K01_RPROT_S3	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_S3	RPROT	Pseudomonadota	4	0	2	0.0000
-K01_RPROT_S3	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_S3	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_S3	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_S3	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_S4	RPROT	LUCA	0	1	19	0.0000
-K01_RPROT_S4	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_S4	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_S4	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_S4	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_S4	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_S4	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_S4	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_S4	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_S4	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_S4	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_S4	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_S4	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_S4	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_S4	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_S4	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_S4	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_S4	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_S4	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_S4	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_S5	RPROT	LUCA	0	1	19	0.0000
-K01_RPROT_S5	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_S5	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_S5	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_S5	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_S5	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_S5	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_S5	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_S5	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_S5	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_S5	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_S5	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_S5	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_S5	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_S5	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_S5	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_S5	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_S5	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_S5	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_S5	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_S6	RPROT	LUCA	0	0	12	0.0000
-K01_RPROT_S6	RPROT	Bacteria	1	1	12	0.0000
-K01_RPROT_S6	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_S6	RPROT	Gracilicutes	2	0	7	0.0000
-K01_RPROT_S6	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_S6	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_S6	RPROT	Spirochaetota_FCB_PVC	3	0	3	0.0000
-K01_RPROT_S6	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_S6	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_S6	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_S6	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_S6	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_S6	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_S6	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_S8	RPROT	LUCA	0	1	19	0.0000
-K01_RPROT_S8	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_S8	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_S8	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_S8	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_S8	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_S8	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_S8	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_S8	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_S8	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_S8	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_S8	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_S8	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_S8	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_S8	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_S8	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_S8	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_S8	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_S8	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_S8	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K01_RPROT_S9	RPROT	LUCA	0	1	19	0.0000
-K01_RPROT_S9	RPROT	Bacteria	1	0	12	1.0000
-K01_RPROT_S9	RPROT	Archaea	1	0	7	1.0000
-K01_RPROT_S9	RPROT	Terrabacteria	2	0	5	1.0000
-K01_RPROT_S9	RPROT	Gracilicutes	2	0	7	1.0000
-K01_RPROT_S9	RPROT	Euryarchaeota	2	0	4	1.0000
-K01_RPROT_S9	RPROT	TACK	2	0	3	1.0000
-K01_RPROT_S9	RPROT	DST_clade	3	0	2	1.0000
-K01_RPROT_S9	RPROT	Terrabacteria_core	3	0	3	1.0000
-K01_RPROT_S9	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K01_RPROT_S9	RPROT	Proteobacteria_sl	3	0	4	1.0000
-K01_RPROT_S9	RPROT	Euryarchaeota_core	3	0	3	1.0000
-K01_RPROT_S9	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K01_RPROT_S9	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000
-K01_RPROT_S9	RPROT	FCB_PVC	4	0	2	1.0000
-K01_RPROT_S9	RPROT	Pseudomonadota	4	0	2	1.0000
-K01_RPROT_S9	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K01_RPROT_S9	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K01_RPROT_S9	RPROT	Gammaproteobacteria	5	0	2	1.0000
-K01_RPROT_S9	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000
-K02_trGTPases		LUCA	0	1	47	0.0903
-K02_trGTPases		Bacteria	1	0	33	0.8257
-K02_trGTPases		Archaea	1	0	14	1.0000
-K02_trGTPases		Terrabacteria	2	0	15	0.8117
-K02_trGTPases		Gracilicutes	2	0	18	0.8992
-K02_trGTPases		Euryarchaeota	2	0	8	1.0000
-K02_trGTPases		TACK	2	0	6	1.0000
-K02_trGTPases		DST_clade	3	0	6	0.4444
-K02_trGTPases		Terrabacteria_core	3	0	9	0.7894
-K02_trGTPases		Spirochaetota_FCB_PVC	3	0	8	1.0000
-K02_trGTPases		Proteobacteria_sl	3	0	10	0.8163
-K02_trGTPases		Euryarchaeota_core	3	0	6	1.0000
-K02_trGTPases		Crenarchaeota_Korarchaeota	3	0	4	1.0000
-K02_trGTPases		Bacillota_Actinomycetota	4	0	5	0.6154
-K02_trGTPases		FCB_PVC	4	0	5	1.0000
-K02_trGTPases		Pseudomonadota	4	0	6	1.0000
-K02_trGTPases		Desulfobacterota_Campylobacterota	4	0	4	0.5714
-K02_trGTPases		Methanomicrobia_Halobacteria	4	0	4	1.0000
-K02_trGTPases		Gammaproteobacteria	5	0	6	1.0000
-K02_trGTPases		Campylobacterota_Aquificota	5	0	4	0.5714
-K04a_LysRS_I	K04_isofunctional_decoys	LUCA	0	0	6	1.0000
-K04a_LysRS_I	K04_isofunctional_decoys	Archaea	1	1	6	1.0000
-K04a_LysRS_I	K04_isofunctional_decoys	TACK	2	0	2	1.0000
-K04a_LysRS_I	K04_isofunctional_decoys	Euryarchaeota	2	0	4	1.0000
-K04a_LysRS_I	K04_isofunctional_decoys	Euryarchaeota_core	3	0	3	1.0000
-K04a_LysRS_I	K04_isofunctional_decoys	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K04b_LysRS_II	K04_isofunctional_decoys	LUCA	0	1	16	0.0000
-K04b_LysRS_II	K04_isofunctional_decoys	Bacteria	1	0	14	0.0000
-K04b_LysRS_II	K04_isofunctional_decoys	Archaea	1	0	2	1.0000
-K04b_LysRS_II	K04_isofunctional_decoys	Terrabacteria	2	0	6	0.0000
-K04b_LysRS_II	K04_isofunctional_decoys	Gracilicutes	2	0	8	1.0000
-K04b_LysRS_II	K04_isofunctional_decoys	DST_clade	3	0	2	1.0000
-K04b_LysRS_II	K04_isofunctional_decoys	Terrabacteria_core	3	0	4	0.0000
-K04b_LysRS_II	K04_isofunctional_decoys	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K04b_LysRS_II	K04_isofunctional_decoys	Proteobacteria_sl	3	0	5	1.0000
-K04b_LysRS_II	K04_isofunctional_decoys	Bacillota_Actinomycetota	4	0	3	0.0000
-K04b_LysRS_II	K04_isofunctional_decoys	FCB_PVC	4	0	2	1.0000
-K04b_LysRS_II	K04_isofunctional_decoys	Pseudomonadota	4	0	3	1.0000
-K04b_LysRS_II	K04_isofunctional_decoys	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K04b_LysRS_II	K04_isofunctional_decoys	Gammaproteobacteria	5	0	3	1.0000
-K04b_LysRS_II	K04_isofunctional_decoys	Campylobacterota_Aquificota	5	0	2	0.0000
-K04c_SOD_FeMn	K04_isofunctional_decoys	LUCA	0	1	19	0.0000
-K04c_SOD_FeMn	K04_isofunctional_decoys	Bacteria	1	0	13	0.0000
-K04c_SOD_FeMn	K04_isofunctional_decoys	Archaea	1	0	6	0.0000
-K04c_SOD_FeMn	K04_isofunctional_decoys	Terrabacteria	2	0	5	1.0000
-K04c_SOD_FeMn	K04_isofunctional_decoys	Gracilicutes	2	0	8	0.1286
-K04c_SOD_FeMn	K04_isofunctional_decoys	Euryarchaeota	2	0	3	1.0000
-K04c_SOD_FeMn	K04_isofunctional_decoys	TACK	2	0	3	0.0000
-K04c_SOD_FeMn	K04_isofunctional_decoys	Terrabacteria_core	3	0	4	1.0000
-K04c_SOD_FeMn	K04_isofunctional_decoys	Spirochaetota_FCB_PVC	3	0	2	0.0000
-K04c_SOD_FeMn	K04_isofunctional_decoys	Proteobacteria_sl	3	0	6	-0.0000
-K04c_SOD_FeMn	K04_isofunctional_decoys	Euryarchaeota_core	3	0	3	1.0000
-K04c_SOD_FeMn	K04_isofunctional_decoys	Bacillota_Actinomycetota	4	0	3	1.0000
-K04c_SOD_FeMn	K04_isofunctional_decoys	FCB_PVC	4	0	2	0.0000
-K04c_SOD_FeMn	K04_isofunctional_decoys	Pseudomonadota	4	0	4	0.0000
-K04c_SOD_FeMn	K04_isofunctional_decoys	Desulfobacterota_Campylobacterota	4	0	2	0.0000
-K04c_SOD_FeMn	K04_isofunctional_decoys	Methanomicrobia_Halobacteria	4	0	3	1.0000
-K04c_SOD_FeMn	K04_isofunctional_decoys	Gammaproteobacteria	5	0	4	1.0000
-K04c_SOD_FeMn	K04_isofunctional_decoys	Campylobacterota_Aquificota	5	0	2	0.0000
-K04d_SOD_CuZn	K04_isofunctional_decoys	LUCA	0	1	8	0.0000
-K04d_SOD_CuZn	K04_isofunctional_decoys	Bacteria	1	0	7	0.0000
-K04d_SOD_CuZn	K04_isofunctional_decoys	Terrabacteria	2	0	4	0.0000
-K04d_SOD_CuZn	K04_isofunctional_decoys	Gracilicutes	2	0	3	1.0000
-K04d_SOD_CuZn	K04_isofunctional_decoys	DST_clade	3	0	2	0.0000
-K04d_SOD_CuZn	K04_isofunctional_decoys	Terrabacteria_core	3	0	2	1.0000
-K04d_SOD_CuZn	K04_isofunctional_decoys	Proteobacteria_sl	3	0	3	1.0000
-K04d_SOD_CuZn	K04_isofunctional_decoys	Bacillota_Actinomycetota	4	0	2	1.0000
-K04d_SOD_CuZn	K04_isofunctional_decoys	Desulfobacterota_Campylobacterota	4	0	2	0.0000
-K04d_SOD_CuZn	K04_isofunctional_decoys	Campylobacterota_Aquificota	5	0	2	0.0000
-K04e_PGM_BPGdep	K04_isofunctional_decoys	LUCA	0	1	6	0.0000
-K04e_PGM_BPGdep	K04_isofunctional_decoys	Bacteria	1	0	5	0.0000
-K04e_PGM_BPGdep	K04_isofunctional_decoys	Gracilicutes	2	0	4	0.0000
-K04e_PGM_BPGdep	K04_isofunctional_decoys	Spirochaetota_FCB_PVC	3	0	3	1.0000
-K04e_PGM_BPGdep	K04_isofunctional_decoys	FCB_PVC	4	0	3	1.0000
-K04f_PGM_BPGindep	K04_isofunctional_decoys	LUCA	0	1	11	1.0000
-K04f_PGM_BPGindep	K04_isofunctional_decoys	Bacteria	1	0	7	1.0000
-K04f_PGM_BPGindep	K04_isofunctional_decoys	Archaea	1	0	4	1.0000
-K04f_PGM_BPGindep	K04_isofunctional_decoys	Terrabacteria	2	0	2	1.0000
-K04f_PGM_BPGindep	K04_isofunctional_decoys	Gracilicutes	2	0	5	1.0000
-K04f_PGM_BPGindep	K04_isofunctional_decoys	Euryarchaeota	2	0	4	1.0000
-K04f_PGM_BPGindep	K04_isofunctional_decoys	Terrabacteria_core	3	0	2	1.0000
-K04f_PGM_BPGindep	K04_isofunctional_decoys	Spirochaetota_FCB_PVC	3	0	2	1.0000
-K04f_PGM_BPGindep	K04_isofunctional_decoys	Proteobacteria_sl	3	0	3	1.0000
-K04f_PGM_BPGindep	K04_isofunctional_decoys	Euryarchaeota_core	3	0	4	1.0000
-K04f_PGM_BPGindep	K04_isofunctional_decoys	Methanomicrobia_Halobacteria	4	0	4	1.0000
-K04f_PGM_BPGindep	K04_isofunctional_decoys	Pseudomonadota	4	0	2	1.0000
-K04f_PGM_BPGindep	K04_isofunctional_decoys	Gammaproteobacteria	5	0	2	1.0000
-K04g_SK_Ploop	K04_isofunctional_decoys	LUCA	0	1	14	0.6260
-K04g_SK_Ploop	K04_isofunctional_decoys	Bacteria	1	0	13	0.6223
-K04g_SK_Ploop	K04_isofunctional_decoys	Terrabacteria	2	0	5	1.0000
-K04g_SK_Ploop	K04_isofunctional_decoys	Gracilicutes	2	0	8	0.0000
-K04g_SK_Ploop	K04_isofunctional_decoys	DST_clade	3	0	2	1.0000
-K04g_SK_Ploop	K04_isofunctional_decoys	Terrabacteria_core	3	0	3	1.0000
-K04g_SK_Ploop	K04_isofunctional_decoys	Spirochaetota_FCB_PVC	3	0	3	0.0000
-K04g_SK_Ploop	K04_isofunctional_decoys	Proteobacteria_sl	3	0	5	1.0000
-K04g_SK_Ploop	K04_isofunctional_decoys	Bacillota_Actinomycetota	4	0	2	1.0000
-K04g_SK_Ploop	K04_isofunctional_decoys	FCB_PVC	4	0	2	0.0000
-K04g_SK_Ploop	K04_isofunctional_decoys	Pseudomonadota	4	0	3	0.0000
-K04g_SK_Ploop	K04_isofunctional_decoys	Desulfobacterota_Campylobacterota	4	0	2	1.0000
-K04g_SK_Ploop	K04_isofunctional_decoys	Gammaproteobacteria	5	0	3	0.0000
-K04g_SK_Ploop	K04_isofunctional_decoys	Campylobacterota_Aquificota	5	0	2	1.0000
-K04h_SK_GHMP	K04_isofunctional_decoys	LUCA	0	0	7	0.0000
-K04h_SK_GHMP	K04_isofunctional_decoys	Archaea	1	1	7	1.0000
-K04h_SK_GHMP	K04_isofunctional_decoys	TACK	2	0	3	1.0000
-K04h_SK_GHMP	K04_isofunctional_decoys	Euryarchaeota	2	0	4	1.0000
-K04h_SK_GHMP	K04_isofunctional_decoys	Crenarchaeota_Korarchaeota	3	0	2	1.0000
-K04h_SK_GHMP	K04_isofunctional_decoys	Euryarchaeota_core	3	0	3	1.0000
-K04h_SK_GHMP	K04_isofunctional_decoys	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K04i_DHQase_I	K04_isofunctional_decoys	LUCA	0	1	12	-0.0000
-K04i_DHQase_I	K04_isofunctional_decoys	Bacteria	1	0	5	0.5046
-K04i_DHQase_I	K04_isofunctional_decoys	Archaea	1	0	7	0.0000
-K04i_DHQase_I	K04_isofunctional_decoys	Gracilicutes	2	0	4	0.4206
-K04i_DHQase_I	K04_isofunctional_decoys	Euryarchaeota	2	0	4	1.0000
-K04i_DHQase_I	K04_isofunctional_decoys	TACK	2	0	3	0.0000
-K04i_DHQase_I	K04_isofunctional_decoys	Spirochaetota_FCB_PVC	3	0	2	1.0000
-K04i_DHQase_I	K04_isofunctional_decoys	Proteobacteria_sl	3	0	2	1.0000
-K04i_DHQase_I	K04_isofunctional_decoys	Euryarchaeota_core	3	0	3	1.0000
-K04i_DHQase_I	K04_isofunctional_decoys	Crenarchaeota_Korarchaeota	3	0	2	0.0000
-K04i_DHQase_I	K04_isofunctional_decoys	Methanomicrobia_Halobacteria	4	0	2	1.0000
-K04j_DHQase_II	K04_isofunctional_decoys	LUCA	0	0	9	0.0000
-K04j_DHQase_II	K04_isofunctional_decoys	Bacteria	1	1	9	1.0000
-K04j_DHQase_II	K04_isofunctional_decoys	Terrabacteria	2	0	5	1.0000
-K04j_DHQase_II	K04_isofunctional_decoys	Gracilicutes	2	0	4	0.0000
-K04j_DHQase_II	K04_isofunctional_decoys	DST_clade	3	0	2	1.0000
-K04j_DHQase_II	K04_isofunctional_decoys	Terrabacteria_core	3	0	3	1.0000
-K04j_DHQase_II	K04_isofunctional_decoys	Proteobacteria_sl	3	0	3	0.0000
-K04j_DHQase_II	K04_isofunctional_decoys	Bacillota_Actinomycetota	4	0	2	1.0000
-K04j_DHQase_II	K04_isofunctional_decoys	Pseudomonadota	4	0	2	1.0000
-K04j_DHQase_II	K04_isofunctional_decoys	Gammaproteobacteria	5	0	2	1.0000
+family	collection	level	depth	is_family_level	n_genes	ami	ami_ofd_fo	ami_of_ofd	ami3_mean
+K01_RPROT_L1	RPROT	LUCA	0	1	19	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L1	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	LUCA	0	1	19	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L10	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L10	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	LUCA	0	1	19	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L11	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	LUCA	0	1	19	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L13	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L13	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	LUCA	0	1	19	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L14	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	LUCA	0	1	19	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L15	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L15	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L16	RPROT	Bacteria	1	1	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L16	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L16	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L16	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L16	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L16	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L16	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L16	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L16	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L16	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L16	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L16	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L16	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L17	RPROT	Bacteria	1	1	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L17	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L17	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L17	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L17	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L17	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L17	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L17	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L17	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L17	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L17	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L17	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L17	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	LUCA	0	1	19	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L18	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L18	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L19	RPROT	Bacteria	1	1	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L19	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L19	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L19	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L19	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L19	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L19	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L19	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L19	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L19	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L19	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L19	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L19	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	LUCA	0	1	19	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L2	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L20	RPROT	Bacteria	1	1	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L20	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L20	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L20	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L20	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L20	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L20	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L20	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L20	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L20	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L20	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L20	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L20	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L21	RPROT	Bacteria	1	1	11	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L21	RPROT	Terrabacteria	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L21	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L21	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L21	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L21	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L21	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L21	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L21	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L21	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L21	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L21	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L22	RPROT	LUCA	0	1	18	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L22	RPROT	Bacteria	1	0	11	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L22	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L22	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L22	RPROT	Gracilicutes	2	0	6	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L22	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L22	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L22	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L22	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L22	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L22	RPROT	Proteobacteria_sl	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L22	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L22	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L22	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L22	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L22	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L22	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L22	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	LUCA	0	1	19	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L23	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L23	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	LUCA	0	1	18	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L24	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	Archaea	1	0	6	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	TACK	2	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L24	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L25	RPROT	Bacteria	1	1	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L25	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L25	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L25	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L25	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L25	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L25	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L25	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L25	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L25	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L25	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L25	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L25	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L27	RPROT	Bacteria	1	1	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L27	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L27	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L27	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L27	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L27	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L27	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L27	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L27	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L27	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L27	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L27	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L27	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L29	RPROT	LUCA	0	1	16	0.1116	0.1116	1.0000	0.4078
+K01_RPROT_L29	RPROT	Bacteria	1	0	11	0.4069	0.4069	1.0000	0.6046
+K01_RPROT_L29	RPROT	Archaea	1	0	5	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L29	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L29	RPROT	Gracilicutes	2	0	6	0.2867	0.2867	1.0000	0.5245
+K01_RPROT_L29	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L29	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L29	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L29	RPROT	Spirochaetota_FCB_PVC	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L29	RPROT	Proteobacteria_sl	3	0	4	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L29	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L29	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L29	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L29	RPROT	Desulfobacterota_Campylobacterota	4	0	2	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L29	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L29	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L29	RPROT	Campylobacterota_Aquificota	5	0	2	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L3	RPROT	LUCA	0	1	19	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L3	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L3	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L30	RPROT	LUCA	0	1	16	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L30	RPROT	Bacteria	1	0	9	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L30	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L30	RPROT	Terrabacteria	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L30	RPROT	Gracilicutes	2	0	5	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L30	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L30	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L30	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L30	RPROT	Terrabacteria_core	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L30	RPROT	Spirochaetota_FCB_PVC	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L30	RPROT	Proteobacteria_sl	3	0	3	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L30	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L30	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L30	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L30	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L30	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L30	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L32	RPROT	Bacteria	1	1	11	0.2798	0.2798	1.0000	0.5199
+K01_RPROT_L32	RPROT	Terrabacteria	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L32	RPROT	Gracilicutes	2	0	7	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L32	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L32	RPROT	Terrabacteria_core	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L32	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L32	RPROT	Proteobacteria_sl	3	0	4	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L32	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L32	RPROT	Pseudomonadota	4	0	2	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L32	RPROT	Desulfobacterota_Campylobacterota	4	0	2	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L32	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L32	RPROT	Campylobacterota_Aquificota	5	0	2	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L34	RPROT	Bacteria	1	1	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L34	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L34	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L34	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L34	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L34	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L34	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L34	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L34	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L34	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L34	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L34	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L34	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L35	RPROT	Bacteria	1	1	12	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L35	RPROT	Terrabacteria	2	0	5	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L35	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L35	RPROT	DST_clade	3	0	2	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L35	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L35	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L35	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L35	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L35	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L35	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L35	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L35	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L35	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	LUCA	0	1	19	-0.0000	-0.0000	1.0000	0.3333
+K01_RPROT_L4	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L4	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	LUCA	0	1	19	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L5	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	LUCA	0	1	19	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_L6	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L6	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L9	RPROT	Bacteria	1	1	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L9	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L9	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L9	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L9	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L9	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L9	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L9	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L9	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L9	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L9	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L9	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_L9	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	LUCA	0	1	19	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S13	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S13	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	LUCA	0	1	19	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S15	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S15	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S16	RPROT	Bacteria	1	1	11	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S16	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S16	RPROT	Gracilicutes	2	0	6	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S16	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S16	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S16	RPROT	Spirochaetota_FCB_PVC	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S16	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S16	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S16	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S16	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S16	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S16	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S16	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	LUCA	0	1	19	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S19	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S19	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	LUCA	0	1	19	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S2	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S2	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S20	RPROT	Bacteria	1	1	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S20	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S20	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S20	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S20	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S20	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S20	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S20	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S20	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S20	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S20	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S20	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S20	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S3	RPROT	LUCA	0	1	19	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S3	RPROT	Bacteria	1	0	12	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S3	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S3	RPROT	Terrabacteria	2	0	5	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S3	RPROT	Gracilicutes	2	0	7	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S3	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S3	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S3	RPROT	DST_clade	3	0	2	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S3	RPROT	Terrabacteria_core	3	0	3	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S3	RPROT	Spirochaetota_FCB_PVC	3	0	3	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S3	RPROT	Proteobacteria_sl	3	0	4	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S3	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S3	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S3	RPROT	Bacillota_Actinomycetota	4	0	2	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S3	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S3	RPROT	Pseudomonadota	4	0	2	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S3	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S3	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S3	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S3	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	LUCA	0	1	19	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S4	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S4	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	LUCA	0	1	19	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S5	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S5	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S6	RPROT	Bacteria	1	1	12	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S6	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S6	RPROT	Gracilicutes	2	0	7	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S6	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S6	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S6	RPROT	Spirochaetota_FCB_PVC	3	0	3	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S6	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S6	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S6	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S6	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S6	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S6	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S6	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	LUCA	0	1	19	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S8	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S8	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	LUCA	0	1	19	0.0000	0.0000	1.0000	0.3333
+K01_RPROT_S9	RPROT	Bacteria	1	0	12	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	Archaea	1	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	Gracilicutes	2	0	7	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	Proteobacteria_sl	3	0	4	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K01_RPROT_S9	RPROT	Campylobacterota_Aquificota	5	0	2	1.0000	1.0000	1.0000	1.0000
+K02_trGTPases		LUCA	0	1	47	0.0903	0.0848	0.9594	0.3782
+K02_trGTPases		Bacteria	1	0	33	0.8257	0.8943	0.8323	0.8507
+K02_trGTPases		Archaea	1	0	14	1.0000	1.0000	1.0000	1.0000
+K02_trGTPases		Terrabacteria	2	0	15	0.8117	1.0000	0.8117	0.8745
+K02_trGTPases		Gracilicutes	2	0	18	0.8992	0.8077	0.9066	0.8711
+K02_trGTPases		Euryarchaeota	2	0	8	1.0000	1.0000	1.0000	1.0000
+K02_trGTPases		TACK	2	0	6	1.0000	1.0000	1.0000	1.0000
+K02_trGTPases		DST_clade	3	0	6	0.4444	1.0000	0.4444	0.6296
+K02_trGTPases		Terrabacteria_core	3	0	9	0.7894	0.7894	1.0000	0.8596
+K02_trGTPases		Spirochaetota_FCB_PVC	3	0	8	1.0000	0.7869	0.7869	0.8579
+K02_trGTPases		Proteobacteria_sl	3	0	10	0.8163	0.8163	1.0000	0.8775
+K02_trGTPases		Euryarchaeota_core	3	0	6	1.0000	1.0000	1.0000	1.0000
+K02_trGTPases		Crenarchaeota_Korarchaeota	3	0	4	1.0000	1.0000	1.0000	1.0000
+K02_trGTPases		Bacillota_Actinomycetota	4	0	5	0.6154	0.6154	1.0000	0.7436
+K02_trGTPases		FCB_PVC	4	0	5	1.0000	1.0000	1.0000	1.0000
+K02_trGTPases		Pseudomonadota	4	0	6	1.0000	1.0000	1.0000	1.0000
+K02_trGTPases		Desulfobacterota_Campylobacterota	4	0	4	0.5714	0.5714	1.0000	0.7143
+K02_trGTPases		Methanomicrobia_Halobacteria	4	0	4	1.0000	1.0000	1.0000	1.0000
+K02_trGTPases		Gammaproteobacteria	5	0	6	1.0000	1.0000	1.0000	1.0000
+K02_trGTPases		Campylobacterota_Aquificota	5	0	4	0.5714	0.5714	1.0000	0.7143
+K04a_LysRS_I	K04_isofunctional_decoys	Archaea	1	1	6	1.0000	1.0000	1.0000	1.0000
+K04a_LysRS_I	K04_isofunctional_decoys	TACK	2	0	2	1.0000	1.0000	1.0000	1.0000
+K04a_LysRS_I	K04_isofunctional_decoys	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K04a_LysRS_I	K04_isofunctional_decoys	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K04a_LysRS_I	K04_isofunctional_decoys	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K04b_LysRS_II	K04_isofunctional_decoys	LUCA	0	1	16	0.0000	0.0000	1.0000	0.3333
+K04b_LysRS_II	K04_isofunctional_decoys	Bacteria	1	0	14	0.0000	0.0000	1.0000	0.3333
+K04b_LysRS_II	K04_isofunctional_decoys	Archaea	1	0	2	1.0000	1.0000	1.0000	1.0000
+K04b_LysRS_II	K04_isofunctional_decoys	Terrabacteria	2	0	6	0.0000	0.0000	1.0000	0.3333
+K04b_LysRS_II	K04_isofunctional_decoys	Gracilicutes	2	0	8	1.0000	1.0000	1.0000	1.0000
+K04b_LysRS_II	K04_isofunctional_decoys	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K04b_LysRS_II	K04_isofunctional_decoys	Terrabacteria_core	3	0	4	0.0000	0.0000	1.0000	0.3333
+K04b_LysRS_II	K04_isofunctional_decoys	Spirochaetota_FCB_PVC	3	0	3	1.0000	1.0000	1.0000	1.0000
+K04b_LysRS_II	K04_isofunctional_decoys	Proteobacteria_sl	3	0	5	1.0000	1.0000	1.0000	1.0000
+K04b_LysRS_II	K04_isofunctional_decoys	Bacillota_Actinomycetota	4	0	3	0.0000	0.0000	1.0000	0.3333
+K04b_LysRS_II	K04_isofunctional_decoys	FCB_PVC	4	0	2	1.0000	1.0000	1.0000	1.0000
+K04b_LysRS_II	K04_isofunctional_decoys	Pseudomonadota	4	0	3	1.0000	1.0000	1.0000	1.0000
+K04b_LysRS_II	K04_isofunctional_decoys	Desulfobacterota_Campylobacterota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K04b_LysRS_II	K04_isofunctional_decoys	Gammaproteobacteria	5	0	3	1.0000	1.0000	1.0000	1.0000
+K04b_LysRS_II	K04_isofunctional_decoys	Campylobacterota_Aquificota	5	0	2	0.0000	0.0000	1.0000	0.3333
+K04c_SOD_FeMn	K04_isofunctional_decoys	LUCA	0	1	19	0.0000	0.0000	0.5440	0.1813
+K04c_SOD_FeMn	K04_isofunctional_decoys	Bacteria	1	0	13	0.0000	0.0000	0.4533	0.1511
+K04c_SOD_FeMn	K04_isofunctional_decoys	Archaea	1	0	6	0.0000	0.0000	0.6154	0.2051
+K04c_SOD_FeMn	K04_isofunctional_decoys	Terrabacteria	2	0	5	1.0000	0.5046	0.5046	0.6698
+K04c_SOD_FeMn	K04_isofunctional_decoys	Gracilicutes	2	0	8	0.1286	0.3170	0.5855	0.3437
+K04c_SOD_FeMn	K04_isofunctional_decoys	Euryarchaeota	2	0	3	1.0000	0.0000	0.0000	0.3333
+K04c_SOD_FeMn	K04_isofunctional_decoys	TACK	2	0	3	0.0000	0.0000	1.0000	0.3333
+K04c_SOD_FeMn	K04_isofunctional_decoys	Terrabacteria_core	3	0	4	1.0000	0.4206	0.4206	0.6137
+K04c_SOD_FeMn	K04_isofunctional_decoys	Spirochaetota_FCB_PVC	3	0	2	0.0000	1.0000	0.0000	0.3333
+K04c_SOD_FeMn	K04_isofunctional_decoys	Proteobacteria_sl	3	0	6	-0.0000	0.5024	0.4571	0.3198
+K04c_SOD_FeMn	K04_isofunctional_decoys	Euryarchaeota_core	3	0	3	1.0000	0.0000	0.0000	0.3333
+K04c_SOD_FeMn	K04_isofunctional_decoys	Bacillota_Actinomycetota	4	0	3	1.0000	0.0000	0.0000	0.3333
+K04c_SOD_FeMn	K04_isofunctional_decoys	FCB_PVC	4	0	2	0.0000	1.0000	0.0000	0.3333
+K04c_SOD_FeMn	K04_isofunctional_decoys	Pseudomonadota	4	0	4	0.0000	1.0000	0.0000	0.3333
+K04c_SOD_FeMn	K04_isofunctional_decoys	Desulfobacterota_Campylobacterota	4	0	2	0.0000	0.0000	1.0000	0.3333
+K04c_SOD_FeMn	K04_isofunctional_decoys	Methanomicrobia_Halobacteria	4	0	3	1.0000	0.0000	0.0000	0.3333
+K04c_SOD_FeMn	K04_isofunctional_decoys	Gammaproteobacteria	5	0	4	1.0000	1.0000	1.0000	1.0000
+K04c_SOD_FeMn	K04_isofunctional_decoys	Campylobacterota_Aquificota	5	0	2	0.0000	0.0000	1.0000	0.3333
+K04d_SOD_CuZn	K04_isofunctional_decoys	LUCA	0	1	8	0.0000	0.0000	1.0000	0.3333
+K04d_SOD_CuZn	K04_isofunctional_decoys	Bacteria	1	0	7	0.0000	0.0000	1.0000	0.3333
+K04d_SOD_CuZn	K04_isofunctional_decoys	Terrabacteria	2	0	4	0.0000	0.0000	1.0000	0.3333
+K04d_SOD_CuZn	K04_isofunctional_decoys	Gracilicutes	2	0	3	1.0000	1.0000	1.0000	1.0000
+K04d_SOD_CuZn	K04_isofunctional_decoys	DST_clade	3	0	2	0.0000	0.0000	1.0000	0.3333
+K04d_SOD_CuZn	K04_isofunctional_decoys	Terrabacteria_core	3	0	2	1.0000	1.0000	1.0000	1.0000
+K04d_SOD_CuZn	K04_isofunctional_decoys	Proteobacteria_sl	3	0	3	1.0000	1.0000	1.0000	1.0000
+K04d_SOD_CuZn	K04_isofunctional_decoys	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K04d_SOD_CuZn	K04_isofunctional_decoys	Desulfobacterota_Campylobacterota	4	0	2	0.0000	0.0000	1.0000	0.3333
+K04d_SOD_CuZn	K04_isofunctional_decoys	Campylobacterota_Aquificota	5	0	2	0.0000	0.0000	1.0000	0.3333
+K04e_PGM_BPGdep	K04_isofunctional_decoys	LUCA	0	1	6	0.0000	0.0000	1.0000	0.3333
+K04e_PGM_BPGdep	K04_isofunctional_decoys	Bacteria	1	0	5	0.0000	-0.2500	0.0000	-0.0833
+K04e_PGM_BPGdep	K04_isofunctional_decoys	Gracilicutes	2	0	4	0.0000	-0.3333	0.0000	-0.1111
+K04e_PGM_BPGdep	K04_isofunctional_decoys	Spirochaetota_FCB_PVC	3	0	3	1.0000	0.0000	0.0000	0.3333
+K04e_PGM_BPGdep	K04_isofunctional_decoys	FCB_PVC	4	0	3	1.0000	0.0000	0.0000	0.3333
+K04f_PGM_BPGindep	K04_isofunctional_decoys	LUCA	0	1	11	1.0000	1.0000	1.0000	1.0000
+K04f_PGM_BPGindep	K04_isofunctional_decoys	Bacteria	1	0	7	1.0000	1.0000	1.0000	1.0000
+K04f_PGM_BPGindep	K04_isofunctional_decoys	Archaea	1	0	4	1.0000	1.0000	1.0000	1.0000
+K04f_PGM_BPGindep	K04_isofunctional_decoys	Terrabacteria	2	0	2	1.0000	1.0000	1.0000	1.0000
+K04f_PGM_BPGindep	K04_isofunctional_decoys	Gracilicutes	2	0	5	1.0000	1.0000	1.0000	1.0000
+K04f_PGM_BPGindep	K04_isofunctional_decoys	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K04f_PGM_BPGindep	K04_isofunctional_decoys	Terrabacteria_core	3	0	2	1.0000	1.0000	1.0000	1.0000
+K04f_PGM_BPGindep	K04_isofunctional_decoys	Spirochaetota_FCB_PVC	3	0	2	1.0000	1.0000	1.0000	1.0000
+K04f_PGM_BPGindep	K04_isofunctional_decoys	Proteobacteria_sl	3	0	3	1.0000	1.0000	1.0000	1.0000
+K04f_PGM_BPGindep	K04_isofunctional_decoys	Euryarchaeota_core	3	0	4	1.0000	1.0000	1.0000	1.0000
+K04f_PGM_BPGindep	K04_isofunctional_decoys	Methanomicrobia_Halobacteria	4	0	4	1.0000	1.0000	1.0000	1.0000
+K04f_PGM_BPGindep	K04_isofunctional_decoys	Pseudomonadota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K04f_PGM_BPGindep	K04_isofunctional_decoys	Gammaproteobacteria	5	0	2	1.0000	1.0000	1.0000	1.0000
+K04g_SK_Ploop	K04_isofunctional_decoys	LUCA	0	1	14	0.6260	0.0000	0.0000	0.2087
+K04g_SK_Ploop	K04_isofunctional_decoys	Bacteria	1	0	13	0.6223	0.2455	0.1208	0.3295
+K04g_SK_Ploop	K04_isofunctional_decoys	Terrabacteria	2	0	5	1.0000	0.2105	0.2105	0.4737
+K04g_SK_Ploop	K04_isofunctional_decoys	Gracilicutes	2	0	8	0.0000	0.1133	0.0000	0.0378
+K04g_SK_Ploop	K04_isofunctional_decoys	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K04g_SK_Ploop	K04_isofunctional_decoys	Terrabacteria_core	3	0	3	1.0000	0.0000	0.0000	0.3333
+K04g_SK_Ploop	K04_isofunctional_decoys	Spirochaetota_FCB_PVC	3	0	3	0.0000	0.0000	0.0000	0.0000
+K04g_SK_Ploop	K04_isofunctional_decoys	Proteobacteria_sl	3	0	5	1.0000	0.0000	0.0000	0.3333
+K04g_SK_Ploop	K04_isofunctional_decoys	Bacillota_Actinomycetota	4	0	2	1.0000	0.0000	0.0000	0.3333
+K04g_SK_Ploop	K04_isofunctional_decoys	FCB_PVC	4	0	2	0.0000	1.0000	0.0000	0.3333
+K04g_SK_Ploop	K04_isofunctional_decoys	Pseudomonadota	4	0	3	0.0000	1.0000	0.0000	0.3333
+K04g_SK_Ploop	K04_isofunctional_decoys	Desulfobacterota_Campylobacterota	4	0	2	1.0000	0.0000	0.0000	0.3333
+K04g_SK_Ploop	K04_isofunctional_decoys	Gammaproteobacteria	5	0	3	0.0000	1.0000	0.0000	0.3333
+K04g_SK_Ploop	K04_isofunctional_decoys	Campylobacterota_Aquificota	5	0	2	1.0000	0.0000	0.0000	0.3333
+K04h_SK_GHMP	K04_isofunctional_decoys	Archaea	1	1	7	1.0000	1.0000	1.0000	1.0000
+K04h_SK_GHMP	K04_isofunctional_decoys	TACK	2	0	3	1.0000	1.0000	1.0000	1.0000
+K04h_SK_GHMP	K04_isofunctional_decoys	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K04h_SK_GHMP	K04_isofunctional_decoys	Crenarchaeota_Korarchaeota	3	0	2	1.0000	1.0000	1.0000	1.0000
+K04h_SK_GHMP	K04_isofunctional_decoys	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K04h_SK_GHMP	K04_isofunctional_decoys	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K04i_DHQase_I	K04_isofunctional_decoys	LUCA	0	1	12	-0.0000	-0.0000	1.0000	0.3333
+K04i_DHQase_I	K04_isofunctional_decoys	Bacteria	1	0	5	0.5046	0.5046	1.0000	0.6698
+K04i_DHQase_I	K04_isofunctional_decoys	Archaea	1	0	7	0.0000	0.0000	1.0000	0.3333
+K04i_DHQase_I	K04_isofunctional_decoys	Gracilicutes	2	0	4	0.4206	0.4206	1.0000	0.6137
+K04i_DHQase_I	K04_isofunctional_decoys	Euryarchaeota	2	0	4	1.0000	1.0000	1.0000	1.0000
+K04i_DHQase_I	K04_isofunctional_decoys	TACK	2	0	3	0.0000	0.0000	1.0000	0.3333
+K04i_DHQase_I	K04_isofunctional_decoys	Spirochaetota_FCB_PVC	3	0	2	1.0000	1.0000	1.0000	1.0000
+K04i_DHQase_I	K04_isofunctional_decoys	Proteobacteria_sl	3	0	2	1.0000	1.0000	1.0000	1.0000
+K04i_DHQase_I	K04_isofunctional_decoys	Euryarchaeota_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K04i_DHQase_I	K04_isofunctional_decoys	Crenarchaeota_Korarchaeota	3	0	2	0.0000	0.0000	1.0000	0.3333
+K04i_DHQase_I	K04_isofunctional_decoys	Methanomicrobia_Halobacteria	4	0	2	1.0000	1.0000	1.0000	1.0000
+K04j_DHQase_II	K04_isofunctional_decoys	Bacteria	1	1	9	1.0000	1.0000	1.0000	1.0000
+K04j_DHQase_II	K04_isofunctional_decoys	Terrabacteria	2	0	5	1.0000	1.0000	1.0000	1.0000
+K04j_DHQase_II	K04_isofunctional_decoys	Gracilicutes	2	0	4	0.0000	0.0000	1.0000	0.3333
+K04j_DHQase_II	K04_isofunctional_decoys	DST_clade	3	0	2	1.0000	1.0000	1.0000	1.0000
+K04j_DHQase_II	K04_isofunctional_decoys	Terrabacteria_core	3	0	3	1.0000	1.0000	1.0000	1.0000
+K04j_DHQase_II	K04_isofunctional_decoys	Proteobacteria_sl	3	0	3	0.0000	0.0000	1.0000	0.3333
+K04j_DHQase_II	K04_isofunctional_decoys	Bacillota_Actinomycetota	4	0	2	1.0000	1.0000	1.0000	1.0000
+K04j_DHQase_II	K04_isofunctional_decoys	Pseudomonadota	4	0	2	1.0000	0.0000	0.0000	0.3333
+K04j_DHQase_II	K04_isofunctional_decoys	Gammaproteobacteria	5	0	2	1.0000	0.0000	0.0000	0.3333

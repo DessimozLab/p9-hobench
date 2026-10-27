@@ -3,6 +3,10 @@ orthofinder/default	Chordata	TAND	1	1.0000	1.0000	0.9989	0.9091	inf:1
 orthofinder/default	Gnathostomata	WGD	13	0.7692	0.6154	0.9218	0.8260	Olfactores:6,Vertebrata:6
 orthofinder/default	Teleostei	WGD	11	0.8182	0.8182	0.8182	1.0000	Neopterygii:9,Teleostei:2
 orthofinder/default	Vertebrata	TAND	2	1.0000	1.0000	1.0000	0.9423	inf:2
+orthofinder/dendroblast	Chordata	TAND	1	1.0000	1.0000	0.9989	0.9091	inf:1
+orthofinder/dendroblast	Gnathostomata	WGD	13	0.8462	0.3077	0.8947	0.8370	Vertebrata:11,Chordata:1
+orthofinder/dendroblast	Teleostei	WGD	11	0.8182	0.8182	0.8182	1.0000	Neopterygii:9,Teleostei:2
+orthofinder/dendroblast	Vertebrata	TAND	2	1.0000	1.0000	1.0000	0.9006	inf:2
 fastoma/default_declared	Chordata	TAND	1	0.0000	0.0000	0.9966	0.0000	inf:1
 fastoma/default_declared	Gnathostomata	WGD	13	0.0769	0.0769	0.7328	0.7073	inf:8,Euteleostomi:2
 fastoma/default_declared	Teleostei	WGD	11	0.0909	0.0909	1.0000	1.0000	Euteleostomi:8,Chordata:1

@@ -1,0 +1,76 @@
+pert	tool	variant	credit	metric	n_units	clean	perturbed	delta	ci_lo	ci_hi	n_units_changed
+alttree	fastoma	default_declared		event_recovery_0.5	202	0.26733	0.27228	0.00495	-0.02475	0.03465	9
+alttree	fastoma	default_declared		gene_frac_correct_affected	1977	0.89720	0.89225	-0.00496	-0.00940	-0.00082	111
+alttree	fastoma	default_declared		gene_frac_correct_unaffected	1	1.00000	1.00000	0.00000			0
+alttree	fastoma	default_declared		level_bcubed_f1	1977	0.96670	0.96376	-0.00293	-0.00458	-0.00134	535
+alttree	fastoma	default_declared		merge_accuracy_node	1977	0.90023	0.89673	-0.00350	-0.00715	0.00001	108
+alttree	of_flat	default		event_recovery_0.5	202	0.01485	0.01485	0.00000	0.00000	0.00000	0
+alttree	of_flat	default		gene_frac_correct_affected	1977	0.87681	0.87656	-0.00025	-0.00075	0.00000	1
+alttree	of_flat	default		gene_frac_correct_unaffected	1	0.13889	0.13889	0.00000			0
+alttree	of_flat	default		level_bcubed_f1	1977	0.96393	0.96028	-0.00365	-0.00399	-0.00333	516
+alttree	of_flat	default		merge_accuracy_node	1977	0.88673	0.88656	-0.00017	-0.00051	0.00000	1
+alttree	orthofinder	default		event_recovery_0.5	202	0.11881	0.11881	0.00000	-0.01485	0.01485	2
+alttree	orthofinder	default		gene_frac_correct_affected	1977	0.89523	0.89314	-0.00209	-0.00436	-0.00000	26
+alttree	orthofinder	default		gene_frac_correct_unaffected	1	0.13889	0.13889	0.00000			0
+alttree	orthofinder	default		level_bcubed_f1	1977	0.97711	0.97431	-0.00281	-0.00352	-0.00218	499
+alttree	orthofinder	default		merge_accuracy_node	1977	0.90027	0.89903	-0.00124	-0.00305	0.00044	26
+contam	fastoma	default_declared		event_recovery_0.5	202	0.26733	0.26733	0.00000	0.00000	0.00000	0
+contam	fastoma	default_declared		gene_frac_correct_affected	13	0.92426	0.90468	-0.01958	-0.05874	0.00000	1
+contam	fastoma	default_declared		gene_frac_correct_unaffected	1967	0.89688	0.89511	-0.00178	-0.00497	0.00162	51
+contam	fastoma	default_declared		level_bcubed_f1	1977	0.96670	0.96663	-0.00007	-0.00134	0.00114	53
+contam	fastoma	default_declared		merge_accuracy_node	1977	0.90023	0.90005	-0.00018	-0.00270	0.00234	50
+contam	of_flat	default		event_recovery_0.5	202	0.01485	0.01485	0.00000	0.00000	0.00000	0
+contam	of_flat	default		gene_frac_correct_affected	8	0.81210	0.81210	0.00000	0.00000	0.00000	0
+contam	of_flat	default		gene_frac_correct_unaffected	1969	0.87706	0.87706	0.00000	0.00000	0.00000	0
+contam	of_flat	default		level_bcubed_f1	1977	0.96393	0.96393	0.00000	0.00000	0.00000	0
+contam	of_flat	default		merge_accuracy_node	1977	0.88673	0.88673	0.00000	0.00000	0.00000	0
+contam	orthofinder	default		event_recovery_0.5	202	0.11881	0.12376	0.00495	0.00000	0.01485	1
+contam	orthofinder	default		gene_frac_correct_affected	8	0.80248	0.80248	0.00000	0.00000	0.00000	0
+contam	orthofinder	default		gene_frac_correct_unaffected	1969	0.89560	0.89565	0.00005	0.00000	0.00014	1
+contam	orthofinder	default		level_bcubed_f1	1977	0.97711	0.97711	-0.00000	-0.00000	0.00000	1
+contam	orthofinder	default		merge_accuracy_node	1977	0.90027	0.90038	0.00011	0.00000	0.00033	1
+frag	fastoma	default_declared	both	event_recovery_0.5	202	0.26733	0.23267	-0.03465	-0.06931	0.00000	15
+frag	fastoma	default_declared	both	gene_frac_correct_affected	1409	0.90397	0.62843	-0.27554	-0.29525	-0.25697	998
+frag	fastoma	default_declared	both	gene_frac_correct_unaffected	1977	0.89721	0.84956	-0.04765	-0.05534	-0.04066	1052
+frag	fastoma	default_declared	both	level_bcubed_f1	1977	0.96670	0.92151	-0.04519	-0.04839	-0.04198	1075
+frag	fastoma	default_declared	both	merge_accuracy_node	1977	0.90023	0.78633	-0.11390	-0.12210	-0.10580	1049
+frag	fastoma	default_declared	either	event_recovery_0.5	202	0.26733	0.28218	0.01485	-0.02475	0.05446	17
+frag	fastoma	default_declared	either	gene_frac_correct_affected	1409	0.90397	0.88815	-0.01581	-0.02692	-0.00445	330
+frag	fastoma	default_declared	either	gene_frac_correct_unaffected	1977	0.89721	0.88178	-0.01543	-0.02205	-0.00934	416
+frag	fastoma	default_declared	either	level_bcubed_f1	1977	0.96670	0.95552	-0.01118	-0.01344	-0.00899	468
+frag	fastoma	default_declared	either	merge_accuracy_node	1977	0.90023	0.87646	-0.02377	-0.02959	-0.01825	434
+frag	of_flat	default	both	event_recovery_0.5	202	0.01485	0.00495	-0.00990	-0.02475	0.00000	2
+frag	of_flat	default	both	gene_frac_correct_affected	1409	0.88397	0.66541	-0.21856	-0.23991	-0.19768	371
+frag	of_flat	default	both	gene_frac_correct_unaffected	1977	0.87670	0.85553	-0.02116	-0.02424	-0.01796	396
+frag	of_flat	default	both	level_bcubed_f1	1977	0.96393	0.95110	-0.01283	-0.01448	-0.01122	392
+frag	of_flat	default	both	merge_accuracy_node	1977	0.88673	0.85314	-0.03359	-0.03778	-0.02959	385
+frag	of_flat	default	either	event_recovery_0.5	202	0.01485	0.01485	0.00000	-0.01485	0.01485	2
+frag	of_flat	default	either	gene_frac_correct_affected	1409	0.88397	0.92545	0.04149	0.03239	0.05099	112
+frag	of_flat	default	either	gene_frac_correct_unaffected	1977	0.87670	0.88014	0.00345	0.00124	0.00539	124
+frag	of_flat	default	either	level_bcubed_f1	1977	0.96393	0.96545	0.00152	0.00091	0.00214	100
+frag	of_flat	default	either	merge_accuracy_node	1977	0.88673	0.89145	0.00472	0.00290	0.00652	105
+frag	orthofinder	default	both	event_recovery_0.5	202	0.11881	0.08911	-0.02970	-0.07426	0.01485	20
+frag	orthofinder	default	both	gene_frac_correct_affected	1409	0.89876	0.64618	-0.25258	-0.27544	-0.22992	552
+frag	orthofinder	default	both	gene_frac_correct_unaffected	1977	0.89537	0.86482	-0.03056	-0.03725	-0.02418	599
+frag	orthofinder	default	both	level_bcubed_f1	1977	0.97711	0.95625	-0.02087	-0.02340	-0.01861	641
+frag	orthofinder	default	both	merge_accuracy_node	1977	0.90027	0.84978	-0.05049	-0.05737	-0.04389	595
+frag	orthofinder	default	either	event_recovery_0.5	202	0.11881	0.14851	0.02970	-0.01485	0.07921	24
+frag	orthofinder	default	either	gene_frac_correct_affected	1409	0.89876	0.91942	0.02066	0.00910	0.03226	224
+frag	orthofinder	default	either	gene_frac_correct_unaffected	1977	0.89537	0.89360	-0.00177	-0.00768	0.00403	292
+frag	orthofinder	default	either	level_bcubed_f1	1977	0.97711	0.97428	-0.00283	-0.00440	-0.00134	320
+frag	orthofinder	default	either	merge_accuracy_node	1977	0.90027	0.89694	-0.00332	-0.00836	0.00184	287
+taxrm	fastoma	default_declared		event_recovery_0.5	202	0.26733	0.27228	0.00495	-0.02475	0.03465	11
+taxrm	fastoma	default_declared		gene_frac_correct_affected	1963	0.86304	0.85733	-0.00572	-0.01083	-0.00078	75
+taxrm	fastoma	default_declared		gene_frac_correct_unaffected	1959	0.93035	0.92573	-0.00462	-0.00980	0.00036	60
+taxrm	fastoma	default_declared		level_bcubed_f1	1972	0.96431	0.96375	-0.00056	-0.00222	0.00092	117
+taxrm	fastoma	default_declared		merge_accuracy_node	1972	0.88378	0.88101	-0.00277	-0.00694	0.00109	93
+taxrm	of_flat	default		event_recovery_0.5	202	0.01485	0.01485	0.00000	0.00000	0.00000	0
+taxrm	of_flat	default		gene_frac_correct_affected	1963	0.76994	0.76897	-0.00097	-0.00330	0.00135	15
+taxrm	of_flat	default		gene_frac_correct_unaffected	1959	0.98980	0.98928	-0.00052	-0.00184	0.00070	9
+taxrm	of_flat	default		level_bcubed_f1	1972	0.95725	0.95703	-0.00022	-0.00071	0.00021	16
+taxrm	of_flat	default		merge_accuracy_node	1972	0.83941	0.83898	-0.00043	-0.00199	0.00106	16
+taxrm	orthofinder	default		event_recovery_0.5	202	0.11881	0.12376	0.00495	-0.03960	0.04950	21
+taxrm	orthofinder	default		gene_frac_correct_affected	1963	0.80573	0.80734	0.00161	-0.00456	0.00807	132
+taxrm	orthofinder	default		gene_frac_correct_unaffected	1959	0.98171	0.97967	-0.00204	-0.00525	0.00124	35
+taxrm	orthofinder	default		level_bcubed_f1	1972	0.97301	0.97223	-0.00077	-0.00186	0.00024	190
+taxrm	orthofinder	default		merge_accuracy_node	1972	0.86060	0.86170	0.00110	-0.00395	0.00593	144
