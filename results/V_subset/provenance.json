@@ -1,0 +1,124 @@
+{
+ "hobench_git": {
+  "commit": "c1658df1a6eb0c6715ca198834b72f0c8def8ca2",
+  "dirty": true
+ },
+ "script": "scripts/evaluate_panel.py",
+ "panel": "V",
+ "mode": "subset",
+ "panel_tree_sha256": "399fd186d81ad35edd344f5c64ce6593624e8d2aea37af56426dc27f978ebba8",
+ "panel_species_tsv_sha256": "d0bba19c5dd4e0fa91e42561925aa8e5f1eafd9cab6b971f868b45df613577e5",
+ "families_tree_hash": "6a93f4150bb298fdd9cac99e1fab02f47624ba5241a58e2b8d5c5b19597a2f74",
+ "families_manifest_present": true,
+ "families_manifest_differences": [],
+ "n_families": 337,
+ "n_excluded_subset": 165,
+ "n_non_headline": 2,
+ "n_control_track": 0,
+ "seeds_relabel": [
+  20261026,
+  314159,
+  271828,
+  161803,
+  141421,
+  173205,
+  223606,
+  244949,
+  264575,
+  282842
+ ],
+ "n_boot": 2000,
+ "runs": {
+  "fastoma/default_declared": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/V/subset/fastoma_default",
+   "prediction_sha256": "4d288c3e9d003430df63feb5b026151a922b60bc821596f765af48098ddb0bb0",
+   "manifest_sha256": "47ed1e91e261d37331ac533b20ed9a11b268117e10ee879bd1b2b8113329aac4",
+   "manifest_git_commit": "d2c56a6326ac21660cfd896891dc2b354036d62a",
+   "prediction_meta": {
+    "format": "orthoxml",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/V/subset/fastoma_default/FastOMA_HOGs.orthoxml.gz",
+    "dup_placement": "declared",
+    "level_mapping": "clade sets from /scratch/nromashc/agentic-ai/workspaces/mywork/runs/V/subset/fastoma_default/species_tree_checked.nwk",
+    "stats": {
+     "hogs": 72605,
+     "dup_placement_ambiguous": 1106
+    },
+    "dup_placement_ambiguous": 1106,
+    "unknown_species": []
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "fastoma/default_late": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/V/subset/fastoma_default",
+   "prediction_sha256": "4d288c3e9d003430df63feb5b026151a922b60bc821596f765af48098ddb0bb0",
+   "manifest_sha256": "47ed1e91e261d37331ac533b20ed9a11b268117e10ee879bd1b2b8113329aac4",
+   "manifest_git_commit": "d2c56a6326ac21660cfd896891dc2b354036d62a",
+   "prediction_meta": {
+    "format": "orthoxml",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/V/subset/fastoma_default/FastOMA_HOGs.orthoxml.gz",
+    "dup_placement": "late",
+    "level_mapping": "clade sets from /scratch/nromashc/agentic-ai/workspaces/mywork/runs/V/subset/fastoma_default/species_tree_checked.nwk",
+    "stats": {
+     "hogs": 69818,
+     "dup_placement_ambiguous": 1106
+    },
+    "dup_placement_ambiguous": 1106,
+    "unknown_species": []
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "of_flat/default": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/V/subset/of_flat_default",
+   "prediction_sha256": "1aa409a7abefc0c369712ded1528d3e108069825d0097055eccc97b6dcb4e333",
+   "manifest_sha256": "71749b4e5fda09bb2749c355c9a6aa90c2987e88a804d737caeac9ce79e74a95",
+   "manifest_git_commit": "d2c56a6326ac21660cfd896891dc2b354036d62a",
+   "prediction_meta": {
+    "format": "tsv",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/V/subset/of_flat_default/hogs.tsv.gz",
+    "flat": true
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "orthofinder/default": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/V/subset/orthofinder_default",
+   "prediction_sha256": "fc105f87e15613182e942d01a5e0013f54197060f12be849cff00aee3e00edb3",
+   "manifest_sha256": "a767920a4103f24efcbad9b9337bc54b20f76dd83ec86c27d4f1f6c9e476726c",
+   "manifest_git_commit": "cdfe7c28cf3b6b7287e3a7835cb78746f3e29bc6",
+   "prediction_meta": {
+    "format": "orthofinder",
+    "source": "/tmp/hobench_eval_cache/V/subset/orthofinder_default/Phylogenetic_Hierarchical_Orthogroups",
+    "of_to_ours": {
+     "N15": "Salmoninae",
+     "N14": "Salmonidae",
+     "N12": "Protacanthopterygii",
+     "N9": "Euteleosteomorpha",
+     "N7": "Teleostei",
+     "N5": "Neopterygii",
+     "N10": "Xenopus",
+     "N13": "Euarchontoglires",
+     "N11": "Amniota",
+     "N8": "Tetrapoda",
+     "N6": "Sarcopterygii",
+     "N4": "Euteleostomi",
+     "N3": "Gnathostomata",
+     "N2": "Vertebrata",
+     "N1": "Olfactores",
+     "N0": "Chordata"
+    },
+    "unmatched_of_nodes": [],
+    "root_from_orthogroups": "/tmp/hobench_eval_cache/V/subset/orthofinder_default/Orthogroups/Orthogroups.tsv",
+    "n_hogs_not_nested_in_og": 0,
+    "induced_levels": {}
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  }
+ }
+}

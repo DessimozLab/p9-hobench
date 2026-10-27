@@ -51,6 +51,8 @@ COLL_IDS = [k for k, r in CATALOGUE.items() if int(r["n_units"]) > 1]
 def is_collection_unit(f) -> bool:
     """True collections (many units, one item): YGOB, RPROT.  Panel-level `collection` labels (E_cytoskeleton_motors,
     K04_isofunctional_decoys, ...) do not make their families one item."""
+    if f.path is not None and Path(f.path).parent.name == "units":       # collection.yaml layout (YGOB, V07 ...)
+        return True
     return bool(f.collection) and any(f.collection in cid for cid in COLL_IDS)
 
 
@@ -92,7 +94,7 @@ def track_of(f) -> str:
         return CATALOGUE[f.id]["track"]
     if f.collection in CONTROL_COLLECTIONS or f.id in CONTROL_IDS or f.id.startswith("K01_RPROT"):
         return "control"
-    return "collection" if f.collection == "YGOB" else "family"
+    return "collection" if is_collection_unit(f) else "family"
 
 
 def score(st, rfs, pred, ctx):   # items: r['collection'] kept only for true collection units
