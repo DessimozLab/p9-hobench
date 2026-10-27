@@ -1,6 +1,6 @@
 # Panel E / subset: evaluation summary
 
-hobench git d2c56a6326 (dirty=True); 9 families (+0 excluded: members absent from subset) (1 control-track, 3 non-headline); families tree hash 8c1d8bb8a7fc.
+hobench git c304c5e4b8 (dirty=True); 9 families (+0 excluded: members absent from subset) (1 control-track, 3 non-headline); families tree hash 8c1d8bb8a7fc.
 Descriptive only (mean over items; a collection is one item; no CIs). Headline = tracks family+collection, headline-eligible; control track (K01 RPROT, K02, E05) reported separately. Trivial baselines are rows of every table; skill = (s-b)/(1-b), b = per-family max(singletons, one big HOG, mean relabel). membership F1 is NA for families without complete cells or decoys. Confirmatory test: scripts/confirmatory.py.
 
 ## scope: headline
@@ -8,15 +8,15 @@ Descriptive only (mean over items; a collection is one item; no CIs). Headline =
 | method | variant | level_bcubed_f1 (n) | skill | merge_accuracy_node (n) | skill | event_recovery_0.5 (n) | skill | membership_f1 (n) | skill | S/D-bal merge acc (post-hoc) |
 |---|---|---|---|---|---|---|---|---|---|---|
 | positive_control | reference | 1.000 (5) | 1.000 | 1.000 (5) | 1.000 | 1.000 (5) | 1.000 | 1.000 (3) | 1.000 | 1.000 |
-| all_singletons |  | 0.849 (5) | 0.000 | 0.146 (5) | -5.600 | 0.000 (5) | 0.000 | 0.689 (3) | -0.013 | 0.363 |
-| one_big_hog |  | 0.217 (5) | -10.447 | 0.838 (5) | 0.000 | 0.000 (5) | 0.000 | 0.006 (3) | -4.037 | 0.603 |
-| random_relabel | mean10 | 0.835 (5) | -0.210 | 0.147 (5) | -5.590 | 0.000 (5) | 0.000 | 0.608 (3) | -0.605 | 0.363 |
-| fastoma | default_declared | 0.906 (5) | 0.371 | 0.531 (5) | -3.153 | 0.025 (5) | 0.025 | 0.448 (3) | -1.838 | 0.628 |
-| fastoma | default_late | 0.904 (5) | 0.342 | 0.531 (5) | -3.153 | 0.025 (5) | 0.025 | 0.448 (3) | -1.838 | 0.628 |
-| of_flat | default | 0.358 (5) | -9.673 | 0.758 (5) | -0.716 | 0.000 (5) | 0.000 | 0.111 (3) | -3.709 | 0.626 |
-| orthofinder | default | 0.981 (5) | 0.871 | 0.729 (5) | -1.235 | 0.400 (5) | 0.400 | 0.479 (3) | -2.007 | 0.805 |
+| all_singletons |  | 0.849 (5) | 0.000 | 0.146 (5) | -5.600 | 0.000 (5) | 0.000 | 0.000 (3) | -0.223 | 0.363 |
+| one_big_hog |  | 0.217 (5) | -10.447 | 0.838 (5) | 0.000 | 0.000 (5) | 0.000 | 0.014 (3) | -0.206 | 0.603 |
+| random_relabel | mean10 | 0.835 (5) | -0.210 | 0.147 (5) | -5.590 | 0.000 (5) | 0.000 | 0.180 (3) | 0.000 | 0.363 |
+| fastoma | default_declared | 0.906 (5) | 0.371 | 0.531 (5) | -3.153 | 0.025 (5) | 0.025 | 0.563 (3) | 0.466 | 0.628 |
+| fastoma | default_late | 0.904 (5) | 0.342 | 0.531 (5) | -3.153 | 0.025 (5) | 0.025 | 0.563 (3) | 0.466 | 0.628 |
+| of_flat | default | 0.358 (5) | -9.673 | 0.758 (5) | -0.716 | 0.000 (5) | 0.000 | 0.152 (3) | -0.040 | 0.626 |
+| orthofinder | default | 0.981 (5) | 0.871 | 0.729 (5) | -1.235 | 0.400 (5) | 0.400 | 0.870 (3) | 0.840 | 0.805 |
 
-random relabel, min-max of item-mean over 10 seeds: level_bcubed_f1 0.833067-0.836406; merge_accuracy_node 0.145601-0.148992; event_recovery_0.5 0-0; membership_f1 0.597187-0.620789
+random relabel, min-max of item-mean over 10 seeds: level_bcubed_f1 0.833067-0.836406; merge_accuracy_node 0.145601-0.148992; event_recovery_0.5 0-0; membership_f1 0.172638-0.189956
 
 ## scope: control
 
@@ -49,14 +49,14 @@ random relabel, min-max of item-mean over 10 seeds: level_bcubed_f1 0.504128-0.5
 - all_singletons level_bcubed_f1: mean 0.8189, min 0.4861, max 0.9826, n=9
 - all_singletons merge_accuracy_node: mean 0.1154, min 0.0000, max 0.2500, n=9
 - all_singletons event_recovery_0.5: mean 0.0000, min 0.0000, max 0.0000, n=9
-- all_singletons membership_f1: mean 0.6000, min 0.0000, max 0.9318, n=5
+- all_singletons membership_f1: mean 0.0000, min 0.0000, max 0.0000, n=5
 - one_big_hog level_bcubed_f1: mean 0.2189, min 0.0745, max 0.5352, n=9
 - one_big_hog merge_accuracy_node: mean 0.8655, min 0.7500, max 0.9333, n=9
 - one_big_hog event_recovery_0.5: mean 0.0000, min 0.0000, max 0.0000, n=9
-- one_big_hog membership_f1: mean 0.0504, min 0.0020, max 0.2325, n=5
+- one_big_hog membership_f1: mean 0.0562, min 0.0074, max 0.2325, n=5
 - random_relabel level_bcubed_f1: mean 0.8113, min 0.5074, max 0.9707, n=9
 - random_relabel merge_accuracy_node: mean 0.1218, min 0.0231, max 0.2514, n=9
 - random_relabel event_recovery_0.5: mean 0.0000, min 0.0000, max 0.0000, n=9
-- random_relabel membership_f1: mean 0.5449, min 0.1365, max 0.7651, n=5
+- random_relabel membership_f1: mean 0.1958, min 0.1339, max 0.3021, n=5
 
 POSITIVE CONTROL: PERFECT on all primary endpoints.

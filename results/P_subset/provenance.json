@@ -1,6 +1,6 @@
 {
  "hobench_git": {
-  "commit": "d2c56a6326ac21660cfd896891dc2b354036d62a",
+  "commit": "c304c5e4b8ccb16cc25f9eb8601102d936444e4d",
   "dirty": true
  },
  "script": "scripts/evaluate_panel.py",

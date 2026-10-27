@@ -616,36 +616,6 @@ K02_trGTPases		control	positive_control	reference	wf_ortholog_f1	1	47	1
 K02_trGTPases		control	positive_control	reference	skill_level_bcubed_f1	1	759	1	
 K02_trGTPases		control	positive_control	reference	skill_merge_accuracy_node	1	759	1	
 K02_trGTPases		control	positive_control	reference	skill_event_recovery_0.5	1	47	1	
-K04a_LysRS_I		family	positive_control	reference	membership_f1	1	6	1	
-K04a_LysRS_I		family	positive_control	reference	membership_precision	1	6	1	
-K04a_LysRS_I		family	positive_control	reference	membership_recall	1	6	1	
-K04b_LysRS_II		family	positive_control	reference	membership_f1	1	16	1	
-K04b_LysRS_II		family	positive_control	reference	membership_precision	1	16	1	
-K04b_LysRS_II		family	positive_control	reference	membership_recall	1	16	1	
-K04c_SOD_FeMn		family	positive_control	reference	membership_f1	1	19	1	
-K04c_SOD_FeMn		family	positive_control	reference	membership_precision	1	19	1	
-K04c_SOD_FeMn		family	positive_control	reference	membership_recall	1	19	1	
-K04d_SOD_CuZn		family	positive_control	reference	membership_f1	1	8	1	
-K04d_SOD_CuZn		family	positive_control	reference	membership_precision	1	8	1	
-K04d_SOD_CuZn		family	positive_control	reference	membership_recall	1	8	1	
-K04e_PGM_BPGdep		family	positive_control	reference	membership_f1	1	6	1	
-K04e_PGM_BPGdep		family	positive_control	reference	membership_precision	1	6	1	
-K04e_PGM_BPGdep		family	positive_control	reference	membership_recall	1	6	1	
-K04f_PGM_BPGindep		family	positive_control	reference	membership_f1	1	11	1	
-K04f_PGM_BPGindep		family	positive_control	reference	membership_precision	1	11	1	
-K04f_PGM_BPGindep		family	positive_control	reference	membership_recall	1	11	1	
-K04g_SK_Ploop		family	positive_control	reference	membership_f1	1	14	1	
-K04g_SK_Ploop		family	positive_control	reference	membership_precision	1	14	1	
-K04g_SK_Ploop		family	positive_control	reference	membership_recall	1	14	1	
-K04h_SK_GHMP		family	positive_control	reference	membership_f1	1	7	1	
-K04h_SK_GHMP		family	positive_control	reference	membership_precision	1	7	1	
-K04h_SK_GHMP		family	positive_control	reference	membership_recall	1	7	1	
-K04i_DHQase_I		family	positive_control	reference	membership_f1	1	12	1	
-K04i_DHQase_I		family	positive_control	reference	membership_precision	1	12	1	
-K04i_DHQase_I		family	positive_control	reference	membership_recall	1	12	1	
-K04j_DHQase_II		family	positive_control	reference	membership_f1	1	9	1	
-K04j_DHQase_II		family	positive_control	reference	membership_precision	1	9	1	
-K04j_DHQase_II		family	positive_control	reference	membership_recall	1	9	1	
 K01_RPROT_L1	RPROT	control	all_singletons		level_bcubed_f1	0.494359	171	1	
 K01_RPROT_L1	RPROT	control	all_singletons		merge_accuracy_node	0	171	1	
 K01_RPROT_L1	RPROT	control	all_singletons		membership_f1	0	19	1	
@@ -1183,36 +1153,6 @@ K02_trGTPases		control	all_singletons		wf_ortholog_f1	0	47	1
 K02_trGTPases		control	all_singletons		skill_level_bcubed_f1	0	759	1	
 K02_trGTPases		control	all_singletons		skill_merge_accuracy_node	-1	759	1	
 K02_trGTPases		control	all_singletons		skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I		family	all_singletons		membership_f1	1	6	1	
-K04a_LysRS_I		family	all_singletons		membership_precision	1	6	1	
-K04a_LysRS_I		family	all_singletons		membership_recall	1	6	1	
-K04b_LysRS_II		family	all_singletons		membership_f1	1	16	1	
-K04b_LysRS_II		family	all_singletons		membership_precision	1	16	1	
-K04b_LysRS_II		family	all_singletons		membership_recall	1	16	1	
-K04c_SOD_FeMn		family	all_singletons		membership_f1	1	19	1	
-K04c_SOD_FeMn		family	all_singletons		membership_precision	1	19	1	
-K04c_SOD_FeMn		family	all_singletons		membership_recall	1	19	1	
-K04d_SOD_CuZn		family	all_singletons		membership_f1	1	8	1	
-K04d_SOD_CuZn		family	all_singletons		membership_precision	1	8	1	
-K04d_SOD_CuZn		family	all_singletons		membership_recall	1	8	1	
-K04e_PGM_BPGdep		family	all_singletons		membership_f1	1	6	1	
-K04e_PGM_BPGdep		family	all_singletons		membership_precision	1	6	1	
-K04e_PGM_BPGdep		family	all_singletons		membership_recall	1	6	1	
-K04f_PGM_BPGindep		family	all_singletons		membership_f1	1	11	1	
-K04f_PGM_BPGindep		family	all_singletons		membership_precision	1	11	1	
-K04f_PGM_BPGindep		family	all_singletons		membership_recall	1	11	1	
-K04g_SK_Ploop		family	all_singletons		membership_f1	1	14	1	
-K04g_SK_Ploop		family	all_singletons		membership_precision	1	14	1	
-K04g_SK_Ploop		family	all_singletons		membership_recall	1	14	1	
-K04h_SK_GHMP		family	all_singletons		membership_f1	1	7	1	
-K04h_SK_GHMP		family	all_singletons		membership_precision	1	7	1	
-K04h_SK_GHMP		family	all_singletons		membership_recall	1	7	1	
-K04i_DHQase_I		family	all_singletons		membership_f1	1	12	1	
-K04i_DHQase_I		family	all_singletons		membership_precision	1	12	1	
-K04i_DHQase_I		family	all_singletons		membership_recall	1	12	1	
-K04j_DHQase_II		family	all_singletons		membership_f1	1	9	1	
-K04j_DHQase_II		family	all_singletons		membership_precision	1	9	1	
-K04j_DHQase_II		family	all_singletons		membership_recall	1	9	1	
 K01_RPROT_L1	RPROT	control	one_big_hog		level_bcubed_f1	1	171	1	
 K01_RPROT_L1	RPROT	control	one_big_hog		merge_accuracy_node	1	171	1	
 K01_RPROT_L1	RPROT	control	one_big_hog		membership_f1	0.0488432	19	1	
@@ -1821,7 +1761,7 @@ K02_trGTPases		control	one_big_hog		event_recovery_0.8	0	1	1
 K02_trGTPases		control	one_big_hog		merge_accuracy_pairs	0.288538	759	1	
 K02_trGTPases		control	one_big_hog		merge_accuracy_tol1	0.666667	759	1	
 K02_trGTPases		control	one_big_hog		spurious_dup_rate	0	99	1	
-K02_trGTPases		control	one_big_hog		orthobench_f	0.303374	47	1	
+K02_trGTPases		control	one_big_hog		orthobench_f	0.373105	47	1	
 K02_trGTPases		control	one_big_hog		frac_over_split	0	47	1	
 K02_trGTPases		control	one_big_hog		frac_over_merged	0.711462	759	1	
 K02_trGTPases		control	one_big_hog		level_pair_f1_pooled	0.418003	759	1	
@@ -1830,36 +1770,6 @@ K02_trGTPases		control	one_big_hog		wf_ortholog_f1	0.461053	47	1
 K02_trGTPases		control	one_big_hog		skill_level_bcubed_f1	-0.674711	759	1	
 K02_trGTPases		control	one_big_hog		skill_merge_accuracy_node	0	759	1	
 K02_trGTPases		control	one_big_hog		skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I		family	one_big_hog		membership_f1	0.222222	6	1	
-K04a_LysRS_I		family	one_big_hog		membership_precision	0.125	6	1	
-K04a_LysRS_I		family	one_big_hog		membership_recall	1	6	1	
-K04b_LysRS_II		family	one_big_hog		membership_f1	0.0869565	16	1	
-K04b_LysRS_II		family	one_big_hog		membership_precision	0.0454545	16	1	
-K04b_LysRS_II		family	one_big_hog		membership_recall	1	16	1	
-K04c_SOD_FeMn		family	one_big_hog		membership_f1	0.0714286	19	1	
-K04c_SOD_FeMn		family	one_big_hog		membership_precision	0.037037	19	1	
-K04c_SOD_FeMn		family	one_big_hog		membership_recall	1	19	1	
-K04d_SOD_CuZn		family	one_big_hog		membership_f1	0.0714286	8	1	
-K04d_SOD_CuZn		family	one_big_hog		membership_precision	0.037037	8	1	
-K04d_SOD_CuZn		family	one_big_hog		membership_recall	1	8	1	
-K04e_PGM_BPGdep		family	one_big_hog		membership_f1	0.111111	6	1	
-K04e_PGM_BPGdep		family	one_big_hog		membership_precision	0.0588235	6	1	
-K04e_PGM_BPGdep		family	one_big_hog		membership_recall	1	6	1	
-K04f_PGM_BPGindep		family	one_big_hog		membership_f1	0.111111	11	1	
-K04f_PGM_BPGindep		family	one_big_hog		membership_precision	0.0588235	11	1	
-K04f_PGM_BPGindep		family	one_big_hog		membership_recall	1	11	1	
-K04g_SK_Ploop		family	one_big_hog		membership_f1	0.0909091	14	1	
-K04g_SK_Ploop		family	one_big_hog		membership_precision	0.047619	14	1	
-K04g_SK_Ploop		family	one_big_hog		membership_recall	1	14	1	
-K04h_SK_GHMP		family	one_big_hog		membership_f1	0.222222	7	1	
-K04h_SK_GHMP		family	one_big_hog		membership_precision	0.125	7	1	
-K04h_SK_GHMP		family	one_big_hog		membership_recall	1	7	1	
-K04i_DHQase_I		family	one_big_hog		membership_f1	0.0909091	12	1	
-K04i_DHQase_I		family	one_big_hog		membership_precision	0.047619	12	1	
-K04i_DHQase_I		family	one_big_hog		membership_recall	1	12	1	
-K04j_DHQase_II		family	one_big_hog		membership_f1	0.133333	9	1	
-K04j_DHQase_II		family	one_big_hog		membership_precision	0.0714286	9	1	
-K04j_DHQase_II		family	one_big_hog		membership_recall	1	9	1	
 K01_RPROT_L1	RPROT	control	random_relabel	mean10	level_bcubed_f1	0.50707	171	1	
 K01_RPROT_L1	RPROT	control	random_relabel	mean10	merge_accuracy_node	0.0204678	171	1	
 K01_RPROT_L1	RPROT	control	random_relabel	mean10	membership_f1	0.0817801	19	1	
@@ -2468,7 +2378,7 @@ K02_trGTPases		control	random_relabel	mean10	event_recovery_0.8	0	1	1
 K02_trGTPases		control	random_relabel	mean10	merge_accuracy_pairs	0.707642	759	1	
 K02_trGTPases		control	random_relabel	mean10	merge_accuracy_tol1	0.344338	759	1	
 K02_trGTPases		control	random_relabel	mean10	spurious_dup_rate	0.927273	99	1	
-K02_trGTPases		control	random_relabel	mean10	orthobench_f	0.0412498	47	1	
+K02_trGTPases		control	random_relabel	mean10	orthobench_f	0.0419454	47	1	
 K02_trGTPases		control	random_relabel	mean10	frac_over_split	0.282345	47	1	
 K02_trGTPases		control	random_relabel	mean10	frac_over_merged	0.0100132	759	1	
 K02_trGTPases		control	random_relabel	mean10	level_pair_f1_pooled	0.0382341	759	1	
@@ -2477,36 +2387,6 @@ K02_trGTPases		control	random_relabel	mean10	wf_ortholog_f1	0.0406056	47	1
 K02_trGTPases		control	random_relabel	mean10	skill_level_bcubed_f1	-0.000830194	759	1	
 K02_trGTPases		control	random_relabel	mean10	skill_merge_accuracy_node	-0.966986	759	1	
 K02_trGTPases		control	random_relabel	mean10	skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I		family	random_relabel	mean10	membership_f1	0.951155	6	1	
-K04a_LysRS_I		family	random_relabel	mean10	membership_precision	0.916667	6	1	
-K04a_LysRS_I		family	random_relabel	mean10	membership_recall	1	6	1	
-K04b_LysRS_II		family	random_relabel	mean10	membership_f1	0.910131	16	1	
-K04b_LysRS_II		family	random_relabel	mean10	membership_precision	0.838542	16	1	
-K04b_LysRS_II		family	random_relabel	mean10	membership_recall	1	16	1	
-K04c_SOD_FeMn		family	random_relabel	mean10	membership_f1	0.9087	19	1	
-K04c_SOD_FeMn		family	random_relabel	mean10	membership_precision	0.834649	19	1	
-K04c_SOD_FeMn		family	random_relabel	mean10	membership_recall	1	19	1	
-K04d_SOD_CuZn		family	random_relabel	mean10	membership_f1	0.919623	8	1	
-K04d_SOD_CuZn		family	random_relabel	mean10	membership_precision	0.855208	8	1	
-K04d_SOD_CuZn		family	random_relabel	mean10	membership_recall	1	8	1	
-K04e_PGM_BPGdep		family	random_relabel	mean10	membership_f1	0.91836	6	1	
-K04e_PGM_BPGdep		family	random_relabel	mean10	membership_precision	0.855556	6	1	
-K04e_PGM_BPGdep		family	random_relabel	mean10	membership_recall	1	6	1	
-K04f_PGM_BPGindep		family	random_relabel	mean10	membership_f1	0.923823	11	1	
-K04f_PGM_BPGindep		family	random_relabel	mean10	membership_precision	0.860606	11	1	
-K04f_PGM_BPGindep		family	random_relabel	mean10	membership_recall	1	11	1	
-K04g_SK_Ploop		family	random_relabel	mean10	membership_f1	0.891909	14	1	
-K04g_SK_Ploop		family	random_relabel	mean10	membership_precision	0.808333	14	1	
-K04g_SK_Ploop		family	random_relabel	mean10	membership_recall	1	14	1	
-K04h_SK_GHMP		family	random_relabel	mean10	membership_f1	0.969516	7	1	
-K04h_SK_GHMP		family	random_relabel	mean10	membership_precision	0.942857	7	1	
-K04h_SK_GHMP		family	random_relabel	mean10	membership_recall	1	7	1	
-K04i_DHQase_I		family	random_relabel	mean10	membership_f1	0.930998	12	1	
-K04i_DHQase_I		family	random_relabel	mean10	membership_precision	0.873611	12	1	
-K04i_DHQase_I		family	random_relabel	mean10	membership_recall	1	12	1	
-K04j_DHQase_II		family	random_relabel	mean10	membership_f1	0.953497	9	1	
-K04j_DHQase_II		family	random_relabel	mean10	membership_precision	0.912963	9	1	
-K04j_DHQase_II		family	random_relabel	mean10	membership_recall	1	9	1	
 K01_RPROT_L1	RPROT	control	fastoma	default_declared	level_bcubed_f1	1	171	1	
 K01_RPROT_L1	RPROT	control	fastoma	default_declared	merge_accuracy_node	1	171	1	
 K01_RPROT_L1	RPROT	control	fastoma	default_declared	membership_f1	1	19	1	
@@ -3115,7 +2995,7 @@ K02_trGTPases		control	fastoma	default_declared	event_recovery_0.8	0	1	1
 K02_trGTPases		control	fastoma	default_declared	merge_accuracy_pairs	0.852437	759	1	
 K02_trGTPases		control	fastoma	default_declared	merge_accuracy_tol1	0.655476	759	1	
 K02_trGTPases		control	fastoma	default_declared	spurious_dup_rate	0.222222	99	1	
-K02_trGTPases		control	fastoma	default_declared	orthobench_f	0.526763	47	1	
+K02_trGTPases		control	fastoma	default_declared	orthobench_f	0.654031	47	1	
 K02_trGTPases		control	fastoma	default_declared	frac_over_split	0.147563	47	1	
 K02_trGTPases		control	fastoma	default_declared	frac_over_merged	0	759	1	
 K02_trGTPases		control	fastoma	default_declared	level_pair_f1_pooled	0.67541	759	1	
@@ -3124,36 +3004,6 @@ K02_trGTPases		control	fastoma	default_declared	wf_ortholog_f1	0.656442	47	1
 K02_trGTPases		control	fastoma	default_declared	skill_level_bcubed_f1	0.933489	759	1	
 K02_trGTPases		control	fastoma	default_declared	skill_merge_accuracy_node	-0.033571	759	1	
 K02_trGTPases		control	fastoma	default_declared	skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I		family	fastoma	default_declared	membership_f1	0.285714	6	1	
-K04a_LysRS_I		family	fastoma	default_declared	membership_precision	0.166667	6	1	
-K04a_LysRS_I		family	fastoma	default_declared	membership_recall	1	6	1	
-K04b_LysRS_II		family	fastoma	default_declared	membership_f1	0.315789	16	1	
-K04b_LysRS_II		family	fastoma	default_declared	membership_precision	0.1875	16	1	
-K04b_LysRS_II		family	fastoma	default_declared	membership_recall	1	16	1	
-K04c_SOD_FeMn		family	fastoma	default_declared	membership_f1	0.1	19	1	
-K04c_SOD_FeMn		family	fastoma	default_declared	membership_precision	0.0526316	19	1	
-K04c_SOD_FeMn		family	fastoma	default_declared	membership_recall	1	19	1	
-K04d_SOD_CuZn		family	fastoma	default_declared	membership_f1	0.4	8	1	
-K04d_SOD_CuZn		family	fastoma	default_declared	membership_precision	0.25	8	1	
-K04d_SOD_CuZn		family	fastoma	default_declared	membership_recall	1	8	1	
-K04e_PGM_BPGdep		family	fastoma	default_declared	membership_f1	0.666667	6	1	
-K04e_PGM_BPGdep		family	fastoma	default_declared	membership_precision	0.5	6	1	
-K04e_PGM_BPGdep		family	fastoma	default_declared	membership_recall	1	6	1	
-K04f_PGM_BPGindep		family	fastoma	default_declared	membership_f1	0.307692	11	1	
-K04f_PGM_BPGindep		family	fastoma	default_declared	membership_precision	0.181818	11	1	
-K04f_PGM_BPGindep		family	fastoma	default_declared	membership_recall	1	11	1	
-K04g_SK_Ploop		family	fastoma	default_declared	membership_f1	0.352941	14	1	
-K04g_SK_Ploop		family	fastoma	default_declared	membership_precision	0.214286	14	1	
-K04g_SK_Ploop		family	fastoma	default_declared	membership_recall	1	14	1	
-K04h_SK_GHMP		family	fastoma	default_declared	membership_f1	0.25	7	1	
-K04h_SK_GHMP		family	fastoma	default_declared	membership_precision	0.142857	7	1	
-K04h_SK_GHMP		family	fastoma	default_declared	membership_recall	1	7	1	
-K04i_DHQase_I		family	fastoma	default_declared	membership_f1	0.588235	12	1	
-K04i_DHQase_I		family	fastoma	default_declared	membership_precision	0.416667	12	1	
-K04i_DHQase_I		family	fastoma	default_declared	membership_recall	1	12	1	
-K04j_DHQase_II		family	fastoma	default_declared	membership_f1	0.2	9	1	
-K04j_DHQase_II		family	fastoma	default_declared	membership_precision	0.111111	9	1	
-K04j_DHQase_II		family	fastoma	default_declared	membership_recall	1	9	1	
 K01_RPROT_L1	RPROT	control	fastoma	default_late	level_bcubed_f1	1	171	1	
 K01_RPROT_L1	RPROT	control	fastoma	default_late	merge_accuracy_node	1	171	1	
 K01_RPROT_L1	RPROT	control	fastoma	default_late	membership_f1	1	19	1	
@@ -3762,7 +3612,7 @@ K02_trGTPases		control	fastoma	default_late	event_recovery_0.8	0	1	1
 K02_trGTPases		control	fastoma	default_late	merge_accuracy_pairs	0.852437	759	1	
 K02_trGTPases		control	fastoma	default_late	merge_accuracy_tol1	0.655476	759	1	
 K02_trGTPases		control	fastoma	default_late	spurious_dup_rate	0.222222	99	1	
-K02_trGTPases		control	fastoma	default_late	orthobench_f	0.526763	47	1	
+K02_trGTPases		control	fastoma	default_late	orthobench_f	0.654031	47	1	
 K02_trGTPases		control	fastoma	default_late	frac_over_split	0.147563	47	1	
 K02_trGTPases		control	fastoma	default_late	frac_over_merged	0	759	1	
 K02_trGTPases		control	fastoma	default_late	level_pair_f1_pooled	0.67541	759	1	
@@ -3771,36 +3621,6 @@ K02_trGTPases		control	fastoma	default_late	wf_ortholog_f1	0.656442	47	1
 K02_trGTPases		control	fastoma	default_late	skill_level_bcubed_f1	0.933489	759	1	
 K02_trGTPases		control	fastoma	default_late	skill_merge_accuracy_node	-0.033571	759	1	
 K02_trGTPases		control	fastoma	default_late	skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I		family	fastoma	default_late	membership_f1	0.285714	6	1	
-K04a_LysRS_I		family	fastoma	default_late	membership_precision	0.166667	6	1	
-K04a_LysRS_I		family	fastoma	default_late	membership_recall	1	6	1	
-K04b_LysRS_II		family	fastoma	default_late	membership_f1	0.315789	16	1	
-K04b_LysRS_II		family	fastoma	default_late	membership_precision	0.1875	16	1	
-K04b_LysRS_II		family	fastoma	default_late	membership_recall	1	16	1	
-K04c_SOD_FeMn		family	fastoma	default_late	membership_f1	0.1	19	1	
-K04c_SOD_FeMn		family	fastoma	default_late	membership_precision	0.0526316	19	1	
-K04c_SOD_FeMn		family	fastoma	default_late	membership_recall	1	19	1	
-K04d_SOD_CuZn		family	fastoma	default_late	membership_f1	0.4	8	1	
-K04d_SOD_CuZn		family	fastoma	default_late	membership_precision	0.25	8	1	
-K04d_SOD_CuZn		family	fastoma	default_late	membership_recall	1	8	1	
-K04e_PGM_BPGdep		family	fastoma	default_late	membership_f1	0.666667	6	1	
-K04e_PGM_BPGdep		family	fastoma	default_late	membership_precision	0.5	6	1	
-K04e_PGM_BPGdep		family	fastoma	default_late	membership_recall	1	6	1	
-K04f_PGM_BPGindep		family	fastoma	default_late	membership_f1	0.307692	11	1	
-K04f_PGM_BPGindep		family	fastoma	default_late	membership_precision	0.181818	11	1	
-K04f_PGM_BPGindep		family	fastoma	default_late	membership_recall	1	11	1	
-K04g_SK_Ploop		family	fastoma	default_late	membership_f1	0.352941	14	1	
-K04g_SK_Ploop		family	fastoma	default_late	membership_precision	0.214286	14	1	
-K04g_SK_Ploop		family	fastoma	default_late	membership_recall	1	14	1	
-K04h_SK_GHMP		family	fastoma	default_late	membership_f1	0.25	7	1	
-K04h_SK_GHMP		family	fastoma	default_late	membership_precision	0.142857	7	1	
-K04h_SK_GHMP		family	fastoma	default_late	membership_recall	1	7	1	
-K04i_DHQase_I		family	fastoma	default_late	membership_f1	0.588235	12	1	
-K04i_DHQase_I		family	fastoma	default_late	membership_precision	0.416667	12	1	
-K04i_DHQase_I		family	fastoma	default_late	membership_recall	1	12	1	
-K04j_DHQase_II		family	fastoma	default_late	membership_f1	0.2	9	1	
-K04j_DHQase_II		family	fastoma	default_late	membership_precision	0.111111	9	1	
-K04j_DHQase_II		family	fastoma	default_late	membership_recall	1	9	1	
 K01_RPROT_L1	RPROT	control	of_flat	default	level_bcubed_f1	1	171	1	
 K01_RPROT_L1	RPROT	control	of_flat	default	merge_accuracy_node	1	171	1	
 K01_RPROT_L1	RPROT	control	of_flat	default	membership_f1	1	19	1	
@@ -4409,7 +4229,7 @@ K02_trGTPases		control	of_flat	default	event_recovery_0.8	0	1	1
 K02_trGTPases		control	of_flat	default	merge_accuracy_pairs	0.885375	759	1	
 K02_trGTPases		control	of_flat	default	merge_accuracy_tol1	0.810458	759	1	
 K02_trGTPases		control	of_flat	default	spurious_dup_rate	0.0505051	99	1	
-K02_trGTPases		control	of_flat	default	orthobench_f	0.465902	47	1	
+K02_trGTPases		control	of_flat	default	orthobench_f	0.794326	47	1	
 K02_trGTPases		control	of_flat	default	frac_over_split	0.114625	47	1	
 K02_trGTPases		control	of_flat	default	frac_over_merged	0	759	1	
 K02_trGTPases		control	of_flat	default	level_pair_f1_pooled	0.855524	759	1	
@@ -4418,36 +4238,6 @@ K02_trGTPases		control	of_flat	default	wf_ortholog_f1	0.752137	47	1
 K02_trGTPases		control	of_flat	default	skill_level_bcubed_f1	0.948613	759	1	
 K02_trGTPases		control	of_flat	default	skill_merge_accuracy_node	0.431373	759	1	
 K02_trGTPases		control	of_flat	default	skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I		family	of_flat	default	membership_f1	0.285714	6	1	
-K04a_LysRS_I		family	of_flat	default	membership_precision	0.166667	6	1	
-K04a_LysRS_I		family	of_flat	default	membership_recall	1	6	1	
-K04b_LysRS_II		family	of_flat	default	membership_f1	0.117647	16	1	
-K04b_LysRS_II		family	of_flat	default	membership_precision	0.0625	16	1	
-K04b_LysRS_II		family	of_flat	default	membership_recall	1	16	1	
-K04c_SOD_FeMn		family	of_flat	default	membership_f1	0.347826	19	1	
-K04c_SOD_FeMn		family	of_flat	default	membership_precision	0.210526	19	1	
-K04c_SOD_FeMn		family	of_flat	default	membership_recall	1	19	1	
-K04d_SOD_CuZn		family	of_flat	default	membership_f1	0.222222	8	1	
-K04d_SOD_CuZn		family	of_flat	default	membership_precision	0.125	8	1	
-K04d_SOD_CuZn		family	of_flat	default	membership_recall	1	8	1	
-K04e_PGM_BPGdep		family	of_flat	default	membership_f1	0.285714	6	1	
-K04e_PGM_BPGdep		family	of_flat	default	membership_precision	0.166667	6	1	
-K04e_PGM_BPGdep		family	of_flat	default	membership_recall	1	6	1	
-K04f_PGM_BPGindep		family	of_flat	default	membership_f1	0.307692	11	1	
-K04f_PGM_BPGindep		family	of_flat	default	membership_precision	0.181818	11	1	
-K04f_PGM_BPGindep		family	of_flat	default	membership_recall	1	11	1	
-K04g_SK_Ploop		family	of_flat	default	membership_f1	0.25	14	1	
-K04g_SK_Ploop		family	of_flat	default	membership_precision	0.142857	14	1	
-K04g_SK_Ploop		family	of_flat	default	membership_recall	1	14	1	
-K04h_SK_GHMP		family	of_flat	default	membership_f1	0.25	7	1	
-K04h_SK_GHMP		family	of_flat	default	membership_precision	0.142857	7	1	
-K04h_SK_GHMP		family	of_flat	default	membership_recall	1	7	1	
-K04i_DHQase_I		family	of_flat	default	membership_f1	0.285714	12	1	
-K04i_DHQase_I		family	of_flat	default	membership_precision	0.166667	12	1	
-K04i_DHQase_I		family	of_flat	default	membership_recall	1	12	1	
-K04j_DHQase_II		family	of_flat	default	membership_f1	0.2	9	1	
-K04j_DHQase_II		family	of_flat	default	membership_precision	0.111111	9	1	
-K04j_DHQase_II		family	of_flat	default	membership_recall	1	9	1	
 K01_RPROT_L1	RPROT	control	of_flat	dendroblast	level_bcubed_f1	1	171	1	
 K01_RPROT_L1	RPROT	control	of_flat	dendroblast	merge_accuracy_node	1	171	1	
 K01_RPROT_L1	RPROT	control	of_flat	dendroblast	membership_f1	1	19	1	
@@ -5056,7 +4846,7 @@ K02_trGTPases		control	of_flat	dendroblast	event_recovery_0.8	0	1	1
 K02_trGTPases		control	of_flat	dendroblast	merge_accuracy_pairs	0.898551	759	1	
 K02_trGTPases		control	of_flat	dendroblast	merge_accuracy_tol1	0.832244	759	1	
 K02_trGTPases		control	of_flat	dendroblast	spurious_dup_rate	0.010101	99	1	
-K02_trGTPases		control	of_flat	dendroblast	orthobench_f	0.485555	47	1	
+K02_trGTPases		control	of_flat	dendroblast	orthobench_f	0.822171	47	1	
 K02_trGTPases		control	of_flat	dendroblast	frac_over_split	0.101449	47	1	
 K02_trGTPases		control	of_flat	dendroblast	frac_over_merged	0	759	1	
 K02_trGTPases		control	of_flat	dendroblast	level_pair_f1_pooled	0.894665	759	1	
@@ -5065,36 +4855,6 @@ K02_trGTPases		control	of_flat	dendroblast	wf_ortholog_f1	0.786704	47	1
 K02_trGTPases		control	of_flat	dendroblast	skill_level_bcubed_f1	0.98227	759	1	
 K02_trGTPases		control	of_flat	dendroblast	skill_merge_accuracy_node	0.496732	759	1	
 K02_trGTPases		control	of_flat	dendroblast	skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I		family	of_flat	dendroblast	membership_f1	0.285714	6	1	
-K04a_LysRS_I		family	of_flat	dendroblast	membership_precision	0.166667	6	1	
-K04a_LysRS_I		family	of_flat	dendroblast	membership_recall	1	6	1	
-K04b_LysRS_II		family	of_flat	dendroblast	membership_f1	0.117647	16	1	
-K04b_LysRS_II		family	of_flat	dendroblast	membership_precision	0.0625	16	1	
-K04b_LysRS_II		family	of_flat	dendroblast	membership_recall	1	16	1	
-K04c_SOD_FeMn		family	of_flat	dendroblast	membership_f1	0.347826	19	1	
-K04c_SOD_FeMn		family	of_flat	dendroblast	membership_precision	0.210526	19	1	
-K04c_SOD_FeMn		family	of_flat	dendroblast	membership_recall	1	19	1	
-K04d_SOD_CuZn		family	of_flat	dendroblast	membership_f1	0.222222	8	1	
-K04d_SOD_CuZn		family	of_flat	dendroblast	membership_precision	0.125	8	1	
-K04d_SOD_CuZn		family	of_flat	dendroblast	membership_recall	1	8	1	
-K04e_PGM_BPGdep		family	of_flat	dendroblast	membership_f1	0.285714	6	1	
-K04e_PGM_BPGdep		family	of_flat	dendroblast	membership_precision	0.166667	6	1	
-K04e_PGM_BPGdep		family	of_flat	dendroblast	membership_recall	1	6	1	
-K04f_PGM_BPGindep		family	of_flat	dendroblast	membership_f1	0.307692	11	1	
-K04f_PGM_BPGindep		family	of_flat	dendroblast	membership_precision	0.181818	11	1	
-K04f_PGM_BPGindep		family	of_flat	dendroblast	membership_recall	1	11	1	
-K04g_SK_Ploop		family	of_flat	dendroblast	membership_f1	0.133333	14	1	
-K04g_SK_Ploop		family	of_flat	dendroblast	membership_precision	0.0714286	14	1	
-K04g_SK_Ploop		family	of_flat	dendroblast	membership_recall	1	14	1	
-K04h_SK_GHMP		family	of_flat	dendroblast	membership_f1	0.25	7	1	
-K04h_SK_GHMP		family	of_flat	dendroblast	membership_precision	0.142857	7	1	
-K04h_SK_GHMP		family	of_flat	dendroblast	membership_recall	1	7	1	
-K04i_DHQase_I		family	of_flat	dendroblast	membership_f1	0.285714	12	1	
-K04i_DHQase_I		family	of_flat	dendroblast	membership_precision	0.166667	12	1	
-K04i_DHQase_I		family	of_flat	dendroblast	membership_recall	1	12	1	
-K04j_DHQase_II		family	of_flat	dendroblast	membership_f1	0.2	9	1	
-K04j_DHQase_II		family	of_flat	dendroblast	membership_precision	0.111111	9	1	
-K04j_DHQase_II		family	of_flat	dendroblast	membership_recall	1	9	1	
 K01_RPROT_L1	RPROT	control	orthofinder	default	level_bcubed_f1	1	171	1	
 K01_RPROT_L1	RPROT	control	orthofinder	default	merge_accuracy_node	1	171	1	
 K01_RPROT_L1	RPROT	control	orthofinder	default	membership_f1	1	19	1	
@@ -5703,7 +5463,7 @@ K02_trGTPases		control	orthofinder	default	event_recovery_0.8	0	1	1
 K02_trGTPases		control	orthofinder	default	merge_accuracy_pairs	0.880105	759	1	
 K02_trGTPases		control	orthofinder	default	merge_accuracy_tol1	0.795306	759	1	
 K02_trGTPases		control	orthofinder	default	spurious_dup_rate	0.10101	99	1	
-K02_trGTPases		control	orthofinder	default	orthobench_f	0.465902	47	1	
+K02_trGTPases		control	orthofinder	default	orthobench_f	0.794326	47	1	
 K02_trGTPases		control	orthofinder	default	frac_over_split	0.119895	47	1	
 K02_trGTPases		control	orthofinder	default	frac_over_merged	0	759	1	
 K02_trGTPases		control	orthofinder	default	level_pair_f1_pooled	0.83741	759	1	
@@ -5712,36 +5472,6 @@ K02_trGTPases		control	orthofinder	default	wf_ortholog_f1	0.737752	47	1
 K02_trGTPases		control	orthofinder	default	skill_level_bcubed_f1	0.873018	759	1	
 K02_trGTPases		control	orthofinder	default	skill_merge_accuracy_node	0.370766	759	1	
 K02_trGTPases		control	orthofinder	default	skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I		family	orthofinder	default	membership_f1	0.285714	6	1	
-K04a_LysRS_I		family	orthofinder	default	membership_precision	0.166667	6	1	
-K04a_LysRS_I		family	orthofinder	default	membership_recall	1	6	1	
-K04b_LysRS_II		family	orthofinder	default	membership_f1	0.117647	16	1	
-K04b_LysRS_II		family	orthofinder	default	membership_precision	0.0625	16	1	
-K04b_LysRS_II		family	orthofinder	default	membership_recall	1	16	1	
-K04c_SOD_FeMn		family	orthofinder	default	membership_f1	0.347826	19	1	
-K04c_SOD_FeMn		family	orthofinder	default	membership_precision	0.210526	19	1	
-K04c_SOD_FeMn		family	orthofinder	default	membership_recall	1	19	1	
-K04d_SOD_CuZn		family	orthofinder	default	membership_f1	0.222222	8	1	
-K04d_SOD_CuZn		family	orthofinder	default	membership_precision	0.125	8	1	
-K04d_SOD_CuZn		family	orthofinder	default	membership_recall	1	8	1	
-K04e_PGM_BPGdep		family	orthofinder	default	membership_f1	0.285714	6	1	
-K04e_PGM_BPGdep		family	orthofinder	default	membership_precision	0.166667	6	1	
-K04e_PGM_BPGdep		family	orthofinder	default	membership_recall	1	6	1	
-K04f_PGM_BPGindep		family	orthofinder	default	membership_f1	0.307692	11	1	
-K04f_PGM_BPGindep		family	orthofinder	default	membership_precision	0.181818	11	1	
-K04f_PGM_BPGindep		family	orthofinder	default	membership_recall	1	11	1	
-K04g_SK_Ploop		family	orthofinder	default	membership_f1	0.25	14	1	
-K04g_SK_Ploop		family	orthofinder	default	membership_precision	0.142857	14	1	
-K04g_SK_Ploop		family	orthofinder	default	membership_recall	1	14	1	
-K04h_SK_GHMP		family	orthofinder	default	membership_f1	0.25	7	1	
-K04h_SK_GHMP		family	orthofinder	default	membership_precision	0.142857	7	1	
-K04h_SK_GHMP		family	orthofinder	default	membership_recall	1	7	1	
-K04i_DHQase_I		family	orthofinder	default	membership_f1	0.285714	12	1	
-K04i_DHQase_I		family	orthofinder	default	membership_precision	0.166667	12	1	
-K04i_DHQase_I		family	orthofinder	default	membership_recall	1	12	1	
-K04j_DHQase_II		family	orthofinder	default	membership_f1	0.2	9	1	
-K04j_DHQase_II		family	orthofinder	default	membership_precision	0.111111	9	1	
-K04j_DHQase_II		family	orthofinder	default	membership_recall	1	9	1	
 K01_RPROT_L1	RPROT	control	orthofinder	dendroblast	level_bcubed_f1	1	171	1	
 K01_RPROT_L1	RPROT	control	orthofinder	dendroblast	merge_accuracy_node	1	171	1	
 K01_RPROT_L1	RPROT	control	orthofinder	dendroblast	membership_f1	1	19	1	
@@ -6350,7 +6080,7 @@ K02_trGTPases		control	orthofinder	dendroblast	event_recovery_0.8	0	1	1
 K02_trGTPases		control	orthofinder	dendroblast	merge_accuracy_pairs	0.893281	759	1	
 K02_trGTPases		control	orthofinder	dendroblast	merge_accuracy_tol1	0.817092	759	1	
 K02_trGTPases		control	orthofinder	dendroblast	spurious_dup_rate	0.0606061	99	1	
-K02_trGTPases		control	orthofinder	dendroblast	orthobench_f	0.485555	47	1	
+K02_trGTPases		control	orthofinder	dendroblast	orthobench_f	0.822171	47	1	
 K02_trGTPases		control	orthofinder	dendroblast	frac_over_split	0.106719	47	1	
 K02_trGTPases		control	orthofinder	dendroblast	frac_over_merged	0	759	1	
 K02_trGTPases		control	orthofinder	dendroblast	level_pair_f1_pooled	0.877778	759	1	
@@ -6359,33 +6089,3 @@ K02_trGTPases		control	orthofinder	dendroblast	wf_ortholog_f1	0.773109	47	1
 K02_trGTPases		control	orthofinder	dendroblast	skill_level_bcubed_f1	0.906931	759	1	
 K02_trGTPases		control	orthofinder	dendroblast	skill_merge_accuracy_node	0.436126	759	1	
 K02_trGTPases		control	orthofinder	dendroblast	skill_event_recovery_0.5	0	47	1	
-K04a_LysRS_I		family	orthofinder	dendroblast	membership_f1	0.285714	6	1	
-K04a_LysRS_I		family	orthofinder	dendroblast	membership_precision	0.166667	6	1	
-K04a_LysRS_I		family	orthofinder	dendroblast	membership_recall	1	6	1	
-K04b_LysRS_II		family	orthofinder	dendroblast	membership_f1	0.117647	16	1	
-K04b_LysRS_II		family	orthofinder	dendroblast	membership_precision	0.0625	16	1	
-K04b_LysRS_II		family	orthofinder	dendroblast	membership_recall	1	16	1	
-K04c_SOD_FeMn		family	orthofinder	dendroblast	membership_f1	0.347826	19	1	
-K04c_SOD_FeMn		family	orthofinder	dendroblast	membership_precision	0.210526	19	1	
-K04c_SOD_FeMn		family	orthofinder	dendroblast	membership_recall	1	19	1	
-K04d_SOD_CuZn		family	orthofinder	dendroblast	membership_f1	0.222222	8	1	
-K04d_SOD_CuZn		family	orthofinder	dendroblast	membership_precision	0.125	8	1	
-K04d_SOD_CuZn		family	orthofinder	dendroblast	membership_recall	1	8	1	
-K04e_PGM_BPGdep		family	orthofinder	dendroblast	membership_f1	0.285714	6	1	
-K04e_PGM_BPGdep		family	orthofinder	dendroblast	membership_precision	0.166667	6	1	
-K04e_PGM_BPGdep		family	orthofinder	dendroblast	membership_recall	1	6	1	
-K04f_PGM_BPGindep		family	orthofinder	dendroblast	membership_f1	0.307692	11	1	
-K04f_PGM_BPGindep		family	orthofinder	dendroblast	membership_precision	0.181818	11	1	
-K04f_PGM_BPGindep		family	orthofinder	dendroblast	membership_recall	1	11	1	
-K04g_SK_Ploop		family	orthofinder	dendroblast	membership_f1	0.133333	14	1	
-K04g_SK_Ploop		family	orthofinder	dendroblast	membership_precision	0.0714286	14	1	
-K04g_SK_Ploop		family	orthofinder	dendroblast	membership_recall	1	14	1	
-K04h_SK_GHMP		family	orthofinder	dendroblast	membership_f1	0.25	7	1	
-K04h_SK_GHMP		family	orthofinder	dendroblast	membership_precision	0.142857	7	1	
-K04h_SK_GHMP		family	orthofinder	dendroblast	membership_recall	1	7	1	
-K04i_DHQase_I		family	orthofinder	dendroblast	membership_f1	0.285714	12	1	
-K04i_DHQase_I		family	orthofinder	dendroblast	membership_precision	0.166667	12	1	
-K04i_DHQase_I		family	orthofinder	dendroblast	membership_recall	1	12	1	
-K04j_DHQase_II		family	orthofinder	dendroblast	membership_f1	0.2	9	1	
-K04j_DHQase_II		family	orthofinder	dendroblast	membership_precision	0.111111	9	1	
-K04j_DHQase_II		family	orthofinder	dendroblast	membership_recall	1	9	1	

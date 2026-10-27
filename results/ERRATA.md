@@ -75,155 +75,84 @@ asserted relations are scored). Rule: under a U root, each child subtree is its 
 U node below the root likewise if the U node is at the family level. Before/after values for all panels recorded below
 by the re-run. This changes scores for every method equally in definition; it was triggered by a FastOMA case (P02).
 
-### E5 before → after (primary endpoints, summary.tsv means; changed cells in bold)
-Code: commit d2c56a6 (erratum E5). Re-run with `scripts/evaluate_panel.py` for Y full, K full, E subset, P subset and
-K subset. Only membership_f1 depends on RefOGs, so the other three endpoints cannot change.
+### E5 implementation and before → after
+Implemented in commits d2c56a6 and the follow-up refinement. A U node at the top of the tree (or at the family level) does
+not join its children into one RefOG. A U node also asserts no separation, so another RefOG's members count as false
+positives only if the reference asserts the two apart at the family level. A singleton RefOG is scored only if it is
+asserted apart from every other RefOG, and a family with no eligible RefOG gets membership = None (untestable,
+excluded). Applying the literal rule alone was degenerate on K, where U roots sit directly over single genes:
+all-singletons membership became 1.000 and FastOMA/OrthoFinder fell to 0.35/0.26 on K full. Only membership_f1
+(n in parentheses = families scored) depends on RefOGs. Re-run with `scripts/evaluate_panel.py`; summary.tsv means.
 
 #### Y_full (scope headline)
 
-| method | variant | level_bcubed_f1 | merge_accuracy_node | event_recovery_0.5 | membership_f1 |
-|---|---|---|---|---|---|
-| positive_control | reference | 1.000 | 1.000 | 1.000 |  |
-| all_singletons |  | 0.695 | 0.128 | 0.000 |  |
-| fastoma | default_declared | 0.920 | 0.942 | 0.134 |  |
-| fastoma | default_late | 0.920 | 0.942 | 0.139 |  |
-| of_flat | default | 0.790 | 0.872 | 0.007 |  |
-| of_flat | dendroblast | 0.790 | 0.872 | 0.010 |  |
-| one_big_hog |  | 0.790 | 0.872 | 0.000 |  |
-| orthofinder | default | 0.928 | 0.879 | 0.060 |  |
-| orthofinder | dendroblast | 0.928 | 0.880 | 0.072 |  |
-| random_relabel | mean10 | 0.694 | 0.129 | 0.000 |  |
-| random_relabel | seeds10 | 0.694 | 0.129 | 0.000 |  |
-
-#### Y_full (scope noncontrol_all)
-
-| method | variant | level_bcubed_f1 | merge_accuracy_node | event_recovery_0.5 | membership_f1 |
-|---|---|---|---|---|---|
-| positive_control | reference | 1.000 | 1.000 | 1.000 |  |
-| all_singletons |  | 0.695 | 0.128 | 0.000 |  |
-| fastoma | default_declared | 0.920 | 0.942 | 0.134 |  |
-| fastoma | default_late | 0.920 | 0.942 | 0.139 |  |
-| of_flat | default | 0.790 | 0.872 | 0.007 |  |
-| of_flat | dendroblast | 0.790 | 0.872 | 0.010 |  |
-| one_big_hog |  | 0.790 | 0.872 | 0.000 |  |
-| orthofinder | default | 0.928 | 0.879 | 0.060 |  |
-| orthofinder | dendroblast | 0.928 | 0.880 | 0.072 |  |
-| random_relabel | mean10 | 0.694 | 0.129 | 0.000 |  |
-| random_relabel | seeds10 | 0.694 | 0.129 | 0.000 |  |
+| method | variant | membership_f1 before | after |
+|---|---|---|---|
+| positive_control | reference | – (n=0) | – (n=0) |
+| all_singletons |  | – (n=0) | – (n=0) |
+| fastoma | default_declared | – (n=0) | – (n=0) |
+| fastoma | default_late | – (n=0) | – (n=0) |
+| of_flat | default | – (n=0) | – (n=0) |
+| of_flat | dendroblast | – (n=0) | – (n=0) |
+| one_big_hog |  | – (n=0) | – (n=0) |
+| orthofinder | default | – (n=0) | – (n=0) |
+| orthofinder | dendroblast | – (n=0) | – (n=0) |
+| random_relabel | mean10 | – (n=0) | – (n=0) |
+| random_relabel | seeds10 | – (n=) | – (n=) |
 
 #### K_full (scope headline)
 
-| method | variant | level_bcubed_f1 | merge_accuracy_node | event_recovery_0.5 | membership_f1 |
-|---|---|---|---|---|---|
-| positive_control | reference |  |  |  | 1.000 |
-| all_singletons |  |  |  |  | 0.000 → **1.000** |
-| fastoma | default_declared |  |  |  | 0.897 → **0.347** |
-| fastoma | default_late |  |  |  | 0.897 → **0.347** |
-| of_flat | default |  |  |  | 0.949 → **0.255** |
-| of_flat | dendroblast |  |  |  | 0.956 → **0.244** |
-| one_big_hog |  |  |  |  | 0.753 → **0.121** |
-| orthofinder | default |  |  |  | 0.949 → **0.255** |
-| orthofinder | dendroblast |  |  |  | 0.956 → **0.244** |
-| random_relabel | mean10 |  |  |  | 0.221 → **0.928** |
-| random_relabel | seeds10 |  |  |  | 0.221 → **0.928** |
-
-#### K_full (scope noncontrol_all)
-
-| method | variant | level_bcubed_f1 | merge_accuracy_node | event_recovery_0.5 | membership_f1 |
-|---|---|---|---|---|---|
-| positive_control | reference |  |  |  | 1.000 |
-| all_singletons |  |  |  |  | 0.000 → **1.000** |
-| fastoma | default_declared |  |  |  | 0.897 → **0.347** |
-| fastoma | default_late |  |  |  | 0.897 → **0.347** |
-| of_flat | default |  |  |  | 0.949 → **0.255** |
-| of_flat | dendroblast |  |  |  | 0.956 → **0.244** |
-| one_big_hog |  |  |  |  | 0.753 → **0.121** |
-| orthofinder | default |  |  |  | 0.949 → **0.255** |
-| orthofinder | dendroblast |  |  |  | 0.956 → **0.244** |
-| random_relabel | mean10 |  |  |  | 0.221 → **0.928** |
-| random_relabel | seeds10 |  |  |  | 0.221 → **0.928** |
+| method | variant | membership_f1 before | after |
+|---|---|---|---|
+| positive_control | reference | 1.000 (n=10) | – (n=0) |
+| all_singletons |  | 0.000 (n=10) | – (n=0) |
+| fastoma | default_declared | 0.897 (n=10) | – (n=0) |
+| fastoma | default_late | 0.897 (n=10) | – (n=0) |
+| of_flat | default | 0.949 (n=10) | – (n=0) |
+| of_flat | dendroblast | 0.956 (n=10) | – (n=0) |
+| one_big_hog |  | 0.753 (n=10) | – (n=0) |
+| orthofinder | default | 0.949 (n=10) | – (n=0) |
+| orthofinder | dendroblast | 0.956 (n=10) | – (n=0) |
+| random_relabel | mean10 | 0.221 (n=10) | – (n=0) |
 
 #### E_subset (scope headline)
 
-| method | variant | level_bcubed_f1 | merge_accuracy_node | event_recovery_0.5 | membership_f1 |
-|---|---|---|---|---|---|
-| positive_control | reference | 1.000 | 1.000 | 1.000 | 1.000 |
-| all_singletons |  | 0.849 | 0.146 | 0.000 | 0.075 → **0.689** |
-| fastoma | default_declared | 0.906 | 0.531 | 0.025 | 0.574 → **0.448** |
-| fastoma | default_late | 0.904 | 0.531 | 0.025 | 0.574 → **0.448** |
-| of_flat | default | 0.358 | 0.758 | 0.000 | 0.289 → **0.111** |
-| one_big_hog |  | 0.217 | 0.838 | 0.000 | 0.049 → **0.006** |
-| orthofinder | default | 0.981 | 0.729 | 0.400 | 0.741 → **0.479** |
-| random_relabel | mean10 | 0.823 → **0.835** | 0.149 → **0.147** | 0.000 | 0.120 → **0.608** |
-| random_relabel | seeds10 | 0.823 → **0.835** | 0.149 → **0.147** | 0.000 | 0.120 → **0.608** |
-
-#### E_subset (scope noncontrol_all)
-
-| method | variant | level_bcubed_f1 | merge_accuracy_node | event_recovery_0.5 | membership_f1 |
-|---|---|---|---|---|---|
-| positive_control | reference | 1.000 | 1.000 | 1.000 | 1.000 |
-| all_singletons |  | 0.860 | 0.130 | 0.000 | 0.072 → **0.750** |
-| fastoma | default_declared | 0.913 | 0.593 | 0.141 | 0.537 → **0.408** |
-| fastoma | default_late | 0.911 | 0.593 | 0.141 | 0.537 → **0.408** |
-| of_flat | default | 0.444 | 0.793 | 0.000 | 0.373 → **0.090** |
-| one_big_hog |  | 0.201 | 0.860 | 0.000 | 0.081 → **0.005** |
-| orthofinder | default | 0.981 | 0.747 | 0.375 | 0.682 → **0.404** |
-| random_relabel | mean10 | 0.839 → **0.849** | 0.136 → **0.134** | 0.000 | 0.124 → **0.647** |
-| random_relabel | seeds10 | 0.839 → **0.849** | 0.136 → **0.134** | 0.000 | 0.124 → **0.647** |
+| method | variant | membership_f1 before | after |
+|---|---|---|---|
+| positive_control | reference | 1.000 (n=3) | 1.000 (n=3) |
+| all_singletons |  | 0.075 (n=3) | 0.000 (n=3) |
+| fastoma | default_declared | 0.574 (n=3) | 0.563 (n=3) |
+| fastoma | default_late | 0.574 (n=3) | 0.563 (n=3) |
+| of_flat | default | 0.289 (n=3) | 0.152 (n=3) |
+| one_big_hog |  | 0.049 (n=3) | 0.014 (n=3) |
+| orthofinder | default | 0.741 (n=3) | 0.870 (n=3) |
+| random_relabel | mean10 | 0.120 (n=3) | 0.180 (n=3) |
+| random_relabel | seeds10 | 0.120 (n=) | 0.180 (n=) |
 
 #### P_subset (scope headline)
 
-| method | variant | level_bcubed_f1 | merge_accuracy_node | event_recovery_0.5 | membership_f1 |
-|---|---|---|---|---|---|
-| positive_control | reference | 1.000 | 1.000 | 1.000 | 1.000 |
-| all_singletons |  | 0.941 | 0.550 | 0.000 | 0.000 → **0.083** |
-| fastoma | default_declared | 0.997 | 0.867 | 0.667 | 0.018 → **0.190** |
-| fastoma | default_late | 0.997 | 0.867 | 0.667 | 0.018 → **0.190** |
-| of_flat | default | 0.481 | 0.579 | 0.167 | 0.364 → **0.526** |
-| one_big_hog |  | 0.148 | 0.233 | 0.000 | 0.697 → **0.448** |
-| orthofinder | default | 0.994 | 0.907 | 0.667 | 0.364 → **0.526** |
-| random_relabel | mean10 | 0.908 → **0.916** | 0.616 | 0.000 | 0.395 → **0.293** |
-| random_relabel | seeds10 | 0.908 → **0.916** | 0.616 | 0.000 | 0.395 → **0.293** |
-
-#### P_subset (scope noncontrol_all)
-
-| method | variant | level_bcubed_f1 | merge_accuracy_node | event_recovery_0.5 | membership_f1 |
-|---|---|---|---|---|---|
-| positive_control | reference | 1.000 | 1.000 | 1.000 | 1.000 |
-| all_singletons |  | 0.949 | 0.555 | 0.000 | 0.002 → **0.214** |
-| fastoma | default_declared | 0.991 | 0.797 | 0.444 | 0.143 → **0.369** |
-| fastoma | default_late | 0.991 | 0.797 | 0.444 | 0.143 → **0.369** |
-| of_flat | default | 0.589 | 0.574 | 0.111 | 0.569 → **0.585** |
-| one_big_hog |  | 0.140 | 0.246 | 0.000 | 0.475 → **0.334** |
-| orthofinder | default | 0.988 | 0.856 | 0.444 | 0.569 → **0.585** |
-| random_relabel | mean10 | 0.890 → **0.903** | 0.592 → **0.596** | 0.000 | 0.296 → **0.289** |
-| random_relabel | seeds10 | 0.890 → **0.903** | 0.592 → **0.596** | 0.000 | 0.296 → **0.289** |
+| method | variant | membership_f1 before | after |
+|---|---|---|---|
+| positive_control | reference | 1.000 (n=1) | 1.000 (n=1) |
+| all_singletons |  | 0.000 (n=1) | 0.000 (n=1) |
+| fastoma | default_declared | 0.018 (n=1) | 0.049 (n=1) |
+| fastoma | default_late | 0.018 (n=1) | 0.049 (n=1) |
+| of_flat | default | 0.364 (n=1) | 0.493 (n=1) |
+| one_big_hog |  | 0.697 (n=1) | 0.550 (n=1) |
+| orthofinder | default | 0.364 (n=1) | 0.493 (n=1) |
+| random_relabel | mean10 | 0.395 (n=1) | 0.277 (n=1) |
+| random_relabel | seeds10 | 0.395 (n=) | 0.277 (n=) |
 
 #### K_subset (scope headline)
 
-| method | variant | level_bcubed_f1 | merge_accuracy_node | event_recovery_0.5 | membership_f1 |
-|---|---|---|---|---|---|
-| positive_control | reference |  |  |  | 1.000 |
-| all_singletons |  |  |  |  | 0.000 → **1.000** |
-| fastoma | default_declared |  |  |  | 0.910 → **0.337** |
-| fastoma | default_late |  |  |  | 0.910 → **0.337** |
-| of_flat | default |  |  |  |  → **0.241** |
-| one_big_hog |  |  |  |  | 0.753 → **0.121** |
-| orthofinder | default |  |  |  | 0.953 → **0.241** |
-| random_relabel | mean10 |  |  |  | 0.221 → **0.928** |
-| random_relabel | seeds10 |  |  |  | 0.221 → **0.928** |
-
-#### K_subset (scope noncontrol_all)
-
-| method | variant | level_bcubed_f1 | merge_accuracy_node | event_recovery_0.5 | membership_f1 |
-|---|---|---|---|---|---|
-| positive_control | reference |  |  |  | 1.000 |
-| all_singletons |  |  |  |  | 0.000 → **1.000** |
-| fastoma | default_declared |  |  |  | 0.910 → **0.337** |
-| fastoma | default_late |  |  |  | 0.910 → **0.337** |
-| of_flat | default |  |  |  |  → **0.241** |
-| one_big_hog |  |  |  |  | 0.753 → **0.121** |
-| orthofinder | default |  |  |  | 0.953 → **0.241** |
-| random_relabel | mean10 |  |  |  | 0.221 → **0.928** |
-| random_relabel | seeds10 |  |  |  | 0.221 → **0.928** |
+| method | variant | membership_f1 before | after |
+|---|---|---|---|
+| positive_control | reference | 1.000 (n=10) | – (n=0) |
+| all_singletons |  | 0.000 (n=10) | – (n=0) |
+| fastoma | default_declared | 0.910 (n=10) | – (n=0) |
+| fastoma | default_late | 0.910 (n=10) | – (n=0) |
+| of_flat | default | – (n=) | – (n=0) |
+| one_big_hog |  | 0.753 (n=10) | – (n=0) |
+| orthofinder | default | 0.953 (n=10) | – (n=0) |
+| random_relabel | mean10 | 0.221 (n=10) | – (n=0) |
 

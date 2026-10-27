@@ -1,6 +1,6 @@
 # Panel Y / full: evaluation summary
 
-hobench git d2c56a6326 (dirty=True); 1977 families (+0 excluded: members absent from subset) (0 control-track, 0 non-headline); families tree hash 8c1d8bb8a7fc.
+hobench git c304c5e4b8 (dirty=True); 1977 families (+0 excluded: members absent from subset) (0 control-track, 0 non-headline); families tree hash 8c1d8bb8a7fc.
 Descriptive only (mean over items; a collection is one item; no CIs). Headline = tracks family+collection, headline-eligible; control track (K01 RPROT, K02, E05) reported separately. Trivial baselines are rows of every table; skill = (s-b)/(1-b), b = per-family max(singletons, one big HOG, mean relabel). membership F1 is NA for families without complete cells or decoys. Confirmatory test: scripts/confirmatory.py.
 
 ## scope: headline

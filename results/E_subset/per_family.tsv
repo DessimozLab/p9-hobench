@@ -178,14 +178,13 @@ E07c_adaptins_scaffold		family	positive_control	reference	skill_event_recovery_0
 E01_kinesins		family	all_singletons		level_bcubed_f1	0.942518	30088	1	
 E01_kinesins		family	all_singletons		merge_accuracy_node	0.111111	30088	1	
 E01_kinesins		family	all_singletons		event_recovery_0.5	0	2	1	
-E01_kinesins		family	all_singletons		membership_f1	0.837093	399	1	
+E01_kinesins		family	all_singletons		membership_f1	0	399	1	
 E01_kinesins		family	all_singletons		merge_accuracy_sd_posthoc	0.5	30088	1	
 E01_kinesins		family	all_singletons		event_recovery_0.8	0	2	1	
 E01_kinesins		family	all_singletons		merge_accuracy_pairs	0.995613	30088	1	
 E01_kinesins		family	all_singletons		merge_accuracy_tol1	0.111111	30088	1	
 E01_kinesins		family	all_singletons		spurious_dup_rate	1	204	1	
-E01_kinesins		family	all_singletons		membership_precision	0.837093	399	1	
-E01_kinesins		family	all_singletons		membership_recall	0.837093	399	1	
+E01_kinesins		family	all_singletons		membership_recall	0	399	1	
 E01_kinesins		family	all_singletons		orthobench_f	0	399	1	
 E01_kinesins		family	all_singletons		frac_over_split	0.00438713	399	1	
 E01_kinesins		family	all_singletons		frac_over_merged	0	30088	1	
@@ -195,19 +194,18 @@ E01_kinesins		family	all_singletons		wf_ortholog_f1	0	399	1
 E01_kinesins		family	all_singletons		skill_level_bcubed_f1	0	30088	1	
 E01_kinesins		family	all_singletons		skill_merge_accuracy_node	-7	30088	1	
 E01_kinesins		family	all_singletons		skill_event_recovery_0.5	0	399	1	
-E01_kinesins		family	all_singletons		skill_membership_f1	0	399	1	
+E01_kinesins		family	all_singletons		skill_membership_f1	-0.299426	399	1	
 E02_ARF		family	all_singletons		level_bcubed_f1	0.687858	28138	1	
 E02_ARF		family	all_singletons		merge_accuracy_node	0.037037	28138	1	
 E02_ARF		family	all_singletons		event_recovery_0.5	0	2	1	
-E02_ARF		family	all_singletons		membership_f1	0.366154	325	1	
+E02_ARF		family	all_singletons		membership_f1	0	325	1	
 E02_ARF		family	all_singletons		in_paralog_recovery_0.5	0	325	1	
 E02_ARF		family	all_singletons		merge_accuracy_sd_posthoc	0.1	28138	1	
 E02_ARF		family	all_singletons		event_recovery_0.8	0	2	1	
 E02_ARF		family	all_singletons		merge_accuracy_pairs	0.955576	28138	1	
 E02_ARF		family	all_singletons		merge_accuracy_tol1	0.037037	28138	1	
 E02_ARF		family	all_singletons		spurious_dup_rate	1	793	1	
-E02_ARF		family	all_singletons		membership_precision	0.366154	325	1	
-E02_ARF		family	all_singletons		membership_recall	0.366154	325	1	
+E02_ARF		family	all_singletons		membership_recall	0	325	1	
 E02_ARF		family	all_singletons		orthobench_f	0	325	1	
 E02_ARF		family	all_singletons		frac_over_split	0.0444239	325	1	
 E02_ARF		family	all_singletons		frac_over_merged	0	28138	1	
@@ -217,7 +215,7 @@ E02_ARF		family	all_singletons		wf_ortholog_f1	0	325	1
 E02_ARF		family	all_singletons		skill_level_bcubed_f1	0	28138	1	
 E02_ARF		family	all_singletons		skill_merge_accuracy_node	-12	28138	1	
 E02_ARF		family	all_singletons		skill_event_recovery_0.5	0	325	1	
-E02_ARF		family	all_singletons		skill_membership_f1	-0.0398379	325	1	
+E02_ARF		family	all_singletons		skill_membership_f1	-0.154613	325	1	
 E03_Rab		family	all_singletons		level_bcubed_f1	0.850143	66548	1	
 E03_Rab		family	all_singletons		merge_accuracy_node	0.130435	66548	1	
 E03_Rab		family	all_singletons		event_recovery_0.5	0	8	1	
@@ -239,14 +237,13 @@ E03_Rab		family	all_singletons		skill_event_recovery_0.5	0	388	1
 E04_tubulins		family	all_singletons		level_bcubed_f1	0.971998	10305	1	
 E04_tubulins		family	all_singletons		merge_accuracy_node	0.25	10305	1	
 E04_tubulins		family	all_singletons		event_recovery_0.5	0	1	1	
-E04_tubulins		family	all_singletons		membership_f1	0.864706	170	1	
+E04_tubulins		family	all_singletons		membership_f1	0	170	1	
 E04_tubulins		family	all_singletons		merge_accuracy_sd_posthoc	0.5	10305	1	
 E04_tubulins		family	all_singletons		event_recovery_0.8	0	1	1	
 E04_tubulins		family	all_singletons		merge_accuracy_pairs	0.992431	10305	1	
 E04_tubulins		family	all_singletons		merge_accuracy_tol1	0.25	10305	1	
 E04_tubulins		family	all_singletons		spurious_dup_rate	1	98	1	
-E04_tubulins		family	all_singletons		membership_precision	0.864706	170	1	
-E04_tubulins		family	all_singletons		membership_recall	0.864706	170	1	
+E04_tubulins		family	all_singletons		membership_recall	0	170	1	
 E04_tubulins		family	all_singletons		orthobench_f	0	170	1	
 E04_tubulins		family	all_singletons		frac_over_split	0.00756914	170	1	
 E04_tubulins		family	all_singletons		frac_over_merged	0	10305	1	
@@ -256,7 +253,7 @@ E04_tubulins		family	all_singletons		wf_ortholog_f1	0	170	1
 E04_tubulins		family	all_singletons		skill_level_bcubed_f1	0	10305	1	
 E04_tubulins		family	all_singletons		skill_merge_accuracy_node	-2	10305	1	
 E04_tubulins		family	all_singletons		skill_event_recovery_0.5	0	170	1	
-E04_tubulins		family	all_singletons		skill_membership_f1	0	170	1	
+E04_tubulins		family	all_singletons		skill_membership_f1	-0.213583	170	1	
 E05_MCM		control	all_singletons		level_bcubed_f1	0.48605	6328	1	
 E05_MCM		control	all_singletons		merge_accuracy_node	0	6328	1	
 E05_MCM		control	all_singletons		event_recovery_0.5	0	1	1	
@@ -280,14 +277,13 @@ E05_MCM		control	all_singletons		skill_membership_f1	-0.302949	113	1
 E06_myosins		family	all_singletons		level_bcubed_f1	0.982556	8605	0	n: mapped 73% < 80%
 E06_myosins		family	all_singletons		merge_accuracy_node	0.166667	8605	0	n: mapped 73% < 80%
 E06_myosins		family	all_singletons		event_recovery_0.5	0	1	0	n: mapped 73% < 80%
-E06_myosins		family	all_singletons		membership_f1	0.931818	220	0	n: mapped 73% < 80%
+E06_myosins		family	all_singletons		membership_f1	0	220	0	n: mapped 73% < 80%
 E06_myosins		family	all_singletons		merge_accuracy_sd_posthoc	0.5	8605	0	n: mapped 73% < 80%
 E06_myosins		family	all_singletons		event_recovery_0.8	0	1	0	n: mapped 73% < 80%
 E06_myosins		family	all_singletons		merge_accuracy_pairs	0.99756	8605	0	n: mapped 73% < 80%
 E06_myosins		family	all_singletons		merge_accuracy_tol1	0.166667	8605	0	n: mapped 73% < 80%
 E06_myosins		family	all_singletons		spurious_dup_rate	1	27	0	n: mapped 73% < 80%
-E06_myosins		family	all_singletons		membership_precision	0.931818	220	0	n: mapped 73% < 80%
-E06_myosins		family	all_singletons		membership_recall	0.931818	220	0	n: mapped 73% < 80%
+E06_myosins		family	all_singletons		membership_recall	0	220	0	n: mapped 73% < 80%
 E06_myosins		family	all_singletons		orthobench_f	0	220	0	n: mapped 73% < 80%
 E06_myosins		family	all_singletons		frac_over_split	0.00244044	220	0	n: mapped 73% < 80%
 E06_myosins		family	all_singletons		frac_over_merged	0	8605	0	n: mapped 73% < 80%
@@ -297,7 +293,7 @@ E06_myosins		family	all_singletons		wf_ortholog_f1	0	220	0	n: mapped 73% < 80%
 E06_myosins		family	all_singletons		skill_level_bcubed_f1	0	8605	0	n: mapped 73% < 80%
 E06_myosins		family	all_singletons		skill_merge_accuracy_node	-4	8605	0	n: mapped 73% < 80%
 E06_myosins		family	all_singletons		skill_event_recovery_0.5	0	220	0	n: mapped 73% < 80%
-E06_myosins		family	all_singletons		skill_membership_f1	0	220	0	n: mapped 73% < 80%
+E06_myosins		family	all_singletons		skill_membership_f1	-0.432949	220	0	n: mapped 73% < 80%
 E07a_adaptins_large		family	all_singletons		level_bcubed_f1	0.838048	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	all_singletons		merge_accuracy_node	0.0769231	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	all_singletons		event_recovery_0.5	0	1	0	n: mapped 72% < 80%
@@ -352,15 +348,15 @@ E07c_adaptins_scaffold		family	all_singletons		skill_event_recovery_0.5	0	35	1
 E01_kinesins		family	one_big_hog		level_bcubed_f1	0.138584	30088	1	
 E01_kinesins		family	one_big_hog		merge_accuracy_node	0.888889	30088	1	
 E01_kinesins		family	one_big_hog		event_recovery_0.5	0	2	1	
-E01_kinesins		family	one_big_hog		membership_f1	0.00266363	399	1	
+E01_kinesins		family	one_big_hog		membership_f1	0.00975673	399	1	
 E01_kinesins		family	one_big_hog		merge_accuracy_sd_posthoc	0.5	30088	1	
 E01_kinesins		family	one_big_hog		event_recovery_0.8	0	2	1	
 E01_kinesins		family	one_big_hog		merge_accuracy_pairs	0.00438713	30088	1	
 E01_kinesins		family	one_big_hog		merge_accuracy_tol1	0.945362	30088	1	
 E01_kinesins		family	one_big_hog		spurious_dup_rate	0	204	1	
-E01_kinesins		family	one_big_hog		membership_precision	0.00133359	399	1	
+E01_kinesins		family	one_big_hog		membership_precision	0.00490228	399	1	
 E01_kinesins		family	one_big_hog		membership_recall	1	399	1	
-E01_kinesins		family	one_big_hog		orthobench_f	0.00215072	399	1	
+E01_kinesins		family	one_big_hog		orthobench_f	0.00279101	399	1	
 E01_kinesins		family	one_big_hog		frac_over_split	0	399	1	
 E01_kinesins		family	one_big_hog		frac_over_merged	0.995613	30088	1	
 E01_kinesins		family	one_big_hog		level_pair_f1_pooled	0.0119192	30088	1	
@@ -369,20 +365,20 @@ E01_kinesins		family	one_big_hog		wf_ortholog_f1	0.00942554	399	1
 E01_kinesins		family	one_big_hog		skill_level_bcubed_f1	-13.9858	30088	1	
 E01_kinesins		family	one_big_hog		skill_merge_accuracy_node	0	30088	1	
 E01_kinesins		family	one_big_hog		skill_event_recovery_0.5	0	399	1	
-E01_kinesins		family	one_big_hog		skill_membership_f1	-5.12211	399	1	
+E01_kinesins		family	one_big_hog		skill_membership_f1	-0.286748	399	1	
 E02_ARF		family	one_big_hog		level_bcubed_f1	0.213266	28138	1	
 E02_ARF		family	one_big_hog		merge_accuracy_node	0.925926	28138	1	
 E02_ARF		family	one_big_hog		event_recovery_0.5	0	2	1	
-E02_ARF		family	one_big_hog		membership_f1	0.0113541	325	1	
+E02_ARF		family	one_big_hog		membership_f1	0.0182267	325	1	
 E02_ARF		family	one_big_hog		in_paralog_recovery_0.5	1	325	1	
 E02_ARF		family	one_big_hog		merge_accuracy_sd_posthoc	0.8	28138	1	
 E02_ARF		family	one_big_hog		event_recovery_0.8	0	2	1	
 E02_ARF		family	one_big_hog		merge_accuracy_pairs	0.0424337	28138	1	
 E02_ARF		family	one_big_hog		merge_accuracy_tol1	0.952275	28138	1	
 E02_ARF		family	one_big_hog		spurious_dup_rate	0	793	1	
-E02_ARF		family	one_big_hog		membership_precision	0.00570945	325	1	
+E02_ARF		family	one_big_hog		membership_precision	0.00919717	325	1	
 E02_ARF		family	one_big_hog		membership_recall	1	325	1	
-E02_ARF		family	one_big_hog		orthobench_f	0.00454286	325	1	
+E02_ARF		family	one_big_hog		orthobench_f	0.00504497	325	1	
 E02_ARF		family	one_big_hog		frac_over_split	0	325	1	
 E02_ARF		family	one_big_hog		frac_over_merged	0.957566	28138	1	
 E02_ARF		family	one_big_hog		level_pair_f1_pooled	0.0920624	28138	1	
@@ -391,7 +387,7 @@ E02_ARF		family	one_big_hog		wf_ortholog_f1	0.0850014	325	1
 E02_ARF		family	one_big_hog		skill_level_bcubed_f1	-1.52043	28138	1	
 E02_ARF		family	one_big_hog		skill_merge_accuracy_node	0	28138	1	
 E02_ARF		family	one_big_hog		skill_event_recovery_0.5	0	325	1	
-E02_ARF		family	one_big_hog		skill_membership_f1	-0.621894	325	1	
+E02_ARF		family	one_big_hog		skill_membership_f1	-0.133568	325	1	
 E03_Rab		family	one_big_hog		level_bcubed_f1	0.0744862	66548	1	
 E03_Rab		family	one_big_hog		merge_accuracy_node	0.826087	66548	1	
 E03_Rab		family	one_big_hog		event_recovery_0.5	0	8	1	
@@ -401,7 +397,7 @@ E03_Rab		family	one_big_hog		event_recovery_0.8	0	8	1
 E03_Rab		family	one_big_hog		merge_accuracy_pairs	0.00955701	66548	1	
 E03_Rab		family	one_big_hog		merge_accuracy_tol1	0.911936	66548	1	
 E03_Rab		family	one_big_hog		spurious_dup_rate	0	443	1	
-E03_Rab		family	one_big_hog		orthobench_f	0.0136715	388	1	
+E03_Rab		family	one_big_hog		orthobench_f	0.0150734	388	1	
 E03_Rab		family	one_big_hog		frac_over_split	0	388	1	
 E03_Rab		family	one_big_hog		frac_over_merged	0.990443	66548	1	
 E03_Rab		family	one_big_hog		level_pair_f1_pooled	0.0237499	66548	1	
@@ -413,13 +409,13 @@ E03_Rab		family	one_big_hog		skill_event_recovery_0.5	0	388	1
 E04_tubulins		family	one_big_hog		level_bcubed_f1	0.122506	10305	1	
 E04_tubulins		family	one_big_hog		merge_accuracy_node	0.75	10305	1	
 E04_tubulins		family	one_big_hog		event_recovery_0.5	0	1	1	
-E04_tubulins		family	one_big_hog		membership_f1	0.00324223	170	1	
+E04_tubulins		family	one_big_hog		membership_f1	0.0130934	170	1	
 E04_tubulins		family	one_big_hog		merge_accuracy_sd_posthoc	0.5	10305	1	
 E04_tubulins		family	one_big_hog		event_recovery_0.8	0	1	1	
 E04_tubulins		family	one_big_hog		merge_accuracy_pairs	0.00756914	10305	1	
 E04_tubulins		family	one_big_hog		merge_accuracy_tol1	0.868803	10305	1	
 E04_tubulins		family	one_big_hog		spurious_dup_rate	0	98	1	
-E04_tubulins		family	one_big_hog		membership_precision	0.00162375	170	1	
+E04_tubulins		family	one_big_hog		membership_precision	0.00658985	170	1	
 E04_tubulins		family	one_big_hog		membership_recall	1	170	1	
 E04_tubulins		family	one_big_hog		orthobench_f	0.0056361	170	1	
 E04_tubulins		family	one_big_hog		frac_over_split	0	170	1	
@@ -430,7 +426,7 @@ E04_tubulins		family	one_big_hog		wf_ortholog_f1	0.016023	170	1
 E04_tubulins		family	one_big_hog		skill_level_bcubed_f1	-30.337	10305	1	
 E04_tubulins		family	one_big_hog		skill_merge_accuracy_node	0	10305	1	
 E04_tubulins		family	one_big_hog		skill_event_recovery_0.5	0	170	1	
-E04_tubulins		family	one_big_hog		skill_membership_f1	-6.36734	170	1	
+E04_tubulins		family	one_big_hog		skill_membership_f1	-0.197693	170	1	
 E05_MCM		control	one_big_hog		level_bcubed_f1	0.358324	6328	1	
 E05_MCM		control	one_big_hog		merge_accuracy_node	0.909091	6328	1	
 E05_MCM		control	one_big_hog		event_recovery_0.5	0	1	1	
@@ -456,15 +452,15 @@ E05_MCM		control	one_big_hog		skill_membership_f1	0	113	1
 E06_myosins		family	one_big_hog		level_bcubed_f1	0.205738	8605	0	n: mapped 73% < 80%
 E06_myosins		family	one_big_hog		merge_accuracy_node	0.833333	8605	0	n: mapped 73% < 80%
 E06_myosins		family	one_big_hog		event_recovery_0.5	0	1	0	n: mapped 73% < 80%
-E06_myosins		family	one_big_hog		membership_f1	0.00201135	220	0	n: mapped 73% < 80%
+E06_myosins		family	one_big_hog		membership_f1	0.00738236	220	0	n: mapped 73% < 80%
 E06_myosins		family	one_big_hog		merge_accuracy_sd_posthoc	0.5	8605	0	n: mapped 73% < 80%
 E06_myosins		family	one_big_hog		event_recovery_0.8	0	1	0	n: mapped 73% < 80%
 E06_myosins		family	one_big_hog		merge_accuracy_pairs	0.00244044	8605	0	n: mapped 73% < 80%
 E06_myosins		family	one_big_hog		merge_accuracy_tol1	0.893368	8605	0	n: mapped 73% < 80%
 E06_myosins		family	one_big_hog		spurious_dup_rate	0	27	0	n: mapped 73% < 80%
-E06_myosins		family	one_big_hog		membership_precision	0.00100669	220	0	n: mapped 73% < 80%
+E06_myosins		family	one_big_hog		membership_precision	0.00370485	220	0	n: mapped 73% < 80%
 E06_myosins		family	one_big_hog		membership_recall	1	220	0	n: mapped 73% < 80%
-E06_myosins		family	one_big_hog		orthobench_f	0.00145866	220	0	n: mapped 73% < 80%
+E06_myosins		family	one_big_hog		orthobench_f	0.00168583	220	0	n: mapped 73% < 80%
 E06_myosins		family	one_big_hog		frac_over_split	0	220	0	n: mapped 73% < 80%
 E06_myosins		family	one_big_hog		frac_over_merged	0.99756	8605	0	n: mapped 73% < 80%
 E06_myosins		family	one_big_hog		level_pair_f1_pooled	0.00963823	8605	0	n: mapped 73% < 80%
@@ -473,7 +469,7 @@ E06_myosins		family	one_big_hog		wf_ortholog_f1	0.00519609	220	0	n: mapped 73% <
 E06_myosins		family	one_big_hog		skill_level_bcubed_f1	-44.5327	8605	0	n: mapped 73% < 80%
 E06_myosins		family	one_big_hog		skill_merge_accuracy_node	0	8605	0	n: mapped 73% < 80%
 E06_myosins		family	one_big_hog		skill_event_recovery_0.5	0	220	0	n: mapped 73% < 80%
-E06_myosins		family	one_big_hog		skill_membership_f1	-13.6372	220	0	n: mapped 73% < 80%
+E06_myosins		family	one_big_hog		skill_membership_f1	-0.42237	220	0	n: mapped 73% < 80%
 E07a_adaptins_large		family	one_big_hog		level_bcubed_f1	0.177173	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	one_big_hog		merge_accuracy_node	0.923077	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	one_big_hog		event_recovery_0.5	0	1	0	n: mapped 72% < 80%
@@ -482,7 +478,7 @@ E07a_adaptins_large		family	one_big_hog		event_recovery_0.8	0	1	0	n: mapped 72% 
 E07a_adaptins_large		family	one_big_hog		merge_accuracy_pairs	0.0537531	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	one_big_hog		merge_accuracy_tol1	0.958456	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	one_big_hog		spurious_dup_rate	0	233	0	n: mapped 72% < 80%
-E07a_adaptins_large		family	one_big_hog		orthobench_f	0.0519988	105	0	n: mapped 72% < 80%
+E07a_adaptins_large		family	one_big_hog		orthobench_f	0.0523086	105	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	one_big_hog		frac_over_split	0	105	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	one_big_hog		frac_over_merged	0.946247	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	one_big_hog		level_pair_f1_pooled	0.0919109	5209	0	n: mapped 72% < 80%
@@ -499,7 +495,7 @@ E07b_adaptins_medium_small		family	one_big_hog		event_recovery_0.8	0	1	0	n: mapp
 E07b_adaptins_medium_small		family	one_big_hog		merge_accuracy_pairs	0.0522895	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	one_big_hog		merge_accuracy_tol1	0.964701	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	one_big_hog		spurious_dup_rate	0	285	0	n: mapped 72% < 80%
-E07b_adaptins_medium_small		family	one_big_hog		orthobench_f	0.0473502	123	0	n: mapped 72% < 80%
+E07b_adaptins_medium_small		family	one_big_hog		orthobench_f	0.0491246	123	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	one_big_hog		frac_over_split	0	123	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	one_big_hog		frac_over_merged	0.947711	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	one_big_hog		level_pair_f1_pooled	0.0827503	6923	0	n: mapped 72% < 80%
@@ -516,7 +512,7 @@ E07c_adaptins_scaffold		family	one_big_hog		event_recovery_0.8	0	1	1
 E07c_adaptins_scaffold		family	one_big_hog		merge_accuracy_pairs	0.158562	473	1	
 E07c_adaptins_scaffold		family	one_big_hog		merge_accuracy_tol1	0.901005	473	1	
 E07c_adaptins_scaffold		family	one_big_hog		spurious_dup_rate	0	78	1	
-E07c_adaptins_scaffold		family	one_big_hog		orthobench_f	0.127927	35	1	
+E07c_adaptins_scaffold		family	one_big_hog		orthobench_f	0.137017	35	1	
 E07c_adaptins_scaffold		family	one_big_hog		frac_over_split	0	35	1	
 E07c_adaptins_scaffold		family	one_big_hog		frac_over_merged	0.841438	473	1	
 E07c_adaptins_scaffold		family	one_big_hog		level_pair_f1_pooled	0.290164	473	1	
@@ -528,15 +524,15 @@ E07c_adaptins_scaffold		family	one_big_hog		skill_event_recovery_0.5	0	35	1
 E01_kinesins		family	random_relabel	mean10	level_bcubed_f1	0.919215	30088	1	
 E01_kinesins		family	random_relabel	mean10	merge_accuracy_node	0.111793	30088	1	
 E01_kinesins		family	random_relabel	mean10	event_recovery_0.5	0	2	1	
-E01_kinesins		family	random_relabel	mean10	membership_f1	0.698292	399	1	
+E01_kinesins		family	random_relabel	mean10	membership_f1	0.23043	399	1	
 E01_kinesins		family	random_relabel	mean10	merge_accuracy_sd_posthoc	0.499056	30088	1	
 E01_kinesins		family	random_relabel	mean10	event_recovery_0.8	0	2	1	
 E01_kinesins		family	random_relabel	mean10	merge_accuracy_pairs	0.993459	30088	1	
 E01_kinesins		family	random_relabel	mean10	merge_accuracy_tol1	0.130035	30088	1	
 E01_kinesins		family	random_relabel	mean10	spurious_dup_rate	0.994608	204	1	
-E01_kinesins		family	random_relabel	mean10	membership_precision	0.581944	399	1	
-E01_kinesins		family	random_relabel	mean10	membership_recall	0.873434	399	1	
-E01_kinesins		family	random_relabel	mean10	orthobench_f	0.00136736	399	1	
+E01_kinesins		family	random_relabel	mean10	membership_precision	0.240978	399	1	
+E01_kinesins		family	random_relabel	mean10	membership_recall	0.223077	399	1	
+E01_kinesins		family	random_relabel	mean10	orthobench_f	0.00154992	399	1	
 E01_kinesins		family	random_relabel	mean10	frac_over_split	0.00437384	399	1	
 E01_kinesins		family	random_relabel	mean10	frac_over_merged	0.00216698	30088	1	
 E01_kinesins		family	random_relabel	mean10	level_pair_f1_pooled	0.00400045	30088	1	
@@ -545,20 +541,20 @@ E01_kinesins		family	random_relabel	mean10	wf_ortholog_f1	0.00426084	399	1
 E01_kinesins		family	random_relabel	mean10	skill_level_bcubed_f1	-0.405386	30088	1	
 E01_kinesins		family	random_relabel	mean10	skill_merge_accuracy_node	-6.99387	30088	1	
 E01_kinesins		family	random_relabel	mean10	skill_event_recovery_0.5	0	399	1	
-E01_kinesins		family	random_relabel	mean10	skill_membership_f1	-0.852023	399	1	
+E01_kinesins		family	random_relabel	mean10	skill_membership_f1	0	399	1	
 E02_ARF		family	random_relabel	mean10	level_bcubed_f1	0.68102	28138	1	
 E02_ARF		family	random_relabel	mean10	merge_accuracy_node	0.0391729	28138	1	
 E02_ARF		family	random_relabel	mean10	event_recovery_0.5	0	2	1	
-E02_ARF		family	random_relabel	mean10	membership_f1	0.390438	325	1	
+E02_ARF		family	random_relabel	mean10	membership_f1	0.133909	325	1	
 E02_ARF		family	random_relabel	mean10	in_paralog_recovery_0.5	0	325	1	
 E02_ARF		family	random_relabel	mean10	merge_accuracy_sd_posthoc	0.101127	28138	1	
 E02_ARF		family	random_relabel	mean10	event_recovery_0.8	0	2	1	
 E02_ARF		family	random_relabel	mean10	merge_accuracy_pairs	0.953444	28138	1	
 E02_ARF		family	random_relabel	mean10	merge_accuracy_tol1	0.0585471	28138	1	
 E02_ARF		family	random_relabel	mean10	spurious_dup_rate	0.985624	793	1	
-E02_ARF		family	random_relabel	mean10	membership_precision	0.355244	325	1	
-E02_ARF		family	random_relabel	mean10	membership_recall	0.43403	325	1	
-E02_ARF		family	random_relabel	mean10	orthobench_f	0.00328525	325	1	
+E02_ARF		family	random_relabel	mean10	membership_precision	0.179545	325	1	
+E02_ARF		family	random_relabel	mean10	membership_recall	0.107086	325	1	
+E02_ARF		family	random_relabel	mean10	orthobench_f	0.00347559	325	1	
 E02_ARF		family	random_relabel	mean10	frac_over_split	0.0442746	325	1	
 E02_ARF		family	random_relabel	mean10	frac_over_merged	0.00228161	28138	1	
 E02_ARF		family	random_relabel	mean10	level_pair_f1_pooled	0.00715611	28138	1	
@@ -577,7 +573,7 @@ E03_Rab		family	random_relabel	mean10	event_recovery_0.8	0	8	1
 E03_Rab		family	random_relabel	mean10	merge_accuracy_pairs	0.987388	66548	1	
 E03_Rab		family	random_relabel	mean10	merge_accuracy_tol1	0.157945	66548	1	
 E03_Rab		family	random_relabel	mean10	spurious_dup_rate	0.993679	443	1	
-E03_Rab		family	random_relabel	mean10	orthobench_f	0.00405194	388	1	
+E03_Rab		family	random_relabel	mean10	orthobench_f	0.00417543	388	1	
 E03_Rab		family	random_relabel	mean10	frac_over_split	0.0105833	388	1	
 E03_Rab		family	random_relabel	mean10	frac_over_merged	0.00202861	66548	1	
 E03_Rab		family	random_relabel	mean10	level_pair_f1_pooled	0.00448779	66548	1	
@@ -589,14 +585,14 @@ E03_Rab		family	random_relabel	mean10	skill_event_recovery_0.5	0	388	1
 E04_tubulins		family	random_relabel	mean10	level_bcubed_f1	0.959184	10305	1	
 E04_tubulins		family	random_relabel	mean10	merge_accuracy_node	0.251423	10305	1	
 E04_tubulins		family	random_relabel	mean10	event_recovery_0.5	0	1	1	
-E04_tubulins		family	random_relabel	mean10	membership_f1	0.734337	170	1	
+E04_tubulins		family	random_relabel	mean10	membership_f1	0.175994	170	1	
 E04_tubulins		family	random_relabel	mean10	merge_accuracy_sd_posthoc	0.500333	10305	1	
 E04_tubulins		family	random_relabel	mean10	event_recovery_0.8	0	1	1	
 E04_tubulins		family	random_relabel	mean10	merge_accuracy_pairs	0.990616	10305	1	
 E04_tubulins		family	random_relabel	mean10	merge_accuracy_tol1	0.297459	10305	1	
 E04_tubulins		family	random_relabel	mean10	spurious_dup_rate	0.983673	98	1	
-E04_tubulins		family	random_relabel	mean10	membership_precision	0.629056	170	1	
-E04_tubulins		family	random_relabel	mean10	membership_recall	0.883333	170	1	
+E04_tubulins		family	random_relabel	mean10	membership_precision	0.245499	170	1	
+E04_tubulins		family	random_relabel	mean10	membership_recall	0.137681	170	1	
 E04_tubulins		family	random_relabel	mean10	orthobench_f	0.00336157	170	1	
 E04_tubulins		family	random_relabel	mean10	frac_over_split	0.00754973	170	1	
 E04_tubulins		family	random_relabel	mean10	frac_over_merged	0.00183406	10305	1	
@@ -606,7 +602,7 @@ E04_tubulins		family	random_relabel	mean10	wf_ortholog_f1	0.00438218	170	1
 E04_tubulins		family	random_relabel	mean10	skill_level_bcubed_f1	-0.457604	10305	1	
 E04_tubulins		family	random_relabel	mean10	skill_merge_accuracy_node	-1.99431	10305	1	
 E04_tubulins		family	random_relabel	mean10	skill_event_recovery_0.5	0	170	1	
-E04_tubulins		family	random_relabel	mean10	skill_membership_f1	-0.963599	170	1	
+E04_tubulins		family	random_relabel	mean10	skill_membership_f1	0	170	1	
 E05_MCM		control	random_relabel	mean10	level_bcubed_f1	0.507404	6328	1	
 E05_MCM		control	random_relabel	mean10	merge_accuracy_node	0.0231031	6328	1	
 E05_MCM		control	random_relabel	mean10	event_recovery_0.5	0	1	1	
@@ -632,15 +628,15 @@ E05_MCM		control	random_relabel	mean10	skill_membership_f1	-0.125124	113	1
 E06_myosins		family	random_relabel	mean10	level_bcubed_f1	0.970731	8605	0	n: mapped 73% < 80%
 E06_myosins		family	random_relabel	mean10	merge_accuracy_node	0.188506	8605	0	n: mapped 73% < 80%
 E06_myosins		family	random_relabel	mean10	event_recovery_0.5	0	1	0	n: mapped 73% < 80%
-E06_myosins		family	random_relabel	mean10	membership_f1	0.765071	220	0	n: mapped 73% < 80%
+E06_myosins		family	random_relabel	mean10	membership_f1	0.302138	220	0	n: mapped 73% < 80%
 E06_myosins		family	random_relabel	mean10	merge_accuracy_sd_posthoc	0.512186	8605	0	n: mapped 73% < 80%
 E06_myosins		family	random_relabel	mean10	event_recovery_0.8	0	1	0	n: mapped 73% < 80%
 E06_myosins		family	random_relabel	mean10	merge_accuracy_pairs	0.995293	8605	0	n: mapped 73% < 80%
 E06_myosins		family	random_relabel	mean10	merge_accuracy_tol1	0.18859	8605	0	n: mapped 73% < 80%
 E06_myosins		family	random_relabel	mean10	spurious_dup_rate	0.981481	27	0	n: mapped 73% < 80%
-E06_myosins		family	random_relabel	mean10	membership_precision	0.6396	220	0	n: mapped 73% < 80%
-E06_myosins		family	random_relabel	mean10	membership_recall	0.952576	220	0	n: mapped 73% < 80%
-E06_myosins		family	random_relabel	mean10	orthobench_f	0.00802197	220	0	n: mapped 73% < 80%
+E06_myosins		family	random_relabel	mean10	membership_precision	0.309157	220	0	n: mapped 73% < 80%
+E06_myosins		family	random_relabel	mean10	membership_recall	0.304444	220	0	n: mapped 73% < 80%
+E06_myosins		family	random_relabel	mean10	orthobench_f	0.00912166	220	0	n: mapped 73% < 80%
 E06_myosins		family	random_relabel	mean10	frac_over_split	0.0024172	220	0	n: mapped 73% < 80%
 E06_myosins		family	random_relabel	mean10	frac_over_merged	0.00228937	8605	0	n: mapped 73% < 80%
 E06_myosins		family	random_relabel	mean10	level_pair_f1_pooled	0.0118576	8605	0	n: mapped 73% < 80%
@@ -649,7 +645,7 @@ E06_myosins		family	random_relabel	mean10	wf_ortholog_f1	0.0105336	220	0	n: mapp
 E06_myosins		family	random_relabel	mean10	skill_level_bcubed_f1	-0.677884	8605	0	n: mapped 73% < 80%
 E06_myosins		family	random_relabel	mean10	skill_merge_accuracy_node	-3.86896	8605	0	n: mapped 73% < 80%
 E06_myosins		family	random_relabel	mean10	skill_event_recovery_0.5	0	220	0	n: mapped 73% < 80%
-E06_myosins		family	random_relabel	mean10	skill_membership_f1	-2.44562	220	0	n: mapped 73% < 80%
+E06_myosins		family	random_relabel	mean10	skill_membership_f1	0	220	0	n: mapped 73% < 80%
 E07a_adaptins_large		family	random_relabel	mean10	level_bcubed_f1	0.833571	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	random_relabel	mean10	merge_accuracy_node	0.0804647	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	random_relabel	mean10	event_recovery_0.5	0	1	0	n: mapped 72% < 80%
@@ -675,7 +671,7 @@ E07b_adaptins_medium_small		family	random_relabel	mean10	event_recovery_0.8	0	1	
 E07b_adaptins_medium_small		family	random_relabel	mean10	merge_accuracy_pairs	0.945789	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	random_relabel	mean10	merge_accuracy_tol1	0.1095	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	random_relabel	mean10	spurious_dup_rate	0.988772	285	0	n: mapped 72% < 80%
-E07b_adaptins_medium_small		family	random_relabel	mean10	orthobench_f	0.00658836	123	0	n: mapped 72% < 80%
+E07b_adaptins_medium_small		family	random_relabel	mean10	orthobench_f	0.00662961	123	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	random_relabel	mean10	frac_over_split	0.0520872	123	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	random_relabel	mean10	frac_over_merged	0.00212336	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	random_relabel	mean10	level_pair_f1_pooled	0.0080749	6923	0	n: mapped 72% < 80%
@@ -704,15 +700,15 @@ E07c_adaptins_scaffold		family	random_relabel	mean10	skill_event_recovery_0.5	0	
 E01_kinesins		family	fastoma	default_declared	level_bcubed_f1	0.934502	30088	1	
 E01_kinesins		family	fastoma	default_declared	merge_accuracy_node	0.270463	30088	1	
 E01_kinesins		family	fastoma	default_declared	event_recovery_0.5	0	2	1	
-E01_kinesins		family	fastoma	default_declared	membership_f1	0.587308	399	1	
+E01_kinesins		family	fastoma	default_declared	membership_f1	0.427435	399	1	
 E01_kinesins		family	fastoma	default_declared	merge_accuracy_sd_posthoc	0.564479	30088	1	
 E01_kinesins		family	fastoma	default_declared	event_recovery_0.8	0	2	1	
 E01_kinesins		family	fastoma	default_declared	merge_accuracy_pairs	0.92143	30088	1	
 E01_kinesins		family	fastoma	default_declared	merge_accuracy_tol1	0.295277	30088	1	
 E01_kinesins		family	fastoma	default_declared	spurious_dup_rate	0.558824	204	1	
-E01_kinesins		family	fastoma	default_declared	membership_precision	0.433066	399	1	
-E01_kinesins		family	fastoma	default_declared	membership_recall	0.912197	399	1	
-E01_kinesins		family	fastoma	default_declared	orthobench_f	0.0287121	399	1	
+E01_kinesins		family	fastoma	default_declared	membership_precision	0.398406	399	1	
+E01_kinesins		family	fastoma	default_declared	membership_recall	0.461026	399	1	
+E01_kinesins		family	fastoma	default_declared	orthobench_f	0.0675363	399	1	
 E01_kinesins		family	fastoma	default_declared	frac_over_split	0.00295799	399	1	
 E01_kinesins		family	fastoma	default_declared	frac_over_merged	0.0756115	30088	1	
 E01_kinesins		family	fastoma	default_declared	level_pair_f1_pooled	0.075526	30088	1	
@@ -721,20 +717,20 @@ E01_kinesins		family	fastoma	default_declared	wf_ortholog_f1	0.0545339	399	1
 E01_kinesins		family	fastoma	default_declared	skill_level_bcubed_f1	-0.139446	30088	1	
 E01_kinesins		family	fastoma	default_declared	skill_merge_accuracy_node	-5.56583	30088	1	
 E01_kinesins		family	fastoma	default_declared	skill_event_recovery_0.5	0	399	1	
-E01_kinesins		family	fastoma	default_declared	skill_membership_f1	-1.5333	399	1	
+E01_kinesins		family	fastoma	default_declared	skill_membership_f1	0.255994	399	1	
 E02_ARF		family	fastoma	default_declared	level_bcubed_f1	0.760287	28138	1	
 E02_ARF		family	fastoma	default_declared	merge_accuracy_node	0.291064	28138	1	
 E02_ARF		family	fastoma	default_declared	event_recovery_0.5	0	2	1	
-E02_ARF		family	fastoma	default_declared	membership_f1	0.443574	325	1	
+E02_ARF		family	fastoma	default_declared	membership_f1	0.331168	325	1	
 E02_ARF		family	fastoma	default_declared	in_paralog_recovery_0.5	0.333333	325	1	
 E02_ARF		family	fastoma	default_declared	merge_accuracy_sd_posthoc	0.328161	28138	1	
 E02_ARF		family	fastoma	default_declared	event_recovery_0.8	0	2	1	
 E02_ARF		family	fastoma	default_declared	merge_accuracy_pairs	0.901841	28138	1	
 E02_ARF		family	fastoma	default_declared	merge_accuracy_tol1	0.291634	28138	1	
 E02_ARF		family	fastoma	default_declared	spurious_dup_rate	0.699874	793	1	
-E02_ARF		family	fastoma	default_declared	membership_precision	0.351168	325	1	
-E02_ARF		family	fastoma	default_declared	membership_recall	0.601978	325	1	
-E02_ARF		family	fastoma	default_declared	orthobench_f	0.0609639	325	1	
+E02_ARF		family	fastoma	default_declared	membership_precision	0.298379	325	1	
+E02_ARF		family	fastoma	default_declared	membership_recall	0.372053	325	1	
+E02_ARF		family	fastoma	default_declared	orthobench_f	0.0801757	325	1	
 E02_ARF		family	fastoma	default_declared	frac_over_split	0.0364276	325	1	
 E02_ARF		family	fastoma	default_declared	frac_over_merged	0.0617315	28138	1	
 E02_ARF		family	fastoma	default_declared	level_pair_f1_pooled	0.168959	28138	1	
@@ -743,7 +739,7 @@ E02_ARF		family	fastoma	default_declared	wf_ortholog_f1	0.193971	325	1
 E02_ARF		family	fastoma	default_declared	skill_level_bcubed_f1	0.232038	28138	1	
 E02_ARF		family	fastoma	default_declared	skill_merge_accuracy_node	-8.57064	28138	1	
 E02_ARF		family	fastoma	default_declared	skill_event_recovery_0.5	0	325	1	
-E02_ARF		family	fastoma	default_declared	skill_membership_f1	0.0871717	325	1	
+E02_ARF		family	fastoma	default_declared	skill_membership_f1	0.227758	325	1	
 E03_Rab		family	fastoma	default_declared	level_bcubed_f1	0.843606	66548	1	
 E03_Rab		family	fastoma	default_declared	merge_accuracy_node	0.58747	66548	1	
 E03_Rab		family	fastoma	default_declared	event_recovery_0.5	0.125	8	1	
@@ -753,7 +749,7 @@ E03_Rab		family	fastoma	default_declared	event_recovery_0.8	0	8	1
 E03_Rab		family	fastoma	default_declared	merge_accuracy_pairs	0.566809	66548	1	
 E03_Rab		family	fastoma	default_declared	merge_accuracy_tol1	0.825181	66548	1	
 E03_Rab		family	fastoma	default_declared	spurious_dup_rate	0.0654628	443	1	
-E03_Rab		family	fastoma	default_declared	orthobench_f	0.0183496	388	1	
+E03_Rab		family	fastoma	default_declared	orthobench_f	0.0200661	388	1	
 E03_Rab		family	fastoma	default_declared	frac_over_split	0.00498888	388	1	
 E03_Rab		family	fastoma	default_declared	frac_over_merged	0.428202	66548	1	
 E03_Rab		family	fastoma	default_declared	level_pair_f1_pooled	0.0523659	66548	1	
@@ -765,14 +761,14 @@ E03_Rab		family	fastoma	default_declared	skill_event_recovery_0.5	0.125	388	1
 E04_tubulins		family	fastoma	default_declared	level_bcubed_f1	0.995268	10305	1	
 E04_tubulins		family	fastoma	default_declared	merge_accuracy_node	0.785714	10305	1	
 E04_tubulins		family	fastoma	default_declared	event_recovery_0.5	0	1	1	
-E04_tubulins		family	fastoma	default_declared	membership_f1	0.314309	170	1	
+E04_tubulins		family	fastoma	default_declared	membership_f1	0.930233	170	1	
 E04_tubulins		family	fastoma	default_declared	merge_accuracy_sd_posthoc	0.857143	10305	1	
 E04_tubulins		family	fastoma	default_declared	event_recovery_0.8	0	1	1	
 E04_tubulins		family	fastoma	default_declared	merge_accuracy_pairs	0.998253	10305	1	
 E04_tubulins		family	fastoma	default_declared	merge_accuracy_tol1	0.797619	10305	1	
 E04_tubulins		family	fastoma	default_declared	spurious_dup_rate	0.112245	98	1	
-E04_tubulins		family	fastoma	default_declared	membership_precision	0.187084	170	1	
-E04_tubulins		family	fastoma	default_declared	membership_recall	0.982353	170	1	
+E04_tubulins		family	fastoma	default_declared	membership_precision	1	170	1	
+E04_tubulins		family	fastoma	default_declared	membership_recall	0.869565	170	1	
 E04_tubulins		family	fastoma	default_declared	orthobench_f	0.859504	170	1	
 E04_tubulins		family	fastoma	default_declared	frac_over_split	0.00174672	170	1	
 E04_tubulins		family	fastoma	default_declared	frac_over_merged	0	10305	1	
@@ -782,7 +778,7 @@ E04_tubulins		family	fastoma	default_declared	wf_ortholog_f1	0.869565	170	1
 E04_tubulins		family	fastoma	default_declared	skill_level_bcubed_f1	0.831025	10305	1	
 E04_tubulins		family	fastoma	default_declared	skill_merge_accuracy_node	0.142857	10305	1	
 E04_tubulins		family	fastoma	default_declared	skill_event_recovery_0.5	0	170	1	
-E04_tubulins		family	fastoma	default_declared	skill_membership_f1	-4.06815	170	1	
+E04_tubulins		family	fastoma	default_declared	skill_membership_f1	0.915331	170	1	
 E05_MCM		control	fastoma	default_declared	level_bcubed_f1	0.901305	6328	1	
 E05_MCM		control	fastoma	default_declared	merge_accuracy_node	0.751539	6328	1	
 E05_MCM		control	fastoma	default_declared	event_recovery_0.5	0	1	1	
@@ -808,15 +804,15 @@ E05_MCM		control	fastoma	default_declared	skill_membership_f1	0.506062	113	1
 E06_myosins		family	fastoma	default_declared	level_bcubed_f1	0.883115	8605	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_declared	merge_accuracy_node	0.791201	8605	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_declared	event_recovery_0.5	1	1	0	n: mapped 73% < 80%
-E06_myosins		family	fastoma	default_declared	membership_f1	0.28572	220	0	n: mapped 73% < 80%
+E06_myosins		family	fastoma	default_declared	membership_f1	0.521934	220	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_declared	merge_accuracy_sd_posthoc	0.773602	8605	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_declared	event_recovery_0.8	0	1	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_declared	merge_accuracy_pairs	0.747705	8605	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_declared	merge_accuracy_tol1	0.802501	8605	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_declared	spurious_dup_rate	0.037037	27	0	n: mapped 73% < 80%
-E06_myosins		family	fastoma	default_declared	membership_precision	0.166797	220	0	n: mapped 73% < 80%
-E06_myosins		family	fastoma	default_declared	membership_recall	0.995455	220	0	n: mapped 73% < 80%
-E06_myosins		family	fastoma	default_declared	orthobench_f	0.037464	220	0	n: mapped 73% < 80%
+E06_myosins		family	fastoma	default_declared	membership_precision	0.362257	220	0	n: mapped 73% < 80%
+E06_myosins		family	fastoma	default_declared	membership_recall	0.933333	220	0	n: mapped 73% < 80%
+E06_myosins		family	fastoma	default_declared	orthobench_f	0.0832266	220	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_declared	frac_over_split	0.000116212	220	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_declared	frac_over_merged	0.252179	8605	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_declared	level_pair_f1_pooled	0.0375802	8605	0	n: mapped 73% < 80%
@@ -825,7 +821,7 @@ E06_myosins		family	fastoma	default_declared	wf_ortholog_f1	0.033557	220	0	n: ma
 E06_myosins		family	fastoma	default_declared	skill_level_bcubed_f1	-5.70067	8605	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_declared	skill_merge_accuracy_node	-0.252796	8605	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_declared	skill_event_recovery_0.5	1	220	0	n: mapped 73% < 80%
-E06_myosins		family	fastoma	default_declared	skill_membership_f1	-9.47611	220	0	n: mapped 73% < 80%
+E06_myosins		family	fastoma	default_declared	skill_membership_f1	0.314956	220	0	n: mapped 73% < 80%
 E07a_adaptins_large		family	fastoma	default_declared	level_bcubed_f1	0.967368	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	fastoma	default_declared	merge_accuracy_node	0.592777	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	fastoma	default_declared	event_recovery_0.5	0	1	0	n: mapped 72% < 80%
@@ -834,7 +830,7 @@ E07a_adaptins_large		family	fastoma	default_declared	event_recovery_0.8	0	1	0	n:
 E07a_adaptins_large		family	fastoma	default_declared	merge_accuracy_pairs	0.985026	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	fastoma	default_declared	merge_accuracy_tol1	0.592918	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	fastoma	default_declared	spurious_dup_rate	0.2103	233	0	n: mapped 72% < 80%
-E07a_adaptins_large		family	fastoma	default_declared	orthobench_f	0.665091	105	0	n: mapped 72% < 80%
+E07a_adaptins_large		family	fastoma	default_declared	orthobench_f	0.749455	105	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	fastoma	default_declared	frac_over_split	0.0128624	105	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	fastoma	default_declared	frac_over_merged	0.00211173	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	fastoma	default_declared	level_pair_f1_pooled	0.865158	5209	0	n: mapped 72% < 80%
@@ -851,7 +847,7 @@ E07b_adaptins_medium_small		family	fastoma	default_declared	event_recovery_0.8	0
 E07b_adaptins_medium_small		family	fastoma	default_declared	merge_accuracy_pairs	0.870143	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	fastoma	default_declared	merge_accuracy_tol1	0.713298	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	fastoma	default_declared	spurious_dup_rate	0.2	285	0	n: mapped 72% < 80%
-E07b_adaptins_medium_small		family	fastoma	default_declared	orthobench_f	0.246439	123	0	n: mapped 72% < 80%
+E07b_adaptins_medium_small		family	fastoma	default_declared	orthobench_f	0.273563	123	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	fastoma	default_declared	frac_over_split	0.00996678	123	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	fastoma	default_declared	frac_over_merged	0.11989	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	fastoma	default_declared	level_pair_f1_pooled	0.416315	6923	0	n: mapped 72% < 80%
@@ -868,7 +864,7 @@ E07c_adaptins_scaffold		family	fastoma	default_declared	event_recovery_0.8	0	1	1
 E07c_adaptins_scaffold		family	fastoma	default_declared	merge_accuracy_pairs	0.989429	473	1	
 E07c_adaptins_scaffold		family	fastoma	default_declared	merge_accuracy_tol1	0.72	473	1	
 E07c_adaptins_scaffold		family	fastoma	default_declared	spurious_dup_rate	0.0512821	78	1	
-E07c_adaptins_scaffold		family	fastoma	default_declared	orthobench_f	0.644048	35	1	
+E07c_adaptins_scaffold		family	fastoma	default_declared	orthobench_f	0.909091	35	1	
 E07c_adaptins_scaffold		family	fastoma	default_declared	frac_over_split	0.0105708	35	1	
 E07c_adaptins_scaffold		family	fastoma	default_declared	frac_over_merged	0	473	1	
 E07c_adaptins_scaffold		family	fastoma	default_declared	level_pair_f1_pooled	0.97093	473	1	
@@ -880,15 +876,15 @@ E07c_adaptins_scaffold		family	fastoma	default_declared	skill_event_recovery_0.5
 E01_kinesins		family	fastoma	default_late	level_bcubed_f1	0.926887	30088	1	
 E01_kinesins		family	fastoma	default_late	merge_accuracy_node	0.270463	30088	1	
 E01_kinesins		family	fastoma	default_late	event_recovery_0.5	0	2	1	
-E01_kinesins		family	fastoma	default_late	membership_f1	0.587308	399	1	
+E01_kinesins		family	fastoma	default_late	membership_f1	0.427435	399	1	
 E01_kinesins		family	fastoma	default_late	merge_accuracy_sd_posthoc	0.564479	30088	1	
 E01_kinesins		family	fastoma	default_late	event_recovery_0.8	0	2	1	
 E01_kinesins		family	fastoma	default_late	merge_accuracy_pairs	0.92143	30088	1	
 E01_kinesins		family	fastoma	default_late	merge_accuracy_tol1	0.295277	30088	1	
 E01_kinesins		family	fastoma	default_late	spurious_dup_rate	0.558824	204	1	
-E01_kinesins		family	fastoma	default_late	membership_precision	0.433066	399	1	
-E01_kinesins		family	fastoma	default_late	membership_recall	0.912197	399	1	
-E01_kinesins		family	fastoma	default_late	orthobench_f	0.0287121	399	1	
+E01_kinesins		family	fastoma	default_late	membership_precision	0.398406	399	1	
+E01_kinesins		family	fastoma	default_late	membership_recall	0.461026	399	1	
+E01_kinesins		family	fastoma	default_late	orthobench_f	0.0675363	399	1	
 E01_kinesins		family	fastoma	default_late	frac_over_split	0.00295799	399	1	
 E01_kinesins		family	fastoma	default_late	frac_over_merged	0.0756115	30088	1	
 E01_kinesins		family	fastoma	default_late	level_pair_f1_pooled	0.0689882	30088	1	
@@ -897,20 +893,20 @@ E01_kinesins		family	fastoma	default_late	wf_ortholog_f1	0.0545339	399	1
 E01_kinesins		family	fastoma	default_late	skill_level_bcubed_f1	-0.271932	30088	1	
 E01_kinesins		family	fastoma	default_late	skill_merge_accuracy_node	-5.56583	30088	1	
 E01_kinesins		family	fastoma	default_late	skill_event_recovery_0.5	0	399	1	
-E01_kinesins		family	fastoma	default_late	skill_membership_f1	-1.5333	399	1	
+E01_kinesins		family	fastoma	default_late	skill_membership_f1	0.255994	399	1	
 E02_ARF		family	fastoma	default_late	level_bcubed_f1	0.760287	28138	1	
 E02_ARF		family	fastoma	default_late	merge_accuracy_node	0.291064	28138	1	
 E02_ARF		family	fastoma	default_late	event_recovery_0.5	0	2	1	
-E02_ARF		family	fastoma	default_late	membership_f1	0.443574	325	1	
+E02_ARF		family	fastoma	default_late	membership_f1	0.331168	325	1	
 E02_ARF		family	fastoma	default_late	in_paralog_recovery_0.5	0.333333	325	1	
 E02_ARF		family	fastoma	default_late	merge_accuracy_sd_posthoc	0.328161	28138	1	
 E02_ARF		family	fastoma	default_late	event_recovery_0.8	0	2	1	
 E02_ARF		family	fastoma	default_late	merge_accuracy_pairs	0.901841	28138	1	
 E02_ARF		family	fastoma	default_late	merge_accuracy_tol1	0.291634	28138	1	
 E02_ARF		family	fastoma	default_late	spurious_dup_rate	0.699874	793	1	
-E02_ARF		family	fastoma	default_late	membership_precision	0.351168	325	1	
-E02_ARF		family	fastoma	default_late	membership_recall	0.601978	325	1	
-E02_ARF		family	fastoma	default_late	orthobench_f	0.0609639	325	1	
+E02_ARF		family	fastoma	default_late	membership_precision	0.298379	325	1	
+E02_ARF		family	fastoma	default_late	membership_recall	0.372053	325	1	
+E02_ARF		family	fastoma	default_late	orthobench_f	0.0801757	325	1	
 E02_ARF		family	fastoma	default_late	frac_over_split	0.0364276	325	1	
 E02_ARF		family	fastoma	default_late	frac_over_merged	0.0617315	28138	1	
 E02_ARF		family	fastoma	default_late	level_pair_f1_pooled	0.168959	28138	1	
@@ -919,7 +915,7 @@ E02_ARF		family	fastoma	default_late	wf_ortholog_f1	0.193971	325	1
 E02_ARF		family	fastoma	default_late	skill_level_bcubed_f1	0.232038	28138	1	
 E02_ARF		family	fastoma	default_late	skill_merge_accuracy_node	-8.57064	28138	1	
 E02_ARF		family	fastoma	default_late	skill_event_recovery_0.5	0	325	1	
-E02_ARF		family	fastoma	default_late	skill_membership_f1	0.0871717	325	1	
+E02_ARF		family	fastoma	default_late	skill_membership_f1	0.227758	325	1	
 E03_Rab		family	fastoma	default_late	level_bcubed_f1	0.841577	66548	1	
 E03_Rab		family	fastoma	default_late	merge_accuracy_node	0.58747	66548	1	
 E03_Rab		family	fastoma	default_late	event_recovery_0.5	0.125	8	1	
@@ -929,7 +925,7 @@ E03_Rab		family	fastoma	default_late	event_recovery_0.8	0	8	1
 E03_Rab		family	fastoma	default_late	merge_accuracy_pairs	0.566809	66548	1	
 E03_Rab		family	fastoma	default_late	merge_accuracy_tol1	0.825675	66548	1	
 E03_Rab		family	fastoma	default_late	spurious_dup_rate	0.0654628	443	1	
-E03_Rab		family	fastoma	default_late	orthobench_f	0.0183496	388	1	
+E03_Rab		family	fastoma	default_late	orthobench_f	0.0200661	388	1	
 E03_Rab		family	fastoma	default_late	frac_over_split	0.00498888	388	1	
 E03_Rab		family	fastoma	default_late	frac_over_merged	0.428202	66548	1	
 E03_Rab		family	fastoma	default_late	level_pair_f1_pooled	0.052383	66548	1	
@@ -941,14 +937,14 @@ E03_Rab		family	fastoma	default_late	skill_event_recovery_0.5	0.125	388	1
 E04_tubulins		family	fastoma	default_late	level_bcubed_f1	0.995268	10305	1	
 E04_tubulins		family	fastoma	default_late	merge_accuracy_node	0.785714	10305	1	
 E04_tubulins		family	fastoma	default_late	event_recovery_0.5	0	1	1	
-E04_tubulins		family	fastoma	default_late	membership_f1	0.314309	170	1	
+E04_tubulins		family	fastoma	default_late	membership_f1	0.930233	170	1	
 E04_tubulins		family	fastoma	default_late	merge_accuracy_sd_posthoc	0.857143	10305	1	
 E04_tubulins		family	fastoma	default_late	event_recovery_0.8	0	1	1	
 E04_tubulins		family	fastoma	default_late	merge_accuracy_pairs	0.998253	10305	1	
 E04_tubulins		family	fastoma	default_late	merge_accuracy_tol1	0.797619	10305	1	
 E04_tubulins		family	fastoma	default_late	spurious_dup_rate	0.112245	98	1	
-E04_tubulins		family	fastoma	default_late	membership_precision	0.187084	170	1	
-E04_tubulins		family	fastoma	default_late	membership_recall	0.982353	170	1	
+E04_tubulins		family	fastoma	default_late	membership_precision	1	170	1	
+E04_tubulins		family	fastoma	default_late	membership_recall	0.869565	170	1	
 E04_tubulins		family	fastoma	default_late	orthobench_f	0.859504	170	1	
 E04_tubulins		family	fastoma	default_late	frac_over_split	0.00174672	170	1	
 E04_tubulins		family	fastoma	default_late	frac_over_merged	0	10305	1	
@@ -958,7 +954,7 @@ E04_tubulins		family	fastoma	default_late	wf_ortholog_f1	0.869565	170	1
 E04_tubulins		family	fastoma	default_late	skill_level_bcubed_f1	0.831025	10305	1	
 E04_tubulins		family	fastoma	default_late	skill_merge_accuracy_node	0.142857	10305	1	
 E04_tubulins		family	fastoma	default_late	skill_event_recovery_0.5	0	170	1	
-E04_tubulins		family	fastoma	default_late	skill_membership_f1	-4.06815	170	1	
+E04_tubulins		family	fastoma	default_late	skill_membership_f1	0.915331	170	1	
 E05_MCM		control	fastoma	default_late	level_bcubed_f1	0.901305	6328	1	
 E05_MCM		control	fastoma	default_late	merge_accuracy_node	0.751539	6328	1	
 E05_MCM		control	fastoma	default_late	event_recovery_0.5	0	1	1	
@@ -984,15 +980,15 @@ E05_MCM		control	fastoma	default_late	skill_membership_f1	0.506062	113	1
 E06_myosins		family	fastoma	default_late	level_bcubed_f1	0.883115	8605	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_late	merge_accuracy_node	0.791201	8605	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_late	event_recovery_0.5	1	1	0	n: mapped 73% < 80%
-E06_myosins		family	fastoma	default_late	membership_f1	0.285164	220	0	n: mapped 73% < 80%
+E06_myosins		family	fastoma	default_late	membership_f1	0.521934	220	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_late	merge_accuracy_sd_posthoc	0.773602	8605	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_late	event_recovery_0.8	0	1	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_late	merge_accuracy_pairs	0.747705	8605	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_late	merge_accuracy_tol1	0.802501	8605	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_late	spurious_dup_rate	0.037037	27	0	n: mapped 73% < 80%
-E06_myosins		family	fastoma	default_late	membership_precision	0.166419	220	0	n: mapped 73% < 80%
-E06_myosins		family	fastoma	default_late	membership_recall	0.995455	220	0	n: mapped 73% < 80%
-E06_myosins		family	fastoma	default_late	orthobench_f	0.037464	220	0	n: mapped 73% < 80%
+E06_myosins		family	fastoma	default_late	membership_precision	0.362257	220	0	n: mapped 73% < 80%
+E06_myosins		family	fastoma	default_late	membership_recall	0.933333	220	0	n: mapped 73% < 80%
+E06_myosins		family	fastoma	default_late	orthobench_f	0.0832266	220	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_late	frac_over_split	0.000116212	220	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_late	frac_over_merged	0.252179	8605	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_late	level_pair_f1_pooled	0.0375802	8605	0	n: mapped 73% < 80%
@@ -1001,7 +997,7 @@ E06_myosins		family	fastoma	default_late	wf_ortholog_f1	0.033557	220	0	n: mapped
 E06_myosins		family	fastoma	default_late	skill_level_bcubed_f1	-5.70067	8605	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_late	skill_merge_accuracy_node	-0.252796	8605	0	n: mapped 73% < 80%
 E06_myosins		family	fastoma	default_late	skill_event_recovery_0.5	1	220	0	n: mapped 73% < 80%
-E06_myosins		family	fastoma	default_late	skill_membership_f1	-9.48426	220	0	n: mapped 73% < 80%
+E06_myosins		family	fastoma	default_late	skill_membership_f1	0.314956	220	0	n: mapped 73% < 80%
 E07a_adaptins_large		family	fastoma	default_late	level_bcubed_f1	0.967368	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	fastoma	default_late	merge_accuracy_node	0.592777	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	fastoma	default_late	event_recovery_0.5	0	1	0	n: mapped 72% < 80%
@@ -1010,7 +1006,7 @@ E07a_adaptins_large		family	fastoma	default_late	event_recovery_0.8	0	1	0	n: map
 E07a_adaptins_large		family	fastoma	default_late	merge_accuracy_pairs	0.985026	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	fastoma	default_late	merge_accuracy_tol1	0.592918	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	fastoma	default_late	spurious_dup_rate	0.2103	233	0	n: mapped 72% < 80%
-E07a_adaptins_large		family	fastoma	default_late	orthobench_f	0.665091	105	0	n: mapped 72% < 80%
+E07a_adaptins_large		family	fastoma	default_late	orthobench_f	0.749455	105	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	fastoma	default_late	frac_over_split	0.0128624	105	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	fastoma	default_late	frac_over_merged	0.00211173	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	fastoma	default_late	level_pair_f1_pooled	0.865158	5209	0	n: mapped 72% < 80%
@@ -1027,7 +1023,7 @@ E07b_adaptins_medium_small		family	fastoma	default_late	event_recovery_0.8	0	1	0
 E07b_adaptins_medium_small		family	fastoma	default_late	merge_accuracy_pairs	0.870143	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	fastoma	default_late	merge_accuracy_tol1	0.713298	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	fastoma	default_late	spurious_dup_rate	0.2	285	0	n: mapped 72% < 80%
-E07b_adaptins_medium_small		family	fastoma	default_late	orthobench_f	0.246439	123	0	n: mapped 72% < 80%
+E07b_adaptins_medium_small		family	fastoma	default_late	orthobench_f	0.273563	123	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	fastoma	default_late	frac_over_split	0.00996678	123	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	fastoma	default_late	frac_over_merged	0.11989	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	fastoma	default_late	level_pair_f1_pooled	0.415439	6923	0	n: mapped 72% < 80%
@@ -1044,7 +1040,7 @@ E07c_adaptins_scaffold		family	fastoma	default_late	event_recovery_0.8	0	1	1
 E07c_adaptins_scaffold		family	fastoma	default_late	merge_accuracy_pairs	0.989429	473	1	
 E07c_adaptins_scaffold		family	fastoma	default_late	merge_accuracy_tol1	0.72	473	1	
 E07c_adaptins_scaffold		family	fastoma	default_late	spurious_dup_rate	0.0512821	78	1	
-E07c_adaptins_scaffold		family	fastoma	default_late	orthobench_f	0.644048	35	1	
+E07c_adaptins_scaffold		family	fastoma	default_late	orthobench_f	0.909091	35	1	
 E07c_adaptins_scaffold		family	fastoma	default_late	frac_over_split	0.0105708	35	1	
 E07c_adaptins_scaffold		family	fastoma	default_late	frac_over_merged	0	473	1	
 E07c_adaptins_scaffold		family	fastoma	default_late	level_pair_f1_pooled	0.97093	473	1	
@@ -1056,15 +1052,15 @@ E07c_adaptins_scaffold		family	fastoma	default_late	skill_event_recovery_0.5	0	3
 E01_kinesins		family	of_flat	default	level_bcubed_f1	0.170433	30088	1	
 E01_kinesins		family	of_flat	default	merge_accuracy_node	0.71572	30088	1	
 E01_kinesins		family	of_flat	default	event_recovery_0.5	0	2	1	
-E01_kinesins		family	of_flat	default	membership_f1	0.0689925	399	1	
+E01_kinesins		family	of_flat	default	membership_f1	0.114969	399	1	
 E01_kinesins		family	of_flat	default	merge_accuracy_sd_posthoc	0.41345	30088	1	
 E01_kinesins		family	of_flat	default	event_recovery_0.8	0	2	1	
 E01_kinesins		family	of_flat	default	merge_accuracy_pairs	0.0534432	30088	1	
 E01_kinesins		family	of_flat	default	merge_accuracy_tol1	0.770725	30088	1	
 E01_kinesins		family	of_flat	default	spurious_dup_rate	0.0343137	204	1	
-E01_kinesins		family	of_flat	default	membership_precision	0.0357433	399	1	
-E01_kinesins		family	of_flat	default	membership_recall	0.988722	399	1	
-E01_kinesins		family	of_flat	default	orthobench_f	0.00656087	399	1	
+E01_kinesins		family	of_flat	default	membership_precision	0.0612683	399	1	
+E01_kinesins		family	of_flat	default	membership_recall	0.930769	399	1	
+E01_kinesins		family	of_flat	default	orthobench_f	0.0187402	399	1	
 E01_kinesins		family	of_flat	default	frac_over_split	0.000232651	399	1	
 E01_kinesins		family	of_flat	default	frac_over_merged	0.946324	30088	1	
 E01_kinesins		family	of_flat	default	level_pair_f1_pooled	0.0121966	30088	1	
@@ -1073,20 +1069,20 @@ E01_kinesins		family	of_flat	default	wf_ortholog_f1	0.00938438	399	1
 E01_kinesins		family	of_flat	default	skill_level_bcubed_f1	-13.4317	30088	1	
 E01_kinesins		family	of_flat	default	skill_merge_accuracy_node	-1.55852	30088	1	
 E01_kinesins		family	of_flat	default	skill_event_recovery_0.5	0	399	1	
-E01_kinesins		family	of_flat	default	skill_membership_f1	-4.71495	399	1	
+E01_kinesins		family	of_flat	default	skill_membership_f1	-0.150033	399	1	
 E02_ARF		family	of_flat	default	level_bcubed_f1	0.390456	28138	1	
 E02_ARF		family	of_flat	default	merge_accuracy_node	0.824148	28138	1	
 E02_ARF		family	of_flat	default	event_recovery_0.5	0	2	1	
-E02_ARF		family	of_flat	default	membership_f1	0.232869	325	1	
+E02_ARF		family	of_flat	default	membership_f1	0.257954	325	1	
 E02_ARF		family	of_flat	default	in_paralog_recovery_0.5	1	325	1	
 E02_ARF		family	of_flat	default	merge_accuracy_sd_posthoc	0.758375	28138	1	
 E02_ARF		family	of_flat	default	event_recovery_0.8	0	2	1	
 E02_ARF		family	of_flat	default	merge_accuracy_pairs	0.29629	28138	1	
 E02_ARF		family	of_flat	default	merge_accuracy_tol1	0.845585	28138	1	
 E02_ARF		family	of_flat	default	spurious_dup_rate	0.0491803	793	1	
-E02_ARF		family	of_flat	default	membership_precision	0.132486	325	1	
-E02_ARF		family	of_flat	default	membership_recall	0.961026	325	1	
-E02_ARF		family	of_flat	default	orthobench_f	0.0295453	325	1	
+E02_ARF		family	of_flat	default	membership_precision	0.149526	325	1	
+E02_ARF		family	of_flat	default	membership_recall	0.938511	325	1	
+E02_ARF		family	of_flat	default	orthobench_f	0.0490559	325	1	
 E02_ARF		family	of_flat	default	frac_over_split	0.00373161	325	1	
 E02_ARF		family	of_flat	default	frac_over_merged	0.699979	28138	1	
 E02_ARF		family	of_flat	default	level_pair_f1_pooled	0.112835	28138	1	
@@ -1095,7 +1091,7 @@ E02_ARF		family	of_flat	default	wf_ortholog_f1	0.103415	325	1
 E02_ARF		family	of_flat	default	skill_level_bcubed_f1	-0.952778	28138	1	
 E02_ARF		family	of_flat	default	skill_merge_accuracy_node	-1.374	28138	1	
 E02_ARF		family	of_flat	default	skill_event_recovery_0.5	0	325	1	
-E02_ARF		family	of_flat	default	skill_membership_f1	-0.258495	325	1	
+E02_ARF		family	of_flat	default	skill_membership_f1	0.143224	325	1	
 E03_Rab		family	of_flat	default	level_bcubed_f1	0.169171	66548	1	
 E03_Rab		family	of_flat	default	merge_accuracy_node	0.805862	66548	1	
 E03_Rab		family	of_flat	default	event_recovery_0.5	0	8	1	
@@ -1105,7 +1101,7 @@ E03_Rab		family	of_flat	default	event_recovery_0.8	0	8	1
 E03_Rab		family	of_flat	default	merge_accuracy_pairs	0.124001	66548	1	
 E03_Rab		family	of_flat	default	merge_accuracy_tol1	0.864149	66548	1	
 E03_Rab		family	of_flat	default	spurious_dup_rate	0.020316	443	1	
-E03_Rab		family	of_flat	default	orthobench_f	0.0142224	388	1	
+E03_Rab		family	of_flat	default	orthobench_f	0.0156753	388	1	
 E03_Rab		family	of_flat	default	frac_over_split	0.000510909	388	1	
 E03_Rab		family	of_flat	default	frac_over_merged	0.875488	66548	1	
 E03_Rab		family	of_flat	default	level_pair_f1_pooled	0.0246917	66548	1	
@@ -1117,13 +1113,13 @@ E03_Rab		family	of_flat	default	skill_event_recovery_0.5	0	388	1
 E04_tubulins		family	of_flat	default	level_bcubed_f1	0.129061	10305	1	
 E04_tubulins		family	of_flat	default	merge_accuracy_node	0.752762	10305	1	
 E04_tubulins		family	of_flat	default	event_recovery_0.5	0	1	1	
-E04_tubulins		family	of_flat	default	membership_f1	0.0322447	170	1	
+E04_tubulins		family	of_flat	default	membership_f1	0.082016	170	1	
 E04_tubulins		family	of_flat	default	merge_accuracy_sd_posthoc	0.505525	10305	1	
 E04_tubulins		family	of_flat	default	event_recovery_0.8	0	1	1	
 E04_tubulins		family	of_flat	default	merge_accuracy_pairs	0.0185347	10305	1	
 E04_tubulins		family	of_flat	default	merge_accuracy_tol1	0.869903	10305	1	
 E04_tubulins		family	of_flat	default	spurious_dup_rate	0	98	1	
-E04_tubulins		family	of_flat	default	membership_precision	0.0163866	170	1	
+E04_tubulins		family	of_flat	default	membership_precision	0.0427616	170	1	
 E04_tubulins		family	of_flat	default	membership_recall	1	170	1	
 E04_tubulins		family	of_flat	default	orthobench_f	0.0367437	170	1	
 E04_tubulins		family	of_flat	default	frac_over_split	0	170	1	
@@ -1134,7 +1130,7 @@ E04_tubulins		family	of_flat	default	wf_ortholog_f1	0.0161826	170	1
 E04_tubulins		family	of_flat	default	skill_level_bcubed_f1	-30.1029	10305	1	
 E04_tubulins		family	of_flat	default	skill_merge_accuracy_node	0.0110492	10305	1	
 E04_tubulins		family	of_flat	default	skill_event_recovery_0.5	0	170	1	
-E04_tubulins		family	of_flat	default	skill_membership_f1	-6.15297	170	1	
+E04_tubulins		family	of_flat	default	skill_membership_f1	-0.11405	170	1	
 E05_MCM		control	of_flat	default	level_bcubed_f1	0.358324	6328	1	
 E05_MCM		control	of_flat	default	merge_accuracy_node	0.909091	6328	1	
 E05_MCM		control	of_flat	default	event_recovery_0.5	0	1	1	
@@ -1160,15 +1156,15 @@ E05_MCM		control	of_flat	default	skill_membership_f1	0.97734	113	1
 E06_myosins		family	of_flat	default	level_bcubed_f1	0.274806	8605	0	n: mapped 73% < 80%
 E06_myosins		family	of_flat	default	merge_accuracy_node	0.841216	8605	0	n: mapped 73% < 80%
 E06_myosins		family	of_flat	default	event_recovery_0.5	0	1	0	n: mapped 73% < 80%
-E06_myosins		family	of_flat	default	membership_f1	0.0254543	220	0	n: mapped 73% < 80%
+E06_myosins		family	of_flat	default	membership_f1	0.0849655	220	0	n: mapped 73% < 80%
 E06_myosins		family	of_flat	default	merge_accuracy_sd_posthoc	0.523649	8605	0	n: mapped 73% < 80%
 E06_myosins		family	of_flat	default	event_recovery_0.8	0	1	0	n: mapped 73% < 80%
 E06_myosins		family	of_flat	default	merge_accuracy_pairs	0.0496223	8605	0	n: mapped 73% < 80%
 E06_myosins		family	of_flat	default	merge_accuracy_tol1	0.900027	8605	0	n: mapped 73% < 80%
 E06_myosins		family	of_flat	default	spurious_dup_rate	0	27	0	n: mapped 73% < 80%
-E06_myosins		family	of_flat	default	membership_precision	0.0128912	220	0	n: mapped 73% < 80%
+E06_myosins		family	of_flat	default	membership_precision	0.0443676	220	0	n: mapped 73% < 80%
 E06_myosins		family	of_flat	default	membership_recall	1	220	0	n: mapped 73% < 80%
-E06_myosins		family	of_flat	default	orthobench_f	0.00733676	220	0	n: mapped 73% < 80%
+E06_myosins		family	of_flat	default	orthobench_f	0.020842	220	0	n: mapped 73% < 80%
 E06_myosins		family	of_flat	default	frac_over_split	0	220	0	n: mapped 73% < 80%
 E06_myosins		family	of_flat	default	frac_over_merged	0.950378	8605	0	n: mapped 73% < 80%
 E06_myosins		family	of_flat	default	level_pair_f1_pooled	0.010181	8605	0	n: mapped 73% < 80%
@@ -1177,7 +1173,7 @@ E06_myosins		family	of_flat	default	wf_ortholog_f1	0.00545596	220	0	n: mapped 73
 E06_myosins		family	of_flat	default	skill_level_bcubed_f1	-40.5732	8605	0	n: mapped 73% < 80%
 E06_myosins		family	of_flat	default	skill_merge_accuracy_node	0.0472973	8605	0	n: mapped 73% < 80%
 E06_myosins		family	of_flat	default	skill_event_recovery_0.5	0	220	0	n: mapped 73% < 80%
-E06_myosins		family	of_flat	default	skill_membership_f1	-13.2933	220	0	n: mapped 73% < 80%
+E06_myosins		family	of_flat	default	skill_membership_f1	-0.311198	220	0	n: mapped 73% < 80%
 E07a_adaptins_large		family	of_flat	default	level_bcubed_f1	0.754779	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	of_flat	default	merge_accuracy_node	0.864288	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	of_flat	default	event_recovery_0.5	0	1	0	n: mapped 72% < 80%
@@ -1186,7 +1182,7 @@ E07a_adaptins_large		family	of_flat	default	event_recovery_0.8	0	1	0	n: mapped 7
 E07a_adaptins_large		family	of_flat	default	merge_accuracy_pairs	0.905164	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	of_flat	default	merge_accuracy_tol1	0.867566	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	of_flat	default	spurious_dup_rate	0.0472103	233	0	n: mapped 72% < 80%
-E07a_adaptins_large		family	of_flat	default	orthobench_f	0.31275	105	0	n: mapped 72% < 80%
+E07a_adaptins_large		family	of_flat	default	orthobench_f	0.325536	105	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	of_flat	default	frac_over_split	0.00249568	105	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	of_flat	default	frac_over_merged	0.0923402	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	of_flat	default	level_pair_f1_pooled	0.482391	5209	0	n: mapped 72% < 80%
@@ -1203,7 +1199,7 @@ E07b_adaptins_medium_small		family	of_flat	default	event_recovery_0.8	0	1	0	n: m
 E07b_adaptins_medium_small		family	of_flat	default	merge_accuracy_pairs	0.873899	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	of_flat	default	merge_accuracy_tol1	0.854913	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	of_flat	default	spurious_dup_rate	0.0596491	285	0	n: mapped 72% < 80%
-E07b_adaptins_medium_small		family	of_flat	default	orthobench_f	0.25629	123	0	n: mapped 72% < 80%
+E07b_adaptins_medium_small		family	of_flat	default	orthobench_f	0.2835	123	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	of_flat	default	frac_over_split	0.0072223	123	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	of_flat	default	frac_over_merged	0.118879	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	of_flat	default	level_pair_f1_pooled	0.374368	6923	0	n: mapped 72% < 80%
@@ -1220,7 +1216,7 @@ E07c_adaptins_scaffold		family	of_flat	default	event_recovery_0.8	0	1	1
 E07c_adaptins_scaffold		family	of_flat	default	merge_accuracy_pairs	0.871036	473	1	
 E07c_adaptins_scaffold		family	of_flat	default	merge_accuracy_tol1	0.70593	473	1	
 E07c_adaptins_scaffold		family	of_flat	default	spurious_dup_rate	0.0512821	78	1	
-E07c_adaptins_scaffold		family	of_flat	default	orthobench_f	0.394505	35	1	
+E07c_adaptins_scaffold		family	of_flat	default	orthobench_f	0.493827	35	1	
 E07c_adaptins_scaffold		family	of_flat	default	frac_over_split	0.0105708	35	1	
 E07c_adaptins_scaffold		family	of_flat	default	frac_over_merged	0.118393	473	1	
 E07c_adaptins_scaffold		family	of_flat	default	level_pair_f1_pooled	0.726087	473	1	
@@ -1232,15 +1228,15 @@ E07c_adaptins_scaffold		family	of_flat	default	skill_event_recovery_0.5	0	35	1
 E01_kinesins		family	orthofinder	default	level_bcubed_f1	0.985314	30088	1	
 E01_kinesins		family	orthofinder	default	merge_accuracy_node	0.515195	30088	1	
 E01_kinesins		family	orthofinder	default	event_recovery_0.5	0.5	2	1	
-E01_kinesins		family	orthofinder	default	membership_f1	0.434121	399	1	
+E01_kinesins		family	orthofinder	default	membership_f1	0.791682	399	1	
 E01_kinesins		family	orthofinder	default	merge_accuracy_sd_posthoc	0.727231	30088	1	
 E01_kinesins		family	orthofinder	default	event_recovery_0.8	0	2	1	
 E01_kinesins		family	orthofinder	default	merge_accuracy_pairs	0.998139	30088	1	
 E01_kinesins		family	orthofinder	default	merge_accuracy_tol1	0.598971	30088	1	
 E01_kinesins		family	orthofinder	default	spurious_dup_rate	0.147059	204	1	
-E01_kinesins		family	orthofinder	default	membership_precision	0.28094	399	1	
-E01_kinesins		family	orthofinder	default	membership_recall	0.954619	399	1	
-E01_kinesins		family	orthofinder	default	orthobench_f	0.235894	399	1	
+E01_kinesins		family	orthofinder	default	membership_precision	0.877094	399	1	
+E01_kinesins		family	orthofinder	default	membership_recall	0.721429	399	1	
+E01_kinesins		family	orthofinder	default	orthobench_f	0.568714	399	1	
 E01_kinesins		family	orthofinder	default	frac_over_split	0.00156208	399	1	
 E01_kinesins		family	orthofinder	default	frac_over_merged	0.000299123	30088	1	
 E01_kinesins		family	orthofinder	default	level_pair_f1_pooled	0.889296	30088	1	
@@ -1249,20 +1245,20 @@ E01_kinesins		family	orthofinder	default	wf_ortholog_f1	0.755556	399	1
 E01_kinesins		family	orthofinder	default	skill_level_bcubed_f1	0.744512	30088	1	
 E01_kinesins		family	orthofinder	default	skill_merge_accuracy_node	-3.36325	30088	1	
 E01_kinesins		family	orthofinder	default	skill_event_recovery_0.5	0.5	399	1	
-E01_kinesins		family	orthofinder	default	skill_membership_f1	-2.47363	399	1	
+E01_kinesins		family	orthofinder	default	skill_membership_f1	0.729306	399	1	
 E02_ARF		family	orthofinder	default	level_bcubed_f1	0.955611	28138	1	
 E02_ARF		family	orthofinder	default	merge_accuracy_node	0.716549	28138	1	
 E02_ARF		family	orthofinder	default	event_recovery_0.5	0	2	1	
-E02_ARF		family	orthofinder	default	membership_f1	0.68314	325	1	
+E02_ARF		family	orthofinder	default	membership_f1	0.842039	325	1	
 E02_ARF		family	orthofinder	default	in_paralog_recovery_0.5	1	325	1	
 E02_ARF		family	orthofinder	default	merge_accuracy_sd_posthoc	0.748731	28138	1	
 E02_ARF		family	orthofinder	default	event_recovery_0.8	0	2	1	
 E02_ARF		family	orthofinder	default	merge_accuracy_pairs	0.986424	28138	1	
 E02_ARF		family	orthofinder	default	merge_accuracy_tol1	0.766825	28138	1	
 E02_ARF		family	orthofinder	default	spurious_dup_rate	0.116015	793	1	
-E02_ARF		family	orthofinder	default	membership_precision	0.56366	325	1	
-E02_ARF		family	orthofinder	default	membership_recall	0.866897	325	1	
-E02_ARF		family	orthofinder	default	orthobench_f	0.442599	325	1	
+E02_ARF		family	orthofinder	default	membership_precision	0.901406	325	1	
+E02_ARF		family	orthofinder	default	membership_recall	0.790008	325	1	
+E02_ARF		family	orthofinder	default	orthobench_f	0.689998	325	1	
 E02_ARF		family	orthofinder	default	frac_over_split	0.0128296	325	1	
 E02_ARF		family	orthofinder	default	frac_over_merged	0.000746322	28138	1	
 E02_ARF		family	orthofinder	default	level_pair_f1_pooled	0.883861	28138	1	
@@ -1271,7 +1267,7 @@ E02_ARF		family	orthofinder	default	wf_ortholog_f1	0.844317	325	1
 E02_ARF		family	orthofinder	default	skill_level_bcubed_f1	0.857792	28138	1	
 E02_ARF		family	orthofinder	default	skill_merge_accuracy_node	-2.82659	28138	1	
 E02_ARF		family	orthofinder	default	skill_event_recovery_0.5	0	325	1	
-E02_ARF		family	orthofinder	default	skill_membership_f1	0.480184	325	1	
+E02_ARF		family	orthofinder	default	skill_membership_f1	0.817616	325	1	
 E03_Rab		family	orthofinder	default	level_bcubed_f1	0.97149	66548	1	
 E03_Rab		family	orthofinder	default	merge_accuracy_node	0.825922	66548	1	
 E03_Rab		family	orthofinder	default	event_recovery_0.5	0.5	8	1	
@@ -1281,7 +1277,7 @@ E03_Rab		family	orthofinder	default	event_recovery_0.8	0.125	8	1
 E03_Rab		family	orthofinder	default	merge_accuracy_pairs	0.995808	66548	1	
 E03_Rab		family	orthofinder	default	merge_accuracy_tol1	0.868574	66548	1	
 E03_Rab		family	orthofinder	default	spurious_dup_rate	0.0609481	443	1	
-E03_Rab		family	orthofinder	default	orthobench_f	0.36852	388	1	
+E03_Rab		family	orthofinder	default	orthobench_f	0.798157	388	1	
 E03_Rab		family	orthofinder	default	frac_over_split	0.00276492	388	1	
 E03_Rab		family	orthofinder	default	frac_over_merged	0.00142754	66548	1	
 E03_Rab		family	orthofinder	default	level_pair_f1_pooled	0.870637	66548	1	
@@ -1293,14 +1289,14 @@ E03_Rab		family	orthofinder	default	skill_event_recovery_0.5	0.5	388	1
 E04_tubulins		family	orthofinder	default	level_bcubed_f1	0.999364	10305	1	
 E04_tubulins		family	orthofinder	default	merge_accuracy_node	0.928571	10305	1	
 E04_tubulins		family	orthofinder	default	event_recovery_0.5	1	1	1	
-E04_tubulins		family	orthofinder	default	membership_f1	0.319956	170	1	
+E04_tubulins		family	orthofinder	default	membership_f1	0.977778	170	1	
 E04_tubulins		family	orthofinder	default	merge_accuracy_sd_posthoc	0.952381	10305	1	
 E04_tubulins		family	orthofinder	default	event_recovery_0.8	0	1	1	
 E04_tubulins		family	orthofinder	default	merge_accuracy_pairs	0.999418	10305	1	
 E04_tubulins		family	orthofinder	default	merge_accuracy_tol1	0.97619	10305	1	
 E04_tubulins		family	orthofinder	default	spurious_dup_rate	0.0204082	98	1	
-E04_tubulins		family	orthofinder	default	membership_precision	0.19066	170	1	
-E04_tubulins		family	orthofinder	default	membership_recall	0.994118	170	1	
+E04_tubulins		family	orthofinder	default	membership_precision	1	170	1	
+E04_tubulins		family	orthofinder	default	membership_recall	0.956522	170	1	
 E04_tubulins		family	orthofinder	default	orthobench_f	0.954545	170	1	
 E04_tubulins		family	orthofinder	default	frac_over_split	0.000582242	170	1	
 E04_tubulins		family	orthofinder	default	frac_over_merged	0	10305	1	
@@ -1310,7 +1306,7 @@ E04_tubulins		family	orthofinder	default	wf_ortholog_f1	0.96	170	1
 E04_tubulins		family	orthofinder	default	skill_level_bcubed_f1	0.977276	10305	1	
 E04_tubulins		family	orthofinder	default	skill_merge_accuracy_node	0.714286	10305	1	
 E04_tubulins		family	orthofinder	default	skill_event_recovery_0.5	1	170	1	
-E04_tubulins		family	orthofinder	default	skill_membership_f1	-4.02641	170	1	
+E04_tubulins		family	orthofinder	default	skill_membership_f1	0.973031	170	1	
 E05_MCM		control	orthofinder	default	level_bcubed_f1	1	6328	1	
 E05_MCM		control	orthofinder	default	merge_accuracy_node	1	6328	1	
 E05_MCM		control	orthofinder	default	event_recovery_0.5	1	1	1	
@@ -1336,15 +1332,15 @@ E05_MCM		control	orthofinder	default	skill_membership_f1	0.97734	113	1
 E06_myosins		family	orthofinder	default	level_bcubed_f1	0.999779	8605	0	n: mapped 73% < 80%
 E06_myosins		family	orthofinder	default	merge_accuracy_node	0.833333	8605	0	n: mapped 73% < 80%
 E06_myosins		family	orthofinder	default	event_recovery_0.5	1	1	0	n: mapped 73% < 80%
-E06_myosins		family	orthofinder	default	membership_f1	0.177174	220	0	n: mapped 73% < 80%
+E06_myosins		family	orthofinder	default	membership_f1	0.844673	220	0	n: mapped 73% < 80%
 E06_myosins		family	orthofinder	default	merge_accuracy_sd_posthoc	0.9	8605	0	n: mapped 73% < 80%
 E06_myosins		family	orthofinder	default	event_recovery_0.8	1	1	0	n: mapped 73% < 80%
 E06_myosins		family	orthofinder	default	merge_accuracy_pairs	0.999884	8605	0	n: mapped 73% < 80%
 E06_myosins		family	orthofinder	default	merge_accuracy_tol1	1	8605	0	n: mapped 73% < 80%
 E06_myosins		family	orthofinder	default	spurious_dup_rate	0.037037	27	0	n: mapped 73% < 80%
-E06_myosins		family	orthofinder	default	membership_precision	0.0971976	220	0	n: mapped 73% < 80%
+E06_myosins		family	orthofinder	default	membership_precision	0.731111	220	0	n: mapped 73% < 80%
 E06_myosins		family	orthofinder	default	membership_recall	1	220	0	n: mapped 73% < 80%
-E06_myosins		family	orthofinder	default	orthobench_f	0.0887574	220	0	n: mapped 73% < 80%
+E06_myosins		family	orthofinder	default	orthobench_f	0.508475	220	0	n: mapped 73% < 80%
 E06_myosins		family	orthofinder	default	frac_over_split	0.000116212	220	0	n: mapped 73% < 80%
 E06_myosins		family	orthofinder	default	frac_over_merged	0	8605	0	n: mapped 73% < 80%
 E06_myosins		family	orthofinder	default	level_pair_f1_pooled	0.996516	8605	0	n: mapped 73% < 80%
@@ -1353,7 +1349,7 @@ E06_myosins		family	orthofinder	default	wf_ortholog_f1	0.97561	220	0	n: mapped 7
 E06_myosins		family	orthofinder	default	skill_level_bcubed_f1	0.987303	8605	0	n: mapped 73% < 80%
 E06_myosins		family	orthofinder	default	skill_merge_accuracy_node	0	8605	0	n: mapped 73% < 80%
 E06_myosins		family	orthofinder	default	skill_event_recovery_0.5	1	220	0	n: mapped 73% < 80%
-E06_myosins		family	orthofinder	default	skill_membership_f1	-11.0681	220	0	n: mapped 73% < 80%
+E06_myosins		family	orthofinder	default	skill_membership_f1	0.777424	220	0	n: mapped 73% < 80%
 E07a_adaptins_large		family	orthofinder	default	level_bcubed_f1	0.982936	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	orthofinder	default	merge_accuracy_node	0.753768	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	orthofinder	default	event_recovery_0.5	0	1	0	n: mapped 72% < 80%
@@ -1362,7 +1358,7 @@ E07a_adaptins_large		family	orthofinder	default	event_recovery_0.8	0	1	0	n: mapp
 E07a_adaptins_large		family	orthofinder	default	merge_accuracy_pairs	0.992129	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	orthofinder	default	merge_accuracy_tol1	0.805097	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	orthofinder	default	spurious_dup_rate	0.107296	233	0	n: mapped 72% < 80%
-E07a_adaptins_large		family	orthofinder	default	orthobench_f	0.782954	105	0	n: mapped 72% < 80%
+E07a_adaptins_large		family	orthofinder	default	orthobench_f	0.867793	105	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	orthofinder	default	frac_over_split	0.00691112	105	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	orthofinder	default	frac_over_merged	0.000959877	5209	0	n: mapped 72% < 80%
 E07a_adaptins_large		family	orthofinder	default	level_pair_f1_pooled	0.938462	5209	0	n: mapped 72% < 80%
@@ -1379,7 +1375,7 @@ E07b_adaptins_medium_small		family	orthofinder	default	event_recovery_0.8	0	1	0	
 E07b_adaptins_medium_small		family	orthofinder	default	merge_accuracy_pairs	0.979922	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	orthofinder	default	merge_accuracy_tol1	0.805526	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	orthofinder	default	spurious_dup_rate	0.168421	285	0	n: mapped 72% < 80%
-E07b_adaptins_medium_small		family	orthofinder	default	orthobench_f	0.610278	123	0	n: mapped 72% < 80%
+E07b_adaptins_medium_small		family	orthofinder	default	orthobench_f	0.707633	123	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	orthofinder	default	frac_over_split	0.0163224	123	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	orthofinder	default	frac_over_merged	0.0037556	6923	0	n: mapped 72% < 80%
 E07b_adaptins_medium_small		family	orthofinder	default	level_pair_f1_pooled	0.797574	6923	0	n: mapped 72% < 80%
@@ -1396,7 +1392,7 @@ E07c_adaptins_scaffold		family	orthofinder	default	event_recovery_0.8	0	1	1
 E07c_adaptins_scaffold		family	orthofinder	default	merge_accuracy_pairs	0.983087	473	1	
 E07c_adaptins_scaffold		family	orthofinder	default	merge_accuracy_tol1	0.68	473	1	
 E07c_adaptins_scaffold		family	orthofinder	default	spurious_dup_rate	0.0769231	78	1	
-E07c_adaptins_scaffold		family	orthofinder	default	orthobench_f	0.588302	35	1	
+E07c_adaptins_scaffold		family	orthofinder	default	orthobench_f	0.870588	35	1	
 E07c_adaptins_scaffold		family	orthofinder	default	frac_over_split	0.0169133	35	1	
 E07c_adaptins_scaffold		family	orthofinder	default	frac_over_merged	0	473	1	
 E07c_adaptins_scaffold		family	orthofinder	default	level_pair_f1_pooled	0.955752	473	1	
