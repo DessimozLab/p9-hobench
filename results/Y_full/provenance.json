@@ -1,6 +1,6 @@
 {
  "hobench_git": {
-  "commit": "c304c5e4b8ccb16cc25f9eb8601102d936444e4d",
+  "commit": "99ae1366718d19ae385d6fce7e708987b3820222",
   "dirty": true
  },
  "script": "scripts/evaluate_panel.py",
@@ -8,7 +8,7 @@
  "mode": "full",
  "panel_tree_sha256": "35f3d1c80fe1ee4fa800fe0bb21e1d14dbdd92f59426b098e329c765c881a8be",
  "panel_species_tsv_sha256": "18dbc4899d1eb933bbb59d152daa069bd3afa3ad83518d530864f784d4cac4b7",
- "families_tree_hash": "8c1d8bb8a7fc9cc285e320dccf01ec941a518c7dc7023833b084b539ce190187",
+ "families_tree_hash": "6a93f4150bb298fdd9cac99e1fab02f47624ba5241a58e2b8d5c5b19597a2f74",
  "families_manifest_present": true,
  "families_manifest_differences": [],
  "n_families": 1977,
@@ -65,6 +65,48 @@
      "dup_placement_ambiguous": 327
     },
     "dup_placement_ambiguous": 327,
+    "unknown_species": []
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "fastoma/rep2_declared": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/fastoma_rep2",
+   "prediction_sha256": "d35853a98b5df4e9504c81ca9cdc7daeda9f9ed84410bd35048e3e0a57214946",
+   "manifest_sha256": "1d87403fd727d27db4d11195b900a255fd9541a471c6ba6b7cf81be657d005b6",
+   "manifest_git_commit": "e9cd7f5531679b59f199f5e028f0c350183a7af2",
+   "prediction_meta": {
+    "format": "orthoxml",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/fastoma_rep2/FastOMA_HOGs.orthoxml.gz",
+    "dup_placement": "declared",
+    "level_mapping": "clade sets from /scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/fastoma_rep2/species_tree_checked.nwk",
+    "stats": {
+     "hogs": 78929,
+     "dup_placement_ambiguous": 320
+    },
+    "dup_placement_ambiguous": 320,
+    "unknown_species": []
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "fastoma/rep2_late": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/fastoma_rep2",
+   "prediction_sha256": "d35853a98b5df4e9504c81ca9cdc7daeda9f9ed84410bd35048e3e0a57214946",
+   "manifest_sha256": "1d87403fd727d27db4d11195b900a255fd9541a471c6ba6b7cf81be657d005b6",
+   "manifest_git_commit": "e9cd7f5531679b59f199f5e028f0c350183a7af2",
+   "prediction_meta": {
+    "format": "orthoxml",
+    "source": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/fastoma_rep2/FastOMA_HOGs.orthoxml.gz",
+    "dup_placement": "late",
+    "level_mapping": "clade sets from /scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/fastoma_rep2/species_tree_checked.nwk",
+    "stats": {
+     "hogs": 77889,
+     "dup_placement_ambiguous": 320
+    },
+    "dup_placement_ambiguous": 320,
     "unknown_species": []
    },
    "n_warnings": 0,
@@ -160,6 +202,40 @@
     },
     "unmatched_of_nodes": [],
     "root_from_orthogroups": "/tmp/hobench_eval_cache/Y/full/orthofinder_dendroblast/Orthogroups/Orthogroups.tsv",
+    "n_hogs_not_nested_in_og": 0,
+    "induced_levels": {}
+   },
+   "n_warnings": 0,
+   "nesting_problems": 0,
+   "n_genes_dropped_not_in_reference": null
+  },
+  "orthofinder/rep2": {
+   "run_dir": "/scratch/nromashc/agentic-ai/workspaces/mywork/runs/Y/full/orthofinder_rep2",
+   "prediction_sha256": "c7df1c239cf489d677ea5f38122a8dc52adbc934d2ae0579e863f6214b64c4d6",
+   "manifest_sha256": "fe01649ef6f1e3f99cd0194f21c963f0abea579d8de101f39e66771b20e08eac",
+   "manifest_git_commit": "24c82b000f36d7b5a0104ab7fe2721e24fa4ef53",
+   "prediction_meta": {
+    "format": "orthofinder",
+    "source": "/tmp/hobench_eval_cache/Y/full/orthofinder_rep2/Phylogenetic_Hierarchical_Orthogroups",
+    "of_to_ours": {
+     "N9": "Eremothecium",
+     "N6": "Kluyveromyces_Eremothecium",
+     "N4": "KLE_clade",
+     "N7": "ZT_clade",
+     "N14": "Naumovozyma",
+     "N12": "Naumovozyma_Kazachstania",
+     "N13": "Saccharomyces_Nakaseomyces",
+     "N10": "PostWGD_crown",
+     "N11": "Vanderwaltozyma_Tetrapisispora",
+     "N8": "PostWGD",
+     "N5": "ZT_PostWGD",
+     "N3": "Saccharomycetaceae",
+     "N2": "CUG_Saccharomycetaceae",
+     "N1": "Saccharomycotina",
+     "N0": "Ascomycota"
+    },
+    "unmatched_of_nodes": [],
+    "root_from_orthogroups": "/tmp/hobench_eval_cache/Y/full/orthofinder_rep2/Orthogroups/Orthogroups.tsv",
     "n_hogs_not_nested_in_og": 0,
     "induced_levels": {}
    },

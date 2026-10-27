@@ -197,6 +197,72 @@ control	fastoma	default_late	tool	skill_membership_f1				0
 control	fastoma	default_late	tool	in_paralog_recovery_0.5				0		
 control	fastoma	default_late	tool	merge_accuracy_sd_posthoc				0		
 control	fastoma	default_late	tool	event_recovery_0.8				0		
+headline	fastoma	rep2_declared	tool	level_bcubed_f1	0.919748	0.872835	0.966661	2		
+headline	fastoma	rep2_declared	tool	merge_accuracy_node	0.941669	0.899211	0.984127	2		
+headline	fastoma	rep2_declared	tool	event_recovery_0.5	0.134328	0	0.268657	2		
+headline	fastoma	rep2_declared	tool	membership_f1				0		
+headline	fastoma	rep2_declared	tool	skill_level_bcubed_f1	0.469373	0.411202	0.527545	2		
+headline	fastoma	rep2_declared	tool	skill_merge_accuracy_node	0.631715	0.374542	0.888889	2		
+headline	fastoma	rep2_declared	tool	skill_event_recovery_0.5	0.134328	0	0.268657	2		
+headline	fastoma	rep2_declared	tool	skill_membership_f1				0		
+headline	fastoma	rep2_declared	tool	in_paralog_recovery_0.5				0		
+headline	fastoma	rep2_declared	tool	merge_accuracy_sd_posthoc	0.754783	0.754783	0.754783	1		
+headline	fastoma	rep2_declared	tool	event_recovery_0.8	0.134328	0	0.268657	2		
+noncontrol_all	fastoma	rep2_declared	tool	level_bcubed_f1	0.919748	0.872835	0.966661	2		
+noncontrol_all	fastoma	rep2_declared	tool	merge_accuracy_node	0.941669	0.899211	0.984127	2		
+noncontrol_all	fastoma	rep2_declared	tool	event_recovery_0.5	0.134328	0	0.268657	2		
+noncontrol_all	fastoma	rep2_declared	tool	membership_f1				0		
+noncontrol_all	fastoma	rep2_declared	tool	skill_level_bcubed_f1	0.469373	0.411202	0.527545	2		
+noncontrol_all	fastoma	rep2_declared	tool	skill_merge_accuracy_node	0.631715	0.374542	0.888889	2		
+noncontrol_all	fastoma	rep2_declared	tool	skill_event_recovery_0.5	0.134328	0	0.268657	2		
+noncontrol_all	fastoma	rep2_declared	tool	skill_membership_f1				0		
+noncontrol_all	fastoma	rep2_declared	tool	in_paralog_recovery_0.5				0		
+noncontrol_all	fastoma	rep2_declared	tool	merge_accuracy_sd_posthoc	0.754783	0.754783	0.754783	1		
+noncontrol_all	fastoma	rep2_declared	tool	event_recovery_0.8	0.134328	0	0.268657	2		
+control	fastoma	rep2_declared	tool	level_bcubed_f1				0		
+control	fastoma	rep2_declared	tool	merge_accuracy_node				0		
+control	fastoma	rep2_declared	tool	event_recovery_0.5				0		
+control	fastoma	rep2_declared	tool	membership_f1				0		
+control	fastoma	rep2_declared	tool	skill_level_bcubed_f1				0		
+control	fastoma	rep2_declared	tool	skill_merge_accuracy_node				0		
+control	fastoma	rep2_declared	tool	skill_event_recovery_0.5				0		
+control	fastoma	rep2_declared	tool	skill_membership_f1				0		
+control	fastoma	rep2_declared	tool	in_paralog_recovery_0.5				0		
+control	fastoma	rep2_declared	tool	merge_accuracy_sd_posthoc				0		
+control	fastoma	rep2_declared	tool	event_recovery_0.8				0		
+headline	fastoma	rep2_late	tool	level_bcubed_f1	0.919678	0.872835	0.96652	2		
+headline	fastoma	rep2_late	tool	merge_accuracy_node	0.94135	0.898574	0.984127	2		
+headline	fastoma	rep2_late	tool	event_recovery_0.5	0.139303	0	0.278607	2		
+headline	fastoma	rep2_late	tool	membership_f1				0		
+headline	fastoma	rep2_late	tool	skill_level_bcubed_f1	0.467339	0.411202	0.523476	2		
+headline	fastoma	rep2_late	tool	skill_merge_accuracy_node	0.627267	0.365645	0.888889	2		
+headline	fastoma	rep2_late	tool	skill_event_recovery_0.5	0.139303	0	0.278607	2		
+headline	fastoma	rep2_late	tool	skill_membership_f1				0		
+headline	fastoma	rep2_late	tool	in_paralog_recovery_0.5				0		
+headline	fastoma	rep2_late	tool	merge_accuracy_sd_posthoc	0.753044	0.753044	0.753044	1		
+headline	fastoma	rep2_late	tool	event_recovery_0.8	0.139303	0	0.278607	2		
+noncontrol_all	fastoma	rep2_late	tool	level_bcubed_f1	0.919678	0.872835	0.96652	2		
+noncontrol_all	fastoma	rep2_late	tool	merge_accuracy_node	0.94135	0.898574	0.984127	2		
+noncontrol_all	fastoma	rep2_late	tool	event_recovery_0.5	0.139303	0	0.278607	2		
+noncontrol_all	fastoma	rep2_late	tool	membership_f1				0		
+noncontrol_all	fastoma	rep2_late	tool	skill_level_bcubed_f1	0.467339	0.411202	0.523476	2		
+noncontrol_all	fastoma	rep2_late	tool	skill_merge_accuracy_node	0.627267	0.365645	0.888889	2		
+noncontrol_all	fastoma	rep2_late	tool	skill_event_recovery_0.5	0.139303	0	0.278607	2		
+noncontrol_all	fastoma	rep2_late	tool	skill_membership_f1				0		
+noncontrol_all	fastoma	rep2_late	tool	in_paralog_recovery_0.5				0		
+noncontrol_all	fastoma	rep2_late	tool	merge_accuracy_sd_posthoc	0.753044	0.753044	0.753044	1		
+noncontrol_all	fastoma	rep2_late	tool	event_recovery_0.8	0.139303	0	0.278607	2		
+control	fastoma	rep2_late	tool	level_bcubed_f1				0		
+control	fastoma	rep2_late	tool	merge_accuracy_node				0		
+control	fastoma	rep2_late	tool	event_recovery_0.5				0		
+control	fastoma	rep2_late	tool	membership_f1				0		
+control	fastoma	rep2_late	tool	skill_level_bcubed_f1				0		
+control	fastoma	rep2_late	tool	skill_merge_accuracy_node				0		
+control	fastoma	rep2_late	tool	skill_event_recovery_0.5				0		
+control	fastoma	rep2_late	tool	skill_membership_f1				0		
+control	fastoma	rep2_late	tool	in_paralog_recovery_0.5				0		
+control	fastoma	rep2_late	tool	merge_accuracy_sd_posthoc				0		
+control	fastoma	rep2_late	tool	event_recovery_0.8				0		
 headline	of_flat	default	tool	level_bcubed_f1	0.789672	0.615239	0.964105	2		
 headline	of_flat	default	tool	merge_accuracy_node	0.871942	0.857143	0.886742	2		
 headline	of_flat	default	tool	event_recovery_0.5	0.00746269	0	0.0149254	2		
@@ -329,6 +395,39 @@ control	orthofinder	dendroblast	tool	skill_membership_f1				0
 control	orthofinder	dendroblast	tool	in_paralog_recovery_0.5				0		
 control	orthofinder	dendroblast	tool	merge_accuracy_sd_posthoc				0		
 control	orthofinder	dendroblast	tool	event_recovery_0.8				0		
+headline	orthofinder	rep2	tool	level_bcubed_f1	0.927503	0.877842	0.977164	2		
+headline	orthofinder	rep2	tool	merge_accuracy_node	0.878715	0.857143	0.900288	2		
+headline	orthofinder	rep2	tool	event_recovery_0.5	0.0597015	0	0.119403	2		
+headline	orthofinder	rep2	tool	membership_f1				0		
+headline	orthofinder	rep2	tool	skill_level_bcubed_f1	0.425487	0.416586	0.434388	2		
+headline	orthofinder	rep2	tool	skill_merge_accuracy_node	0.0314348	0	0.0628697	2		
+headline	orthofinder	rep2	tool	skill_event_recovery_0.5	0.0597015	0	0.119403	2		
+headline	orthofinder	rep2	tool	skill_membership_f1				0		
+headline	orthofinder	rep2	tool	in_paralog_recovery_0.5				0		
+headline	orthofinder	rep2	tool	merge_accuracy_sd_posthoc	0.596451	0.596451	0.596451	1		
+headline	orthofinder	rep2	tool	event_recovery_0.8	0.0597015	0	0.119403	2		
+noncontrol_all	orthofinder	rep2	tool	level_bcubed_f1	0.927503	0.877842	0.977164	2		
+noncontrol_all	orthofinder	rep2	tool	merge_accuracy_node	0.878715	0.857143	0.900288	2		
+noncontrol_all	orthofinder	rep2	tool	event_recovery_0.5	0.0597015	0	0.119403	2		
+noncontrol_all	orthofinder	rep2	tool	membership_f1				0		
+noncontrol_all	orthofinder	rep2	tool	skill_level_bcubed_f1	0.425487	0.416586	0.434388	2		
+noncontrol_all	orthofinder	rep2	tool	skill_merge_accuracy_node	0.0314348	0	0.0628697	2		
+noncontrol_all	orthofinder	rep2	tool	skill_event_recovery_0.5	0.0597015	0	0.119403	2		
+noncontrol_all	orthofinder	rep2	tool	skill_membership_f1				0		
+noncontrol_all	orthofinder	rep2	tool	in_paralog_recovery_0.5				0		
+noncontrol_all	orthofinder	rep2	tool	merge_accuracy_sd_posthoc	0.596451	0.596451	0.596451	1		
+noncontrol_all	orthofinder	rep2	tool	event_recovery_0.8	0.0597015	0	0.119403	2		
+control	orthofinder	rep2	tool	level_bcubed_f1				0		
+control	orthofinder	rep2	tool	merge_accuracy_node				0		
+control	orthofinder	rep2	tool	event_recovery_0.5				0		
+control	orthofinder	rep2	tool	membership_f1				0		
+control	orthofinder	rep2	tool	skill_level_bcubed_f1				0		
+control	orthofinder	rep2	tool	skill_merge_accuracy_node				0		
+control	orthofinder	rep2	tool	skill_event_recovery_0.5				0		
+control	orthofinder	rep2	tool	skill_membership_f1				0		
+control	orthofinder	rep2	tool	in_paralog_recovery_0.5				0		
+control	orthofinder	rep2	tool	merge_accuracy_sd_posthoc				0		
+control	orthofinder	rep2	tool	event_recovery_0.8				0		
 headline	random_relabel	seeds10	control	level_bcubed_f1	0.694451				0.692366	0.694716
 headline	random_relabel	seeds10	control	merge_accuracy_node	0.128581				0.127503	0.128844
 headline	random_relabel	seeds10	control	event_recovery_0.5	0				0	0
@@ -341,7 +440,10 @@ noncontrol_all	random_relabel	seeds10	control	merge_accuracy_sd_posthoc	0.500294
 noncontrol_all	random_relabel	seeds10	control	event_recovery_0.8	0				0	0
 gate	fastoma	default_declared	tool	frac_units_identical_to_all_singletons	0.019221			1977		
 gate	fastoma	default_late	tool	frac_units_identical_to_all_singletons	0.019221			1977		
+gate	fastoma	rep2_declared	tool	frac_units_identical_to_all_singletons	0.0177036			1977		
+gate	fastoma	rep2_late	tool	frac_units_identical_to_all_singletons	0.0177036			1977		
 gate	of_flat	default	tool	frac_units_identical_to_all_singletons	0.00354072			1977		
 gate	of_flat	dendroblast	tool	frac_units_identical_to_all_singletons	0.00354072			1977		
 gate	orthofinder	default	tool	frac_units_identical_to_all_singletons	0.00505817			1977		
 gate	orthofinder	dendroblast	tool	frac_units_identical_to_all_singletons	0.00556399			1977		
+gate	orthofinder	rep2	tool	frac_units_identical_to_all_singletons	0.00505817			1977		
