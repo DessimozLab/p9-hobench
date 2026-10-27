@@ -168,3 +168,13 @@ T+21–23: REPORT.md.
   (D5, D6); OMArk covariate (D7); panel D dropped (D8); family list changes (D9); SwissTree (D10); FastOMA level reading
   and level mapping (E1–E3); critical-path runs (E4); narrowed robustness (E5); E3 leakage dropped (E6); method variants
   (E7); release/export/coverage table (F2–F4); literature corrections (F5).
+- v1.1 (T+5h50) — protocol v1.1 domain-only mapping rule (kinesin/myosin motor domains).
+- v1.2 (T+11–13h, round 2: reviews/round2/SYNTHESIS.md) — testable-event rule; trivial baselines + skill shown with every
+  endpoint; membership NA without complete cells/decoys; controls track; pooled confirmatory permutation test (Holm);
+  manifest-status gate; audit_sources.py. Metric defects found by controls, fixed with before/after in results/ERRATA.md:
+  E1 untestable events, E2 flat-baseline projection, E4 headline events = internal branches (leaf events = in-paralog
+  recovery), E5 membership RefOGs under unresolved roots (only reference-asserted separations penalised).
+- Scope as executed: V05 teleost 3R dropped (source derived from Ensembl Compara → denylist); salmonid 4R, chemokines,
+  KRAB-ZNF, MADS, PolB, kinome, GAPDH-EGT, nitrogenase, GAL-HGT, SwissTree extension not completed (see
+  results/catalogue/abandoned.md); OF `-M dendroblast` added as a third method on all panels; FastOMA-without-tree variant
+  not run.
