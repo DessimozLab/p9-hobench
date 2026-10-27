@@ -5,6 +5,18 @@ Start: see START.txt (2026-10-26T13:17:42Z). Budget 24 h → hard stop 2026-10-2
 
 ## Status summary (latest milestone first)
 
+### M7 — Final (T+19h, 08:25 UTC)
+HOBench is complete: 5 panels (90 unique species), 32 catalogue rows (13 headline items + 3 controls + decoys/secondary),
+~31.8k genes, 85 T1 + 2,138 T2 duplication events; hobench metrics (95 tests, 10/10 mutants killed), wrapper, curation
+toolkit, release exports. Results: OrthoFinder > FastOMA on per-level B-cubed F1 in the pooled confirmatory test (Holm
+p=0.035, n=13); both fail the yeast hidden-paralogy trap (4% / 12% of 49 pseudo-ortholog pairs); WGD errors in opposite
+directions; FastOMA over-splits vertebrate homeologs/3R and over-merges ancient E-panel paralogs; fragmentation is the
+dominant robustness threat (FastOMA more sensitive); contamination/alt-tree/taxon removal negligible; OF DendroBLAST best
+pooled on merge/event metrics. REPORT.md written and independently fact-checked (corrections applied).
+
+Follow-up running: stronger contamination (200 human homologs into K. lactis): OrthoFinder unaffected (Δ ≤ 0.0004 on 99
+touched units); FastOMA pending.
+
 ### M6 — All runs complete; final scoring (T+18h, 07:20 UTC)
 Third account-limit outage (~02:55→07:15 UTC) killed the SwissTree extension (dropped; partial files in families_ext/
 not used) and the evaluator mid-robustness. All tool runs finished meanwhile: Y robustness (alt tree, fragmentation,
@@ -85,13 +97,13 @@ Git repo initialised. Next: parallel literature survey (benchmarks/metrics; cand
   - [x] 1a. Existing benchmarks & hierarchical-orthology metrics
   - [x] 1b. Candidate gene families with literature-resolved histories (phenomenon-tagged)
   - [x] 1c. Genome/proteome sources, species panels, species trees, licenses
-- [~] 2. DESIGN.md v1 after review round 1 (reviews/round1/SYNTHESIS.md); round 2 pending
-- [ ] 3. Data: species panels + proteomes (DATA.md)
+- [x] 2. DESIGN.md v1→v1.2 after review rounds 1–2 (reviews/round*/SYNTHESIS.md)
+- [x] 3. Data: species panels + proteomes (DATA.md)
 - [x] 4. Curation (frozen refs-frozen-v1; families/VERIFICATION.md, families/AUDIT.md): literature extraction → reference families (assertions with provenance)
-- [~] 5. Metrics library + toy/positive/negative controls (hobench core: 53 tests pass)
+- [x] 5. Metrics library + toy/positive/negative controls (hobench core: 53 tests pass)
 - [x] 6. Tool wrapper (OrthoFinder, FastOMA, baselines) + runs
-- [~] 7. Analysis: difficulty, method agreement, perturbation robustness
-- [~] 8. REPORT.md (draft v1)
+- [x] 7. Analysis: difficulty, method agreement, perturbation robustness
+- [x] 8. REPORT.md (fact-checked)
 
 ## Calibration facts (M0)
 - [!] Usable RAM ≈ 50 GB (cgroup), 12 cores. OMAmer LUCA db = 9.9 GB file, 14 GB RSS per omamer process.
@@ -112,3 +124,6 @@ Git repo initialised. Next: parallel literature survey (benchmarks/metrics; cand
 - D9 (T+10h30): Freeze now (earlier than T+12) because all launched curation finished; V01 FAIL → secondary (no re-curation; budget).
 - D10 (T+10h30): Keep compressed tool outputs in git (≤20 MB/run) despite audit suggestion — brief requires results in git; metrics reproducible without re-running tools.
 - D11 (T+18h): Drop SwissTree extension (third outage; <5 h left); PI runs scoring scripts directly to save agent budget.
+  - [x] 7a. Robustness E2 on Y (frag, contam, alttree, taxrm); [~] 7b. follow-up contam200
+  - [-] SwissTree extension (abandoned after third outage); [-] salmonid 4R, MADS, kinome, PolB, GAPDH-EGT (see results/catalogue/abandoned.md)
+  - [!] Key findings: hidden-paralogy trap; opposite WGD failure modes; FastOMA homeolog over-splitting; fragmentation sensitivity

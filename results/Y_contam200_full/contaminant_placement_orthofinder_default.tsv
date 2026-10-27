@@ -1,0 +1,201 @@
+contaminant	source_id	tool	variant	deepest_level_sharing_ref_HOG	families_at_that_level	n_families	root_level_families:n_genes	n_ref_genes_in_root_HOG
+CONTAM_HUMAN_A0A3B3IRV3	A0A3B3IRV3	orthofinder	default			0		0
+CONTAM_HUMAN_A0A499FJF3	A0A499FJF3	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_1_133	1	YGOB_Anc_1_133:12	12
+CONTAM_HUMAN_A6NNY8	A6NNY8	orthofinder	default			0		0
+CONTAM_HUMAN_O00743	O00743	orthofinder	default			0		0
+CONTAM_HUMAN_O00764	O00764	orthofinder	default			0		0
+CONTAM_HUMAN_O14986	O14986	orthofinder	default	Saccharomycetaceae	YGOB_Anc_8_418	1	YGOB_Anc_8_418:17	17
+CONTAM_HUMAN_O15194	O15194	orthofinder	default			0		0
+CONTAM_HUMAN_O15381	O15381	orthofinder	default			0		0
+CONTAM_HUMAN_O15431	O15431	orthofinder	default			0		0
+CONTAM_HUMAN_O15514	O15514	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_1_208	1	YGOB_Anc_1_208:13	13
+CONTAM_HUMAN_O43242	O43242	orthofinder	default	Ascomycota	YGOB_Anc_7_502	1	YGOB_Anc_7_502:12	12
+CONTAM_HUMAN_O43246	O43246	orthofinder	default			0		0
+CONTAM_HUMAN_O43543	O43543	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_7_385	1	YGOB_Anc_7_385:13	13
+CONTAM_HUMAN_O60645	O60645	orthofinder	default			0		0
+CONTAM_HUMAN_O60683	O60683	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_628	1	YGOB_Anc_5_628:13	13
+CONTAM_HUMAN_O60729	O60729	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_1_349	1	YGOB_Anc_1_349:15	15
+CONTAM_HUMAN_O60825	O60825	orthofinder	default	Saccharomycetaceae	YGOB_Anc_1_192	1	YGOB_Anc_1_192:13	13
+CONTAM_HUMAN_O75140	O75140	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_4_373	1	YGOB_Anc_4_373:12	12
+CONTAM_HUMAN_O75317	O75317	orthofinder	default	Saccharomycetaceae	YGOB_Anc_7_390	1	YGOB_Anc_7_390:20	20
+CONTAM_HUMAN_O75340	O75340	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_4_203	1	YGOB_Anc_4_203:12	12
+CONTAM_HUMAN_O75570	O75570	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_2_331	1	YGOB_Anc_2_331:12	12
+CONTAM_HUMAN_O75716	O75716	orthofinder	default			0		0
+CONTAM_HUMAN_O75844	O75844	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_7_501	1	YGOB_Anc_7_501:13	13
+CONTAM_HUMAN_O75891	O75891	orthofinder	default	CUG_Saccharomycetaceae	YGOB_Anc_7_261	1	YGOB_Anc_7_261:10	10
+CONTAM_HUMAN_O94888	O94888	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_374	1	YGOB_Anc_5_374:13	13
+CONTAM_HUMAN_O95249	O95249	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_4_11	1	YGOB_Anc_4_11:13	13
+CONTAM_HUMAN_P04181	P04181	orthofinder	default			0		0
+CONTAM_HUMAN_P05387	P05387	orthofinder	default	Saccharomycotina	YGOB_Anc_5_462	1	YGOB_Anc_5_462:13	13
+CONTAM_HUMAN_P07339	P07339	orthofinder	default	Ascomycota	YGOB_Anc_7_182	1	YGOB_Anc_7_182:10	10
+CONTAM_HUMAN_P08243	P08243	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_3_483	1	YGOB_Anc_3_483:14	14
+CONTAM_HUMAN_P09110	P09110	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_718	1	YGOB_Anc_5_718:11	11
+CONTAM_HUMAN_P09622	P09622	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_8_56	1	YGOB_Anc_8_56:13	13
+CONTAM_HUMAN_P09923	P09923	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_8_501	1	YGOB_Anc_8_501:13	13
+CONTAM_HUMAN_P0C0E4	P0C0E4	orthofinder	default			0		0
+CONTAM_HUMAN_P0C0S5	P0C0S5	orthofinder	default			0		0
+CONTAM_HUMAN_P0C0S8	P0C0S8	orthofinder	default			0		0
+CONTAM_HUMAN_P0C5J1	P0C5J1	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_4_352	1	YGOB_Anc_4_352:13	13
+CONTAM_HUMAN_P11801	P11801	orthofinder	default			0		0
+CONTAM_HUMAN_P17812	P17812	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_7_476	1	YGOB_Anc_7_476:15	15
+CONTAM_HUMAN_P19105	P19105	orthofinder	default			0		0
+CONTAM_HUMAN_P20585	P20585	orthofinder	default			0		0
+CONTAM_HUMAN_P20671	P20671	orthofinder	default			0		0
+CONTAM_HUMAN_P21108	P21108	orthofinder	default	Ascomycota	YGOB_Anc_2_543;YGOB_Anc_7_391	2	YGOB_Anc_2_543:13;YGOB_Anc_7_391:15	28
+CONTAM_HUMAN_P22307	P22307	orthofinder	default			0		0
+CONTAM_HUMAN_P24844	P24844	orthofinder	default			0		0
+CONTAM_HUMAN_P25098	P25098	orthofinder	default	Saccharomycotina	YGOB_Anc_1_182	1	YGOB_Anc_1_182:17	17
+CONTAM_HUMAN_P25788	P25788	orthofinder	default			0		0
+CONTAM_HUMAN_P25874	P25874	orthofinder	default			0		0
+CONTAM_HUMAN_P27037	P27037	orthofinder	default			0		0
+CONTAM_HUMAN_P27361	P27361	orthofinder	default	CUG_Saccharomycetaceae	YGOB_Anc_4_184	1	YGOB_Anc_4_184:13	13
+CONTAM_HUMAN_P30405	P30405	orthofinder	default			0		0
+CONTAM_HUMAN_P30793	P30793	orthofinder	default			0		0
+CONTAM_HUMAN_P31513	P31513	orthofinder	default	Saccharomycotina	YGOB_L01921	1	YGOB_Anc_5_60:13;YGOB_L01921:4	17
+CONTAM_HUMAN_P32298	P32298	orthofinder	default	Saccharomycotina	YGOB_Anc_1_182	1	YGOB_Anc_1_182:17	17
+CONTAM_HUMAN_P33897	P33897	orthofinder	default			0		0
+CONTAM_HUMAN_P35232	P35232	orthofinder	default			0		0
+CONTAM_HUMAN_P37235	P37235	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_444	1	YGOB_Anc_5_444:13	13
+CONTAM_HUMAN_P38919	P38919	orthofinder	default			0		0
+CONTAM_HUMAN_P40937	P40937	orthofinder	default			0		0
+CONTAM_HUMAN_P41091	P41091	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_7_513	1	YGOB_Anc_7_513:14	14
+CONTAM_HUMAN_P42330	P42330	orthofinder	default	Ascomycota	YGOB_Anc_5_409;YGOB_Anc_5_434	2	YGOB_Anc_5_409:10;YGOB_Anc_5_434:15	25
+CONTAM_HUMAN_P47756	P47756	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_7_208	1	YGOB_Anc_7_208:11	11
+CONTAM_HUMAN_P48449	P48449	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_351	1	YGOB_Anc_5_351:13	13
+CONTAM_HUMAN_P48723	P48723	orthofinder	default	Saccharomycotina	YGOB_Anc_1_474	1	YGOB_Anc_1_474:16	16
+CONTAM_HUMAN_P49336	P49336	orthofinder	default			0		0
+CONTAM_HUMAN_P49368	P49368	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_163	1	YGOB_Anc_5_163:13	13
+CONTAM_HUMAN_P49459	P49459	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_6_109	1	YGOB_Anc_6_109:13	13
+CONTAM_HUMAN_P51798	P51798	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_1_466	1	YGOB_Anc_1_466:13	13
+CONTAM_HUMAN_P53384	P53384	orthofinder	default			0		0
+CONTAM_HUMAN_P53675	P53675	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_3_515	1	YGOB_Anc_3_515:13	13
+CONTAM_HUMAN_P55042	P55042	orthofinder	default			0		0
+CONTAM_HUMAN_P55786	P55786	orthofinder	default	CUG_Saccharomycetaceae	YGOB_Anc_5_285	1	YGOB_Anc_5_285:18	18
+CONTAM_HUMAN_P55851	P55851	orthofinder	default			0		0
+CONTAM_HUMAN_P56192	P56192	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_41	1	YGOB_Anc_5_41:13	13
+CONTAM_HUMAN_P57053	P57053	orthofinder	default			0		0
+CONTAM_HUMAN_P59796	P59796	orthofinder	default	Saccharomycetaceae	YGOB_Anc_6_160	1	YGOB_Anc_6_160:14	14
+CONTAM_HUMAN_P60520	P60520	orthofinder	default			0		0
+CONTAM_HUMAN_P60842	P60842	orthofinder	default			0		0
+CONTAM_HUMAN_P60866	P60866	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_2_550	1	YGOB_Anc_2_550:13	13
+CONTAM_HUMAN_P60900	P60900	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_4_110	1	YGOB_Anc_4_110:13	13
+CONTAM_HUMAN_P61026	P61026	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_8_70	1	YGOB_Anc_8_70:15	15
+CONTAM_HUMAN_P61970	P61970	orthofinder	default			0		0
+CONTAM_HUMAN_P62241	P62241	orthofinder	default			0		0
+CONTAM_HUMAN_P62314	P62314	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_3_139	1	YGOB_Anc_3_139:14	14
+CONTAM_HUMAN_P62333	P62333	orthofinder	default			0		0
+CONTAM_HUMAN_P62913	P62913	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_3_416	1	YGOB_Anc_3_416:14	14
+CONTAM_HUMAN_P63151	P63151	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_8_150	1	YGOB_Anc_8_150:15	15
+CONTAM_HUMAN_P67775	P67775	orthofinder	default			0		0
+CONTAM_HUMAN_P67812	P67812	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_2_648	1	YGOB_Anc_2_648:12	12
+CONTAM_HUMAN_P68133	P68133	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_8_23	1	YGOB_Anc_8_23:14	14
+CONTAM_HUMAN_P78368	P78368	orthofinder	default			0		0
+CONTAM_HUMAN_Q00532	Q00532	orthofinder	default			0		0
+CONTAM_HUMAN_Q01415	Q01415	orthofinder	default	Saccharomycetaceae	YGOB_Anc_3_219	1	YGOB_Anc_3_219:16	16
+CONTAM_HUMAN_Q01650	Q01650	orthofinder	default			0		0
+CONTAM_HUMAN_Q07002	Q07002	orthofinder	default			0		0
+CONTAM_HUMAN_Q08J23	Q08J23	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_8_171	1	YGOB_Anc_8_171:15	15
+CONTAM_HUMAN_Q09028	Q09028	orthofinder	default	Ascomycota	YGOB_Anc_6_9	1	YGOB_Anc_6_9:13	13
+CONTAM_HUMAN_Q12982	Q12982	orthofinder	default			0		0
+CONTAM_HUMAN_Q13547	Q13547	orthofinder	default			0		0
+CONTAM_HUMAN_Q13636	Q13636	orthofinder	default			0		0
+CONTAM_HUMAN_Q14088	Q14088	orthofinder	default			0		0
+CONTAM_HUMAN_Q14680	Q14680	orthofinder	default			0		0
+CONTAM_HUMAN_Q14807	Q14807	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_3_528	1	YGOB_Anc_3_528:13	13
+CONTAM_HUMAN_Q14964	Q14964	orthofinder	default			0		0
+CONTAM_HUMAN_Q15067	Q15067	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_3_514	1	YGOB_Anc_3_514:13	13
+CONTAM_HUMAN_Q15274	Q15274	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_3_563	1	YGOB_Anc_3_563:9	9
+CONTAM_HUMAN_Q15438	Q15438	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_8_368	1	YGOB_Anc_8_368:13	13
+CONTAM_HUMAN_Q15669	Q15669	orthofinder	default			0		0
+CONTAM_HUMAN_Q15819	Q15819	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_6_187	1	YGOB_Anc_6_187:13	13
+CONTAM_HUMAN_Q15833	Q15833	orthofinder	default			0		0
+CONTAM_HUMAN_Q16566	Q16566	orthofinder	default			0		0
+CONTAM_HUMAN_Q16654	Q16654	orthofinder	default	Ascomycota	YGOB_Anc_7_222	1	YGOB_Anc_7_222:13	13
+CONTAM_HUMAN_Q16659	Q16659	orthofinder	default	CUG_Saccharomycetaceae	YGOB_Anc_4_184	1	YGOB_Anc_4_184:13	13
+CONTAM_HUMAN_Q16777	Q16777	orthofinder	default			0		0
+CONTAM_HUMAN_Q5JT25	Q5JT25	orthofinder	default			0		0
+CONTAM_HUMAN_Q5RKV6	Q5RKV6	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_4_63	1	YGOB_Anc_4_63:12	12
+CONTAM_HUMAN_Q5T2R2	Q5T2R2	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_3_202	1	YGOB_Anc_3_202:13	13
+CONTAM_HUMAN_Q6NVV1	Q6NVV1	orthofinder	default			0		0
+CONTAM_HUMAN_Q6SA08	Q6SA08	orthofinder	default			0		0
+CONTAM_HUMAN_Q70CQ3	Q70CQ3	orthofinder	default			0		0
+CONTAM_HUMAN_Q7L0Q8	Q7L0Q8	orthofinder	default			0		0
+CONTAM_HUMAN_Q7L7V1	Q7L7V1	orthofinder	default			0		0
+CONTAM_HUMAN_Q86VQ6	Q86VQ6	orthofinder	default			0		0
+CONTAM_HUMAN_Q86VX9	Q86VX9	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_6_127	1	YGOB_Anc_6_127:13	13
+CONTAM_HUMAN_Q8IV04	Q8IV04	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_3_444	1	YGOB_Anc_3_444:12	12
+CONTAM_HUMAN_Q8IZ73	Q8IZ73	orthofinder	default			0		0
+CONTAM_HUMAN_Q8IZL9	Q8IZL9	orthofinder	default			0		0
+CONTAM_HUMAN_Q8N3Z3	Q8N3Z3	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_387	1	YGOB_Anc_5_387:13	13
+CONTAM_HUMAN_Q8N4S7	Q8N4S7	orthofinder	default			0		0
+CONTAM_HUMAN_Q8N8R3	Q8N8R3	orthofinder	default	Ascomycota	YGOB_Anc_3_348	1	YGOB_Anc_3_348:18	18
+CONTAM_HUMAN_Q8NEJ0	Q8NEJ0	orthofinder	default			0		0
+CONTAM_HUMAN_Q8NFU5	Q8NFU5	orthofinder	default			0		0
+CONTAM_HUMAN_Q8TAA3	Q8TAA3	orthofinder	default			0		0
+CONTAM_HUMAN_Q8TAM1	Q8TAM1	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_1_513	1	YGOB_Anc_1_513:13	13
+CONTAM_HUMAN_Q8TF46	Q8TF46	orthofinder	default			0		0
+CONTAM_HUMAN_Q8WTU0	Q8WTU0	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_8_185	1	YGOB_Anc_8_185:12	12
+CONTAM_HUMAN_Q8WXR4	Q8WXR4	orthofinder	default			0		0
+CONTAM_HUMAN_Q92499	Q92499	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_1_211	1	YGOB_Anc_1_211:12	12
+CONTAM_HUMAN_Q92611	Q92611	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_4_383	1	YGOB_Anc_4_383:12	12
+CONTAM_HUMAN_Q92928	Q92928	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_8_25	1	YGOB_Anc_8_25:13	13
+CONTAM_HUMAN_Q969X6	Q969X6	orthofinder	default			0		0
+CONTAM_HUMAN_Q96BW1	Q96BW1	orthofinder	default			0		0
+CONTAM_HUMAN_Q96D53	Q96D53	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_6_133	1	YGOB_Anc_6_133:12	12
+CONTAM_HUMAN_Q96FX7	Q96FX7	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_1_229	1	YGOB_Anc_1_229:12	12
+CONTAM_HUMAN_Q96GE6	Q96GE6	orthofinder	default			0		0
+CONTAM_HUMAN_Q96H78	Q96H78	orthofinder	default			0		0
+CONTAM_HUMAN_Q96NY9	Q96NY9	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_468	1	YGOB_Anc_5_468:12	12
+CONTAM_HUMAN_Q96PC3	Q96PC3	orthofinder	default			0		0
+CONTAM_HUMAN_Q96S44	Q96S44	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_43	1	YGOB_Anc_5_43:13	13
+CONTAM_HUMAN_Q96SF2	Q96SF2	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_246	1	YGOB_Anc_5_246:13	13
+CONTAM_HUMAN_Q96SU4	Q96SU4	orthofinder	default			0		0
+CONTAM_HUMAN_Q99595	Q99595	orthofinder	default			0		0
+CONTAM_HUMAN_Q99719	Q99719	orthofinder	default			0		0
+CONTAM_HUMAN_Q9BPX3	Q9BPX3	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_367	1	YGOB_Anc_5_367:13	13
+CONTAM_HUMAN_Q9BV38	Q9BV38	orthofinder	default			0		0
+CONTAM_HUMAN_Q9BVA1	Q9BVA1	orthofinder	default	Ascomycota	YGOB_Anc_8_27	1	YGOB_Anc_8_27:13	13
+CONTAM_HUMAN_Q9BVK6	Q9BVK6	orthofinder	default	CUG_Saccharomycetaceae	YGOB_Anc_5_420	1	YGOB_Anc_5_420:12	12
+CONTAM_HUMAN_Q9BXA7	Q9BXA7	orthofinder	default			0		0
+CONTAM_HUMAN_Q9BXB5	Q9BXB5	orthofinder	default			0		0
+CONTAM_HUMAN_Q9BYD9	Q9BYD9	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_8_23	1	YGOB_Anc_8_23:14	14
+CONTAM_HUMAN_Q9BYX7	Q9BYX7	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_8_23	1	YGOB_Anc_8_23:14	14
+CONTAM_HUMAN_Q9BZQ6	Q9BZQ6	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_4_383	1	YGOB_Anc_4_383:12	12
+CONTAM_HUMAN_Q9H0D6	Q9H0D6	orthofinder	default			0		0
+CONTAM_HUMAN_Q9H115	Q9H115	orthofinder	default			0		0
+CONTAM_HUMAN_Q9H221	Q9H221	orthofinder	default			0		0
+CONTAM_HUMAN_Q9H2U2	Q9H2U2	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_3_191	1	YGOB_Anc_3_191:12	12
+CONTAM_HUMAN_Q9H361	Q9H361	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_8_229	1	YGOB_Anc_8_229:14	14
+CONTAM_HUMAN_Q9H4G8	Q9H4G8	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_7_394	1	YGOB_Anc_7_394:12	12
+CONTAM_HUMAN_Q9H5Z1	Q9H5Z1	orthofinder	default			0		0
+CONTAM_HUMAN_Q9HAB8	Q9HAB8	orthofinder	default			0		0
+CONTAM_HUMAN_Q9HAZ1	Q9HAZ1	orthofinder	default			0		0
+CONTAM_HUMAN_Q9HCG8	Q9HCG8	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_16	1	YGOB_Anc_5_16:13	13
+CONTAM_HUMAN_Q9HCS7	Q9HCS7	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_519	1	YGOB_Anc_5_519:12	12
+CONTAM_HUMAN_Q9NR20	Q9NR20	orthofinder	default			0		0
+CONTAM_HUMAN_Q9NUD9	Q9NUD9	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_3_201	1	YGOB_Anc_3_201:12	12
+CONTAM_HUMAN_Q9NUL7	Q9NUL7	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_69	1	YGOB_Anc_5_69:13	13
+CONTAM_HUMAN_Q9NWZ3	Q9NWZ3	orthofinder	default			0		0
+CONTAM_HUMAN_Q9NX07	Q9NX07	orthofinder	default			0		0
+CONTAM_HUMAN_Q9NXD2	Q9NXD2	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_7_491	1	YGOB_Anc_7_491:12	12
+CONTAM_HUMAN_Q9NY65	Q9NY65	orthofinder	default			0		0
+CONTAM_HUMAN_Q9UGI9	Q9UGI9	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_6_136	1	YGOB_Anc_6_136:14	14
+CONTAM_HUMAN_Q9UGJ0	Q9UGJ0	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_6_136	1	YGOB_Anc_6_136:14	14
+CONTAM_HUMAN_Q9UHD2	Q9UHD2	orthofinder	default			0		0
+CONTAM_HUMAN_Q9UIK4	Q9UIK4	orthofinder	default			0		0
+CONTAM_HUMAN_Q9UK59	Q9UK59	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_254	1	YGOB_Anc_5_254:12	12
+CONTAM_HUMAN_Q9UKU0	Q9UKU0	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_7_166	1	YGOB_Anc_7_166:13	13
+CONTAM_HUMAN_Q9UL25	Q9UL25	orthofinder	default			0		0
+CONTAM_HUMAN_Q9ULC4	Q9ULC4	orthofinder	default			0		0
+CONTAM_HUMAN_Q9UNM6	Q9UNM6	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_534	1	YGOB_Anc_5_534:13	13
+CONTAM_HUMAN_Q9UQ90	Q9UQ90	orthofinder	default	Ascomycota	YGOB_Anc_2_472	1	YGOB_Anc_2_472:13	13
+CONTAM_HUMAN_Q9Y296	Q9Y296	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_8_476	1	YGOB_Anc_8_476:13	13
+CONTAM_HUMAN_Q9Y333	Q9Y333	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_8_174	1	YGOB_Anc_8_174:13	13
+CONTAM_HUMAN_Q9Y4A5	Q9Y4A5	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_402	1	YGOB_Anc_5_402:12	12
+CONTAM_HUMAN_Q9Y570	Q9Y570	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_5_358	1	YGOB_Anc_5_358:12	12
+CONTAM_HUMAN_Q9Y572	Q9Y572	orthofinder	default			0		0
+CONTAM_HUMAN_Q9Y5B9	Q9Y5B9	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_3_516	1	YGOB_Anc_3_516:12	12
+CONTAM_HUMAN_Q9Y5K5	Q9Y5K5	orthofinder	default			0		0
+CONTAM_HUMAN_Q9Y5K8	Q9Y5K8	orthofinder	default			0		0
+CONTAM_HUMAN_Q9Y5U8	Q9Y5U8	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_6_199	1	YGOB_Anc_6_199:12	12
+CONTAM_HUMAN_Q9Y6D6	Q9Y6D6	orthofinder	default	Kluyveromyces_Eremothecium	YGOB_Anc_8_368	1	YGOB_Anc_8_368:13	13
