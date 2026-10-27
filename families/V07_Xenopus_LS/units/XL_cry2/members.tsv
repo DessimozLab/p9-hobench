@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A8J0PSU5	XENLA	cry2.L|Xelaev18021886m	XL_cry2:L	sequence_rbh	100.00	93.9	7.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2022
-A0A8J0PTL1	XENLA	cry2.S|Xelaev18024466m	XL_cry2:S	sequence_rbh	99.50	100.0	6.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2022
+A0A8J0PSU5	XENLA	cry2.L|Xelaev18021886m	XL_cry2:L	sequence_rbh	100.00	0.939	7.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2022
+A0A8J0PTL1	XENLA	cry2.S|Xelaev18024466m	XL_cry2:S	sequence_rbh	99.50	1.000	6.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2022
 A0A8J1JEP0	XENTR	cry2|Xetrov90010250m	XL_cry2:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2022

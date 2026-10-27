@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8H048	XENLA	kiaa0101.L|Xelaev18018083m	XL_kiaa0101:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4645
-Q5HZL4	XENLA	kiaa0101.S|Xelaev18020745m	XL_kiaa0101:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4645
-Q6AZL2	XENTR	kiaa0101|Xetrov90008632m	XL_kiaa0101:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4645
+A0A1L8H048	XENLA	kiaa0101.L|Xelaev18018083m	XL_kiaa0101:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4645
+Q5HZL4	XENLA	kiaa0101.S|Xelaev18020745m	XL_kiaa0101:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4645
+Q6AZL2	XENTR	kiaa0101|Xetrov90008632m	XL_kiaa0101:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4645

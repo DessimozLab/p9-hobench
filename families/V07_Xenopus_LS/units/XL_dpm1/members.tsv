@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8ESU7	XENLA	dpm1.L|Xelaev18043450m	XL_dpm1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2536
-A0A8J0Q414	XENLA	dpm1.S|Xelaev18046183m	XL_dpm1:S	sequence_rbh	100.00	96.1	2.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2536
-A0A8J0PFS2	XENTR	dpm1|Xetrov90025256m	XL_dpm1:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2536
+A0A1L8ESU7	XENLA	dpm1.L|Xelaev18043450m	XL_dpm1:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2536
+A0A8J0Q414	XENLA	dpm1.S|Xelaev18046183m	XL_dpm1:S	sequence_rbh	100.00	0.961	2.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2536
+A0A8J0PFS2	XENTR	dpm1|Xetrov90025256m	XL_dpm1:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2536

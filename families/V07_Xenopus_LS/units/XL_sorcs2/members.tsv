@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A8J0T7Y0	XENLA	sorcs2.L|Xelaev18005084m	XL_sorcs2:L	sequence_rbh	99.00	80.1	4.9	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11726
+A0A8J0T7Y0	XENLA	sorcs2.L|Xelaev18005084m	XL_sorcs2:L	sequence_rbh	99.00	0.801	4.9	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11726
 A0A8J1M0W0	XENLA	sorcs2.S|Xelaev18008907m	XL_sorcs2:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11726
 A0A8J0QPJ7	XENTR	sorcs2|Xetrov90000510m	XL_sorcs2:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11726

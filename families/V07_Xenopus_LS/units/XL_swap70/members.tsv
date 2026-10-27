@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8GII8	XENLA	swap70.L|Xelaev18021797m	XL_swap70:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12041
-A0A1L8GDS6	XENLA	swap70.S|Xelaev18024551m	XL_swap70:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12041
+A0A1L8GII8	XENLA	swap70.L|Xelaev18021797m	XL_swap70:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12041
+A0A1L8GDS6	XENLA	swap70.S|Xelaev18024551m	XL_swap70:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12041
 F6U3R1	XENTR	swap70|Xetrov90010148m	XL_swap70:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12041

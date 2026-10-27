@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A8J0PRM2	XENLA	bambi.L|Xelaev18030743m	XL_bambi:L	sequence_rbh	99.60	100.0	6.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 847
-A0A8J0PY03	XENLA	bambi.S|Xelaev18032884m	XL_bambi:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 847
-Q6F2E0	XENTR	bambi|Xetrov90015649m	XL_bambi:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 847
+A0A8J0PRM2	XENLA	bambi.L|Xelaev18030743m	XL_bambi:L	sequence_rbh	99.60	1.000	6.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 847
+A0A8J0PY03	XENLA	bambi.S|Xelaev18032884m	XL_bambi:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 847
+Q6F2E0	XENTR	bambi|Xetrov90015649m	XL_bambi:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 847

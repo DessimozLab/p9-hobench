@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8GLF8	XENLA	cnot1.L|Xelaev18022833m	XL_cnot1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1822
+A0A1L8GLF8	XENLA	cnot1.L|Xelaev18022833m	XL_cnot1:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1822
 A0A8J0V6Y7	XENLA	cnot1.S|Xelaev18024996m	XL_cnot1:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1822
-A0JP85	XENTR	cnot1|Xetrov90010771m	XL_cnot1:XT	sequence_rbh	100.00	100.0	100.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1822
+A0JP85	XENTR	cnot1|Xetrov90010771m	XL_cnot1:XT	sequence_rbh	100.00	1.000	100.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1822

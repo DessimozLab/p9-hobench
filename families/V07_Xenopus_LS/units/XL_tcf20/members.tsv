@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
 A0A8J1MXH5	XENLA	tcf20.L|Xelaev18023518m	XL_tcf20:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12208
-A0A8J0VC44	XENLA	tcf20.S|Xelaev18025536m	XL_tcf20:S	sequence_rbh	99.90	99.3	11.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12208
-A0A803JKV3	XENTR	tcf20|Xetrov90012267m	XL_tcf20:XT	sequence_rbh	99.10	91.0	99.1	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12208
+A0A8J0VC44	XENLA	tcf20.S|Xelaev18025536m	XL_tcf20:S	sequence_rbh	99.90	0.993	11.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12208
+A0A803JKV3	XENTR	tcf20|Xetrov90012267m	XL_tcf20:XT	sequence_rbh	99.10	0.910	99.1	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12208

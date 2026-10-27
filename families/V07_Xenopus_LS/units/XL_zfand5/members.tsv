@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A8J0Q041	XENLA	zfand5.L|Xelaev18006890m	XL_zfand5:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15459
+A0A8J0Q041	XENLA	zfand5.L|Xelaev18006890m	XL_zfand5:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15459
 A0A8J0U0J4	XENLA	zfand5.S|Xelaev18010112m	XL_zfand5:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15459
 A0A8J0PJ25	XENTR	zfand5|Xetrov90002268m	XL_zfand5:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15459

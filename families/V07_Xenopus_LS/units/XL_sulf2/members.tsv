@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
 A0A8J0Q197	XENLA	sulf2.L|Xelaev18043428m	XL_sulf2:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12007
-A0A1L8EL89	XENLA	sulf2.S|Xelaev18046154m	XL_sulf2:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12007
-A0A8J0PDL4	XENTR	sulf2|Xetrov90025277m	XL_sulf2:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12007
+A0A1L8EL89	XENLA	sulf2.S|Xelaev18046154m	XL_sulf2:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12007
+A0A8J0PDL4	XENTR	sulf2|Xetrov90025277m	XL_sulf2:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12007

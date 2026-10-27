@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8HEM6	XENLA	guca1c.L|Xelaev18012153m	XL_guca1c:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3905
-A0A1L8H783	XENLA	guca1c.S|Xelaev18015025m	XL_guca1c:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3905
-A0A8J0QWV3	XENTR	guca1c|Xetrov90004745m	XL_guca1c:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3905
+A0A1L8HEM6	XENLA	guca1c.L|Xelaev18012153m	XL_guca1c:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3905
+A0A1L8H783	XENLA	guca1c.S|Xelaev18015025m	XL_guca1c:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3905
+A0A8J0QWV3	XENTR	guca1c|Xetrov90004745m	XL_guca1c:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3905

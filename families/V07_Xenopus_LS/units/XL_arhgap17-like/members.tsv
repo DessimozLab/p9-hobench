@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8EYF7	XENLA	arhgap17-like.L|Xelaev18045474m	XL_arhgap17-like:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 539
-A0A8J1LZC1	XENLA	arhgap17-like.S|Xelaev18047726m	XL_arhgap17-like:S	sequence_rbh	99.00	95.7	7.9	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 539
-A0A8J0QLW0	XENTR	arhgap17-like|Xetrov90023263m	XL_arhgap17-like:XT	sequence_rbh	100.00	89.9	44.8	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 539
+A0A1L8EYF7	XENLA	arhgap17-like.L|Xelaev18045474m	XL_arhgap17-like:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 539
+A0A8J1LZC1	XENLA	arhgap17-like.S|Xelaev18047726m	XL_arhgap17-like:S	sequence_rbh	99.00	0.957	7.9	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 539
+A0A8J0QLW0	XENTR	arhgap17-like|Xetrov90023263m	XL_arhgap17-like:XT	sequence_rbh	100.00	0.899	44.8	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 539

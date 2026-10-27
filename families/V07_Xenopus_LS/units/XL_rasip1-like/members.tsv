@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8FMX9	XENLA	rasip1-like.L|Xelaev18035935m	XL_rasip1-like:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10554
-A0A1L8FGS3	XENLA	rasip1-like.S|Xelaev18037709m	XL_rasip1-like:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10554
-A0A8J0R582	XENTR	rasip1-like|Xetrov90019061m	XL_rasip1-like:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10554
+A0A1L8FMX9	XENLA	rasip1-like.L|Xelaev18035935m	XL_rasip1-like:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10554
+A0A1L8FGS3	XENLA	rasip1-like.S|Xelaev18037709m	XL_rasip1-like:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10554
+A0A8J0R582	XENTR	rasip1-like|Xetrov90019061m	XL_rasip1-like:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10554

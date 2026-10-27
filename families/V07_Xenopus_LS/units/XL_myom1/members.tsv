@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8FYM0	XENLA	myom1.L|Xelaev18031881m	XL_myom1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8881
-A0A8J1L5B1	XENLA	myom1.S|Xelaev18033622m	XL_myom1:S	sequence_rbh	99.50	95.0	7.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8881
+A0A1L8FYM0	XENLA	myom1.L|Xelaev18031881m	XL_myom1:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8881
+A0A8J1L5B1	XENLA	myom1.S|Xelaev18033622m	XL_myom1:S	sequence_rbh	99.50	0.950	7.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8881
 A0A6I8RPC1	XENTR	myom1|Xetrov90016665m	XL_myom1:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8881

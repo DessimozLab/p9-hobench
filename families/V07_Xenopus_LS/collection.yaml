@@ -37,13 +37,16 @@ complete_species: []
 decoys: []
 distinct_from: []
 tier_summary:
-  T2_D_ALLO: 500
-  T2_S_Xenopus: 500
+  T2_D_ALLO: 498
+  T2_S_Xenopus: 498
 sampling:
   seed: 20261026
   max_units: 500
   candidates_passing: 4671
-  units: 500
+  units: 498
+  dropped_shared_with_other_families:
+  - XL_hoxa4
+  - XL_hoxb7
   method: random.Random(seed).sample over passing units sorted by id
 counts:
   source_homeolog_rows: 8806

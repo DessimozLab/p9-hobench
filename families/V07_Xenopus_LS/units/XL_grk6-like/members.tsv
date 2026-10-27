@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8GXX0	XENLA	grk6-like.L|Xelaev18017295m	XL_grk6-like:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3841
-A0A8J0PZK9	XENLA	grk6-like.S|Xelaev18021378m	XL_grk6-like:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3841
-A0A6I8QGF7	XENTR	grk6-like|Xetrov90007706m	XL_grk6-like:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3841
+A0A1L8GXX0	XENLA	grk6-like.L|Xelaev18017295m	XL_grk6-like:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3841
+A0A8J0PZK9	XENLA	grk6-like.S|Xelaev18021378m	XL_grk6-like:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3841
+A0A6I8QGF7	XENTR	grk6-like|Xetrov90007706m	XL_grk6-like:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3841

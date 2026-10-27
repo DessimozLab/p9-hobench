@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8H168	XENLA	tipin.L|Xelaev18018446m	XL_tipin:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12357
+A0A1L8H168	XENLA	tipin.L|Xelaev18018446m	XL_tipin:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12357
 A0A8J0PVZ7	XENLA	tipin.S|Xelaev18020429m	XL_tipin:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12357
-A0A8J0QPP1	XENTR	tipin|Xetrov90009283m	XL_tipin:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12357
+A0A8J0QPP1	XENTR	tipin|Xetrov90009283m	XL_tipin:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12357

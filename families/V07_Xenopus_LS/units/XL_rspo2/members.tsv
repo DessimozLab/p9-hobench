@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-Q5UE90	XENLA	rspo2.L|Xelaev18032283m	XL_rspo2:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10958
+Q5UE90	XENLA	rspo2.L|Xelaev18032283m	XL_rspo2:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10958
 A0A8J1L305	XENLA	rspo2.S|Xelaev18033943m	XL_rspo2:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10958
-Q5M7L6	XENTR	rspo2|Xetrov90017082m	XL_rspo2:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10958
+Q5M7L6	XENTR	rspo2|Xetrov90017082m	XL_rspo2:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10958

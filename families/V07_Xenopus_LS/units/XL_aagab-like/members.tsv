@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A8J0URJ4	XENLA	aagab-like.L|Xelaev18018456m	XL_aagab-like:L	sequence_rbh	99.70	100.0	9.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 16
-A0A8J0PVQ4	XENLA	aagab-like.S|Xelaev18020421m	XL_aagab-like:S	sequence_rbh	99.40	98.7	9.4	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 16
-F6YV66	XENTR	aagab-like|Xetrov90009271m	XL_aagab-like:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 16
+A0A8J0URJ4	XENLA	aagab-like.L|Xelaev18018456m	XL_aagab-like:L	sequence_rbh	99.70	1.000	9.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 16
+A0A8J0PVQ4	XENLA	aagab-like.S|Xelaev18020421m	XL_aagab-like:S	sequence_rbh	99.40	0.987	9.4	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 16
+F6YV66	XENTR	aagab-like|Xetrov90009271m	XL_aagab-like:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 16

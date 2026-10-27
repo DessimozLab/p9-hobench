@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8GAG7	XENLA	zic4.L|Xelaev18027741m	XL_zic4:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15490
-A0A8J0VGB0	XENLA	zic4.S|Xelaev18029828m	XL_zic4:S	sequence_rbh	100.00	88.0	7.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15490
+A0A1L8GAG7	XENLA	zic4.L|Xelaev18027741m	XL_zic4:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15490
+A0A8J0VGB0	XENLA	zic4.S|Xelaev18029828m	XL_zic4:S	sequence_rbh	100.00	0.880	7.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15490
 A0A8J1JK94	XENTR	zic4|Xetrov90014778m	XL_zic4:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15490

@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A8J0PTM2	XENLA	akap10.L|Xelaev18011629m	XL_akap10:L	sequence_rbh	99.40	99.2	7.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 265
-A0A8J0UJ45	XENLA	akap10.S|Xelaev18014209m	XL_akap10:S	sequence_rbh	99.80	96.2	7.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 265
-F6UZQ4	XENTR	akap10|Xetrov90004392m	XL_akap10:XT	sequence_rbh	99.80	99.2	99.8	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 265
+A0A8J0PTM2	XENLA	akap10.L|Xelaev18011629m	XL_akap10:L	sequence_rbh	99.40	0.992	7.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 265
+A0A8J0UJ45	XENLA	akap10.S|Xelaev18014209m	XL_akap10:S	sequence_rbh	99.80	0.962	7.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 265
+F6UZQ4	XENTR	akap10|Xetrov90004392m	XL_akap10:XT	sequence_rbh	99.80	0.992	99.8	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 265

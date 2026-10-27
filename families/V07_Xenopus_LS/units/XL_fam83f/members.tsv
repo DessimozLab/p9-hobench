@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8GNV1	XENLA	fam83f.L|Xelaev18023672m	XL_fam83f:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3105
-A0A1L8GGY8	XENLA	fam83f.S|Xelaev18025640m	XL_fam83f:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3105
+A0A1L8GNV1	XENLA	fam83f.L|Xelaev18023672m	XL_fam83f:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3105
+A0A1L8GGY8	XENLA	fam83f.S|Xelaev18025640m	XL_fam83f:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3105
 A0A6I8QNA4	XENTR	fam83f|Xetrov90012418m	XL_fam83f:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3105

@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
 A0A8J1L423	XENLA	fer.L|Xelaev18008022m	XL_fer:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3203
-A0A8J1M3V5	XENLA	fer.S|Xelaev18010786m	XL_fer:S	sequence_rbh	99.80	100.0	3.4	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3203
-A0A6I8QYV4	XENTR	fer|Xetrov90002749m	XL_fer:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3203
+A0A8J1M3V5	XENLA	fer.S|Xelaev18010786m	XL_fer:S	sequence_rbh	99.80	1.000	3.4	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3203
+A0A6I8QYV4	XENTR	fer|Xetrov90002749m	XL_fer:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 3203

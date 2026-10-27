@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-Q91731	XENLA	sox11.L|Xelaev18028018m	XL_sox11:L	sequence_rbh	99.50	100.0	8.4	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11738
-P40650	XENLA	sox11.S|Xelaev18030058m	XL_sox11:S	sequence_rbh	99.70	100.0	8.9	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11738
-Q66JF1	XENTR	sox11|Xetrov90015107m	XL_sox11:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11738
+Q91731	XENLA	sox11.L|Xelaev18028018m	XL_sox11:L	sequence_rbh	99.50	1.000	8.4	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11738
+P40650	XENLA	sox11.S|Xelaev18030058m	XL_sox11:S	sequence_rbh	99.70	1.000	8.9	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11738
+Q66JF1	XENTR	sox11|Xetrov90015107m	XL_sox11:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11738

@@ -37,3 +37,14 @@ hobench validate_family: 500/500 units 0 errors/0 warnings. verify_provenance.py
 ## Caveats
 - The 8,806 pairs are the paper's conservative 2:1 set; genes in larger families / tandem copies are absent.
 - Session's XT orthologue assignment is BLAST + synteny, not a phylogeny; tier T2.
+
+## Erratum 2026-10-27 (post-freeze, PI request)
+- mapping_coverage now written as a fraction (min of query/target coverage, e.g. 1.000, 0.964), as hobench/panel.py
+  requires; identity stays in percent. No mapping decision changed.
+- Units sharing any member gene with another family are dropped (other curation is richer): XL_hoxa4, XL_hoxb7
+  (genes in V03_Hox). Recorded in mapping_report.tsv unit_status `dropped: shares gene(s) with another family (...)`
+  and collection.yaml sampling.dropped_shared_with_other_families. The sample itself is unchanged (no re-draw):
+  500 -> 498 units, 1,500 -> 1,494 members. build.py reads families/*/members.tsv and snapshots the overlapping genes
+  to shared_with_other_families.tsv (used when families/ is absent, e.g. isolated rebuild; verified byte-identical).
+- Re-validated: hobench validate_family + panel validate_members 0 issues on all 498 units; verify_provenance (assembled
+  view) PASS 0/0.

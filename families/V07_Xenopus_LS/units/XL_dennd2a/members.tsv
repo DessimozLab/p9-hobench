@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A8J1MJY4	XENLA	dennd2a.L|Xelaev18016715m	XL_dennd2a:L	sequence_rbh	100.00	97.9	8.9	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2319
-A0A1L8GQJ9	XENLA	dennd2a.S|Xelaev18019775m	XL_dennd2a:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2319
-A0A803JWB6	XENTR	dennd2a|Xetrov90007030m	XL_dennd2a:XT	sequence_rbh	99.60	85.6	48.6	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2319
+A0A8J1MJY4	XENLA	dennd2a.L|Xelaev18016715m	XL_dennd2a:L	sequence_rbh	100.00	0.979	8.9	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2319
+A0A1L8GQJ9	XENLA	dennd2a.S|Xelaev18019775m	XL_dennd2a:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2319
+A0A803JWB6	XENTR	dennd2a|Xetrov90007030m	XL_dennd2a:XT	sequence_rbh	99.60	0.856	48.6	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2319

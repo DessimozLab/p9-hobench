@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
 A0A8J0UEI8	XENLA	ahdc1.L|Xelaev18012095m	XL_ahdc1:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 244
-A0A8J0UKG3	XENLA	ahdc1.S|Xelaev18015083m	XL_ahdc1:S	sequence_rbh	100.00	94.5	11.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 244
+A0A8J0UKG3	XENLA	ahdc1.S|Xelaev18015083m	XL_ahdc1:S	sequence_rbh	100.00	0.945	11.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 244
 F6U3B0	XENTR	ahdc1|Xetrov90004808m	XL_ahdc1:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 244

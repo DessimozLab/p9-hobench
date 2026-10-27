@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-Q5U597	XENLA	skap2.L|Xelaev18030981m	XL_skap2:L	sequence_rbh	99.10	100.0	8.8	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11339
-Q5XGP7	XENLA	skap2.S|Xelaev18033066m	XL_skap2:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11339
-Q5FVW6	XENTR	skap2|Xetrov90015914m	XL_skap2:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11339
+Q5U597	XENLA	skap2.L|Xelaev18030981m	XL_skap2:L	sequence_rbh	99.10	1.000	8.8	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11339
+Q5XGP7	XENLA	skap2.S|Xelaev18033066m	XL_skap2:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11339
+Q5FVW6	XENTR	skap2|Xetrov90015914m	XL_skap2:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11339

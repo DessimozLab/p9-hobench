@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8HUL1	XENLA	znf827.L|Xelaev18005518m	XL_znf827:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15578
-A0A1L8HLU0	XENLA	znf827.S|Xelaev18009252m	XL_znf827:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15578
-A0A8J0QQE1	XENTR	znf827|Xetrov90000939m	XL_znf827:XT	sequence_rbh	100.00	92.0	100.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15578
+A0A1L8HUL1	XENLA	znf827.L|Xelaev18005518m	XL_znf827:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15578
+A0A1L8HLU0	XENLA	znf827.S|Xelaev18009252m	XL_znf827:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15578
+A0A8J0QQE1	XENTR	znf827|Xetrov90000939m	XL_znf827:XT	sequence_rbh	100.00	0.920	100.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15578

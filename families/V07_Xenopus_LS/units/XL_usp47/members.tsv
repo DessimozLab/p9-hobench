@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
 A0A8J1MU06	XENLA	usp47.L|Xelaev18021776m	XL_usp47:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15085
-A0A1L8GDT7	XENLA	usp47.S|Xelaev18024571m	XL_usp47:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15085
+A0A1L8GDT7	XENLA	usp47.S|Xelaev18024571m	XL_usp47:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15085
 A1A5G2	XENTR	usp47|Xetrov90026564m	XL_usp47:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15085

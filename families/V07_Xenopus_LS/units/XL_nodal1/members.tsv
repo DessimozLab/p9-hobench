@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-Q91619	XENLA	nodal1.L|Xelaev18018871m	XL_nodal1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9170
-A0A1L8GRI1	XENLA	nodal1.S|Xelaev18020131m	XL_nodal1:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9170
-Q28GB8	XENTR	nodal1|Xetrov90009495m	XL_nodal1:XT	sequence_rbh	99.50	100.0	46.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9170
+Q91619	XENLA	nodal1.L|Xelaev18018871m	XL_nodal1:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9170
+A0A1L8GRI1	XENLA	nodal1.S|Xelaev18020131m	XL_nodal1:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9170
+Q28GB8	XENTR	nodal1|Xetrov90009495m	XL_nodal1:XT	sequence_rbh	99.50	1.000	46.5	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9170

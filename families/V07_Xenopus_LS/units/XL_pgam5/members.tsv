@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A8J0VEE2	XENLA	pgam5.L|Xelaev18007716m	XL_pgam5:L	sequence_rbh	99.60	100.0	9.6	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9716
-Q5FWM4	XENLA	pgam5.S|Xelaev18010558m	XL_pgam5:S	sequence_rbh	99.30	100.0	10.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9716
+A0A8J0VEE2	XENLA	pgam5.L|Xelaev18007716m	XL_pgam5:L	sequence_rbh	99.60	1.000	9.6	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9716
+Q5FWM4	XENLA	pgam5.S|Xelaev18010558m	XL_pgam5:S	sequence_rbh	99.30	1.000	10.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9716
 Q6GL33	XENTR	pgam5|Xetrov90003028m	XL_pgam5:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9716

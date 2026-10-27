@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
 A0A8J0TBK8	XENLA	zbtb40.L|Xelaev18035680m	XL_zbtb40:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15399
 A0A8J1LCX3	XENLA	zbtb40.S|Xelaev18037534m	XL_zbtb40:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15399
-A0A8J0QPZ8	XENTR	zbtb40|Xetrov90018495m	XL_zbtb40:XT	sequence_rbh	99.80	100.0	99.8	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15399
+A0A8J0QPZ8	XENTR	zbtb40|Xetrov90018495m	XL_zbtb40:XT	sequence_rbh	99.80	1.000	99.8	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15399

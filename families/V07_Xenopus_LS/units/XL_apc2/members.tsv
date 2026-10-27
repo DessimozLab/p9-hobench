@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
 A0A8J0UU17	XENLA	apc2.L|Xelaev18006224m	XL_apc2:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 480
-A0A8J1M3F9	XENLA	apc2.S|Xelaev18009755m	XL_apc2:S	sequence_rbh	100.00	96.7	12.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 480
-A0A6I8RPK8	XENTR	apc2|Xetrov90001451m	XL_apc2:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 480
+A0A8J1M3F9	XENLA	apc2.S|Xelaev18009755m	XL_apc2:S	sequence_rbh	100.00	0.967	12.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 480
+A0A6I8RPK8	XENTR	apc2|Xetrov90001451m	XL_apc2:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 480

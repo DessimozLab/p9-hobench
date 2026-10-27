@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A9B0DRR7	XENLA	myoz2.L|Xelaev18005681m	XL_myoz2:L	sequence_rbh	99.60	100.0	9.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8887
-A0A9A9YYG5	XENLA	myoz2.S|Xelaev18009375m	XL_myoz2:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8887
-A0A8J0SKH7	XENTR	myoz2|Xetrov90001131m	XL_myoz2:XT	sequence_rbh	99.60	100.0	65.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8887
+A0A9B0DRR7	XENLA	myoz2.L|Xelaev18005681m	XL_myoz2:L	sequence_rbh	99.60	1.000	9.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8887
+A0A9A9YYG5	XENLA	myoz2.S|Xelaev18009375m	XL_myoz2:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8887
+A0A8J0SKH7	XENTR	myoz2|Xetrov90001131m	XL_myoz2:XT	sequence_rbh	99.60	1.000	65.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8887

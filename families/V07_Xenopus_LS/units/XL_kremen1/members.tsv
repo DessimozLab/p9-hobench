@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8I1A4	XENLA	kremen1.L|Xelaev18007911m	XL_kremen1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4803
-Q90Y90	XENLA	kremen1.S|Xelaev18010707m	XL_kremen1:S	sequence_rbh	99.60	100.0	6.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4803
-A0A6I8SND7	XENTR	kremen1|Xetrov90003224m	XL_kremen1:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4803
+A0A1L8I1A4	XENLA	kremen1.L|Xelaev18007911m	XL_kremen1:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4803
+Q90Y90	XENLA	kremen1.S|Xelaev18010707m	XL_kremen1:S	sequence_rbh	99.60	1.000	6.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4803
+A0A6I8SND7	XENTR	kremen1|Xetrov90003224m	XL_kremen1:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4803

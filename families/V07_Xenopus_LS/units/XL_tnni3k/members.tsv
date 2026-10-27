@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8GLS7	XENLA	tnni3k.L|Xelaev18022940m	XL_tnni3k:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12606
+A0A1L8GLS7	XENLA	tnni3k.L|Xelaev18022940m	XL_tnni3k:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12606
 A0A8J1KM07	XENLA	tnni3k.S|Xelaev18025083m	XL_tnni3k:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12606
 F7EQZ5	XENTR	tnni3k|Xetrov90011647m	XL_tnni3k:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12606

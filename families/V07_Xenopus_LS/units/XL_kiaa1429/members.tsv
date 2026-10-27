@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8FZI9	XENLA	kiaa1429.L|Xelaev18032202m	XL_kiaa1429:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4681
-A0A8J0SY57	XENLA	kiaa1429.S|Xelaev18033875m	XL_kiaa1429:S	sequence_rbh	100.00	98.0	8.8	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4681
-A0A8J0QPM6	XENTR	kiaa1429|Xetrov90017023m	XL_kiaa1429:XT	sequence_rbh	100.00	98.9	100.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4681
+A0A1L8FZI9	XENLA	kiaa1429.L|Xelaev18032202m	XL_kiaa1429:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4681
+A0A8J0SY57	XENLA	kiaa1429.S|Xelaev18033875m	XL_kiaa1429:S	sequence_rbh	100.00	0.980	8.8	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4681
+A0A8J0QPM6	XENTR	kiaa1429|Xetrov90017023m	XL_kiaa1429:XT	sequence_rbh	100.00	0.989	100.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4681

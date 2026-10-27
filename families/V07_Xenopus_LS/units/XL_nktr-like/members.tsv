@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A8J0VFP6	XENLA	nktr-like.L|Xelaev18030600m	XL_nktr-like:L	sequence_rbh	100.00	88.8	25.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9125
-A0A1L8FQG3	XENLA	nktr-like.S|Xelaev18032777m	XL_nktr-like:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9125
-A0A6I8QRZ8	XENTR	nktr-like|Xetrov90015487m	XL_nktr-like:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9125
+A0A8J0VFP6	XENLA	nktr-like.L|Xelaev18030600m	XL_nktr-like:L	sequence_rbh	100.00	0.888	25.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9125
+A0A1L8FQG3	XENLA	nktr-like.S|Xelaev18032777m	XL_nktr-like:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9125
+A0A6I8QRZ8	XENTR	nktr-like|Xetrov90015487m	XL_nktr-like:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9125

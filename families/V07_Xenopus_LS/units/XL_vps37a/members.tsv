@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8HU43	XENLA	vps37a.L|Xelaev18005320m	XL_vps37a:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15171
+A0A1L8HU43	XENLA	vps37a.L|Xelaev18005320m	XL_vps37a:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15171
 A0A8J0Q6B2	XENLA	vps37a.S|Xelaev18009099m	XL_vps37a:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15171
 A0A8J0PGM6	XENTR	vps37a|Xetrov90000703m	XL_vps37a:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15171

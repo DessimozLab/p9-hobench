@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
 A0A8J1MH63	XENLA	tprkb.L|Xelaev18017719m	XL_tprkb:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12672
-A0A1L8GTX6	XENLA	tprkb.S|Xelaev18021010m	XL_tprkb:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12672
+A0A1L8GTX6	XENLA	tprkb.S|Xelaev18021010m	XL_tprkb:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12672
 A0A8J0QK11	XENTR	tprkb|Xetrov90008239m	XL_tprkb:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12672

@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8HEK3	XENLA	lmod1-like.L|Xelaev18012176m	XL_lmod1-like:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4964
-A0A1L8H765	XENLA	lmod1-like.S|Xelaev18015001m	XL_lmod1-like:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4964
-F7BD13	XENTR	lmod1-like|Xetrov90004722m	XL_lmod1-like:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4964
+A0A1L8HEK3	XENLA	lmod1-like.L|Xelaev18012176m	XL_lmod1-like:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4964
+A0A1L8H765	XENLA	lmod1-like.S|Xelaev18015001m	XL_lmod1-like:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4964
+F7BD13	XENTR	lmod1-like|Xetrov90004722m	XL_lmod1-like:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4964

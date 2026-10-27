@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A8J0PZJ8	XENLA	wdr46.L|Xelaev18039126m	XL_wdr46:L	sequence_rbh	99.50	99.2	6.8	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15248
-A0A1L8F3I4	XENLA	wdr46.S|Xelaev18042418m	XL_wdr46:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15248
-A0A8J0QU76	XENTR	wdr46|Xetrov90020782m	XL_wdr46:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15248
+A0A8J0PZJ8	XENLA	wdr46.L|Xelaev18039126m	XL_wdr46:L	sequence_rbh	99.50	0.992	6.8	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15248
+A0A1L8F3I4	XENLA	wdr46.S|Xelaev18042418m	XL_wdr46:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15248
+A0A8J0QU76	XENTR	wdr46|Xetrov90020782m	XL_wdr46:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 15248

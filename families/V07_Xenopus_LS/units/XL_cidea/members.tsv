@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A8J0Q240	XENLA	cidea.L|Xelaev18031828m	XL_cidea:L	sequence_rbh	99.50	100.0	6.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1701
-A0A8J0Q0Q9	XENLA	cidea.S|Xelaev18033611m	XL_cidea:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1701
-A0A8J0PEK7	XENTR	cidea|Xetrov90016625m	XL_cidea:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1701
+A0A8J0Q240	XENLA	cidea.L|Xelaev18031828m	XL_cidea:L	sequence_rbh	99.50	1.000	6.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1701
+A0A8J0Q0Q9	XENLA	cidea.S|Xelaev18033611m	XL_cidea:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1701
+A0A8J0PEK7	XENTR	cidea|Xetrov90016625m	XL_cidea:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1701

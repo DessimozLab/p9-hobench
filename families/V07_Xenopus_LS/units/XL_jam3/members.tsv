@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
 A0A8J0TBK1	XENLA	jam3.L|Xelaev18035231m	XL_jam3:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4511
-A0A1L8FFK6	XENLA	jam3.S|Xelaev18037274m	XL_jam3:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4511
-A0A803K8M1	XENTR	jam3|Xetrov90018195m	XL_jam3:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4511
+A0A1L8FFK6	XENLA	jam3.S|Xelaev18037274m	XL_jam3:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4511
+A0A803K8M1	XENTR	jam3|Xetrov90018195m	XL_jam3:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4511

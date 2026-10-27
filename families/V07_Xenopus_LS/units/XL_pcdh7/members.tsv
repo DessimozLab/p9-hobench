@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
 A0A8J1ME87	XENLA	pcdh7.L|Xelaev18005193m	XL_pcdh7:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9576
 A0A8J1M0T4	XENLA	pcdh7.S|Xelaev18008979m	XL_pcdh7:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9576
-A0A7D9NLR4	XENTR	pcdh7|Xetrov90000564m	XL_pcdh7:XT	sequence_rbh	100.00	83.9	49.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9576
+A0A7D9NLR4	XENTR	pcdh7|Xetrov90000564m	XL_pcdh7:XT	sequence_rbh	100.00	0.839	49.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 9576

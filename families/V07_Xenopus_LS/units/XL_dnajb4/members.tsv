@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8GLL7	XENLA	dnajb4.L|Xelaev18022913m	XL_dnajb4:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2465
-A0A9B0DNC0	XENLA	dnajb4.S|Xelaev18025066m	XL_dnajb4:S	sequence_rbh	99.40	97.1	5.6	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2465
-A0A8J0Q8E7	XENTR	dnajb4|Xetrov90011619m	XL_dnajb4:XT	sequence_rbh	99.70	85.7	35.6	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2465
+A0A1L8GLL7	XENLA	dnajb4.L|Xelaev18022913m	XL_dnajb4:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2465
+A0A9B0DNC0	XENLA	dnajb4.S|Xelaev18025066m	XL_dnajb4:S	sequence_rbh	99.40	0.971	5.6	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2465
+A0A8J0Q8E7	XENTR	dnajb4|Xetrov90011619m	XL_dnajb4:XT	sequence_rbh	99.70	0.857	35.6	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 2465

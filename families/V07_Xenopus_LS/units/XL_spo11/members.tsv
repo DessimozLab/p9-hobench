@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8ESW0	XENLA	spo11.L|Xelaev18043498m	XL_spo11:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11811
+A0A1L8ESW0	XENLA	spo11.L|Xelaev18043498m	XL_spo11:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11811
 A0A8J0TY63	XENLA	spo11.S|Xelaev18046215m	XL_spo11:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11811
 A0A6I8R4Z2	XENTR	spo11|Xetrov90027724m	XL_spo11:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 11811

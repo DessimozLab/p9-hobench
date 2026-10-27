@@ -152,7 +152,7 @@ def seq_map(query: dict, paper_all: dict, panel: dict) -> dict:
     for q, sq in query.items():
         hits = by_seq.get(sq, [])
         if len(hits) == 1:
-            res[q] = ("mapped", hits[0], "exact", "100.0", "100.0", "", "", "identical sequence")
+            res[q] = ("mapped", hits[0], "exact", "100.0", "1.000", "", "", "identical sequence")
         elif len(hits) > 1:
             res[q] = ("ambiguous", "", "", "", "", "", "", f"identical to {len(hits)} panel proteins")
         else:
@@ -177,7 +177,7 @@ def seq_map(query: dict, paper_all: dict, panel: dict) -> dict:
             why.append(f"margin {margin:.1f}<{SEQ_MARGIN}")
         if why:
             res[q] = ("unmapped" if b[1] < SEQ_ID or cov < SEQ_COV else "ambiguous", b[0], "", f"{b[1]:.2f}",
-                      f"{cov:.1f}", f"{margin:.1f}", "", "best hit " + b[0] + ": " + "; ".join(why))
+                      f"{cov / 100:.3f}", f"{margin:.1f}", "", "best hit " + b[0] + ": " + "; ".join(why))
         else:
             cand[q] = (b, margin, cov)
     rev = _diamond({b[0]: panel[b[0]] for b, _, _ in cand.values()}, paper_all, 5) if cand else {}
@@ -186,10 +186,10 @@ def seq_map(query: dict, paper_all: dict, panel: dict) -> dict:
         top = [h for h in r if r and h[4] == r[0][4]]
         rbh = bool(r) and r[0][0] == q and len(top) == 1
         if rbh:
-            res[q] = ("mapped", b[0], "sequence_rbh", f"{b[1]:.2f}", f"{cov:.1f}", f"{margin:.1f}", "1",
+            res[q] = ("mapped", b[0], "sequence_rbh", f"{b[1]:.2f}", f"{cov / 100:.3f}", f"{margin:.1f}", "1",
                       "diamond reciprocal best hit")
         else:
-            res[q] = ("ambiguous", "", "", f"{b[1]:.2f}", f"{cov:.1f}", f"{margin:.1f}", "0",
+            res[q] = ("ambiguous", "", "", f"{b[1]:.2f}", f"{cov / 100:.3f}", f"{margin:.1f}", "0",
                       f"best hit {b[0]} is not reciprocal")
     return res
 
@@ -229,6 +229,38 @@ def diamond_qc(units: list[dict], seqs: dict) -> dict:
             if qid not in best or float(bs) > best[qid][3]:
                 best[qid] = (sid, float(pid), float(qc), float(bs))
     return best
+
+
+SHARED_SNAPSHOT = FAM / "shared_with_other_families.tsv"
+
+
+def shared_genes() -> dict:
+    """gene_id -> other family id, from every families/*/members.tsv (and units/*/members.tsv) except this one.
+    The result is snapshotted to shared_with_other_families.tsv, which is used when families/ is not available
+    (e.g. the verifier's isolated rebuild)."""
+    out: dict[str, str] = {}
+    fams = ROOT / "families"
+    others = [d for d in sorted(fams.iterdir()) if d.is_dir() and d.name != ID] if fams.exists() else []
+    if not others and SHARED_SNAPSHOT.exists():
+        with open(SHARED_SNAPSHOT) as f:
+            return {r["gene_id"]: r["family"] for r in csv.DictReader(f, delimiter="\t")}
+    for d in others:
+        for m in [d / "members.tsv", *sorted(d.glob("units/*/members.tsv"))]:
+            if not m.exists():
+                continue
+            with open(m) as f:
+                for r in csv.DictReader(f, delimiter="\t"):
+                    if r.get("gene_id"):
+                        out.setdefault(r["gene_id"], d.name)
+    return out
+
+
+def write_shared_snapshot(used: dict) -> None:
+    with open(SHARED_SNAPSHOT, "w", newline="") as f:
+        w = csv.writer(f, delimiter="\t")
+        w.writerow(["gene_id", "family"])
+        for g in sorted(used):
+            w.writerow([g, used[g]])
 
 
 def main() -> int:
@@ -319,6 +351,17 @@ def main() -> int:
             passing.append(c)
     passing.sort(key=lambda c: c["uid"])
     chosen = sorted(random.Random(SEED).sample(passing, min(MAX_UNITS, len(passing))), key=lambda c: c["uid"])
+    # Erratum 2026-10-27 (PI): drop sampled units sharing any gene with another family (the other curation is richer).
+    shared = shared_genes()
+    mine = {a for c in passing for a in (c["L"], c["S"], c["XT"])}
+    shared = {g: f for g, f in shared.items() if g in mine}
+    write_shared_snapshot(shared)
+    dropped = {}
+    for c in chosen:
+        hit = sorted({f"{a}:{shared[a]}" for a in (c["L"], c["S"], c["XT"]) if a in shared})
+        if hit:
+            dropped[c["uid"]] = "dropped: shares gene(s) with another family (" + ", ".join(hit) + ")"
+    chosen = [c for c in chosen if c["uid"] not in dropped]
     chosen_ids = {c["uid"] for c in chosen}
 
     # ---------------------------------------------------------------- sources
@@ -390,7 +433,7 @@ def main() -> int:
         w.writerow(["unit", "unit_status", "original_id", "species", "slot", "status", "gene_id", "mapping_method",
                     "mapping_identity", "mapping_coverage", "reason", "locator"])
         for u in report:
-            ust = ("unit" if u["uid"] in chosen_ids else
+            ust = ("unit" if u["uid"] in chosen_ids else dropped[u["uid"]] if u["uid"] in dropped else
                    f"not_a_unit: {u['problem']}" if u["problem"] else "not_sampled (passes all checks)")
             for s, g in u["res"].items():
                 n_status[g["status"]] += 1
@@ -406,7 +449,7 @@ def main() -> int:
                 complete_species=[], decoys=[], distinct_from=[],
                 tier_summary=dict(T2_D_ALLO=len(chosen), T2_S_Xenopus=len(chosen)),
                 sampling=dict(seed=SEED, max_units=MAX_UNITS, candidates_passing=len(passing),
-                              units=len(chosen), method="random.Random(seed).sample over passing units sorted by id"),
+                              units=len(chosen), dropped_shared_with_other_families=sorted(dropped), method="random.Random(seed).sample over passing units sorted by id"),
                 counts=dict(source_homeolog_rows=len(report), gene_slots_by_status=dict(n_status),
                             unit_rejections=dict(probs)),
                 protocol_version=1,

@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
 A0A8J0TWI4	XENLA	ube2f.L|Xelaev18044843m	XL_ube2f:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12929
-Q6IRC7	XENLA	ube2f.S|Xelaev18047289m	XL_ube2f:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12929
+Q6IRC7	XENLA	ube2f.S|Xelaev18047289m	XL_ube2f:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12929
 Q5M8Y2	XENTR	ube2f|Xetrov90024079m	XL_ube2f:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12929

@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
 A0A8J1LFS1	XENLA	rapgef1.L|Xelaev18038412m	XL_rapgef1:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10527
-A0A8J0PWA0	XENLA	rapgef1.S|Xelaev18041615m	XL_rapgef1:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10527
+A0A8J0PWA0	XENLA	rapgef1.S|Xelaev18041615m	XL_rapgef1:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10527
 A0A6I8SVV7	XENTR	rapgef1|Xetrov90019882m	XL_rapgef1:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10527

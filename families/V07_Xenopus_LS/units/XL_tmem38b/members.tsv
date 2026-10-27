@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-Q6GN30	XENLA	tmem38b.L|Xelaev18006745m	XL_tmem38b:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12521
-Q3KQE5	XENLA	tmem38b.S|Xelaev18010027m	XL_tmem38b:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12521
-Q28FA9	XENTR	tmem38b|Xetrov90002113m	XL_tmem38b:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12521
+Q6GN30	XENLA	tmem38b.L|Xelaev18006745m	XL_tmem38b:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12521
+Q3KQE5	XENLA	tmem38b.S|Xelaev18010027m	XL_tmem38b:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12521
+Q28FA9	XENTR	tmem38b|Xetrov90002113m	XL_tmem38b:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12521

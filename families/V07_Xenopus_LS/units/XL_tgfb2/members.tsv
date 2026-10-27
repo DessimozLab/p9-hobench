@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-P17247	XENLA	tgfb2.L|Xelaev18026237m	XL_tgfb2:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12290
+P17247	XENLA	tgfb2.L|Xelaev18026237m	XL_tgfb2:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12290
 A0A8J0VED0	XENLA	tgfb2.S|Xelaev18028671m	XL_tgfb2:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12290
 A0A6I8R415	XENTR	tgfb2|Xetrov90013056m	XL_tgfb2:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 12290

@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A8J0TCB2	XENLA	kif26a-like.L|Xelaev18039738m	XL_kif26a-like:L	sequence_rbh	100.00	97.8	8.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4710
-A0A8J0TLX9	XENLA	kif26a-like.S|Xelaev18041163m	XL_kif26a-like:S	sequence_rbh	100.00	97.8	8.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4710
-A0A6I8SLJ9	XENTR	kif26a-like|Xetrov90021441m	XL_kif26a-like:XT	sequence_rbh	99.40	97.8	52.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4710
+A0A8J0TCB2	XENLA	kif26a-like.L|Xelaev18039738m	XL_kif26a-like:L	sequence_rbh	100.00	0.978	8.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4710
+A0A8J0TLX9	XENLA	kif26a-like.S|Xelaev18041163m	XL_kif26a-like:S	sequence_rbh	100.00	0.978	8.0	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4710
+A0A6I8SLJ9	XENTR	kif26a-like|Xetrov90021441m	XL_kif26a-like:XT	sequence_rbh	99.40	0.978	52.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 4710

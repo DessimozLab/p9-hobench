@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
 A0A8J1MYA0	XENLA	adamts9.L|Xelaev18024131m	XL_adamts9:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 161
 A0A8J1KK78	XENLA	adamts9.S|Xelaev18026018m	XL_adamts9:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 161
-A0A8J0QI19	XENTR	adamts9|Xetrov90012884m	XL_adamts9:XT	sequence_rbh	100.00	96.8	44.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 161
+A0A8J0QI19	XENTR	adamts9|Xetrov90012884m	XL_adamts9:XT	sequence_rbh	100.00	0.968	44.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 161

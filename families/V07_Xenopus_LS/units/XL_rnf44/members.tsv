@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A8J0UI09	XENLA	rnf44.L|Xelaev18017326m	XL_rnf44:L	sequence_rbh	100.00	92.5	4.4	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10834
+A0A8J0UI09	XENLA	rnf44.L|Xelaev18017326m	XL_rnf44:L	sequence_rbh	100.00	0.925	4.4	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10834
 A0A8J0URR2	XENLA	rnf44.S|Xelaev18021355m	XL_rnf44:S	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10834
 A0A6I8RGY3	XENTR	rnf44|Xetrov90007748m	XL_rnf44:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10834

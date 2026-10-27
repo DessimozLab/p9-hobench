@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8HU42	XENLA	mfap3l-like.L|Xelaev18005415m	XL_mfap3l-like:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8441
-A0A8J0PUV6	XENLA	mfap3l-like.S|Xelaev18009164m	XL_mfap3l-like:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8441
-F6ZL14	XENTR	mfap3l-like|Xetrov90000800m	XL_mfap3l-like:XT	sequence_rbh	100.00	92.4	40.4	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8441
+A0A1L8HU42	XENLA	mfap3l-like.L|Xelaev18005415m	XL_mfap3l-like:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8441
+A0A8J0PUV6	XENLA	mfap3l-like.S|Xelaev18009164m	XL_mfap3l-like:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8441
+F6ZL14	XENTR	mfap3l-like|Xetrov90000800m	XL_mfap3l-like:XT	sequence_rbh	100.00	0.924	40.4	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8441

@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
 A0A8J0TDZ9	XENLA	cmklr1.L|Xelaev18007873m	XL_cmklr1:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1795
-A0A1L8HQV5	XENLA	cmklr1.S|Xelaev18010684m	XL_cmklr1:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1795
-A0A8J0QDF6	XENTR	cmklr1|Xetrov90003195m	XL_cmklr1:XT	sequence_rbh	99.70	100.0	50.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1795
+A0A1L8HQV5	XENLA	cmklr1.S|Xelaev18010684m	XL_cmklr1:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1795
+A0A8J0QDF6	XENTR	cmklr1|Xetrov90003195m	XL_cmklr1:XT	sequence_rbh	99.70	1.000	50.2	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 1795

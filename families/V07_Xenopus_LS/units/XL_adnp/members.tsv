@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A1L8ESP4	XENLA	adnp.L|Xelaev18043449m	XL_adnp:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 187
-A0A1L8ELH0	XENLA	adnp.S|Xelaev18046180m	XL_adnp:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 187
-A0A803J7J2	XENTR	adnp|Xetrov90025258m	XL_adnp:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 187
+A0A1L8ESP4	XENLA	adnp.L|Xelaev18043449m	XL_adnp:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 187
+A0A1L8ELH0	XENLA	adnp.S|Xelaev18046180m	XL_adnp:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 187
+A0A803J7J2	XENTR	adnp|Xetrov90025258m	XL_adnp:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 187

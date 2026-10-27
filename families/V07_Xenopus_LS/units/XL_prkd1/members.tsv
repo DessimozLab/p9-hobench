@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A8J1LI84	XENLA	prkd1.L|Xelaev18040010m	XL_prkd1:L	sequence_rbh	99.10	100.0	4.4	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10187
-A0A1L8EZL7	XENLA	prkd1.S|Xelaev18041007m	XL_prkd1:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10187
-A0A8J0QCL6	XENTR	prkd1|Xetrov90021744m	XL_prkd1:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10187
+A0A8J1LI84	XENLA	prkd1.L|Xelaev18040010m	XL_prkd1:L	sequence_rbh	99.10	1.000	4.4	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10187
+A0A1L8EZL7	XENLA	prkd1.S|Xelaev18041007m	XL_prkd1:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10187
+A0A8J0QCL6	XENTR	prkd1|Xetrov90021744m	XL_prkd1:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10187

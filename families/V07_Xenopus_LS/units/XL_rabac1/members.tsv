@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A9A9Z2R9	XENLA	rabac1.L|Xelaev18035956m	XL_rabac1:L	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10473
-A0A8J0PUC3	XENLA	rabac1.S|Xelaev18037726m	XL_rabac1:S	sequence_rbh	99.50	100.0	9.1	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10473
+A0A9A9Z2R9	XENLA	rabac1.L|Xelaev18035956m	XL_rabac1:L	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10473
+A0A8J0PUC3	XENLA	rabac1.S|Xelaev18037726m	XL_rabac1:S	sequence_rbh	99.50	1.000	9.1	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10473
 A0A8J0PLD1	XENTR	rabac1|Xetrov90019079m	XL_rabac1:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 10473

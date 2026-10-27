@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
-A0A8J0PXH0	XENLA	apobec2.L|Xelaev18012189m	XL_apobec2:L	sequence_rbh	100.00	81.7	7.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 497
-A0A1L8H750	XENLA	apobec2.S|Xelaev18014989m	XL_apobec2:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 497
+A0A8J0PXH0	XENLA	apobec2.L|Xelaev18012189m	XL_apobec2:L	sequence_rbh	100.00	0.817	7.3	1	Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 497
+A0A1L8H750	XENLA	apobec2.S|Xelaev18014989m	XL_apobec2:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 497
 A0A8J0PEE9	XENTR	apobec2|Xetrov90004706m	XL_apobec2:XT	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 497

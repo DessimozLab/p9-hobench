@@ -1,4 +1,4 @@
 gene_id	species	original_id_in_paper	label	mapping_method	mapping_identity	mapping_coverage	mapping_margin	reciprocal_best_hit	source	locator
 A0A8J1LSD2	XENLA	ndufa10.L|Xelaev18044813m	XL_ndufa10:L	gene_name_exact					Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8995
-A0A8J0PUF7	XENLA	ndufa10.S|Xelaev18047261m	XL_ndufa10:S	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8995
-A0A8J0PN02	XENTR	ndufa10|Xetrov90024112m	XL_ndufa10:XT	exact	100.0	100.0			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8995
+A0A8J0PUF7	XENLA	ndufa10.S|Xelaev18047261m	XL_ndufa10:S	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8995
+A0A8J0PN02	XENTR	ndufa10|Xetrov90024112m	XL_ndufa10:XT	exact	100.0	1.000			Session2016	Supplementary Table 7_ Ks.xlsx:XT-XL.ortho:row 8995
