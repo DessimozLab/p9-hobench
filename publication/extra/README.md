@@ -62,7 +62,8 @@ merge-level accuracy in families that consist mostly of speciation nodes.
 | `families/` | frozen references; `ERRATA.md`, `VERIFICATION.md`, `AUDIT.md` |
 | `panels/` | species tables, trees, levels, subset ID lists |
 | `runs/`, `results/` | the paper's tool outputs and result tables |
-| `docs/` | design, curation protocol, data sources (`DATA.md`), process record, design reviews |
+| `docs/` | design, curation protocol, data sources (`DATA.md`), process record, design reviews (process files are the
+live research record and contain intermediate numbers; the manuscript and `results/` supersede them) |
 | `prompts/` | the human prompts that started the project and the manuscript |
 | `tests/` | unit tests with hand-derived expected values (`pytest -q tests`) |
 

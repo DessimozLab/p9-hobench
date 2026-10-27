@@ -52,7 +52,7 @@ al. 2010] replaced them.
 gene loss leaves paralogs that look like orthologs. The rule was restricted to synteny-based sets.
 
 \section*{3. Metrics}
-Running trivial baselines on real data exposed five defects that the toy tests had missed (\texttt{results/ERRATA.md}):
+Trivial baselines and error analyses on real data exposed five defects that the toy tests had missed (\texttt{results/ERRATA.md}):
 \begin{enumerate}
 \item \textbf{Untestable events.} All-singletons ``recovered'' 86\% of YGOB WGD events. Fix: score only events that
 both trivial baselines can fail.
@@ -107,7 +107,7 @@ $\rho=-0.41$ ($p=0.19$, $n=12$), so the claim was withdrawn.
 \textbf{Confirmatory test on the first two panels.} With only the yeast and prokaryote panels, the paired test had two
 items per endpoint, so the smallest possible $p$ value was 0.5. The test became meaningful only after pooling all panels.
 
-\textbf{Quality-control covariates.} OMArk completeness and contamination scores were computed for all proteomes but
+\textbf{Quality-control covariates.} OMArk scores for completeness and contamination were computed for all proteomes but
 were not used in the analysis.
 
 \textbf{Source audit by keyword.} The audit script flagged NCBI ``LOC'' identifiers in 40 \textit{X. laevis} unit

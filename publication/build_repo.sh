@@ -78,7 +78,7 @@ echo "final size: $(du -sh --apparent-size "$DST" | cut -f1)"
 # manuscript sources, figures and PDFs
 mkdir -p "$DST/manuscript/figures"
 for f in hobench_manuscript.tex S1_Text.tex S2_Text.tex preamble.tex references.bib plos2025.bst make_figures.py \
-         hobench_manuscript.pdf S1_Text.pdf S2_Text.pdf; do
+         hobench_manuscript.pdf S1_Text.pdf S2_Text.pdf CLAIM_CHECK.md; do
   [ -f "$SRC/publication/manuscript/$f" ] && cp "$SRC/publication/manuscript/$f" "$DST/manuscript/"
 done
 cp "$SRC"/publication/manuscript/figures/* "$DST/manuscript/figures/"
