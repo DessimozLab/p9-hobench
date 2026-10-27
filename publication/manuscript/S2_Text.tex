@@ -1,0 +1,70 @@
+\documentclass[10pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{booktabs,array}
+\setlength{\parindent}{0pt}\setlength{\parskip}{4pt}
+\begin{document}
+{\large\textbf{S2 Text. Metric errata, reference corrections and blind verification}}\\[2pt]
+HOBench manuscript (AI-agent-run project; see main text). Full records: \texttt{results/ERRATA.md},
+\texttt{families/ERRATA.md}, \texttt{families/VERIFICATION.md}, \texttt{design/MUTATION\_REPORT.md}.
+
+\section*{Metric errata}
+All five defects were found by trivial baselines or by error analysis. Each fix changed the definition for every
+method in the same way; values before and after are in \texttt{results/ERRATA.md}. E1, E2 and E4 were decided before
+results for panels E, V and P were seen. Entry E3 in \texttt{results/ERRATA.md} records reporting changes from design
+review round 2 (baselines and skill shown with every endpoint; separate control track), not a defect. E5 was triggered by an error analysis of a FastOMA result on panel P.
+\begin{tabular}{p{1cm}p{7cm}p{7cm}}
+\toprule
+Errata ID & Defect & Fix \\
+\midrule
+E1 & events with an unbounded copy interval and single-gene copies counted as recovered by all-singletons & score only events that both trivial baselines can fail \\
+E2 & flat groups were treated as singletons below the root & project each flat group to every level \\
+E4 & one big HOG recovered species-level duplications with single-gene copies & headline event recovery over internal branches; leaf events reported separately \\
+E5 & membership F1 required families with an unresolved root to form one group & count only separations asserted by the reference \\
+(evaluator) & families sharing a panel-level label were collapsed into one item ($n=2$ instead of 5 on panel E) & collapse only true collections \\
+\bottomrule
+\end{tabular}
+
+\section*{Reference corrections after the freeze}
+\begin{itemize}
+\item V07 (\textit{X. laevis} homeologs): mapping coverage was stored as a percentage instead of a fraction; two units
+that shared genes with V03 (Hox) were removed (500 to 498 units). No V results had been seen.
+\item Y03 (URA1): one quote that did not state a transfer was demoted from T1 to supporting; scored relations did not change.
+\item Audit notes: NCBI ``LOC'' strings in V07 unit names were checked and found to be labels, not evidence.
+\end{itemize}
+
+\section*{Blind verification}
+A verifier agent that had not curated the families re-derived min(all, 30) seeded assertions per family from the stored
+sources, without seeing the claimed values. Two or more discrepancies failed a family; one discrepancy triggered a
+second sample. Upper bound = two-sided 95\% Clopper--Pearson bound on the discrepancy rate.
+
+\begin{tabular}{lrrrl}
+\toprule
+Family & Items checked & Discrepancies & Upper bound & Verdict \\
+\midrule
+Y01 YGOB pillars (30 units) & 49 & 0 & 0.073 & pass \\
+Y03 URA1 & 17 & 0 & 0.195 & pass \\
+K01 ribosomal proteins (30 units) & 30 & 0 & 0.116 & pass \\
+K02 EF-Tu/EF-G & 31 & 0 & 0.112 & pass \\
+K04 analogous enzymes (pooled) & 60 & 0 & 0.060 & pass \\
+E01 kinesins & 32 & 0 & 0.109 & pass \\
+E02 ARF & 35 & 0 & 0.100 & pass \\
+E03 Rab & 44 & 0 & 0.080 & pass \\
+E04 tubulins & 31 & 0 & 0.112 & pass \\
+E05 MCM & 32 & 0 & 0.109 & pass \\
+E06 myosins & 31 & 0 & 0.112 & pass \\
+E07a/b/c adaptins & 31 each & 0 & 0.112 & pass \\
+V02 opsins & 45 & 1 & 0.118 & pass after resample \\
+V03 Hox & 91 & 0 & 0.040 & pass \\
+V07 \textit{X. laevis} (30 units) & 60 & 0 & 0.060 & pass \\
+P01 plant homeobox & 35 & 0 & 0.100 & pass \\
+P02 bHLH & 33 & 0 & 0.106 & pass \\
+P03 GID1/CXE & 32 & 0 & 0.109 & pass \\
+P04 MIPs & 34 & 0 & 0.103 & pass \\
+V04 Sox & 47 & 0 & 0.075 & pass \\
+V01 globins & 37 & 2 & 0.182 & fail (secondary) \\
+\bottomrule
+\end{tabular}
+
+The verifier could not be fully blind in all cases: some sources make the claimed label obvious from the row being
+checked. The upper bounds show that 30 items bound the error rate only to about 10\% per family.
+\end{document}

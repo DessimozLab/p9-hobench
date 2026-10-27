@@ -1,0 +1,116 @@
+\documentclass[10pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{booktabs,array}
+\usepackage[hidelinks]{hyperref}
+\setlength{\parindent}{0pt}\setlength{\parskip}{4pt}
+\begin{document}
+{\large\textbf{S1 Text. Ideas that did not work}}\\[2pt]
+HOBench manuscript. This project was run by AI agents as an experiment in agent-run research (see the main text).
+The list below covers the major approaches that were tried and then abandoned, corrected or found to be
+uninformative. Evidence for each item is in the repository: \texttt{docs/process/RESEARCH\_TREE.md} (decisions),
+\texttt{docs/process/LESSONS.md}, \texttt{docs/reviews/}, \texttt{results/ERRATA.md}, \texttt{families/ERRATA.md} and
+\texttt{results/catalogue/abandoned.md}.
+
+\section*{1. Process}
+\textbf{Running many subagents in parallel.} After the design review, the PI agent launched 13 subagents at once
+(10 curators and 3 engineers). Within about an hour, they used up the account's session limit, and all of them stopped
+mid-task. About 3.8 hours were lost, and two later outages cost about 7 more hours. Afterwards, the PI ran at most
+four or five subagents at a time and resumed stopped subagents instead of starting new ones.
+
+\textbf{Checking the request folder late.} The ranked list of 50 paywalled papers was posted 45 minutes into the
+project. A human delivered 49 items within about 1.5 hours, but the PI checked the folder only 10 hours later.
+Several curators had worked without these sources in the meantime.
+
+\textbf{Checking data sources at curation time.} The teleost 3R ohnolog tables of Braasch et al. 2016 were planned
+as a genome-scale collection. During curation, a curator found that the tables were derived from Ensembl Compara gene
+trees, which the protocol excludes as truth. The collection was dropped. An earlier source audit would have saved the
+planning time.
+
+\textbf{Deriving status from free text.} The evaluation script first decided whether a family was headline-eligible
+by searching its curation log for phrases such as ``not headline''. A shared status line made it misclassify one
+family (E07c). The catalogue's computed column replaced the text search.
+
+\textbf{A demonstration script in a shared directory.} A tooling agent's demonstration run overwrote the directory of
+freshly downloaded proteomes. They were downloaded again.
+
+\section*{2. Reference encoding}
+\textbf{Point-valued merge levels.} The first formalism gave each reference duplication a single species-tree branch.
+Reviewers showed with toy cases that a correct prediction for a teleost WGD then scored 0.33, while never merging
+scored 1.0. Interval-valued references replaced point values.
+
+\textbf{Duplication at the WGD node for yeast.} The first encoding placed the yeast WGD on the branch leading to the
+post-WGD clade. The hybrid-origin model~[Marcet-Houben and Gabaldón 2015] makes this wrong, so we used an interval up
+to the Saccharomycetaceae root. This trade-off made most YGOB events untestable (1,390 of 1,592), because the upper
+bound lies outside the family range and many copies are single genes.
+
+\textbf{$\beta$-lactamase classes as non-homologous decoys.} The first design used $\beta$-lactamase classes A, B, C
+and D as families that must never merge. Four reviewers pointed out that classes A, C and D are homologous and that
+plasmid alleles are absent from reference proteomes. Pairs of non-homologous isofunctional enzymes~[Omelchenko et
+al. 2010] replaced them.
+
+\textbf{``At most one gene per species means orthologs.''} This rule is false across WGD lineages, because reciprocal
+gene loss leaves paralogs that look like orthologs. The rule was restricted to synteny-based sets.
+
+\section*{3. Metrics}
+Running trivial baselines on real data exposed five defects that the toy tests had missed (\texttt{results/ERRATA.md}):
+\begin{enumerate}
+\item \textbf{Untestable events.} All-singletons ``recovered'' 86\% of YGOB WGD events. Fix: score only events that
+both trivial baselines can fail.
+\item \textbf{Flat baseline projection.} OrthoFinder orthogroups without hierarchy were first treated as singletons
+below the root, so the flat baseline equalled all-singletons. Fix: project each group to every level.
+\item \textbf{Leaf-level duplications.} One big HOG ``recovered'' species-specific duplications with single-gene
+copies, because these events test only whether in-paralogs are grouped. Fix: report them separately.
+\item \textbf{Unresolved roots in membership F1.} The metric required families with an unresolved root to form one
+group, which the reference does not assert. Fix: count only separations that the reference asserts; this made
+membership F1 undefined for the prokaryote panel.
+\item \textbf{Summary aggregation.} Families that shared a panel-level label were collapsed into one item, so a panel
+showed $n=2$ instead of $n=5$. Fix: only true collections are collapsed.
+\end{enumerate}
+The lesson is to run controls on real data before scoring any method.
+
+\section*{4. Families that were abandoned or demoted}
+\begin{tabular}{p{4cm}p{11cm}}
+\toprule
+Candidate & Reason \\
+\midrule
+Teleost 3R ohnologs & source tables derived from Ensembl Compara (excluded as truth) \\
+Salmonid 4R (AORe/LORe) & needs several salmonids; the \textit{Coregonus} proteome downloaded empty; dropped for budget \\
+Full YGOB pillars & server refused connections; the archived file is truncated; only 2 species have track data \\
+Scannell 2006 per-locus losses & delivered paper and supplements contain no per-gene identifiers \\
+Protein kinome (Manning 2002) & delivered tables give identifiers for human only \\
+MADS-box genes & delivered sources label identifiers for 2--3 panel species \\
+Nitrogenase, GAPDH transfer, GAL-cluster HGT & fewer than 4 panel species with members \\
+Myosins, plant homeobox, Sox, two adaptin families & below 80\% unique mapping (old gene models, scaffold identifiers) \\
+Globins & failed blind verification (intervals wider than the source supports) \\
+SwissTree reference trees & started late, stopped by an outage \\
+KRAB zinc fingers, chemokines, B-family polymerases & not started (budget) \\
+\bottomrule
+\end{tabular}
+
+\textbf{Motor-domain sequences.} Kinesin and myosin sources give only motor domains, which fail the 80\% coverage
+rule. A domain rule ($\geq$250 residues, $\geq$90\% of the domain at $\geq$98\% identity) rescued 38 kinesins but not
+enough myosins (73\% mapped).
+
+\section*{5. Experiments}
+\textbf{Testing OMAmer leakage.} We planned to run FastOMA with an OMAmer database that excludes the panel species, to
+test whether FastOMA benefits from OMA-derived placements. Building such a database was not feasible within the
+budget. The possible advantage remains a limitation.
+
+\textbf{Mild robustness perturbations.} Contamination with 20 proteins touched only 8--13 units. A ten times stronger
+follow-up (200 proteins) still did not change reference relations. A single changed species-tree node and removal of
+two species also had no effect beyond FastOMA's run-to-run noise. Stronger species-tree errors were not tested.
+
+\textbf{Difficulty versus agreement.} An early analysis reported that harder families show lower tool agreement
+(Spearman $\rho=-0.58$, $n=20$). That analysis included non-headline families. On headline items with three methods,
+$\rho=-0.41$ ($p=0.19$, $n=12$), so the claim was withdrawn.
+
+\textbf{Confirmatory test on the first two panels.} With only the yeast and prokaryote panels, the paired test had two
+items per endpoint, so the smallest possible $p$ value was 0.5. The test became meaningful only after pooling all panels.
+
+\textbf{Quality-control covariates.} OMArk completeness and contamination scores were computed for all proteomes but
+were not used in the analysis.
+
+\textbf{Source audit by keyword.} The audit script flagged NCBI ``LOC'' identifiers in 40 \textit{X. laevis} unit
+names. Manual inspection showed that they were display labels; the evidence came from the Session et al. 2016 table.
+The rule was refined.
+\end{document}
