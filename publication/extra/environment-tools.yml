@@ -1,0 +1,24 @@
+# Additional tools used to produce the paper's runs (wrapper/), subsets (wrapper.subset) and curation (curation_tools/)
+name: hobench-tools
+channels: [conda-forge, bioconda]
+dependencies:
+  - python=3.11
+  - orthofinder=3.1.5
+  - fastoma=0.5.0
+  - omamer=2.1.0
+  - nextflow
+  - diamond=2.2.8
+  - mafft
+  - fasttree
+  - iqtree
+  - biopython=1.88
+  - numpy=1.26.4
+  - pandas=3.0.6
+  - scipy=1.17.1
+  - lxml=6.1.3
+  - pyyaml=6.0.3
+  - requests=2.34.2
+  - openpyxl=3.1.5
+  - xlrd
+  - python-docx
+  - pypdf

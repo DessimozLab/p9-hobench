@@ -195,6 +195,23 @@ def load_run(run: Path, st, kw, cache: Path, placements):
         pred = read_prediction("orthofinder", d / "Phylogenetic_Hierarchical_Orthogroups", st,
                                of_species_tree=run / "SpeciesTree_rooted_node_labels.txt", **kw)
         res.append((tool, variant, pred, run / "of_core.tar.gz", man))
+    elif tool == "user":   # any external method, registered by scripts/score_method.py
+        fmt, f = man["format"], run / man["file"]
+        name = man.get("name", "user")
+        if fmt == "orthoxml":
+            extra = {"id_attr": man.get("id_attr", "protId")}
+            if man.get("species_tree"):
+                extra["tool_species_tree"] = run / man["species_tree"]
+            for dp in placements:
+                res.append((name, f"{variant}_{dp}", read_prediction("orthoxml", f, st, dup_placement=dp, **extra, **kw),
+                            f, man))
+        elif fmt == "orthofinder":
+            sp = run / man["species_tree"] if man.get("species_tree") else None
+            res.append((name, variant, read_prediction("orthofinder", f, st, of_species_tree=sp, **kw), f, man))
+        elif fmt == "tsv":
+            res.append((name, variant, read_prediction("tsv", f, st, flat=bool(man.get("flat")), **kw), f, man))
+        else:
+            raise SystemExit(f"unknown user format {fmt!r} in {run}")
     else:
         raise SystemExit(f"unknown tool {tool} in {run}")
     return res
@@ -399,7 +416,7 @@ def main():
         mean_, lo, hi, n_ = d[m]
         return "NA" if mean_ is None else f"{mean_:.3f}"
     md = [f"# Panel {P} / {mode}: evaluation summary", "",
-          f"hobench git {prov['hobench_git']['commit'][:10]} (dirty={prov['hobench_git']['dirty']}); {len(fams)} families "
+          f"hobench git {(prov['hobench_git'].get('commit') or 'n/a (not a git checkout)')[:10]} (dirty={prov['hobench_git']['dirty']}); {len(fams)} families "
           f"(+{len(excluded)} excluded: members absent from subset) ({sum(t == 'control' for t in tk.values())} control-track, {prov['n_non_headline']} non-headline); "
           f"families tree hash {prov['families_tree_hash'][:12]}.",
           "Descriptive only (mean over items; a collection is one item; no CIs). Headline = tracks family+collection, "

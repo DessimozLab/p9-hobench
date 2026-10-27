@@ -1,0 +1,13 @@
+# Minimal environment for scoring (hobench, scripts/score_method.py, scripts/evaluate_panel.py, tests)
+name: hobench
+channels: [conda-forge]
+dependencies:
+  - python=3.11
+  - numpy=1.26.4
+  - pandas=3.0.6
+  - scipy=1.17.1
+  - lxml=6.1.3
+  - pyyaml=6.0.3
+  - pytest=9.1.1
+  - matplotlib=3.11.2
+  - requests=2.34.2

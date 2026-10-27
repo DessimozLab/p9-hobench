@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "HOBench: a literature-based benchmark for hierarchical orthology inference (agent-run research prototype)"
+message: "If you use HOBench, cite the manuscript in manuscript/ and the publications behind each reference family."
+type: software
+authors:
+  - name: "HOBench contributors"
+license: MIT

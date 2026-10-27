@@ -1,0 +1,8 @@
+data/
+panels/*/proteomes/
+panels/*/subset/*.fa
+results_user/
+__pycache__/
+*.pyc
+.pytest_cache/
+literature/papers/*/raw/

@@ -32,3 +32,5 @@ literature/raw/B1/hgnc/
 literature/raw/B1/ohnologs/
 panels/*/subset/diamond_hits.tsv.gz
 literature/raw/P_shared/
+publication/hobench/
+publication/manuscript/plos_template*
