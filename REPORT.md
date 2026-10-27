@@ -1,6 +1,6 @@
 # HOBench — a literature-based benchmark for hierarchical orthology inference
 
-**Status:** final report draft v1 (2026-10-27, T+13h). Robustness section completed at T+~18h (see §6.5).
+**Status:** final report (2026-10-27, T+19h).
 Every number below is produced by a committed script into `results/`; file pointers are given in brackets.
 Process record: `RESEARCH_TREE.md` (decisions D0–D10), `LESSONS.md`, `reviews/` (2 review rounds), `results/ERRATA.md`.
 
@@ -30,10 +30,14 @@ histories asserted in the literature, rather than against flat orthogroups or pa
   correctly, versus 87–91% on 1,189 true ortholog pairs. (iii) Whole-genome duplications are hard for both tools in
   opposite ways: OrthoFinder fails to keep ohnolog copies apart, FastOMA fails to keep each copy's orthologs together.
   (iv) FastOMA over-splits vertebrate homeologs/3R paralogs (Hox 2R/3R events: 8–9% recovered vs 77–82% for OrthoFinder)
-  and over-merges ancient (LECA) paralogs on the eukaryote panel. (v) Harder families show lower tool agreement.
+  and over-merges ancient (LECA) paralogs on the eukaryote panel. (v) Annotation fragmentation is the dominant robustness
+  threat (FastOMA merge accuracy −0.114 vs OrthoFinder −0.050 when both fragments must be placed correctly); contamination,
+  a species-tree change at a contested node, and outgroup removal change primary endpoints by ≤0.005. (vi) OrthoFinder's
+  DendroBLAST mode scores best on merge accuracy (0.886) and event recovery (0.617) among three methods. (vii) Harder
+  families tend to show lower tool agreement (ρ = −0.41, n = 12, not significant).
 - **Main caveats.** Small number of independent families per panel (descriptive per panel; one pooled confirmatory test);
   three large panels scored in a validated subset mode; FastOMA's OMAmer database derives from OMA HOGs (possible
-  circularity in its favour on OMA species); about 7 h were lost to account usage limits, which forced scope cuts.
+  circularity in its favour on OMA species); about 11 h were lost to three account usage-limit outages, forcing scope cuts.
 
 ## 1. Approach
 
@@ -156,8 +160,12 @@ post-hoc S/D-balanced variant are reported for this reason.
 ### 5.4 Error anatomy and difficulty [`results/analysis/error_anatomy.md`, `difficulty.md`]
 - P02 bHLH: FastOMA precision 0.95 but recall ≈ 0.01 — the 435 members are scattered over 186 groups (median 1 member).
 - V: FastOMA errors are over-splitting (over-merging ≤ 1.7% at every level); zebrafish 3R nodes 91% over-split.
-- Difficulty (1 − mean skill) vs tool agreement (AMI): Spearman ρ = −0.50 (n = 12; ρ = −0.58, n = 20 before E5).
-  Hardest headline families: P02 bHLH, E02 ARF, E01 kinesins (short/promiscuous domains, deep paralogy).
+- Difficulty (1 − mean skill over defined endpoints, 3 methods) vs 3-way agreement (mean pairwise AMI): Spearman
+  ρ = −0.41 (p = 0.19, n = 12 headline items; an earlier ρ = −0.58 used n = 20 including non-headline families) — a
+  non-significant trend. Hardest headline families: P02 bHLH, E02 ARF, E01 kinesins (short/promiscuous domains, deep
+  paralogy).
+- Third method (OrthoFinder `-M dendroblast`, pooled over E, P, V, Y): merge accuracy 0.886 vs 0.846 (OF default) vs
+  0.712 (FastOMA), n = 13; event recovery 0.617 vs 0.479 vs 0.194, n = 11 [`results/analysis/main_table.md`].
 
 ### 5.5 Subset-mode validation (pre-registered equivalence, TOST ±0.05) [`results/equivalence.md`]
 On Y (subset = 54% of proteome) and K (6%), subset − full deltas lie within ±0.05 (90% paired CI) for all primary
@@ -165,8 +173,19 @@ endpoints and tools (e.g. Y OrthoFinder level F1 −0.0003 [−0.0008, +0.0002],
 (n = 1 event; flat baseline flips) which is inconclusive. Pair merge-level identity subset vs full: 0.97–0.996.
 E/P/V results are therefore reported in subset mode, with the caveat that equivalence was shown on the smaller panels.
 
-### 5.6 Robustness (Y, full mode) [`results/robustness/`]
-PENDING — filled at T+~18h.
+### 5.6 Robustness (Y, full mode; 1,977 units; seed 1) [`results/analysis/robustness.md`, `results/robustness/`]
+Noise floor: an OrthoFinder replicate is bit-identical to the original run (0 differences over 4,156 unit-metrics), so
+nonzero deltas are attributable to the perturbation (FastOMA was not replicated).
+| Perturbation | OrthoFinder Δ merge acc. | FastOMA Δ merge acc. | Comment |
+|---|---|---|---|
+| Fragmentation of 10% of members (2,615 genes → 2 pieces), credit "both fragments" | −0.050 [−0.057, −0.044] | −0.114 [−0.122, −0.106] | affected genes lose ~25–28% correctness |
+| Fragmentation, credit "either fragment" (pre-registered primary rule) | −0.003 [−0.008, +0.002] | −0.024 | FastOMA's *unaffected* genes also degrade (−0.015) |
+| Contamination (20 human proteins into *K. lactis*) | +0.000 | −0.000 | only 8–13 units touched |
+| Alternative species tree (1 contested node) | −0.001 | −0.004 | level F1 −0.003 both |
+| Taxon removal (ZT clade: 2 pre-WGD species) | +0.001 | −0.003 | — |
+Interpretation: within this design, annotation fragmentation is the main robustness threat and FastOMA is more sensitive
+to it; the other perturbations were too mild (one seed, one node, one clade, 20 contaminants) to stress either tool —
+stronger perturbations are a follow-up.
 
 ## 6. Limitations
 1. **Few independent families per panel** (2–5 headline items): per-panel numbers are descriptive; only the pooled
@@ -180,8 +199,10 @@ PENDING — filled at T+~18h.
 5. **Interval hedges:** the yeast WGD upper bound (allopolyploid model) makes most YGOB events untestable (202/1,592
    testable); V01 globins failed blind verification because of interval widening.
 6. **Subset mode** for E/V/P is validated only on Y/K; V subset hit the 70k cap (V07 sampled to 300 units in subset).
-7. **Single runs, two tools** (+ variants); no OMA standalone, no simulation-based comparison.
-8. **Process:** two account-limit outages (~7 h) forced cuts (salmonid 4R, chemokines, KRAB-ZNF, SwissTree, MADS, PolB).
+7. **Two tools** (+ OrthoFinder DendroBLAST and flat variants); single runs (OrthoFinder shown deterministic; FastOMA
+   not replicated); robustness only on Y with mild perturbations; no OMA standalone, no simulation-based comparison.
+8. **Process:** three account-limit outages (~11 h in total) forced cuts (salmonid 4R, chemokines, KRAB-ZNF, SwissTree
+   extension — partially started, unused — MADS, PolB, kinome).
 
 ## 7. Follow-ups and remaining ideas
 - Add SwissTree reconciled trees and salmonid AORe/LORe (Robertson 2017; requires a non-empty *Coregonus* proteome).
