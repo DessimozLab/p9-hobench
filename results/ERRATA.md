@@ -67,3 +67,10 @@ E4 implementation (scripts/evaluate_panel.py, evaluation layer): per-event `even
 `event_recovery_*` now over internal-branch testable events; `in_paralog_recovery_0.5` (leaf events) is a secondary column.
 Y/K full re-run: all four primary endpoint means identical to before in every scope/method (0 differences); no leaf events in Y/K.
 Subset mode (`--mode subset`): only families whose members are all in panels/<P>/subset/members.tsv are scored; excluded ids in results/<P>_subset/excluded_families.txt.
+
+## E5 (PI decision, 2026-10-27 ~01:00 UTC; found by the analysis agent in P02 error anatomy)
+Membership F1 built RefOGs from the family-level reference partition; when the reference root is **U** (unresolved) the
+whole family became one RefOG, i.e. the metric demanded an assertion the reference does not make (DESIGN §2: only
+asserted relations are scored). Rule: under a U root, each child subtree is its own RefOG (as under a D root); under a
+U node below the root likewise if the U node is at the family level. Before/after values for all panels recorded below
+by the re-run. This changes scores for every method equally in definition; it was triggered by a FastOMA case (P02).
