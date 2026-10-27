@@ -56,3 +56,10 @@ Membership F1: Y now NA (was 0.83/0.92); K headline n=1 (K04 decoys): OF-default
 K: K01 RPROT, K02 moved to control track; no K headline item has asserted pairs, so K level/merge/event headline = NA.
 Confirmatory (results/confirmatory.tsv, Y+K pooled, OF-default minus FastOMA-declared, Holm over 4): level n=2 p=0.50; merge n=2 p=1;
 event n=2 p=1; membership n=10 p=0.45; all Holm p=1.0. n is far below what a sign-flip test can resolve (min p with n=2 is 0.5).
+
+## E4 (PI decision, 2026-10-27 ~00:05 UTC, before any E/P/V scoring was seen)
+Controls gate (scripts/controls_gate.py, design/MUTATION_REPORT.md) showed one-big-HOG "recovers" duplications placed on a
+species leaf with single-gene copies (E02 3/5, V03 34/61): those events only test in-paralog grouping, which lumping
+satisfies correctly. Rule: headline event recovery is computed over **internal-branch** testable events only; leaf-level
+events are reported separately as "in-paralog recovery" (secondary). Y/K values unaffected (no leaf events) — to be
+confirmed in the re-run.
