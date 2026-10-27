@@ -83,7 +83,7 @@ Y	full	positive_control	reference	8	1.0000	1	1	1048	Naumovozyma
 Y	full	random_relabel	mean10	0	0.6704	1	1	16	Ascomycota
 Y	full	random_relabel	mean10	1	0.6405	1	1	15	Saccharomycotina
 Y	full	random_relabel	mean10	2	0.6047	1	1	14	CUG_Saccharomycetaceae
-Y	full	random_relabel	mean10	3	0.4760	2	2	21600	Saccharomycetaceae
+Y	full	random_relabel	mean10	3	0.4759	2	2	21600	Saccharomycetaceae
 Y	full	random_relabel	mean10	4	0.6494	2	4	13484	KLE_clade,ZT_PostWGD
 Y	full	random_relabel	mean10	5	0.7395	2	6	14391	Kluyveromyces_Eremothecium,PostWGD,ZT_clade
 Y	full	random_relabel	mean10	6	0.8490	2	6	8665	Eremothecium,PostWGD_crown,Vanderwaltozyma_Tetrapisispora
@@ -166,16 +166,16 @@ E	subset	positive_control	reference	11	1.0000	5	5	444	Myriazoa
 E	subset	positive_control	reference	12	1.0000	5	5	393	ParaHoxozoa
 E	subset	positive_control	reference	13	1.0000	5	5	310	Planulozoa
 E	subset	positive_control	reference	14	1.0000	5	5	202	Bilateria
-E	subset	random_relabel	mean10	4	0.5372	5	5	1135	Eukaryota
-E	subset	random_relabel	mean10	5	0.7476	5	10	1132	Amorphea,Diphoda
-E	subset	random_relabel	mean10	6	0.8520	5	19	1124	Amoebozoa,Diaphoretickes,Discoba_Metamonada,Obazoa
-E	subset	random_relabel	mean10	7	0.8564	5	20	1046	Archaeplastida,Discoba,Opisthokonta,Stramenopiles_Alveolata
-E	subset	random_relabel	mean10	8	0.8986	5	25	894	Alveolata,Fungi,Holozoa,Stramenopiles,Viridiplantae
-E	subset	random_relabel	mean10	9	0.7891	5	10	593	Choanozoa,Chytridiomycota_Dikarya
-E	subset	random_relabel	mean10	10	0.8369	5	10	499	Ascomycota,Metazoa
-E	subset	random_relabel	mean10	11	0.7319	5	5	444	Myriazoa
-E	subset	random_relabel	mean10	12	0.7570	5	5	393	ParaHoxozoa
-E	subset	random_relabel	mean10	13	0.8039	5	5	310	Planulozoa
+E	subset	random_relabel	mean10	4	0.6869	5	5	1135	Eukaryota
+E	subset	random_relabel	mean10	5	0.7558	5	10	1132	Amorphea,Diphoda
+E	subset	random_relabel	mean10	6	0.8563	5	19	1124	Amoebozoa,Diaphoretickes,Discoba_Metamonada,Obazoa
+E	subset	random_relabel	mean10	7	0.8616	5	20	1046	Archaeplastida,Discoba,Opisthokonta,Stramenopiles_Alveolata
+E	subset	random_relabel	mean10	8	0.9022	5	25	894	Alveolata,Fungi,Holozoa,Stramenopiles,Viridiplantae
+E	subset	random_relabel	mean10	9	0.7922	5	10	593	Choanozoa,Chytridiomycota_Dikarya
+E	subset	random_relabel	mean10	10	0.8377	5	10	499	Ascomycota,Metazoa
+E	subset	random_relabel	mean10	11	0.7336	5	5	444	Myriazoa
+E	subset	random_relabel	mean10	12	0.7584	5	5	393	ParaHoxozoa
+E	subset	random_relabel	mean10	13	0.8045	5	5	310	Planulozoa
 E	subset	random_relabel	mean10	14	0.9139	5	5	202	Bilateria
 P	subset	all_singletons		2	0.6551	3	3	447	Embryophyta
 P	subset	all_singletons		3	0.9362	3	5	580	Setaphyta,Tracheophyta
@@ -226,10 +226,82 @@ P	subset	positive_control	reference	5	1.0000	3	3	462	Mesangiospermae
 P	subset	positive_control	reference	6	1.0000	3	6	462	Poaceae,Rosids
 P	subset	positive_control	reference	7	1.0000	3	3	209	Eurosids
 P	subset	positive_control	reference	8	1.0000	3	4	209	Brassicaceae,Phaseoleae
-P	subset	random_relabel	mean10	2	0.5305	3	3	447	Embryophyta
-P	subset	random_relabel	mean10	3	0.8727	3	5	580	Setaphyta,Tracheophyta
+P	subset	random_relabel	mean10	2	0.5987	3	3	447	Embryophyta
+P	subset	random_relabel	mean10	3	0.8801	3	5	580	Setaphyta,Tracheophyta
 P	subset	random_relabel	mean10	4	0.9541	3	3	437	Magnoliopsida
 P	subset	random_relabel	mean10	5	0.9571	3	3	462	Mesangiospermae
 P	subset	random_relabel	mean10	6	0.9768	3	6	462	Poaceae,Rosids
 P	subset	random_relabel	mean10	7	1.0000	3	3	209	Eurosids
 P	subset	random_relabel	mean10	8	1.0000	3	4	209	Brassicaceae,Phaseoleae
+V	subset	all_singletons		0	0.1040	1	1	237	Chordata
+V	subset	all_singletons		1	0.1040	1	1	237	Olfactores
+V	subset	all_singletons		2	0.2745	2	2	278	Vertebrata
+V	subset	all_singletons		3	0.2745	2	2	278	Gnathostomata
+V	subset	all_singletons		4	0.2745	2	2	278	Euteleostomi
+V	subset	all_singletons		5	0.5573	2	4	278	Neopterygii,Sarcopterygii
+V	subset	all_singletons		6	0.6961	2	4	268	Teleostei,Tetrapoda
+V	subset	all_singletons		7	0.7175	3	6	1207	Amniota,Euteleosteomorpha,Xenopus
+V	subset	all_singletons		8	0.6667	2	2	84	Euarchontoglires
+V	subset	fastoma	default_declared	0	0.5619	1	1	237	Chordata
+V	subset	fastoma	default_declared	1	0.5641	1	1	237	Olfactores
+V	subset	fastoma	default_declared	2	0.8269	2	2	278	Vertebrata
+V	subset	fastoma	default_declared	3	0.8651	2	2	278	Gnathostomata
+V	subset	fastoma	default_declared	4	0.9213	2	2	278	Euteleostomi
+V	subset	fastoma	default_declared	5	0.9313	2	4	278	Neopterygii,Sarcopterygii
+V	subset	fastoma	default_declared	6	0.9740	2	4	268	Teleostei,Tetrapoda
+V	subset	fastoma	default_declared	7	0.9517	3	6	1207	Amniota,Euteleosteomorpha,Xenopus
+V	subset	fastoma	default_declared	8	1.0000	2	2	84	Euarchontoglires
+V	subset	fastoma	default_late	0	0.5619	1	1	237	Chordata
+V	subset	fastoma	default_late	1	0.5641	1	1	237	Olfactores
+V	subset	fastoma	default_late	2	0.8269	2	2	278	Vertebrata
+V	subset	fastoma	default_late	3	0.8651	2	2	278	Gnathostomata
+V	subset	fastoma	default_late	4	0.9213	2	2	278	Euteleostomi
+V	subset	fastoma	default_late	5	0.9344	2	4	278	Neopterygii,Sarcopterygii
+V	subset	fastoma	default_late	6	0.9754	2	4	268	Teleostei,Tetrapoda
+V	subset	fastoma	default_late	7	0.9517	3	6	1207	Amniota,Euteleosteomorpha,Xenopus
+V	subset	fastoma	default_late	8	1.0000	2	2	84	Euarchontoglires
+V	subset	of_flat	default	0	0.9838	1	1	237	Chordata
+V	subset	of_flat	default	1	0.9838	1	1	237	Olfactores
+V	subset	of_flat	default	2	0.7664	2	2	278	Vertebrata
+V	subset	of_flat	default	3	0.4083	2	2	278	Gnathostomata
+V	subset	of_flat	default	4	0.4083	2	2	278	Euteleostomi
+V	subset	of_flat	default	5	0.4040	2	4	278	Neopterygii,Sarcopterygii
+V	subset	of_flat	default	6	0.3658	2	4	268	Teleostei,Tetrapoda
+V	subset	of_flat	default	7	0.5582	3	6	1207	Amniota,Euteleosteomorpha,Xenopus
+V	subset	of_flat	default	8	0.4853	2	2	84	Euarchontoglires
+V	subset	one_big_hog		0	0.1832	1	1	237	Chordata
+V	subset	one_big_hog		1	0.1832	1	1	237	Olfactores
+V	subset	one_big_hog		2	0.3264	2	2	278	Vertebrata
+V	subset	one_big_hog		3	0.1903	2	2	278	Gnathostomata
+V	subset	one_big_hog		4	0.1903	2	2	278	Euteleostomi
+V	subset	one_big_hog		5	0.1728	2	4	278	Neopterygii,Sarcopterygii
+V	subset	one_big_hog		6	0.1583	2	4	268	Teleostei,Tetrapoda
+V	subset	one_big_hog		7	0.3703	3	6	1207	Amniota,Euteleosteomorpha,Xenopus
+V	subset	one_big_hog		8	0.2750	2	2	84	Euarchontoglires
+V	subset	orthofinder	default	0	0.9838	1	1	237	Chordata
+V	subset	orthofinder	default	1	0.9838	1	1	237	Olfactores
+V	subset	orthofinder	default	2	0.9813	2	2	278	Vertebrata
+V	subset	orthofinder	default	3	0.9649	2	2	278	Gnathostomata
+V	subset	orthofinder	default	4	0.9705	2	2	278	Euteleostomi
+V	subset	orthofinder	default	5	0.9800	2	4	278	Neopterygii,Sarcopterygii
+V	subset	orthofinder	default	6	0.9731	2	4	268	Teleostei,Tetrapoda
+V	subset	orthofinder	default	7	0.9951	3	6	1207	Amniota,Euteleosteomorpha,Xenopus
+V	subset	orthofinder	default	8	1.0000	2	2	84	Euarchontoglires
+V	subset	positive_control	reference	0	1.0000	1	1	237	Chordata
+V	subset	positive_control	reference	1	1.0000	1	1	237	Olfactores
+V	subset	positive_control	reference	2	1.0000	2	2	278	Vertebrata
+V	subset	positive_control	reference	3	1.0000	2	2	278	Gnathostomata
+V	subset	positive_control	reference	4	1.0000	2	2	278	Euteleostomi
+V	subset	positive_control	reference	5	1.0000	2	4	278	Neopterygii,Sarcopterygii
+V	subset	positive_control	reference	6	1.0000	2	4	268	Teleostei,Tetrapoda
+V	subset	positive_control	reference	7	1.0000	3	6	1207	Amniota,Euteleosteomorpha,Xenopus
+V	subset	positive_control	reference	8	1.0000	2	2	84	Euarchontoglires
+V	subset	random_relabel	mean10	0	0.1491	1	1	237	Chordata
+V	subset	random_relabel	mean10	1	0.1491	1	1	237	Olfactores
+V	subset	random_relabel	mean10	2	0.2914	2	2	278	Vertebrata
+V	subset	random_relabel	mean10	3	0.2752	2	2	278	Gnathostomata
+V	subset	random_relabel	mean10	4	0.2752	2	2	278	Euteleostomi
+V	subset	random_relabel	mean10	5	0.5412	2	4	278	Neopterygii,Sarcopterygii
+V	subset	random_relabel	mean10	6	0.6815	2	4	268	Teleostei,Tetrapoda
+V	subset	random_relabel	mean10	7	0.7036	3	6	1207	Amniota,Euteleosteomorpha,Xenopus
+V	subset	random_relabel	mean10	8	0.6302	2	2	84	Euarchontoglires

@@ -87,35 +87,72 @@ def main():
     for _, r in T2[T2.method.isin(["orthofinder", "orthofinder/default", "fastoma/default_declared"])].iterrows():
         L.append(f"| {r.panel} | {r.event_tags} | {r.method} | {r.n_events} ({r.n_units}) | {fmt(r['recovery_0.5'])} | "
                  f"{fmt(r['recovery_0.8'])} | {fmt(r.separation)} | {fmt(r.cohesion_min)} |")
+    rows_leaf, rows_lvl = [], []
+    for P, mode in av:
+        ev = read_tsv(P, mode, "events")
+        ev["variant"] = ev["variant"].fillna(""); ev["tags"] = ev["tags"].fillna("")
+        ev = ev[ev.testable == 1]
+        for (m, v) in TOOLS + [("of_flat", "default"), ("one_big_hog", "")]:
+            s_ = ev[(ev.method == m) & (ev.variant == v)]
+            for (br, t), g in s_.groupby([s_.event_branch, s_.tags.replace("", "(untagged)")]):
+                rows_leaf.append({"panel": P, "branch": br, "event_tags": t, "method": mlabel(m, v), "n_events": len(g),
+                                  "n_units": g.family.nunique(), "recovery_0.5": g["recovered_0.5"].mean(),
+                                  "separation": g["separation"].mean(), "cohesion_min": g["cohesion_min"].mean()})
+            if P == "V":
+                h = s_[(s_.family == "V03_Hox") & (s_.event_branch == "internal")]
+                for (lv, t), g in h.groupby(["level", "tags"]):
+                    rows_lvl.append({"method": mlabel(m, v), "level": lv, "tags": t, "n_events": len(g),
+                                     "recovery_0.5": g["recovered_0.5"].mean(), "recovery_0.8": g["recovered_0.8"].mean(),
+                                     "separation": g.separation.mean(), "cohesion_min": g.cohesion_min.mean(),
+                                     "modal_pred_merge": ",".join(f"{k}:{c}" for k, c in g.modal_pred_merge.value_counts().head(2).items())})
+    TL = pd.DataFrame(rows_leaf); TL.to_csv(OUT / "phenomena_event_tags_all.tsv", sep="\t", index=False, float_format="%.4f")
+    L += ["", "### 2b. Per event tag, all panels pooled (testable events; internal = headline event recovery, leaf = in-paralog recovery, secondary)", "",
+          "| branch | event tags | method | n events (units) | panels | recovery 0.5 | separation | min cohesion |", "|---|---|---|---|---|---|---|---|"]
+    for (br, t, m), g in TL.groupby(["branch", "event_tags", "method"]):
+        if m not in ("orthofinder/default", "fastoma/default_declared", "one_big_hog"):
+            continue
+        w = g.n_events
+        L.append(f"| {br} | {t} | {m} | {w.sum()} ({g.n_units.sum()}) | {''.join(sorted(g.panel))} | {fmt((g['recovery_0.5'] * w).sum() / w.sum())} | "
+                 f"{fmt((g.separation * w).sum() / w.sum())} | {fmt((g.cohesion_min * w).sum() / w.sum())} |")
+    if rows_lvl:
+        TV = pd.DataFrame(rows_lvl); TV.to_csv(OUT / "phenomena_V03_hox_events.tsv", sep="\t", index=False, float_format="%.4f")
+        L += ["", "### 2c. V03 Hox internal events by level (Gnathostomata WGD = vertebrate 2R; Teleostei WGD = teleost 3R)", "",
+              "| method | level | tags | n events | recovery 0.5 | recovery 0.8 | separation | min cohesion | modal predicted merge of cross-copy pairs |",
+              "|---|---|---|---|---|---|---|---|---|"]
+        for _, r in TV.iterrows():
+            L.append(f"| {r.method} | {r.level} | {r.tags} | {r.n_events} | {fmt(r['recovery_0.5'])} | {fmt(r['recovery_0.8'])} | "
+                     f"{fmt(r.separation)} | {fmt(r.cohesion_min)} | {r.modal_pred_merge} |")
     L += ["", "separation = fraction of cross-copy pairs apart at the event level; cohesion_min = min over copies of the "
           "fraction of reference-together pairs kept together (events.tsv definitions).", ""]
     # ---- 3 + 4 pair-level contrasts
     L += ["## 3. Within-family contrast: D nodes tagged WGD/ALLO vs S nodes (node-balanced merge accuracy)", "",
           "Per cluster (family, or unit of a collection) having both node types: mean acc(D[WGD|ALLO]) - mean acc(S). "
           "CI = cluster bootstrap 95%.", "",
-          "| panel | method | n clusters | acc D[WGD/ALLO] | acc S | mean diff D-S | 95% CI |", "|---|---|---|---|---|---|---|"]
+          "| panel | clusters | D tag | method | n clusters | acc D[tag] | acc S | mean diff D-S | 95% CI |", "|---|---|---|---|---|---|---|---|---|"]
     trap_rows, c_rows = [], []
     for P, mode in av:
         f = OUT / "cache" / f"nodes_{P}_{mode}.tsv.gz"
         if not f.exists():
-            L.append(f"| {P} | (node extraction missing) | | | | | |"); continue
+            L.append(f"| {P} | (node extraction missing) | | | | | | | |"); continue
         nd = pd.read_csv(f, sep="\t", keep_default_na=False, dtype={"variant": str})
         nd["acc"] = nd.n_correct / nd.n_pairs
-        nd["wgd"] = (nd.ev == "D") & nd.tags.str.contains("WGD|ALLO")
         for m, v in TOOLS:
             s = nd[(nd.method == m) & (nd.variant == v)]
             if s.empty:
                 continue
-            a = s[s.wgd].groupby("family").acc.mean(); b = s[s.ev == "S"].groupby("family").acc.mean()
-            j = pd.concat([a.rename("d"), b.rename("s")], axis=1, join="inner")
-            if j.empty:
-                L.append(f"| {P} | {mlabel(m, v)} | 0 | | | | |"); continue
-            diff = (j.d - j.s).to_numpy()
-            ci = boot(diff, np.mean, SEEDS[1])
-            c_rows.append({"panel": P, "method": mlabel(m, v), "n_clusters": len(j), "acc_D": j.d.mean(), "acc_S": j.s.mean(),
-                           "diff": diff.mean(), "ci_lo": ci[0], "ci_hi": ci[1]})
-            L.append(f"| {P} | {mlabel(m, v)} | {len(j)} | {fmt(j.d.mean())} | {fmt(j.s.mean())} | {fmt(diff.mean())} | "
-                     + (f"[{fmt(ci[0])}, {fmt(ci[1])}]" if ci[0] is not None else "n<5") + " |")
+            for grp, gs in s.groupby(np.where(s.collection.isin(list(cn)), "units:" + s.collection, "families")):
+                for dtag in ("WGD", "ALLO"):
+                    a = gs[(gs.ev == "D") & gs.tags.str.contains(dtag)].groupby("family").acc.mean()
+                    b = gs[gs.ev == "S"].groupby("family").acc.mean()
+                    j = pd.concat([a.rename("d"), b.rename("s")], axis=1, join="inner")
+                    if j.empty:
+                        continue
+                    diff = (j.d - j.s).to_numpy()
+                    ci = boot(diff, np.mean, SEEDS[1])
+                    c_rows.append({"panel": P, "group": grp, "D_tag": dtag, "method": mlabel(m, v), "n_clusters": len(j),
+                                   "acc_D": j.d.mean(), "acc_S": j.s.mean(), "diff": diff.mean(), "ci_lo": ci[0], "ci_hi": ci[1]})
+                    L.append(f"| {P} | {grp} | {dtag} | {mlabel(m, v)} | {len(j)} | {fmt(j.d.mean())} | {fmt(j.s.mean())} | "
+                             f"{fmt(diff.mean())} | " + (f"[{fmt(ci[0])}, {fmt(ci[1])}]" if ci[0] is not None else "n<5") + " |")
         if P == "Y":
             st = SpeciesTree.from_newick(str(ROOT / "panels/Y/species_tree.nwk"))
             wgd = st.names.index("PostWGD") if isinstance(st.names, list) else list(st.names).index("PostWGD")
