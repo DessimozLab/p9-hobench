@@ -5,6 +5,17 @@ Start: see START.txt (2026-10-26T13:17:42Z). Budget 24 h → hard stop 2026-10-2
 
 ## Status summary (latest milestone first)
 
+### M5 — First cross-panel results (T+11h45, 01:00 UTC)
+Scored Y/K full, E/P/K subsets. Pooled headline (OF default vs FastOMA declared, n=9–14 items): B-cubed level F1
+0.974 vs 0.936; node merge accuracy 0.812 vs 0.714; internal-event recovery 0.384 vs 0.192; membership F1 0.862 vs
+0.765 — no Holm-significant difference yet (pooled n too small). [!] YGOB hidden-paralogy trap: of 49 pseudo-ortholog
+pairs (reciprocal ohnolog loss), OF classifies 4% and FastOMA 12% correctly (both ≈0.87–0.91 on 1,189 true ortholog
+pairs); WGD D-nodes score far below S-nodes within the same unit (OF −0.68, FastOMA −0.21). [!] Panel E: FastOMA
+over-merges duplication pairs at Eukaryota (24% of D-pairs vs OF 0.1%) and over-splits speciation pairs. Harder
+families show lower tool agreement (Spearman −0.58, n=20). Metric defects found by controls/analysis and fixed with
+before/after logged: E1 untestable events, E2 flat projection, E4 leaf events, E5 U-root membership.
+Pending: V and Y subset runs, equivalence test, Y robustness, final confirmatory test, REPORT.
+
 ### M4 — References frozen (T+10h35, 23:52 UTC)
 Frozen: 26 curated families/collections across 5 panels (headline: Y01 YGOB [1,976 units], Y03 URA1-HGT, K02, K04a–j
 decoys, K01 r-proteins [control], E01 kinesins, E02 ARF, E03 Rab, E04 tubulins, E05 MCM [control], E07c, V02 opsins,
