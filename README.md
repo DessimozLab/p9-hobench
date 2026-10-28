@@ -1,3 +1,11 @@
+(Human-written text starts) This is an exercise in assessing the bioinformatics capabilities of agentic AI. It is part of a hackathon run by the Beltrao lab at ETH Zurich, where we used Claude to run bioinformatics projects [LINK TO BE ADDED LATER]. All results in this project were generated entirely by AI with minimal human intervention. This is not intended to be viewed as a traditional publication and bioinformatics tool.
+
+The goal of this specific project was to create a set of species, gene families, and accuracy metrics for benchmarking hierarchical orthology. It was executed by Claude Opus 5.5 with delegation to Opus 5.5/Sonnet 5.5 subagents, and finished within 24 hours on a cluster.
+
+Currently none of the results have been verified by a human. We plan to verify the agent's methodology and data curation, and will update this section accordingly.
+
+The rest of this repository is entirely AI generated. It includes code for data retrieval and curation, and a AI-written report in the style of a journal article, detailing the final method. (Human-written text ends)
+
 # HOBench
 
 HOBench scores hierarchical orthologous group (HOG) inference (OrthoFinder, FastOMA, anything that writes OrthoXML)
