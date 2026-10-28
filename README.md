@@ -4,7 +4,7 @@ The goal of this specific project was to create a set of species, gene families,
 
 Currently none of the results have been verified by a human. We plan to verify the agent's methodology and data curation, and will update this section accordingly.
 
-The rest of this repository is entirely AI generated. It includes code for data retrieval and curation, and a AI-written report in the style of a journal article, detailing the final method. (Human-written text ends)
+The rest of this repository is entirely AI generated. It includes code for data retrieval and curation, and a [AI-written report](https://github.com/DessimozLab/hobench/blob/master/publication/manuscript/hobench_manuscript.pdf) in the style of a journal article, detailing the final method. (Human-written text ends)
 
 # HOBench
 
